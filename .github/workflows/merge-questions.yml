@@ -1,4 +1,4 @@
-name: Merge PQ Files to PQs_2024.json
+name: "Merge PQ Files to PQs_2024.json"
 
 on:
   workflow_dispatch:
@@ -17,7 +17,7 @@ jobs:
           node-version: '18'
 
       - name: Ensure package.json has type: module
-        run: "echo '{ \"type\": \"module\" }' > package.json"
+        run: echo '{ "type": "module" }' > package.json
 
       - name: Run merge script
         run: node scripts/merge-weeks.js

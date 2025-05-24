@@ -20,15 +20,14 @@ jobs:
             START=$(date -d "2025-01-01 +${week} weeks" +%F)
             END=$(date -d "$START +6 days" +%F)
             FILE="data/questions/week_$(printf "%02d" $week).json"
-
             echo "Fetching week $week: $START to $END"
             curl -s "https://api.oireachtas.ie/v1/questions?date_start=$START&date_end=$END&limit=5000&qtype=oral,written" \
               -o "$FILE"
 
             if jq empty "$FILE"; then
-              echo "✅ Week $week data is valid"
+              echo "✅ Valid JSON for $START to $END"
             else
-              echo "❌ Invalid JSON for week $week, removing file"
+              echo "❌ Invalid JSON, deleting $FILE"
               rm -f "$FILE"
             fi
 
@@ -41,8 +40,12 @@ jobs:
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
           git add data/questions/*.json || echo "No files to add"
+          echo "Files staged for commit:"
+          git diff --cached --name-only
+
           if git diff --cached --quiet; then
-            echo "Nothing to commit"
+            echo "⚠️ Nothing to commit — skipping push"
           else
             git commit -m "Add all weekly PQ JSON files for 2025"
             git push origin HEAD
+          fi

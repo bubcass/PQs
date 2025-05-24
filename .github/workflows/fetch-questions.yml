@@ -16,7 +16,7 @@ jobs:
       - name: Fetch and store questions weekly
         run: |
           mkdir -p data/questions
-          for week in $(seq 0 7); do
+          for week in $(seq 0 51); do
             START=$(date -d "2025-01-01 +${week} weeks" +%F)
             END=$(date -d "$START +6 days" +%F)
             FILE="data/questions/week_$(printf "%02d" $week).json"

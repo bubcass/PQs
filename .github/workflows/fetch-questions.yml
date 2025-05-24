@@ -32,4 +32,4 @@ jobs:
           downloaded_filename: "data/questions/week_${{ matrix.week }}.json"
 
       - name: Wait to avoid rate limit
-        run: sleep 10
+        run: sleep 30

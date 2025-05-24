@@ -19,10 +19,10 @@ jobs:
           touch fetch-log.txt
           echo "🕓 Daily fetch started at $(date -u)" > fetch-log.txt
 
-          for day in $(seq -w 0 60); do
+          for day in $(seq -w 0 100); do
             DATE=$(date -d "2025-01-01 +${day} days" +%F)
             FILE="data/questions/day_${DATE}.json"
-            URL="https://api.oireachtas.ie/v1/questions?date_start=${DATE}&date_end=${DATE}&limit=4000&qtype=oral,written&show_answers=false"
+            URL="https://api.oireachtas.ie/v1/questions?date_start=${DATE}&date_end=${DATE}&limit=5000&qtype=oral,written&show_answers=false"
 
             echo "📅 Day $day: $DATE" | tee -a fetch-log.txt
 
@@ -73,8 +73,12 @@ jobs:
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
           git add data/questions/*.json fetch-log.txt || echo "No files to add"
+          echo "Files staged for commit:"
+          git diff --cached --name-only
+
           if git diff --cached --quiet; then
-            echo "⚠️ Nothing to commit"
+            echo "⚠️ Nothing to commit — skipping push"
           else
             git commit -m "Daily PQ fetch for 365 days"
             git push origin HEAD
+          fi

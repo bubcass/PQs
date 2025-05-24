@@ -19,7 +19,7 @@ jobs:
           touch fetch-log.txt
           echo "🕓 Daily fetch started at $(date -u)" > fetch-log.txt
 
-          for day in $(seq -w 0 364); do
+          for day in $(seq -w 0 30); do
             DATE=$(date -d "2025-01-01 +${day} days" +%F)
             FILE="data/questions/day_${DATE}.json"
             URL="https://api.oireachtas.ie/v1/questions?date_start=${DATE}&date_end=${DATE}&limit=4000&qtype=oral,written&show_answers=false"

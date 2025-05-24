@@ -1,0 +1,44 @@
+name: Test Single Oireachtas Fetch
+
+on:
+  workflow_dispatch:
+
+jobs:
+  test-fetch:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Install jq for validation
+        run: sudo apt-get update && sudo apt-get install -y jq
+
+      - name: Fetch known-good week of questions
+        run: |
+          mkdir -p data/questions
+          curl -s "https://api.oireachtas.ie/v1/questions?date_start=2025-03-01&date_end=2025-03-10&limit=5000&qtype=oral,written" \
+            -o data/questions/test_week.json
+
+      - name: Show downloaded file details
+        run: ls -lh data/questions && head -n 20 data/questions/test_week.json
+
+      - name: Validate JSON structure
+        run: |
+          if jq empty data/questions/test_week.json; then
+            echo "✅ JSON is valid"
+          else
+            echo "❌ Invalid JSON"
+            exit 1
+          fi
+
+      - name: Commit and push test file
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add data/questions/test_week.json || echo "No file to add"
+          if git diff --cached --quiet; then
+            echo "Nothing to commit"
+          else
+            git commit -m "Add test_week.json with known-good request"
+            git push origin HEAD
+          fi

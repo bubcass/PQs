@@ -1,51 +1,94 @@
-name: Fetch All Oireachtas Questions (52 weeks)
+name: Daily PQ Fetch and Merge
 
 on:
   workflow_dispatch:
+  schedule:
+    - cron: '0 4 * * *'
 
 jobs:
-  fetch-sequential:
+  fetch-and-merge:
     runs-on: ubuntu-latest
 
     steps:
       - uses: actions/checkout@v3
 
-      - name: Install jq for validation
+      - name: Install jq
         run: sudo apt-get update && sudo apt-get install -y jq
 
-      - name: Fetch and store questions weekly
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 18
+
+      - name: Fetch all 52 weeks of PQs
         run: |
           mkdir -p data/questions
+          touch fetch-log.txt
+          echo "🕓 Fetch started at $(date -u)" > fetch-log.txt
+
           for week in $(seq 0 51); do
             START=$(date -d "2025-01-01 +${week} weeks" +%F)
             END=$(date -d "$START +6 days" +%F)
             FILE="data/questions/week_$(printf "%02d" $week).json"
-            echo "Fetching week $week: $START to $END"
-            curl -s "https://api.oireachtas.ie/v1/questions?date_start=$START&date_end=$END&limit=5000&qtype=oral,written" \
-              -o "$FILE"
+            URL="https://api.oireachtas.ie/v1/questions?date_start=$START&date_end=$END&limit=5000&qtype=oral,written"
 
-            if jq empty "$FILE"; then
-              echo "✅ Valid JSON for $START to $END"
-            else
-              echo "❌ Invalid JSON, deleting $FILE"
+            echo "📅 Week $week: $START to $END" | tee -a fetch-log.txt
+
+            attempts=0
+            success=false
+
+            while [ $attempts -lt 3 ]; do
+              curl -s -w "%{http_code}" -o "$FILE" "$URL" > curl_status.txt
+              STATUS=$(tail -n1 curl_status.txt)
+
+              if [ "$STATUS" -eq 200 ]; then
+                if jq -e '.message' "$FILE" >/dev/null 2>&1; then
+                  echo "⚠️ API returned error message — retrying..." | tee -a fetch-log.txt
+                elif jq -e '.results' "$FILE" >/dev/null 2>&1; then
+                  COUNT=$(jq '.results | length' "$FILE")
+                  if [ "$COUNT" -eq 0 ]; then
+                    echo "⚠️ Week $week has no results" | tee -a fetch-log.txt
+                  else
+                    echo "✅ Week $week OK — $COUNT results" | tee -a fetch-log.txt
+                  fi
+                  success=true
+                  break
+                else
+                  echo "❌ Malformed JSON — retrying..." | tee -a fetch-log.txt
+                fi
+              else
+                echo "❌ HTTP $STATUS — retrying..." | tee -a fetch-log.txt
+              fi
+
+              attempts=$((attempts + 1))
+              echo "⏳ Waiting 30 seconds (attempt $((attempts + 1)))"
+              sleep 30
+            done
+
+            if [ "$success" = false ]; then
+              echo "🛑 Failed to fetch week $week after 3 attempts" | tee -a fetch-log.txt
               rm -f "$FILE"
             fi
 
-            echo "Sleeping for 60 seconds..."
+            echo "🕒 Sleeping 60s before next..." | tee -a fetch-log.txt
             sleep 60
           done
 
-      - name: Commit weekly files to repo
+          echo "✅ Fetch completed at $(date -u)" >> fetch-log.txt
+
+      - name: Ensure package.json for ES module support
+        run: echo '{ "type": "module" }' > package.json
+
+      - name: Merge weekly files
+        run: node scripts/merge-weeks.js
+
+      - name: Commit updated files
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-          git add data/questions/*.json || echo "No files to add"
-          echo "Files staged for commit:"
-          git diff --cached --name-only
-
+          git add data/questions/*.json data/PQs_2024.json fetch-log.txt || echo "No files to add"
           if git diff --cached --quiet; then
-            echo "⚠️ Nothing to commit — skipping push"
+            echo "⚠️ Nothing to commit"
           else
-            git commit -m "Add all weekly PQ JSON files for 2025"
+            git commit -m "Daily PQ update and merge"
             git push origin HEAD
-          fi

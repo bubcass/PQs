@@ -1,35 +1,38 @@
-name: Fetch Weekly Oireachtas Questions
+name: Sequential Weekly Oireachtas Fetch
 
 on:
   workflow_dispatch:
 
 jobs:
-  fetch-weeks:
+  fetch-sequential:
     runs-on: ubuntu-latest
-    strategy:
-      matrix:
-        week: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9,
-               10, 11, 12, 13, 14, 15, 16, 17, 18, 19,
-               20, 21, 22, 23, 24, 25, 26, 27, 28, 29,
-               30, 31, 32, 33, 34, 35, 36, 37, 38, 39,
-               40, 41, 42, 43, 44, 45, 46, 47, 48, 49,
-               50, 51]
+
     steps:
       - uses: actions/checkout@v3
 
-      - name: Compute date range
-        id: dates
+      - name: Install dependencies
+        run: sudo apt-get update && sudo apt-get install -y jq
+
+      - name: Fetch weekly data sequentially
         run: |
-          START=$(date -d "2025-01-01 +${{ matrix.week }} weeks" +%F)
-          END=$(date -d "$START +6 days" +%F)
-          echo "start=$START" >> $GITHUB_OUTPUT
-          echo "end=$END" >> $GITHUB_OUTPUT
+          mkdir -p data/questions
 
-      - name: Fetch weekly questions with Flat
-        uses: github/flat@v3
-        with:
-          http_url: "https://api.oireachtas.ie/v1/questions?date_start=${{ steps.dates.outputs.start }}&date_end=${{ steps.dates.outputs.end }}&limit=5000&qtype=oral,written"
-          downloaded_filename: "data/questions/week_${{ matrix.week }}.json"
+          for week in $(seq 0 51); do
+            START=$(date -d "2025-01-01 +${week} weeks" +%F)
+            END=$(date -d "$START +6 days" +%F)
+            FILE="data/questions/week_$(printf "%02d" $week).json"
 
-      - name: Wait to avoid rate limit
-        run: sleep 30
+            echo "Fetching week $week: $START to $END"
+
+            curl -s "https://api.oireachtas.ie/v1/questions?date_start=$START&date_end=$END&limit=5000&qtype=oral,written" \
+              -o "$FILE"
+
+            # Simple check for malformed JSON
+            if ! jq empty "$FILE"; then
+              echo "⚠️ Failed to fetch or parse week $week ($START to $END)"
+              rm -f "$FILE"
+            fi
+
+            echo "Sleeping for 60 seconds..."
+            sleep 60
+          done

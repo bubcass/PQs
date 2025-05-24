@@ -1,4 +1,4 @@
-name: Sequential Weekly Oireachtas Fetch
+name: Sequential Oireachtas Fetch (4-week test)
 
 on:
   workflow_dispatch:
@@ -10,29 +10,36 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - name: Install dependencies
+      - name: Install jq for JSON validation
         run: sudo apt-get update && sudo apt-get install -y jq
 
-      - name: Fetch weekly data sequentially
+      - name: Fetch 4 weeks of data sequentially
         run: |
           mkdir -p data/questions
 
-          for week in $(seq 0 51); do
+          for week in $(seq 0 3); do
             START=$(date -d "2025-01-01 +${week} weeks" +%F)
             END=$(date -d "$START +6 days" +%F)
             FILE="data/questions/week_$(printf "%02d" $week).json"
 
             echo "Fetching week $week: $START to $END"
-
             curl -s "https://api.oireachtas.ie/v1/questions?date_start=$START&date_end=$END&limit=5000&qtype=oral,written" \
               -o "$FILE"
 
-            # Simple check for malformed JSON
+            # Validate and clean up if malformed
             if ! jq empty "$FILE"; then
-              echo "⚠️ Failed to fetch or parse week $week ($START to $END)"
+              echo "⚠️ Failed to parse JSON for week $week"
               rm -f "$FILE"
             fi
 
-            echo "Sleeping for 60 seconds..."
+            echo "Waiting 60 seconds before next fetch..."
             sleep 60
           done
+
+      - name: Commit weekly data to repo
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add data/questions/*.json
+          git commit -m "Add 4-week sample PQ JSON files"
+          git push

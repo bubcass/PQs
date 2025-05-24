@@ -8,15 +8,16 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout repository
+        uses: actions/checkout@v3
 
       - name: Set up Node.js
         uses: actions/setup-node@v3
         with:
           node-version: '18'
 
-      - name: Ensure package.json has "type": "module"
-        run: echo '{ "type": "module" }' > package.json
+      - name: Ensure package.json has type: module
+        run: 'echo "{ \"type\": \"module\" }" > package.json'
 
       - name: Run merge script
         run: node scripts/merge-weeks.js
@@ -25,7 +26,7 @@ jobs:
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-          git add data/PQs_2024.json || echo "Nothing to add"
+          git add data/PQs_2024.json || echo "No file to add"
           if git diff --cached --quiet; then
             echo "⚠️ Nothing to commit"
           else

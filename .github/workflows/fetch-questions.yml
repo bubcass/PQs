@@ -22,7 +22,7 @@ jobs:
           touch fetch-log.txt
           echo "🕓 Daily fetch started at $(date -u)" > fetch-log.txt
 
-          for day in $(seq -w 0 100); do
+          for day in $(seq -w 0 364); do
             DATE=$(date -d "2025-01-01 +${day} days" +%F)
             FILE="data/questions/day_${DATE}.json"
             URL="https://api.oireachtas.ie/v1/questions?date_start=${DATE}&date_end=${DATE}&limit=4000&qtype=oral,written&show_answers=false"
@@ -71,20 +71,26 @@ jobs:
 
           echo "✅ Daily fetch completed at $(date -u)" >> fetch-log.txt
 
-      - name: Commit daily files to repo
+      - name: Ensure package.json for ES modules
+        run: echo '{ "type": "module" }' > package.json
+
+      - name: Merge daily files into PQs_2025.json
+        run: node scripts/merge-days.js
+
+      - name: Commit daily and merged files to repo
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
           git stash
           git pull origin main --rebase
           git stash pop || echo "ℹ️ No stash to apply"
-          git add data/questions/*.json fetch-log.txt || echo "No files to add"
+          git add data/questions/*.json data/PQs_2025.json fetch-log.txt || echo "No files to add"
           echo "Files staged for commit:"
           git diff --cached --name-only
 
           if git diff --cached --quiet; then
             echo "⚠️ Nothing to commit — skipping push"
           else
-            git commit -m "Daily PQ fetch for 365 days"
+            git commit -m "Daily PQ fetch and merged PQs_2025.json"
             git push origin HEAD
           fi

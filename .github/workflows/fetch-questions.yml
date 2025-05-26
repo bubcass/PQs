@@ -1,106 +1,76 @@
-name: Self-Healing PQ Fetch (365 days)
+name: Self-Healing PQ Fetch
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 4 * * *'  # Run daily at 4 a.m. GMT
+    - cron: '0 4 * * *'  # Daily at 4 a.m. GMT
 
 jobs:
   fetch-repair:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout full repository
+      - name: Checkout code
         uses: actions/checkout@v3
         with:
           fetch-depth: 0
 
-      - name: Install jq
+      - name: Install tools
         run: sudo apt-get update && sudo apt-get install -y jq
 
-      - name: Ensure package.json for ES modules
-        run: echo "{ \"type\": \"module\" }" > package.json
+      - name: Create ES module config
+        run: echo '{ "type": "module" }' > package.json
 
-      - name: Create fetch-log and questions directory
-        run: mkdir -p data/questions && touch fetch-log.txt
-
-      - name: Fetch only missing daily files
-        shell: bash
+      - name: Fetch missing days
         run: |
           mkdir -p data/questions
           > fetch-log.txt
 
-          TEMPFILE="tmp_day.json"
           START_DATE="2025-01-01"
           END_DATE="2025-12-31"
+          TEMPFILE="tmp_day.json"
 
-          d="$START_DATE"
-          while [[ "$d" < "$END_DATE" || "$d" == "$END_DATE" ]]; do
-            ISO="$d"
-            FILE="data/questions/day_${ISO}.json"
-            URL="https://api.oireachtas.ie/v1/questions?date_start=${ISO}&date_end=${ISO}&limit=5000&qtype=oral,written&show_answers=false"
+          current="$START_DATE"
+          while [ "$(date -d "$current" +%s)" -le "$(date -d "$END_DATE" +%s)" ]; do
+            FILE="data/questions/day_${current}.json"
+            URL="https://api.oireachtas.ie/v1/questions?date_start=${current}&date_end=${current}&limit=5000&qtype=oral,written&show_answers=false"
 
-            if [[ -f "$FILE" ]]; then
-              echo "✅ $ISO already exists — skipping" | tee -a fetch-log.txt
+            if [ -f "$FILE" ]; then
+              echo "✅ $current already exists" | tee -a fetch-log.txt
             else
-              echo "📅 Attempting fetch for $ISO" | tee -a fetch-log.txt
+              echo "📅 Fetching $current..." | tee -a fetch-log.txt
 
-              attempts=0
-              success=false
-
-              while [[ $attempts -lt 5 ]]; do
-                curl -s -w "%{http_code}" -o "$TEMPFILE" "$URL" > curl_status.txt
-                STATUS=$(tail -n1 curl_status.txt)
-
-                if [[ "$STATUS" -eq 200 ]]; then
-                  if jq -e '.message' "$TEMPFILE" >/dev/null 2>&1; then
-                    echo "⚠️ API error message for $ISO — retrying" | tee -a fetch-log.txt
-                  elif jq -e '.results' "$TEMPFILE" >/dev/null 2>&1; then
-                    cp "$TEMPFILE" "$FILE"
-                    COUNT=$(jq '.results | length' "$FILE")
-                    echo "✅ $ISO OK — $COUNT results" | tee -a fetch-log.txt
-                    success=true
-                    break
-                  else
-                    echo "❌ Malformed JSON for $ISO — retrying" | tee -a fetch-log.txt
-                  fi
+              for attempt in {1..5}; do
+                STATUS=$(curl -s -w "%{http_code}" -o "$TEMPFILE" "$URL")
+                if [ "$STATUS" -eq 200 ] && jq -e '.results' "$TEMPFILE" > /dev/null; then
+                  cp "$TEMPFILE" "$FILE"
+                  COUNT=$(jq '.results | length' "$FILE")
+                  echo "✅ $current OK — $COUNT results" | tee -a fetch-log.txt
+                  break
                 else
-                  echo "❌ HTTP $STATUS for $ISO — retrying" | tee -a fetch-log.txt
+                  echo "⏳ Retry $attempt for $current..." | tee -a fetch-log.txt
+                  sleep 10
                 fi
-
-                attempts=$((attempts + 1))
-                echo "⏳ Waiting 10s before retry $((attempts + 1))"
-                sleep 10
               done
-
-              if [[ "$success" == false ]]; then
-                echo "🛑 Failed to fetch $ISO after 5 attempts" | tee -a fetch-log.txt
-              fi
-
-              echo "🕒 Sleeping 10s before next day..." | tee -a fetch-log.txt
-              sleep 10
             fi
 
-            d=$(date -I -d "$d + 1 day")
+            current=$(date -I -d "$current + 1 day")
           done
 
-          rm -f "$TEMPFILE" curl_status.txt
-          echo "✅ Fetch cycle complete at $(date -u)" >> fetch-log.txt
+          rm -f "$TEMPFILE"
 
-      - name: Merge into PQs_2025.json
+      - name: Merge daily files
         run: node scripts/merge-days.js
 
-      - name: Commit updated files to repo
+      - name: Commit changes
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
           git fetch origin
           git reset --hard origin/main
           git add data/questions/*.json data/PQs_2025.json fetch-log.txt || echo "No files to add"
-          echo "Files staged for commit:"
-          git diff --cached --name-only
           if git diff --cached --quiet; then
-            echo "⚠️ Nothing to commit — skipping push"
+            echo "⚠️ Nothing to commit"
           else
-            git commit -m "Self-healing PQ fetch: filled missing days and updated PQs_2025.json"
+            git commit -m "Update PQs_2025.json and fill missing daily files"
             git push origin HEAD

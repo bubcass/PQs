@@ -2,13 +2,18 @@ name: Fetch Daily Oireachtas Questions (365 days)
 
 on:
   workflow_dispatch:
+  schedule:
+    - cron: '0 4 * * *'  # Run daily at 4 a.m. GMT
 
 jobs:
   fetch-daily:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout repository with full history
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
 
       - name: Install jq
         run: sudo apt-get update && sudo apt-get install -y jq
@@ -23,21 +28,23 @@ jobs:
             DATE=$(date -d "2025-01-01 +${day} days" +%F)
             FILE="data/questions/day_${DATE}.json"
             URL="https://api.oireachtas.ie/v1/questions?date_start=${DATE}&date_end=${DATE}&limit=5000&qtype=oral,written&show_answers=false"
+            TEMPFILE="tmp_day.json"
 
             echo "📅 Day $day: $DATE" | tee -a fetch-log.txt
 
             attempts=0
             success=false
 
-            while [ $attempts -lt 3 ]; do
-              curl -s -w "%{http_code}" -o "$FILE" "$URL" > curl_status.txt
+            while [ $attempts -lt 8 ]; do
+              curl -s -w "%{http_code}" -o "$TEMPFILE" "$URL" > curl_status.txt
               STATUS=$(tail -n1 curl_status.txt)
 
               if [ "$STATUS" -eq 200 ]; then
-                if jq -e '.message' "$FILE" >/dev/null 2>&1; then
+                if jq -e '.message' "$TEMPFILE" >/dev/null 2>&1; then
                   echo "⚠️ API error message — retrying..." | tee -a fetch-log.txt
-                elif jq -e '.results' "$FILE" >/dev/null 2>&1; then
-                  COUNT=$(jq '.results | length' "$FILE")
+                elif jq -e '.results' "$TEMPFILE" >/dev/null 2>&1; then
+                  COUNT=$(jq '.results | length' "$TEMPFILE")
+                  cp "$TEMPFILE" "$FILE"
                   if [ "$COUNT" -eq 0 ]; then
                     echo "⚠️ $DATE has no results" | tee -a fetch-log.txt
                   else
@@ -58,27 +65,43 @@ jobs:
             done
 
             if [ "$success" = false ]; then
-              echo "🛑 Failed to fetch $DATE after 3 attempts" | tee -a fetch-log.txt
-              rm -f "$FILE"
+              if [ -f "$FILE" ]; then
+                echo "🛑 Failed to fetch $DATE after 5 attempts — using previously saved file" | tee -a fetch-log.txt
+              else
+                echo "🛑 Failed to fetch $DATE and no previous file exists — data missing" | tee -a fetch-log.txt
+              fi
             fi
 
             echo "🕒 Sleeping 10s before next day..." | tee -a fetch-log.txt
             sleep 10
           done
 
+          rm -f tmp_day.json curl_status.txt
           echo "✅ Daily fetch completed at $(date -u)" >> fetch-log.txt
 
-      - name: Commit daily files to repo
+      - name: Ensure package.json for ES modules
+        run: |
+          echo '{ "type": "module" }' > package.json
+
+      - name: Merge daily files into PQs_2025.json
+        run: node scripts/merge-days.js
+
+      - name: Commit daily and merged files to repo
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-          git add data/questions/*.json fetch-log.txt || echo "No files to add"
+          
+          # Force overwrite local changes with remote main to avoid merge conflicts
+          git fetch origin
+          git reset --hard origin/main
+
+          git add data/questions/*.json data/PQs_2025.json fetch-log.txt || echo "No files to add"
           echo "Files staged for commit:"
           git diff --cached --name-only
 
           if git diff --cached --quiet; then
             echo "⚠️ Nothing to commit — skipping push"
           else
-            git commit -m "Daily PQ fetch for 365 days"
+            git commit -m "Automated daily fetch and regenerated PQs_2025.json"
             git push origin HEAD
           fi

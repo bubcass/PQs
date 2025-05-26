@@ -19,7 +19,7 @@ jobs:
         run: sudo apt-get update && sudo apt-get install -y jq
 
       - name: Ensure package.json for ES modules
-        run: echo '{ "type": "module" }' > package.json
+        run: echo "{ \"type\": \"module\" }" > package.json
 
       - name: Create fetch-log and questions directory
         run: mkdir -p data/questions && touch fetch-log.txt
@@ -81,7 +81,6 @@ jobs:
               sleep 10
             fi
 
-            # Advance to next day
             d=$(date -I -d "$d + 1 day")
           done
 
@@ -95,17 +94,13 @@ jobs:
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-
           git fetch origin
           git reset --hard origin/main
-
           git add data/questions/*.json data/PQs_2025.json fetch-log.txt || echo "No files to add"
           echo "Files staged for commit:"
           git diff --cached --name-only
-
           if git diff --cached --quiet; then
             echo "⚠️ Nothing to commit — skipping push"
           else
             git commit -m "Self-healing PQ fetch: filled missing days and updated PQs_2025.json"
             git push origin HEAD
-          fi

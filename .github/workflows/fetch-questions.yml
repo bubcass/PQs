@@ -19,9 +19,10 @@ jobs:
         run: sudo apt-get update && sudo apt-get install -y jq
 
       - name: Create ES module config
-        run: echo '{ "type": "module" }' > package.json
+        run: echo "{ \"type\": \"module\" }" > package.json
 
-      - name: Fetch missing days
+      - name: Fetch missing daily files
+        shell: bash
         run: |
           mkdir -p data/questions
           > fetch-log.txt
@@ -31,7 +32,7 @@ jobs:
           TEMPFILE="tmp_day.json"
 
           current="$START_DATE"
-          while [ "$(date -d "$current" +%s)" -le "$(date -d "$END_DATE" +%s)" ]; do
+          while [[ "$(date -d "$current" +%s)" -le "$(date -d "$END_DATE" +%s)" ]]; do
             FILE="data/questions/day_${current}.json"
             URL="https://api.oireachtas.ie/v1/questions?date_start=${current}&date_end=${current}&limit=5000&qtype=oral,written&show_answers=false"
 
@@ -40,18 +41,27 @@ jobs:
             else
               echo "📅 Fetching $current..." | tee -a fetch-log.txt
 
-              for attempt in {1..5}; do
+              attempts=0
+              success=0
+
+              while [ $attempts -lt 5 ]; do
                 STATUS=$(curl -s -w "%{http_code}" -o "$TEMPFILE" "$URL")
-                if [ "$STATUS" -eq 200 ] && jq -e '.results' "$TEMPFILE" > /dev/null; then
+                if [ "$STATUS" = "200" ] && jq -e '.results' "$TEMPFILE" > /dev/null; then
                   cp "$TEMPFILE" "$FILE"
                   COUNT=$(jq '.results | length' "$FILE")
                   echo "✅ $current OK — $COUNT results" | tee -a fetch-log.txt
+                  success=1
                   break
                 else
-                  echo "⏳ Retry $attempt for $current..." | tee -a fetch-log.txt
+                  echo "⏳ Retry $((attempts+1)) for $current..." | tee -a fetch-log.txt
                   sleep 10
                 fi
+                attempts=$((attempts+1))
               done
+
+              if [ $success -eq 0 ]; then
+                echo "🛑 Failed to fetch $current after 5 attempts" | tee -a fetch-log.txt
+              fi
             fi
 
             current=$(date -I -d "$current + 1 day")

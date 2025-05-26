@@ -90,12 +90,11 @@ jobs:
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-          git stash --include-untracked
-          git pull origin main --rebase || {
-            echo "❌ Merge conflict detected. Aborting to prevent corrupted commit.";
-            exit 1;
-          }
-          git stash pop || echo "ℹ️ No stash to apply"
+          
+          # Force overwrite local changes with remote main to avoid merge conflicts
+          git fetch origin
+          git reset --hard origin/main
+
           git add data/questions/*.json data/PQs_2025.json fetch-log.txt || echo "No files to add"
           echo "Files staged for commit:"
           git diff --cached --name-only
@@ -103,6 +102,6 @@ jobs:
           if git diff --cached --quiet; then
             echo "⚠️ Nothing to commit — skipping push"
           else
-            git commit -m "Regenerated PQs_2025.json from current daily files"
+            git commit -m "Automated daily fetch and regenerated PQs_2025.json"
             git push origin HEAD
           fi

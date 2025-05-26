@@ -35,7 +35,7 @@ jobs:
             attempts=0
             success=false
 
-            while [ $attempts -lt 5 ]; do
+            while [ $attempts -lt 8 ]; do
               curl -s -w "%{http_code}" -o "$TEMPFILE" "$URL" > curl_status.txt
               STATUS=$(tail -n1 curl_status.txt)
 

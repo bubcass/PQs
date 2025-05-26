@@ -63,8 +63,11 @@ jobs:
             done
 
             if [ "$success" = false ]; then
-              echo "🛑 Failed to fetch $DATE after 5 attempts" | tee -a fetch-log.txt
-              rm -f "$FILE"
+              if [ -f "$FILE" ]; then
+                echo "🛑 Failed to fetch $DATE after 5 attempts — using previously saved file" | tee -a fetch-log.txt
+              else
+                echo "🛑 Failed to fetch $DATE and no previous file exists — data missing" | tee -a fetch-log.txt
+              fi
             fi
 
             echo "🕒 Sleeping 10s before next day..." | tee -a fetch-log.txt

@@ -3,7 +3,7 @@ name: Self-Healing PQ Fetch (365 days)
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 4 * * *'  # Daily at 4 a.m. GMT
+    - cron: '0 4 * * *'  # Run daily at 4 a.m. GMT
 
 jobs:
   fetch-repair:
@@ -25,23 +25,22 @@ jobs:
         run: mkdir -p data/questions && touch fetch-log.txt
 
       - name: Fetch only missing daily files
+        shell: bash
         run: |
-          START_DATE="2025-01-01"
-          END_DATE="2025-12-31"
-          TEMPFILE="tmp_day.json"
+          mkdir -p data/questions
           > fetch-log.txt
 
-          date_to_iso() {
-            date -d "$1" +%F
-          }
+          TEMPFILE="tmp_day.json"
+          START_DATE="2025-01-01"
+          END_DATE="2025-12-31"
 
           d="$START_DATE"
-          while [ "$(date -d "$d" +%s)" -le "$(date -d "$END_DATE" +%s)" ]; do
-            ISO=$(date_to_iso "$d")
+          while [[ "$d" < "$END_DATE" || "$d" == "$END_DATE" ]]; do
+            ISO="$d"
             FILE="data/questions/day_${ISO}.json"
             URL="https://api.oireachtas.ie/v1/questions?date_start=${ISO}&date_end=${ISO}&limit=5000&qtype=oral,written&show_answers=false"
 
-            if [ -f "$FILE" ]; then
+            if [[ -f "$FILE" ]]; then
               echo "✅ $ISO already exists — skipping" | tee -a fetch-log.txt
             else
               echo "📅 Attempting fetch for $ISO" | tee -a fetch-log.txt
@@ -49,11 +48,11 @@ jobs:
               attempts=0
               success=false
 
-              while [ $attempts -lt 5 ]; do
+              while [[ $attempts -lt 5 ]]; do
                 curl -s -w "%{http_code}" -o "$TEMPFILE" "$URL" > curl_status.txt
                 STATUS=$(tail -n1 curl_status.txt)
 
-                if [ "$STATUS" -eq 200 ]; then
+                if [[ "$STATUS" -eq 200 ]]; then
                   if jq -e '.message' "$TEMPFILE" >/dev/null 2>&1; then
                     echo "⚠️ API error message for $ISO — retrying" | tee -a fetch-log.txt
                   elif jq -e '.results' "$TEMPFILE" >/dev/null 2>&1; then
@@ -74,7 +73,7 @@ jobs:
                 sleep 10
               done
 
-              if [ "$success" = false ]; then
+              if [[ "$success" == false ]]; then
                 echo "🛑 Failed to fetch $ISO after 5 attempts" | tee -a fetch-log.txt
               fi
 
@@ -82,10 +81,11 @@ jobs:
               sleep 10
             fi
 
+            # Advance to next day
             d=$(date -I -d "$d + 1 day")
           done
 
-          rm -f tmp_day.json curl_status.txt
+          rm -f "$TEMPFILE" curl_status.txt
           echo "✅ Fetch cycle complete at $(date -u)" >> fetch-log.txt
 
       - name: Merge into PQs_2025.json

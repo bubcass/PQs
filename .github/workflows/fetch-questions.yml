@@ -66,7 +66,7 @@ jobs:
 
             if [ "$success" = false ]; then
               if [ -f "$FILE" ]; then
-                echo "🛑 Failed to fetch $DATE after 5 attempts — using previously saved file" | tee -a fetch-log.txt
+                echo "🛑 Failed to fetch $DATE after 8 attempts — using previously saved file" | tee -a fetch-log.txt
               else
                 echo "🛑 Failed to fetch $DATE and no previous file exists — data missing" | tee -a fetch-log.txt
               fi
@@ -80,8 +80,7 @@ jobs:
           echo "✅ Daily fetch completed at $(date -u)" >> fetch-log.txt
 
       - name: Ensure package.json for ES modules
-        run: |
-          echo '{ "type": "module" }' > package.json
+        run: echo '{ "type": "module" }' > package.json
 
       - name: Merge daily files into PQs_2025.json
         run: node scripts/merge-days.js
@@ -90,13 +89,13 @@ jobs:
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-          
-          # Force overwrite local changes with remote main to avoid merge conflicts
-          git fetch origin
-          git reset --hard origin/main
 
-          git add data/questions/*.json data/PQs_2025.json fetch-log.txt || echo "No files to add"
-          echo "Files staged for commit:"
+          git add -A
+
+          echo "🔍 Changed files:"
+          git diff --name-only
+
+          echo "📦 Files staged for commit:"
           git diff --cached --name-only
 
           if git diff --cached --quiet; then

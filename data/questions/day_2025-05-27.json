@@ -1,1 +1,850 @@
-{"head":{"counts":{"questionCount":0,"resultCount":0}},"results":[]}
+{
+  "head": {
+    "counts": {
+      "questionCount": 21,
+      "resultCount": 21
+    }
+  },
+  "results": [
+    {
+      "contextDate": "2025-05-27",
+      "question": {
+        "questionNumber": 1,
+        "to": {
+          "showAs": "Taoiseach",
+          "roleType": null,
+          "uri": null,
+          "roleCode": null
+        },
+        "date": "2025-05-27",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-05-27/pq_1",
+        "debateSection": {
+          "debateSectionId": "dbsect_13",
+          "formats": {
+            "xml": {
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-05-27/debate/mul@/dbsect_13.xml"
+            },
+            "pdf": null
+          },
+          "showAs": "International Relations",
+          "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-05-27/debate/dbsect_13"
+        },
+        "house": {
+          "houseNo": "34",
+          "committeeCode": "",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+          "showAs": "34th Dáil",
+          "chamberType": "house",
+          "houseCode": "dail"
+        },
+        "showAs": " 1. Deputy Ruairí Ó Murchú asked the Taoiseach to report on his recent engagement with the US President.  [22204/25] ",
+        "by": {
+          "showAs": "Ruairí Ó Murchú",
+          "memberCode": "Ruairí-Ó-Murchú.D.2020-02-08",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruairí-Ó-Murchú.D.2020-02-08"
+        },
+        "questionType": "oral"
+      }
+    },
+    {
+      "contextDate": "2025-05-27",
+      "question": {
+        "questionNumber": 2,
+        "to": {
+          "showAs": "Taoiseach",
+          "roleType": null,
+          "uri": null,
+          "roleCode": null
+        },
+        "date": "2025-05-27",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-05-27/pq_2",
+        "debateSection": {
+          "debateSectionId": "dbsect_13",
+          "formats": {
+            "xml": {
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-05-27/debate/mul@/dbsect_13.xml"
+            },
+            "pdf": null
+          },
+          "showAs": "International Relations",
+          "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-05-27/debate/dbsect_13"
+        },
+        "house": {
+          "houseNo": "34",
+          "committeeCode": "",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+          "showAs": "34th Dáil",
+          "chamberType": "house",
+          "houseCode": "dail"
+        },
+        "showAs": " 2. Deputy Ivana Bacik asked the Taoiseach to report on his recent engagement with the US President.  [13747/25] ",
+        "by": {
+          "showAs": "Ivana Bacik",
+          "memberCode": "Ivana-Bacik.S.2007-07-23",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ivana-Bacik.S.2007-07-23"
+        },
+        "questionType": "oral"
+      }
+    },
+    {
+      "contextDate": "2025-05-27",
+      "question": {
+        "questionNumber": 3,
+        "to": {
+          "showAs": "Taoiseach",
+          "roleType": null,
+          "uri": null,
+          "roleCode": null
+        },
+        "date": "2025-05-27",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-05-27/pq_3",
+        "debateSection": {
+          "debateSectionId": "dbsect_13",
+          "formats": {
+            "xml": {
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-05-27/debate/mul@/dbsect_13.xml"
+            },
+            "pdf": null
+          },
+          "showAs": "International Relations",
+          "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-05-27/debate/dbsect_13"
+        },
+        "house": {
+          "houseNo": "34",
+          "committeeCode": "",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+          "showAs": "34th Dáil",
+          "chamberType": "house",
+          "houseCode": "dail"
+        },
+        "showAs": " 3. Deputy Paul Murphy asked the Taoiseach to report on his recent engagement with the US President.  [25525/25] ",
+        "by": {
+          "showAs": "Paul Murphy",
+          "memberCode": "Paul-Murphy.D.2014-10-10",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Murphy.D.2014-10-10"
+        },
+        "questionType": "oral"
+      }
+    },
+    {
+      "contextDate": "2025-05-27",
+      "question": {
+        "questionNumber": 4,
+        "to": {
+          "showAs": "Taoiseach",
+          "roleType": null,
+          "uri": null,
+          "roleCode": null
+        },
+        "date": "2025-05-27",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-05-27/pq_4",
+        "debateSection": {
+          "debateSectionId": "dbsect_13",
+          "formats": {
+            "xml": {
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-05-27/debate/mul@/dbsect_13.xml"
+            },
+            "pdf": null
+          },
+          "showAs": "International Relations",
+          "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-05-27/debate/dbsect_13"
+        },
+        "house": {
+          "houseNo": "34",
+          "committeeCode": "",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+          "showAs": "34th Dáil",
+          "chamberType": "house",
+          "houseCode": "dail"
+        },
+        "showAs": " 4. Deputy Ruth Coppinger asked the Taoiseach to report on his recent engagement with the US President.  [25532/25] ",
+        "by": {
+          "showAs": "Ruth Coppinger",
+          "memberCode": "Ruth-Coppinger.D.2014-05-23",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruth-Coppinger.D.2014-05-23"
+        },
+        "questionType": "oral"
+      }
+    },
+    {
+      "contextDate": "2025-05-27",
+      "question": {
+        "questionNumber": 5,
+        "to": {
+          "showAs": "Taoiseach",
+          "roleType": null,
+          "uri": null,
+          "roleCode": null
+        },
+        "date": "2025-05-27",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-05-27/pq_5",
+        "debateSection": {
+          "debateSectionId": "dbsect_13",
+          "formats": {
+            "xml": {
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-05-27/debate/mul@/dbsect_13.xml"
+            },
+            "pdf": null
+          },
+          "showAs": "International Relations",
+          "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-05-27/debate/dbsect_13"
+        },
+        "house": {
+          "houseNo": "34",
+          "committeeCode": "",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+          "showAs": "34th Dáil",
+          "chamberType": "house",
+          "houseCode": "dail"
+        },
+        "showAs": " 5. Deputy Seán Ó Fearghaíl asked the Taoiseach to report on his recent engagement with the US President.  [26753/25] ",
+        "by": {
+          "showAs": "Seán Ó Fearghaíl",
+          "memberCode": "Seán-Ó-Fearghaíl.S.2000-06-09",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Seán-Ó-Fearghaíl.S.2000-06-09"
+        },
+        "questionType": "oral"
+      }
+    },
+    {
+      "contextDate": "2025-05-27",
+      "question": {
+        "questionNumber": 6,
+        "to": {
+          "showAs": "Taoiseach",
+          "roleType": null,
+          "uri": null,
+          "roleCode": null
+        },
+        "date": "2025-05-27",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-05-27/pq_6",
+        "debateSection": {
+          "debateSectionId": "dbsect_13",
+          "formats": {
+            "xml": {
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-05-27/debate/mul@/dbsect_13.xml"
+            },
+            "pdf": null
+          },
+          "showAs": "International Relations",
+          "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-05-27/debate/dbsect_13"
+        },
+        "house": {
+          "houseNo": "34",
+          "committeeCode": "",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+          "showAs": "34th Dáil",
+          "chamberType": "house",
+          "houseCode": "dail"
+        },
+        "showAs": " 6. Deputy John Lahart asked the Taoiseach to report on his recent engagement with the US President.  [26754/25] ",
+        "by": {
+          "showAs": "John Lahart",
+          "memberCode": "John-Lahart.D.2016-10-03",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/John-Lahart.D.2016-10-03"
+        },
+        "questionType": "oral"
+      }
+    },
+    {
+      "contextDate": "2025-05-27",
+      "question": {
+        "questionNumber": 7,
+        "to": {
+          "showAs": "Taoiseach",
+          "roleType": null,
+          "uri": null,
+          "roleCode": null
+        },
+        "date": "2025-05-27",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-05-27/pq_7",
+        "debateSection": {
+          "debateSectionId": "dbsect_13",
+          "formats": {
+            "xml": {
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-05-27/debate/mul@/dbsect_13.xml"
+            },
+            "pdf": null
+          },
+          "showAs": "International Relations",
+          "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-05-27/debate/dbsect_13"
+        },
+        "house": {
+          "houseNo": "34",
+          "committeeCode": "",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+          "showAs": "34th Dáil",
+          "chamberType": "house",
+          "houseCode": "dail"
+        },
+        "showAs": " 7. Deputy Ruth Coppinger asked the Taoiseach to report on his recent engagement with the US President.  [26853/25] ",
+        "by": {
+          "showAs": "Ruth Coppinger",
+          "memberCode": "Ruth-Coppinger.D.2014-05-23",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruth-Coppinger.D.2014-05-23"
+        },
+        "questionType": "oral"
+      }
+    },
+    {
+      "contextDate": "2025-05-27",
+      "question": {
+        "questionNumber": 8,
+        "to": {
+          "showAs": "Taoiseach",
+          "roleType": null,
+          "uri": null,
+          "roleCode": null
+        },
+        "date": "2025-05-27",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-05-27/pq_8",
+        "debateSection": {
+          "debateSectionId": "dbsect_13",
+          "formats": {
+            "xml": {
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-05-27/debate/mul@/dbsect_13.xml"
+            },
+            "pdf": null
+          },
+          "showAs": "International Relations",
+          "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-05-27/debate/dbsect_13"
+        },
+        "house": {
+          "houseNo": "34",
+          "committeeCode": "",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+          "showAs": "34th Dáil",
+          "chamberType": "house",
+          "houseCode": "dail"
+        },
+        "showAs": " 8. Deputy Shane Moynihan asked the Taoiseach to report on his recent engagement with the US President.  [27213/25] ",
+        "by": {
+          "showAs": "Shane Moynihan",
+          "memberCode": "Shane-Moynihan.D.2024-11-29",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Shane-Moynihan.D.2024-11-29"
+        },
+        "questionType": "oral"
+      }
+    },
+    {
+      "contextDate": "2025-05-27",
+      "question": {
+        "questionNumber": 9,
+        "to": {
+          "showAs": "Taoiseach",
+          "roleType": null,
+          "uri": null,
+          "roleCode": null
+        },
+        "date": "2025-05-27",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-05-27/pq_9",
+        "debateSection": {
+          "debateSectionId": "dbsect_13",
+          "formats": {
+            "xml": {
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-05-27/debate/mul@/dbsect_13.xml"
+            },
+            "pdf": null
+          },
+          "showAs": "International Relations",
+          "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-05-27/debate/dbsect_13"
+        },
+        "house": {
+          "houseNo": "34",
+          "committeeCode": "",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+          "showAs": "34th Dáil",
+          "chamberType": "house",
+          "houseCode": "dail"
+        },
+        "showAs": " 9. Deputy Malcolm Byrne asked the Taoiseach to report on his recent engagement with the US President.  [27216/25] ",
+        "by": {
+          "showAs": "Malcolm Byrne",
+          "memberCode": "Malcolm-Byrne.D.2019-11-29",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Malcolm-Byrne.D.2019-11-29"
+        },
+        "questionType": "oral"
+      }
+    },
+    {
+      "contextDate": "2025-05-27",
+      "question": {
+        "questionNumber": 10,
+        "to": {
+          "showAs": "Taoiseach",
+          "roleType": null,
+          "uri": null,
+          "roleCode": null
+        },
+        "date": "2025-05-27",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-05-27/pq_10",
+        "debateSection": {
+          "debateSectionId": "dbsect_13",
+          "formats": {
+            "xml": {
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-05-27/debate/mul@/dbsect_13.xml"
+            },
+            "pdf": null
+          },
+          "showAs": "International Relations",
+          "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-05-27/debate/dbsect_13"
+        },
+        "house": {
+          "houseNo": "34",
+          "committeeCode": "",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+          "showAs": "34th Dáil",
+          "chamberType": "house",
+          "houseCode": "dail"
+        },
+        "showAs": " 10. Deputy Naoise Ó Cearúil asked the Taoiseach to report on his recent engagement with the US President.  [27217/25] ",
+        "by": {
+          "showAs": "Naoise Ó Cearúil",
+          "memberCode": "Naoise-Ó-Cearúil.D.2024-11-29",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Naoise-Ó-Cearúil.D.2024-11-29"
+        },
+        "questionType": "oral"
+      }
+    },
+    {
+      "contextDate": "2025-05-27",
+      "question": {
+        "questionNumber": 11,
+        "to": {
+          "showAs": "Taoiseach",
+          "roleType": null,
+          "uri": null,
+          "roleCode": null
+        },
+        "date": "2025-05-27",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-05-27/pq_11",
+        "debateSection": {
+          "debateSectionId": "dbsect_14",
+          "formats": {
+            "xml": {
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-05-27/debate/mul@/dbsect_14.xml"
+            },
+            "pdf": null
+          },
+          "showAs": "Cabinet Committees",
+          "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-05-27/debate/dbsect_14"
+        },
+        "house": {
+          "houseNo": "34",
+          "committeeCode": "",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+          "showAs": "34th Dáil",
+          "chamberType": "house",
+          "houseCode": "dail"
+        },
+        "showAs": " 11. Deputy Malcolm Byrne asked the Taoiseach when the Cabinet committee on the economy, trade and competitiveness will next meet. [16779/25] ",
+        "by": {
+          "showAs": "Malcolm Byrne",
+          "memberCode": "Malcolm-Byrne.D.2019-11-29",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Malcolm-Byrne.D.2019-11-29"
+        },
+        "questionType": "oral"
+      }
+    },
+    {
+      "contextDate": "2025-05-27",
+      "question": {
+        "questionNumber": 12,
+        "to": {
+          "showAs": "Taoiseach",
+          "roleType": null,
+          "uri": null,
+          "roleCode": null
+        },
+        "date": "2025-05-27",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-05-27/pq_12",
+        "debateSection": {
+          "debateSectionId": "dbsect_14",
+          "formats": {
+            "xml": {
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-05-27/debate/mul@/dbsect_14.xml"
+            },
+            "pdf": null
+          },
+          "showAs": "Cabinet Committees",
+          "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-05-27/debate/dbsect_14"
+        },
+        "house": {
+          "houseNo": "34",
+          "committeeCode": "",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+          "showAs": "34th Dáil",
+          "chamberType": "house",
+          "houseCode": "dail"
+        },
+        "showAs": " 12. Deputy Ruth Coppinger asked the Taoiseach when the Cabinet committee on the economy, trade and competitiveness will next meet. [21096/25] ",
+        "by": {
+          "showAs": "Ruth Coppinger",
+          "memberCode": "Ruth-Coppinger.D.2014-05-23",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruth-Coppinger.D.2014-05-23"
+        },
+        "questionType": "oral"
+      }
+    },
+    {
+      "contextDate": "2025-05-27",
+      "question": {
+        "questionNumber": 13,
+        "to": {
+          "showAs": "Taoiseach",
+          "roleType": null,
+          "uri": null,
+          "roleCode": null
+        },
+        "date": "2025-05-27",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-05-27/pq_13",
+        "debateSection": {
+          "debateSectionId": "dbsect_14",
+          "formats": {
+            "xml": {
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-05-27/debate/mul@/dbsect_14.xml"
+            },
+            "pdf": null
+          },
+          "showAs": "Cabinet Committees",
+          "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-05-27/debate/dbsect_14"
+        },
+        "house": {
+          "houseNo": "34",
+          "committeeCode": "",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+          "showAs": "34th Dáil",
+          "chamberType": "house",
+          "houseCode": "dail"
+        },
+        "showAs": " 13. Deputy James O'Connor asked the Taoiseach when the Cabinet committee on the economy, trade and competitiveness will next meet. [22203/25] ",
+        "by": {
+          "showAs": "James O'Connor",
+          "memberCode": "James-O'Connor.D.2020-02-08",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/James-O'Connor.D.2020-02-08"
+        },
+        "questionType": "oral"
+      }
+    },
+    {
+      "contextDate": "2025-05-27",
+      "question": {
+        "questionNumber": 14,
+        "to": {
+          "showAs": "Taoiseach",
+          "roleType": null,
+          "uri": null,
+          "roleCode": null
+        },
+        "date": "2025-05-27",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-05-27/pq_14",
+        "debateSection": {
+          "debateSectionId": "dbsect_14",
+          "formats": {
+            "xml": {
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-05-27/debate/mul@/dbsect_14.xml"
+            },
+            "pdf": null
+          },
+          "showAs": "Cabinet Committees",
+          "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-05-27/debate/dbsect_14"
+        },
+        "house": {
+          "houseNo": "34",
+          "committeeCode": "",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+          "showAs": "34th Dáil",
+          "chamberType": "house",
+          "houseCode": "dail"
+        },
+        "showAs": " 14. Deputy Ruairí Ó Murchú asked the Taoiseach when the Cabinet committee on the economy, trade and competitiveness will next meet. [22205/25] ",
+        "by": {
+          "showAs": "Ruairí Ó Murchú",
+          "memberCode": "Ruairí-Ó-Murchú.D.2020-02-08",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruairí-Ó-Murchú.D.2020-02-08"
+        },
+        "questionType": "oral"
+      }
+    },
+    {
+      "contextDate": "2025-05-27",
+      "question": {
+        "questionNumber": 15,
+        "to": {
+          "showAs": "Taoiseach",
+          "roleType": null,
+          "uri": null,
+          "roleCode": null
+        },
+        "date": "2025-05-27",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-05-27/pq_15",
+        "debateSection": {
+          "debateSectionId": "dbsect_14",
+          "formats": {
+            "xml": {
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-05-27/debate/mul@/dbsect_14.xml"
+            },
+            "pdf": null
+          },
+          "showAs": "Cabinet Committees",
+          "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-05-27/debate/dbsect_14"
+        },
+        "house": {
+          "houseNo": "34",
+          "committeeCode": "",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+          "showAs": "34th Dáil",
+          "chamberType": "house",
+          "houseCode": "dail"
+        },
+        "showAs": " 15. Deputy James Geoghegan asked the Taoiseach when the Cabinet committee on the economy, trade and competitiveness  will next meet. [22480/25] ",
+        "by": {
+          "showAs": "James Geoghegan",
+          "memberCode": "James-Geoghegan.D.2024-11-29",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/James-Geoghegan.D.2024-11-29"
+        },
+        "questionType": "oral"
+      }
+    },
+    {
+      "contextDate": "2025-05-27",
+      "question": {
+        "questionNumber": 16,
+        "to": {
+          "showAs": "Taoiseach",
+          "roleType": null,
+          "uri": null,
+          "roleCode": null
+        },
+        "date": "2025-05-27",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-05-27/pq_16",
+        "debateSection": {
+          "debateSectionId": "dbsect_14",
+          "formats": {
+            "xml": {
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-05-27/debate/mul@/dbsect_14.xml"
+            },
+            "pdf": null
+          },
+          "showAs": "Cabinet Committees",
+          "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-05-27/debate/dbsect_14"
+        },
+        "house": {
+          "houseNo": "34",
+          "committeeCode": "",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+          "showAs": "34th Dáil",
+          "chamberType": "house",
+          "houseCode": "dail"
+        },
+        "showAs": " 16. Deputy Ivana Bacik asked the Taoiseach when the Cabinet committee on the economy, trade and competitiveness will next meet. [15144/25] ",
+        "by": {
+          "showAs": "Ivana Bacik",
+          "memberCode": "Ivana-Bacik.S.2007-07-23",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ivana-Bacik.S.2007-07-23"
+        },
+        "questionType": "oral"
+      }
+    },
+    {
+      "contextDate": "2025-05-27",
+      "question": {
+        "questionNumber": 17,
+        "to": {
+          "showAs": "Taoiseach",
+          "roleType": null,
+          "uri": null,
+          "roleCode": null
+        },
+        "date": "2025-05-27",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-05-27/pq_17",
+        "debateSection": {
+          "debateSectionId": "dbsect_14",
+          "formats": {
+            "xml": {
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-05-27/debate/mul@/dbsect_14.xml"
+            },
+            "pdf": null
+          },
+          "showAs": "Cabinet Committees",
+          "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-05-27/debate/dbsect_14"
+        },
+        "house": {
+          "houseNo": "34",
+          "committeeCode": "",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+          "showAs": "34th Dáil",
+          "chamberType": "house",
+          "houseCode": "dail"
+        },
+        "showAs": " 17. Deputy Shay Brennan asked the Taoiseach when the Cabinet committee on the economy, trade and competitiveness will next meet. [22996/25] ",
+        "by": {
+          "showAs": "Shay Brennan",
+          "memberCode": "Shay-Brennan.D.2024-11-29",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Shay-Brennan.D.2024-11-29"
+        },
+        "questionType": "oral"
+      }
+    },
+    {
+      "contextDate": "2025-05-27",
+      "question": {
+        "questionNumber": 18,
+        "to": {
+          "showAs": "Taoiseach",
+          "roleType": null,
+          "uri": null,
+          "roleCode": null
+        },
+        "date": "2025-05-27",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-05-27/pq_18",
+        "debateSection": {
+          "debateSectionId": "dbsect_14",
+          "formats": {
+            "xml": {
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-05-27/debate/mul@/dbsect_14.xml"
+            },
+            "pdf": null
+          },
+          "showAs": "Cabinet Committees",
+          "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-05-27/debate/dbsect_14"
+        },
+        "house": {
+          "houseNo": "34",
+          "committeeCode": "",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+          "showAs": "34th Dáil",
+          "chamberType": "house",
+          "houseCode": "dail"
+        },
+        "showAs": " 18. Deputy Albert Dolan asked the Taoiseach when the Cabinet committee on the economy, trade and competitiveness will next meet. [22997/25] ",
+        "by": {
+          "showAs": "Albert Dolan",
+          "memberCode": "Albert-Dolan.D.2024-11-29",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Albert-Dolan.D.2024-11-29"
+        },
+        "questionType": "oral"
+      }
+    },
+    {
+      "contextDate": "2025-05-27",
+      "question": {
+        "questionNumber": 19,
+        "to": {
+          "showAs": "Taoiseach",
+          "roleType": null,
+          "uri": null,
+          "roleCode": null
+        },
+        "date": "2025-05-27",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-05-27/pq_19",
+        "debateSection": {
+          "debateSectionId": "dbsect_14",
+          "formats": {
+            "xml": {
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-05-27/debate/mul@/dbsect_14.xml"
+            },
+            "pdf": null
+          },
+          "showAs": "Cabinet Committees",
+          "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-05-27/debate/dbsect_14"
+        },
+        "house": {
+          "houseNo": "34",
+          "committeeCode": "",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+          "showAs": "34th Dáil",
+          "chamberType": "house",
+          "houseCode": "dail"
+        },
+        "showAs": " 19. Deputy Paul Murphy asked the Taoiseach when the Cabinet committee on the economy, trade and competitiveness will next meet. [25526/25] ",
+        "by": {
+          "showAs": "Paul Murphy",
+          "memberCode": "Paul-Murphy.D.2014-10-10",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Murphy.D.2014-10-10"
+        },
+        "questionType": "oral"
+      }
+    },
+    {
+      "contextDate": "2025-05-27",
+      "question": {
+        "questionNumber": 20,
+        "to": {
+          "showAs": "Taoiseach",
+          "roleType": null,
+          "uri": null,
+          "roleCode": null
+        },
+        "date": "2025-05-27",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-05-27/pq_20",
+        "debateSection": {
+          "debateSectionId": "dbsect_14",
+          "formats": {
+            "xml": {
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-05-27/debate/mul@/dbsect_14.xml"
+            },
+            "pdf": null
+          },
+          "showAs": "Cabinet Committees",
+          "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-05-27/debate/dbsect_14"
+        },
+        "house": {
+          "houseNo": "34",
+          "committeeCode": "",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+          "showAs": "34th Dáil",
+          "chamberType": "house",
+          "houseCode": "dail"
+        },
+        "showAs": " 20. Deputy Shane Moynihan asked the Taoiseach when the Cabinet committee on the economy, trade and competitiveness will next meet. [27214/25] ",
+        "by": {
+          "showAs": "Shane Moynihan",
+          "memberCode": "Shane-Moynihan.D.2024-11-29",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Shane-Moynihan.D.2024-11-29"
+        },
+        "questionType": "oral"
+      }
+    },
+    {
+      "contextDate": "2025-05-27",
+      "question": {
+        "questionNumber": 21,
+        "to": {
+          "showAs": "Taoiseach",
+          "roleType": null,
+          "uri": null,
+          "roleCode": null
+        },
+        "date": "2025-05-27",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-05-27/pq_21",
+        "debateSection": {
+          "debateSectionId": "dbsect_14",
+          "formats": {
+            "xml": {
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-05-27/debate/mul@/dbsect_14.xml"
+            },
+            "pdf": null
+          },
+          "showAs": "Cabinet Committees",
+          "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-05-27/debate/dbsect_14"
+        },
+        "house": {
+          "houseNo": "34",
+          "committeeCode": "",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+          "showAs": "34th Dáil",
+          "chamberType": "house",
+          "houseCode": "dail"
+        },
+        "showAs": " 21. Deputy Naoise Ó Cearúil asked the Taoiseach when the Cabinet committee on the economy, trade and competitiveness will next meet. [27218/25] ",
+        "by": {
+          "showAs": "Naoise Ó Cearúil",
+          "memberCode": "Naoise-Ó-Cearúil.D.2024-11-29",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Naoise-Ó-Cearúil.D.2024-11-29"
+        },
+        "questionType": "oral"
+      }
+    }
+  ]
+}

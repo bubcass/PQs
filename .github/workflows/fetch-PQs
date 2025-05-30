@@ -1,0 +1,110 @@
+name: Fetch Daily Oireachtas Questions (365 days)
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 2 * * *'  # Run daily at 2 a.m. GMT
+
+jobs:
+  fetch-daily:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository with full history
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
+      - name: Install jq
+        run: sudo apt-get update && sudo apt-get install -y jq
+
+      - name: Fetch daily PQ data with pagination
+        run: |
+          mkdir -p data/questions
+          touch fetch-log.txt
+          echo "🕓 Daily fetch started at $(date -u)" > fetch-log.txt
+
+          for day in $(seq -w 0 364); do
+            DATE=$(date -d "2025-01-01 +${day} days" +%F)
+            FILE="data/questions/day_${DATE}.json"
+            echo "📅 Day $day: $DATE" | tee -a fetch-log.txt
+
+            PAGE=0
+            ALL_RESULTS="[]"
+            success=false
+
+            while true; do
+              SKIP=$((PAGE * 1000))
+              URL="https://api.oireachtas.ie/v1/questions?date_start=${DATE}&date_end=${DATE}&limit=1000&skip=${SKIP}&qtype=oral,written&show_answers=false"
+              TEMPFILE="tmp_day_page.json"
+
+              curl -s -w "%{http_code}" -o "$TEMPFILE" "$URL" > curl_status.txt
+              STATUS=$(tail -n1 curl_status.txt)
+
+              if [ "$STATUS" -eq 200 ]; then
+                if jq -e '.message' "$TEMPFILE" >/dev/null 2>&1; then
+                  echo "⚠️ API error on page $PAGE — retrying..." | tee -a fetch-log.txt
+                elif jq -e '.results' "$TEMPFILE" >/dev/null 2>&1; then
+                  COUNT=$(jq '.results | length' "$TEMPFILE")
+                  if [ "$COUNT" -eq 0 ]; then
+                    echo "✅ $DATE complete — no more results after page $PAGE" | tee -a fetch-log.txt
+                    success=true
+                    break
+                  fi
+
+                  # Append results
+                  ALL_RESULTS=$(jq -s '.[0] + .[1]' <(echo "$ALL_RESULTS") <(jq '.results' "$TEMPFILE"))
+                  echo "✅ Page $PAGE for $DATE OK — $COUNT results" | tee -a fetch-log.txt
+                  PAGE=$((PAGE + 1))
+                else
+                  echo "❌ Malformed JSON on page $PAGE — retrying..." | tee -a fetch-log.txt
+                fi
+              else
+                echo "❌ HTTP $STATUS on page $PAGE — retrying..." | tee -a fetch-log.txt
+              fi
+
+              sleep 5
+            done
+
+            if [ "$success" = true ]; then
+              echo "$ALL_RESULTS" > "$FILE"
+            else
+              if [ -f "$FILE" ]; then
+                echo "🛑 Failed to fully fetch $DATE — using existing file" | tee -a fetch-log.txt
+              else
+                echo "🛑 No data for $DATE and no previous file exists" | tee -a fetch-log.txt
+              fi
+            fi
+
+            echo "🕒 Sleeping 10s before next day..." | tee -a fetch-log.txt
+            sleep 10
+          done
+
+          rm -f tmp_day_page.json curl_status.txt
+          echo "✅ Daily fetch completed at $(date -u)" >> fetch-log.txt
+
+      - name: Ensure package.json for ES modules
+        run: |
+          echo '{ "type": "module" }' > package.json
+
+      - name: Merge daily files into PQs_2025.json
+        run: node scripts/merge-days.js
+
+      - name: Commit daily and merged files to repo
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+
+          git add -A
+
+          echo "🔍 Changed files:"
+          git diff --name-only
+
+          echo "📦 Files staged for commit:"
+          git diff --cached --name-only
+
+          if git diff --cached --quiet; then
+            echo "⚠️ Nothing to commit — skipping push"
+          else
+            git commit -m "Automated daily fetch with pagination and regenerated PQs_2025.json"
+            git push origin HEAD

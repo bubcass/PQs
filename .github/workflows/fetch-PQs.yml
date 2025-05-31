@@ -34,7 +34,7 @@ jobs:
             success=false
 
             while true; do
-              SKIP=$((PAGE * 1000))
+              SKIP=$((PAGE * 300))
               URL="https://api.oireachtas.ie/v1/questions?date_start=${DATE}&date_end=${DATE}&limit=1000&skip=${SKIP}&qtype=oral,written&show_answers=false"
               TEMPFILE="tmp_day_page.json"
 

@@ -87,7 +87,15 @@ jobs:
           echo '{ "type": "module" }' > package.json
 
       - name: Merge daily files into PQs_2025_paginated.json
-        run: node scripts/merge-days-paginated.js
+        run: |
+          echo "📁 Contents of scripts/:"
+          ls -l scripts
+
+          echo "📁 Contents of data/PQs_paginated/:"
+          ls -l data/PQs_paginated | head -n 10
+
+          echo "🚀 Running merge-days-paginated.js"
+          node scripts/merge-days-paginated.js
 
       - name: Commit daily and merged files to repo
         run: |

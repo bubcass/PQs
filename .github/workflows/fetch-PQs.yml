@@ -20,13 +20,13 @@ jobs:
 
       - name: Fetch daily PQ data with pagination
         run: |
-          mkdir -p data/questions
+          mkdir -p data/PQs_paginated
           touch fetch-log.txt
           echo "🕓 Daily fetch started at $(date -u)" > fetch-log.txt
 
           for day in $(seq -w 0 364); do
             DATE=$(date -d "2025-01-01 +${day} days" +%F)
-            FILE="data/questions/day_${DATE}.json"
+            FILE="data/PQs_paginated/day_${DATE}.json"
             echo "📅 Day $day: $DATE" | tee -a fetch-log.txt
 
             PAGE=0
@@ -52,7 +52,6 @@ jobs:
                     break
                   fi
 
-                  # Append results
                   ALL_RESULTS=$(jq -s '.[0] + .[1]' <(echo "$ALL_RESULTS") <(jq '.results' "$TEMPFILE"))
                   echo "✅ Page $PAGE for $DATE OK — $COUNT results" | tee -a fetch-log.txt
                   PAGE=$((PAGE + 1))
@@ -87,8 +86,8 @@ jobs:
         run: |
           echo '{ "type": "module" }' > package.json
 
-      - name: Merge daily files into PQs_2025.json
-        run: node scripts/merge-days.js
+      - name: Merge daily files into PQs_2025_paginated.json
+        run: node scripts/merge-days-paginated.js
 
       - name: Commit daily and merged files to repo
         run: |
@@ -106,5 +105,5 @@ jobs:
           if git diff --cached --quiet; then
             echo "⚠️ Nothing to commit — skipping push"
           else
-            git commit -m "Automated daily fetch with pagination and regenerated PQs_2025.json"
+            git commit -m "Automated daily fetch with pagination to PQs_paginated and merged PQs_2025_paginated.json"
             git push origin HEAD

@@ -7,7 +7,7 @@ const OUTPUT_FILE = 'PQs_2025_paginated.json';
 function getSortedFiles(dir) {
   return fs.readdirSync(dir)
     .filter(file => file.endsWith('.json'))
-    .sort(); // Lexical sort is fine since filenames are date-formatted
+    .sort();
 }
 
 function mergeFiles() {
@@ -26,7 +26,7 @@ function mergeFiles() {
         console.warn(`⚠️ Skipped ${file} — not an array`);
       }
     } catch (err) {
-      console.error(`❌ Failed to read or parse ${file}:`, err.message);
+      console.error(`❌ Failed to read or parse ${file}: ${err.message}`);
     }
   }
 
@@ -34,4 +34,9 @@ function mergeFiles() {
   console.log(`🎉 Wrote merged file to ${OUTPUT_FILE} with ${merged.length} entries`);
 }
 
-mergeFiles();
+try {
+  mergeFiles();
+} catch (err) {
+  console.error('💥 Merge script crashed:', err.message);
+  process.exit(2);
+}

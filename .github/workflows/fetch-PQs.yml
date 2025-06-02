@@ -1,4 +1,4 @@
-name: Fetch PQs (paginated)
+name: Fetch Daily Oireachtas Questions (paginated)
 
 on:
   workflow_dispatch:
@@ -113,5 +113,21 @@ jobs:
           if git diff --cached --quiet; then
             echo "⚠️ Nothing to commit — skipping push"
           else
-            git commit -m "Automated daily fetch with pagination to PQs_paginated and merged PQs_2025_paginated.json"
-            git push origin HEAD
+            echo "📝 Committing changes..."
+            git commit -m "Automated daily fetch with pagination to PQs_paginated and merged PQs_2025_paginated.json" || {
+              echo "❌ Git commit failed"
+              exit 2
+            }
+
+            echo "🔄 Pulling with rebase to avoid conflicts..."
+            git pull --rebase origin main || {
+              echo "❌ Git pull with rebase failed"
+              exit 2
+            }
+
+            echo "🚀 Pushing to origin..."
+            git push origin HEAD || {
+              echo "❌ Git push failed"
+              exit 2
+            }
+          fi

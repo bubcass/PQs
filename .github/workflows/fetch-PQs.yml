@@ -1,4 +1,4 @@
-name: Fetch Daily Oireachtas Questions (365 days)
+name: Fetch PQs (paginated)
 
 on:
   workflow_dispatch:
@@ -88,10 +88,10 @@ jobs:
 
       - name: Merge daily files into PQs_2025_paginated.json
         run: |
-          echo "📁 Contents of scripts/:"
+          echo "📁 Listing contents of scripts"
           ls -l scripts
 
-          echo "📁 Contents of data/PQs_paginated/:"
+          echo "📁 Listing contents of data/PQs_paginated"
           ls -l data/PQs_paginated | head -n 10
 
           echo "🚀 Running merge-days-paginated.js"

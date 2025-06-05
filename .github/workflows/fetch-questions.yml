@@ -2,8 +2,7 @@ name: Fetch Daily Oireachtas Questions (365 days)
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: '0 4 * * *'  # Run daily at 4 a.m. GMT
+  
 
 jobs:
   fetch-daily:

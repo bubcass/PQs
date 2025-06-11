@@ -1,1 +1,1242 @@
-[]
+[
+  {
+    "question": {
+      "by": {
+        "memberCode": "Malcolm-Byrne.D.2019-11-29",
+        "showAs": "Malcolm Byrne",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Malcolm-Byrne.D.2019-11-29"
+      },
+      "date": "2025-06-10",
+      "questionType": "oral",
+      "questionNumber": 1,
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-10/debate/mul@/dbsect_12.xml"
+          },
+          "pdf": null
+        },
+        "debateSectionId": "dbsect_12",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-10/debate/dbsect_12",
+        "showAs": "European Council"
+      },
+      "to": {
+        "roleType": null,
+        "showAs": "Taoiseach",
+        "roleCode": null,
+        "uri": null
+      },
+      "house": {
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "houseCode": "dail",
+        "chamberType": "house",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-06-10/pq_1",
+      "showAs": " 1. Deputy Malcolm Byrne asked the Taoiseach to report on his attendance at the European Council on 20 and 21 March.  [16780/25] "
+    },
+    "contextDate": "2025-06-10"
+  },
+  {
+    "question": {
+      "by": {
+        "memberCode": "Ruairí-Ó-Murchú.D.2020-02-08",
+        "showAs": "Ruairí Ó Murchú",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruairí-Ó-Murchú.D.2020-02-08"
+      },
+      "date": "2025-06-10",
+      "questionType": "oral",
+      "questionNumber": 2,
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-10/debate/mul@/dbsect_12.xml"
+          },
+          "pdf": null
+        },
+        "debateSectionId": "dbsect_12",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-10/debate/dbsect_12",
+        "showAs": "European Council"
+      },
+      "to": {
+        "roleType": null,
+        "showAs": "Taoiseach",
+        "roleCode": null,
+        "uri": null
+      },
+      "house": {
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "houseCode": "dail",
+        "chamberType": "house",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-06-10/pq_2",
+      "showAs": " 2. Deputy Ruairí Ó Murchú asked the Taoiseach to report on his attendance at the recent European Council. [22206/25] "
+    },
+    "contextDate": "2025-06-10"
+  },
+  {
+    "question": {
+      "by": {
+        "memberCode": "Ivana-Bacik.S.2007-07-23",
+        "showAs": "Ivana Bacik",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ivana-Bacik.S.2007-07-23"
+      },
+      "date": "2025-06-10",
+      "questionType": "oral",
+      "questionNumber": 3,
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-10/debate/mul@/dbsect_12.xml"
+          },
+          "pdf": null
+        },
+        "debateSectionId": "dbsect_12",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-10/debate/dbsect_12",
+        "showAs": "European Council"
+      },
+      "to": {
+        "roleType": null,
+        "showAs": "Taoiseach",
+        "roleCode": null,
+        "uri": null
+      },
+      "house": {
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "houseCode": "dail",
+        "chamberType": "house",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-06-10/pq_3",
+      "showAs": " 3. Deputy Ivana Bacik asked the Taoiseach to report on his attendance at the European Council on 20 and 21 March.  [15145/25] "
+    },
+    "contextDate": "2025-06-10"
+  },
+  {
+    "question": {
+      "by": {
+        "memberCode": "Paul-Murphy.D.2014-10-10",
+        "showAs": "Paul Murphy",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Murphy.D.2014-10-10"
+      },
+      "date": "2025-06-10",
+      "questionType": "oral",
+      "questionNumber": 4,
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-10/debate/mul@/dbsect_12.xml"
+          },
+          "pdf": null
+        },
+        "debateSectionId": "dbsect_12",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-10/debate/dbsect_12",
+        "showAs": "European Council"
+      },
+      "to": {
+        "roleType": null,
+        "showAs": "Taoiseach",
+        "roleCode": null,
+        "uri": null
+      },
+      "house": {
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "houseCode": "dail",
+        "chamberType": "house",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-06-10/pq_4",
+      "showAs": " 4. Deputy Paul Murphy asked the Taoiseach to report on his attendance at the recent European Council. [25527/25] "
+    },
+    "contextDate": "2025-06-10"
+  },
+  {
+    "question": {
+      "by": {
+        "memberCode": "Ruth-Coppinger.D.2014-05-23",
+        "showAs": "Ruth Coppinger",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruth-Coppinger.D.2014-05-23"
+      },
+      "date": "2025-06-10",
+      "questionType": "oral",
+      "questionNumber": 5,
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-10/debate/mul@/dbsect_12.xml"
+          },
+          "pdf": null
+        },
+        "debateSectionId": "dbsect_12",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-10/debate/dbsect_12",
+        "showAs": "European Council"
+      },
+      "to": {
+        "roleType": null,
+        "showAs": "Taoiseach",
+        "roleCode": null,
+        "uri": null
+      },
+      "house": {
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "houseCode": "dail",
+        "chamberType": "house",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-06-10/pq_5",
+      "showAs": " 5. Deputy Ruth Coppinger asked the Taoiseach to report on his attendance at the recent European Council. [26851/25] "
+    },
+    "contextDate": "2025-06-10"
+  },
+  {
+    "question": {
+      "by": {
+        "memberCode": "Shane-Moynihan.D.2024-11-29",
+        "showAs": "Shane Moynihan",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Shane-Moynihan.D.2024-11-29"
+      },
+      "date": "2025-06-10",
+      "questionType": "oral",
+      "questionNumber": 6,
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-10/debate/mul@/dbsect_12.xml"
+          },
+          "pdf": null
+        },
+        "debateSectionId": "dbsect_12",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-10/debate/dbsect_12",
+        "showAs": "European Council"
+      },
+      "to": {
+        "roleType": null,
+        "showAs": "Taoiseach",
+        "roleCode": null,
+        "uri": null
+      },
+      "house": {
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "houseCode": "dail",
+        "chamberType": "house",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-06-10/pq_6",
+      "showAs": " 6. Deputy Shane Moynihan asked the Taoiseach to report on his attendance at the recent European Council. [27215/25] "
+    },
+    "contextDate": "2025-06-10"
+  },
+  {
+    "question": {
+      "by": {
+        "memberCode": "Naoise-Ó-Cearúil.D.2024-11-29",
+        "showAs": "Naoise Ó Cearúil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Naoise-Ó-Cearúil.D.2024-11-29"
+      },
+      "date": "2025-06-10",
+      "questionType": "oral",
+      "questionNumber": 7,
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-10/debate/mul@/dbsect_12.xml"
+          },
+          "pdf": null
+        },
+        "debateSectionId": "dbsect_12",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-10/debate/dbsect_12",
+        "showAs": "European Council"
+      },
+      "to": {
+        "roleType": null,
+        "showAs": "Taoiseach",
+        "roleCode": null,
+        "uri": null
+      },
+      "house": {
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "houseCode": "dail",
+        "chamberType": "house",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-06-10/pq_7",
+      "showAs": " 7. Deputy Naoise Ó Cearúil asked the Taoiseach to report on his attendance at the recent European Council. [27219/25] "
+    },
+    "contextDate": "2025-06-10"
+  },
+  {
+    "question": {
+      "by": {
+        "memberCode": "Ivana-Bacik.S.2007-07-23",
+        "showAs": "Ivana Bacik",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ivana-Bacik.S.2007-07-23"
+      },
+      "date": "2025-06-10",
+      "questionType": "oral",
+      "questionNumber": 8,
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-10/debate/mul@/dbsect_13.xml"
+          },
+          "pdf": null
+        },
+        "debateSectionId": "dbsect_13",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-10/debate/dbsect_13",
+        "showAs": "Disability Services"
+      },
+      "to": {
+        "roleType": null,
+        "showAs": "Taoiseach",
+        "roleCode": null,
+        "uri": null
+      },
+      "house": {
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "houseCode": "dail",
+        "chamberType": "house",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-06-10/pq_8",
+      "showAs": " 8. Deputy Ivana Bacik asked the Taoiseach when the Cabinet Committee on Disability will next meet. [16741/25] "
+    },
+    "contextDate": "2025-06-10"
+  },
+  {
+    "question": {
+      "by": {
+        "memberCode": "Ruairí-Ó-Murchú.D.2020-02-08",
+        "showAs": "Ruairí Ó Murchú",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruairí-Ó-Murchú.D.2020-02-08"
+      },
+      "date": "2025-06-10",
+      "questionType": "oral",
+      "questionNumber": 9,
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-10/debate/mul@/dbsect_13.xml"
+          },
+          "pdf": null
+        },
+        "debateSectionId": "dbsect_13",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-10/debate/dbsect_13",
+        "showAs": "Disability Services"
+      },
+      "to": {
+        "roleType": null,
+        "showAs": "Taoiseach",
+        "roleCode": null,
+        "uri": null
+      },
+      "house": {
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "houseCode": "dail",
+        "chamberType": "house",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-06-10/pq_9",
+      "showAs": " 9. Deputy Ruairí Ó Murchú asked the Taoiseach when the Cabinet Committee on Disability will next meet. [23471/25] "
+    },
+    "contextDate": "2025-06-10"
+  },
+  {
+    "question": {
+      "by": {
+        "memberCode": "Ruth-Coppinger.D.2014-05-23",
+        "showAs": "Ruth Coppinger",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruth-Coppinger.D.2014-05-23"
+      },
+      "date": "2025-06-10",
+      "questionType": "oral",
+      "questionNumber": 10,
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-10/debate/mul@/dbsect_13.xml"
+          },
+          "pdf": null
+        },
+        "debateSectionId": "dbsect_13",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-10/debate/dbsect_13",
+        "showAs": "Disability Services"
+      },
+      "to": {
+        "roleType": null,
+        "showAs": "Taoiseach",
+        "roleCode": null,
+        "uri": null
+      },
+      "house": {
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "houseCode": "dail",
+        "chamberType": "house",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-06-10/pq_10",
+      "showAs": " 10. Deputy Ruth Coppinger asked the Taoiseach when the Cabinet Committee on Disability will next meet. [26852/25] "
+    },
+    "contextDate": "2025-06-10"
+  },
+  {
+    "question": {
+      "by": {
+        "memberCode": "Martin-Daly.D.2024-11-29",
+        "showAs": "Martin Daly",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Martin-Daly.D.2024-11-29"
+      },
+      "date": "2025-06-10",
+      "questionType": "oral",
+      "questionNumber": 11,
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-10/debate/mul@/dbsect_13.xml"
+          },
+          "pdf": null
+        },
+        "debateSectionId": "dbsect_13",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-10/debate/dbsect_13",
+        "showAs": "Disability Services"
+      },
+      "to": {
+        "roleType": null,
+        "showAs": "Taoiseach",
+        "roleCode": null,
+        "uri": null
+      },
+      "house": {
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "houseCode": "dail",
+        "chamberType": "house",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-06-10/pq_11",
+      "showAs": " 11. Deputy Martin Daly asked the Taoiseach when the Cabinet Committee on Disability will next meet. [27569/25] "
+    },
+    "contextDate": "2025-06-10"
+  },
+  {
+    "question": {
+      "by": {
+        "memberCode": "Paul-McAuliffe.D.2020-02-08",
+        "showAs": "Paul McAuliffe",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-McAuliffe.D.2020-02-08"
+      },
+      "date": "2025-06-10",
+      "questionType": "oral",
+      "questionNumber": 12,
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-10/debate/mul@/dbsect_13.xml"
+          },
+          "pdf": null
+        },
+        "debateSectionId": "dbsect_13",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-10/debate/dbsect_13",
+        "showAs": "Disability Services"
+      },
+      "to": {
+        "roleType": null,
+        "showAs": "Taoiseach",
+        "roleCode": null,
+        "uri": null
+      },
+      "house": {
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "houseCode": "dail",
+        "chamberType": "house",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-06-10/pq_12",
+      "showAs": " 12. Deputy Paul McAuliffe asked the Taoiseach when the Cabinet Committee on Disability will next meet. [27570/25] "
+    },
+    "contextDate": "2025-06-10"
+  },
+  {
+    "question": {
+      "by": {
+        "memberCode": "Pádraig-O'Sullivan.D.2019-11-29",
+        "showAs": "Pádraig O'Sullivan",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Pádraig-O'Sullivan.D.2019-11-29"
+      },
+      "date": "2025-06-10",
+      "questionType": "oral",
+      "questionNumber": 13,
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-10/debate/mul@/dbsect_13.xml"
+          },
+          "pdf": null
+        },
+        "debateSectionId": "dbsect_13",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-10/debate/dbsect_13",
+        "showAs": "Disability Services"
+      },
+      "to": {
+        "roleType": null,
+        "showAs": "Taoiseach",
+        "roleCode": null,
+        "uri": null
+      },
+      "house": {
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "houseCode": "dail",
+        "chamberType": "house",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-06-10/pq_13",
+      "showAs": " 13. Deputy Pádraig O'Sullivan asked the Taoiseach when the Cabinet Committee on Disability will next meet. [27571/25] "
+    },
+    "contextDate": "2025-06-10"
+  },
+  {
+    "question": {
+      "by": {
+        "memberCode": "Catherine-Ardagh.S.2016-04-25",
+        "showAs": "Catherine Ardagh",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Catherine-Ardagh.S.2016-04-25"
+      },
+      "date": "2025-06-10",
+      "questionType": "oral",
+      "questionNumber": 14,
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-10/debate/mul@/dbsect_13.xml"
+          },
+          "pdf": null
+        },
+        "debateSectionId": "dbsect_13",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-10/debate/dbsect_13",
+        "showAs": "Disability Services"
+      },
+      "to": {
+        "roleType": null,
+        "showAs": "Taoiseach",
+        "roleCode": null,
+        "uri": null
+      },
+      "house": {
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "houseCode": "dail",
+        "chamberType": "house",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-06-10/pq_14",
+      "showAs": " 14. Deputy Catherine Ardagh asked the Taoiseach when the Cabinet Committee on Disability will next meet. [27572/25] "
+    },
+    "contextDate": "2025-06-10"
+  },
+  {
+    "question": {
+      "by": {
+        "memberCode": "Paul-Murphy.D.2014-10-10",
+        "showAs": "Paul Murphy",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Murphy.D.2014-10-10"
+      },
+      "date": "2025-06-10",
+      "questionType": "oral",
+      "questionNumber": 15,
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-10/debate/mul@/dbsect_13.xml"
+          },
+          "pdf": null
+        },
+        "debateSectionId": "dbsect_13",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-10/debate/dbsect_13",
+        "showAs": "Disability Services"
+      },
+      "to": {
+        "roleType": null,
+        "showAs": "Taoiseach",
+        "roleCode": null,
+        "uri": null
+      },
+      "house": {
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "houseCode": "dail",
+        "chamberType": "house",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-06-10/pq_15",
+      "showAs": " 15. Deputy Paul Murphy asked the Taoiseach when the Cabinet Committee on Disability will next meet. [29326/25] "
+    },
+    "contextDate": "2025-06-10"
+  },
+  {
+    "question": {
+      "by": {
+        "memberCode": "Aisling-Dempsey.D.2024-11-29",
+        "showAs": "Aisling Dempsey",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Aisling-Dempsey.D.2024-11-29"
+      },
+      "date": "2025-06-10",
+      "questionType": "oral",
+      "questionNumber": 16,
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-10/debate/mul@/dbsect_13.xml"
+          },
+          "pdf": null
+        },
+        "debateSectionId": "dbsect_13",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-10/debate/dbsect_13",
+        "showAs": "Disability Services"
+      },
+      "to": {
+        "roleType": null,
+        "showAs": "Taoiseach",
+        "roleCode": null,
+        "uri": null
+      },
+      "house": {
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "houseCode": "dail",
+        "chamberType": "house",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-06-10/pq_16",
+      "showAs": " 16. Deputy Aisling Dempsey asked the Taoiseach when the Cabinet Committee on Disability will next meet. [29816/25] "
+    },
+    "contextDate": "2025-06-10"
+  },
+  {
+    "question": {
+      "by": {
+        "memberCode": "Conor-D-McGuinness.D.2024-11-29",
+        "showAs": "Conor D McGuinness",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Conor-D-McGuinness.D.2024-11-29"
+      },
+      "date": "2025-06-10",
+      "questionType": "oral",
+      "questionNumber": 17,
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-10/debate/mul@/dbsect_13.xml"
+          },
+          "pdf": null
+        },
+        "debateSectionId": "dbsect_13",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-10/debate/dbsect_13",
+        "showAs": "Disability Services"
+      },
+      "to": {
+        "roleType": null,
+        "showAs": "Taoiseach",
+        "roleCode": null,
+        "uri": null
+      },
+      "house": {
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "houseCode": "dail",
+        "chamberType": "house",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-06-10/pq_17",
+      "showAs": " 17. Deputy Conor D. McGuinness asked the Taoiseach when the Cabinet Committee on Disability will next meet. [30139/25] "
+    },
+    "contextDate": "2025-06-10"
+  },
+  {
+    "question": {
+      "by": {
+        "memberCode": "Mark-Ward.D.2019-11-29",
+        "showAs": "Mark Ward",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Mark-Ward.D.2019-11-29"
+      },
+      "date": "2025-06-10",
+      "questionType": "oral",
+      "questionNumber": 18,
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-10/debate/mul@/dbsect_13.xml"
+          },
+          "pdf": null
+        },
+        "debateSectionId": "dbsect_13",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-10/debate/dbsect_13",
+        "showAs": "Disability Services"
+      },
+      "to": {
+        "roleType": null,
+        "showAs": "Taoiseach",
+        "roleCode": null,
+        "uri": null
+      },
+      "house": {
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "houseCode": "dail",
+        "chamberType": "house",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-06-10/pq_18",
+      "showAs": " 18. Deputy Mark Ward asked the Taoiseach when the Cabinet Committee on Disability will next meet. [30180/25] "
+    },
+    "contextDate": "2025-06-10"
+  },
+  {
+    "question": {
+      "by": {
+        "memberCode": "James-Geoghegan.D.2024-11-29",
+        "showAs": "James Geoghegan",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/James-Geoghegan.D.2024-11-29"
+      },
+      "date": "2025-06-10",
+      "questionType": "oral",
+      "questionNumber": 19,
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-10/debate/mul@/dbsect_13.xml"
+          },
+          "pdf": null
+        },
+        "debateSectionId": "dbsect_13",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-10/debate/dbsect_13",
+        "showAs": "Disability Services"
+      },
+      "to": {
+        "roleType": null,
+        "showAs": "Taoiseach",
+        "roleCode": null,
+        "uri": null
+      },
+      "house": {
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "houseCode": "dail",
+        "chamberType": "house",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-06-10/pq_19",
+      "showAs": " 19. Deputy James Geoghegan asked the Taoiseach when the Cabinet Committee on Disability will next meet. [30254/25] "
+    },
+    "contextDate": "2025-06-10"
+  },
+  {
+    "question": {
+      "by": {
+        "memberCode": "Pat-the-Cope-Gallagher.D.1981-06-30",
+        "showAs": "Pat the Cope Gallagher",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Pat-the-Cope-Gallagher.D.1981-06-30"
+      },
+      "date": "2025-06-10",
+      "questionType": "oral",
+      "questionNumber": 20,
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-10/debate/mul@/dbsect_14.xml"
+          },
+          "pdf": null
+        },
+        "debateSectionId": "dbsect_14",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-10/debate/dbsect_14",
+        "showAs": "Departmental Programmes"
+      },
+      "to": {
+        "roleType": null,
+        "showAs": "Taoiseach",
+        "roleCode": null,
+        "uri": null
+      },
+      "house": {
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "houseCode": "dail",
+        "chamberType": "house",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-06-10/pq_20",
+      "showAs": " 20. Deputy Pat the Cope Gallagher asked the Taoiseach for a report on new shared island projects. [16782/25] "
+    },
+    "contextDate": "2025-06-10"
+  },
+  {
+    "question": {
+      "by": {
+        "memberCode": "Cormac-Devlin.D.2020-02-08",
+        "showAs": "Cormac Devlin",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Cormac-Devlin.D.2020-02-08"
+      },
+      "date": "2025-06-10",
+      "questionType": "oral",
+      "questionNumber": 21,
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-10/debate/mul@/dbsect_14.xml"
+          },
+          "pdf": null
+        },
+        "debateSectionId": "dbsect_14",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-10/debate/dbsect_14",
+        "showAs": "Departmental Programmes"
+      },
+      "to": {
+        "roleType": null,
+        "showAs": "Taoiseach",
+        "roleCode": null,
+        "uri": null
+      },
+      "house": {
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "houseCode": "dail",
+        "chamberType": "house",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-06-10/pq_21",
+      "showAs": " 21. Deputy Cormac Devlin asked the Taoiseach for a report on new shared island projects. [22202/25] "
+    },
+    "contextDate": "2025-06-10"
+  },
+  {
+    "question": {
+      "by": {
+        "memberCode": "Shane-Moynihan.D.2024-11-29",
+        "showAs": "Shane Moynihan",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Shane-Moynihan.D.2024-11-29"
+      },
+      "date": "2025-06-10",
+      "questionType": "oral",
+      "questionNumber": 22,
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-10/debate/mul@/dbsect_14.xml"
+          },
+          "pdf": null
+        },
+        "debateSectionId": "dbsect_14",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-10/debate/dbsect_14",
+        "showAs": "Departmental Programmes"
+      },
+      "to": {
+        "roleType": null,
+        "showAs": "Taoiseach",
+        "roleCode": null,
+        "uri": null
+      },
+      "house": {
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "houseCode": "dail",
+        "chamberType": "house",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-06-10/pq_22",
+      "showAs": " 22. Deputy Shane Moynihan asked the Taoiseach if he will report on the work being carried out by the shared island unit with sport's governing bodies in promoting its objectives through grassroots engagement. [22408/25] "
+    },
+    "contextDate": "2025-06-10"
+  },
+  {
+    "question": {
+      "by": {
+        "memberCode": "Naoise-Ó-Cearúil.D.2024-11-29",
+        "showAs": "Naoise Ó Cearúil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Naoise-Ó-Cearúil.D.2024-11-29"
+      },
+      "date": "2025-06-10",
+      "questionType": "oral",
+      "questionNumber": 23,
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-10/debate/mul@/dbsect_14.xml"
+          },
+          "pdf": null
+        },
+        "debateSectionId": "dbsect_14",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-10/debate/dbsect_14",
+        "showAs": "Departmental Programmes"
+      },
+      "to": {
+        "roleType": null,
+        "showAs": "Taoiseach",
+        "roleCode": null,
+        "uri": null
+      },
+      "house": {
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "houseCode": "dail",
+        "chamberType": "house",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-06-10/pq_23",
+      "showAs": " 23. Deputy Naoise Ó Cearúil asked the Taoiseach to report on the recent work of the Economic and Social Research Institute as part of the shared island initiative. [22483/25] "
+    },
+    "contextDate": "2025-06-10"
+  },
+  {
+    "question": {
+      "by": {
+        "memberCode": "Ruairí-Ó-Murchú.D.2020-02-08",
+        "showAs": "Ruairí Ó Murchú",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruairí-Ó-Murchú.D.2020-02-08"
+      },
+      "date": "2025-06-10",
+      "questionType": "oral",
+      "questionNumber": 24,
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-10/debate/mul@/dbsect_14.xml"
+          },
+          "pdf": null
+        },
+        "debateSectionId": "dbsect_14",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-10/debate/dbsect_14",
+        "showAs": "Departmental Programmes"
+      },
+      "to": {
+        "roleType": null,
+        "showAs": "Taoiseach",
+        "roleCode": null,
+        "uri": null
+      },
+      "house": {
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "houseCode": "dail",
+        "chamberType": "house",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-06-10/pq_24",
+      "showAs": " 24. Deputy Ruairí Ó Murchú asked the Taoiseach to provide an update on the shared island initiative. [23472/25] "
+    },
+    "contextDate": "2025-06-10"
+  },
+  {
+    "question": {
+      "by": {
+        "memberCode": "Paul-Lawless.D.2024-11-29",
+        "showAs": "Paul Lawless",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Lawless.D.2024-11-29"
+      },
+      "date": "2025-06-10",
+      "questionType": "oral",
+      "questionNumber": 25,
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-10/debate/mul@/dbsect_14.xml"
+          },
+          "pdf": null
+        },
+        "debateSectionId": "dbsect_14",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-10/debate/dbsect_14",
+        "showAs": "Departmental Programmes"
+      },
+      "to": {
+        "roleType": null,
+        "showAs": "Taoiseach",
+        "roleCode": null,
+        "uri": null
+      },
+      "house": {
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "houseCode": "dail",
+        "chamberType": "house",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-06-10/pq_25",
+      "showAs": " 25. Deputy Paul Lawless asked the Taoiseach if he will provide details of the new projects that will be delivered under the shared island scheme in the next five years. [25742/25] "
+    },
+    "contextDate": "2025-06-10"
+  },
+  {
+    "question": {
+      "by": {
+        "memberCode": "Brendan-Smith.D.1992-12-14",
+        "showAs": "Brendan Smith",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Brendan-Smith.D.1992-12-14"
+      },
+      "date": "2025-06-10",
+      "questionType": "oral",
+      "questionNumber": 26,
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-10/debate/mul@/dbsect_14.xml"
+          },
+          "pdf": null
+        },
+        "debateSectionId": "dbsect_14",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-10/debate/dbsect_14",
+        "showAs": "Departmental Programmes"
+      },
+      "to": {
+        "roleType": null,
+        "showAs": "Taoiseach",
+        "roleCode": null,
+        "uri": null
+      },
+      "house": {
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "houseCode": "dail",
+        "chamberType": "house",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-06-10/pq_26",
+      "showAs": " 26. Deputy Brendan Smith asked the Taoiseach for a report on new shared island projects. [25991/25] "
+    },
+    "contextDate": "2025-06-10"
+  },
+  {
+    "question": {
+      "by": {
+        "memberCode": "Ivana-Bacik.S.2007-07-23",
+        "showAs": "Ivana Bacik",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ivana-Bacik.S.2007-07-23"
+      },
+      "date": "2025-06-10",
+      "questionType": "oral",
+      "questionNumber": 27,
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-10/debate/mul@/dbsect_14.xml"
+          },
+          "pdf": null
+        },
+        "debateSectionId": "dbsect_14",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-10/debate/dbsect_14",
+        "showAs": "Departmental Programmes"
+      },
+      "to": {
+        "roleType": null,
+        "showAs": "Taoiseach",
+        "roleCode": null,
+        "uri": null
+      },
+      "house": {
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "houseCode": "dail",
+        "chamberType": "house",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-06-10/pq_27",
+      "showAs": " 27. Deputy Ivana Bacik asked the Taoiseach if he will provide an update on the shared island initiative. [26916/25] "
+    },
+    "contextDate": "2025-06-10"
+  },
+  {
+    "question": {
+      "by": {
+        "memberCode": "Paul-Murphy.D.2014-10-10",
+        "showAs": "Paul Murphy",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Murphy.D.2014-10-10"
+      },
+      "date": "2025-06-10",
+      "questionType": "oral",
+      "questionNumber": 28,
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-10/debate/mul@/dbsect_14.xml"
+          },
+          "pdf": null
+        },
+        "debateSectionId": "dbsect_14",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-10/debate/dbsect_14",
+        "showAs": "Departmental Programmes"
+      },
+      "to": {
+        "roleType": null,
+        "showAs": "Taoiseach",
+        "roleCode": null,
+        "uri": null
+      },
+      "house": {
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "houseCode": "dail",
+        "chamberType": "house",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-06-10/pq_28",
+      "showAs": " 28. Deputy Paul Murphy asked the Taoiseach for a report on new shared island projects. [29327/25] "
+    },
+    "contextDate": "2025-06-10"
+  },
+  {
+    "question": {
+      "by": {
+        "memberCode": "Ruth-Coppinger.D.2014-05-23",
+        "showAs": "Ruth Coppinger",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruth-Coppinger.D.2014-05-23"
+      },
+      "date": "2025-06-10",
+      "questionType": "oral",
+      "questionNumber": 29,
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-10/debate/mul@/dbsect_14.xml"
+          },
+          "pdf": null
+        },
+        "debateSectionId": "dbsect_14",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-10/debate/dbsect_14",
+        "showAs": "Departmental Programmes"
+      },
+      "to": {
+        "roleType": null,
+        "showAs": "Taoiseach",
+        "roleCode": null,
+        "uri": null
+      },
+      "house": {
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "houseCode": "dail",
+        "chamberType": "house",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-06-10/pq_29",
+      "showAs": " 29. Deputy Ruth Coppinger asked the Taoiseach to provide an update on the shared island initiative. [29590/25] "
+    },
+    "contextDate": "2025-06-10"
+  },
+  {
+    "question": {
+      "by": {
+        "memberCode": "Erin-McGreehan.S.2020-06-29",
+        "showAs": "Erin McGreehan",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Erin-McGreehan.S.2020-06-29"
+      },
+      "date": "2025-06-10",
+      "questionType": "oral",
+      "questionNumber": 30,
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-10/debate/mul@/dbsect_14.xml"
+          },
+          "pdf": null
+        },
+        "debateSectionId": "dbsect_14",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-10/debate/dbsect_14",
+        "showAs": "Departmental Programmes"
+      },
+      "to": {
+        "roleType": null,
+        "showAs": "Taoiseach",
+        "roleCode": null,
+        "uri": null
+      },
+      "house": {
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "houseCode": "dail",
+        "chamberType": "house",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-06-10/pq_30",
+      "showAs": " 30. Deputy Erin McGreehan asked the Taoiseach for a report on new shared island projects. [29727/25] "
+    },
+    "contextDate": "2025-06-10"
+  },
+  {
+    "question": {
+      "by": {
+        "memberCode": "Conor-D-McGuinness.D.2024-11-29",
+        "showAs": "Conor D McGuinness",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Conor-D-McGuinness.D.2024-11-29"
+      },
+      "date": "2025-06-10",
+      "questionType": "oral",
+      "questionNumber": 31,
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-10/debate/mul@/dbsect_14.xml"
+          },
+          "pdf": null
+        },
+        "debateSectionId": "dbsect_14",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-10/debate/dbsect_14",
+        "showAs": "Departmental Programmes"
+      },
+      "to": {
+        "roleType": null,
+        "showAs": "Taoiseach",
+        "roleCode": null,
+        "uri": null
+      },
+      "house": {
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "houseCode": "dail",
+        "chamberType": "house",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-06-10/pq_31",
+      "showAs": " 31. Deputy Conor D. McGuinness asked the Taoiseach for a report on new shared island projects. [30140/25] "
+    },
+    "contextDate": "2025-06-10"
+  }
+]

@@ -1,1562 +1,1562 @@
 [
   {
-    "contextDate": "2025-06-12",
     "question": {
+      "showAs": " 1. Deputy Donnchadh Ó Laoghaire asked the Tánaiste and Minister for Defence his views on the implications of reduced capacity at Casement Aerodrome at Baldonnel caused by a reduction in staff. [31320/25] ",
       "questionType": "oral",
-      "date": "2025-06-12",
       "house": {
-        "houseNo": "34",
+        "committeeCode": "",
         "showAs": "34th Dáil",
+        "houseNo": "34",
         "chamberType": "house",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "committeeCode": "",
         "houseCode": "dail"
       },
-      "questionNumber": 1,
-      "showAs": " 1. Deputy Donnchadh Ó Laoghaire asked the Tánaiste and Minister for Defence his views on the implications of reduced capacity at Casement Aerodrome at Baldonnel caused by a reduction in staff. [31320/25] ",
-      "by": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Donnchadh-Ó-Laoghaire.D.2016-10-03",
-        "memberCode": "Donnchadh-Ó-Laoghaire.D.2016-10-03",
-        "showAs": "Donnchadh Ó Laoghaire"
-      },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-06-12/pq_1",
+      "to": {
+        "roleCode": null,
+        "showAs": "Defence",
+        "roleType": null,
+        "uri": null
+      },
+      "questionNumber": 1,
+      "date": "2025-06-12",
       "debateSection": {
+        "showAs": "Air Corps",
         "debateSectionId": "dbsect_3",
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-12/debate/dbsect_3",
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-12/debate/mul@/dbsect_3.xml"
-          },
-          "pdf": null
-        },
-        "showAs": "Air Corps"
+          }
+        }
       },
-      "to": {
-        "roleCode": null,
-        "roleType": null,
-        "uri": null,
-        "showAs": "Defence"
+      "by": {
+        "showAs": "Donnchadh Ó Laoghaire",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Donnchadh-Ó-Laoghaire.D.2016-10-03",
+        "memberCode": "Donnchadh-Ó-Laoghaire.D.2016-10-03"
       }
-    }
+    },
+    "contextDate": "2025-06-12"
   },
   {
-    "contextDate": "2025-06-12",
     "question": {
+      "showAs": " 2. Deputy Sinéad Gibney asked the Tánaiste and Minister for Defence the human rights monitoring mechanism, if any, planned for missions without a UN mandate in light of the proposed removal of the triple lock, given the potential lack human rights monitoring at UN level in missions without a UN mandate; and if he will make a statement on the matter. [31235/25] ",
       "questionType": "oral",
-      "date": "2025-06-12",
       "house": {
-        "houseNo": "34",
+        "committeeCode": "",
         "showAs": "34th Dáil",
+        "houseNo": "34",
         "chamberType": "house",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "committeeCode": "",
         "houseCode": "dail"
       },
-      "questionNumber": 2,
-      "showAs": " 2. Deputy Sinéad Gibney asked the Tánaiste and Minister for Defence the human rights monitoring mechanism, if any, planned for missions without a UN mandate in light of the proposed removal of the triple lock, given the potential lack human rights monitoring at UN level in missions without a UN mandate; and if he will make a statement on the matter. [31235/25] ",
-      "by": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Sinéad-Gibney.D.2024-11-29",
-        "memberCode": "Sinéad-Gibney.D.2024-11-29",
-        "showAs": "Sinéad Gibney"
-      },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-06-12/pq_2",
+      "to": {
+        "roleCode": null,
+        "showAs": "Defence",
+        "roleType": null,
+        "uri": null
+      },
+      "questionNumber": 2,
+      "date": "2025-06-12",
       "debateSection": {
+        "showAs": "Military Neutrality",
         "debateSectionId": "dbsect_4",
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-12/debate/dbsect_4",
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-12/debate/mul@/dbsect_4.xml"
-          },
-          "pdf": null
-        },
-        "showAs": "Military Neutrality"
+          }
+        }
       },
-      "to": {
-        "roleCode": null,
-        "roleType": null,
-        "uri": null,
-        "showAs": "Defence"
+      "by": {
+        "showAs": "Sinéad Gibney",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Sinéad-Gibney.D.2024-11-29",
+        "memberCode": "Sinéad-Gibney.D.2024-11-29"
       }
-    }
+    },
+    "contextDate": "2025-06-12"
   },
   {
-    "contextDate": "2025-06-12",
     "question": {
+      "showAs": " 3. Deputy Donnchadh Ó Laoghaire asked the Tánaiste and Minister for Defence to outline, further to recent Dáil debates, his views on past health and safety measures in the Air Corps, and potential engagements with interested groups; and if he will make a statement on the matter. [31321/25] ",
       "questionType": "oral",
-      "date": "2025-06-12",
       "house": {
-        "houseNo": "34",
+        "committeeCode": "",
         "showAs": "34th Dáil",
+        "houseNo": "34",
         "chamberType": "house",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "committeeCode": "",
         "houseCode": "dail"
       },
-      "questionNumber": 3,
-      "showAs": " 3. Deputy Donnchadh Ó Laoghaire asked the Tánaiste and Minister for Defence to outline, further to recent Dáil debates, his views on past health and safety measures in the Air Corps, and potential engagements with interested groups; and if he will make a statement on the matter. [31321/25] ",
-      "by": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Donnchadh-Ó-Laoghaire.D.2016-10-03",
-        "memberCode": "Donnchadh-Ó-Laoghaire.D.2016-10-03",
-        "showAs": "Donnchadh Ó Laoghaire"
-      },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-06-12/pq_3",
+      "to": {
+        "roleCode": null,
+        "showAs": "Defence",
+        "roleType": null,
+        "uri": null
+      },
+      "questionNumber": 3,
+      "date": "2025-06-12",
       "debateSection": {
+        "showAs": "Air Corps",
         "debateSectionId": "dbsect_5",
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-12/debate/dbsect_5",
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-12/debate/mul@/dbsect_5.xml"
-          },
-          "pdf": null
-        },
-        "showAs": "Air Corps"
+          }
+        }
       },
-      "to": {
-        "roleCode": null,
-        "roleType": null,
-        "uri": null,
-        "showAs": "Defence"
+      "by": {
+        "showAs": "Donnchadh Ó Laoghaire",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Donnchadh-Ó-Laoghaire.D.2016-10-03",
+        "memberCode": "Donnchadh-Ó-Laoghaire.D.2016-10-03"
       }
-    }
+    },
+    "contextDate": "2025-06-12"
   },
   {
-    "contextDate": "2025-06-12",
     "question": {
+      "showAs": " 4. Deputy Donnchadh Ó Laoghaire asked the Tánaiste and Minister for Defence if he will outline his proposals to remove the triple lock neutrality protection; and if he will make a statement on the matter. [31322/25] ",
       "questionType": "oral",
-      "date": "2025-06-12",
       "house": {
-        "houseNo": "34",
+        "committeeCode": "",
         "showAs": "34th Dáil",
+        "houseNo": "34",
         "chamberType": "house",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "committeeCode": "",
         "houseCode": "dail"
       },
-      "questionNumber": 4,
-      "showAs": " 4. Deputy Donnchadh Ó Laoghaire asked the Tánaiste and Minister for Defence if he will outline his proposals to remove the triple lock neutrality protection; and if he will make a statement on the matter. [31322/25] ",
-      "by": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Donnchadh-Ó-Laoghaire.D.2016-10-03",
-        "memberCode": "Donnchadh-Ó-Laoghaire.D.2016-10-03",
-        "showAs": "Donnchadh Ó Laoghaire"
-      },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-06-12/pq_4",
+      "to": {
+        "roleCode": null,
+        "showAs": "Defence",
+        "roleType": null,
+        "uri": null
+      },
+      "questionNumber": 4,
+      "date": "2025-06-12",
       "debateSection": {
+        "showAs": "Military Neutrality",
         "debateSectionId": "dbsect_4",
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-12/debate/dbsect_4",
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-12/debate/mul@/dbsect_4.xml"
-          },
-          "pdf": null
-        },
-        "showAs": "Military Neutrality"
+          }
+        }
       },
-      "to": {
-        "roleCode": null,
-        "roleType": null,
-        "uri": null,
-        "showAs": "Defence"
+      "by": {
+        "showAs": "Donnchadh Ó Laoghaire",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Donnchadh-Ó-Laoghaire.D.2016-10-03",
+        "memberCode": "Donnchadh-Ó-Laoghaire.D.2016-10-03"
       }
-    }
+    },
+    "contextDate": "2025-06-12"
   },
   {
-    "contextDate": "2025-06-12",
     "question": {
+      "showAs": " 5. Deputy Tom Brabazon asked the Tánaiste and Minister for Defence the actions his Department is taking to ensure that Casement Aerodrome is fit for purpose in terms of infrastructure, capacity, and operational efficiency. [31286/25] ",
       "questionType": "oral",
-      "date": "2025-06-12",
       "house": {
-        "houseNo": "34",
+        "committeeCode": "",
         "showAs": "34th Dáil",
+        "houseNo": "34",
         "chamberType": "house",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "committeeCode": "",
         "houseCode": "dail"
       },
-      "questionNumber": 5,
-      "showAs": " 5. Deputy Tom Brabazon asked the Tánaiste and Minister for Defence the actions his Department is taking to ensure that Casement Aerodrome is fit for purpose in terms of infrastructure, capacity, and operational efficiency. [31286/25] ",
-      "by": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tom-Brabazon.D.2024-11-29",
-        "memberCode": "Tom-Brabazon.D.2024-11-29",
-        "showAs": "Tom Brabazon"
-      },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-06-12/pq_5",
+      "to": {
+        "roleCode": null,
+        "showAs": "Defence",
+        "roleType": null,
+        "uri": null
+      },
+      "questionNumber": 5,
+      "date": "2025-06-12",
       "debateSection": {
+        "showAs": "Air Corps",
         "debateSectionId": "dbsect_6",
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-12/debate/dbsect_6",
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-12/debate/mul@/dbsect_6.xml"
-          },
-          "pdf": null
-        },
-        "showAs": "Air Corps"
+          }
+        }
       },
-      "to": {
-        "roleCode": null,
-        "roleType": null,
-        "uri": null,
-        "showAs": "Defence"
+      "by": {
+        "showAs": "Tom Brabazon",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tom-Brabazon.D.2024-11-29",
+        "memberCode": "Tom-Brabazon.D.2024-11-29"
       }
-    }
+    },
+    "contextDate": "2025-06-12"
   },
   {
-    "contextDate": "2025-06-12",
     "question": {
+      "showAs": " 6. Deputy John Connolly asked the Tánaiste and Minister for Defence for an update on the development of a national maritime security strategy; and if he will make a statement on the matter. [31156/25] ",
       "questionType": "oral",
-      "date": "2025-06-12",
       "house": {
-        "houseNo": "34",
+        "committeeCode": "",
         "showAs": "34th Dáil",
+        "houseNo": "34",
         "chamberType": "house",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "committeeCode": "",
         "houseCode": "dail"
       },
-      "questionNumber": 6,
-      "showAs": " 6. Deputy John Connolly asked the Tánaiste and Minister for Defence for an update on the development of a national maritime security strategy; and if he will make a statement on the matter. [31156/25] ",
-      "by": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/John-Connolly.D.2024-11-29",
-        "memberCode": "John-Connolly.D.2024-11-29",
-        "showAs": "John Connolly"
-      },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-06-12/pq_6",
+      "to": {
+        "roleCode": null,
+        "showAs": "Defence",
+        "roleType": null,
+        "uri": null
+      },
+      "questionNumber": 6,
+      "date": "2025-06-12",
       "debateSection": {
+        "showAs": "Naval Service",
         "debateSectionId": "dbsect_8",
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-12/debate/dbsect_8",
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-12/debate/mul@/dbsect_8.xml"
-          },
-          "pdf": null
-        },
-        "showAs": "Naval Service"
+          }
+        }
       },
-      "to": {
-        "roleCode": null,
-        "roleType": null,
-        "uri": null,
-        "showAs": "Defence"
+      "by": {
+        "showAs": "John Connolly",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/John-Connolly.D.2024-11-29",
+        "memberCode": "John-Connolly.D.2024-11-29"
       }
-    }
+    },
+    "contextDate": "2025-06-12"
   },
   {
-    "contextDate": "2025-06-12",
     "question": {
+      "showAs": " 7. Deputy Seán Crowe asked the Tánaiste and Minister for Defence if he intends to establish a special review body to examine means of retention of skilled technicians in the Defence Forces; and if the timeframe for the process. [30785/25] ",
       "questionType": "oral",
-      "date": "2025-06-12",
       "house": {
-        "houseNo": "34",
+        "committeeCode": "",
         "showAs": "34th Dáil",
+        "houseNo": "34",
         "chamberType": "house",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "committeeCode": "",
         "houseCode": "dail"
       },
-      "questionNumber": 7,
-      "showAs": " 7. Deputy Seán Crowe asked the Tánaiste and Minister for Defence if he intends to establish a special review body to examine means of retention of skilled technicians in the Defence Forces; and if the timeframe for the process. [30785/25] ",
-      "by": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Seán-Crowe.D.2002-06-06",
-        "memberCode": "Seán-Crowe.D.2002-06-06",
-        "showAs": "Seán Crowe"
-      },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-06-12/pq_7",
+      "to": {
+        "roleCode": null,
+        "showAs": "Defence",
+        "roleType": null,
+        "uri": null
+      },
+      "questionNumber": 7,
+      "date": "2025-06-12",
       "debateSection": {
+        "showAs": "Defence Forces",
         "debateSectionId": "dbsect_9",
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-12/debate/dbsect_9",
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-12/debate/mul@/dbsect_9.xml"
-          },
-          "pdf": null
-        },
-        "showAs": "Defence Forces"
+          }
+        }
       },
-      "to": {
-        "roleCode": null,
-        "roleType": null,
-        "uri": null,
-        "showAs": "Defence"
+      "by": {
+        "showAs": "Seán Crowe",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Seán-Crowe.D.2002-06-06",
+        "memberCode": "Seán-Crowe.D.2002-06-06"
       }
-    }
+    },
+    "contextDate": "2025-06-12"
   },
   {
-    "contextDate": "2025-06-12",
     "question": {
+      "showAs": " 8. Deputy Catherine Connolly asked the Tánaiste and Minister for Defence the basis on which the decision has been taken to legislate for the removal of the triple lock; and if he will make a statement on the matter. [31260/25] ",
       "questionType": "oral",
-      "date": "2025-06-12",
       "house": {
-        "houseNo": "34",
+        "committeeCode": "",
         "showAs": "34th Dáil",
+        "houseNo": "34",
         "chamberType": "house",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "committeeCode": "",
         "houseCode": "dail"
       },
-      "questionNumber": 8,
-      "showAs": " 8. Deputy Catherine Connolly asked the Tánaiste and Minister for Defence the basis on which the decision has been taken to legislate for the removal of the triple lock; and if he will make a statement on the matter. [31260/25] ",
-      "by": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Catherine-Connolly.D.2016-10-03",
-        "memberCode": "Catherine-Connolly.D.2016-10-03",
-        "showAs": "Catherine Connolly"
-      },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-06-12/pq_8",
+      "to": {
+        "roleCode": null,
+        "showAs": "Defence",
+        "roleType": null,
+        "uri": null
+      },
+      "questionNumber": 8,
+      "date": "2025-06-12",
       "debateSection": {
+        "showAs": "Military Neutrality",
         "debateSectionId": "dbsect_10",
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-12/debate/dbsect_10",
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-12/debate/mul@/dbsect_10.xml"
-          },
-          "pdf": null
-        },
-        "showAs": "Military Neutrality"
+          }
+        }
       },
-      "to": {
-        "roleCode": null,
-        "roleType": null,
-        "uri": null,
-        "showAs": "Defence"
+      "by": {
+        "showAs": "Catherine Connolly",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Catherine-Connolly.D.2016-10-03",
+        "memberCode": "Catherine-Connolly.D.2016-10-03"
       }
-    }
+    },
+    "contextDate": "2025-06-12"
   },
   {
-    "contextDate": "2025-06-12",
     "question": {
+      "showAs": " 10. Deputy Duncan Smith asked the Tánaiste and Minister for Defence to provide an update on the incident in southern Lebanon where Irish peacekeepers came under fire from the Israel Defence Forces; and if he will make a statement on the matter. [29866/25] ",
       "questionType": "oral",
-      "date": "2025-06-12",
       "house": {
-        "houseNo": "34",
+        "committeeCode": "",
         "showAs": "34th Dáil",
+        "houseNo": "34",
         "chamberType": "house",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "committeeCode": "",
         "houseCode": "dail"
       },
-      "questionNumber": 10,
-      "showAs": " 10. Deputy Duncan Smith asked the Tánaiste and Minister for Defence to provide an update on the incident in southern Lebanon where Irish peacekeepers came under fire from the Israel Defence Forces; and if he will make a statement on the matter. [29866/25] ",
-      "by": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Duncan-Smith.D.2020-02-08",
-        "memberCode": "Duncan-Smith.D.2020-02-08",
-        "showAs": "Duncan Smith"
-      },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-06-12/pq_10",
+      "to": {
+        "roleCode": null,
+        "showAs": "Defence",
+        "roleType": null,
+        "uri": null
+      },
+      "questionNumber": 10,
+      "date": "2025-06-12",
       "debateSection": {
+        "showAs": "Defence Forces",
         "debateSectionId": "dbsect_11",
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-12/debate/dbsect_11",
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-12/debate/mul@/dbsect_11.xml"
-          },
-          "pdf": null
-        },
-        "showAs": "Defence Forces"
+          }
+        }
       },
-      "to": {
-        "roleCode": null,
-        "roleType": null,
-        "uri": null,
-        "showAs": "Defence"
+      "by": {
+        "showAs": "Duncan Smith",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Duncan-Smith.D.2020-02-08",
+        "memberCode": "Duncan-Smith.D.2020-02-08"
       }
-    }
+    },
+    "contextDate": "2025-06-12"
   },
   {
-    "contextDate": "2025-06-12",
     "question": {
+      "showAs": " 11. Deputy Duncan Smith asked the Tánaiste and Minister for Defence the urgent actions he and his Department will take to ensure that the 505 squadron at Casement Aerodrome at Baldonnel is fully staffed and will not be forced to continue to operate at 50% capacity and a reduced flying schedule; and if he will make a statement on the matter. [29865/25] ",
       "questionType": "oral",
-      "date": "2025-06-12",
       "house": {
-        "houseNo": "34",
+        "committeeCode": "",
         "showAs": "34th Dáil",
+        "houseNo": "34",
         "chamberType": "house",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "committeeCode": "",
         "houseCode": "dail"
       },
-      "questionNumber": 11,
-      "showAs": " 11. Deputy Duncan Smith asked the Tánaiste and Minister for Defence the urgent actions he and his Department will take to ensure that the 505 squadron at Casement Aerodrome at Baldonnel is fully staffed and will not be forced to continue to operate at 50% capacity and a reduced flying schedule; and if he will make a statement on the matter. [29865/25] ",
-      "by": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Duncan-Smith.D.2020-02-08",
-        "memberCode": "Duncan-Smith.D.2020-02-08",
-        "showAs": "Duncan Smith"
-      },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-06-12/pq_11",
+      "to": {
+        "roleCode": null,
+        "showAs": "Defence",
+        "roleType": null,
+        "uri": null
+      },
+      "questionNumber": 11,
+      "date": "2025-06-12",
       "debateSection": {
+        "showAs": "Air Corps",
         "debateSectionId": "dbsect_12",
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-12/debate/dbsect_12",
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-12/debate/mul@/dbsect_12.xml"
-          },
-          "pdf": null
-        },
-        "showAs": "Air Corps"
+          }
+        }
       },
-      "to": {
-        "roleCode": null,
-        "roleType": null,
-        "uri": null,
-        "showAs": "Defence"
+      "by": {
+        "showAs": "Duncan Smith",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Duncan-Smith.D.2020-02-08",
+        "memberCode": "Duncan-Smith.D.2020-02-08"
       }
-    }
+    },
+    "contextDate": "2025-06-12"
   },
   {
-    "contextDate": "2025-06-12",
     "question": {
+      "showAs": " 12. Deputy Darren O'Rourke asked the Tánaiste and Minister for Defence if he accepts that abolishing the triple lock was not necessary to release humanitarian deployments or secure the evacuation of Irish citizens abroad, as heard at a recent meeting of the Oireachtas Joint Committee on Defence and National Security; and if he will make a statement on the matter. [30282/25] ",
       "questionType": "oral",
-      "date": "2025-06-12",
       "house": {
-        "houseNo": "34",
+        "committeeCode": "",
         "showAs": "34th Dáil",
+        "houseNo": "34",
         "chamberType": "house",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "committeeCode": "",
         "houseCode": "dail"
       },
-      "questionNumber": 12,
-      "showAs": " 12. Deputy Darren O'Rourke asked the Tánaiste and Minister for Defence if he accepts that abolishing the triple lock was not necessary to release humanitarian deployments or secure the evacuation of Irish citizens abroad, as heard at a recent meeting of the Oireachtas Joint Committee on Defence and National Security; and if he will make a statement on the matter. [30282/25] ",
-      "by": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Darren-O'Rourke.D.2020-02-08",
-        "memberCode": "Darren-O'Rourke.D.2020-02-08",
-        "showAs": "Darren O'Rourke"
-      },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-06-12/pq_12",
+      "to": {
+        "roleCode": null,
+        "showAs": "Defence",
+        "roleType": null,
+        "uri": null
+      },
+      "questionNumber": 12,
+      "date": "2025-06-12",
       "debateSection": {
+        "showAs": "Military Neutrality",
         "debateSectionId": "dbsect_10",
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-12/debate/dbsect_10",
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-12/debate/mul@/dbsect_10.xml"
-          },
-          "pdf": null
-        },
-        "showAs": "Military Neutrality"
+          }
+        }
       },
-      "to": {
-        "roleCode": null,
-        "roleType": null,
-        "uri": null,
-        "showAs": "Defence"
+      "by": {
+        "showAs": "Darren O'Rourke",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Darren-O'Rourke.D.2020-02-08",
+        "memberCode": "Darren-O'Rourke.D.2020-02-08"
       }
-    }
+    },
+    "contextDate": "2025-06-12"
   },
   {
-    "contextDate": "2025-06-12",
     "question": {
+      "showAs": " 13. Deputy Naoise Ó Cearúil asked the Tánaiste and Minister for Defence the role his Department will play in the preparation of a revised national security strategy; and if he will make a statement on the matter. [30994/25] ",
       "questionType": "oral",
-      "date": "2025-06-12",
       "house": {
-        "houseNo": "34",
+        "committeeCode": "",
         "showAs": "34th Dáil",
+        "houseNo": "34",
         "chamberType": "house",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "committeeCode": "",
         "houseCode": "dail"
       },
-      "questionNumber": 13,
-      "showAs": " 13. Deputy Naoise Ó Cearúil asked the Tánaiste and Minister for Defence the role his Department will play in the preparation of a revised national security strategy; and if he will make a statement on the matter. [30994/25] ",
-      "by": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Naoise-Ó-Cearúil.D.2024-11-29",
-        "memberCode": "Naoise-Ó-Cearúil.D.2024-11-29",
-        "showAs": "Naoise Ó Cearúil"
-      },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-06-12/pq_13",
+      "to": {
+        "roleCode": null,
+        "showAs": "Defence",
+        "roleType": null,
+        "uri": null
+      },
+      "questionNumber": 13,
+      "date": "2025-06-12",
       "debateSection": {
+        "showAs": "National Security",
         "debateSectionId": "dbsect_13",
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-12/debate/dbsect_13",
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-12/debate/mul@/dbsect_13.xml"
-          },
-          "pdf": null
-        },
-        "showAs": "National Security"
+          }
+        }
       },
-      "to": {
-        "roleCode": null,
-        "roleType": null,
-        "uri": null,
-        "showAs": "Defence"
+      "by": {
+        "showAs": "Naoise Ó Cearúil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Naoise-Ó-Cearúil.D.2024-11-29",
+        "memberCode": "Naoise-Ó-Cearúil.D.2024-11-29"
       }
-    }
+    },
+    "contextDate": "2025-06-12"
   },
   {
-    "contextDate": "2025-06-12",
     "question": {
+      "showAs": " 17. Deputy Peter 'Chap' Cleere asked the Tánaiste and Minister for Defence if he will report on his recent visit to Lebanon; and if he will make a statement on the matter. [30835/25] ",
       "questionType": "oral",
-      "date": "2025-06-12",
       "house": {
-        "houseNo": "34",
+        "committeeCode": "",
         "showAs": "34th Dáil",
+        "houseNo": "34",
         "chamberType": "house",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "committeeCode": "",
         "houseCode": "dail"
-      },
-      "questionNumber": 17,
-      "showAs": " 17. Deputy Peter 'Chap' Cleere asked the Tánaiste and Minister for Defence if he will report on his recent visit to Lebanon; and if he will make a statement on the matter. [30835/25] ",
-      "by": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Peter-'Chap'-Cleere.D.2024-11-29",
-        "memberCode": "Peter-'Chap'-Cleere.D.2024-11-29",
-        "showAs": "Peter 'Chap' Cleere"
       },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-06-12/pq_17",
+      "to": {
+        "roleCode": null,
+        "showAs": "Defence",
+        "roleType": null,
+        "uri": null
+      },
+      "questionNumber": 17,
+      "date": "2025-06-12",
       "debateSection": {
+        "showAs": "Defence Forces",
         "debateSectionId": "dbsect_14",
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-12/debate/dbsect_14",
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-12/debate/mul@/dbsect_14.xml"
-          },
-          "pdf": null
-        },
-        "showAs": "Defence Forces"
+          }
+        }
       },
-      "to": {
-        "roleCode": null,
-        "roleType": null,
-        "uri": null,
-        "showAs": "Defence"
+      "by": {
+        "showAs": "Peter 'Chap' Cleere",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Peter-'Chap'-Cleere.D.2024-11-29",
+        "memberCode": "Peter-'Chap'-Cleere.D.2024-11-29"
       }
-    }
+    },
+    "contextDate": "2025-06-12"
   },
   {
-    "contextDate": "2025-06-12",
     "question": {
+      "showAs": " 20. Deputy Brian Stanley asked the Tánaiste and Minister for Defence if he is aware that it has been reported that the Air Corps is to end 24-hour operations and reduce its service to an 8 a.m. to 8 p.m., five-day week from June 2025, as a crisis in air traffic control has reached a critical point; and if he will ensure that this will not be the case and that operations will be remaining in place 24-7 yearly. [30316/25] ",
       "questionType": "oral",
-      "date": "2025-06-12",
       "house": {
-        "houseNo": "34",
+        "committeeCode": "",
         "showAs": "34th Dáil",
+        "houseNo": "34",
         "chamberType": "house",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "committeeCode": "",
         "houseCode": "dail"
-      },
-      "questionNumber": 20,
-      "showAs": " 20. Deputy Brian Stanley asked the Tánaiste and Minister for Defence if he is aware that it has been reported that the Air Corps is to end 24-hour operations and reduce its service to an 8 a.m. to 8 p.m., five-day week from June 2025, as a crisis in air traffic control has reached a critical point; and if he will ensure that this will not be the case and that operations will be remaining in place 24-7 yearly. [30316/25] ",
-      "by": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Brian-Stanley.D.2011-03-09",
-        "memberCode": "Brian-Stanley.D.2011-03-09",
-        "showAs": "Brian Stanley"
       },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-06-12/pq_20",
+      "to": {
+        "roleCode": null,
+        "showAs": "Defence",
+        "roleType": null,
+        "uri": null
+      },
+      "questionNumber": 20,
+      "date": "2025-06-12",
       "debateSection": {
+        "showAs": "Air Corps",
         "debateSectionId": "dbsect_12",
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-12/debate/dbsect_12",
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-12/debate/mul@/dbsect_12.xml"
-          },
-          "pdf": null
-        },
-        "showAs": "Air Corps"
+          }
+        }
       },
-      "to": {
-        "roleCode": null,
-        "roleType": null,
-        "uri": null,
-        "showAs": "Defence"
+      "by": {
+        "showAs": "Brian Stanley",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Brian-Stanley.D.2011-03-09",
+        "memberCode": "Brian-Stanley.D.2011-03-09"
       }
-    }
+    },
+    "contextDate": "2025-06-12"
   },
   {
-    "contextDate": "2025-06-12",
     "question": {
+      "showAs": " 23. Deputy Paul Lawless asked the Tánaiste and Minister for Defence if he will address the impact of staffing shortages in the air traffic control unit at Baldonnel, which have resulted in the scaling back of operations to five-day coverage; if he is concerned that this reduction limits support to the Irish Coast Guard and restricts the ability to respond to crime, search and rescue, or emergency events outside of office hours; and if he will make a statement on the matter. [30708/25] ",
       "questionType": "oral",
-      "date": "2025-06-12",
       "house": {
-        "houseNo": "34",
+        "committeeCode": "",
         "showAs": "34th Dáil",
+        "houseNo": "34",
         "chamberType": "house",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "committeeCode": "",
         "houseCode": "dail"
-      },
-      "questionNumber": 23,
-      "showAs": " 23. Deputy Paul Lawless asked the Tánaiste and Minister for Defence if he will address the impact of staffing shortages in the air traffic control unit at Baldonnel, which have resulted in the scaling back of operations to five-day coverage; if he is concerned that this reduction limits support to the Irish Coast Guard and restricts the ability to respond to crime, search and rescue, or emergency events outside of office hours; and if he will make a statement on the matter. [30708/25] ",
-      "by": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Lawless.D.2024-11-29",
-        "memberCode": "Paul-Lawless.D.2024-11-29",
-        "showAs": "Paul Lawless"
       },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-06-12/pq_23",
+      "to": {
+        "roleCode": null,
+        "showAs": "Defence",
+        "roleType": null,
+        "uri": null
+      },
+      "questionNumber": 23,
+      "date": "2025-06-12",
       "debateSection": {
+        "showAs": "Air Corps",
         "debateSectionId": "dbsect_12",
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-12/debate/dbsect_12",
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-12/debate/mul@/dbsect_12.xml"
-          },
-          "pdf": null
-        },
-        "showAs": "Air Corps"
+          }
+        }
       },
-      "to": {
-        "roleCode": null,
-        "roleType": null,
-        "uri": null,
-        "showAs": "Defence"
+      "by": {
+        "showAs": "Paul Lawless",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Lawless.D.2024-11-29",
+        "memberCode": "Paul-Lawless.D.2024-11-29"
       }
-    }
+    },
+    "contextDate": "2025-06-12"
   },
   {
-    "contextDate": "2025-06-12",
     "question": {
+      "showAs": " 29. Deputy Cathy Bennett asked the Tánaiste and Minister for Defence the reason the Air Corps has reduced operations to a five-day work week. [31309/25] ",
       "questionType": "oral",
-      "date": "2025-06-12",
       "house": {
-        "houseNo": "34",
+        "committeeCode": "",
         "showAs": "34th Dáil",
+        "houseNo": "34",
         "chamberType": "house",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "committeeCode": "",
         "houseCode": "dail"
-      },
-      "questionNumber": 29,
-      "showAs": " 29. Deputy Cathy Bennett asked the Tánaiste and Minister for Defence the reason the Air Corps has reduced operations to a five-day work week. [31309/25] ",
-      "by": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Cathy-Bennett.D.2024-11-29",
-        "memberCode": "Cathy-Bennett.D.2024-11-29",
-        "showAs": "Cathy Bennett"
       },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-06-12/pq_29",
+      "to": {
+        "roleCode": null,
+        "showAs": "Defence",
+        "roleType": null,
+        "uri": null
+      },
+      "questionNumber": 29,
+      "date": "2025-06-12",
       "debateSection": {
+        "showAs": "Air Corps",
         "debateSectionId": "dbsect_12",
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-12/debate/dbsect_12",
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-12/debate/mul@/dbsect_12.xml"
-          },
-          "pdf": null
-        },
-        "showAs": "Air Corps"
+          }
+        }
       },
-      "to": {
-        "roleCode": null,
-        "roleType": null,
-        "uri": null,
-        "showAs": "Defence"
+      "by": {
+        "showAs": "Cathy Bennett",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Cathy-Bennett.D.2024-11-29",
+        "memberCode": "Cathy-Bennett.D.2024-11-29"
       }
-    }
+    },
+    "contextDate": "2025-06-12"
   },
   {
-    "contextDate": "2025-06-12",
     "question": {
+      "showAs": " 34. Deputy Mark Ward asked the Tánaiste and Minister for Defence his plans for recruitment of air traffic control staff at Baldonnel Aerodrome; and if he will make a statement on the matter. [30989/25] ",
       "questionType": "oral",
-      "date": "2025-06-12",
       "house": {
-        "houseNo": "34",
+        "committeeCode": "",
         "showAs": "34th Dáil",
+        "houseNo": "34",
         "chamberType": "house",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "committeeCode": "",
         "houseCode": "dail"
-      },
-      "questionNumber": 34,
-      "showAs": " 34. Deputy Mark Ward asked the Tánaiste and Minister for Defence his plans for recruitment of air traffic control staff at Baldonnel Aerodrome; and if he will make a statement on the matter. [30989/25] ",
-      "by": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Mark-Ward.D.2019-11-29",
-        "memberCode": "Mark-Ward.D.2019-11-29",
-        "showAs": "Mark Ward"
       },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-06-12/pq_34",
+      "to": {
+        "roleCode": null,
+        "showAs": "Defence",
+        "roleType": null,
+        "uri": null
+      },
+      "questionNumber": 34,
+      "date": "2025-06-12",
       "debateSection": {
+        "showAs": "Air Corps",
         "debateSectionId": "dbsect_12",
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-12/debate/dbsect_12",
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-12/debate/mul@/dbsect_12.xml"
-          },
-          "pdf": null
-        },
-        "showAs": "Air Corps"
+          }
+        }
       },
-      "to": {
-        "roleCode": null,
-        "roleType": null,
-        "uri": null,
-        "showAs": "Defence"
+      "by": {
+        "showAs": "Mark Ward",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Mark-Ward.D.2019-11-29",
+        "memberCode": "Mark-Ward.D.2019-11-29"
       }
-    }
+    },
+    "contextDate": "2025-06-12"
   },
   {
-    "contextDate": "2025-06-12",
     "question": {
+      "showAs": " 36. Deputy Conor D. McGuinness asked the Tánaiste and Minister for Defence the contact that has been made with the Israeli Government after Irish peacekeepers in southern Lebanon having most recently came under fire from the Israel Defence Forces, IDF, at the end of May, which followed on from attacks by the IDF on Irish diplomats; how the Israeli Government has sanctioned the IDF soldiers involved in firing live ammunition at Irish citizens; and the security guarantees for Irish peacekeepers and diplomats he has demanded from the Israeli Government. [31306/25] ",
       "questionType": "oral",
-      "date": "2025-06-12",
       "house": {
-        "houseNo": "34",
+        "committeeCode": "",
         "showAs": "34th Dáil",
+        "houseNo": "34",
         "chamberType": "house",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "committeeCode": "",
         "houseCode": "dail"
-      },
-      "questionNumber": 36,
-      "showAs": " 36. Deputy Conor D. McGuinness asked the Tánaiste and Minister for Defence the contact that has been made with the Israeli Government after Irish peacekeepers in southern Lebanon having most recently came under fire from the Israel Defence Forces, IDF, at the end of May, which followed on from attacks by the IDF on Irish diplomats; how the Israeli Government has sanctioned the IDF soldiers involved in firing live ammunition at Irish citizens; and the security guarantees for Irish peacekeepers and diplomats he has demanded from the Israeli Government. [31306/25] ",
-      "by": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Conor-D-McGuinness.D.2024-11-29",
-        "memberCode": "Conor-D-McGuinness.D.2024-11-29",
-        "showAs": "Conor D McGuinness"
       },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-06-12/pq_36",
+      "to": {
+        "roleCode": null,
+        "showAs": "Defence",
+        "roleType": null,
+        "uri": null
+      },
+      "questionNumber": 36,
+      "date": "2025-06-12",
       "debateSection": {
+        "showAs": "Defence Forces",
         "debateSectionId": "dbsect_11",
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-12/debate/dbsect_11",
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-12/debate/mul@/dbsect_11.xml"
-          },
-          "pdf": null
-        },
-        "showAs": "Defence Forces"
+          }
+        }
       },
-      "to": {
-        "roleCode": null,
-        "roleType": null,
-        "uri": null,
-        "showAs": "Defence"
+      "by": {
+        "showAs": "Conor D McGuinness",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Conor-D-McGuinness.D.2024-11-29",
+        "memberCode": "Conor-D-McGuinness.D.2024-11-29"
       }
-    }
+    },
+    "contextDate": "2025-06-12"
   },
   {
-    "contextDate": "2025-06-12",
     "question": {
+      "showAs": " 39. Deputy Aindrias Moynihan asked the Tánaiste and Minister for Defence to outline UNIFIL’s engagement with the Israeli authorities on the recent shooting incident involving Irish peacekeeping troops in southern Lebanon; the response that has been received on any engagement with UNIFIL with the Israeli authorities on this recent incident; and if he will make a statement on the matter. [31160/25] ",
       "questionType": "oral",
-      "date": "2025-06-12",
       "house": {
-        "houseNo": "34",
+        "committeeCode": "",
         "showAs": "34th Dáil",
+        "houseNo": "34",
         "chamberType": "house",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "committeeCode": "",
         "houseCode": "dail"
-      },
-      "questionNumber": 39,
-      "showAs": " 39. Deputy Aindrias Moynihan asked the Tánaiste and Minister for Defence to outline UNIFIL’s engagement with the Israeli authorities on the recent shooting incident involving Irish peacekeeping troops in southern Lebanon; the response that has been received on any engagement with UNIFIL with the Israeli authorities on this recent incident; and if he will make a statement on the matter. [31160/25] ",
-      "by": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Aindrias-Moynihan.D.2016-10-03",
-        "memberCode": "Aindrias-Moynihan.D.2016-10-03",
-        "showAs": "Aindrias Moynihan"
       },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-06-12/pq_39",
+      "to": {
+        "roleCode": null,
+        "showAs": "Defence",
+        "roleType": null,
+        "uri": null
+      },
+      "questionNumber": 39,
+      "date": "2025-06-12",
       "debateSection": {
+        "showAs": "Defence Forces",
         "debateSectionId": "dbsect_11",
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-12/debate/dbsect_11",
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-12/debate/mul@/dbsect_11.xml"
-          },
-          "pdf": null
-        },
-        "showAs": "Defence Forces"
+          }
+        }
       },
-      "to": {
-        "roleCode": null,
-        "roleType": null,
-        "uri": null,
-        "showAs": "Defence"
+      "by": {
+        "showAs": "Aindrias Moynihan",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Aindrias-Moynihan.D.2016-10-03",
+        "memberCode": "Aindrias-Moynihan.D.2016-10-03"
       }
-    }
+    },
+    "contextDate": "2025-06-12"
   },
   {
-    "contextDate": "2025-06-12",
     "question": {
+      "showAs": " 42. Deputy Seán Crowe asked the Tánaiste and Minister for Defence the measures that will be put in place to resume full-time flight operations at Casement Aerodrome as a matter of urgency. [30786/25] ",
       "questionType": "oral",
-      "date": "2025-06-12",
       "house": {
-        "houseNo": "34",
+        "committeeCode": "",
         "showAs": "34th Dáil",
+        "houseNo": "34",
         "chamberType": "house",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "committeeCode": "",
         "houseCode": "dail"
-      },
-      "questionNumber": 42,
-      "showAs": " 42. Deputy Seán Crowe asked the Tánaiste and Minister for Defence the measures that will be put in place to resume full-time flight operations at Casement Aerodrome as a matter of urgency. [30786/25] ",
-      "by": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Seán-Crowe.D.2002-06-06",
-        "memberCode": "Seán-Crowe.D.2002-06-06",
-        "showAs": "Seán Crowe"
       },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-06-12/pq_42",
+      "to": {
+        "roleCode": null,
+        "showAs": "Defence",
+        "roleType": null,
+        "uri": null
+      },
+      "questionNumber": 42,
+      "date": "2025-06-12",
       "debateSection": {
+        "showAs": "Air Corps",
         "debateSectionId": "dbsect_12",
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-12/debate/dbsect_12",
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-12/debate/mul@/dbsect_12.xml"
-          },
-          "pdf": null
-        },
-        "showAs": "Air Corps"
+          }
+        }
       },
-      "to": {
-        "roleCode": null,
-        "roleType": null,
-        "uri": null,
-        "showAs": "Defence"
+      "by": {
+        "showAs": "Seán Crowe",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Seán-Crowe.D.2002-06-06",
+        "memberCode": "Seán-Crowe.D.2002-06-06"
       }
-    }
+    },
+    "contextDate": "2025-06-12"
   },
   {
-    "contextDate": "2025-06-12",
     "question": {
+      "showAs": " 43. Deputy Roderic O'Gorman asked the Tánaiste and Minister for Defence to provide an update on legislation he is bringing forward with respect to the triple lock; and if he will make a statement on the matter. [30079/25] ",
       "questionType": "oral",
-      "date": "2025-06-12",
       "house": {
-        "houseNo": "34",
+        "committeeCode": "",
         "showAs": "34th Dáil",
+        "houseNo": "34",
         "chamberType": "house",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "committeeCode": "",
         "houseCode": "dail"
-      },
-      "questionNumber": 43,
-      "showAs": " 43. Deputy Roderic O'Gorman asked the Tánaiste and Minister for Defence to provide an update on legislation he is bringing forward with respect to the triple lock; and if he will make a statement on the matter. [30079/25] ",
-      "by": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Roderic-O'Gorman.D.2020-02-08",
-        "memberCode": "Roderic-O'Gorman.D.2020-02-08",
-        "showAs": "Roderic O'Gorman"
       },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-06-12/pq_43",
+      "to": {
+        "roleCode": null,
+        "showAs": "Defence",
+        "roleType": null,
+        "uri": null
+      },
+      "questionNumber": 43,
+      "date": "2025-06-12",
       "debateSection": {
+        "showAs": "Military Neutrality",
         "debateSectionId": "dbsect_10",
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-12/debate/dbsect_10",
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-12/debate/mul@/dbsect_10.xml"
-          },
-          "pdf": null
-        },
-        "showAs": "Military Neutrality"
+          }
+        }
       },
-      "to": {
-        "roleCode": null,
-        "roleType": null,
-        "uri": null,
-        "showAs": "Defence"
+      "by": {
+        "showAs": "Roderic O'Gorman",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Roderic-O'Gorman.D.2020-02-08",
+        "memberCode": "Roderic-O'Gorman.D.2020-02-08"
       }
-    }
+    },
+    "contextDate": "2025-06-12"
   },
   {
-    "contextDate": "2025-06-12",
     "question": {
+      "showAs": " 48. Deputy John Clendennen asked the Tánaiste and Minister for Defence if the proposed changes to the triple lock will impact on Ireland’s policy of being militarily neutral; and if he will make a statement on the matter. [30705/25] ",
       "questionType": "oral",
-      "date": "2025-06-12",
       "house": {
-        "houseNo": "34",
+        "committeeCode": "",
         "showAs": "34th Dáil",
+        "houseNo": "34",
         "chamberType": "house",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "committeeCode": "",
         "houseCode": "dail"
-      },
-      "questionNumber": 48,
-      "showAs": " 48. Deputy John Clendennen asked the Tánaiste and Minister for Defence if the proposed changes to the triple lock will impact on Ireland’s policy of being militarily neutral; and if he will make a statement on the matter. [30705/25] ",
-      "by": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/John-Clendennen.D.2024-11-29",
-        "memberCode": "John-Clendennen.D.2024-11-29",
-        "showAs": "John Clendennen"
       },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-06-12/pq_48",
+      "to": {
+        "roleCode": null,
+        "showAs": "Defence",
+        "roleType": null,
+        "uri": null
+      },
+      "questionNumber": 48,
+      "date": "2025-06-12",
       "debateSection": {
+        "showAs": "Military Neutrality",
         "debateSectionId": "dbsect_10",
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-12/debate/dbsect_10",
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-12/debate/mul@/dbsect_10.xml"
-          },
-          "pdf": null
-        },
-        "showAs": "Military Neutrality"
+          }
+        }
       },
-      "to": {
-        "roleCode": null,
-        "roleType": null,
-        "uri": null,
-        "showAs": "Defence"
+      "by": {
+        "showAs": "John Clendennen",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/John-Clendennen.D.2024-11-29",
+        "memberCode": "John-Clendennen.D.2024-11-29"
       }
-    }
+    },
+    "contextDate": "2025-06-12"
   },
   {
-    "contextDate": "2025-06-12",
     "question": {
+      "showAs": " 51. Deputy Paul Murphy asked the Tánaiste and Minister for Defence if the general scheme of the defence (amendment) Bill 2025 removes, rather than reforms, the triple lock; and if he will make a statement on the matter. [31229/25] ",
       "questionType": "oral",
-      "date": "2025-06-12",
       "house": {
-        "houseNo": "34",
+        "committeeCode": "",
         "showAs": "34th Dáil",
+        "houseNo": "34",
         "chamberType": "house",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "committeeCode": "",
         "houseCode": "dail"
-      },
-      "questionNumber": 51,
-      "showAs": " 51. Deputy Paul Murphy asked the Tánaiste and Minister for Defence if the general scheme of the defence (amendment) Bill 2025 removes, rather than reforms, the triple lock; and if he will make a statement on the matter. [31229/25] ",
-      "by": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Murphy.D.2014-10-10",
-        "memberCode": "Paul-Murphy.D.2014-10-10",
-        "showAs": "Paul Murphy"
       },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-06-12/pq_51",
+      "to": {
+        "roleCode": null,
+        "showAs": "Defence",
+        "roleType": null,
+        "uri": null
+      },
+      "questionNumber": 51,
+      "date": "2025-06-12",
       "debateSection": {
+        "showAs": "Military Neutrality",
         "debateSectionId": "dbsect_10",
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-12/debate/dbsect_10",
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-12/debate/mul@/dbsect_10.xml"
-          },
-          "pdf": null
-        },
-        "showAs": "Military Neutrality"
+          }
+        }
       },
-      "to": {
-        "roleCode": null,
-        "roleType": null,
-        "uri": null,
-        "showAs": "Defence"
+      "by": {
+        "showAs": "Paul Murphy",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Murphy.D.2014-10-10",
+        "memberCode": "Paul-Murphy.D.2014-10-10"
       }
-    }
+    },
+    "contextDate": "2025-06-12"
   },
   {
-    "contextDate": "2025-06-12",
     "question": {
+      "showAs": " 62. Deputy Cathal Crowe asked the Tánaiste and Minister for Defence for an update on plans to base Air Corps aircraft at Shannon Airport; and if he will make a statement on the matter. [31129/25] ",
       "questionType": "oral",
-      "date": "2025-06-12",
       "house": {
-        "houseNo": "34",
+        "committeeCode": "",
         "showAs": "34th Dáil",
+        "houseNo": "34",
         "chamberType": "house",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "committeeCode": "",
         "houseCode": "dail"
-      },
-      "questionNumber": 62,
-      "showAs": " 62. Deputy Cathal Crowe asked the Tánaiste and Minister for Defence for an update on plans to base Air Corps aircraft at Shannon Airport; and if he will make a statement on the matter. [31129/25] ",
-      "by": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Cathal-Crowe.D.2020-02-08",
-        "memberCode": "Cathal-Crowe.D.2020-02-08",
-        "showAs": "Cathal Crowe"
       },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-06-12/pq_62",
+      "to": {
+        "roleCode": null,
+        "showAs": "Defence",
+        "roleType": null,
+        "uri": null
+      },
+      "questionNumber": 62,
+      "date": "2025-06-12",
       "debateSection": {
+        "showAs": "Air Corps",
         "debateSectionId": "dbsect_12",
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-12/debate/dbsect_12",
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-12/debate/mul@/dbsect_12.xml"
-          },
-          "pdf": null
-        },
-        "showAs": "Air Corps"
+          }
+        }
       },
-      "to": {
-        "roleCode": null,
-        "roleType": null,
-        "uri": null,
-        "showAs": "Defence"
+      "by": {
+        "showAs": "Cathal Crowe",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Cathal-Crowe.D.2020-02-08",
+        "memberCode": "Cathal-Crowe.D.2020-02-08"
       }
-    }
+    },
+    "contextDate": "2025-06-12"
   },
   {
-    "contextDate": "2025-06-12",
     "question": {
+      "showAs": " 66. Deputy Cathy Bennett asked the Tánaiste and Minister for Defence when he was first apprised of the possibility of the Air Corps reducing its operational hours; if he received recommendations as to how the situation could be averted; and the actions he took to prevent the situation from arising. [31310/25] ",
       "questionType": "oral",
-      "date": "2025-06-12",
       "house": {
-        "houseNo": "34",
+        "committeeCode": "",
         "showAs": "34th Dáil",
+        "houseNo": "34",
         "chamberType": "house",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "committeeCode": "",
         "houseCode": "dail"
-      },
-      "questionNumber": 66,
-      "showAs": " 66. Deputy Cathy Bennett asked the Tánaiste and Minister for Defence when he was first apprised of the possibility of the Air Corps reducing its operational hours; if he received recommendations as to how the situation could be averted; and the actions he took to prevent the situation from arising. [31310/25] ",
-      "by": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Cathy-Bennett.D.2024-11-29",
-        "memberCode": "Cathy-Bennett.D.2024-11-29",
-        "showAs": "Cathy Bennett"
       },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-06-12/pq_66",
+      "to": {
+        "roleCode": null,
+        "showAs": "Defence",
+        "roleType": null,
+        "uri": null
+      },
+      "questionNumber": 66,
+      "date": "2025-06-12",
       "debateSection": {
+        "showAs": "Air Corps",
         "debateSectionId": "dbsect_12",
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-12/debate/dbsect_12",
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-12/debate/mul@/dbsect_12.xml"
-          },
-          "pdf": null
-        },
-        "showAs": "Air Corps"
+          }
+        }
       },
-      "to": {
-        "roleCode": null,
-        "roleType": null,
-        "uri": null,
-        "showAs": "Defence"
+      "by": {
+        "showAs": "Cathy Bennett",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Cathy-Bennett.D.2024-11-29",
+        "memberCode": "Cathy-Bennett.D.2024-11-29"
       }
-    }
+    },
+    "contextDate": "2025-06-12"
   },
   {
-    "contextDate": "2025-06-12",
     "question": {
+      "showAs": " 79. Deputy Darren O'Rourke asked the Tánaiste and Minister for Defence the measures he is taking to ensure the Air Corps remains fully operational at Casement Aerodrome in Baldonnel; his plans to recruit air traffic controllers and other personnel; and if he will make a statement on the matter. [30283/25] ",
       "questionType": "oral",
-      "date": "2025-06-12",
       "house": {
-        "houseNo": "34",
+        "committeeCode": "",
         "showAs": "34th Dáil",
+        "houseNo": "34",
         "chamberType": "house",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "committeeCode": "",
         "houseCode": "dail"
-      },
-      "questionNumber": 79,
-      "showAs": " 79. Deputy Darren O'Rourke asked the Tánaiste and Minister for Defence the measures he is taking to ensure the Air Corps remains fully operational at Casement Aerodrome in Baldonnel; his plans to recruit air traffic controllers and other personnel; and if he will make a statement on the matter. [30283/25] ",
-      "by": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Darren-O'Rourke.D.2020-02-08",
-        "memberCode": "Darren-O'Rourke.D.2020-02-08",
-        "showAs": "Darren O'Rourke"
       },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-06-12/pq_79",
+      "to": {
+        "roleCode": null,
+        "showAs": "Defence",
+        "roleType": null,
+        "uri": null
+      },
+      "questionNumber": 79,
+      "date": "2025-06-12",
       "debateSection": {
+        "showAs": "Air Corps",
         "debateSectionId": "dbsect_12",
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-12/debate/dbsect_12",
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-12/debate/mul@/dbsect_12.xml"
-          },
-          "pdf": null
-        },
-        "showAs": "Air Corps"
+          }
+        }
       },
-      "to": {
-        "roleCode": null,
-        "roleType": null,
-        "uri": null,
-        "showAs": "Defence"
+      "by": {
+        "showAs": "Darren O'Rourke",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Darren-O'Rourke.D.2020-02-08",
+        "memberCode": "Darren-O'Rourke.D.2020-02-08"
       }
-    }
+    },
+    "contextDate": "2025-06-12"
   },
   {
-    "contextDate": "2025-06-12",
     "question": {
+      "showAs": " 80. Deputy Ruairí Ó Murchú asked the Tánaiste and Minister for Defence if he will outline any progress made recently in the case of a Defence Forces member who was killed on UN duty in Lebanon (details supplied); and if he will make a statement on the matter. [31241/25] ",
       "questionType": "oral",
-      "date": "2025-06-12",
       "house": {
-        "houseNo": "34",
+        "committeeCode": "",
         "showAs": "34th Dáil",
+        "houseNo": "34",
         "chamberType": "house",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "committeeCode": "",
         "houseCode": "dail"
       },
-      "questionNumber": 80,
-      "showAs": " 80. Deputy Ruairí Ó Murchú asked the Tánaiste and Minister for Defence if he will outline any progress made recently in the case of a Defence Forces member who was killed on UN duty in Lebanon (details supplied); and if he will make a statement on the matter. [31241/25] ",
-      "by": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruairí-Ó-Murchú.D.2020-02-08",
-        "memberCode": "Ruairí-Ó-Murchú.D.2020-02-08",
-        "showAs": "Ruairí Ó Murchú"
-      },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-06-12/pq_80",
+      "to": {
+        "roleCode": null,
+        "showAs": "Defence",
+        "roleType": null,
+        "uri": null
+      },
+      "questionNumber": 80,
+      "date": "2025-06-12",
       "debateSection": {
+        "showAs": "Defence Forces",
         "debateSectionId": "dbsect_14",
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-12/debate/dbsect_14",
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-12/debate/mul@/dbsect_14.xml"
-          },
-          "pdf": null
-        },
-        "showAs": "Defence Forces"
+          }
+        }
       },
-      "to": {
-        "roleCode": null,
-        "roleType": null,
-        "uri": null,
-        "showAs": "Defence"
+      "by": {
+        "showAs": "Ruairí Ó Murchú",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruairí-Ó-Murchú.D.2020-02-08",
+        "memberCode": "Ruairí-Ó-Murchú.D.2020-02-08"
       }
-    }
+    },
+    "contextDate": "2025-06-12"
   },
   {
-    "contextDate": "2025-06-12",
     "question": {
+      "showAs": " 85. Deputy Darren O'Rourke asked the Minister for Education and Youth to outline, in the context of special education preparedness for September 2025, the number of children with special educational needs but currently without an appropriate school place for September 2025, and the plans to address this; the way in which special needs assistant, SNA, posts will be allocated to these children and all children with special educational needs in September 2025; if all schools with new special classes due to open in September have had their SNA allocation confirmed, for example; and if she will make a statement on the matter. [31563/25] ",
       "questionType": "oral",
-      "date": "2025-06-12",
       "house": {
-        "houseNo": "34",
+        "committeeCode": "",
         "showAs": "34th Dáil",
+        "houseNo": "34",
         "chamberType": "house",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "committeeCode": "",
         "houseCode": "dail"
       },
-      "questionNumber": 85,
-      "showAs": " 85. Deputy Darren O'Rourke asked the Minister for Education and Youth to outline, in the context of special education preparedness for September 2025, the number of children with special educational needs but currently without an appropriate school place for September 2025, and the plans to address this; the way in which special needs assistant, SNA, posts will be allocated to these children and all children with special educational needs in September 2025; if all schools with new special classes due to open in September have had their SNA allocation confirmed, for example; and if she will make a statement on the matter. [31563/25] ",
-      "by": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Darren-O'Rourke.D.2020-02-08",
-        "memberCode": "Darren-O'Rourke.D.2020-02-08",
-        "showAs": "Darren O'Rourke"
-      },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-06-12/pq_85",
+      "to": {
+        "roleCode": null,
+        "showAs": "Education",
+        "roleType": null,
+        "uri": null
+      },
+      "questionNumber": 85,
+      "date": "2025-06-12",
       "debateSection": {
+        "showAs": "Special Educational Needs",
         "debateSectionId": "dbsect_16",
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-12/debate/dbsect_16",
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-12/debate/mul@/dbsect_16.xml"
-          },
-          "pdf": null
-        },
-        "showAs": "Special Educational Needs"
+          }
+        }
       },
-      "to": {
-        "roleCode": null,
-        "roleType": null,
-        "uri": null,
-        "showAs": "Education"
+      "by": {
+        "showAs": "Darren O'Rourke",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Darren-O'Rourke.D.2020-02-08",
+        "memberCode": "Darren-O'Rourke.D.2020-02-08"
       }
-    }
+    },
+    "contextDate": "2025-06-12"
   },
   {
-    "contextDate": "2025-06-12",
     "question": {
+      "showAs": " 86. Deputy Eoghan Kenny asked the Minister for Education and Youth to outline her engagement with stakeholders, including trade unions representing teachers, regarding the proposed reforms for the leaving certificate, as of June 2025; and if she will make a statement on the matter. [30862/25] ",
       "questionType": "oral",
-      "date": "2025-06-12",
       "house": {
-        "houseNo": "34",
+        "committeeCode": "",
         "showAs": "34th Dáil",
+        "houseNo": "34",
         "chamberType": "house",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "committeeCode": "",
         "houseCode": "dail"
       },
-      "questionNumber": 86,
-      "showAs": " 86. Deputy Eoghan Kenny asked the Minister for Education and Youth to outline her engagement with stakeholders, including trade unions representing teachers, regarding the proposed reforms for the leaving certificate, as of June 2025; and if she will make a statement on the matter. [30862/25] ",
-      "by": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Eoghan-Kenny.D.2024-11-29",
-        "memberCode": "Eoghan-Kenny.D.2024-11-29",
-        "showAs": "Eoghan Kenny"
-      },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-06-12/pq_86",
+      "to": {
+        "roleCode": null,
+        "showAs": "Education",
+        "roleType": null,
+        "uri": null
+      },
+      "questionNumber": 86,
+      "date": "2025-06-12",
       "debateSection": {
+        "showAs": "State Examinations",
         "debateSectionId": "dbsect_17",
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-12/debate/dbsect_17",
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-12/debate/mul@/dbsect_17.xml"
-          },
-          "pdf": null
-        },
-        "showAs": "State Examinations"
+          }
+        }
       },
-      "to": {
-        "roleCode": null,
-        "roleType": null,
-        "uri": null,
-        "showAs": "Education"
+      "by": {
+        "showAs": "Eoghan Kenny",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Eoghan-Kenny.D.2024-11-29",
+        "memberCode": "Eoghan-Kenny.D.2024-11-29"
       }
-    }
+    },
+    "contextDate": "2025-06-12"
   },
   {
-    "contextDate": "2025-06-12",
     "question": {
+      "showAs": " 87. Deputy Darren O'Rourke asked the Minister for Education and Youth if, in light of the deep concern regarding, among other things, the resourcing of schools, training of teachers and impact of artificial intelligence on the validity and authenticity of additional assessment components, and the related recent vote of rejection by the ASTI union, she will pause her accelerated plan for senior cycle redevelopment and re-engage with teachers and their representatives to ensure their concerns are addressed and the quality and integrity of the leaving certificate is maintained; and if she will make a statement on the matter. [31564/25] ",
       "questionType": "oral",
-      "date": "2025-06-12",
       "house": {
-        "houseNo": "34",
+        "committeeCode": "",
         "showAs": "34th Dáil",
+        "houseNo": "34",
         "chamberType": "house",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "committeeCode": "",
         "houseCode": "dail"
       },
-      "questionNumber": 87,
-      "showAs": " 87. Deputy Darren O'Rourke asked the Minister for Education and Youth if, in light of the deep concern regarding, among other things, the resourcing of schools, training of teachers and impact of artificial intelligence on the validity and authenticity of additional assessment components, and the related recent vote of rejection by the ASTI union, she will pause her accelerated plan for senior cycle redevelopment and re-engage with teachers and their representatives to ensure their concerns are addressed and the quality and integrity of the leaving certificate is maintained; and if she will make a statement on the matter. [31564/25] ",
-      "by": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Darren-O'Rourke.D.2020-02-08",
-        "memberCode": "Darren-O'Rourke.D.2020-02-08",
-        "showAs": "Darren O'Rourke"
-      },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-06-12/pq_87",
+      "to": {
+        "roleCode": null,
+        "showAs": "Education",
+        "roleType": null,
+        "uri": null
+      },
+      "questionNumber": 87,
+      "date": "2025-06-12",
       "debateSection": {
+        "showAs": "School Curriculum",
         "debateSectionId": "dbsect_18",
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-12/debate/dbsect_18",
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-12/debate/mul@/dbsect_18.xml"
-          },
-          "pdf": null
-        },
-        "showAs": "School Curriculum"
+          }
+        }
       },
-      "to": {
-        "roleCode": null,
-        "roleType": null,
-        "uri": null,
-        "showAs": "Education"
+      "by": {
+        "showAs": "Darren O'Rourke",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Darren-O'Rourke.D.2020-02-08",
+        "memberCode": "Darren-O'Rourke.D.2020-02-08"
       }
-    }
+    },
+    "contextDate": "2025-06-12"
   },
   {
-    "contextDate": "2025-06-12",
     "question": {
+      "showAs": " 88. Deputy Jen Cummins asked the Minister for Education and Youth her plans to redesignate special schools that cater to children with mild general learning disabilities. [30858/25] ",
       "questionType": "oral",
-      "date": "2025-06-12",
       "house": {
-        "houseNo": "34",
+        "committeeCode": "",
         "showAs": "34th Dáil",
+        "houseNo": "34",
         "chamberType": "house",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "committeeCode": "",
         "houseCode": "dail"
       },
-      "questionNumber": 88,
-      "showAs": " 88. Deputy Jen Cummins asked the Minister for Education and Youth her plans to redesignate special schools that cater to children with mild general learning disabilities. [30858/25] ",
-      "by": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Jen-Cummins.D.2024-11-29",
-        "memberCode": "Jen-Cummins.D.2024-11-29",
-        "showAs": "Jen Cummins"
-      },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-06-12/pq_88",
+      "to": {
+        "roleCode": null,
+        "showAs": "Education",
+        "roleType": null,
+        "uri": null
+      },
+      "questionNumber": 88,
+      "date": "2025-06-12",
       "debateSection": {
+        "showAs": "Special Educational Needs",
         "debateSectionId": "dbsect_19",
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-12/debate/dbsect_19",
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-12/debate/mul@/dbsect_19.xml"
-          },
-          "pdf": null
-        },
-        "showAs": "Special Educational Needs"
+          }
+        }
       },
-      "to": {
-        "roleCode": null,
-        "roleType": null,
-        "uri": null,
-        "showAs": "Education"
+      "by": {
+        "showAs": "Jen Cummins",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Jen-Cummins.D.2024-11-29",
+        "memberCode": "Jen-Cummins.D.2024-11-29"
       }
-    }
+    },
+    "contextDate": "2025-06-12"
   },
   {
-    "contextDate": "2025-06-12",
     "question": {
+      "showAs": " 91. Deputy Catherine Connolly asked the Minister for Education and Youth further to Parliamentary Question No. 105 of 29 April 2025, the status of the development of a school (details supplied), currently at stage 2(b); the timeline for the completion of the project; and if she will make a statement on the matter.  [31299/25] ",
       "questionType": "oral",
-      "date": "2025-06-12",
       "house": {
-        "houseNo": "34",
+        "committeeCode": "",
         "showAs": "34th Dáil",
+        "houseNo": "34",
         "chamberType": "house",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "committeeCode": "",
         "houseCode": "dail"
       },
-      "questionNumber": 91,
-      "showAs": " 91. Deputy Catherine Connolly asked the Minister for Education and Youth further to Parliamentary Question No. 105 of 29 April 2025, the status of the development of a school (details supplied), currently at stage 2(b); the timeline for the completion of the project; and if she will make a statement on the matter.  [31299/25] ",
-      "by": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Catherine-Connolly.D.2016-10-03",
-        "memberCode": "Catherine-Connolly.D.2016-10-03",
-        "showAs": "Catherine Connolly"
-      },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-06-12/pq_91",
+      "to": {
+        "roleCode": null,
+        "showAs": "Education",
+        "roleType": null,
+        "uri": null
+      },
+      "questionNumber": 91,
+      "date": "2025-06-12",
       "debateSection": {
+        "showAs": "Schools Building Projects",
         "debateSectionId": "dbsect_20",
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-12/debate/dbsect_20",
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-12/debate/mul@/dbsect_20.xml"
-          },
-          "pdf": null
-        },
-        "showAs": "Schools Building Projects"
+          }
+        }
       },
-      "to": {
-        "roleCode": null,
-        "roleType": null,
-        "uri": null,
-        "showAs": "Education"
+      "by": {
+        "showAs": "Catherine Connolly",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Catherine-Connolly.D.2016-10-03",
+        "memberCode": "Catherine-Connolly.D.2016-10-03"
       }
-    }
+    },
+    "contextDate": "2025-06-12"
   },
   {
-    "contextDate": "2025-06-12",
     "question": {
+      "showAs": " 93. Deputy Albert Dolan asked the Minister for Education and Youth when a decision will be made on the allocation of a special needs assistant, SNA, for a school (details supplied); when the subsequent appointment of the SNA will take place; and if she will make a statement on the matter. [30791/25] ",
       "questionType": "oral",
-      "date": "2025-06-12",
       "house": {
-        "houseNo": "34",
+        "committeeCode": "",
         "showAs": "34th Dáil",
+        "houseNo": "34",
         "chamberType": "house",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "committeeCode": "",
         "houseCode": "dail"
       },
-      "questionNumber": 93,
-      "showAs": " 93. Deputy Albert Dolan asked the Minister for Education and Youth when a decision will be made on the allocation of a special needs assistant, SNA, for a school (details supplied); when the subsequent appointment of the SNA will take place; and if she will make a statement on the matter. [30791/25] ",
-      "by": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Albert-Dolan.D.2024-11-29",
-        "memberCode": "Albert-Dolan.D.2024-11-29",
-        "showAs": "Albert Dolan"
-      },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-06-12/pq_93",
+      "to": {
+        "roleCode": null,
+        "showAs": "Education",
+        "roleType": null,
+        "uri": null
+      },
+      "questionNumber": 93,
+      "date": "2025-06-12",
       "debateSection": {
+        "showAs": "Special Education Needs",
         "debateSectionId": "dbsect_21",
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-12/debate/dbsect_21",
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-12/debate/mul@/dbsect_21.xml"
-          },
-          "pdf": null
-        },
-        "showAs": "Special Education Needs"
+          }
+        }
       },
-      "to": {
-        "roleCode": null,
-        "roleType": null,
-        "uri": null,
-        "showAs": "Education"
+      "by": {
+        "showAs": "Albert Dolan",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Albert-Dolan.D.2024-11-29",
+        "memberCode": "Albert-Dolan.D.2024-11-29"
       }
-    }
+    },
+    "contextDate": "2025-06-12"
   },
   {
-    "contextDate": "2025-06-12",
     "question": {
+      "showAs": " 94. Deputy Ruairí Ó Murchú asked the Minister for Education and Youth the work being done to ensure appropriate primary and secondary school placements for all children for the 2025-26 academic year; if this work includes updating of admissions policies; and if she will make a statement on the matter.  [31242/25] ",
       "questionType": "oral",
-      "date": "2025-06-12",
       "house": {
-        "houseNo": "34",
+        "committeeCode": "",
         "showAs": "34th Dáil",
+        "houseNo": "34",
         "chamberType": "house",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "committeeCode": "",
         "houseCode": "dail"
       },
-      "questionNumber": 94,
-      "showAs": " 94. Deputy Ruairí Ó Murchú asked the Minister for Education and Youth the work being done to ensure appropriate primary and secondary school placements for all children for the 2025-26 academic year; if this work includes updating of admissions policies; and if she will make a statement on the matter.  [31242/25] ",
-      "by": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruairí-Ó-Murchú.D.2020-02-08",
-        "memberCode": "Ruairí-Ó-Murchú.D.2020-02-08",
-        "showAs": "Ruairí Ó Murchú"
-      },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-06-12/pq_94",
+      "to": {
+        "roleCode": null,
+        "showAs": "Education",
+        "roleType": null,
+        "uri": null
+      },
+      "questionNumber": 94,
+      "date": "2025-06-12",
       "debateSection": {
+        "showAs": "School Admissions",
         "debateSectionId": "dbsect_22",
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-12/debate/dbsect_22",
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-12/debate/mul@/dbsect_22.xml"
-          },
-          "pdf": null
-        },
-        "showAs": "School Admissions"
+          }
+        }
       },
-      "to": {
-        "roleCode": null,
-        "roleType": null,
-        "uri": null,
-        "showAs": "Education"
+      "by": {
+        "showAs": "Ruairí Ó Murchú",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruairí-Ó-Murchú.D.2020-02-08",
+        "memberCode": "Ruairí-Ó-Murchú.D.2020-02-08"
       }
-    }
+    },
+    "contextDate": "2025-06-12"
   },
   {
-    "contextDate": "2025-06-12",
     "question": {
+      "showAs": " 95. Deputy Mark Ward asked the Minister for Education and Youth for an update on the application from a school to replace their 50-year-old prefabs (details supplied); and if she will make a statement on the matter. [30986/25] ",
       "questionType": "oral",
-      "date": "2025-06-12",
       "house": {
-        "houseNo": "34",
+        "committeeCode": "",
         "showAs": "34th Dáil",
+        "houseNo": "34",
         "chamberType": "house",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "committeeCode": "",
         "houseCode": "dail"
       },
-      "questionNumber": 95,
-      "showAs": " 95. Deputy Mark Ward asked the Minister for Education and Youth for an update on the application from a school to replace their 50-year-old prefabs (details supplied); and if she will make a statement on the matter. [30986/25] ",
-      "by": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Mark-Ward.D.2019-11-29",
-        "memberCode": "Mark-Ward.D.2019-11-29",
-        "showAs": "Mark Ward"
-      },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-06-12/pq_95",
+      "to": {
+        "roleCode": null,
+        "showAs": "Education",
+        "roleType": null,
+        "uri": null
+      },
+      "questionNumber": 95,
+      "date": "2025-06-12",
       "debateSection": {
+        "showAs": "School Accommodation",
         "debateSectionId": "dbsect_23",
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-12/debate/dbsect_23",
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-12/debate/mul@/dbsect_23.xml"
-          },
-          "pdf": null
-        },
-        "showAs": "School Accommodation"
+          }
+        }
       },
-      "to": {
-        "roleCode": null,
-        "roleType": null,
-        "uri": null,
-        "showAs": "Education"
+      "by": {
+        "showAs": "Mark Ward",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Mark-Ward.D.2019-11-29",
+        "memberCode": "Mark-Ward.D.2019-11-29"
       }
-    }
+    },
+    "contextDate": "2025-06-12"
   },
   {
-    "contextDate": "2025-06-12",
     "question": {
+      "showAs": " 96. Deputy Donna McGettigan asked the Minister for Education and Youth to broaden the criteria to allow more schools to be classified as DEIS schools; and if she will ensure that schools, such as one in County Clare (details supplied) which takes in students from three DEIS schools, are classified as DEIS as a consequence. [30557/25] ",
       "questionType": "oral",
-      "date": "2025-06-12",
       "house": {
-        "houseNo": "34",
+        "committeeCode": "",
         "showAs": "34th Dáil",
+        "houseNo": "34",
         "chamberType": "house",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "committeeCode": "",
         "houseCode": "dail"
       },
-      "questionNumber": 96,
-      "showAs": " 96. Deputy Donna McGettigan asked the Minister for Education and Youth to broaden the criteria to allow more schools to be classified as DEIS schools; and if she will ensure that schools, such as one in County Clare (details supplied) which takes in students from three DEIS schools, are classified as DEIS as a consequence. [30557/25] ",
-      "by": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Donna-McGettigan.D.2024-11-29",
-        "memberCode": "Donna-McGettigan.D.2024-11-29",
-        "showAs": "Donna McGettigan"
-      },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-06-12/pq_96",
+      "to": {
+        "roleCode": null,
+        "showAs": "Education",
+        "roleType": null,
+        "uri": null
+      },
+      "questionNumber": 96,
+      "date": "2025-06-12",
       "debateSection": {
+        "showAs": "Education Schemes",
         "debateSectionId": "dbsect_24",
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-12/debate/dbsect_24",
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-12/debate/mul@/dbsect_24.xml"
-          },
-          "pdf": null
-        },
-        "showAs": "Education Schemes"
+          }
+        }
       },
-      "to": {
-        "roleCode": null,
-        "roleType": null,
-        "uri": null,
-        "showAs": "Education"
+      "by": {
+        "showAs": "Donna McGettigan",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Donna-McGettigan.D.2024-11-29",
+        "memberCode": "Donna-McGettigan.D.2024-11-29"
       }
-    }
+    },
+    "contextDate": "2025-06-12"
   },
   {
-    "contextDate": "2025-06-12",
     "question": {
+      "showAs": " 97. Deputy John Clendennen asked the Minister for Education and Youth the latest figures for school completion rates; and if she will make a statement on the matter. [30703/25] ",
       "questionType": "oral",
-      "date": "2025-06-12",
       "house": {
-        "houseNo": "34",
+        "committeeCode": "",
         "showAs": "34th Dáil",
+        "houseNo": "34",
         "chamberType": "house",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "committeeCode": "",
         "houseCode": "dail"
       },
-      "questionNumber": 97,
-      "showAs": " 97. Deputy John Clendennen asked the Minister for Education and Youth the latest figures for school completion rates; and if she will make a statement on the matter. [30703/25] ",
-      "by": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/John-Clendennen.D.2024-11-29",
-        "memberCode": "John-Clendennen.D.2024-11-29",
-        "showAs": "John Clendennen"
-      },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-06-12/pq_97",
+      "to": {
+        "roleCode": null,
+        "showAs": "Education",
+        "roleType": null,
+        "uri": null
+      },
+      "questionNumber": 97,
+      "date": "2025-06-12",
       "debateSection": {
+        "showAs": "Early School Leavers",
         "debateSectionId": "dbsect_25",
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-12/debate/dbsect_25",
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-12/debate/mul@/dbsect_25.xml"
-          },
-          "pdf": null
-        },
-        "showAs": "Early School Leavers"
+          }
+        }
       },
-      "to": {
-        "roleCode": null,
-        "roleType": null,
-        "uri": null,
-        "showAs": "Education"
+      "by": {
+        "showAs": "John Clendennen",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/John-Clendennen.D.2024-11-29",
+        "memberCode": "John-Clendennen.D.2024-11-29"
       }
-    }
+    },
+    "contextDate": "2025-06-12"
   },
   {
-    "contextDate": "2025-06-12",
     "question": {
+      "showAs": " 100. Deputy Conor D. McGuinness asked the Minister for Education and Youth following her announcement that she will give €65 million in minor works and ICT funding for schools, if she will explain the rationale for providing the same minor works grant to all schools when older buildings need increased funds to be maintained; if older school buildings will receive increased minor works funding; and if she will make a statement on the matter. [30148/25] ",
       "questionType": "oral",
-      "date": "2025-06-12",
       "house": {
-        "houseNo": "34",
+        "committeeCode": "",
         "showAs": "34th Dáil",
+        "houseNo": "34",
         "chamberType": "house",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "committeeCode": "",
         "houseCode": "dail"
       },
-      "questionNumber": 100,
-      "showAs": " 100. Deputy Conor D. McGuinness asked the Minister for Education and Youth following her announcement that she will give €65 million in minor works and ICT funding for schools, if she will explain the rationale for providing the same minor works grant to all schools when older buildings need increased funds to be maintained; if older school buildings will receive increased minor works funding; and if she will make a statement on the matter. [30148/25] ",
-      "by": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Conor-D-McGuinness.D.2024-11-29",
-        "memberCode": "Conor-D-McGuinness.D.2024-11-29",
-        "showAs": "Conor D McGuinness"
-      },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-06-12/pq_100",
+      "to": {
+        "roleCode": null,
+        "showAs": "Education",
+        "roleType": null,
+        "uri": null
+      },
+      "questionNumber": 100,
+      "date": "2025-06-12",
       "debateSection": {
+        "showAs": "School Facilities",
         "debateSectionId": "dbsect_26",
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-12/debate/dbsect_26",
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-12/debate/mul@/dbsect_26.xml"
-          },
-          "pdf": null
-        },
-        "showAs": "School Facilities"
+          }
+        }
       },
-      "to": {
-        "roleCode": null,
-        "roleType": null,
-        "uri": null,
-        "showAs": "Education"
+      "by": {
+        "showAs": "Conor D McGuinness",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Conor-D-McGuinness.D.2024-11-29",
+        "memberCode": "Conor-D-McGuinness.D.2024-11-29"
       }
-    }
+    },
+    "contextDate": "2025-06-12"
   },
   {
-    "contextDate": "2025-06-12",
     "question": {
+      "showAs": " 110. Deputy Darren O'Rourke asked the Minister for Education and Youth the number of additional home school liaison officers and educational welfare officers her Department will provide to schools across the State for the 2025-26 academic year; the number of unfilled posts currently; the funding and recruitment processes she intends to provide to fill new and existing vacancies; and if she will make a statement on the matter. [31224/25] ",
       "questionType": "oral",
-      "date": "2025-06-12",
       "house": {
-        "houseNo": "34",
+        "committeeCode": "",
         "showAs": "34th Dáil",
+        "houseNo": "34",
         "chamberType": "house",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "committeeCode": "",
         "houseCode": "dail"
       },
-      "questionNumber": 110,
-      "showAs": " 110. Deputy Darren O'Rourke asked the Minister for Education and Youth the number of additional home school liaison officers and educational welfare officers her Department will provide to schools across the State for the 2025-26 academic year; the number of unfilled posts currently; the funding and recruitment processes she intends to provide to fill new and existing vacancies; and if she will make a statement on the matter. [31224/25] ",
-      "by": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Darren-O'Rourke.D.2020-02-08",
-        "memberCode": "Darren-O'Rourke.D.2020-02-08",
-        "showAs": "Darren O'Rourke"
-      },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-06-12/pq_110",
+      "to": {
+        "roleCode": null,
+        "showAs": "Education",
+        "roleType": null,
+        "uri": null
+      },
+      "questionNumber": 110,
+      "date": "2025-06-12",
       "debateSection": {
+        "showAs": "Educational Disadvantage",
         "debateSectionId": "dbsect_27",
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-12/debate/dbsect_27",
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-12/debate/mul@/dbsect_27.xml"
-          },
-          "pdf": null
-        },
-        "showAs": "Educational Disadvantage"
+          }
+        }
       },
-      "to": {
-        "roleCode": null,
-        "roleType": null,
-        "uri": null,
-        "showAs": "Education"
+      "by": {
+        "showAs": "Darren O'Rourke",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Darren-O'Rourke.D.2020-02-08",
+        "memberCode": "Darren-O'Rourke.D.2020-02-08"
       }
-    }
+    },
+    "contextDate": "2025-06-12"
   }
 ]

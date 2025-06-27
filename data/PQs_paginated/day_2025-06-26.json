@@ -1,1 +1,1202 @@
-[]
+[
+  {
+    "contextDate": "2025-06-26",
+    "question": {
+      "to": {
+        "showAs": "Health",
+        "roleType": null,
+        "roleCode": null,
+        "uri": null
+      },
+      "house": {
+        "chamberType": "house",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "houseNo": "34",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-06-26/pq_1",
+      "showAs": " 1. Deputy David Cullinane asked the Minister for Health the steps she has taken to ensure that Health Service Executive and National Treatment Purchase Fund spending on insourcing initiatives is transparent and accountable; and if she will make a statement on the matter. [34742/25] ",
+      "questionType": "oral",
+      "debateSection": {
+        "debateSectionId": "dbsect_3",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-26/debate/mul@/dbsect_3.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-26/debate/dbsect_3",
+        "showAs": "National Treatment Purchase Fund"
+      },
+      "date": "2025-06-26",
+      "questionNumber": 1,
+      "by": {
+        "memberCode": "David-Cullinane.S.2011-05-25",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/David-Cullinane.S.2011-05-25",
+        "showAs": "David Cullinane"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-06-26",
+    "question": {
+      "to": {
+        "showAs": "Health",
+        "roleType": null,
+        "roleCode": null,
+        "uri": null
+      },
+      "house": {
+        "chamberType": "house",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "houseNo": "34",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-06-26/pq_2",
+      "showAs": " 2. Deputy Pádraig Rice asked the Minister for Health if her attention has been drawn to the failure of a number of symptomatic breast disease clinics to see newly referred patients within ten working days (details supplied); the steps being taken to ensure that these clinics meet their targets; if the required resources will be allocated to these clinics to ensure there is adequate staffing; to provide an update on the programme for Government commitment to ‘protect diagnostic pathways and invest in infrastructure and equipment to meet target treatment times outlined in the national cancer strategy; and if she will make a statement on the matter.  [35169/25] ",
+      "questionType": "oral",
+      "debateSection": {
+        "debateSectionId": "dbsect_4",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-26/debate/mul@/dbsect_4.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-26/debate/dbsect_4",
+        "showAs": "Cancer Services"
+      },
+      "date": "2025-06-26",
+      "questionNumber": 2,
+      "by": {
+        "memberCode": "Pádraig-Rice.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Pádraig-Rice.D.2024-11-29",
+        "showAs": "Pádraig Rice"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-06-26",
+    "question": {
+      "to": {
+        "showAs": "Health",
+        "roleType": null,
+        "roleCode": null,
+        "uri": null
+      },
+      "house": {
+        "chamberType": "house",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "houseNo": "34",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-06-26/pq_3",
+      "showAs": " 3. Deputy David Cullinane asked the Minister for Health the steps she has taken to improve governance and accountability at Children's Health Ireland, CHI; if she will publish the unpublished review of a department at CHI at Crumlin; the steps she has taken to address issues highlighted in that report; and if she will make a statement on the matter. [34743/25] ",
+      "questionType": "oral",
+      "debateSection": {
+        "debateSectionId": "dbsect_5",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-26/debate/mul@/dbsect_5.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-26/debate/dbsect_5",
+        "showAs": "Health Services"
+      },
+      "date": "2025-06-26",
+      "questionNumber": 3,
+      "by": {
+        "memberCode": "David-Cullinane.S.2011-05-25",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/David-Cullinane.S.2011-05-25",
+        "showAs": "David Cullinane"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-06-26",
+    "question": {
+      "to": {
+        "showAs": "Health",
+        "roleType": null,
+        "roleCode": null,
+        "uri": null
+      },
+      "house": {
+        "chamberType": "house",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "houseNo": "34",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-06-26/pq_4",
+      "showAs": " 4. Deputy Marie Sherlock asked the Minister for Health if she will act to protect front-line healthcare workers impacted by long Covid and who are in receipt of the special scheme of paid leave; if she plans to extend this scheme or recognise long Covid as an occupational illness to quality for occupational injury benefit payments; and if she will make a statement on the matter. [34984/25] ",
+      "questionType": "oral",
+      "debateSection": {
+        "debateSectionId": "dbsect_6",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-26/debate/mul@/dbsect_6.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-26/debate/dbsect_6",
+        "showAs": "Departmental Schemes"
+      },
+      "date": "2025-06-26",
+      "questionNumber": 4,
+      "by": {
+        "memberCode": "Marie-Sherlock.S.2020-03-30",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Marie-Sherlock.S.2020-03-30",
+        "showAs": "Marie Sherlock"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-06-26",
+    "question": {
+      "to": {
+        "showAs": "Health",
+        "roleType": null,
+        "roleCode": null,
+        "uri": null
+      },
+      "house": {
+        "chamberType": "house",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "houseNo": "34",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-06-26/pq_5",
+      "showAs": " 5. Deputy Charles Ward asked the Minister for Health the process she is currently undertaking in choosing a location for a surgical hub for the north west, as outlined in the programme for Government; the factors that will be considered in choosing the location; if this decision will be based solely on geography, population, demographics, day case numbers and staffing numbers; and if she will make a statement on the matter. [35141/25] ",
+      "questionType": "oral",
+      "debateSection": {
+        "debateSectionId": "dbsect_7",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-26/debate/mul@/dbsect_7.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-26/debate/dbsect_7",
+        "showAs": "Health Services"
+      },
+      "date": "2025-06-26",
+      "questionNumber": 5,
+      "by": {
+        "memberCode": "Charles-Ward.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Charles-Ward.D.2024-11-29",
+        "showAs": "Charles Ward"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-06-26",
+    "question": {
+      "to": {
+        "showAs": "Health",
+        "roleType": null,
+        "roleCode": null,
+        "uri": null
+      },
+      "house": {
+        "chamberType": "house",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "houseNo": "34",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-06-26/pq_6",
+      "showAs": " 6. Deputy Marie Sherlock asked the Minister for Health her plans to strengthen the inspection and regulatory regime in HIQA; and if she will make a statement on the matter. [34932/25] ",
+      "questionType": "oral",
+      "debateSection": {
+        "debateSectionId": "dbsect_9",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-26/debate/mul@/dbsect_9.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-26/debate/dbsect_9",
+        "showAs": "Regulatory Bodies"
+      },
+      "date": "2025-06-26",
+      "questionNumber": 6,
+      "by": {
+        "memberCode": "Marie-Sherlock.S.2020-03-30",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Marie-Sherlock.S.2020-03-30",
+        "showAs": "Marie Sherlock"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-06-26",
+    "question": {
+      "to": {
+        "showAs": "Health",
+        "roleType": null,
+        "roleCode": null,
+        "uri": null
+      },
+      "house": {
+        "chamberType": "house",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "houseNo": "34",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-06-26/pq_7",
+      "showAs": " 7. Deputy Shane Moynihan asked the Minister for Health if the Belgian model is being examined in the context of the programme for Government commitment to investigate early access schemes for rare disease treatments; and if she will make a statement on the matter. [34617/25] ",
+      "questionType": "oral",
+      "debateSection": {
+        "debateSectionId": "dbsect_10",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-26/debate/mul@/dbsect_10.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-26/debate/dbsect_10",
+        "showAs": "Medicinal Products"
+      },
+      "date": "2025-06-26",
+      "questionNumber": 7,
+      "by": {
+        "memberCode": "Shane-Moynihan.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Shane-Moynihan.D.2024-11-29",
+        "showAs": "Shane Moynihan"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-06-26",
+    "question": {
+      "to": {
+        "showAs": "Health",
+        "roleType": null,
+        "roleCode": null,
+        "uri": null
+      },
+      "house": {
+        "chamberType": "house",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "houseNo": "34",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-06-26/pq_9",
+      "showAs": " 9. Deputy Naoise Ó Muirí asked the Minister for Health the status of the chronic disease Mmnagement programme; the number of patients now enrolled; and if she will make a statement on the matter. [34666/25] ",
+      "questionType": "oral",
+      "debateSection": {
+        "debateSectionId": "dbsect_12",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-26/debate/mul@/dbsect_12.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-26/debate/dbsect_12",
+        "showAs": "Disease Management"
+      },
+      "date": "2025-06-26",
+      "questionNumber": 9,
+      "by": {
+        "memberCode": "Naoise-Ó-Muirí.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Naoise-Ó-Muirí.D.2024-11-29",
+        "showAs": "Naoise Ó Muirí"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-06-26",
+    "question": {
+      "to": {
+        "showAs": "Health",
+        "roleType": null,
+        "roleCode": null,
+        "uri": null
+      },
+      "house": {
+        "chamberType": "house",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "houseNo": "34",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-06-26/pq_11",
+      "showAs": " 11. Deputy Ruairí Ó Murchú asked the Minister for Health the mechanism by which parents whose children were and are deemed to need hip dysplasia surgery at CHI hospitals at Temple Street and Cappagh will be able to get independent second opinions by experts of their choosing paid for by the HSE; and if she will make a statement on the matter. [33749/25] ",
+      "questionType": "oral",
+      "debateSection": {
+        "debateSectionId": "dbsect_11",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-26/debate/mul@/dbsect_11.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-26/debate/dbsect_11",
+        "showAs": "Hospital Procedures"
+      },
+      "date": "2025-06-26",
+      "questionNumber": 11,
+      "by": {
+        "memberCode": "Ruairí-Ó-Murchú.D.2020-02-08",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruairí-Ó-Murchú.D.2020-02-08",
+        "showAs": "Ruairí Ó Murchú"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-06-26",
+    "question": {
+      "to": {
+        "showAs": "Health",
+        "roleType": null,
+        "roleCode": null,
+        "uri": null
+      },
+      "house": {
+        "chamberType": "house",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "houseNo": "34",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-06-26/pq_12",
+      "showAs": " 12. Deputy Ruairí Ó Murchú asked the Minister for Health the progress made by the orthodontic services waiting list initiative for grade 5 patients; the location and number of successful tenderers; the number of patients it is anticipated will be seen in 2025; and if she will make a statement on the matter. [33748/25] ",
+      "questionType": "oral",
+      "debateSection": {
+        "debateSectionId": "dbsect_13",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-26/debate/mul@/dbsect_13.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-26/debate/dbsect_13",
+        "showAs": "Dental Services "
+      },
+      "date": "2025-06-26",
+      "questionNumber": 12,
+      "by": {
+        "memberCode": "Ruairí-Ó-Murchú.D.2020-02-08",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruairí-Ó-Murchú.D.2020-02-08",
+        "showAs": "Ruairí Ó Murchú"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-06-26",
+    "question": {
+      "to": {
+        "showAs": "Health",
+        "roleType": null,
+        "roleCode": null,
+        "uri": null
+      },
+      "house": {
+        "chamberType": "house",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "houseNo": "34",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-06-26/pq_13",
+      "showAs": " 13. Deputy Matt Carthy asked the Minister for Health if she will ensure that a CT scanner and MRI scanner are located within Monaghan Hospital. [34678/25] ",
+      "questionType": "oral",
+      "debateSection": {
+        "debateSectionId": "dbsect_15",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-26/debate/mul@/dbsect_15.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-26/debate/dbsect_15",
+        "showAs": "Hospital Equipment"
+      },
+      "date": "2025-06-26",
+      "questionNumber": 13,
+      "by": {
+        "memberCode": "Matt-Carthy.D.2020-02-08",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Matt-Carthy.D.2020-02-08",
+        "showAs": "Matt Carthy"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-06-26",
+    "question": {
+      "to": {
+        "showAs": "Health",
+        "roleType": null,
+        "roleCode": null,
+        "uri": null
+      },
+      "house": {
+        "chamberType": "house",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "houseNo": "34",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-06-26/pq_16",
+      "showAs": " 16. Deputy Naoise Ó Muirí asked the Minister for Health the progress on increasing the number of GPs and GP practices across the country; and if she will make a statement on the matter. [34667/25] ",
+      "questionType": "oral",
+      "debateSection": {
+        "debateSectionId": "dbsect_14",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-26/debate/mul@/dbsect_14.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-26/debate/dbsect_14",
+        "showAs": "General Practitioner Services"
+      },
+      "date": "2025-06-26",
+      "questionNumber": 16,
+      "by": {
+        "memberCode": "Naoise-Ó-Muirí.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Naoise-Ó-Muirí.D.2024-11-29",
+        "showAs": "Naoise Ó Muirí"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-06-26",
+    "question": {
+      "to": {
+        "showAs": "Health",
+        "roleType": null,
+        "roleCode": null,
+        "uri": null
+      },
+      "house": {
+        "chamberType": "house",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "houseNo": "34",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-06-26/pq_18",
+      "showAs": " 18. Deputy Aindrias Moynihan asked the Minister for Health the up-to-date position on further plans on expansion of the role of community pharmacists; and if she will make a statement on the matter.  [34893/25] ",
+      "questionType": "oral",
+      "debateSection": {
+        "debateSectionId": "dbsect_16",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-26/debate/mul@/dbsect_16.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-26/debate/dbsect_16",
+        "showAs": "Pharmacy Services"
+      },
+      "date": "2025-06-26",
+      "questionNumber": 18,
+      "by": {
+        "memberCode": "Aindrias-Moynihan.D.2016-10-03",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Aindrias-Moynihan.D.2016-10-03",
+        "showAs": "Aindrias Moynihan"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-06-26",
+    "question": {
+      "to": {
+        "showAs": "Health",
+        "roleType": null,
+        "roleCode": null,
+        "uri": null
+      },
+      "house": {
+        "chamberType": "house",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "houseNo": "34",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-06-26/pq_21",
+      "showAs": " 21. Deputy Pádraig Rice asked the Minister for Health if her Department has received a copy of a 2017 report into paediatric urology services, known as the Dickson report (details supplied); if her Department was made aware of the existence of this report by Children’s Health Ireland, CHI, or anyone from Temple Street or Crumlin hospitals prior to CHI’s establishment; her views on CHI’s decision not to publish the report; and if she will make a statement on the matter.  [34815/25] ",
+      "questionType": "oral",
+      "debateSection": {
+        "debateSectionId": "dbsect_17",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-26/debate/mul@/dbsect_17.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-26/debate/dbsect_17",
+        "showAs": "Hospital Services"
+      },
+      "date": "2025-06-26",
+      "questionNumber": 21,
+      "by": {
+        "memberCode": "Pádraig-Rice.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Pádraig-Rice.D.2024-11-29",
+        "showAs": "Pádraig Rice"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-06-26",
+    "question": {
+      "to": {
+        "showAs": "Culture",
+        "roleType": null,
+        "roleCode": null,
+        "uri": null
+      },
+      "house": {
+        "chamberType": "house",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "houseNo": "34",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-06-26/pq_125",
+      "showAs": " 125. Deputy Joanna Byrne asked the Minister for Culture, Communications and Sport his position on the redevelopment of the landmark Ulster GAA stadium, Casement Park; and the steps his Department is taking to support the project to construction phase; and if he will make a statement on the matter. [34632/25] ",
+      "questionType": "oral",
+      "debateSection": {
+        "debateSectionId": "dbsect_19",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-26/debate/mul@/dbsect_19.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-26/debate/dbsect_19",
+        "showAs": "Sports Facilities"
+      },
+      "date": "2025-06-26",
+      "questionNumber": 125,
+      "by": {
+        "memberCode": "Joanna-Byrne.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Joanna-Byrne.D.2024-11-29",
+        "showAs": "Joanna Byrne"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-06-26",
+    "question": {
+      "to": {
+        "showAs": "Culture",
+        "roleType": null,
+        "roleCode": null,
+        "uri": null
+      },
+      "house": {
+        "chamberType": "house",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "houseNo": "34",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-06-26/pq_126",
+      "showAs": " 126. Deputy Robert O'Donoghue asked the Minister for Culture, Communications and Sport when he expects to receive the findings from the independent review of the night-time economy pilots; and if he anticipates these findings will recommend the appointment of night-time advisers across all local authorities.  [35189/25] ",
+      "questionType": "oral",
+      "debateSection": {
+        "debateSectionId": "dbsect_20",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-26/debate/mul@/dbsect_20.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-26/debate/dbsect_20",
+        "showAs": "Departmental Reviews"
+      },
+      "date": "2025-06-26",
+      "questionNumber": 126,
+      "by": {
+        "memberCode": "Robert-O'Donoghue.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Robert-O'Donoghue.D.2024-11-29",
+        "showAs": "Robert O'Donoghue"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-06-26",
+    "question": {
+      "to": {
+        "showAs": "Culture",
+        "roleType": null,
+        "roleCode": null,
+        "uri": null
+      },
+      "house": {
+        "chamberType": "house",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "houseNo": "34",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-06-26/pq_127",
+      "showAs": " 127. Deputy Aengus Ó Snodaigh asked the Minister for Culture, Communications and Sport the process undertaken for deciding on successful grant applicants for the grassroot music venues support scheme funding; if regional dispersal of the awards was considered; and if he will make a statement on the matter.  [34955/25] ",
+      "questionType": "oral",
+      "debateSection": {
+        "debateSectionId": "dbsect_21",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-26/debate/mul@/dbsect_21.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-26/debate/dbsect_21",
+        "showAs": "Departmental Schemes"
+      },
+      "date": "2025-06-26",
+      "questionNumber": 127,
+      "by": {
+        "memberCode": "Aengus-Ó-Snodaigh.D.2002-06-06",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Aengus-Ó-Snodaigh.D.2002-06-06",
+        "showAs": "Aengus Ó Snodaigh"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-06-26",
+    "question": {
+      "to": {
+        "showAs": "Culture",
+        "roleType": null,
+        "roleCode": null,
+        "uri": null
+      },
+      "house": {
+        "chamberType": "house",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "houseNo": "34",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-06-26/pq_128",
+      "showAs": " 128. Deputy Paul Murphy asked the Minister for Culture, Communications and Sport if he will abolish the TV licence and replace it with a tax on big tech companies to fund public service broadcasting. [35187/25] ",
+      "questionType": "oral",
+      "debateSection": {
+        "debateSectionId": "dbsect_22",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-26/debate/mul@/dbsect_22.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-26/debate/dbsect_22",
+        "showAs": "Television Licence Fee"
+      },
+      "date": "2025-06-26",
+      "questionNumber": 128,
+      "by": {
+        "memberCode": "Paul-Murphy.D.2014-10-10",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Murphy.D.2014-10-10",
+        "showAs": "Paul Murphy"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-06-26",
+    "question": {
+      "to": {
+        "showAs": "Culture",
+        "roleType": null,
+        "roleCode": null,
+        "uri": null
+      },
+      "house": {
+        "chamberType": "house",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "houseNo": "34",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-06-26/pq_129",
+      "showAs": " 129. Deputy Peadar Tóibín asked the Minister for Culture, Communications and Sport if his Department plans to expand the basic income for the arts scheme; and if he will make a statement on the matter. [34053/25] ",
+      "questionType": "oral",
+      "debateSection": {
+        "debateSectionId": "dbsect_23",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-26/debate/mul@/dbsect_23.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-26/debate/dbsect_23",
+        "showAs": "Artists' Remuneration"
+      },
+      "date": "2025-06-26",
+      "questionNumber": 129,
+      "by": {
+        "memberCode": "Peadar-Tóibín.D.2011-03-09",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Peadar-Tóibín.D.2011-03-09",
+        "showAs": "Peadar Tóibín"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-06-26",
+    "question": {
+      "to": {
+        "showAs": "Culture",
+        "roleType": null,
+        "roleCode": null,
+        "uri": null
+      },
+      "house": {
+        "chamberType": "house",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "houseNo": "34",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-06-26/pq_130",
+      "showAs": " 130. Deputy Pádraig O'Sullivan asked the Minister for Culture, Communications and Sport the total budget and allocations for elite sport athletes; his plans to enhance that amount in the lead up to the next Olympic Games; and if he will make a statement on the matter. [34959/25] ",
+      "questionType": "oral",
+      "debateSection": {
+        "debateSectionId": "dbsect_24",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-26/debate/mul@/dbsect_24.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-26/debate/dbsect_24",
+        "showAs": "Sports Funding"
+      },
+      "date": "2025-06-26",
+      "questionNumber": 130,
+      "by": {
+        "memberCode": "Pádraig-O'Sullivan.D.2019-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Pádraig-O'Sullivan.D.2019-11-29",
+        "showAs": "Pádraig O'Sullivan"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-06-26",
+    "question": {
+      "to": {
+        "showAs": "Culture",
+        "roleType": null,
+        "roleCode": null,
+        "uri": null
+      },
+      "house": {
+        "chamberType": "house",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "houseNo": "34",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-06-26/pq_131",
+      "showAs": " 131. Deputy John Connolly asked the Minister for Culture, Communications and Sport the progress made towards meeting the programme for Government commitment to support local authorities in the acquisition of new lands for parks and playing pitches; and if he will make a statement on the matter. [34641/25] ",
+      "questionType": "oral",
+      "debateSection": {
+        "debateSectionId": "dbsect_26",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-26/debate/mul@/dbsect_26.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-26/debate/dbsect_26",
+        "showAs": "Sport and Recreational Development"
+      },
+      "date": "2025-06-26",
+      "questionNumber": 131,
+      "by": {
+        "memberCode": "John-Connolly.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/John-Connolly.D.2024-11-29",
+        "showAs": "John Connolly"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-06-26",
+    "question": {
+      "to": {
+        "showAs": "Culture",
+        "roleType": null,
+        "roleCode": null,
+        "uri": null
+      },
+      "house": {
+        "chamberType": "house",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "houseNo": "34",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-06-26/pq_133",
+      "showAs": " 133. Deputy Noel McCarthy asked the Minister for Culture, Communications and Sport the measures his Department is taking, or plans to introduce in the future, to support the post office network; and if he will make a statement on the matter. [30269/25] ",
+      "questionType": "oral",
+      "debateSection": {
+        "debateSectionId": "dbsect_27",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-26/debate/mul@/dbsect_27.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-26/debate/dbsect_27",
+        "showAs": "Post Office Network"
+      },
+      "date": "2025-06-26",
+      "questionNumber": 133,
+      "by": {
+        "memberCode": "Noel-McCarthy.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Noel-McCarthy.D.2024-11-29",
+        "showAs": "Noel McCarthy"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-06-26",
+    "question": {
+      "to": {
+        "showAs": "Culture",
+        "roleType": null,
+        "roleCode": null,
+        "uri": null
+      },
+      "house": {
+        "chamberType": "house",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "houseNo": "34",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-06-26/pq_134",
+      "showAs": " 134. Deputy Naoise Ó Cearúil asked the Minister for Culture, Communications and Sport for an update on his plans for a successor scheme for the basic income for the arts; and if he will make a statement on the matter. [34834/25] ",
+      "questionType": "oral",
+      "debateSection": {
+        "debateSectionId": "dbsect_28",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-26/debate/mul@/dbsect_28.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-26/debate/dbsect_28",
+        "showAs": "Arts Funding"
+      },
+      "date": "2025-06-26",
+      "questionNumber": 134,
+      "by": {
+        "memberCode": "Naoise-Ó-Cearúil.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Naoise-Ó-Cearúil.D.2024-11-29",
+        "showAs": "Naoise Ó Cearúil"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-06-26",
+    "question": {
+      "to": {
+        "showAs": "Culture",
+        "roleType": null,
+        "roleCode": null,
+        "uri": null
+      },
+      "house": {
+        "chamberType": "house",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "houseNo": "34",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-06-26/pq_135",
+      "showAs": " 135. Deputy William Aird asked the Minister for Culture, Communications and Sport his plans to invest in cultural infrastructure in rural counties such as County Laois (details supplied); and if he will make a statement on the matter. [34380/25] ",
+      "questionType": "oral",
+      "debateSection": {
+        "debateSectionId": "dbsect_29",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-26/debate/mul@/dbsect_29.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-26/debate/dbsect_29",
+        "showAs": "Culture Policy"
+      },
+      "date": "2025-06-26",
+      "questionNumber": 135,
+      "by": {
+        "memberCode": "William-Aird.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/William-Aird.D.2024-11-29",
+        "showAs": "William Aird"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-06-26",
+    "question": {
+      "to": {
+        "showAs": "Culture",
+        "roleType": null,
+        "roleCode": null,
+        "uri": null
+      },
+      "house": {
+        "chamberType": "house",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "houseNo": "34",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-06-26/pq_136",
+      "showAs": " 136. Deputy Matt Carthy asked the Minister for Culture, Communications and Sport the steps Monaghan County Council should take to secure funding for a swimming pool in Carrickmacross. [34630/25] ",
+      "questionType": "oral",
+      "debateSection": {
+        "debateSectionId": "dbsect_30",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-26/debate/mul@/dbsect_30.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-26/debate/dbsect_30",
+        "showAs": "Swimming Pools"
+      },
+      "date": "2025-06-26",
+      "questionNumber": 136,
+      "by": {
+        "memberCode": "Matt-Carthy.D.2020-02-08",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Matt-Carthy.D.2020-02-08",
+        "showAs": "Matt Carthy"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-06-26",
+    "question": {
+      "to": {
+        "showAs": "Culture",
+        "roleType": null,
+        "roleCode": null,
+        "uri": null
+      },
+      "house": {
+        "chamberType": "house",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "houseNo": "34",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-06-26/pq_137",
+      "showAs": " 137. Deputy Peadar Tóibín asked the Minister for Culture, Communications and Sport if his Department has conducted any value-for-money analysis of its spending on Galway 2020; if a breakdown is available on the way in which the €15 million spent by his Department on Galway 2020 was spent; and if he will make a statement on the matter. [34052/25] ",
+      "questionType": "oral",
+      "debateSection": {
+        "debateSectionId": "dbsect_31",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-26/debate/mul@/dbsect_31.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-26/debate/dbsect_31",
+        "showAs": "Expenditure Reviews"
+      },
+      "date": "2025-06-26",
+      "questionNumber": 137,
+      "by": {
+        "memberCode": "Peadar-Tóibín.D.2011-03-09",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Peadar-Tóibín.D.2011-03-09",
+        "showAs": "Peadar Tóibín"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-06-26",
+    "question": {
+      "to": {
+        "showAs": "Culture",
+        "roleType": null,
+        "roleCode": null,
+        "uri": null
+      },
+      "house": {
+        "chamberType": "house",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "houseNo": "34",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-06-26/pq_138",
+      "showAs": " 138. Deputy Catherine Connolly asked the Minister for Culture, Communications and Sport further to his announcement that the basic income for the arts pilot scheme is to be extended by six months, his plans for the permanent roll-out of the BIA scheme; and if he will make a statement on the matter. [34911/25] ",
+      "questionType": "oral",
+      "debateSection": {
+        "debateSectionId": "dbsect_28",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-26/debate/mul@/dbsect_28.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-26/debate/dbsect_28",
+        "showAs": "Arts Funding"
+      },
+      "date": "2025-06-26",
+      "questionNumber": 138,
+      "by": {
+        "memberCode": "Catherine-Connolly.D.2016-10-03",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Catherine-Connolly.D.2016-10-03",
+        "showAs": "Catherine Connolly"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-06-26",
+    "question": {
+      "to": {
+        "showAs": "Culture",
+        "roleType": null,
+        "roleCode": null,
+        "uri": null
+      },
+      "house": {
+        "chamberType": "house",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "houseNo": "34",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-06-26/pq_139",
+      "showAs": " 139. Deputy Pearse Doherty asked the Minister for Culture, Communications and Sport the total number of eligible applicants to the grassroots music venue supports scheme who met necessary criteria to avail of the scheme; the total number of successful applicants; and if he will make a statement on the matter. [34898/25] ",
+      "questionType": "oral",
+      "debateSection": {
+        "debateSectionId": "dbsect_32",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-26/debate/mul@/dbsect_32.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-26/debate/dbsect_32",
+        "showAs": "Arts Funding"
+      },
+      "date": "2025-06-26",
+      "questionNumber": 139,
+      "by": {
+        "memberCode": "Pearse-Doherty.S.2007-07-23",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Pearse-Doherty.S.2007-07-23",
+        "showAs": "Pearse Doherty"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-06-26",
+    "question": {
+      "to": {
+        "showAs": "Culture",
+        "roleType": null,
+        "roleCode": null,
+        "uri": null
+      },
+      "house": {
+        "chamberType": "house",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "houseNo": "34",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-06-26/pq_141",
+      "showAs": " 141. Deputy Peadar Tóibín asked the Minister for Culture, Communications and Sport if his Department has undertaken any analysis of the effectiveness of the basic income for the arts scheme; and if he will make a statement on the matter. [34056/25] ",
+      "questionType": "oral",
+      "debateSection": {
+        "debateSectionId": "dbsect_28",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-26/debate/mul@/dbsect_28.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-26/debate/dbsect_28",
+        "showAs": "Arts Funding"
+      },
+      "date": "2025-06-26",
+      "questionNumber": 141,
+      "by": {
+        "memberCode": "Peadar-Tóibín.D.2011-03-09",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Peadar-Tóibín.D.2011-03-09",
+        "showAs": "Peadar Tóibín"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-06-26",
+    "question": {
+      "to": {
+        "showAs": "Culture",
+        "roleType": null,
+        "roleCode": null,
+        "uri": null
+      },
+      "house": {
+        "chamberType": "house",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "houseNo": "34",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-06-26/pq_149",
+      "showAs": " 149. Deputy Pearse Doherty asked the Minister for Culture, Communications and Sport the total number of eligible applicants to the grassroots music venue supports scheme who met necessary criteria to avail of the scheme; the geographical distribution of the successful applicants; and if he will make a statement on the matter. [34899/25] ",
+      "questionType": "oral",
+      "debateSection": {
+        "debateSectionId": "dbsect_32",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-26/debate/mul@/dbsect_32.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-26/debate/dbsect_32",
+        "showAs": "Arts Funding"
+      },
+      "date": "2025-06-26",
+      "questionNumber": 149,
+      "by": {
+        "memberCode": "Pearse-Doherty.S.2007-07-23",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Pearse-Doherty.S.2007-07-23",
+        "showAs": "Pearse Doherty"
+      }
+    }
+  }
+]

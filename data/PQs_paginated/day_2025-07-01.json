@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "contextDate": "2025-07-01",
+    "question": {
+      "to": {
+        "uri": null,
+        "showAs": "Taoiseach",
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-01/debate/dbsect_13",
+        "showAs": "Census of Population",
+        "debateSectionId": "dbsect_13",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-01/debate/mul@/dbsect_13.xml"
+          },
+          "pdf": null
+        }
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-01/pq_1",
+      "house": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "chamberType": "house",
+        "houseNo": "34"
+      },
+      "showAs": " 1. Deputy Ruairí Ó Murchú asked the Taoiseach the date for the next planned census.  [26980/25] ",
+      "questionType": "oral",
+      "by": {
+        "memberCode": "Ruairí-Ó-Murchú.D.2020-02-08",
+        "showAs": "Ruairí Ó Murchú",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruairí-Ó-Murchú.D.2020-02-08"
+      },
+      "questionNumber": 1,
+      "date": "2025-07-01"
+    }
+  }
+]

@@ -1,1 +1,1042 @@
-[]
+[
+  {
+    "contextDate": "2025-07-03",
+    "question": {
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-03/debate/dbsect_3",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-03/debate/mul@/dbsect_3.xml"
+          },
+          "pdf": null
+        },
+        "debateSectionId": "dbsect_3",
+        "showAs": "An Garda Síochána"
+      },
+      "house": {
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "houseCode": "dail"
+      },
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Justice"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-03/pq_1",
+      "questionNumber": 1,
+      "date": "2025-07-03",
+      "by": {
+        "memberCode": "Matt-Carthy.D.2020-02-08",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Matt-Carthy.D.2020-02-08",
+        "showAs": "Matt Carthy"
+      },
+      "questionType": "oral",
+      "showAs": " 1. Deputy Matt Carthy asked the Minister for Justice, Home Affairs and Migration the number in each intake of gardaí, and the number who attested, in the past three years, in tabular form; and if he will make a statement on the matter. [36637/25] "
+    }
+  },
+  {
+    "contextDate": "2025-07-03",
+    "question": {
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-03/debate/dbsect_4",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-03/debate/mul@/dbsect_4.xml"
+          },
+          "pdf": null
+        },
+        "debateSectionId": "dbsect_4",
+        "showAs": "Domestic, Sexual and Gender-based Violence"
+      },
+      "house": {
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "houseCode": "dail"
+      },
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Justice"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-03/pq_2",
+      "questionNumber": 2,
+      "date": "2025-07-03",
+      "by": {
+        "memberCode": "Catherine-Connolly.D.2016-10-03",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Catherine-Connolly.D.2016-10-03",
+        "showAs": "Catherine Connolly"
+      },
+      "questionType": "oral",
+      "showAs": " 2. Deputy Catherine Connolly asked the Minister for Justice, Home Affairs and Migration further to the findings of a report (details supplied) that front-line services were contacted 32,144 times, being an increase of 12% on 2023, that 44% of women surveyed were not satisfied with their initial engagement with An Garda Síochána and that its response to more than 65,000 contacts received last year was inconsistent, the urgent steps he is taking to achieve zero tolerance of violence against women; and if he will make a statement on the matter. [36323/25] "
+    }
+  },
+  {
+    "contextDate": "2025-07-03",
+    "question": {
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-03/debate/dbsect_5",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-03/debate/mul@/dbsect_5.xml"
+          },
+          "pdf": null
+        },
+        "debateSectionId": "dbsect_5",
+        "showAs": "Deportation Orders"
+      },
+      "house": {
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "houseCode": "dail"
+      },
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Justice"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-03/pq_3",
+      "questionNumber": 3,
+      "date": "2025-07-03",
+      "by": {
+        "memberCode": "Matt-Carthy.D.2020-02-08",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Matt-Carthy.D.2020-02-08",
+        "showAs": "Matt Carthy"
+      },
+      "questionType": "oral",
+      "showAs": " 3. Deputy Matt Carthy asked the Minister for Justice, Home Affairs and Migration the annual percentage of those who received a final negative decision on their international protection application who left Ireland within 30 days and who provided authorities with documentary evidence that they had left within three days of arrival in their home country, for each of the past five years, in tabular form; and if he will make a statement on the matter. [36638/25] "
+    }
+  },
+  {
+    "contextDate": "2025-07-03",
+    "question": {
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-03/debate/dbsect_6",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-03/debate/mul@/dbsect_6.xml"
+          },
+          "pdf": null
+        },
+        "debateSectionId": "dbsect_6",
+        "showAs": "Legislative Measures"
+      },
+      "house": {
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "houseCode": "dail"
+      },
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Justice"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-03/pq_4",
+      "questionNumber": 4,
+      "date": "2025-07-03",
+      "by": {
+        "memberCode": "Mark-Ward.D.2019-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Mark-Ward.D.2019-11-29",
+        "showAs": "Mark Ward"
+      },
+      "questionType": "oral",
+      "showAs": " 4. Deputy Mark Ward asked the Minister for Justice, Home Affairs and Migration for an update on the criminal justice disregard of certain convictions related to consensual sexual activity Bill; when it will be completed; and if he will make a statement on the matter. [36639/25] "
+    }
+  },
+  {
+    "contextDate": "2025-07-03",
+    "question": {
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-03/debate/dbsect_7",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-03/debate/mul@/dbsect_7.xml"
+          },
+          "pdf": null
+        },
+        "debateSectionId": "dbsect_7",
+        "showAs": "Prison Service"
+      },
+      "house": {
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "houseCode": "dail"
+      },
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Justice"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-03/pq_5",
+      "questionNumber": 5,
+      "date": "2025-07-03",
+      "by": {
+        "memberCode": "Tom-Brabazon.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tom-Brabazon.D.2024-11-29",
+        "showAs": "Tom Brabazon"
+      },
+      "questionType": "oral",
+      "showAs": " 5. Deputy Tom Brabazon asked the Minister for Justice, Home Affairs and Migration the actions his Department is taking to provide additional prison places to meet current and future demand. [36720/25] "
+    }
+  },
+  {
+    "contextDate": "2025-07-03",
+    "question": {
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-03/debate/dbsect_9",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-03/debate/mul@/dbsect_9.xml"
+          },
+          "pdf": null
+        },
+        "debateSectionId": "dbsect_9",
+        "showAs": "Naturalisation Applications"
+      },
+      "house": {
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "houseCode": "dail"
+      },
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Justice"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-03/pq_6",
+      "questionNumber": 6,
+      "date": "2025-07-03",
+      "by": {
+        "memberCode": "Noel-McCarthy.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Noel-McCarthy.D.2024-11-29",
+        "showAs": "Noel McCarthy"
+      },
+      "questionType": "oral",
+      "showAs": " 6. Deputy Noel McCarthy asked the Minister for Justice, Home Affairs and Migration the number of naturalisation applications received in each year from 2020 to 2024, inclusive; the current average processing times for naturalisation applications; the measures being taken by his Department to further reduce application processing times; and if he will make a statement on the matter. [36655/25] "
+    }
+  },
+  {
+    "contextDate": "2025-07-03",
+    "question": {
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-03/debate/dbsect_10",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-03/debate/mul@/dbsect_10.xml"
+          },
+          "pdf": null
+        },
+        "debateSectionId": "dbsect_10",
+        "showAs": "Crime Prevention"
+      },
+      "house": {
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "houseCode": "dail"
+      },
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Justice"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-03/pq_8",
+      "questionNumber": 8,
+      "date": "2025-07-03",
+      "by": {
+        "memberCode": "Colm-Burke.S.2011-05-25",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Colm-Burke.S.2011-05-25",
+        "showAs": "Colm Burke"
+      },
+      "questionType": "oral",
+      "showAs": " 8. Deputy Colm Burke asked the Minister for Justice, Home Affairs and Migration the action taken by his Department to monitor the progress of young people who leave the youth diversion programme after their supervision period ends; and if he will make a statement on the matter. [36372/25] "
+    }
+  },
+  {
+    "contextDate": "2025-07-03",
+    "question": {
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-03/debate/dbsect_11",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-03/debate/mul@/dbsect_11.xml"
+          },
+          "pdf": null
+        },
+        "debateSectionId": "dbsect_11",
+        "showAs": "Crime Prevention"
+      },
+      "house": {
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "houseCode": "dail"
+      },
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Justice"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-03/pq_9",
+      "questionNumber": 9,
+      "date": "2025-07-03",
+      "by": {
+        "memberCode": "Erin-McGreehan.S.2020-06-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Erin-McGreehan.S.2020-06-29",
+        "showAs": "Erin McGreehan"
+      },
+      "questionType": "oral",
+      "showAs": " 9. Deputy Erin McGreehan asked the Minister for Justice, Home Affairs and Migration the measures his Department is taking to increase the staffing levels in the Criminal Assets Bureau to facilitate the increased detection of the proceeds of crime due to the reduction of the threshold from €13,000 to €5,000. [36379/25] "
+    }
+  },
+  {
+    "contextDate": "2025-07-03",
+    "question": {
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-03/debate/dbsect_12",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-03/debate/mul@/dbsect_12.xml"
+          },
+          "pdf": null
+        },
+        "debateSectionId": "dbsect_12",
+        "showAs": "Legal Aid"
+      },
+      "house": {
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "houseCode": "dail"
+      },
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Justice"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-03/pq_10",
+      "questionNumber": 10,
+      "date": "2025-07-03",
+      "by": {
+        "memberCode": "Matt-Carthy.D.2020-02-08",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Matt-Carthy.D.2020-02-08",
+        "showAs": "Matt Carthy"
+      },
+      "questionType": "oral",
+      "showAs": " 10. Deputy Matt Carthy asked the Minister for Justice, Home Affairs and Migration for an outline of the findings of the report of the civil legal aid review group, which has indicated that he has received the report; and if he will make a statement on the matter. [36599/25] "
+    }
+  },
+  {
+    "contextDate": "2025-07-03",
+    "question": {
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-03/debate/dbsect_13",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-03/debate/mul@/dbsect_13.xml"
+          },
+          "pdf": null
+        },
+        "debateSectionId": "dbsect_13",
+        "showAs": "Public Transport"
+      },
+      "house": {
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "houseCode": "dail"
+      },
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Justice"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-03/pq_11",
+      "questionNumber": 11,
+      "date": "2025-07-03",
+      "by": {
+        "memberCode": "Emer-Currie.S.2020-06-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Emer-Currie.S.2020-06-29",
+        "showAs": "Emer Currie"
+      },
+      "questionType": "oral",
+      "showAs": " 11. Deputy Emer Currie asked the Minister for Justice, Home Affairs and Migration to provide an update on his Department's engagement with the Department of Transport regarding the proposed transport security force; and if he will make a statement on the matter. [36531/25] "
+    }
+  },
+  {
+    "contextDate": "2025-07-03",
+    "question": {
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-03/debate/dbsect_14",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-03/debate/mul@/dbsect_14.xml"
+          },
+          "pdf": null
+        },
+        "debateSectionId": "dbsect_14",
+        "showAs": "Probation and Welfare Service"
+      },
+      "house": {
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "houseCode": "dail"
+      },
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Justice"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-03/pq_12",
+      "questionNumber": 12,
+      "date": "2025-07-03",
+      "by": {
+        "memberCode": "Paul-McAuliffe.D.2020-02-08",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-McAuliffe.D.2020-02-08",
+        "showAs": "Paul McAuliffe"
+      },
+      "questionType": "oral",
+      "showAs": " 12. Deputy Paul McAuliffe asked the Minister for Justice, Home Affairs and Migration further to a Topical Issue raised on 19 October 2023, if he will outline the current total number of allegations of child sexual abuse involving any member of the Probation Service that he or his Department have been made aware of; if he has considered putting in place a non-adversarial redress scheme, if appropriate; and if he will make a statement on the matter. [36677/25] "
+    }
+  },
+  {
+    "contextDate": "2025-07-03",
+    "question": {
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-03/debate/dbsect_15",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-03/debate/mul@/dbsect_15.xml"
+          },
+          "pdf": null
+        },
+        "debateSectionId": "dbsect_15",
+        "showAs": "Local Community Safety Partnerships"
+      },
+      "house": {
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "houseCode": "dail"
+      },
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Justice"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-03/pq_13",
+      "questionNumber": 13,
+      "date": "2025-07-03",
+      "by": {
+        "memberCode": "Emer-Currie.S.2020-06-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Emer-Currie.S.2020-06-29",
+        "showAs": "Emer Currie"
+      },
+      "questionType": "oral",
+      "showAs": " 13. Deputy Emer Currie asked the Minister for Justice, Home Affairs and Migration for an update on the roll-out of local community safety partnerships in Dublin west; and if he will make a statement on the matter. [36530/25] "
+    }
+  },
+  {
+    "contextDate": "2025-07-03",
+    "question": {
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-03/debate/dbsect_18",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-03/debate/mul@/dbsect_18.xml"
+          },
+          "pdf": null
+        },
+        "debateSectionId": "dbsect_18",
+        "showAs": "Work Permits"
+      },
+      "house": {
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "houseCode": "dail"
+      },
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Justice"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-03/pq_14",
+      "questionNumber": 14,
+      "date": "2025-07-03",
+      "by": {
+        "memberCode": "Aindrias-Moynihan.D.2016-10-03",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Aindrias-Moynihan.D.2016-10-03",
+        "showAs": "Aindrias Moynihan"
+      },
+      "questionType": "oral",
+      "showAs": " 14. Deputy Aindrias Moynihan asked the Minister for Justice, Home Affairs and Migration for an update on progress towards the introduction of a single permit system for visas and work permits. [36627/25] "
+    }
+  },
+  {
+    "contextDate": "2025-07-03",
+    "question": {
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-03/debate/dbsect_19",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-03/debate/mul@/dbsect_19.xml"
+          },
+          "pdf": null
+        },
+        "debateSectionId": "dbsect_19",
+        "showAs": "Joint Policing Committees"
+      },
+      "house": {
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "houseCode": "dail"
+      },
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Justice"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-03/pq_15",
+      "questionNumber": 15,
+      "date": "2025-07-03",
+      "by": {
+        "memberCode": "Ruairí-Ó-Murchú.D.2020-02-08",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruairí-Ó-Murchú.D.2020-02-08",
+        "showAs": "Ruairí Ó Murchú"
+      },
+      "questionType": "oral",
+      "showAs": " 15. Deputy Ruairí Ó Murchú asked the Minister for Justice, Home Affairs and Migration if he will provide an update on the progress being made to operationalise community safety partnerships; to outline the timeline, the model and operation of the partnerships; and if he will make a statement on the matter. [35632/25] "
+    }
+  },
+  {
+    "contextDate": "2025-07-03",
+    "question": {
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-03/debate/dbsect_21",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-03/debate/mul@/dbsect_21.xml"
+          },
+          "pdf": null
+        },
+        "debateSectionId": "dbsect_21",
+        "showAs": "Fishing Industry"
+      },
+      "house": {
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "houseCode": "dail"
+      },
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Agriculture"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-03/pq_74",
+      "questionNumber": 74,
+      "date": "2025-07-03",
+      "by": {
+        "memberCode": "Pádraig-MacLochlainn.D.2011-03-09",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Pádraig-MacLochlainn.D.2011-03-09",
+        "showAs": "Pádraig Mac Lochlainn"
+      },
+      "questionType": "oral",
+      "showAs": " 74. Deputy Pádraig Mac Lochlainn asked the Minister for Agriculture, Food and the Marine for an update on the most recent discussions between the Government and the UK Government on reinstating access for Irish fishers to their traditional fishing grounds at Rockall; if he is considering taking the matter to international arbitration, given the illegality of this long-standing blockade; and if he will make a statement on the matter. [36288/25] "
+    }
+  },
+  {
+    "contextDate": "2025-07-03",
+    "question": {
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-03/debate/dbsect_22",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-03/debate/mul@/dbsect_22.xml"
+          },
+          "pdf": null
+        },
+        "debateSectionId": "dbsect_22",
+        "showAs": "Tillage Sector"
+      },
+      "house": {
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "houseCode": "dail"
+      },
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Agriculture"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-03/pq_75",
+      "questionNumber": 75,
+      "date": "2025-07-03",
+      "by": {
+        "memberCode": "Robert-O'Donoghue.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Robert-O'Donoghue.D.2024-11-29",
+        "showAs": "Robert O'Donoghue"
+      },
+      "questionType": "oral",
+      "showAs": " 75. Deputy Robert O'Donoghue asked the Minister for Agriculture, Food and the Marine how he proposes to increase the tillage area, as outlined as a key desire in the programme for Government; when a tillage incentive scheme will be introduced to support tillage growers; and if he will make a statement on the matter. [36299/25] "
+    }
+  },
+  {
+    "contextDate": "2025-07-03",
+    "question": {
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-03/debate/dbsect_23",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-03/debate/mul@/dbsect_23.xml"
+          },
+          "pdf": null
+        },
+        "debateSectionId": "dbsect_23",
+        "showAs": "Animal Diseases"
+      },
+      "house": {
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "houseCode": "dail"
+      },
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Agriculture"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-03/pq_76",
+      "questionNumber": 76,
+      "date": "2025-07-03",
+      "by": {
+        "memberCode": "Martin-Kenny.D.2016-10-03",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Martin-Kenny.D.2016-10-03",
+        "showAs": "Martin Kenny"
+      },
+      "questionType": "oral",
+      "showAs": " 76. Deputy Martin Kenny asked the Minister for Agriculture, Food and the Marine when his Department will implement the new measures to tackle TB; and if he will make a statement on the matter. [36040/25] "
+    }
+  },
+  {
+    "contextDate": "2025-07-03",
+    "question": {
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-03/debate/dbsect_24",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-03/debate/mul@/dbsect_24.xml"
+          },
+          "pdf": null
+        },
+        "debateSectionId": "dbsect_24",
+        "showAs": "Fishing Industry"
+      },
+      "house": {
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "houseCode": "dail"
+      },
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Agriculture"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-03/pq_77",
+      "questionNumber": 77,
+      "date": "2025-07-03",
+      "by": {
+        "memberCode": "Jennifer-Whitmore.D.2020-02-08",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Jennifer-Whitmore.D.2020-02-08",
+        "showAs": "Jennifer Whitmore"
+      },
+      "questionType": "oral",
+      "showAs": " 77. Deputy Jennifer Whitmore asked the Minister for Agriculture, Food and the Marine if he will direct the Marine Institute to undertake a formal stock assessment of sprat, with a view to introducing a total allowable catch; and if he will make a statement on the matter. [36041/25] "
+    }
+  },
+  {
+    "contextDate": "2025-07-03",
+    "question": {
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-03/debate/dbsect_25",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-03/debate/mul@/dbsect_25.xml"
+          },
+          "pdf": null
+        },
+        "debateSectionId": "dbsect_25",
+        "showAs": "Pigmeat Sector"
+      },
+      "house": {
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "houseCode": "dail"
+      },
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Agriculture"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-03/pq_78",
+      "questionNumber": 78,
+      "date": "2025-07-03",
+      "by": {
+        "memberCode": "Paul-Murphy.D.2014-10-10",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Murphy.D.2014-10-10",
+        "showAs": "Paul Murphy"
+      },
+      "questionType": "oral",
+      "showAs": " 78. Deputy Paul Murphy asked the Minister for Agriculture, Food and the Marine if he will outlaw teeth-clipping, tail-docking and castration in pig farming and regulate sow stalls and farrowing crates to have an area of not less than 5 sq. m, so as to improve animal welfare; and if he will make a statement on the matter. [36640/25] "
+    }
+  },
+  {
+    "contextDate": "2025-07-03",
+    "question": {
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-03/debate/dbsect_26",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-03/debate/mul@/dbsect_26.xml"
+          },
+          "pdf": null
+        },
+        "debateSectionId": "dbsect_26",
+        "showAs": "Agriculture Schemes"
+      },
+      "house": {
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "houseCode": "dail"
+      },
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Agriculture"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-03/pq_79",
+      "questionNumber": 79,
+      "date": "2025-07-03",
+      "by": {
+        "memberCode": "Mattie-McGrath.D.2007-06-14",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Mattie-McGrath.D.2007-06-14",
+        "showAs": "Mattie McGrath"
+      },
+      "questionType": "oral",
+      "showAs": " 79. Deputy Mattie McGrath asked the Minister for Agriculture, Food and the Marine if he will provide a full explanation for the ongoing delays in issuing ACRES payments to participating farmers; the number of applicants still awaiting full or partial payment under all streams of the scheme; the urgent steps being taken by his Department to resolve system bottlenecks and ensure timely payment to farmers who have met all compliance requirements; and if he will make a statement on the matter. [36922/25] "
+    }
+  },
+  {
+    "contextDate": "2025-07-03",
+    "question": {
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-03/debate/dbsect_28",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-03/debate/mul@/dbsect_28.xml"
+          },
+          "pdf": null
+        },
+        "debateSectionId": "dbsect_28",
+        "showAs": "Fishing Industry"
+      },
+      "house": {
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "houseCode": "dail"
+      },
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Agriculture"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-03/pq_80",
+      "questionNumber": 80,
+      "date": "2025-07-03",
+      "by": {
+        "memberCode": "Pádraig-MacLochlainn.D.2011-03-09",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Pádraig-MacLochlainn.D.2011-03-09",
+        "showAs": "Pádraig Mac Lochlainn"
+      },
+      "questionType": "oral",
+      "showAs": " 80. Deputy Pádraig Mac Lochlainn asked the Minister for Agriculture, Food and the Marine if he is aware that only 52 persons have availed of fish assist across the State as of 31 May 2025; and if the Minister of State with responsibility for the marine and his Department officials will now engage with the representative POs for inshore and islands fishermen to discuss a financial support or subsidy scheme for the sector. [36266/25] "
+    }
+  },
+  {
+    "contextDate": "2025-07-03",
+    "question": {
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-03/debate/dbsect_29",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-03/debate/mul@/dbsect_29.xml"
+          },
+          "pdf": null
+        },
+        "debateSectionId": "dbsect_29",
+        "showAs": "Agriculture Industry"
+      },
+      "house": {
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "houseCode": "dail"
+      },
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Agriculture"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-03/pq_81",
+      "questionNumber": 81,
+      "date": "2025-07-03",
+      "by": {
+        "memberCode": "Jennifer-Whitmore.D.2020-02-08",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Jennifer-Whitmore.D.2020-02-08",
+        "showAs": "Jennifer Whitmore"
+      },
+      "questionType": "oral",
+      "showAs": " 81. Deputy Jennifer Whitmore asked the Minister for Agriculture, Food and the Marine when the Agri-Food Regulator will be granted additional powers of compellability; and if he will make a statement on the matter. [36023/25] "
+    }
+  },
+  {
+    "contextDate": "2025-07-03",
+    "question": {
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-03/debate/dbsect_30",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-03/debate/mul@/dbsect_30.xml"
+          },
+          "pdf": null
+        },
+        "debateSectionId": "dbsect_30",
+        "showAs": "Animal Diseases"
+      },
+      "house": {
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "houseCode": "dail"
+      },
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Agriculture"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-03/pq_82",
+      "questionNumber": 82,
+      "date": "2025-07-03",
+      "by": {
+        "memberCode": "Jennifer-Whitmore.D.2020-02-08",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Jennifer-Whitmore.D.2020-02-08",
+        "showAs": "Jennifer Whitmore"
+      },
+      "questionType": "oral",
+      "showAs": " 82. Deputy Jennifer Whitmore asked the Minister for Agriculture, Food and the Marine to outline his Department’s plans to deal with bovine TB; and if he will make a statement on the matter. [36021/25] "
+    }
+  },
+  {
+    "contextDate": "2025-07-03",
+    "question": {
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-03/debate/dbsect_31",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-03/debate/mul@/dbsect_31.xml"
+          },
+          "pdf": null
+        },
+        "debateSectionId": "dbsect_31",
+        "showAs": "Solar Energy Guidelines"
+      },
+      "house": {
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "houseCode": "dail"
+      },
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Agriculture"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-03/pq_83",
+      "questionNumber": 83,
+      "date": "2025-07-03",
+      "by": {
+        "memberCode": "James-O'Connor.D.2020-02-08",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/James-O'Connor.D.2020-02-08",
+        "showAs": "James O'Connor"
+      },
+      "questionType": "oral",
+      "showAs": " 83. Deputy James O'Connor asked the Minister for Agriculture, Food and the Marine if he is engaging with the Minister for Climate, Energy and the Environment regarding the use of good agricultural land for solar farms; and if he will make a statement on the matter. [36654/25] "
+    }
+  },
+  {
+    "contextDate": "2025-07-03",
+    "question": {
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-03/debate/dbsect_32",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-03/debate/mul@/dbsect_32.xml"
+          },
+          "pdf": null
+        },
+        "debateSectionId": "dbsect_32",
+        "showAs": "Common Agricultural Policy"
+      },
+      "house": {
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "houseCode": "dail"
+      },
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Agriculture"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-03/pq_84",
+      "questionNumber": 84,
+      "date": "2025-07-03",
+      "by": {
+        "memberCode": "Barry-Heneghan.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Barry-Heneghan.D.2024-11-29",
+        "showAs": "Barry Heneghan"
+      },
+      "questionType": "oral",
+      "showAs": " 84. Deputy Barry Heneghan asked the Minister for Agriculture, Food and the Marine if he will provide a breakdown of funding uptake and participation levels by scheme under Ireland's Common Agricultural Policy strategic plan to date; how these supports are being geographically distributed and monitored for environmental impact; and if he will make a statement on the matter. [36636/25] "
+    }
+  },
+  {
+    "contextDate": "2025-07-03",
+    "question": {
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-03/debate/dbsect_33",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-03/debate/mul@/dbsect_33.xml"
+          },
+          "pdf": null
+        },
+        "debateSectionId": "dbsect_33",
+        "showAs": "Farm Household Incomes"
+      },
+      "house": {
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "houseCode": "dail"
+      },
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Agriculture"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-03/pq_86",
+      "questionNumber": 86,
+      "date": "2025-07-03",
+      "by": {
+        "memberCode": "Conor-D-McGuinness.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Conor-D-McGuinness.D.2024-11-29",
+        "showAs": "Conor D McGuinness"
+      },
+      "questionType": "oral",
+      "showAs": " 86. Deputy Conor D. McGuinness asked the Minister for Agriculture, Food and the Marine the additional supports he will put in place to support family farms in light of the recent finding that only 42% of medium-sized and large farms are economically viable. [36153/25] "
+    }
+  }
+]

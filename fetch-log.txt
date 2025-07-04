@@ -1,4 +1,4 @@
-🕓 Daily fetch started at Thu Jul  3 03:15:43 UTC 2025
+🕓 Daily fetch started at Fri Jul  4 03:13:47 UTC 2025
 📅 Day 000: 2025-01-01
 ✅ 2025-01-01 complete — no more results after page 0
 🕒 Sleeping 10s before next day...
@@ -68,6 +68,8 @@
 ✅ Page 2 for 2025-01-22 OK — 300 results
 ✅ Page 3 for 2025-01-22 OK — 300 results
 ✅ Page 4 for 2025-01-22 OK — 300 results
+❌ HTTP 503 on page 5 — retrying...
+❌ HTTP 503 on page 5 — retrying...
 ✅ Page 5 for 2025-01-22 OK — 264 results
 ✅ 2025-01-22 complete — no more results after page 6
 🕒 Sleeping 10s before next day...
@@ -274,6 +276,8 @@
 ✅ Page 2 for 2025-03-19 OK — 300 results
 ✅ Page 3 for 2025-03-19 OK — 300 results
 ✅ Page 4 for 2025-03-19 OK — 300 results
+❌ HTTP 503 on page 5 — retrying...
+❌ HTTP 503 on page 5 — retrying...
 ✅ Page 5 for 2025-03-19 OK — 300 results
 ✅ Page 6 for 2025-03-19 OK — 115 results
 ✅ 2025-03-19 complete — no more results after page 7
@@ -358,8 +362,6 @@
 ✅ 2025-04-08 complete — no more results after page 4
 🕒 Sleeping 10s before next day...
 📅 Day 098: 2025-04-09
-❌ HTTP 503 on page 0 — retrying...
-❌ HTTP 503 on page 0 — retrying...
 ✅ Page 0 for 2025-04-09 OK — 298 results
 ✅ 2025-04-09 complete — no more results after page 1
 🕒 Sleeping 10s before next day...
@@ -465,8 +467,6 @@
 ✅ 2025-05-07 complete — no more results after page 3
 🕒 Sleeping 10s before next day...
 📅 Day 127: 2025-05-08
-❌ HTTP 503 on page 0 — retrying...
-❌ HTTP 503 on page 0 — retrying...
 ✅ Page 0 for 2025-05-08 OK — 300 results
 ✅ Page 1 for 2025-05-08 OK — 163 results
 ✅ 2025-05-08 complete — no more results after page 2
@@ -551,6 +551,8 @@
 ✅ 2025-05-28 complete — no more results after page 2
 🕒 Sleeping 10s before next day...
 📅 Day 148: 2025-05-29
+❌ HTTP 503 on page 0 — retrying...
+❌ HTTP 503 on page 0 — retrying...
 ✅ Page 0 for 2025-05-29 OK — 300 results
 ✅ Page 1 for 2025-05-29 OK — 300 results
 ✅ Page 2 for 2025-05-29 OK — 130 results
@@ -592,6 +594,8 @@
 📅 Day 160: 2025-06-10
 ✅ Page 0 for 2025-06-10 OK — 300 results
 ✅ Page 1 for 2025-06-10 OK — 300 results
+❌ HTTP 503 on page 2 — retrying...
+❌ HTTP 503 on page 2 — retrying...
 ✅ Page 2 for 2025-06-10 OK — 300 results
 ✅ Page 3 for 2025-06-10 OK — 300 results
 ✅ Page 4 for 2025-06-10 OK — 300 results
@@ -678,14 +682,16 @@
 📅 Day 181: 2025-07-01
 ✅ Page 0 for 2025-07-01 OK — 300 results
 ✅ Page 1 for 2025-07-01 OK — 300 results
-✅ Page 2 for 2025-07-01 OK — 40 results
+✅ Page 2 for 2025-07-01 OK — 260 results
 ✅ 2025-07-01 complete — no more results after page 3
 🕒 Sleeping 10s before next day...
 📅 Day 182: 2025-07-02
-✅ 2025-07-02 complete — no more results after page 0
+✅ Page 0 for 2025-07-02 OK — 282 results
+✅ 2025-07-02 complete — no more results after page 1
 🕒 Sleeping 10s before next day...
 📅 Day 183: 2025-07-03
-✅ 2025-07-03 complete — no more results after page 0
+✅ Page 0 for 2025-07-03 OK — 26 results
+✅ 2025-07-03 complete — no more results after page 1
 🕒 Sleeping 10s before next day...
 📅 Day 184: 2025-07-04
 ✅ 2025-07-04 complete — no more results after page 0
@@ -1230,4 +1236,4 @@
 📅 Day 364: 2025-12-31
 ✅ 2025-12-31 complete — no more results after page 0
 🕒 Sleeping 10s before next day...
-✅ Daily fetch completed at Thu Jul  3 04:35:39 UTC 2025
+✅ Daily fetch completed at Fri Jul  4 04:38:26 UTC 2025

@@ -1,1 +1,1082 @@
-[]
+[
+  {
+    "contextDate": "2025-07-08",
+    "question": {
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/mul@/dbsect_11.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/dbsect_11",
+        "debateSectionId": "dbsect_11",
+        "showAs": "Cabinet Committees"
+      },
+      "showAs": " 1. Deputy Ivana Bacik asked the Taoiseach when the Cabinet committee on children and education will next meet. [22233/25] ",
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ivana-Bacik.S.2007-07-23",
+        "showAs": "Ivana Bacik",
+        "memberCode": "Ivana-Bacik.S.2007-07-23"
+      },
+      "to": {
+        "uri": null,
+        "roleCode": null,
+        "roleType": null,
+        "showAs": "Taoiseach"
+      },
+      "questionNumber": 1,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-08/pq_1",
+      "date": "2025-07-08",
+      "questionType": "oral",
+      "house": {
+        "houseNo": "34",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-07-08",
+    "question": {
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/mul@/dbsect_11.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/dbsect_11",
+        "debateSectionId": "dbsect_11",
+        "showAs": "Cabinet Committees"
+      },
+      "showAs": " 2. Deputy Aisling Dempsey asked the Taoiseach when the Cabinet committee on children and education will next meet. [23201/25] ",
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Aisling-Dempsey.D.2024-11-29",
+        "showAs": "Aisling Dempsey",
+        "memberCode": "Aisling-Dempsey.D.2024-11-29"
+      },
+      "to": {
+        "uri": null,
+        "roleCode": null,
+        "roleType": null,
+        "showAs": "Taoiseach"
+      },
+      "questionNumber": 2,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-08/pq_2",
+      "date": "2025-07-08",
+      "questionType": "oral",
+      "house": {
+        "houseNo": "34",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-07-08",
+    "question": {
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/mul@/dbsect_11.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/dbsect_11",
+        "debateSectionId": "dbsect_11",
+        "showAs": "Cabinet Committees"
+      },
+      "showAs": " 3. Deputy Ryan O'Meara asked the Taoiseach when the Cabinet committee on children and education will next meet. [23202/25] ",
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ryan-O'Meara.D.2024-11-29",
+        "showAs": "Ryan O'Meara",
+        "memberCode": "Ryan-O'Meara.D.2024-11-29"
+      },
+      "to": {
+        "uri": null,
+        "roleCode": null,
+        "roleType": null,
+        "showAs": "Taoiseach"
+      },
+      "questionNumber": 3,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-08/pq_3",
+      "date": "2025-07-08",
+      "questionType": "oral",
+      "house": {
+        "houseNo": "34",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-07-08",
+    "question": {
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/mul@/dbsect_11.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/dbsect_11",
+        "debateSectionId": "dbsect_11",
+        "showAs": "Cabinet Committees"
+      },
+      "showAs": " 4. Deputy John Connolly asked the Taoiseach when the Cabinet committee on children and education will next meet. [30268/25] ",
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/John-Connolly.D.2024-11-29",
+        "showAs": "John Connolly",
+        "memberCode": "John-Connolly.D.2024-11-29"
+      },
+      "to": {
+        "uri": null,
+        "roleCode": null,
+        "roleType": null,
+        "showAs": "Taoiseach"
+      },
+      "questionNumber": 4,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-08/pq_4",
+      "date": "2025-07-08",
+      "questionType": "oral",
+      "house": {
+        "houseNo": "34",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-07-08",
+    "question": {
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/mul@/dbsect_11.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/dbsect_11",
+        "debateSectionId": "dbsect_11",
+        "showAs": "Cabinet Committees"
+      },
+      "showAs": " 5. Deputy Ruairí Ó Murchú asked the Taoiseach when the Cabinet committee on children and education will next meet. [32141/25] ",
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruairí-Ó-Murchú.D.2020-02-08",
+        "showAs": "Ruairí Ó Murchú",
+        "memberCode": "Ruairí-Ó-Murchú.D.2020-02-08"
+      },
+      "to": {
+        "uri": null,
+        "roleCode": null,
+        "roleType": null,
+        "showAs": "Taoiseach"
+      },
+      "questionNumber": 5,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-08/pq_5",
+      "date": "2025-07-08",
+      "questionType": "oral",
+      "house": {
+        "houseNo": "34",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-07-08",
+    "question": {
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/mul@/dbsect_11.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/dbsect_11",
+        "debateSectionId": "dbsect_11",
+        "showAs": "Cabinet Committees"
+      },
+      "showAs": " 6. Deputy Ruth Coppinger asked the Taoiseach when the Cabinet committee on children and education will next meet. [32399/25] ",
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruth-Coppinger.D.2014-05-23",
+        "showAs": "Ruth Coppinger",
+        "memberCode": "Ruth-Coppinger.D.2014-05-23"
+      },
+      "to": {
+        "uri": null,
+        "roleCode": null,
+        "roleType": null,
+        "showAs": "Taoiseach"
+      },
+      "questionNumber": 6,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-08/pq_6",
+      "date": "2025-07-08",
+      "questionType": "oral",
+      "house": {
+        "houseNo": "34",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-07-08",
+    "question": {
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/mul@/dbsect_11.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/dbsect_11",
+        "debateSectionId": "dbsect_11",
+        "showAs": "Cabinet Committees"
+      },
+      "showAs": " 7. Deputy Barry Heneghan asked the Taoiseach when the Cabinet committee on children and education will next meet. [32402/25] ",
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Barry-Heneghan.D.2024-11-29",
+        "showAs": "Barry Heneghan",
+        "memberCode": "Barry-Heneghan.D.2024-11-29"
+      },
+      "to": {
+        "uri": null,
+        "roleCode": null,
+        "roleType": null,
+        "showAs": "Taoiseach"
+      },
+      "questionNumber": 7,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-08/pq_7",
+      "date": "2025-07-08",
+      "questionType": "oral",
+      "house": {
+        "houseNo": "34",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-07-08",
+    "question": {
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/mul@/dbsect_11.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/dbsect_11",
+        "debateSectionId": "dbsect_11",
+        "showAs": "Cabinet Committees"
+      },
+      "showAs": " 8. Deputy Darren O'Rourke asked the Taoiseach when the Cabinet committee on children and education will next meet. [33552/25] ",
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Darren-O'Rourke.D.2020-02-08",
+        "showAs": "Darren O'Rourke",
+        "memberCode": "Darren-O'Rourke.D.2020-02-08"
+      },
+      "to": {
+        "uri": null,
+        "roleCode": null,
+        "roleType": null,
+        "showAs": "Taoiseach"
+      },
+      "questionNumber": 8,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-08/pq_8",
+      "date": "2025-07-08",
+      "questionType": "oral",
+      "house": {
+        "houseNo": "34",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-07-08",
+    "question": {
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/mul@/dbsect_11.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/dbsect_11",
+        "debateSectionId": "dbsect_11",
+        "showAs": "Cabinet Committees"
+      },
+      "showAs": " 9. Deputy Pádraig O'Sullivan asked the Taoiseach when the Cabinet Committee on Children and Education will next meet. [33564/25] ",
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Pádraig-O'Sullivan.D.2019-11-29",
+        "showAs": "Pádraig O'Sullivan",
+        "memberCode": "Pádraig-O'Sullivan.D.2019-11-29"
+      },
+      "to": {
+        "uri": null,
+        "roleCode": null,
+        "roleType": null,
+        "showAs": "Taoiseach"
+      },
+      "questionNumber": 9,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-08/pq_9",
+      "date": "2025-07-08",
+      "questionType": "oral",
+      "house": {
+        "houseNo": "34",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-07-08",
+    "question": {
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/mul@/dbsect_11.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/dbsect_11",
+        "debateSectionId": "dbsect_11",
+        "showAs": "Cabinet Committees"
+      },
+      "showAs": " 10. Deputy Cathal Crowe asked the Taoiseach when the Cabinet committee on children and education will next meet. [33565/25] ",
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Cathal-Crowe.D.2020-02-08",
+        "showAs": "Cathal Crowe",
+        "memberCode": "Cathal-Crowe.D.2020-02-08"
+      },
+      "to": {
+        "uri": null,
+        "roleCode": null,
+        "roleType": null,
+        "showAs": "Taoiseach"
+      },
+      "questionNumber": 10,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-08/pq_10",
+      "date": "2025-07-08",
+      "questionType": "oral",
+      "house": {
+        "houseNo": "34",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-07-08",
+    "question": {
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/mul@/dbsect_11.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/dbsect_11",
+        "debateSectionId": "dbsect_11",
+        "showAs": "Cabinet Committees"
+      },
+      "showAs": " 11. Deputy Mary Lou McDonald asked the Taoiseach when the Cabinet committee on children and education will next meet. [33779/25] ",
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Mary-Lou-McDonald.D.2011-03-09",
+        "showAs": "Mary Lou McDonald",
+        "memberCode": "Mary-Lou-McDonald.D.2011-03-09"
+      },
+      "to": {
+        "uri": null,
+        "roleCode": null,
+        "roleType": null,
+        "showAs": "Taoiseach"
+      },
+      "questionNumber": 11,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-08/pq_11",
+      "date": "2025-07-08",
+      "questionType": "oral",
+      "house": {
+        "houseNo": "34",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-07-08",
+    "question": {
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/mul@/dbsect_11.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/dbsect_11",
+        "debateSectionId": "dbsect_11",
+        "showAs": "Cabinet Committees"
+      },
+      "showAs": " 12. Deputy Paul Murphy asked the Taoiseach when the Cabinet committee on children and education will next meet. [33926/25] ",
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Murphy.D.2014-10-10",
+        "showAs": "Paul Murphy",
+        "memberCode": "Paul-Murphy.D.2014-10-10"
+      },
+      "to": {
+        "uri": null,
+        "roleCode": null,
+        "roleType": null,
+        "showAs": "Taoiseach"
+      },
+      "questionNumber": 12,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-08/pq_12",
+      "date": "2025-07-08",
+      "questionType": "oral",
+      "house": {
+        "houseNo": "34",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-07-08",
+    "question": {
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/mul@/dbsect_11.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/dbsect_11",
+        "debateSectionId": "dbsect_11",
+        "showAs": "Cabinet Committees"
+      },
+      "showAs": " 13. Deputy Conor D. McGuinness asked the Taoiseach when the Cabinet committee on children and education will next meet. [35041/25] ",
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Conor-D-McGuinness.D.2024-11-29",
+        "showAs": "Conor D McGuinness",
+        "memberCode": "Conor-D-McGuinness.D.2024-11-29"
+      },
+      "to": {
+        "uri": null,
+        "roleCode": null,
+        "roleType": null,
+        "showAs": "Taoiseach"
+      },
+      "questionNumber": 13,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-08/pq_13",
+      "date": "2025-07-08",
+      "questionType": "oral",
+      "house": {
+        "houseNo": "34",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-07-08",
+    "question": {
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/mul@/dbsect_12.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/dbsect_12",
+        "debateSectionId": "dbsect_12",
+        "showAs": "Cabinet Committees"
+      },
+      "showAs": " 14. Deputy Ivana Bacik asked the Taoiseach when the Cabinet committee on infrastructure will next meet. [25318/25] ",
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ivana-Bacik.S.2007-07-23",
+        "showAs": "Ivana Bacik",
+        "memberCode": "Ivana-Bacik.S.2007-07-23"
+      },
+      "to": {
+        "uri": null,
+        "roleCode": null,
+        "roleType": null,
+        "showAs": "Taoiseach"
+      },
+      "questionNumber": 14,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-08/pq_14",
+      "date": "2025-07-08",
+      "questionType": "oral",
+      "house": {
+        "houseNo": "34",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-07-08",
+    "question": {
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/mul@/dbsect_12.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/dbsect_12",
+        "debateSectionId": "dbsect_12",
+        "showAs": "Cabinet Committees"
+      },
+      "showAs": " 15. Deputy Aindrias Moynihan asked the Taoiseach when the Cabinet committee on infrastructure will next meet. [26018/25] ",
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Aindrias-Moynihan.D.2016-10-03",
+        "showAs": "Aindrias Moynihan",
+        "memberCode": "Aindrias-Moynihan.D.2016-10-03"
+      },
+      "to": {
+        "uri": null,
+        "roleCode": null,
+        "roleType": null,
+        "showAs": "Taoiseach"
+      },
+      "questionNumber": 15,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-08/pq_15",
+      "date": "2025-07-08",
+      "questionType": "oral",
+      "house": {
+        "houseNo": "34",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-07-08",
+    "question": {
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/mul@/dbsect_12.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/dbsect_12",
+        "debateSectionId": "dbsect_12",
+        "showAs": "Cabinet Committees"
+      },
+      "showAs": " 16. Deputy Cian O'Callaghan asked the Taoiseach when the Cabinet committee on infrastructure will next meet. [32570/25] ",
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Cian-O'Callaghan.D.2020-02-08",
+        "showAs": "Cian O'Callaghan",
+        "memberCode": "Cian-O'Callaghan.D.2020-02-08"
+      },
+      "to": {
+        "uri": null,
+        "roleCode": null,
+        "roleType": null,
+        "showAs": "Taoiseach"
+      },
+      "questionNumber": 16,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-08/pq_16",
+      "date": "2025-07-08",
+      "questionType": "oral",
+      "house": {
+        "houseNo": "34",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-07-08",
+    "question": {
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/mul@/dbsect_12.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/dbsect_12",
+        "debateSectionId": "dbsect_12",
+        "showAs": "Cabinet Committees"
+      },
+      "showAs": " 17. Deputy Shane Moynihan asked the Taoiseach when the Cabinet committee on infrastructure will next meet. [33559/25] ",
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Shane-Moynihan.D.2024-11-29",
+        "showAs": "Shane Moynihan",
+        "memberCode": "Shane-Moynihan.D.2024-11-29"
+      },
+      "to": {
+        "uri": null,
+        "roleCode": null,
+        "roleType": null,
+        "showAs": "Taoiseach"
+      },
+      "questionNumber": 17,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-08/pq_17",
+      "date": "2025-07-08",
+      "questionType": "oral",
+      "house": {
+        "houseNo": "34",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-07-08",
+    "question": {
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/mul@/dbsect_12.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/dbsect_12",
+        "debateSectionId": "dbsect_12",
+        "showAs": "Cabinet Committees"
+      },
+      "showAs": " 18. Deputy Cathal Crowe asked the Taoiseach when the Cabinet committee on infrastructure will next meet. [33566/25] ",
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Cathal-Crowe.D.2020-02-08",
+        "showAs": "Cathal Crowe",
+        "memberCode": "Cathal-Crowe.D.2020-02-08"
+      },
+      "to": {
+        "uri": null,
+        "roleCode": null,
+        "roleType": null,
+        "showAs": "Taoiseach"
+      },
+      "questionNumber": 18,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-08/pq_18",
+      "date": "2025-07-08",
+      "questionType": "oral",
+      "house": {
+        "houseNo": "34",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-07-08",
+    "question": {
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/mul@/dbsect_12.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/dbsect_12",
+        "debateSectionId": "dbsect_12",
+        "showAs": "Cabinet Committees"
+      },
+      "showAs": " 19. Deputy Ruth Coppinger asked the Taoiseach when the Cabinet committee on infrastructure will next meet. [33614/25] ",
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruth-Coppinger.D.2014-05-23",
+        "showAs": "Ruth Coppinger",
+        "memberCode": "Ruth-Coppinger.D.2014-05-23"
+      },
+      "to": {
+        "uri": null,
+        "roleCode": null,
+        "roleType": null,
+        "showAs": "Taoiseach"
+      },
+      "questionNumber": 19,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-08/pq_19",
+      "date": "2025-07-08",
+      "questionType": "oral",
+      "house": {
+        "houseNo": "34",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-07-08",
+    "question": {
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/mul@/dbsect_12.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/dbsect_12",
+        "debateSectionId": "dbsect_12",
+        "showAs": "Cabinet Committees"
+      },
+      "showAs": " 20. Deputy James O'Connor asked the Taoiseach when the Cabinet committee on infrastructure will next meet. [33856/25] ",
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/James-O'Connor.D.2020-02-08",
+        "showAs": "James O'Connor",
+        "memberCode": "James-O'Connor.D.2020-02-08"
+      },
+      "to": {
+        "uri": null,
+        "roleCode": null,
+        "roleType": null,
+        "showAs": "Taoiseach"
+      },
+      "questionNumber": 20,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-08/pq_20",
+      "date": "2025-07-08",
+      "questionType": "oral",
+      "house": {
+        "houseNo": "34",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-07-08",
+    "question": {
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/mul@/dbsect_12.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/dbsect_12",
+        "debateSectionId": "dbsect_12",
+        "showAs": "Cabinet Committees"
+      },
+      "showAs": " 21. Deputy Paul Murphy asked the Taoiseach when the Cabinet committee on infrastructure will next meet. [33927/25] ",
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Murphy.D.2014-10-10",
+        "showAs": "Paul Murphy",
+        "memberCode": "Paul-Murphy.D.2014-10-10"
+      },
+      "to": {
+        "uri": null,
+        "roleCode": null,
+        "roleType": null,
+        "showAs": "Taoiseach"
+      },
+      "questionNumber": 21,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-08/pq_21",
+      "date": "2025-07-08",
+      "questionType": "oral",
+      "house": {
+        "houseNo": "34",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-07-08",
+    "question": {
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/mul@/dbsect_12.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/dbsect_12",
+        "debateSectionId": "dbsect_12",
+        "showAs": "Cabinet Committees"
+      },
+      "showAs": " 22. Deputy Naoise Ó Cearúil asked the Taoiseach when the Cabinet committee on infrastructure will next meet. [34039/25] ",
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Naoise-Ó-Cearúil.D.2024-11-29",
+        "showAs": "Naoise Ó Cearúil",
+        "memberCode": "Naoise-Ó-Cearúil.D.2024-11-29"
+      },
+      "to": {
+        "uri": null,
+        "roleCode": null,
+        "roleType": null,
+        "showAs": "Taoiseach"
+      },
+      "questionNumber": 22,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-08/pq_22",
+      "date": "2025-07-08",
+      "questionType": "oral",
+      "house": {
+        "houseNo": "34",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-07-08",
+    "question": {
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/mul@/dbsect_12.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/dbsect_12",
+        "debateSectionId": "dbsect_12",
+        "showAs": "Cabinet Committees"
+      },
+      "showAs": " 23. Deputy Barry Heneghan asked the Taoiseach when the Cabinet committee on infrastructure will next meet. [34303/25] ",
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Barry-Heneghan.D.2024-11-29",
+        "showAs": "Barry Heneghan",
+        "memberCode": "Barry-Heneghan.D.2024-11-29"
+      },
+      "to": {
+        "uri": null,
+        "roleCode": null,
+        "roleType": null,
+        "showAs": "Taoiseach"
+      },
+      "questionNumber": 23,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-08/pq_23",
+      "date": "2025-07-08",
+      "questionType": "oral",
+      "house": {
+        "houseNo": "34",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-07-08",
+    "question": {
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/mul@/dbsect_12.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/dbsect_12",
+        "debateSectionId": "dbsect_12",
+        "showAs": "Cabinet Committees"
+      },
+      "showAs": " 24. Deputy Seán Fleming asked the Taoiseach when the Cabinet committee on infrastructure will next meet. [34612/25] ",
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Seán-Fleming.D.1997-06-26",
+        "showAs": "Seán Fleming",
+        "memberCode": "Seán-Fleming.D.1997-06-26"
+      },
+      "to": {
+        "uri": null,
+        "roleCode": null,
+        "roleType": null,
+        "showAs": "Taoiseach"
+      },
+      "questionNumber": 24,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-08/pq_24",
+      "date": "2025-07-08",
+      "questionType": "oral",
+      "house": {
+        "houseNo": "34",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-07-08",
+    "question": {
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/mul@/dbsect_12.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/dbsect_12",
+        "debateSectionId": "dbsect_12",
+        "showAs": "Cabinet Committees"
+      },
+      "showAs": " 25. Deputy Erin McGreehan asked the Taoiseach when the Cabinet committee on infrastructure will next meet. [34614/25] ",
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Erin-McGreehan.S.2020-06-29",
+        "showAs": "Erin McGreehan",
+        "memberCode": "Erin-McGreehan.S.2020-06-29"
+      },
+      "to": {
+        "uri": null,
+        "roleCode": null,
+        "roleType": null,
+        "showAs": "Taoiseach"
+      },
+      "questionNumber": 25,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-08/pq_25",
+      "date": "2025-07-08",
+      "questionType": "oral",
+      "house": {
+        "houseNo": "34",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-07-08",
+    "question": {
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/mul@/dbsect_12.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/dbsect_12",
+        "debateSectionId": "dbsect_12",
+        "showAs": "Cabinet Committees"
+      },
+      "showAs": " 26. Deputy Ruairí Ó Murchú asked the Taoiseach when the Cabinet committee on infrastructure will next meet. [35371/25] ",
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruairí-Ó-Murchú.D.2020-02-08",
+        "showAs": "Ruairí Ó Murchú",
+        "memberCode": "Ruairí-Ó-Murchú.D.2020-02-08"
+      },
+      "to": {
+        "uri": null,
+        "roleCode": null,
+        "roleType": null,
+        "showAs": "Taoiseach"
+      },
+      "questionNumber": 26,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-08/pq_26",
+      "date": "2025-07-08",
+      "questionType": "oral",
+      "house": {
+        "houseNo": "34",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-07-08",
+    "question": {
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/mul@/dbsect_12.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/dbsect_12",
+        "debateSectionId": "dbsect_12",
+        "showAs": "Cabinet Committees"
+      },
+      "showAs": " 27. Deputy Darren O'Rourke asked the Taoiseach when the Cabinet committee on infrastructure will next meet. [37506/25] ",
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Darren-O'Rourke.D.2020-02-08",
+        "showAs": "Darren O'Rourke",
+        "memberCode": "Darren-O'Rourke.D.2020-02-08"
+      },
+      "to": {
+        "uri": null,
+        "roleCode": null,
+        "roleType": null,
+        "showAs": "Taoiseach"
+      },
+      "questionNumber": 27,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-08/pq_27",
+      "date": "2025-07-08",
+      "questionType": "oral",
+      "house": {
+        "houseNo": "34",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      }
+    }
+  }
+]

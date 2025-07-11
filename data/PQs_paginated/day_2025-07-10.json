@@ -1,1 +1,1282 @@
-[]
+[
+  {
+    "contextDate": "2025-07-10",
+    "question": {
+      "debateSection": {
+        "debateSectionId": "dbsect_22",
+        "showAs": "Library Services",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-10/debate/dbsect_22",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-10/debate/mul@/dbsect_22.xml"
+          }
+        }
+      },
+      "showAs": " 1. Deputy Donnchadh Ó Laoghaire asked the Tánaiste and Minister for Foreign Affairs and Trade his views on the situation in Sudan, and on the Government's position on same. [38023/25] ",
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Foreign",
+        "roleType": null
+      },
+      "house": {
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-10/pq_1",
+      "questionNumber": 1,
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Donnchadh-Ó-Laoghaire.D.2016-10-03",
+        "showAs": "Donnchadh Ó Laoghaire",
+        "memberCode": "Donnchadh-Ó-Laoghaire.D.2016-10-03"
+      },
+      "questionType": "oral",
+      "date": "2025-07-10"
+    }
+  },
+  {
+    "contextDate": "2025-07-10",
+    "question": {
+      "debateSection": {
+        "debateSectionId": "dbsect_6",
+        "showAs": "Middle East",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-10/debate/dbsect_6",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-10/debate/mul@/dbsect_6.xml"
+          }
+        }
+      },
+      "showAs": " 2. Deputy Sinéad Gibney asked the Tánaiste and Minister for Foreign Affairs and Trade whether his Department has had engagement with, or diplomatic representations from, US counterparts around the exclusion of services from the Control of Economic Activity (Occupied Territories) Bill 2018; and if he will make a statement on the matter. [38290/25] ",
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Foreign",
+        "roleType": null
+      },
+      "house": {
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-10/pq_2",
+      "questionNumber": 2,
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Sinéad-Gibney.D.2024-11-29",
+        "showAs": "Sinéad Gibney",
+        "memberCode": "Sinéad-Gibney.D.2024-11-29"
+      },
+      "questionType": "oral",
+      "date": "2025-07-10"
+    }
+  },
+  {
+    "contextDate": "2025-07-10",
+    "question": {
+      "debateSection": {
+        "debateSectionId": "dbsect_7",
+        "showAs": "International Relations",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-10/debate/dbsect_7",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-10/debate/mul@/dbsect_7.xml"
+          }
+        }
+      },
+      "showAs": " 3. Deputy Donnchadh Ó Laoghaire asked the Tánaiste and Minister for Foreign Affairs and Trade if Ireland will be represented at the emergency ministerial conference in defence of international law and the rights of the Palestinian people on 15 and 16 July 2025 in Bogotá. [38024/25] ",
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Foreign",
+        "roleType": null
+      },
+      "house": {
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-10/pq_3",
+      "questionNumber": 3,
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Donnchadh-Ó-Laoghaire.D.2016-10-03",
+        "showAs": "Donnchadh Ó Laoghaire",
+        "memberCode": "Donnchadh-Ó-Laoghaire.D.2016-10-03"
+      },
+      "questionType": "oral",
+      "date": "2025-07-10"
+    }
+  },
+  {
+    "contextDate": "2025-07-10",
+    "question": {
+      "debateSection": {
+        "debateSectionId": "dbsect_8",
+        "showAs": "Middle East",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-10/debate/dbsect_8",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-10/debate/mul@/dbsect_8.xml"
+          }
+        }
+      },
+      "showAs": " 4. Deputy Ruth Coppinger asked the Tánaiste and Minister for Foreign Affairs and Trade on his recent engagements with other states regarding the genocide in Gaza; and if he will make a statement on the matter. [38251/25] ",
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Foreign",
+        "roleType": null
+      },
+      "house": {
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-10/pq_4",
+      "questionNumber": 4,
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruth-Coppinger.D.2014-05-23",
+        "showAs": "Ruth Coppinger",
+        "memberCode": "Ruth-Coppinger.D.2014-05-23"
+      },
+      "questionType": "oral",
+      "date": "2025-07-10"
+    }
+  },
+  {
+    "contextDate": "2025-07-10",
+    "question": {
+      "debateSection": {
+        "debateSectionId": "dbsect_9",
+        "showAs": "Trade Agreements",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-10/debate/dbsect_9",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-10/debate/mul@/dbsect_9.xml"
+          }
+        }
+      },
+      "showAs": " 5. Deputy Donnchadh Ó Laoghaire asked the Tánaiste and Minister for Foreign Affairs and Trade his position regarding potential increased tariffs with regard to the US; and the preparations being made for same. [38025/25] ",
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Foreign",
+        "roleType": null
+      },
+      "house": {
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-10/pq_5",
+      "questionNumber": 5,
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Donnchadh-Ó-Laoghaire.D.2016-10-03",
+        "showAs": "Donnchadh Ó Laoghaire",
+        "memberCode": "Donnchadh-Ó-Laoghaire.D.2016-10-03"
+      },
+      "questionType": "oral",
+      "date": "2025-07-10"
+    }
+  },
+  {
+    "contextDate": "2025-07-10",
+    "question": {
+      "debateSection": {
+        "debateSectionId": "dbsect_10",
+        "showAs": "Foreign Policy",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-10/debate/dbsect_10",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-10/debate/mul@/dbsect_10.xml"
+          }
+        }
+      },
+      "showAs": " 6. Deputy John Lahart asked the Tánaiste and Minister for Foreign Affairs and Trade for a report on his engagement with other EU member states with regard to Russia's war of aggression against Ukraine; and if he will make a statement on the matter. [38587/25] ",
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Foreign",
+        "roleType": null
+      },
+      "house": {
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-10/pq_6",
+      "questionNumber": 6,
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/John-Lahart.D.2016-10-03",
+        "showAs": "John Lahart",
+        "memberCode": "John-Lahart.D.2016-10-03"
+      },
+      "questionType": "oral",
+      "date": "2025-07-10"
+    }
+  },
+  {
+    "contextDate": "2025-07-10",
+    "question": {
+      "debateSection": {
+        "debateSectionId": "dbsect_12",
+        "showAs": "Departmental Meetings",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-10/debate/dbsect_12",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-10/debate/mul@/dbsect_12.xml"
+          }
+        }
+      },
+      "showAs": " 7. Deputy Peadar Tóibín asked the Tánaiste and Minister for Foreign Affairs and Trade to outline the number of times he has met with the Palestinian ambassador to Ireland since he took office. [37514/25] ",
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Foreign",
+        "roleType": null
+      },
+      "house": {
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-10/pq_7",
+      "questionNumber": 7,
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Peadar-Tóibín.D.2011-03-09",
+        "showAs": "Peadar Tóibín",
+        "memberCode": "Peadar-Tóibín.D.2011-03-09"
+      },
+      "questionType": "oral",
+      "date": "2025-07-10"
+    }
+  },
+  {
+    "contextDate": "2025-07-10",
+    "question": {
+      "debateSection": {
+        "debateSectionId": "dbsect_13",
+        "showAs": "EU Meetings",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-10/debate/dbsect_13",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-10/debate/mul@/dbsect_13.xml"
+          }
+        }
+      },
+      "showAs": " 8. Deputy Ryan O'Meara asked the Tánaiste and Minister for Foreign Affairs and Trade if he will report on his meeting with the EU budget Commissioner on 25 June 2025; and if he will make a statement on the matter. [37909/25] ",
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Foreign",
+        "roleType": null
+      },
+      "house": {
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-10/pq_8",
+      "questionNumber": 8,
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ryan-O'Meara.D.2024-11-29",
+        "showAs": "Ryan O'Meara",
+        "memberCode": "Ryan-O'Meara.D.2024-11-29"
+      },
+      "questionType": "oral",
+      "date": "2025-07-10"
+    }
+  },
+  {
+    "contextDate": "2025-07-10",
+    "question": {
+      "debateSection": {
+        "debateSectionId": "dbsect_14",
+        "showAs": "Overseas Development Aid",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-10/debate/dbsect_14",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-10/debate/mul@/dbsect_14.xml"
+          }
+        }
+      },
+      "showAs": " 9. Deputy Naoise Ó Cearúil asked the Tánaiste and Minister for Foreign Affairs and Trade his plans to ensure sustained annual increases in Ireland's official development assistance to progress towards the UN target of 0.7% of gross national income; and if he will make a statement on the matter.  [38250/25] ",
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Foreign",
+        "roleType": null
+      },
+      "house": {
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-10/pq_9",
+      "questionNumber": 9,
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Naoise-Ó-Cearúil.D.2024-11-29",
+        "showAs": "Naoise Ó Cearúil",
+        "memberCode": "Naoise-Ó-Cearúil.D.2024-11-29"
+      },
+      "questionType": "oral",
+      "date": "2025-07-10"
+    }
+  },
+  {
+    "contextDate": "2025-07-10",
+    "question": {
+      "debateSection": {
+        "debateSectionId": "dbsect_15",
+        "showAs": "Middle East",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-10/debate/dbsect_15",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-10/debate/mul@/dbsect_15.xml"
+          }
+        }
+      },
+      "showAs": " 10. Deputy Brian Stanley asked the Tánaiste and Minister for Foreign Affairs and Trade whether he and his Department formally submitted an additional complaint to the International Criminal Court regarding the murder of thousands of Palestinian civilians by the Israel Defense Forces while queuing for food; and if he will make a statement on the matter.  [37868/25] ",
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Foreign",
+        "roleType": null
+      },
+      "house": {
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-10/pq_10",
+      "questionNumber": 10,
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Brian-Stanley.D.2011-03-09",
+        "showAs": "Brian Stanley",
+        "memberCode": "Brian-Stanley.D.2011-03-09"
+      },
+      "questionType": "oral",
+      "date": "2025-07-10"
+    }
+  },
+  {
+    "contextDate": "2025-07-10",
+    "question": {
+      "debateSection": {
+        "debateSectionId": "dbsect_16",
+        "showAs": "Diplomatic Representation",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-10/debate/dbsect_16",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-10/debate/mul@/dbsect_16.xml"
+          }
+        }
+      },
+      "showAs": " 11. Deputy Tony McCormack asked the Tánaiste and Minister for Foreign Affairs and Trade if he will request the Irish Embassy in Washington DC to engage with the United States Senate Committee on Foreign Relations to ensure its members are not subjected to disinformation in regard to proposed Government legislation; and if he will make a statement on the matter.  [38165/25] ",
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Foreign",
+        "roleType": null
+      },
+      "house": {
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-10/pq_11",
+      "questionNumber": 11,
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tony-McCormack.D.2024-11-29",
+        "showAs": "Tony McCormack",
+        "memberCode": "Tony-McCormack.D.2024-11-29"
+      },
+      "questionType": "oral",
+      "date": "2025-07-10"
+    }
+  },
+  {
+    "contextDate": "2025-07-10",
+    "question": {
+      "debateSection": {
+        "debateSectionId": "dbsect_17",
+        "showAs": "Consular Services",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-10/debate/dbsect_17",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-10/debate/mul@/dbsect_17.xml"
+          }
+        }
+      },
+      "showAs": " 13. Deputy Sinéad Gibney asked the Tánaiste and Minister for Foreign Affairs and Trade whether he is aware of the case of a person (details supplied) who is married to an Irish citizen and has been detained arbitrarily in the UAE for the past 17 years; the steps his Department is taking to provide consular assistance and seek his release from arbitrary detention; and if he will make a statement on the matter.  [38291/25] ",
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Foreign",
+        "roleType": null
+      },
+      "house": {
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-10/pq_13",
+      "questionNumber": 13,
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Sinéad-Gibney.D.2024-11-29",
+        "showAs": "Sinéad Gibney",
+        "memberCode": "Sinéad-Gibney.D.2024-11-29"
+      },
+      "questionType": "oral",
+      "date": "2025-07-10"
+    }
+  },
+  {
+    "contextDate": "2025-07-10",
+    "question": {
+      "debateSection": {
+        "debateSectionId": "dbsect_18",
+        "showAs": "Passport Services",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-10/debate/dbsect_18",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-10/debate/mul@/dbsect_18.xml"
+          }
+        }
+      },
+      "showAs": " 15. Deputy John Paul O'Shea asked the Tánaiste and Minister for Foreign Affairs and Trade if he will consider opening a passport printing office in Cork to assist with printing passports in a timely manner; and if he will make a statement on the matter. [38241/25] ",
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Foreign",
+        "roleType": null
+      },
+      "house": {
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-10/pq_15",
+      "questionNumber": 15,
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/John-Paul-O'Shea.D.2024-11-29",
+        "showAs": "John Paul O'Shea",
+        "memberCode": "John-Paul-O'Shea.D.2024-11-29"
+      },
+      "questionType": "oral",
+      "date": "2025-07-10"
+    }
+  },
+  {
+    "contextDate": "2025-07-10",
+    "question": {
+      "debateSection": {
+        "debateSectionId": "dbsect_19",
+        "showAs": "Middle East",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-10/debate/dbsect_19",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-10/debate/mul@/dbsect_19.xml"
+          }
+        }
+      },
+      "showAs": " 16. Deputy Donnchadh Ó Laoghaire asked the Tánaiste and Minister for Foreign Affairs and Trade for an update on his position in relation to the EU-Israel association agreement. [38030/25] ",
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Foreign",
+        "roleType": null
+      },
+      "house": {
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-10/pq_16",
+      "questionNumber": 16,
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Donnchadh-Ó-Laoghaire.D.2016-10-03",
+        "showAs": "Donnchadh Ó Laoghaire",
+        "memberCode": "Donnchadh-Ó-Laoghaire.D.2016-10-03"
+      },
+      "questionType": "oral",
+      "date": "2025-07-10"
+    }
+  },
+  {
+    "contextDate": "2025-07-10",
+    "question": {
+      "debateSection": {
+        "debateSectionId": "dbsect_19",
+        "showAs": "Middle East",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-10/debate/dbsect_19",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-10/debate/mul@/dbsect_19.xml"
+          }
+        }
+      },
+      "showAs": " 23. Deputy Brian Stanley asked the Tánaiste and Minister for Foreign Affairs and Trade for an update on the steps he has taken, in conjunction with other EU governments, to have the Israel-EU trade arrangements suspended; and if he will make a statement on the matter. [37865/25] ",
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Foreign",
+        "roleType": null
+      },
+      "house": {
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-10/pq_23",
+      "questionNumber": 23,
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Brian-Stanley.D.2011-03-09",
+        "showAs": "Brian Stanley",
+        "memberCode": "Brian-Stanley.D.2011-03-09"
+      },
+      "questionType": "oral",
+      "date": "2025-07-10"
+    }
+  },
+  {
+    "contextDate": "2025-07-10",
+    "question": {
+      "debateSection": {
+        "debateSectionId": "dbsect_19",
+        "showAs": "Middle East",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-10/debate/dbsect_19",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-10/debate/mul@/dbsect_19.xml"
+          }
+        }
+      },
+      "showAs": " 46. Deputy Tom Brabazon asked the Tánaiste and Minister for Foreign Affairs and Trade his assessment of the EU review of the EU-Israel association agreement; and if he will make a statement on the matter. [38058/25] ",
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Foreign",
+        "roleType": null
+      },
+      "house": {
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-10/pq_46",
+      "questionNumber": 46,
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tom-Brabazon.D.2024-11-29",
+        "showAs": "Tom Brabazon",
+        "memberCode": "Tom-Brabazon.D.2024-11-29"
+      },
+      "questionType": "oral",
+      "date": "2025-07-10"
+    }
+  },
+  {
+    "contextDate": "2025-07-10",
+    "question": {
+      "debateSection": {
+        "debateSectionId": "dbsect_19",
+        "showAs": "Middle East",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-10/debate/dbsect_19",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-10/debate/mul@/dbsect_19.xml"
+          }
+        }
+      },
+      "showAs": " 48. Deputy Peter 'Chap' Cleere asked the Tánaiste and Minister for Foreign Affairs and Trade for an update on his discussions with his EU counterparts on the EU-Israel association agreement. [38053/25] ",
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Foreign",
+        "roleType": null
+      },
+      "house": {
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-10/pq_48",
+      "questionNumber": 48,
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Peter-'Chap'-Cleere.D.2024-11-29",
+        "showAs": "Peter 'Chap' Cleere",
+        "memberCode": "Peter-'Chap'-Cleere.D.2024-11-29"
+      },
+      "questionType": "oral",
+      "date": "2025-07-10"
+    }
+  },
+  {
+    "contextDate": "2025-07-10",
+    "question": {
+      "debateSection": {
+        "debateSectionId": "dbsect_19",
+        "showAs": "Middle East",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-10/debate/dbsect_19",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-10/debate/mul@/dbsect_19.xml"
+          }
+        }
+      },
+      "showAs": " 55. Deputy Sinéad Gibney asked the Tánaiste and Minister for Foreign Affairs and Trade the course of action he plans to take should the suspension of the EU-Israel association agreement continue to be blocked at EU Council level, despite clear evidence of the breach of the human rights provisions of the agreement; and if he will make a statement on the matter. [38292/25] ",
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Foreign",
+        "roleType": null
+      },
+      "house": {
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-10/pq_55",
+      "questionNumber": 55,
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Sinéad-Gibney.D.2024-11-29",
+        "showAs": "Sinéad Gibney",
+        "memberCode": "Sinéad-Gibney.D.2024-11-29"
+      },
+      "questionType": "oral",
+      "date": "2025-07-10"
+    }
+  },
+  {
+    "contextDate": "2025-07-10",
+    "question": {
+      "debateSection": {
+        "debateSectionId": "dbsect_19",
+        "showAs": "Middle East",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-10/debate/dbsect_19",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-10/debate/mul@/dbsect_19.xml"
+          }
+        }
+      },
+      "showAs": " 73. Deputy Barry Ward asked the Tánaiste and Minister for Foreign Affairs and Trade the position regarding the EU-Israel association agreement; the actions our Government is taking in talks with our EU partners related to Israel's compliance with Article 2 of this agreement; and if he will make a statement on the matter. [37246/25] ",
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Foreign",
+        "roleType": null
+      },
+      "house": {
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-10/pq_73",
+      "questionNumber": 73,
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Barry-Ward.S.2020-03-30",
+        "showAs": "Barry Ward",
+        "memberCode": "Barry-Ward.S.2020-03-30"
+      },
+      "questionType": "oral",
+      "date": "2025-07-10"
+    }
+  },
+  {
+    "contextDate": "2025-07-10",
+    "question": {
+      "debateSection": {
+        "debateSectionId": "dbsect_21",
+        "showAs": "Rural Schemes",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-10/debate/dbsect_21",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-10/debate/mul@/dbsect_21.xml"
+          }
+        }
+      },
+      "showAs": " 79. Deputy Louise O'Reilly asked the Minister for Rural and Community Development and the Gaeltacht if he has considered the establishment of a community wealth-building fund within his Department; and if he will make a statement on the matter. [33194/25] ",
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Rural",
+        "roleType": null
+      },
+      "house": {
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-10/pq_79",
+      "questionNumber": 79,
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Louise-O'Reilly.D.2016-10-03",
+        "showAs": "Louise O'Reilly",
+        "memberCode": "Louise-O'Reilly.D.2016-10-03"
+      },
+      "questionType": "oral",
+      "date": "2025-07-10"
+    }
+  },
+  {
+    "contextDate": "2025-07-10",
+    "question": {
+      "debateSection": {
+        "debateSectionId": "dbsect_23",
+        "showAs": "Voluntary Sector",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-10/debate/dbsect_23",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-10/debate/mul@/dbsect_23.xml"
+          }
+        }
+      },
+      "showAs": " 81. Deputy Conor D. McGuinness asked the Minister for Rural and Community Development and the Gaeltacht if he shares the concerns of community development workers regarding resourcing of this critically important discipline.  [38528/25] ",
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Rural",
+        "roleType": null
+      },
+      "house": {
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-10/pq_81",
+      "questionNumber": 81,
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Conor-D-McGuinness.D.2024-11-29",
+        "showAs": "Conor D McGuinness",
+        "memberCode": "Conor-D-McGuinness.D.2024-11-29"
+      },
+      "questionType": "oral",
+      "date": "2025-07-10"
+    }
+  },
+  {
+    "contextDate": "2025-07-10",
+    "question": {
+      "debateSection": {
+        "debateSectionId": "dbsect_24",
+        "showAs": "Forbairt na Gaeilge",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-10/debate/dbsect_24",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-10/debate/mul@/dbsect_24.xml"
+          }
+        }
+      },
+      "showAs": " 83. D'fhiafraigh Deputy Naoise Ó Cearúil den Aire Forbartha Tuaithe agus Pobail, agus Gaeltachta cén dul chun cinn atá déanta maidir le haitheantas a bhronnadh ar bhailte a chuir isteach ar Líonraí Gaeltachta, cathain is féidir leis na gceantair sin a bheith ag súil go mbronnfar an stádas sin orthu; agus an ndéanfaidh sé ráiteas ina thaobh. [37816/25] ",
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Rural",
+        "roleType": null
+      },
+      "house": {
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-10/pq_83",
+      "questionNumber": 83,
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Naoise-Ó-Cearúil.D.2024-11-29",
+        "showAs": "Naoise Ó Cearúil",
+        "memberCode": "Naoise-Ó-Cearúil.D.2024-11-29"
+      },
+      "questionType": "oral",
+      "date": "2025-07-10"
+    }
+  },
+  {
+    "contextDate": "2025-07-10",
+    "question": {
+      "debateSection": {
+        "debateSectionId": "dbsect_26",
+        "showAs": "Foras na Gaeilge",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-10/debate/dbsect_26",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-10/debate/mul@/dbsect_26.xml"
+          }
+        }
+      },
+      "showAs": " 84. Deputy Tom Brabazon asked the Minister for Rural and Community Development and the Gaeltacht the engagement his Department has had with Foras na Gaeilge to ensure the group has long-term funding into the future; and if he will make a statement on the matter. [38163/25] ",
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Rural",
+        "roleType": null
+      },
+      "house": {
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-10/pq_84",
+      "questionNumber": 84,
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tom-Brabazon.D.2024-11-29",
+        "showAs": "Tom Brabazon",
+        "memberCode": "Tom-Brabazon.D.2024-11-29"
+      },
+      "questionType": "oral",
+      "date": "2025-07-10"
+    }
+  },
+  {
+    "contextDate": "2025-07-10",
+    "question": {
+      "debateSection": {
+        "debateSectionId": "dbsect_27",
+        "showAs": "Community Development Projects",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-10/debate/dbsect_27",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-10/debate/mul@/dbsect_27.xml"
+          }
+        }
+      },
+      "showAs": " 86. Deputy Erin McGreehan asked the Minister for Rural and Community Development and the Gaeltacht for an update on the community centres investment fund; and if he will make a statement on the matter.  [38070/25] ",
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Rural",
+        "roleType": null
+      },
+      "house": {
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-10/pq_86",
+      "questionNumber": 86,
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Erin-McGreehan.S.2020-06-29",
+        "showAs": "Erin McGreehan",
+        "memberCode": "Erin-McGreehan.S.2020-06-29"
+      },
+      "questionType": "oral",
+      "date": "2025-07-10"
+    }
+  },
+  {
+    "contextDate": "2025-07-10",
+    "question": {
+      "debateSection": {
+        "debateSectionId": "dbsect_28",
+        "showAs": "Library Services",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-10/debate/dbsect_28",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-10/debate/mul@/dbsect_28.xml"
+          }
+        }
+      },
+      "showAs": " 87. Deputy Mark Wall asked the Minister for Rural and Community Development and the Gaeltacht if he will report on the progress of implementing the national public library strategy; the amount of funding allocated to the strategy; the current expenditure on the implementation of strategy; and if he will make a statement on the matter. [38316/25] ",
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Rural",
+        "roleType": null
+      },
+      "house": {
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-10/pq_87",
+      "questionNumber": 87,
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Mark-Wall.S.2020-03-30",
+        "showAs": "Mark Wall",
+        "memberCode": "Mark-Wall.S.2020-03-30"
+      },
+      "questionType": "oral",
+      "date": "2025-07-10"
+    }
+  },
+  {
+    "contextDate": "2025-07-10",
+    "question": {
+      "debateSection": {
+        "debateSectionId": "dbsect_29",
+        "showAs": "Scéimeanna Tacaíochta",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-10/debate/dbsect_29",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-10/debate/mul@/dbsect_29.xml"
+          }
+        }
+      },
+      "showAs": " 89. D'fhiafraigh Deputy Aindrias Moynihan den Aire Forbartha Tuaithe agus Pobail, agus Gaeltachta cén dul chun cinn atá déanta chun scéim na mbóithre áise a chur ar fáil arís; agus an ndéanfaidh sé ráiteas ina thaobh. [38150/25] ",
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Rural",
+        "roleType": null
+      },
+      "house": {
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-10/pq_89",
+      "questionNumber": 89,
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Aindrias-Moynihan.D.2016-10-03",
+        "showAs": "Aindrias Moynihan",
+        "memberCode": "Aindrias-Moynihan.D.2016-10-03"
+      },
+      "questionType": "oral",
+      "date": "2025-07-10"
+    }
+  },
+  {
+    "contextDate": "2025-07-10",
+    "question": {
+      "debateSection": {
+        "debateSectionId": "dbsect_30",
+        "showAs": "Stádas na Gaeilge san Eoraip",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-10/debate/dbsect_30",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-10/debate/mul@/dbsect_30.xml"
+          }
+        }
+      },
+      "showAs": " 90. Deputy Seán Ó Fearghaíl asked the Minister for Rural and Community Development and the Gaeltacht for an update on his Department’s work to promote Irish as an official language of the European Union. [38068/25] ",
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Rural",
+        "roleType": null
+      },
+      "house": {
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-10/pq_90",
+      "questionNumber": 90,
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Seán-Ó-Fearghaíl.S.2000-06-09",
+        "showAs": "Seán Ó Fearghaíl",
+        "memberCode": "Seán-Ó-Fearghaíl.S.2000-06-09"
+      },
+      "questionType": "oral",
+      "date": "2025-07-10"
+    }
+  },
+  {
+    "contextDate": "2025-07-10",
+    "question": {
+      "debateSection": {
+        "debateSectionId": "dbsect_31",
+        "showAs": "Enterprise Support Services",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-10/debate/dbsect_31",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-10/debate/mul@/dbsect_31.xml"
+          }
+        }
+      },
+      "showAs": " 91. Deputy Edward Timmins asked the Minister for Rural and Community Development and the Gaeltacht the strategies he has to develop long-term employment in rural Ireland; and if he will make a statement on the matter.  [38307/25] ",
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Rural",
+        "roleType": null
+      },
+      "house": {
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-10/pq_91",
+      "questionNumber": 91,
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Edward-Timmins.D.2024-11-29",
+        "showAs": "Edward Timmins",
+        "memberCode": "Edward-Timmins.D.2024-11-29"
+      },
+      "questionType": "oral",
+      "date": "2025-07-10"
+    }
+  },
+  {
+    "contextDate": "2025-07-10",
+    "question": {
+      "debateSection": {
+        "debateSectionId": "dbsect_32",
+        "showAs": "Community Development Projects",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-10/debate/dbsect_32",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-10/debate/mul@/dbsect_32.xml"
+          }
+        }
+      },
+      "showAs": " 92. Deputy Thomas Gould asked the Minister for Rural and Community Development and the Gaeltacht for an update on Ballyvolane community centre.  [38279/25] ",
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Rural",
+        "roleType": null
+      },
+      "house": {
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-10/pq_92",
+      "questionNumber": 92,
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Thomas-Gould.D.2020-02-08",
+        "showAs": "Thomas Gould",
+        "memberCode": "Thomas-Gould.D.2020-02-08"
+      },
+      "questionType": "oral",
+      "date": "2025-07-10"
+    }
+  },
+  {
+    "contextDate": "2025-07-10",
+    "question": {
+      "debateSection": {
+        "debateSectionId": "dbsect_33",
+        "showAs": "Departmental Schemes",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-10/debate/dbsect_33",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-10/debate/mul@/dbsect_33.xml"
+          }
+        }
+      },
+      "showAs": " 93. Deputy Michael Murphy asked the Minister for Rural and Community Development and the Gaeltacht whether he intends to provide additional funding in 2025 for the local improvement scheme, LIS; and if he will make a statement on the matter.  [36845/25] ",
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Rural",
+        "roleType": null
+      },
+      "house": {
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-10/pq_93",
+      "questionNumber": 93,
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Michael-Murphy.D.2024-11-29",
+        "showAs": "Michael Murphy",
+        "memberCode": "Michael-Murphy.D.2024-11-29"
+      },
+      "questionType": "oral",
+      "date": "2025-07-10"
+    }
+  },
+  {
+    "contextDate": "2025-07-10",
+    "question": {
+      "debateSection": {
+        "debateSectionId": "dbsect_33",
+        "showAs": "Departmental Schemes",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-10/debate/dbsect_33",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-10/debate/mul@/dbsect_33.xml"
+          }
+        }
+      },
+      "showAs": " 95. Deputy Matt Carthy asked the Minister for Rural and Community Development and the Gaeltacht if he will provide an additional allocation to Monaghan County Council for the local improvement scheme in 2025. [38304/25] ",
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Rural",
+        "roleType": null
+      },
+      "house": {
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-10/pq_95",
+      "questionNumber": 95,
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Matt-Carthy.D.2020-02-08",
+        "showAs": "Matt Carthy",
+        "memberCode": "Matt-Carthy.D.2020-02-08"
+      },
+      "questionType": "oral",
+      "date": "2025-07-10"
+    }
+  },
+  {
+    "contextDate": "2025-07-10",
+    "question": {
+      "debateSection": {
+        "debateSectionId": "dbsect_33",
+        "showAs": "Departmental Schemes",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-10/debate/dbsect_33",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-10/debate/mul@/dbsect_33.xml"
+          }
+        }
+      },
+      "showAs": " 105. Deputy Aindrias Moynihan asked the Minister for Rural and Community Development and the Gaeltacht the measures being taken to address the long wait time for applicants under the local improvement scheme in Cork North-West; and if he will make a statement on the matter.  [38149/25] ",
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Rural",
+        "roleType": null
+      },
+      "house": {
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-10/pq_105",
+      "questionNumber": 105,
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Aindrias-Moynihan.D.2016-10-03",
+        "showAs": "Aindrias Moynihan",
+        "memberCode": "Aindrias-Moynihan.D.2016-10-03"
+      },
+      "questionType": "oral",
+      "date": "2025-07-10"
+    }
+  }
+]

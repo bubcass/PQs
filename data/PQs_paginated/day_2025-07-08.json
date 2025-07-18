@@ -1,1083 +1,1083 @@
 [
   {
+    "contextDate": "2025-07-08",
     "question": {
-      "debateSection": {
-        "formats": {
-          "pdf": null,
-          "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/mul@/dbsect_11.xml"
-          }
-        },
-        "showAs": "Cabinet Committees",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/dbsect_11",
-        "debateSectionId": "dbsect_11"
-      },
-      "house": {
-        "chamberType": "house",
-        "committeeCode": "",
-        "houseNo": "34",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "showAs": "34th Dáil",
-        "houseCode": "dail"
-      },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-08/pq_1",
-      "date": "2025-07-08",
       "to": {
         "roleCode": null,
-        "roleType": null,
         "showAs": "Taoiseach",
-        "uri": null
+        "uri": null,
+        "roleType": null
       },
+      "questionNumber": 1,
+      "questionType": "oral",
       "showAs": " 1. Deputy Ivana Bacik asked the Taoiseach when the Cabinet committee on children and education will next meet. [22233/25] ",
-      "by": {
-        "memberCode": "Ivana-Bacik.S.2007-07-23",
-        "showAs": "Ivana Bacik",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ivana-Bacik.S.2007-07-23"
+      "house": {
+        "houseNo": "34",
+        "committeeCode": "",
+        "chamberType": "house",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail"
       },
-      "questionType": "oral",
-      "questionNumber": 1
-    },
-    "contextDate": "2025-07-08"
-  },
-  {
-    "question": {
       "debateSection": {
+        "showAs": "Cabinet Committees",
+        "debateSectionId": "dbsect_11",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/dbsect_11",
         "formats": {
           "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/mul@/dbsect_11.xml"
           }
-        },
-        "showAs": "Cabinet Committees",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/dbsect_11",
-        "debateSectionId": "dbsect_11"
+        }
       },
-      "house": {
-        "chamberType": "house",
-        "committeeCode": "",
-        "houseNo": "34",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "showAs": "34th Dáil",
-        "houseCode": "dail"
-      },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-08/pq_2",
       "date": "2025-07-08",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-08/pq_1",
+      "by": {
+        "showAs": "Ivana Bacik",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ivana-Bacik.S.2007-07-23",
+        "memberCode": "Ivana-Bacik.S.2007-07-23"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-07-08",
+    "question": {
       "to": {
         "roleCode": null,
-        "roleType": null,
         "showAs": "Taoiseach",
-        "uri": null
+        "uri": null,
+        "roleType": null
       },
+      "questionNumber": 2,
+      "questionType": "oral",
       "showAs": " 2. Deputy Aisling Dempsey asked the Taoiseach when the Cabinet committee on children and education will next meet. [23201/25] ",
+      "house": {
+        "houseNo": "34",
+        "committeeCode": "",
+        "chamberType": "house",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail"
+      },
+      "debateSection": {
+        "showAs": "Cabinet Committees",
+        "debateSectionId": "dbsect_11",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/dbsect_11",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/mul@/dbsect_11.xml"
+          }
+        }
+      },
+      "date": "2025-07-08",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-08/pq_2",
       "by": {
-        "memberCode": "Aisling-Dempsey.D.2024-11-29",
         "showAs": "Aisling Dempsey",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Aisling-Dempsey.D.2024-11-29"
-      },
-      "questionType": "oral",
-      "questionNumber": 2
-    },
-    "contextDate": "2025-07-08"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Aisling-Dempsey.D.2024-11-29",
+        "memberCode": "Aisling-Dempsey.D.2024-11-29"
+      }
+    }
   },
   {
+    "contextDate": "2025-07-08",
     "question": {
-      "debateSection": {
-        "formats": {
-          "pdf": null,
-          "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/mul@/dbsect_11.xml"
-          }
-        },
-        "showAs": "Cabinet Committees",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/dbsect_11",
-        "debateSectionId": "dbsect_11"
-      },
-      "house": {
-        "chamberType": "house",
-        "committeeCode": "",
-        "houseNo": "34",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "showAs": "34th Dáil",
-        "houseCode": "dail"
-      },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-08/pq_3",
-      "date": "2025-07-08",
       "to": {
         "roleCode": null,
-        "roleType": null,
         "showAs": "Taoiseach",
-        "uri": null
+        "uri": null,
+        "roleType": null
       },
+      "questionNumber": 3,
+      "questionType": "oral",
       "showAs": " 3. Deputy Ryan O'Meara asked the Taoiseach when the Cabinet committee on children and education will next meet. [23202/25] ",
+      "house": {
+        "houseNo": "34",
+        "committeeCode": "",
+        "chamberType": "house",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail"
+      },
+      "debateSection": {
+        "showAs": "Cabinet Committees",
+        "debateSectionId": "dbsect_11",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/dbsect_11",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/mul@/dbsect_11.xml"
+          }
+        }
+      },
+      "date": "2025-07-08",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-08/pq_3",
       "by": {
-        "memberCode": "Ryan-O'Meara.D.2024-11-29",
         "showAs": "Ryan O'Meara",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ryan-O'Meara.D.2024-11-29"
-      },
-      "questionType": "oral",
-      "questionNumber": 3
-    },
-    "contextDate": "2025-07-08"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ryan-O'Meara.D.2024-11-29",
+        "memberCode": "Ryan-O'Meara.D.2024-11-29"
+      }
+    }
   },
   {
+    "contextDate": "2025-07-08",
     "question": {
-      "debateSection": {
-        "formats": {
-          "pdf": null,
-          "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/mul@/dbsect_11.xml"
-          }
-        },
-        "showAs": "Cabinet Committees",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/dbsect_11",
-        "debateSectionId": "dbsect_11"
-      },
-      "house": {
-        "chamberType": "house",
-        "committeeCode": "",
-        "houseNo": "34",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "showAs": "34th Dáil",
-        "houseCode": "dail"
-      },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-08/pq_4",
-      "date": "2025-07-08",
       "to": {
         "roleCode": null,
-        "roleType": null,
         "showAs": "Taoiseach",
-        "uri": null
+        "uri": null,
+        "roleType": null
       },
+      "questionNumber": 4,
+      "questionType": "oral",
       "showAs": " 4. Deputy John Connolly asked the Taoiseach when the Cabinet committee on children and education will next meet. [30268/25] ",
+      "house": {
+        "houseNo": "34",
+        "committeeCode": "",
+        "chamberType": "house",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail"
+      },
+      "debateSection": {
+        "showAs": "Cabinet Committees",
+        "debateSectionId": "dbsect_11",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/dbsect_11",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/mul@/dbsect_11.xml"
+          }
+        }
+      },
+      "date": "2025-07-08",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-08/pq_4",
       "by": {
-        "memberCode": "John-Connolly.D.2024-11-29",
         "showAs": "John Connolly",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/John-Connolly.D.2024-11-29"
-      },
-      "questionType": "oral",
-      "questionNumber": 4
-    },
-    "contextDate": "2025-07-08"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/John-Connolly.D.2024-11-29",
+        "memberCode": "John-Connolly.D.2024-11-29"
+      }
+    }
   },
   {
+    "contextDate": "2025-07-08",
     "question": {
-      "debateSection": {
-        "formats": {
-          "pdf": null,
-          "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/mul@/dbsect_11.xml"
-          }
-        },
-        "showAs": "Cabinet Committees",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/dbsect_11",
-        "debateSectionId": "dbsect_11"
-      },
-      "house": {
-        "chamberType": "house",
-        "committeeCode": "",
-        "houseNo": "34",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "showAs": "34th Dáil",
-        "houseCode": "dail"
-      },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-08/pq_5",
-      "date": "2025-07-08",
       "to": {
         "roleCode": null,
-        "roleType": null,
         "showAs": "Taoiseach",
-        "uri": null
+        "uri": null,
+        "roleType": null
       },
+      "questionNumber": 5,
+      "questionType": "oral",
       "showAs": " 5. Deputy Ruairí Ó Murchú asked the Taoiseach when the Cabinet committee on children and education will next meet. [32141/25] ",
-      "by": {
-        "memberCode": "Ruairí-Ó-Murchú.D.2020-02-08",
-        "showAs": "Ruairí Ó Murchú",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruairí-Ó-Murchú.D.2020-02-08"
+      "house": {
+        "houseNo": "34",
+        "committeeCode": "",
+        "chamberType": "house",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail"
       },
-      "questionType": "oral",
-      "questionNumber": 5
-    },
-    "contextDate": "2025-07-08"
-  },
-  {
-    "question": {
       "debateSection": {
+        "showAs": "Cabinet Committees",
+        "debateSectionId": "dbsect_11",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/dbsect_11",
         "formats": {
           "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/mul@/dbsect_11.xml"
           }
-        },
-        "showAs": "Cabinet Committees",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/dbsect_11",
-        "debateSectionId": "dbsect_11"
+        }
       },
-      "house": {
-        "chamberType": "house",
-        "committeeCode": "",
-        "houseNo": "34",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "showAs": "34th Dáil",
-        "houseCode": "dail"
-      },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-08/pq_6",
       "date": "2025-07-08",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-08/pq_5",
+      "by": {
+        "showAs": "Ruairí Ó Murchú",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruairí-Ó-Murchú.D.2020-02-08",
+        "memberCode": "Ruairí-Ó-Murchú.D.2020-02-08"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-07-08",
+    "question": {
       "to": {
         "roleCode": null,
-        "roleType": null,
         "showAs": "Taoiseach",
-        "uri": null
+        "uri": null,
+        "roleType": null
       },
+      "questionNumber": 6,
+      "questionType": "oral",
       "showAs": " 6. Deputy Ruth Coppinger asked the Taoiseach when the Cabinet committee on children and education will next meet. [32399/25] ",
-      "by": {
-        "memberCode": "Ruth-Coppinger.D.2014-05-23",
-        "showAs": "Ruth Coppinger",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruth-Coppinger.D.2014-05-23"
+      "house": {
+        "houseNo": "34",
+        "committeeCode": "",
+        "chamberType": "house",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail"
       },
-      "questionType": "oral",
-      "questionNumber": 6
-    },
-    "contextDate": "2025-07-08"
-  },
-  {
-    "question": {
       "debateSection": {
+        "showAs": "Cabinet Committees",
+        "debateSectionId": "dbsect_11",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/dbsect_11",
         "formats": {
           "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/mul@/dbsect_11.xml"
           }
-        },
-        "showAs": "Cabinet Committees",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/dbsect_11",
-        "debateSectionId": "dbsect_11"
+        }
       },
-      "house": {
-        "chamberType": "house",
-        "committeeCode": "",
-        "houseNo": "34",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "showAs": "34th Dáil",
-        "houseCode": "dail"
-      },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-08/pq_7",
       "date": "2025-07-08",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-08/pq_6",
+      "by": {
+        "showAs": "Ruth Coppinger",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruth-Coppinger.D.2014-05-23",
+        "memberCode": "Ruth-Coppinger.D.2014-05-23"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-07-08",
+    "question": {
       "to": {
         "roleCode": null,
-        "roleType": null,
         "showAs": "Taoiseach",
-        "uri": null
+        "uri": null,
+        "roleType": null
       },
+      "questionNumber": 7,
+      "questionType": "oral",
       "showAs": " 7. Deputy Barry Heneghan asked the Taoiseach when the Cabinet committee on children and education will next meet. [32402/25] ",
-      "by": {
-        "memberCode": "Barry-Heneghan.D.2024-11-29",
-        "showAs": "Barry Heneghan",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Barry-Heneghan.D.2024-11-29"
+      "house": {
+        "houseNo": "34",
+        "committeeCode": "",
+        "chamberType": "house",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail"
       },
-      "questionType": "oral",
-      "questionNumber": 7
-    },
-    "contextDate": "2025-07-08"
-  },
-  {
-    "question": {
       "debateSection": {
+        "showAs": "Cabinet Committees",
+        "debateSectionId": "dbsect_11",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/dbsect_11",
         "formats": {
           "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/mul@/dbsect_11.xml"
           }
-        },
-        "showAs": "Cabinet Committees",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/dbsect_11",
-        "debateSectionId": "dbsect_11"
+        }
       },
-      "house": {
-        "chamberType": "house",
-        "committeeCode": "",
-        "houseNo": "34",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "showAs": "34th Dáil",
-        "houseCode": "dail"
-      },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-08/pq_8",
       "date": "2025-07-08",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-08/pq_7",
+      "by": {
+        "showAs": "Barry Heneghan",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Barry-Heneghan.D.2024-11-29",
+        "memberCode": "Barry-Heneghan.D.2024-11-29"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-07-08",
+    "question": {
       "to": {
         "roleCode": null,
-        "roleType": null,
         "showAs": "Taoiseach",
-        "uri": null
+        "uri": null,
+        "roleType": null
       },
+      "questionNumber": 8,
+      "questionType": "oral",
       "showAs": " 8. Deputy Darren O'Rourke asked the Taoiseach when the Cabinet committee on children and education will next meet. [33552/25] ",
-      "by": {
-        "memberCode": "Darren-O'Rourke.D.2020-02-08",
-        "showAs": "Darren O'Rourke",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Darren-O'Rourke.D.2020-02-08"
+      "house": {
+        "houseNo": "34",
+        "committeeCode": "",
+        "chamberType": "house",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail"
       },
-      "questionType": "oral",
-      "questionNumber": 8
-    },
-    "contextDate": "2025-07-08"
-  },
-  {
-    "question": {
       "debateSection": {
+        "showAs": "Cabinet Committees",
+        "debateSectionId": "dbsect_11",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/dbsect_11",
         "formats": {
           "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/mul@/dbsect_11.xml"
           }
-        },
-        "showAs": "Cabinet Committees",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/dbsect_11",
-        "debateSectionId": "dbsect_11"
+        }
       },
-      "house": {
-        "chamberType": "house",
-        "committeeCode": "",
-        "houseNo": "34",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "showAs": "34th Dáil",
-        "houseCode": "dail"
-      },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-08/pq_9",
       "date": "2025-07-08",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-08/pq_8",
+      "by": {
+        "showAs": "Darren O'Rourke",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Darren-O'Rourke.D.2020-02-08",
+        "memberCode": "Darren-O'Rourke.D.2020-02-08"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-07-08",
+    "question": {
       "to": {
         "roleCode": null,
-        "roleType": null,
         "showAs": "Taoiseach",
-        "uri": null
+        "uri": null,
+        "roleType": null
       },
+      "questionNumber": 9,
+      "questionType": "oral",
       "showAs": " 9. Deputy Pádraig O'Sullivan asked the Taoiseach when the Cabinet Committee on Children and Education will next meet. [33564/25] ",
+      "house": {
+        "houseNo": "34",
+        "committeeCode": "",
+        "chamberType": "house",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail"
+      },
+      "debateSection": {
+        "showAs": "Cabinet Committees",
+        "debateSectionId": "dbsect_11",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/dbsect_11",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/mul@/dbsect_11.xml"
+          }
+        }
+      },
+      "date": "2025-07-08",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-08/pq_9",
       "by": {
-        "memberCode": "Pádraig-O'Sullivan.D.2019-11-29",
         "showAs": "Pádraig O'Sullivan",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Pádraig-O'Sullivan.D.2019-11-29"
-      },
-      "questionType": "oral",
-      "questionNumber": 9
-    },
-    "contextDate": "2025-07-08"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Pádraig-O'Sullivan.D.2019-11-29",
+        "memberCode": "Pádraig-O'Sullivan.D.2019-11-29"
+      }
+    }
   },
   {
+    "contextDate": "2025-07-08",
     "question": {
-      "debateSection": {
-        "formats": {
-          "pdf": null,
-          "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/mul@/dbsect_11.xml"
-          }
-        },
-        "showAs": "Cabinet Committees",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/dbsect_11",
-        "debateSectionId": "dbsect_11"
-      },
-      "house": {
-        "chamberType": "house",
-        "committeeCode": "",
-        "houseNo": "34",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "showAs": "34th Dáil",
-        "houseCode": "dail"
-      },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-08/pq_10",
-      "date": "2025-07-08",
       "to": {
         "roleCode": null,
-        "roleType": null,
         "showAs": "Taoiseach",
-        "uri": null
+        "uri": null,
+        "roleType": null
       },
+      "questionNumber": 10,
+      "questionType": "oral",
       "showAs": " 10. Deputy Cathal Crowe asked the Taoiseach when the Cabinet committee on children and education will next meet. [33565/25] ",
-      "by": {
-        "memberCode": "Cathal-Crowe.D.2020-02-08",
-        "showAs": "Cathal Crowe",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Cathal-Crowe.D.2020-02-08"
+      "house": {
+        "houseNo": "34",
+        "committeeCode": "",
+        "chamberType": "house",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail"
       },
-      "questionType": "oral",
-      "questionNumber": 10
-    },
-    "contextDate": "2025-07-08"
-  },
-  {
-    "question": {
       "debateSection": {
+        "showAs": "Cabinet Committees",
+        "debateSectionId": "dbsect_11",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/dbsect_11",
         "formats": {
           "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/mul@/dbsect_11.xml"
           }
-        },
-        "showAs": "Cabinet Committees",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/dbsect_11",
-        "debateSectionId": "dbsect_11"
+        }
       },
-      "house": {
-        "chamberType": "house",
-        "committeeCode": "",
-        "houseNo": "34",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "showAs": "34th Dáil",
-        "houseCode": "dail"
-      },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-08/pq_11",
       "date": "2025-07-08",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-08/pq_10",
+      "by": {
+        "showAs": "Cathal Crowe",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Cathal-Crowe.D.2020-02-08",
+        "memberCode": "Cathal-Crowe.D.2020-02-08"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-07-08",
+    "question": {
       "to": {
         "roleCode": null,
-        "roleType": null,
         "showAs": "Taoiseach",
-        "uri": null
+        "uri": null,
+        "roleType": null
       },
+      "questionNumber": 11,
+      "questionType": "oral",
       "showAs": " 11. Deputy Mary Lou McDonald asked the Taoiseach when the Cabinet committee on children and education will next meet. [33779/25] ",
+      "house": {
+        "houseNo": "34",
+        "committeeCode": "",
+        "chamberType": "house",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail"
+      },
+      "debateSection": {
+        "showAs": "Cabinet Committees",
+        "debateSectionId": "dbsect_11",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/dbsect_11",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/mul@/dbsect_11.xml"
+          }
+        }
+      },
+      "date": "2025-07-08",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-08/pq_11",
       "by": {
-        "memberCode": "Mary-Lou-McDonald.D.2011-03-09",
         "showAs": "Mary Lou McDonald",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Mary-Lou-McDonald.D.2011-03-09"
-      },
-      "questionType": "oral",
-      "questionNumber": 11
-    },
-    "contextDate": "2025-07-08"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Mary-Lou-McDonald.D.2011-03-09",
+        "memberCode": "Mary-Lou-McDonald.D.2011-03-09"
+      }
+    }
   },
   {
+    "contextDate": "2025-07-08",
     "question": {
-      "debateSection": {
-        "formats": {
-          "pdf": null,
-          "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/mul@/dbsect_11.xml"
-          }
-        },
-        "showAs": "Cabinet Committees",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/dbsect_11",
-        "debateSectionId": "dbsect_11"
-      },
-      "house": {
-        "chamberType": "house",
-        "committeeCode": "",
-        "houseNo": "34",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "showAs": "34th Dáil",
-        "houseCode": "dail"
-      },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-08/pq_12",
-      "date": "2025-07-08",
       "to": {
         "roleCode": null,
-        "roleType": null,
         "showAs": "Taoiseach",
-        "uri": null
+        "uri": null,
+        "roleType": null
       },
+      "questionNumber": 12,
+      "questionType": "oral",
       "showAs": " 12. Deputy Paul Murphy asked the Taoiseach when the Cabinet committee on children and education will next meet. [33926/25] ",
-      "by": {
-        "memberCode": "Paul-Murphy.D.2014-10-10",
-        "showAs": "Paul Murphy",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Murphy.D.2014-10-10"
+      "house": {
+        "houseNo": "34",
+        "committeeCode": "",
+        "chamberType": "house",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail"
       },
-      "questionType": "oral",
-      "questionNumber": 12
-    },
-    "contextDate": "2025-07-08"
-  },
-  {
-    "question": {
       "debateSection": {
+        "showAs": "Cabinet Committees",
+        "debateSectionId": "dbsect_11",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/dbsect_11",
         "formats": {
           "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/mul@/dbsect_11.xml"
           }
-        },
-        "showAs": "Cabinet Committees",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/dbsect_11",
-        "debateSectionId": "dbsect_11"
+        }
       },
-      "house": {
-        "chamberType": "house",
-        "committeeCode": "",
-        "houseNo": "34",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "showAs": "34th Dáil",
-        "houseCode": "dail"
-      },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-08/pq_13",
       "date": "2025-07-08",
-      "to": {
-        "roleCode": null,
-        "roleType": null,
-        "showAs": "Taoiseach",
-        "uri": null
-      },
-      "showAs": " 13. Deputy Conor D. McGuinness asked the Taoiseach when the Cabinet committee on children and education will next meet. [35041/25] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-08/pq_12",
       "by": {
-        "memberCode": "Conor-D-McGuinness.D.2024-11-29",
-        "showAs": "Conor D McGuinness",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Conor-D-McGuinness.D.2024-11-29"
-      },
-      "questionType": "oral",
-      "questionNumber": 13
-    },
-    "contextDate": "2025-07-08"
-  },
-  {
-    "question": {
-      "debateSection": {
-        "formats": {
-          "pdf": null,
-          "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/mul@/dbsect_12.xml"
-          }
-        },
-        "showAs": "Cabinet Committees",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/dbsect_12",
-        "debateSectionId": "dbsect_12"
-      },
-      "house": {
-        "chamberType": "house",
-        "committeeCode": "",
-        "houseNo": "34",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "showAs": "34th Dáil",
-        "houseCode": "dail"
-      },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-08/pq_14",
-      "date": "2025-07-08",
-      "to": {
-        "roleCode": null,
-        "roleType": null,
-        "showAs": "Taoiseach",
-        "uri": null
-      },
-      "showAs": " 14. Deputy Ivana Bacik asked the Taoiseach when the Cabinet committee on infrastructure will next meet. [25318/25] ",
-      "by": {
-        "memberCode": "Ivana-Bacik.S.2007-07-23",
-        "showAs": "Ivana Bacik",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ivana-Bacik.S.2007-07-23"
-      },
-      "questionType": "oral",
-      "questionNumber": 14
-    },
-    "contextDate": "2025-07-08"
-  },
-  {
-    "question": {
-      "debateSection": {
-        "formats": {
-          "pdf": null,
-          "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/mul@/dbsect_12.xml"
-          }
-        },
-        "showAs": "Cabinet Committees",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/dbsect_12",
-        "debateSectionId": "dbsect_12"
-      },
-      "house": {
-        "chamberType": "house",
-        "committeeCode": "",
-        "houseNo": "34",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "showAs": "34th Dáil",
-        "houseCode": "dail"
-      },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-08/pq_15",
-      "date": "2025-07-08",
-      "to": {
-        "roleCode": null,
-        "roleType": null,
-        "showAs": "Taoiseach",
-        "uri": null
-      },
-      "showAs": " 15. Deputy Aindrias Moynihan asked the Taoiseach when the Cabinet committee on infrastructure will next meet. [26018/25] ",
-      "by": {
-        "memberCode": "Aindrias-Moynihan.D.2016-10-03",
-        "showAs": "Aindrias Moynihan",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Aindrias-Moynihan.D.2016-10-03"
-      },
-      "questionType": "oral",
-      "questionNumber": 15
-    },
-    "contextDate": "2025-07-08"
-  },
-  {
-    "question": {
-      "debateSection": {
-        "formats": {
-          "pdf": null,
-          "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/mul@/dbsect_12.xml"
-          }
-        },
-        "showAs": "Cabinet Committees",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/dbsect_12",
-        "debateSectionId": "dbsect_12"
-      },
-      "house": {
-        "chamberType": "house",
-        "committeeCode": "",
-        "houseNo": "34",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "showAs": "34th Dáil",
-        "houseCode": "dail"
-      },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-08/pq_16",
-      "date": "2025-07-08",
-      "to": {
-        "roleCode": null,
-        "roleType": null,
-        "showAs": "Taoiseach",
-        "uri": null
-      },
-      "showAs": " 16. Deputy Cian O'Callaghan asked the Taoiseach when the Cabinet committee on infrastructure will next meet. [32570/25] ",
-      "by": {
-        "memberCode": "Cian-O'Callaghan.D.2020-02-08",
-        "showAs": "Cian O'Callaghan",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Cian-O'Callaghan.D.2020-02-08"
-      },
-      "questionType": "oral",
-      "questionNumber": 16
-    },
-    "contextDate": "2025-07-08"
-  },
-  {
-    "question": {
-      "debateSection": {
-        "formats": {
-          "pdf": null,
-          "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/mul@/dbsect_12.xml"
-          }
-        },
-        "showAs": "Cabinet Committees",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/dbsect_12",
-        "debateSectionId": "dbsect_12"
-      },
-      "house": {
-        "chamberType": "house",
-        "committeeCode": "",
-        "houseNo": "34",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "showAs": "34th Dáil",
-        "houseCode": "dail"
-      },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-08/pq_17",
-      "date": "2025-07-08",
-      "to": {
-        "roleCode": null,
-        "roleType": null,
-        "showAs": "Taoiseach",
-        "uri": null
-      },
-      "showAs": " 17. Deputy Shane Moynihan asked the Taoiseach when the Cabinet committee on infrastructure will next meet. [33559/25] ",
-      "by": {
-        "memberCode": "Shane-Moynihan.D.2024-11-29",
-        "showAs": "Shane Moynihan",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Shane-Moynihan.D.2024-11-29"
-      },
-      "questionType": "oral",
-      "questionNumber": 17
-    },
-    "contextDate": "2025-07-08"
-  },
-  {
-    "question": {
-      "debateSection": {
-        "formats": {
-          "pdf": null,
-          "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/mul@/dbsect_12.xml"
-          }
-        },
-        "showAs": "Cabinet Committees",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/dbsect_12",
-        "debateSectionId": "dbsect_12"
-      },
-      "house": {
-        "chamberType": "house",
-        "committeeCode": "",
-        "houseNo": "34",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "showAs": "34th Dáil",
-        "houseCode": "dail"
-      },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-08/pq_18",
-      "date": "2025-07-08",
-      "to": {
-        "roleCode": null,
-        "roleType": null,
-        "showAs": "Taoiseach",
-        "uri": null
-      },
-      "showAs": " 18. Deputy Cathal Crowe asked the Taoiseach when the Cabinet committee on infrastructure will next meet. [33566/25] ",
-      "by": {
-        "memberCode": "Cathal-Crowe.D.2020-02-08",
-        "showAs": "Cathal Crowe",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Cathal-Crowe.D.2020-02-08"
-      },
-      "questionType": "oral",
-      "questionNumber": 18
-    },
-    "contextDate": "2025-07-08"
-  },
-  {
-    "question": {
-      "debateSection": {
-        "formats": {
-          "pdf": null,
-          "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/mul@/dbsect_12.xml"
-          }
-        },
-        "showAs": "Cabinet Committees",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/dbsect_12",
-        "debateSectionId": "dbsect_12"
-      },
-      "house": {
-        "chamberType": "house",
-        "committeeCode": "",
-        "houseNo": "34",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "showAs": "34th Dáil",
-        "houseCode": "dail"
-      },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-08/pq_19",
-      "date": "2025-07-08",
-      "to": {
-        "roleCode": null,
-        "roleType": null,
-        "showAs": "Taoiseach",
-        "uri": null
-      },
-      "showAs": " 19. Deputy Ruth Coppinger asked the Taoiseach when the Cabinet committee on infrastructure will next meet. [33614/25] ",
-      "by": {
-        "memberCode": "Ruth-Coppinger.D.2014-05-23",
-        "showAs": "Ruth Coppinger",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruth-Coppinger.D.2014-05-23"
-      },
-      "questionType": "oral",
-      "questionNumber": 19
-    },
-    "contextDate": "2025-07-08"
-  },
-  {
-    "question": {
-      "debateSection": {
-        "formats": {
-          "pdf": null,
-          "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/mul@/dbsect_12.xml"
-          }
-        },
-        "showAs": "Cabinet Committees",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/dbsect_12",
-        "debateSectionId": "dbsect_12"
-      },
-      "house": {
-        "chamberType": "house",
-        "committeeCode": "",
-        "houseNo": "34",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "showAs": "34th Dáil",
-        "houseCode": "dail"
-      },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-08/pq_20",
-      "date": "2025-07-08",
-      "to": {
-        "roleCode": null,
-        "roleType": null,
-        "showAs": "Taoiseach",
-        "uri": null
-      },
-      "showAs": " 20. Deputy James O'Connor asked the Taoiseach when the Cabinet committee on infrastructure will next meet. [33856/25] ",
-      "by": {
-        "memberCode": "James-O'Connor.D.2020-02-08",
-        "showAs": "James O'Connor",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/James-O'Connor.D.2020-02-08"
-      },
-      "questionType": "oral",
-      "questionNumber": 20
-    },
-    "contextDate": "2025-07-08"
-  },
-  {
-    "question": {
-      "debateSection": {
-        "formats": {
-          "pdf": null,
-          "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/mul@/dbsect_12.xml"
-          }
-        },
-        "showAs": "Cabinet Committees",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/dbsect_12",
-        "debateSectionId": "dbsect_12"
-      },
-      "house": {
-        "chamberType": "house",
-        "committeeCode": "",
-        "houseNo": "34",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "showAs": "34th Dáil",
-        "houseCode": "dail"
-      },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-08/pq_21",
-      "date": "2025-07-08",
-      "to": {
-        "roleCode": null,
-        "roleType": null,
-        "showAs": "Taoiseach",
-        "uri": null
-      },
-      "showAs": " 21. Deputy Paul Murphy asked the Taoiseach when the Cabinet committee on infrastructure will next meet. [33927/25] ",
-      "by": {
-        "memberCode": "Paul-Murphy.D.2014-10-10",
         "showAs": "Paul Murphy",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Murphy.D.2014-10-10"
-      },
-      "questionType": "oral",
-      "questionNumber": 21
-    },
-    "contextDate": "2025-07-08"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Murphy.D.2014-10-10",
+        "memberCode": "Paul-Murphy.D.2014-10-10"
+      }
+    }
   },
   {
+    "contextDate": "2025-07-08",
     "question": {
+      "to": {
+        "roleCode": null,
+        "showAs": "Taoiseach",
+        "uri": null,
+        "roleType": null
+      },
+      "questionNumber": 13,
+      "questionType": "oral",
+      "showAs": " 13. Deputy Conor D. McGuinness asked the Taoiseach when the Cabinet committee on children and education will next meet. [35041/25] ",
+      "house": {
+        "houseNo": "34",
+        "committeeCode": "",
+        "chamberType": "house",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail"
+      },
       "debateSection": {
+        "showAs": "Cabinet Committees",
+        "debateSectionId": "dbsect_11",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/dbsect_11",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/mul@/dbsect_11.xml"
+          }
+        }
+      },
+      "date": "2025-07-08",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-08/pq_13",
+      "by": {
+        "showAs": "Conor D McGuinness",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Conor-D-McGuinness.D.2024-11-29",
+        "memberCode": "Conor-D-McGuinness.D.2024-11-29"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-07-08",
+    "question": {
+      "to": {
+        "roleCode": null,
+        "showAs": "Taoiseach",
+        "uri": null,
+        "roleType": null
+      },
+      "questionNumber": 14,
+      "questionType": "oral",
+      "showAs": " 14. Deputy Ivana Bacik asked the Taoiseach when the Cabinet committee on infrastructure will next meet. [25318/25] ",
+      "house": {
+        "houseNo": "34",
+        "committeeCode": "",
+        "chamberType": "house",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail"
+      },
+      "debateSection": {
+        "showAs": "Cabinet Committees",
+        "debateSectionId": "dbsect_12",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/dbsect_12",
         "formats": {
           "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/mul@/dbsect_12.xml"
           }
-        },
-        "showAs": "Cabinet Committees",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/dbsect_12",
-        "debateSectionId": "dbsect_12"
+        }
       },
-      "house": {
-        "chamberType": "house",
-        "committeeCode": "",
-        "houseNo": "34",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "showAs": "34th Dáil",
-        "houseCode": "dail"
-      },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-08/pq_22",
       "date": "2025-07-08",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-08/pq_14",
+      "by": {
+        "showAs": "Ivana Bacik",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ivana-Bacik.S.2007-07-23",
+        "memberCode": "Ivana-Bacik.S.2007-07-23"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-07-08",
+    "question": {
       "to": {
         "roleCode": null,
-        "roleType": null,
         "showAs": "Taoiseach",
-        "uri": null
+        "uri": null,
+        "roleType": null
       },
+      "questionNumber": 15,
+      "questionType": "oral",
+      "showAs": " 15. Deputy Aindrias Moynihan asked the Taoiseach when the Cabinet committee on infrastructure will next meet. [26018/25] ",
+      "house": {
+        "houseNo": "34",
+        "committeeCode": "",
+        "chamberType": "house",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail"
+      },
+      "debateSection": {
+        "showAs": "Cabinet Committees",
+        "debateSectionId": "dbsect_12",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/dbsect_12",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/mul@/dbsect_12.xml"
+          }
+        }
+      },
+      "date": "2025-07-08",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-08/pq_15",
+      "by": {
+        "showAs": "Aindrias Moynihan",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Aindrias-Moynihan.D.2016-10-03",
+        "memberCode": "Aindrias-Moynihan.D.2016-10-03"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-07-08",
+    "question": {
+      "to": {
+        "roleCode": null,
+        "showAs": "Taoiseach",
+        "uri": null,
+        "roleType": null
+      },
+      "questionNumber": 16,
+      "questionType": "oral",
+      "showAs": " 16. Deputy Cian O'Callaghan asked the Taoiseach when the Cabinet committee on infrastructure will next meet. [32570/25] ",
+      "house": {
+        "houseNo": "34",
+        "committeeCode": "",
+        "chamberType": "house",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail"
+      },
+      "debateSection": {
+        "showAs": "Cabinet Committees",
+        "debateSectionId": "dbsect_12",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/dbsect_12",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/mul@/dbsect_12.xml"
+          }
+        }
+      },
+      "date": "2025-07-08",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-08/pq_16",
+      "by": {
+        "showAs": "Cian O'Callaghan",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Cian-O'Callaghan.D.2020-02-08",
+        "memberCode": "Cian-O'Callaghan.D.2020-02-08"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-07-08",
+    "question": {
+      "to": {
+        "roleCode": null,
+        "showAs": "Taoiseach",
+        "uri": null,
+        "roleType": null
+      },
+      "questionNumber": 17,
+      "questionType": "oral",
+      "showAs": " 17. Deputy Shane Moynihan asked the Taoiseach when the Cabinet committee on infrastructure will next meet. [33559/25] ",
+      "house": {
+        "houseNo": "34",
+        "committeeCode": "",
+        "chamberType": "house",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail"
+      },
+      "debateSection": {
+        "showAs": "Cabinet Committees",
+        "debateSectionId": "dbsect_12",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/dbsect_12",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/mul@/dbsect_12.xml"
+          }
+        }
+      },
+      "date": "2025-07-08",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-08/pq_17",
+      "by": {
+        "showAs": "Shane Moynihan",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Shane-Moynihan.D.2024-11-29",
+        "memberCode": "Shane-Moynihan.D.2024-11-29"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-07-08",
+    "question": {
+      "to": {
+        "roleCode": null,
+        "showAs": "Taoiseach",
+        "uri": null,
+        "roleType": null
+      },
+      "questionNumber": 18,
+      "questionType": "oral",
+      "showAs": " 18. Deputy Cathal Crowe asked the Taoiseach when the Cabinet committee on infrastructure will next meet. [33566/25] ",
+      "house": {
+        "houseNo": "34",
+        "committeeCode": "",
+        "chamberType": "house",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail"
+      },
+      "debateSection": {
+        "showAs": "Cabinet Committees",
+        "debateSectionId": "dbsect_12",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/dbsect_12",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/mul@/dbsect_12.xml"
+          }
+        }
+      },
+      "date": "2025-07-08",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-08/pq_18",
+      "by": {
+        "showAs": "Cathal Crowe",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Cathal-Crowe.D.2020-02-08",
+        "memberCode": "Cathal-Crowe.D.2020-02-08"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-07-08",
+    "question": {
+      "to": {
+        "roleCode": null,
+        "showAs": "Taoiseach",
+        "uri": null,
+        "roleType": null
+      },
+      "questionNumber": 19,
+      "questionType": "oral",
+      "showAs": " 19. Deputy Ruth Coppinger asked the Taoiseach when the Cabinet committee on infrastructure will next meet. [33614/25] ",
+      "house": {
+        "houseNo": "34",
+        "committeeCode": "",
+        "chamberType": "house",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail"
+      },
+      "debateSection": {
+        "showAs": "Cabinet Committees",
+        "debateSectionId": "dbsect_12",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/dbsect_12",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/mul@/dbsect_12.xml"
+          }
+        }
+      },
+      "date": "2025-07-08",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-08/pq_19",
+      "by": {
+        "showAs": "Ruth Coppinger",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruth-Coppinger.D.2014-05-23",
+        "memberCode": "Ruth-Coppinger.D.2014-05-23"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-07-08",
+    "question": {
+      "to": {
+        "roleCode": null,
+        "showAs": "Taoiseach",
+        "uri": null,
+        "roleType": null
+      },
+      "questionNumber": 20,
+      "questionType": "oral",
+      "showAs": " 20. Deputy James O'Connor asked the Taoiseach when the Cabinet committee on infrastructure will next meet. [33856/25] ",
+      "house": {
+        "houseNo": "34",
+        "committeeCode": "",
+        "chamberType": "house",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail"
+      },
+      "debateSection": {
+        "showAs": "Cabinet Committees",
+        "debateSectionId": "dbsect_12",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/dbsect_12",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/mul@/dbsect_12.xml"
+          }
+        }
+      },
+      "date": "2025-07-08",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-08/pq_20",
+      "by": {
+        "showAs": "James O'Connor",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/James-O'Connor.D.2020-02-08",
+        "memberCode": "James-O'Connor.D.2020-02-08"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-07-08",
+    "question": {
+      "to": {
+        "roleCode": null,
+        "showAs": "Taoiseach",
+        "uri": null,
+        "roleType": null
+      },
+      "questionNumber": 21,
+      "questionType": "oral",
+      "showAs": " 21. Deputy Paul Murphy asked the Taoiseach when the Cabinet committee on infrastructure will next meet. [33927/25] ",
+      "house": {
+        "houseNo": "34",
+        "committeeCode": "",
+        "chamberType": "house",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail"
+      },
+      "debateSection": {
+        "showAs": "Cabinet Committees",
+        "debateSectionId": "dbsect_12",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/dbsect_12",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/mul@/dbsect_12.xml"
+          }
+        }
+      },
+      "date": "2025-07-08",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-08/pq_21",
+      "by": {
+        "showAs": "Paul Murphy",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Murphy.D.2014-10-10",
+        "memberCode": "Paul-Murphy.D.2014-10-10"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-07-08",
+    "question": {
+      "to": {
+        "roleCode": null,
+        "showAs": "Taoiseach",
+        "uri": null,
+        "roleType": null
+      },
+      "questionNumber": 22,
+      "questionType": "oral",
       "showAs": " 22. Deputy Naoise Ó Cearúil asked the Taoiseach when the Cabinet committee on infrastructure will next meet. [34039/25] ",
+      "house": {
+        "houseNo": "34",
+        "committeeCode": "",
+        "chamberType": "house",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail"
+      },
+      "debateSection": {
+        "showAs": "Cabinet Committees",
+        "debateSectionId": "dbsect_12",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/dbsect_12",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/mul@/dbsect_12.xml"
+          }
+        }
+      },
+      "date": "2025-07-08",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-08/pq_22",
       "by": {
-        "memberCode": "Naoise-Ó-Cearúil.D.2024-11-29",
         "showAs": "Naoise Ó Cearúil",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Naoise-Ó-Cearúil.D.2024-11-29"
-      },
-      "questionType": "oral",
-      "questionNumber": 22
-    },
-    "contextDate": "2025-07-08"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Naoise-Ó-Cearúil.D.2024-11-29",
+        "memberCode": "Naoise-Ó-Cearúil.D.2024-11-29"
+      }
+    }
   },
   {
+    "contextDate": "2025-07-08",
     "question": {
-      "debateSection": {
-        "formats": {
-          "pdf": null,
-          "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/mul@/dbsect_12.xml"
-          }
-        },
-        "showAs": "Cabinet Committees",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/dbsect_12",
-        "debateSectionId": "dbsect_12"
-      },
-      "house": {
-        "chamberType": "house",
-        "committeeCode": "",
-        "houseNo": "34",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "showAs": "34th Dáil",
-        "houseCode": "dail"
-      },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-08/pq_23",
-      "date": "2025-07-08",
       "to": {
         "roleCode": null,
-        "roleType": null,
         "showAs": "Taoiseach",
-        "uri": null
+        "uri": null,
+        "roleType": null
       },
+      "questionNumber": 23,
+      "questionType": "oral",
       "showAs": " 23. Deputy Barry Heneghan asked the Taoiseach when the Cabinet committee on infrastructure will next meet. [34303/25] ",
+      "house": {
+        "houseNo": "34",
+        "committeeCode": "",
+        "chamberType": "house",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail"
+      },
+      "debateSection": {
+        "showAs": "Cabinet Committees",
+        "debateSectionId": "dbsect_12",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/dbsect_12",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/mul@/dbsect_12.xml"
+          }
+        }
+      },
+      "date": "2025-07-08",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-08/pq_23",
       "by": {
-        "memberCode": "Barry-Heneghan.D.2024-11-29",
         "showAs": "Barry Heneghan",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Barry-Heneghan.D.2024-11-29"
-      },
-      "questionType": "oral",
-      "questionNumber": 23
-    },
-    "contextDate": "2025-07-08"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Barry-Heneghan.D.2024-11-29",
+        "memberCode": "Barry-Heneghan.D.2024-11-29"
+      }
+    }
   },
   {
+    "contextDate": "2025-07-08",
     "question": {
-      "debateSection": {
-        "formats": {
-          "pdf": null,
-          "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/mul@/dbsect_12.xml"
-          }
-        },
-        "showAs": "Cabinet Committees",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/dbsect_12",
-        "debateSectionId": "dbsect_12"
-      },
-      "house": {
-        "chamberType": "house",
-        "committeeCode": "",
-        "houseNo": "34",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "showAs": "34th Dáil",
-        "houseCode": "dail"
-      },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-08/pq_24",
-      "date": "2025-07-08",
       "to": {
         "roleCode": null,
-        "roleType": null,
         "showAs": "Taoiseach",
-        "uri": null
+        "uri": null,
+        "roleType": null
       },
+      "questionNumber": 24,
+      "questionType": "oral",
       "showAs": " 24. Deputy Seán Fleming asked the Taoiseach when the Cabinet committee on infrastructure will next meet. [34612/25] ",
+      "house": {
+        "houseNo": "34",
+        "committeeCode": "",
+        "chamberType": "house",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail"
+      },
+      "debateSection": {
+        "showAs": "Cabinet Committees",
+        "debateSectionId": "dbsect_12",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/dbsect_12",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/mul@/dbsect_12.xml"
+          }
+        }
+      },
+      "date": "2025-07-08",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-08/pq_24",
       "by": {
-        "memberCode": "Seán-Fleming.D.1997-06-26",
         "showAs": "Seán Fleming",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Seán-Fleming.D.1997-06-26"
-      },
-      "questionType": "oral",
-      "questionNumber": 24
-    },
-    "contextDate": "2025-07-08"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Seán-Fleming.D.1997-06-26",
+        "memberCode": "Seán-Fleming.D.1997-06-26"
+      }
+    }
   },
   {
+    "contextDate": "2025-07-08",
     "question": {
-      "debateSection": {
-        "formats": {
-          "pdf": null,
-          "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/mul@/dbsect_12.xml"
-          }
-        },
-        "showAs": "Cabinet Committees",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/dbsect_12",
-        "debateSectionId": "dbsect_12"
-      },
-      "house": {
-        "chamberType": "house",
-        "committeeCode": "",
-        "houseNo": "34",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "showAs": "34th Dáil",
-        "houseCode": "dail"
-      },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-08/pq_25",
-      "date": "2025-07-08",
       "to": {
         "roleCode": null,
-        "roleType": null,
         "showAs": "Taoiseach",
-        "uri": null
+        "uri": null,
+        "roleType": null
       },
+      "questionNumber": 25,
+      "questionType": "oral",
       "showAs": " 25. Deputy Erin McGreehan asked the Taoiseach when the Cabinet committee on infrastructure will next meet. [34614/25] ",
+      "house": {
+        "houseNo": "34",
+        "committeeCode": "",
+        "chamberType": "house",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail"
+      },
+      "debateSection": {
+        "showAs": "Cabinet Committees",
+        "debateSectionId": "dbsect_12",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/dbsect_12",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/mul@/dbsect_12.xml"
+          }
+        }
+      },
+      "date": "2025-07-08",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-08/pq_25",
       "by": {
-        "memberCode": "Erin-McGreehan.S.2020-06-29",
         "showAs": "Erin McGreehan",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Erin-McGreehan.S.2020-06-29"
-      },
-      "questionType": "oral",
-      "questionNumber": 25
-    },
-    "contextDate": "2025-07-08"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Erin-McGreehan.S.2020-06-29",
+        "memberCode": "Erin-McGreehan.S.2020-06-29"
+      }
+    }
   },
   {
+    "contextDate": "2025-07-08",
     "question": {
-      "debateSection": {
-        "formats": {
-          "pdf": null,
-          "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/mul@/dbsect_12.xml"
-          }
-        },
-        "showAs": "Cabinet Committees",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/dbsect_12",
-        "debateSectionId": "dbsect_12"
-      },
-      "house": {
-        "chamberType": "house",
-        "committeeCode": "",
-        "houseNo": "34",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "showAs": "34th Dáil",
-        "houseCode": "dail"
-      },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-08/pq_26",
-      "date": "2025-07-08",
       "to": {
         "roleCode": null,
-        "roleType": null,
         "showAs": "Taoiseach",
-        "uri": null
+        "uri": null,
+        "roleType": null
       },
+      "questionNumber": 26,
+      "questionType": "oral",
       "showAs": " 26. Deputy Ruairí Ó Murchú asked the Taoiseach when the Cabinet committee on infrastructure will next meet. [35371/25] ",
-      "by": {
-        "memberCode": "Ruairí-Ó-Murchú.D.2020-02-08",
-        "showAs": "Ruairí Ó Murchú",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruairí-Ó-Murchú.D.2020-02-08"
+      "house": {
+        "houseNo": "34",
+        "committeeCode": "",
+        "chamberType": "house",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail"
       },
-      "questionType": "oral",
-      "questionNumber": 26
-    },
-    "contextDate": "2025-07-08"
-  },
-  {
-    "question": {
       "debateSection": {
+        "showAs": "Cabinet Committees",
+        "debateSectionId": "dbsect_12",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/dbsect_12",
         "formats": {
           "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/mul@/dbsect_12.xml"
           }
-        },
-        "showAs": "Cabinet Committees",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/dbsect_12",
-        "debateSectionId": "dbsect_12"
+        }
       },
-      "house": {
-        "chamberType": "house",
-        "committeeCode": "",
-        "houseNo": "34",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "showAs": "34th Dáil",
-        "houseCode": "dail"
-      },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-08/pq_27",
       "date": "2025-07-08",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-08/pq_26",
+      "by": {
+        "showAs": "Ruairí Ó Murchú",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruairí-Ó-Murchú.D.2020-02-08",
+        "memberCode": "Ruairí-Ó-Murchú.D.2020-02-08"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-07-08",
+    "question": {
       "to": {
         "roleCode": null,
-        "roleType": null,
         "showAs": "Taoiseach",
-        "uri": null
+        "uri": null,
+        "roleType": null
       },
-      "showAs": " 27. Deputy Darren O'Rourke asked the Taoiseach when the Cabinet committee on infrastructure will next meet. [37506/25] ",
-      "by": {
-        "memberCode": "Darren-O'Rourke.D.2020-02-08",
-        "showAs": "Darren O'Rourke",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Darren-O'Rourke.D.2020-02-08"
-      },
+      "questionNumber": 27,
       "questionType": "oral",
-      "questionNumber": 27
-    },
-    "contextDate": "2025-07-08"
+      "showAs": " 27. Deputy Darren O'Rourke asked the Taoiseach when the Cabinet committee on infrastructure will next meet. [37506/25] ",
+      "house": {
+        "houseNo": "34",
+        "committeeCode": "",
+        "chamberType": "house",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail"
+      },
+      "debateSection": {
+        "showAs": "Cabinet Committees",
+        "debateSectionId": "dbsect_12",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/dbsect_12",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/mul@/dbsect_12.xml"
+          }
+        }
+      },
+      "date": "2025-07-08",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-08/pq_27",
+      "by": {
+        "showAs": "Darren O'Rourke",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Darren-O'Rourke.D.2020-02-08",
+        "memberCode": "Darren-O'Rourke.D.2020-02-08"
+      }
+    }
   },
   {
     "question": {
@@ -1400,604 +1400,604 @@
     "contextDate": "2025-07-08"
   },
   {
+    "contextDate": "2025-07-08",
     "question": {
+      "to": {
+        "roleCode": null,
+        "showAs": "Further and Higher Education",
+        "uri": null,
+        "roleType": null
+      },
+      "questionNumber": 96,
+      "questionType": "oral",
+      "showAs": " 96. Deputy Donna McGettigan asked the Minister for Further and Higher Education, Research, Innovation and Science for an update on developments from his and the Minister for Housing, Local Government and Heritage's refusal to provide a second-year cost-of-living package for students, despite the cost-of-living crisis continuing, resulting in student fees increasing by €1,000; and if he will make a statement on the matter. [37827/25] ",
+      "house": {
+        "houseNo": "34",
+        "committeeCode": "",
+        "chamberType": "house",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail"
+      },
       "debateSection": {
+        "showAs": "Third Level Fees",
+        "debateSectionId": "dbsect_17",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/dbsect_17",
         "formats": {
           "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/mul@/dbsect_17.xml"
           }
-        },
-        "showAs": "Third Level Fees",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/dbsect_17",
-        "debateSectionId": "dbsect_17"
+        }
       },
-      "house": {
-        "chamberType": "house",
-        "committeeCode": "",
-        "houseNo": "34",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "showAs": "34th Dáil",
-        "houseCode": "dail"
-      },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-08/pq_96",
       "date": "2025-07-08",
-      "to": {
-        "roleCode": null,
-        "roleType": null,
-        "showAs": "Further and Higher Education",
-        "uri": null
-      },
-      "showAs": " 96. Deputy Donna McGettigan asked the Minister for Further and Higher Education, Research, Innovation and Science for an update on developments from his and the Minister for Housing, Local Government and Heritage's refusal to provide a second-year cost-of-living package for students, despite the cost-of-living crisis continuing, resulting in student fees increasing by €1,000; and if he will make a statement on the matter. [37827/25] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-08/pq_96",
       "by": {
-        "memberCode": "Donna-McGettigan.D.2024-11-29",
         "showAs": "Donna McGettigan",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Donna-McGettigan.D.2024-11-29"
-      },
-      "questionType": "oral",
-      "questionNumber": 96
-    },
-    "contextDate": "2025-07-08"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Donna-McGettigan.D.2024-11-29",
+        "memberCode": "Donna-McGettigan.D.2024-11-29"
+      }
+    }
   },
   {
+    "contextDate": "2025-07-08",
     "question": {
+      "to": {
+        "roleCode": null,
+        "showAs": "Further and Higher Education",
+        "uri": null,
+        "roleType": null
+      },
+      "questionNumber": 97,
+      "questionType": "oral",
+      "showAs": " 97. Deputy Eoghan Kenny asked the Minister for Further and Higher Education, Research, Innovation and Science for an update on the programme for Government commitment to continue to reduce the student contribution fee over the lifetime of the Government, as of July 2025; and if he will make a statement on the matter.  [37316/25] ",
+      "house": {
+        "houseNo": "34",
+        "committeeCode": "",
+        "chamberType": "house",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail"
+      },
       "debateSection": {
+        "showAs": "Third Level Fees",
+        "debateSectionId": "dbsect_18",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/dbsect_18",
         "formats": {
           "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/mul@/dbsect_18.xml"
           }
-        },
-        "showAs": "Third Level Fees",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/dbsect_18",
-        "debateSectionId": "dbsect_18"
+        }
       },
-      "house": {
-        "chamberType": "house",
-        "committeeCode": "",
-        "houseNo": "34",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "showAs": "34th Dáil",
-        "houseCode": "dail"
-      },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-08/pq_97",
       "date": "2025-07-08",
-      "to": {
-        "roleCode": null,
-        "roleType": null,
-        "showAs": "Further and Higher Education",
-        "uri": null
-      },
-      "showAs": " 97. Deputy Eoghan Kenny asked the Minister for Further and Higher Education, Research, Innovation and Science for an update on the programme for Government commitment to continue to reduce the student contribution fee over the lifetime of the Government, as of July 2025; and if he will make a statement on the matter.  [37316/25] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-08/pq_97",
       "by": {
-        "memberCode": "Eoghan-Kenny.D.2024-11-29",
         "showAs": "Eoghan Kenny",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Eoghan-Kenny.D.2024-11-29"
-      },
-      "questionType": "oral",
-      "questionNumber": 97
-    },
-    "contextDate": "2025-07-08"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Eoghan-Kenny.D.2024-11-29",
+        "memberCode": "Eoghan-Kenny.D.2024-11-29"
+      }
+    }
   },
   {
+    "contextDate": "2025-07-08",
     "question": {
+      "to": {
+        "roleCode": null,
+        "showAs": "Further and Higher Education",
+        "uri": null,
+        "roleType": null
+      },
+      "questionNumber": 98,
+      "questionType": "oral",
+      "showAs": " 98. Deputy Donna McGettigan asked the Minister for Further and Higher Education, Research, Innovation and Science for information on the decision behind the cut of €1.3 million from SOLAS to the Tipperary Education and Training Board, which has resulted in the cancellation of a valuable programme for early school leavers at Cashel local training initiative, which affects 14 students who will be unable to complete their studies and progress to level 5 - equivalent of honours leaving certificate; and if he will make a statement on the matter.  [37828/25] ",
+      "house": {
+        "houseNo": "34",
+        "committeeCode": "",
+        "chamberType": "house",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail"
+      },
       "debateSection": {
+        "showAs": "Departmental Bodies",
+        "debateSectionId": "dbsect_19",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/dbsect_19",
         "formats": {
           "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/mul@/dbsect_19.xml"
           }
-        },
-        "showAs": "Departmental Bodies",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/dbsect_19",
-        "debateSectionId": "dbsect_19"
+        }
       },
-      "house": {
-        "chamberType": "house",
-        "committeeCode": "",
-        "houseNo": "34",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "showAs": "34th Dáil",
-        "houseCode": "dail"
-      },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-08/pq_98",
       "date": "2025-07-08",
-      "to": {
-        "roleCode": null,
-        "roleType": null,
-        "showAs": "Further and Higher Education",
-        "uri": null
-      },
-      "showAs": " 98. Deputy Donna McGettigan asked the Minister for Further and Higher Education, Research, Innovation and Science for information on the decision behind the cut of €1.3 million from SOLAS to the Tipperary Education and Training Board, which has resulted in the cancellation of a valuable programme for early school leavers at Cashel local training initiative, which affects 14 students who will be unable to complete their studies and progress to level 5 - equivalent of honours leaving certificate; and if he will make a statement on the matter.  [37828/25] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-08/pq_98",
       "by": {
-        "memberCode": "Donna-McGettigan.D.2024-11-29",
         "showAs": "Donna McGettigan",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Donna-McGettigan.D.2024-11-29"
-      },
-      "questionType": "oral",
-      "questionNumber": 98
-    },
-    "contextDate": "2025-07-08"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Donna-McGettigan.D.2024-11-29",
+        "memberCode": "Donna-McGettigan.D.2024-11-29"
+      }
+    }
   },
   {
+    "contextDate": "2025-07-08",
     "question": {
+      "to": {
+        "roleCode": null,
+        "showAs": "Further and Higher Education",
+        "uri": null,
+        "roleType": null
+      },
+      "questionNumber": 99,
+      "questionType": "oral",
+      "showAs": " 99. Deputy Donna McGettigan asked the Minister for Further and Higher Education, Research, Innovation and Science the protections his Department can give to apprentices to ensure they receive the agreed wage and are doing work relevant to their apprenticeships; and if he will make a statement on the matter. [37829/25] ",
+      "house": {
+        "houseNo": "34",
+        "committeeCode": "",
+        "chamberType": "house",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail"
+      },
       "debateSection": {
+        "showAs": "Apprenticeship Programmes",
+        "debateSectionId": "dbsect_20",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/dbsect_20",
         "formats": {
           "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/mul@/dbsect_20.xml"
           }
-        },
-        "showAs": "Apprenticeship Programmes",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/dbsect_20",
-        "debateSectionId": "dbsect_20"
+        }
       },
-      "house": {
-        "chamberType": "house",
-        "committeeCode": "",
-        "houseNo": "34",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "showAs": "34th Dáil",
-        "houseCode": "dail"
-      },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-08/pq_99",
       "date": "2025-07-08",
-      "to": {
-        "roleCode": null,
-        "roleType": null,
-        "showAs": "Further and Higher Education",
-        "uri": null
-      },
-      "showAs": " 99. Deputy Donna McGettigan asked the Minister for Further and Higher Education, Research, Innovation and Science the protections his Department can give to apprentices to ensure they receive the agreed wage and are doing work relevant to their apprenticeships; and if he will make a statement on the matter. [37829/25] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-08/pq_99",
       "by": {
-        "memberCode": "Donna-McGettigan.D.2024-11-29",
         "showAs": "Donna McGettigan",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Donna-McGettigan.D.2024-11-29"
-      },
-      "questionType": "oral",
-      "questionNumber": 99
-    },
-    "contextDate": "2025-07-08"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Donna-McGettigan.D.2024-11-29",
+        "memberCode": "Donna-McGettigan.D.2024-11-29"
+      }
+    }
   },
   {
+    "contextDate": "2025-07-08",
     "question": {
+      "to": {
+        "roleCode": null,
+        "showAs": "Further and Higher Education",
+        "uri": null,
+        "roleType": null
+      },
+      "questionNumber": 100,
+      "questionType": "oral",
+      "showAs": " 100. Deputy Maeve O'Connell asked the Minister for Further and Higher Education, Research, Innovation and Science if his Department will create a centralised third level information hub for students. [37814/25] ",
+      "house": {
+        "houseNo": "34",
+        "committeeCode": "",
+        "chamberType": "house",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail"
+      },
       "debateSection": {
+        "showAs": "Third Level Education",
+        "debateSectionId": "dbsect_21",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/dbsect_21",
         "formats": {
           "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/mul@/dbsect_21.xml"
           }
-        },
-        "showAs": "Third Level Education",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/dbsect_21",
-        "debateSectionId": "dbsect_21"
+        }
       },
-      "house": {
-        "chamberType": "house",
-        "committeeCode": "",
-        "houseNo": "34",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "showAs": "34th Dáil",
-        "houseCode": "dail"
-      },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-08/pq_100",
       "date": "2025-07-08",
-      "to": {
-        "roleCode": null,
-        "roleType": null,
-        "showAs": "Further and Higher Education",
-        "uri": null
-      },
-      "showAs": " 100. Deputy Maeve O'Connell asked the Minister for Further and Higher Education, Research, Innovation and Science if his Department will create a centralised third level information hub for students. [37814/25] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-08/pq_100",
       "by": {
-        "memberCode": "Maeve-O'Connell.D.2024-11-29",
         "showAs": "Maeve O'Connell",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Maeve-O'Connell.D.2024-11-29"
-      },
-      "questionType": "oral",
-      "questionNumber": 100
-    },
-    "contextDate": "2025-07-08"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Maeve-O'Connell.D.2024-11-29",
+        "memberCode": "Maeve-O'Connell.D.2024-11-29"
+      }
+    }
   },
   {
+    "contextDate": "2025-07-08",
     "question": {
+      "to": {
+        "roleCode": null,
+        "showAs": "Further and Higher Education",
+        "uri": null,
+        "roleType": null
+      },
+      "questionNumber": 101,
+      "questionType": "oral",
+      "showAs": " 101. Deputy Ruairí Ó Murchú asked the Minister for Further and Higher Education, Research, Innovation and Science to provide an update on the progress made regarding the funding issues at SOLAS and ETB apprenticeship training programmes; and if he will make a statement on the matter. [37556/25] ",
+      "house": {
+        "houseNo": "34",
+        "committeeCode": "",
+        "chamberType": "house",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail"
+      },
       "debateSection": {
+        "showAs": "Apprenticeship Programmes",
+        "debateSectionId": "dbsect_26",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/dbsect_26",
         "formats": {
           "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/mul@/dbsect_26.xml"
           }
-        },
-        "showAs": "Apprenticeship Programmes",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/dbsect_26",
-        "debateSectionId": "dbsect_26"
+        }
       },
-      "house": {
-        "chamberType": "house",
-        "committeeCode": "",
-        "houseNo": "34",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "showAs": "34th Dáil",
-        "houseCode": "dail"
-      },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-08/pq_101",
       "date": "2025-07-08",
-      "to": {
-        "roleCode": null,
-        "roleType": null,
-        "showAs": "Further and Higher Education",
-        "uri": null
-      },
-      "showAs": " 101. Deputy Ruairí Ó Murchú asked the Minister for Further and Higher Education, Research, Innovation and Science to provide an update on the progress made regarding the funding issues at SOLAS and ETB apprenticeship training programmes; and if he will make a statement on the matter. [37556/25] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-08/pq_101",
       "by": {
-        "memberCode": "Ruairí-Ó-Murchú.D.2020-02-08",
         "showAs": "Ruairí Ó Murchú",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruairí-Ó-Murchú.D.2020-02-08"
-      },
-      "questionType": "oral",
-      "questionNumber": 101
-    },
-    "contextDate": "2025-07-08"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruairí-Ó-Murchú.D.2020-02-08",
+        "memberCode": "Ruairí-Ó-Murchú.D.2020-02-08"
+      }
+    }
   },
   {
+    "contextDate": "2025-07-08",
     "question": {
+      "to": {
+        "roleCode": null,
+        "showAs": "Further and Higher Education",
+        "uri": null,
+        "roleType": null
+      },
+      "questionNumber": 102,
+      "questionType": "oral",
+      "showAs": " 102. Deputy Eoghan Kenny asked the Minister for Further and Higher Education, Research, Innovation and Science his plans for a renewed action plan to succeed the Action Plan for Apprenticeship 2021-2025; if the new action plan will have a focus on apprentice wages; and if he will make a statement on the matter. [37310/25] ",
+      "house": {
+        "houseNo": "34",
+        "committeeCode": "",
+        "chamberType": "house",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail"
+      },
       "debateSection": {
+        "showAs": "Apprenticeship Programmes",
+        "debateSectionId": "dbsect_23",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/dbsect_23",
         "formats": {
           "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/mul@/dbsect_23.xml"
           }
-        },
-        "showAs": "Apprenticeship Programmes",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/dbsect_23",
-        "debateSectionId": "dbsect_23"
+        }
       },
-      "house": {
-        "chamberType": "house",
-        "committeeCode": "",
-        "houseNo": "34",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "showAs": "34th Dáil",
-        "houseCode": "dail"
-      },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-08/pq_102",
       "date": "2025-07-08",
-      "to": {
-        "roleCode": null,
-        "roleType": null,
-        "showAs": "Further and Higher Education",
-        "uri": null
-      },
-      "showAs": " 102. Deputy Eoghan Kenny asked the Minister for Further and Higher Education, Research, Innovation and Science his plans for a renewed action plan to succeed the Action Plan for Apprenticeship 2021-2025; if the new action plan will have a focus on apprentice wages; and if he will make a statement on the matter. [37310/25] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-08/pq_102",
       "by": {
-        "memberCode": "Eoghan-Kenny.D.2024-11-29",
         "showAs": "Eoghan Kenny",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Eoghan-Kenny.D.2024-11-29"
-      },
-      "questionType": "oral",
-      "questionNumber": 102
-    },
-    "contextDate": "2025-07-08"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Eoghan-Kenny.D.2024-11-29",
+        "memberCode": "Eoghan-Kenny.D.2024-11-29"
+      }
+    }
   },
   {
+    "contextDate": "2025-07-08",
     "question": {
+      "to": {
+        "roleCode": null,
+        "showAs": "Further and Higher Education",
+        "uri": null,
+        "roleType": null
+      },
+      "questionNumber": 103,
+      "questionType": "oral",
+      "showAs": " 103. Deputy Pádraig O'Sullivan asked the Minister for Further and Higher Education, Research, Innovation and Science if he will confirm that SOLAS is in receipt of sufficient funding from the State to ensure that it can deliver on its annual service plan and operate accordingly; and if he will make a statement on the matter. [36974/25] ",
+      "house": {
+        "houseNo": "34",
+        "committeeCode": "",
+        "chamberType": "house",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail"
+      },
       "debateSection": {
+        "showAs": "Further and Higher Education",
+        "debateSectionId": "dbsect_24",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/dbsect_24",
         "formats": {
           "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/mul@/dbsect_24.xml"
           }
-        },
-        "showAs": "Further and Higher Education",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/dbsect_24",
-        "debateSectionId": "dbsect_24"
+        }
       },
-      "house": {
-        "chamberType": "house",
-        "committeeCode": "",
-        "houseNo": "34",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "showAs": "34th Dáil",
-        "houseCode": "dail"
-      },
+      "date": "2025-07-08",
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-08/pq_103",
-      "date": "2025-07-08",
-      "to": {
-        "roleCode": null,
-        "roleType": null,
-        "showAs": "Further and Higher Education",
-        "uri": null
-      },
-      "showAs": " 103. Deputy Pádraig O'Sullivan asked the Minister for Further and Higher Education, Research, Innovation and Science if he will confirm that SOLAS is in receipt of sufficient funding from the State to ensure that it can deliver on its annual service plan and operate accordingly; and if he will make a statement on the matter. [36974/25] ",
       "by": {
-        "memberCode": "Pádraig-O'Sullivan.D.2019-11-29",
         "showAs": "Pádraig O'Sullivan",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Pádraig-O'Sullivan.D.2019-11-29"
-      },
-      "questionType": "oral",
-      "questionNumber": 103
-    },
-    "contextDate": "2025-07-08"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Pádraig-O'Sullivan.D.2019-11-29",
+        "memberCode": "Pádraig-O'Sullivan.D.2019-11-29"
+      }
+    }
   },
   {
+    "contextDate": "2025-07-08",
     "question": {
-      "debateSection": {
-        "formats": {
-          "pdf": null,
-          "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/mul@/dbsect_25.xml"
-          }
-        },
-        "showAs": "Third Level Fees",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/dbsect_25",
-        "debateSectionId": "dbsect_25"
-      },
-      "house": {
-        "chamberType": "house",
-        "committeeCode": "",
-        "houseNo": "34",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "showAs": "34th Dáil",
-        "houseCode": "dail"
-      },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-08/pq_104",
-      "date": "2025-07-08",
       "to": {
         "roleCode": null,
-        "roleType": null,
         "showAs": "Further and Higher Education",
-        "uri": null
+        "uri": null,
+        "roleType": null
       },
+      "questionNumber": 104,
+      "questionType": "oral",
       "showAs": " 104. Deputy Paul McAuliffe asked the Minister for Further and Higher Education, Research, Innovation and Science the means by which he intends to implement the programme for Government commitments regarding the cost of third level education; and if he will make a statement on the matter.  [37436/25] ",
-      "by": {
-        "memberCode": "Paul-McAuliffe.D.2020-02-08",
-        "showAs": "Paul McAuliffe",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-McAuliffe.D.2020-02-08"
+      "house": {
+        "houseNo": "34",
+        "committeeCode": "",
+        "chamberType": "house",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail"
       },
-      "questionType": "oral",
-      "questionNumber": 104
-    },
-    "contextDate": "2025-07-08"
-  },
-  {
-    "question": {
       "debateSection": {
+        "showAs": "Third Level Fees",
+        "debateSectionId": "dbsect_25",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/dbsect_25",
         "formats": {
           "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/mul@/dbsect_25.xml"
           }
-        },
-        "showAs": "Third Level Fees",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/dbsect_25",
-        "debateSectionId": "dbsect_25"
+        }
       },
-      "house": {
-        "chamberType": "house",
-        "committeeCode": "",
-        "houseNo": "34",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "showAs": "34th Dáil",
-        "houseCode": "dail"
-      },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-08/pq_105",
       "date": "2025-07-08",
-      "to": {
-        "roleCode": null,
-        "roleType": null,
-        "showAs": "Further and Higher Education",
-        "uri": null
-      },
-      "showAs": " 105. Deputy Louis O'Hara asked the Minister for Further and Higher Education, Research, Innovation and Science if he will reverse his decision to increase the student contribution fee for third level undergraduate students; and if he will make a statement on the matter. [37415/25] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-08/pq_104",
       "by": {
-        "memberCode": "Louis-O'Hara.D.2024-11-29",
-        "showAs": "Louis O'Hara",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Louis-O'Hara.D.2024-11-29"
-      },
-      "questionType": "oral",
-      "questionNumber": 105
-    },
-    "contextDate": "2025-07-08"
+        "showAs": "Paul McAuliffe",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-McAuliffe.D.2020-02-08",
+        "memberCode": "Paul-McAuliffe.D.2020-02-08"
+      }
+    }
   },
   {
+    "contextDate": "2025-07-08",
     "question": {
+      "to": {
+        "roleCode": null,
+        "showAs": "Further and Higher Education",
+        "uri": null,
+        "roleType": null
+      },
+      "questionNumber": 105,
+      "questionType": "oral",
+      "showAs": " 105. Deputy Louis O'Hara asked the Minister for Further and Higher Education, Research, Innovation and Science if he will reverse his decision to increase the student contribution fee for third level undergraduate students; and if he will make a statement on the matter. [37415/25] ",
+      "house": {
+        "houseNo": "34",
+        "committeeCode": "",
+        "chamberType": "house",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail"
+      },
       "debateSection": {
+        "showAs": "Third Level Fees",
+        "debateSectionId": "dbsect_25",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/dbsect_25",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/mul@/dbsect_25.xml"
+          }
+        }
+      },
+      "date": "2025-07-08",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-08/pq_105",
+      "by": {
+        "showAs": "Louis O'Hara",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Louis-O'Hara.D.2024-11-29",
+        "memberCode": "Louis-O'Hara.D.2024-11-29"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-07-08",
+    "question": {
+      "to": {
+        "roleCode": null,
+        "showAs": "Further and Higher Education",
+        "uri": null,
+        "roleType": null
+      },
+      "questionNumber": 106,
+      "questionType": "oral",
+      "showAs": " 106. Deputy Grace Boland asked the Minister for Further and Higher Education, Research, Innovation and Science to detail the uptake of the supports to help to achieve a better gender balance in apprenticeships; and if he will make a statement on the matter. [37513/25] ",
+      "house": {
+        "houseNo": "34",
+        "committeeCode": "",
+        "chamberType": "house",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail"
+      },
+      "debateSection": {
+        "showAs": "Apprenticeship Programmes",
+        "debateSectionId": "dbsect_27",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/dbsect_27",
         "formats": {
           "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/mul@/dbsect_27.xml"
           }
-        },
-        "showAs": "Apprenticeship Programmes",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/dbsect_27",
-        "debateSectionId": "dbsect_27"
+        }
       },
-      "house": {
-        "chamberType": "house",
-        "committeeCode": "",
-        "houseNo": "34",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "showAs": "34th Dáil",
-        "houseCode": "dail"
-      },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-08/pq_106",
       "date": "2025-07-08",
-      "to": {
-        "roleCode": null,
-        "roleType": null,
-        "showAs": "Further and Higher Education",
-        "uri": null
-      },
-      "showAs": " 106. Deputy Grace Boland asked the Minister for Further and Higher Education, Research, Innovation and Science to detail the uptake of the supports to help to achieve a better gender balance in apprenticeships; and if he will make a statement on the matter. [37513/25] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-08/pq_106",
       "by": {
-        "memberCode": "Grace-Boland.D.2024-11-29",
         "showAs": "Grace Boland",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Grace-Boland.D.2024-11-29"
-      },
-      "questionType": "oral",
-      "questionNumber": 106
-    },
-    "contextDate": "2025-07-08"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Grace-Boland.D.2024-11-29",
+        "memberCode": "Grace-Boland.D.2024-11-29"
+      }
+    }
   },
   {
+    "contextDate": "2025-07-08",
     "question": {
+      "to": {
+        "roleCode": null,
+        "showAs": "Further and Higher Education",
+        "uri": null,
+        "roleType": null
+      },
+      "questionNumber": 107,
+      "questionType": "oral",
+      "showAs": " 107. Deputy Maeve O'Connell asked the Minister for Further and Higher Education, Research, Innovation and Science his views on his Department's plans for the reduction of the student contribution fee as per the commitments in the programme for Government.  [37331/25] ",
+      "house": {
+        "houseNo": "34",
+        "committeeCode": "",
+        "chamberType": "house",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail"
+      },
       "debateSection": {
+        "showAs": "Third Level Fees",
+        "debateSectionId": "dbsect_25",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/dbsect_25",
         "formats": {
           "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/mul@/dbsect_25.xml"
           }
-        },
-        "showAs": "Third Level Fees",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/dbsect_25",
-        "debateSectionId": "dbsect_25"
+        }
       },
-      "house": {
-        "chamberType": "house",
-        "committeeCode": "",
-        "houseNo": "34",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "showAs": "34th Dáil",
-        "houseCode": "dail"
-      },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-08/pq_107",
       "date": "2025-07-08",
-      "to": {
-        "roleCode": null,
-        "roleType": null,
-        "showAs": "Further and Higher Education",
-        "uri": null
-      },
-      "showAs": " 107. Deputy Maeve O'Connell asked the Minister for Further and Higher Education, Research, Innovation and Science his views on his Department's plans for the reduction of the student contribution fee as per the commitments in the programme for Government.  [37331/25] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-08/pq_107",
       "by": {
-        "memberCode": "Maeve-O'Connell.D.2024-11-29",
         "showAs": "Maeve O'Connell",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Maeve-O'Connell.D.2024-11-29"
-      },
-      "questionType": "oral",
-      "questionNumber": 107
-    },
-    "contextDate": "2025-07-08"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Maeve-O'Connell.D.2024-11-29",
+        "memberCode": "Maeve-O'Connell.D.2024-11-29"
+      }
+    }
   },
   {
+    "contextDate": "2025-07-08",
     "question": {
+      "to": {
+        "roleCode": null,
+        "showAs": "Further and Higher Education",
+        "uri": null,
+        "roleType": null
+      },
+      "questionNumber": 108,
+      "questionType": "oral",
+      "showAs": " 108. Deputy Naoise Ó Muirí asked the Minister for Further and Higher Education, Research, Innovation and Science the impact of the increases in the SUSI grant levels introduced in 2024; and if he will make a statement on the matter. [37308/25] ",
+      "house": {
+        "houseNo": "34",
+        "committeeCode": "",
+        "chamberType": "house",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail"
+      },
       "debateSection": {
+        "showAs": "Third Level Education",
+        "debateSectionId": "dbsect_28",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/dbsect_28",
         "formats": {
           "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/mul@/dbsect_28.xml"
           }
-        },
-        "showAs": "Third Level Education",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/dbsect_28",
-        "debateSectionId": "dbsect_28"
+        }
       },
-      "house": {
-        "chamberType": "house",
-        "committeeCode": "",
-        "houseNo": "34",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "showAs": "34th Dáil",
-        "houseCode": "dail"
-      },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-08/pq_108",
       "date": "2025-07-08",
-      "to": {
-        "roleCode": null,
-        "roleType": null,
-        "showAs": "Further and Higher Education",
-        "uri": null
-      },
-      "showAs": " 108. Deputy Naoise Ó Muirí asked the Minister for Further and Higher Education, Research, Innovation and Science the impact of the increases in the SUSI grant levels introduced in 2024; and if he will make a statement on the matter. [37308/25] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-08/pq_108",
       "by": {
-        "memberCode": "Naoise-Ó-Muirí.D.2024-11-29",
         "showAs": "Naoise Ó Muirí",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Naoise-Ó-Muirí.D.2024-11-29"
-      },
-      "questionType": "oral",
-      "questionNumber": 108
-    },
-    "contextDate": "2025-07-08"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Naoise-Ó-Muirí.D.2024-11-29",
+        "memberCode": "Naoise-Ó-Muirí.D.2024-11-29"
+      }
+    }
   },
   {
+    "contextDate": "2025-07-08",
     "question": {
+      "to": {
+        "roleCode": null,
+        "showAs": "Further and Higher Education",
+        "uri": null,
+        "roleType": null
+      },
+      "questionNumber": 109,
+      "questionType": "oral",
+      "showAs": " 109. Deputy Darren O'Rourke asked the Minister for Further and Higher Education, Research, Innovation and Science for an update on the funding cut to apprenticeships in Meath and across the State; his assessment of the practical impact of this cut; the measures he is taking to address this; and if he will make a statement on the matter. [37297/25] ",
+      "house": {
+        "houseNo": "34",
+        "committeeCode": "",
+        "chamberType": "house",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail"
+      },
       "debateSection": {
+        "showAs": "Education and Training Boards",
+        "debateSectionId": "dbsect_29",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/dbsect_29",
         "formats": {
           "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/mul@/dbsect_29.xml"
           }
-        },
-        "showAs": "Education and Training Boards",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/dbsect_29",
-        "debateSectionId": "dbsect_29"
+        }
       },
-      "house": {
-        "chamberType": "house",
-        "committeeCode": "",
-        "houseNo": "34",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "showAs": "34th Dáil",
-        "houseCode": "dail"
-      },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-08/pq_109",
       "date": "2025-07-08",
-      "to": {
-        "roleCode": null,
-        "roleType": null,
-        "showAs": "Further and Higher Education",
-        "uri": null
-      },
-      "showAs": " 109. Deputy Darren O'Rourke asked the Minister for Further and Higher Education, Research, Innovation and Science for an update on the funding cut to apprenticeships in Meath and across the State; his assessment of the practical impact of this cut; the measures he is taking to address this; and if he will make a statement on the matter. [37297/25] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-08/pq_109",
       "by": {
-        "memberCode": "Darren-O'Rourke.D.2020-02-08",
         "showAs": "Darren O'Rourke",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Darren-O'Rourke.D.2020-02-08"
-      },
-      "questionType": "oral",
-      "questionNumber": 109
-    },
-    "contextDate": "2025-07-08"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Darren-O'Rourke.D.2020-02-08",
+        "memberCode": "Darren-O'Rourke.D.2020-02-08"
+      }
+    }
   },
   {
+    "contextDate": "2025-07-08",
     "question": {
+      "to": {
+        "roleCode": null,
+        "showAs": "Further and Higher Education",
+        "uri": null,
+        "roleType": null
+      },
+      "questionNumber": 110,
+      "questionType": "oral",
+      "showAs": " 110. Deputy Barry Heneghan asked the Minister for Further and Higher Education, Research, Innovation and Science if he will explain the rationale for the reported decision not to proceed with further reductions in the student contribution fee, in light of the commitment made in the programme for Government to reduce these fees over the lifetime of the Government; and if he will make a statement on the matter.  [37631/25] ",
+      "house": {
+        "houseNo": "34",
+        "committeeCode": "",
+        "chamberType": "house",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail"
+      },
       "debateSection": {
+        "showAs": "Third Level Fees",
+        "debateSectionId": "dbsect_25",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/dbsect_25",
         "formats": {
           "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/mul@/dbsect_25.xml"
           }
-        },
-        "showAs": "Third Level Fees",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/dbsect_25",
-        "debateSectionId": "dbsect_25"
+        }
       },
-      "house": {
-        "chamberType": "house",
-        "committeeCode": "",
-        "houseNo": "34",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "showAs": "34th Dáil",
-        "houseCode": "dail"
-      },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-08/pq_110",
       "date": "2025-07-08",
-      "to": {
-        "roleCode": null,
-        "roleType": null,
-        "showAs": "Further and Higher Education",
-        "uri": null
-      },
-      "showAs": " 110. Deputy Barry Heneghan asked the Minister for Further and Higher Education, Research, Innovation and Science if he will explain the rationale for the reported decision not to proceed with further reductions in the student contribution fee, in light of the commitment made in the programme for Government to reduce these fees over the lifetime of the Government; and if he will make a statement on the matter.  [37631/25] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-08/pq_110",
       "by": {
-        "memberCode": "Barry-Heneghan.D.2024-11-29",
         "showAs": "Barry Heneghan",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Barry-Heneghan.D.2024-11-29"
-      },
-      "questionType": "oral",
-      "questionNumber": 110
-    },
-    "contextDate": "2025-07-08"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Barry-Heneghan.D.2024-11-29",
+        "memberCode": "Barry-Heneghan.D.2024-11-29"
+      }
+    }
   },
   {
     "question": {
@@ -2040,44 +2040,44 @@
     "contextDate": "2025-07-08"
   },
   {
+    "contextDate": "2025-07-08",
     "question": {
+      "to": {
+        "roleCode": null,
+        "showAs": "Further and Higher Education",
+        "uri": null,
+        "roleType": null
+      },
+      "questionNumber": 112,
+      "questionType": "oral",
+      "showAs": " 112. Deputy Roderic O'Gorman asked the Minister for Further and Higher Education, Research, Innovation and Science to clarify his recent comments regarding the student contribution fee, and if he will give clarity on how much students and their families will be paying in September 2025; and if he will make a statement on the matter. [37646/25] ",
+      "house": {
+        "houseNo": "34",
+        "committeeCode": "",
+        "chamberType": "house",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail"
+      },
       "debateSection": {
+        "showAs": "Third Level Fees",
+        "debateSectionId": "dbsect_25",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/dbsect_25",
         "formats": {
           "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/mul@/dbsect_25.xml"
           }
-        },
-        "showAs": "Third Level Fees",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/dbsect_25",
-        "debateSectionId": "dbsect_25"
+        }
       },
-      "house": {
-        "chamberType": "house",
-        "committeeCode": "",
-        "houseNo": "34",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "showAs": "34th Dáil",
-        "houseCode": "dail"
-      },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-08/pq_112",
       "date": "2025-07-08",
-      "to": {
-        "roleCode": null,
-        "roleType": null,
-        "showAs": "Further and Higher Education",
-        "uri": null
-      },
-      "showAs": " 112. Deputy Roderic O'Gorman asked the Minister for Further and Higher Education, Research, Innovation and Science to clarify his recent comments regarding the student contribution fee, and if he will give clarity on how much students and their families will be paying in September 2025; and if he will make a statement on the matter. [37646/25] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-08/pq_112",
       "by": {
-        "memberCode": "Roderic-O'Gorman.D.2020-02-08",
         "showAs": "Roderic O'Gorman",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Roderic-O'Gorman.D.2020-02-08"
-      },
-      "questionType": "oral",
-      "questionNumber": 112
-    },
-    "contextDate": "2025-07-08"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Roderic-O'Gorman.D.2020-02-08",
+        "memberCode": "Roderic-O'Gorman.D.2020-02-08"
+      }
+    }
   },
   {
     "question": {
@@ -2120,44 +2120,44 @@
     "contextDate": "2025-07-08"
   },
   {
+    "contextDate": "2025-07-08",
     "question": {
+      "to": {
+        "roleCode": null,
+        "showAs": "Further and Higher Education",
+        "uri": null,
+        "roleType": null
+      },
+      "questionNumber": 114,
+      "questionType": "oral",
+      "showAs": " 114. Deputy Naoise Ó Muirí asked the Minister for Further and Higher Education, Research, Innovation and Science if there is a detailed plan on how the National Training Fund will be expanded; and if he will make a statement on the matter. [37309/25] ",
+      "house": {
+        "houseNo": "34",
+        "committeeCode": "",
+        "chamberType": "house",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail"
+      },
       "debateSection": {
+        "showAs": "Further and Higher Education",
+        "debateSectionId": "dbsect_30",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/dbsect_30",
         "formats": {
           "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/mul@/dbsect_30.xml"
           }
-        },
-        "showAs": "Further and Higher Education",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/dbsect_30",
-        "debateSectionId": "dbsect_30"
+        }
       },
-      "house": {
-        "chamberType": "house",
-        "committeeCode": "",
-        "houseNo": "34",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "showAs": "34th Dáil",
-        "houseCode": "dail"
-      },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-08/pq_114",
       "date": "2025-07-08",
-      "to": {
-        "roleCode": null,
-        "roleType": null,
-        "showAs": "Further and Higher Education",
-        "uri": null
-      },
-      "showAs": " 114. Deputy Naoise Ó Muirí asked the Minister for Further and Higher Education, Research, Innovation and Science if there is a detailed plan on how the National Training Fund will be expanded; and if he will make a statement on the matter. [37309/25] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-08/pq_114",
       "by": {
-        "memberCode": "Naoise-Ó-Muirí.D.2024-11-29",
         "showAs": "Naoise Ó Muirí",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Naoise-Ó-Muirí.D.2024-11-29"
-      },
-      "questionType": "oral",
-      "questionNumber": 114
-    },
-    "contextDate": "2025-07-08"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Naoise-Ó-Muirí.D.2024-11-29",
+        "memberCode": "Naoise-Ó-Muirí.D.2024-11-29"
+      }
+    }
   },
   {
     "question": {

@@ -1,1 +1,1122 @@
-[]
+[
+  {
+    "contextDate": "2025-07-17",
+    "question": {
+      "showAs": " 1. Deputy Mairéad Farrell asked the Minister for Public Expenditure, Infrastructure, Public Service Reform and Digitalisation for an update on general budgetary expenditure measures. [39486/25] ",
+      "questionNumber": 1,
+      "house": {
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "houseNo": "34"
+      },
+      "debateSection": {
+        "showAs": "Public Expenditure Policy",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-17/debate/dbsect_3",
+        "debateSectionId": "dbsect_3",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-17/debate/mul@/dbsect_3.xml"
+          },
+          "pdf": null
+        }
+      },
+      "by": {
+        "showAs": "Mairéad Farrell",
+        "memberCode": "Mairéad-Farrell.D.2020-02-08",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Mairéad-Farrell.D.2020-02-08"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-17/pq_1",
+      "date": "2025-07-17",
+      "questionType": "oral",
+      "to": {
+        "showAs": "Public Expenditure",
+        "roleType": null,
+        "roleCode": null,
+        "uri": null
+      }
+    }
+  },
+  {
+    "contextDate": "2025-07-17",
+    "question": {
+      "showAs": " 3. Deputy Mairéad Farrell asked the Minister for Public Expenditure, Infrastructure, Public Service Reform and Digitalisation if his Department’s submission to the EU review of the protected disclosures regime will refer to the views of whistleblowers from the Farrelly commission and Children's Health Ireland (children’s hip surgeries) about the reprisals they faced. [39487/25] ",
+      "questionNumber": 3,
+      "house": {
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "houseNo": "34"
+      },
+      "debateSection": {
+        "showAs": "Protected Disclosures",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-17/debate/dbsect_4",
+        "debateSectionId": "dbsect_4",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-17/debate/mul@/dbsect_4.xml"
+          },
+          "pdf": null
+        }
+      },
+      "by": {
+        "showAs": "Mairéad Farrell",
+        "memberCode": "Mairéad-Farrell.D.2020-02-08",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Mairéad-Farrell.D.2020-02-08"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-17/pq_3",
+      "date": "2025-07-17",
+      "questionType": "oral",
+      "to": {
+        "showAs": "Public Expenditure",
+        "roleType": null,
+        "roleCode": null,
+        "uri": null
+      }
+    }
+  },
+  {
+    "contextDate": "2025-07-17",
+    "question": {
+      "showAs": " 4. Deputy Barry Heneghan asked the Minister for Public Expenditure, Infrastructure, Public Service Reform and Digitalisation if he will outline the specific reforms under consideration following his Department’s review of barriers to infrastructure delivery; if these reforms will include changes to procurement processes, planning timelines, or inter-agency coordination; and if he will make a statement on the matter. [40188/25] ",
+      "questionNumber": 4,
+      "house": {
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "houseNo": "34"
+      },
+      "debateSection": {
+        "showAs": "Planning Issues",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-17/debate/dbsect_8",
+        "debateSectionId": "dbsect_8",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-17/debate/mul@/dbsect_8.xml"
+          },
+          "pdf": null
+        }
+      },
+      "by": {
+        "showAs": "Barry Heneghan",
+        "memberCode": "Barry-Heneghan.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Barry-Heneghan.D.2024-11-29"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-17/pq_4",
+      "date": "2025-07-17",
+      "questionType": "oral",
+      "to": {
+        "showAs": "Public Expenditure",
+        "roleType": null,
+        "roleCode": null,
+        "uri": null
+      }
+    }
+  },
+  {
+    "contextDate": "2025-07-17",
+    "question": {
+      "showAs": " 5. Deputy Claire Kerrane asked the Minister for Public Expenditure, Infrastructure, Public Service Reform and Digitalisation to provide an update on a permanent solution for flooding in Lough Funshinagh in County Roscommon; and if he will make a statement on the matter. [38435/25] ",
+      "questionNumber": 5,
+      "house": {
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "houseNo": "34"
+      },
+      "debateSection": {
+        "showAs": "Flood Relief Schemes",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-17/debate/dbsect_6",
+        "debateSectionId": "dbsect_6",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-17/debate/mul@/dbsect_6.xml"
+          },
+          "pdf": null
+        }
+      },
+      "by": {
+        "showAs": "Claire Kerrane",
+        "memberCode": "Claire-Kerrane.D.2020-02-08",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Claire-Kerrane.D.2020-02-08"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-17/pq_5",
+      "date": "2025-07-17",
+      "questionType": "oral",
+      "to": {
+        "showAs": "Public Expenditure",
+        "roleType": null,
+        "roleCode": null,
+        "uri": null
+      }
+    }
+  },
+  {
+    "contextDate": "2025-07-17",
+    "question": {
+      "showAs": " 6. Deputy John Lahart asked the Minister for Public Expenditure, Infrastructure, Public Service Reform and Digitalisation when work will be undertaken to renew the exterior protective finish of Rathfarnham Castle; and if he will make a statement on the matter. [39992/25] ",
+      "questionNumber": 6,
+      "house": {
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "houseNo": "34"
+      },
+      "debateSection": {
+        "showAs": "Office of Public Works",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-17/debate/dbsect_9",
+        "debateSectionId": "dbsect_9",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-17/debate/mul@/dbsect_9.xml"
+          },
+          "pdf": null
+        }
+      },
+      "by": {
+        "showAs": "John Lahart",
+        "memberCode": "John-Lahart.D.2016-10-03",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/John-Lahart.D.2016-10-03"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-17/pq_6",
+      "date": "2025-07-17",
+      "questionType": "oral",
+      "to": {
+        "showAs": "Public Expenditure",
+        "roleType": null,
+        "roleCode": null,
+        "uri": null
+      }
+    }
+  },
+  {
+    "contextDate": "2025-07-17",
+    "question": {
+      "showAs": " 7. Deputy James O'Connor asked the Minister for Public Expenditure, Infrastructure, Public Service Reform and Digitalisation the status of flood schemes for Rathcormac, Midleton, Castlemartyr, Mogeely and Killeagh and any others in Cork East that his Department is considering; and if he will make a statement on the matter. [40173/25] ",
+      "questionNumber": 7,
+      "house": {
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "houseNo": "34"
+      },
+      "debateSection": {
+        "showAs": "Flood Relief Schemes",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-17/debate/dbsect_7",
+        "debateSectionId": "dbsect_7",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-17/debate/mul@/dbsect_7.xml"
+          },
+          "pdf": null
+        }
+      },
+      "by": {
+        "showAs": "James O'Connor",
+        "memberCode": "James-O'Connor.D.2020-02-08",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/James-O'Connor.D.2020-02-08"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-17/pq_7",
+      "date": "2025-07-17",
+      "questionType": "oral",
+      "to": {
+        "showAs": "Public Expenditure",
+        "roleType": null,
+        "roleCode": null,
+        "uri": null
+      }
+    }
+  },
+  {
+    "contextDate": "2025-07-17",
+    "question": {
+      "showAs": " 9. Deputy James O'Connor asked the Minister for Public Expenditure, Infrastructure, Public Service Reform and Digitalisation if his Department will consider a new retrospective scheme for residents of Midleton who wish to purchase higher barriers to protect their premises from any flooding that may occur in the future, considering that parts of Midleton town were under four feet and more of water during Storm Babet; if his Department is aware of any delays installing the current individual property protection, IPP, scheme in Midleton; and if he will make a statement on the matter.  [40172/25] ",
+      "questionNumber": 9,
+      "house": {
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "houseNo": "34"
+      },
+      "debateSection": {
+        "showAs": "Flood Relief Schemes",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-17/debate/dbsect_7",
+        "debateSectionId": "dbsect_7",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-17/debate/mul@/dbsect_7.xml"
+          },
+          "pdf": null
+        }
+      },
+      "by": {
+        "showAs": "James O'Connor",
+        "memberCode": "James-O'Connor.D.2020-02-08",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/James-O'Connor.D.2020-02-08"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-17/pq_9",
+      "date": "2025-07-17",
+      "questionType": "oral",
+      "to": {
+        "showAs": "Public Expenditure",
+        "roleType": null,
+        "roleCode": null,
+        "uri": null
+      }
+    }
+  },
+  {
+    "contextDate": "2025-07-17",
+    "question": {
+      "showAs": " 11. Deputy Ruairí Ó Murchú asked the Minister for Public Expenditure, Infrastructure, Public Service Reform and Digitalisation the progress being made on plans for additional funding to Uisce Éireann to progress large-scale infrastructure projects following the review of the national development plan; and if he will make a statement on the matter.  [40118/25] ",
+      "questionNumber": 11,
+      "house": {
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "houseNo": "34"
+      },
+      "debateSection": {
+        "showAs": "Water Services",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-17/debate/dbsect_10",
+        "debateSectionId": "dbsect_10",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-17/debate/mul@/dbsect_10.xml"
+          },
+          "pdf": null
+        }
+      },
+      "by": {
+        "showAs": "Ruairí Ó Murchú",
+        "memberCode": "Ruairí-Ó-Murchú.D.2020-02-08",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruairí-Ó-Murchú.D.2020-02-08"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-17/pq_11",
+      "date": "2025-07-17",
+      "questionType": "oral",
+      "to": {
+        "showAs": "Public Expenditure",
+        "roleType": null,
+        "roleCode": null,
+        "uri": null
+      }
+    }
+  },
+  {
+    "contextDate": "2025-07-17",
+    "question": {
+      "showAs": " 12. Deputy Edward Timmins asked the Minister for Public Expenditure, Infrastructure, Public Service Reform and Digitalisation if there is long-term financial planning for capital infrastructure projects; and if he will make a statement on the matter. [40182/25] ",
+      "questionNumber": 12,
+      "house": {
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "houseNo": "34"
+      },
+      "debateSection": {
+        "showAs": "Capital Expenditure Programme",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-17/debate/dbsect_11",
+        "debateSectionId": "dbsect_11",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-17/debate/mul@/dbsect_11.xml"
+          },
+          "pdf": null
+        }
+      },
+      "by": {
+        "showAs": "Edward Timmins",
+        "memberCode": "Edward-Timmins.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Edward-Timmins.D.2024-11-29"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-17/pq_12",
+      "date": "2025-07-17",
+      "questionType": "oral",
+      "to": {
+        "showAs": "Public Expenditure",
+        "roleType": null,
+        "roleCode": null,
+        "uri": null
+      }
+    }
+  },
+  {
+    "contextDate": "2025-07-17",
+    "question": {
+      "showAs": " 14. Deputy Cathal Crowe asked the Minister for Public Expenditure, Infrastructure, Public Service Reform and Digitalisation if he will provide an overview of OPW drainage, flood protection and coastal erosion defence works that are planned to be undertaken in County Clare in 2025; and if he will make a statement on the matter. [39855/25] ",
+      "questionNumber": 14,
+      "house": {
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "houseNo": "34"
+      },
+      "debateSection": {
+        "showAs": "Flood Risk Management",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-17/debate/dbsect_12",
+        "debateSectionId": "dbsect_12",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-17/debate/mul@/dbsect_12.xml"
+          },
+          "pdf": null
+        }
+      },
+      "by": {
+        "showAs": "Cathal Crowe",
+        "memberCode": "Cathal-Crowe.D.2020-02-08",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Cathal-Crowe.D.2020-02-08"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-17/pq_14",
+      "date": "2025-07-17",
+      "questionType": "oral",
+      "to": {
+        "showAs": "Public Expenditure",
+        "roleType": null,
+        "roleCode": null,
+        "uri": null
+      }
+    }
+  },
+  {
+    "contextDate": "2025-07-17",
+    "question": {
+      "showAs": " 15. Deputy Mairéad Farrell asked the Minister for Public Expenditure, Infrastructure, Public Service Reform and Digitalisation if he will provide an update on his scoping exercise for the overpayment of civil servants and Ministers; and if he will make a statement on the matter. [39499/25] ",
+      "questionNumber": 15,
+      "house": {
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "houseNo": "34"
+      },
+      "debateSection": {
+        "showAs": "Public Sector Pensions",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-17/debate/dbsect_13",
+        "debateSectionId": "dbsect_13",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-17/debate/mul@/dbsect_13.xml"
+          },
+          "pdf": null
+        }
+      },
+      "by": {
+        "showAs": "Mairéad Farrell",
+        "memberCode": "Mairéad-Farrell.D.2020-02-08",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Mairéad-Farrell.D.2020-02-08"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-17/pq_15",
+      "date": "2025-07-17",
+      "questionType": "oral",
+      "to": {
+        "showAs": "Public Expenditure",
+        "roleType": null,
+        "roleCode": null,
+        "uri": null
+      }
+    }
+  },
+  {
+    "contextDate": "2025-07-17",
+    "question": {
+      "showAs": " 16. Deputy Séamus McGrath asked the Minister for Public Expenditure, Infrastructure, Public Service Reform and Digitalisation the safeguards that are now in place to ensure large-scale public infrastructure contracts are completed on time and within budget; and if he will make a statement on the matter. [40074/25] ",
+      "questionNumber": 16,
+      "house": {
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "houseNo": "34"
+      },
+      "debateSection": {
+        "showAs": "Public Procurement Contracts",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-17/debate/dbsect_14",
+        "debateSectionId": "dbsect_14",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-17/debate/mul@/dbsect_14.xml"
+          },
+          "pdf": null
+        }
+      },
+      "by": {
+        "showAs": "Séamus McGrath",
+        "memberCode": "Séamus-McGrath.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Séamus-McGrath.D.2024-11-29"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-17/pq_16",
+      "date": "2025-07-17",
+      "questionType": "oral",
+      "to": {
+        "showAs": "Public Expenditure",
+        "roleType": null,
+        "roleCode": null,
+        "uri": null
+      }
+    }
+  },
+  {
+    "contextDate": "2025-07-17",
+    "question": {
+      "showAs": " 18. Deputy Michael Cahill asked the Minister for Public Expenditure, Infrastructure, Public Service Reform and Digitalisation if he will provide funding to tackle costal erosion and flooding in Rossbeigh, Waterville, Kenmare, Tralee, Listowel, Glenbeigh, Dooks, Cromane Lower, Killorglin and Glosha; and if he will make a statement on the matter. [39792/25] ",
+      "questionNumber": 18,
+      "house": {
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "houseNo": "34"
+      },
+      "debateSection": {
+        "showAs": "Coastal Protection",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-17/debate/dbsect_15",
+        "debateSectionId": "dbsect_15",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-17/debate/mul@/dbsect_15.xml"
+          },
+          "pdf": null
+        }
+      },
+      "by": {
+        "showAs": "Michael Cahill",
+        "memberCode": "Michael-Cahill.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Michael-Cahill.D.2024-11-29"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-17/pq_18",
+      "date": "2025-07-17",
+      "questionType": "oral",
+      "to": {
+        "showAs": "Public Expenditure",
+        "roleType": null,
+        "roleCode": null,
+        "uri": null
+      }
+    }
+  },
+  {
+    "contextDate": "2025-07-17",
+    "question": {
+      "showAs": " 19. Deputy Brendan Smith asked the Minister for Public Expenditure, Infrastructure, Public Service Reform and Digitalisation if he will ensure that the new national development plan sets an enhanced level of ambition for collaborative cross-Border public investment; and if he will make a statement on the matter.  [39837/25] ",
+      "questionNumber": 19,
+      "house": {
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "houseNo": "34"
+      },
+      "debateSection": {
+        "showAs": "National Development Plan",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-17/debate/dbsect_16",
+        "debateSectionId": "dbsect_16",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-17/debate/mul@/dbsect_16.xml"
+          },
+          "pdf": null
+        }
+      },
+      "by": {
+        "showAs": "Brendan Smith",
+        "memberCode": "Brendan-Smith.D.1992-12-14",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Brendan-Smith.D.1992-12-14"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-17/pq_19",
+      "date": "2025-07-17",
+      "questionType": "oral",
+      "to": {
+        "showAs": "Public Expenditure",
+        "roleType": null,
+        "roleCode": null,
+        "uri": null
+      }
+    }
+  },
+  {
+    "contextDate": "2025-07-17",
+    "question": {
+      "showAs": " 78. Deputy Darren O'Rourke asked the Minister for Education and Youth the number of children identified by the NCSE by the February deadline who have yet to be offered a school place for September 2025; the total number of children now with a recommendation for a special class or special school place who have not been offered a school place for September; to outline her efforts to ensure that all children with additional educational needs will have a physical school place and the necessary SET, SNA and other resources and supports in place for September; and if she will make a statement on the matter.  [40610/25] ",
+      "questionNumber": 78,
+      "house": {
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "houseNo": "34"
+      },
+      "debateSection": {
+        "showAs": "Special Educational Needs",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-17/debate/dbsect_18",
+        "debateSectionId": "dbsect_18",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-17/debate/mul@/dbsect_18.xml"
+          },
+          "pdf": null
+        }
+      },
+      "by": {
+        "showAs": "Darren O'Rourke",
+        "memberCode": "Darren-O'Rourke.D.2020-02-08",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Darren-O'Rourke.D.2020-02-08"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-17/pq_78",
+      "date": "2025-07-17",
+      "questionType": "oral",
+      "to": {
+        "showAs": "Education",
+        "roleType": null,
+        "roleCode": null,
+        "uri": null
+      }
+    }
+  },
+  {
+    "contextDate": "2025-07-17",
+    "question": {
+      "showAs": " 80. Deputy Darren O'Rourke asked the Minister for Education and Youth the number of children who applied and paid on time who were refused places on school transport in September 2024; the specific changes that will be made to the school transport system in the 2025-26 school year, in comparison with 2024-25, to ensure that all children who want to avail of the scheme are accommodated; and if she will make a statement on the matter. [40611/25] ",
+      "questionNumber": 80,
+      "house": {
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "houseNo": "34"
+      },
+      "debateSection": {
+        "showAs": "School Transport",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-17/debate/dbsect_19",
+        "debateSectionId": "dbsect_19",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-17/debate/mul@/dbsect_19.xml"
+          },
+          "pdf": null
+        }
+      },
+      "by": {
+        "showAs": "Darren O'Rourke",
+        "memberCode": "Darren-O'Rourke.D.2020-02-08",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Darren-O'Rourke.D.2020-02-08"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-17/pq_80",
+      "date": "2025-07-17",
+      "questionType": "oral",
+      "to": {
+        "showAs": "Education",
+        "roleType": null,
+        "roleCode": null,
+        "uri": null
+      }
+    }
+  },
+  {
+    "contextDate": "2025-07-17",
+    "question": {
+      "showAs": " 81. Deputy Jen Cummins asked the Minister for Education and Youth for an update on implementation of the youth work strategy, opportunities for youth. [39687/25] ",
+      "questionNumber": 81,
+      "house": {
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "houseNo": "34"
+      },
+      "debateSection": {
+        "showAs": "Departmental Strategies",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-17/debate/dbsect_20",
+        "debateSectionId": "dbsect_20",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-17/debate/mul@/dbsect_20.xml"
+          },
+          "pdf": null
+        }
+      },
+      "by": {
+        "showAs": "Jen Cummins",
+        "memberCode": "Jen-Cummins.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Jen-Cummins.D.2024-11-29"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-17/pq_81",
+      "date": "2025-07-17",
+      "questionType": "oral",
+      "to": {
+        "showAs": "Education",
+        "roleType": null,
+        "roleCode": null,
+        "uri": null
+      }
+    }
+  },
+  {
+    "contextDate": "2025-07-17",
+    "question": {
+      "showAs": " 82. Deputy Roderic O'Gorman asked the Minister for Education and Youth if children attending a school (details supplied) who have applied for a place in a special school and have a letter from the NCSE that they are entitled to such a place will get a place in one of the two new autism classes being established in the school; and if she will make a statement on the matter. [40455/25] ",
+      "questionNumber": 82,
+      "house": {
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "houseNo": "34"
+      },
+      "debateSection": {
+        "showAs": "Special Educational Needs",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-17/debate/dbsect_21",
+        "debateSectionId": "dbsect_21",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-17/debate/mul@/dbsect_21.xml"
+          },
+          "pdf": null
+        }
+      },
+      "by": {
+        "showAs": "Roderic O'Gorman",
+        "memberCode": "Roderic-O'Gorman.D.2020-02-08",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Roderic-O'Gorman.D.2020-02-08"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-17/pq_82",
+      "date": "2025-07-17",
+      "questionType": "oral",
+      "to": {
+        "showAs": "Education",
+        "roleType": null,
+        "roleCode": null,
+        "uri": null
+      }
+    }
+  },
+  {
+    "contextDate": "2025-07-17",
+    "question": {
+      "showAs": " 83. Deputy Ryan O'Meara asked the Minister for Education and Youth if she will consider introducing a three-week mandatory Gaeltacht course for every student studying Irish at leaving certificate level; and if she will make a statement on the matter.  [40612/25] ",
+      "questionNumber": 83,
+      "house": {
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "houseNo": "34"
+      },
+      "debateSection": {
+        "showAs": "Irish Language",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-17/debate/dbsect_22",
+        "debateSectionId": "dbsect_22",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-17/debate/mul@/dbsect_22.xml"
+          },
+          "pdf": null
+        }
+      },
+      "by": {
+        "showAs": "Ryan O'Meara",
+        "memberCode": "Ryan-O'Meara.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ryan-O'Meara.D.2024-11-29"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-17/pq_83",
+      "date": "2025-07-17",
+      "questionType": "oral",
+      "to": {
+        "showAs": "Education",
+        "roleType": null,
+        "roleCode": null,
+        "uri": null
+      }
+    }
+  },
+  {
+    "contextDate": "2025-07-17",
+    "question": {
+      "showAs": " 85. Deputy James O'Connor asked the Minister for Education and Youth the status of school building projects across Cork county of which her Department is aware, in tabular form; the stage of the process they are currently at; and if she will make a statement on the matter. [40175/25] ",
+      "questionNumber": 85,
+      "house": {
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "houseNo": "34"
+      },
+      "debateSection": {
+        "showAs": "Schools Building Projects",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-17/debate/dbsect_25",
+        "debateSectionId": "dbsect_25",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-17/debate/mul@/dbsect_25.xml"
+          },
+          "pdf": null
+        }
+      },
+      "by": {
+        "showAs": "James O'Connor",
+        "memberCode": "James-O'Connor.D.2020-02-08",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/James-O'Connor.D.2020-02-08"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-17/pq_85",
+      "date": "2025-07-17",
+      "questionType": "oral",
+      "to": {
+        "showAs": "Education",
+        "roleType": null,
+        "roleCode": null,
+        "uri": null
+      }
+    }
+  },
+  {
+    "contextDate": "2025-07-17",
+    "question": {
+      "showAs": " 86. Deputy Paul McAuliffe asked the Minister for Education and Youth the number of sanctioned classes nationally for children with additional needs, as announced earlier this year; the number hoped to be operational in autumn 2025 in the Dublin North-West constituency; and if she will make a statement on the matter.  [40000/25] ",
+      "questionNumber": 86,
+      "house": {
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "houseNo": "34"
+      },
+      "debateSection": {
+        "showAs": "Special Educational Needs",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-17/debate/dbsect_26",
+        "debateSectionId": "dbsect_26",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-17/debate/mul@/dbsect_26.xml"
+          },
+          "pdf": null
+        }
+      },
+      "by": {
+        "showAs": "Paul McAuliffe",
+        "memberCode": "Paul-McAuliffe.D.2020-02-08",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-McAuliffe.D.2020-02-08"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-17/pq_86",
+      "date": "2025-07-17",
+      "questionType": "oral",
+      "to": {
+        "showAs": "Education",
+        "roleType": null,
+        "roleCode": null,
+        "uri": null
+      }
+    }
+  },
+  {
+    "contextDate": "2025-07-17",
+    "question": {
+      "showAs": " 87. Deputy Pádraig O'Sullivan asked the Minister for Education and Youth if she will provide a list of all capital projects currently underway in Cork city and county, in tabular form; the stages the various projects are at; the amount of capital estimated and spent on each project to date; and if she will make a statement on the matter. [38583/25] ",
+      "questionNumber": 87,
+      "house": {
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "houseNo": "34"
+      },
+      "debateSection": {
+        "showAs": "Schools Building Projects",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-17/debate/dbsect_25",
+        "debateSectionId": "dbsect_25",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-17/debate/mul@/dbsect_25.xml"
+          },
+          "pdf": null
+        }
+      },
+      "by": {
+        "showAs": "Pádraig O'Sullivan",
+        "memberCode": "Pádraig-O'Sullivan.D.2019-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Pádraig-O'Sullivan.D.2019-11-29"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-17/pq_87",
+      "date": "2025-07-17",
+      "questionType": "oral",
+      "to": {
+        "showAs": "Education",
+        "roleType": null,
+        "roleCode": null,
+        "uri": null
+      }
+    }
+  },
+  {
+    "contextDate": "2025-07-17",
+    "question": {
+      "showAs": " 88. Deputy Barry Ward asked the Minister for Education and Youth the position regarding the percentage of eligible schools that have completed or commenced work to install solar panels under the free scheme for schools; if she will consider providing funding to allow private schools to take part in this scheme; and if she will make a statement on the matter. [38827/25] ",
+      "questionNumber": 88,
+      "house": {
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "houseNo": "34"
+      },
+      "debateSection": {
+        "showAs": "Energy Conservation",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-17/debate/dbsect_27",
+        "debateSectionId": "dbsect_27",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-17/debate/mul@/dbsect_27.xml"
+          },
+          "pdf": null
+        }
+      },
+      "by": {
+        "showAs": "Barry Ward",
+        "memberCode": "Barry-Ward.S.2020-03-30",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Barry-Ward.S.2020-03-30"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-17/pq_88",
+      "date": "2025-07-17",
+      "questionType": "oral",
+      "to": {
+        "showAs": "Education",
+        "roleType": null,
+        "roleCode": null,
+        "uri": null
+      }
+    }
+  },
+  {
+    "contextDate": "2025-07-17",
+    "question": {
+      "showAs": " 90. Deputy Sorca Clarke asked the Minister for Education and Youth to provide an updated list of all primary and post-primary schools that have been sanctioned for an ASD class for the 2025-26 school year. [39382/25] ",
+      "questionNumber": 90,
+      "house": {
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "houseNo": "34"
+      },
+      "debateSection": {
+        "showAs": "Special Educational Needs",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-17/debate/dbsect_24",
+        "debateSectionId": "dbsect_24",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-17/debate/mul@/dbsect_24.xml"
+          },
+          "pdf": null
+        }
+      },
+      "by": {
+        "showAs": "Sorca Clarke",
+        "memberCode": "Sorca-Clarke.D.2020-02-08",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Sorca-Clarke.D.2020-02-08"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-17/pq_90",
+      "date": "2025-07-17",
+      "questionType": "oral",
+      "to": {
+        "showAs": "Education",
+        "roleType": null,
+        "roleCode": null,
+        "uri": null
+      }
+    }
+  },
+  {
+    "contextDate": "2025-07-17",
+    "question": {
+      "showAs": " 91. Deputy Colm Burke asked the Minister for Education and Youth if she will provide an update on the progress of the €5 million pilot programme of counselling and well-being and mental health supports for the academic years 2024-25; to provide a breakdown of the progress in Cork in particular; if there are plans to expand the programme; and if she will make a statement on the matter. [40008/25] ",
+      "questionNumber": 91,
+      "house": {
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "houseNo": "34"
+      },
+      "debateSection": {
+        "showAs": "Mental Health Services",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-17/debate/dbsect_28",
+        "debateSectionId": "dbsect_28",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-17/debate/mul@/dbsect_28.xml"
+          },
+          "pdf": null
+        }
+      },
+      "by": {
+        "showAs": "Colm Burke",
+        "memberCode": "Colm-Burke.S.2011-05-25",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Colm-Burke.S.2011-05-25"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-17/pq_91",
+      "date": "2025-07-17",
+      "questionType": "oral",
+      "to": {
+        "showAs": "Education",
+        "roleType": null,
+        "roleCode": null,
+        "uri": null
+      }
+    }
+  },
+  {
+    "contextDate": "2025-07-17",
+    "question": {
+      "showAs": " 93. Deputy Edward Timmins asked the Minister for Education and Youth further to the roll out and installation of solar panels in schools, if there are plans to work the ESB in relation to prioritising schools for installation or adjusting the payment rate for schools without smart metres to sell electricity back into the grid (details supplied); and if she will make a statement on the matter. [40201/25] ",
+      "questionNumber": 93,
+      "house": {
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "houseNo": "34"
+      },
+      "debateSection": {
+        "showAs": "Departmental Schemes",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-17/debate/dbsect_29",
+        "debateSectionId": "dbsect_29",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-17/debate/mul@/dbsect_29.xml"
+          },
+          "pdf": null
+        }
+      },
+      "by": {
+        "showAs": "Edward Timmins",
+        "memberCode": "Edward-Timmins.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Edward-Timmins.D.2024-11-29"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-17/pq_93",
+      "date": "2025-07-17",
+      "questionType": "oral",
+      "to": {
+        "showAs": "Education",
+        "roleType": null,
+        "roleCode": null,
+        "uri": null
+      }
+    }
+  },
+  {
+    "contextDate": "2025-07-17",
+    "question": {
+      "showAs": " 94. Deputy Edward Timmins asked the Minister for Education and Youth if there are plans to review the transition year programme to include practical life skills as part of the compulsory requirement across all schools: personal legal rights, household management, personal finance, taxation and social welfare and the driver theory test; and if she will make a statement on the matter. [40202/25] ",
+      "questionNumber": 94,
+      "house": {
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "houseNo": "34"
+      },
+      "debateSection": {
+        "showAs": "School Curriculum",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-17/debate/dbsect_30",
+        "debateSectionId": "dbsect_30",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-17/debate/mul@/dbsect_30.xml"
+          },
+          "pdf": null
+        }
+      },
+      "by": {
+        "showAs": "Edward Timmins",
+        "memberCode": "Edward-Timmins.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Edward-Timmins.D.2024-11-29"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-17/pq_94",
+      "date": "2025-07-17",
+      "questionType": "oral",
+      "to": {
+        "showAs": "Education",
+        "roleType": null,
+        "roleCode": null,
+        "uri": null
+      }
+    }
+  },
+  {
+    "contextDate": "2025-07-17",
+    "question": {
+      "showAs": " 95. Deputy Darren O'Rourke asked the Minister for Education and Youth if she recognises that the introduction of one-to-one digital policies in schools can put an impossible financial burden on some parents; the measures she is taking to support parents and students who are unable to afford digital devices in one-to-one digital schools; and if she will make a statement on the matter. [40113/25] ",
+      "questionNumber": 95,
+      "house": {
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "houseNo": "34"
+      },
+      "debateSection": {
+        "showAs": "Information and Communications Technology",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-17/debate/dbsect_31",
+        "debateSectionId": "dbsect_31",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-17/debate/mul@/dbsect_31.xml"
+          },
+          "pdf": null
+        }
+      },
+      "by": {
+        "showAs": "Darren O'Rourke",
+        "memberCode": "Darren-O'Rourke.D.2020-02-08",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Darren-O'Rourke.D.2020-02-08"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-07-17/pq_95",
+      "date": "2025-07-17",
+      "questionType": "oral",
+      "to": {
+        "showAs": "Education",
+        "roleType": null,
+        "roleCode": null,
+        "uri": null
+      }
+    }
+  }
+]

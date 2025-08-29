@@ -2,40 +2,40 @@
   {
     "question": {
       "questionType": "oral",
+      "questionNumber": 1,
+      "by": {
+        "memberCode": "Maeve-O'Connell.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Maeve-O'Connell.D.2024-11-29",
+        "showAs": "Maeve O'Connell"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-05-07/pq_1",
+      "house": {
+        "chamberType": "house",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "houseNo": "34"
+      },
+      "date": "2025-05-07",
       "debateSection": {
+        "debateSectionId": "dbsect_13",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-05-07/debate/dbsect_13",
         "formats": {
           "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-05-07/debate/mul@/dbsect_13.xml"
           }
         },
-        "showAs": "Central Statistics Office",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-05-07/debate/dbsect_13",
-        "debateSectionId": "dbsect_13"
-      },
-      "house": {
-        "committeeCode": "",
-        "houseCode": "dail",
-        "showAs": "34th Dáil",
-        "houseNo": "34",
-        "chamberType": "house",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+        "showAs": "Central Statistics Office"
       },
       "showAs": " 1. Deputy Maeve O'Connell asked the Taoiseach to report on any ongoing or planned negotiations for the introduction of a new NACE code, designed for classifying businesses and used for statistical purposes, a subset of NACE 0149 breeding of other animals, to uniquely identify dog breeding in Ireland. [15834/25] ",
-      "date": "2025-05-07",
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-05-07/pq_1",
       "to": {
-        "roleType": null,
+        "roleCode": null,
         "uri": null,
-        "showAs": "Taoiseach",
-        "roleCode": null
-      },
-      "by": {
-        "memberCode": "Maeve-O'Connell.D.2024-11-29",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Maeve-O'Connell.D.2024-11-29",
-        "showAs": "Maeve O'Connell"
-      },
-      "questionNumber": 1
+        "roleType": null,
+        "showAs": "Taoiseach"
+      }
     },
     "contextDate": "2025-05-07"
   },

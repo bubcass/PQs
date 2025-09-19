@@ -2,640 +2,640 @@
   {
     "contextDate": "2025-09-17",
     "question": {
-      "date": "2025-09-17",
-      "showAs": " 1. Deputy Mary Lou McDonald asked the Taoiseach when the Cabinet committee on housing will next meet. [46216/25] ",
       "questionNumber": 1,
+      "house": {
+        "houseCode": "dail",
+        "houseNo": "34",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-17/pq_1",
       "to": {
-        "uri": null,
-        "showAs": "Taoiseach",
         "roleType": null,
-        "roleCode": null
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Taoiseach"
       },
-      "house": {
-        "houseCode": "dail",
-        "showAs": "34th Dáil",
-        "houseNo": "34",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "committeeCode": "",
-        "chamberType": "house"
-      },
-      "by": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Mary-Lou-McDonald.D.2011-03-09",
-        "memberCode": "Mary-Lou-McDonald.D.2011-03-09",
-        "showAs": "Mary Lou McDonald"
-      },
-      "questionType": "oral",
       "debateSection": {
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-17/debate/dbsect_12",
-        "showAs": "Cabinet Committees",
         "debateSectionId": "dbsect_12",
         "formats": {
           "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-17/debate/mul@/dbsect_12.xml"
           }
-        }
+        },
+        "showAs": "Cabinet Committees"
+      },
+      "questionType": "oral",
+      "date": "2025-09-17",
+      "showAs": " 1. Deputy Mary Lou McDonald asked the Taoiseach when the Cabinet committee on housing will next meet. [46216/25] ",
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Mary-Lou-McDonald.D.2011-03-09",
+        "showAs": "Mary Lou McDonald",
+        "memberCode": "Mary-Lou-McDonald.D.2011-03-09"
       }
     }
   },
   {
     "contextDate": "2025-09-17",
     "question": {
-      "date": "2025-09-17",
-      "showAs": " 2. Deputy John Connolly asked the Taoiseach when the Cabinet committee on housing will next meet. [46878/25] ",
       "questionNumber": 2,
+      "house": {
+        "houseCode": "dail",
+        "houseNo": "34",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-17/pq_2",
       "to": {
-        "uri": null,
-        "showAs": "Taoiseach",
         "roleType": null,
-        "roleCode": null
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Taoiseach"
       },
-      "house": {
-        "houseCode": "dail",
-        "showAs": "34th Dáil",
-        "houseNo": "34",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "committeeCode": "",
-        "chamberType": "house"
-      },
-      "by": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/John-Connolly.D.2024-11-29",
-        "memberCode": "John-Connolly.D.2024-11-29",
-        "showAs": "John Connolly"
-      },
-      "questionType": "oral",
       "debateSection": {
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-17/debate/dbsect_12",
-        "showAs": "Cabinet Committees",
         "debateSectionId": "dbsect_12",
         "formats": {
           "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-17/debate/mul@/dbsect_12.xml"
           }
-        }
+        },
+        "showAs": "Cabinet Committees"
+      },
+      "questionType": "oral",
+      "date": "2025-09-17",
+      "showAs": " 2. Deputy John Connolly asked the Taoiseach when the Cabinet committee on housing will next meet. [46878/25] ",
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/John-Connolly.D.2024-11-29",
+        "showAs": "John Connolly",
+        "memberCode": "John-Connolly.D.2024-11-29"
       }
     }
   },
   {
     "contextDate": "2025-09-17",
     "question": {
-      "date": "2025-09-17",
-      "showAs": " 3. Deputy Séamus McGrath asked the Taoiseach when the Cabinet committee on housing will next meet. [46845/25] ",
       "questionNumber": 3,
+      "house": {
+        "houseCode": "dail",
+        "houseNo": "34",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-17/pq_3",
       "to": {
-        "uri": null,
-        "showAs": "Taoiseach",
         "roleType": null,
-        "roleCode": null
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Taoiseach"
       },
-      "house": {
-        "houseCode": "dail",
-        "showAs": "34th Dáil",
-        "houseNo": "34",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "committeeCode": "",
-        "chamberType": "house"
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-17/debate/dbsect_12",
+        "debateSectionId": "dbsect_12",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-17/debate/mul@/dbsect_12.xml"
+          }
+        },
+        "showAs": "Cabinet Committees"
       },
+      "questionType": "oral",
+      "date": "2025-09-17",
+      "showAs": " 3. Deputy Séamus McGrath asked the Taoiseach when the Cabinet committee on housing will next meet. [46845/25] ",
       "by": {
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Séamus-McGrath.D.2024-11-29",
-        "memberCode": "Séamus-McGrath.D.2024-11-29",
-        "showAs": "Séamus McGrath"
-      },
-      "questionType": "oral",
-      "debateSection": {
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-17/debate/dbsect_12",
-        "showAs": "Cabinet Committees",
-        "debateSectionId": "dbsect_12",
-        "formats": {
-          "pdf": null,
-          "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-17/debate/mul@/dbsect_12.xml"
-          }
-        }
+        "showAs": "Séamus McGrath",
+        "memberCode": "Séamus-McGrath.D.2024-11-29"
       }
     }
   },
   {
     "contextDate": "2025-09-17",
     "question": {
-      "date": "2025-09-17",
-      "showAs": " 4. Deputy Tom Brabazon asked the Taoiseach when the Cabinet committee on housing will next meet. [46850/25] ",
       "questionNumber": 4,
+      "house": {
+        "houseCode": "dail",
+        "houseNo": "34",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-17/pq_4",
       "to": {
-        "uri": null,
-        "showAs": "Taoiseach",
         "roleType": null,
-        "roleCode": null
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Taoiseach"
       },
-      "house": {
-        "houseCode": "dail",
-        "showAs": "34th Dáil",
-        "houseNo": "34",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "committeeCode": "",
-        "chamberType": "house"
-      },
-      "by": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tom-Brabazon.D.2024-11-29",
-        "memberCode": "Tom-Brabazon.D.2024-11-29",
-        "showAs": "Tom Brabazon"
-      },
-      "questionType": "oral",
       "debateSection": {
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-17/debate/dbsect_12",
-        "showAs": "Cabinet Committees",
         "debateSectionId": "dbsect_12",
         "formats": {
           "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-17/debate/mul@/dbsect_12.xml"
           }
-        }
+        },
+        "showAs": "Cabinet Committees"
+      },
+      "questionType": "oral",
+      "date": "2025-09-17",
+      "showAs": " 4. Deputy Tom Brabazon asked the Taoiseach when the Cabinet committee on housing will next meet. [46850/25] ",
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tom-Brabazon.D.2024-11-29",
+        "showAs": "Tom Brabazon",
+        "memberCode": "Tom-Brabazon.D.2024-11-29"
       }
     }
   },
   {
     "contextDate": "2025-09-17",
     "question": {
-      "date": "2025-09-17",
-      "showAs": " 5. Deputy Martin Daly asked the Taoiseach when the Cabinet committee on housing will next meet. [46854/25] ",
       "questionNumber": 5,
+      "house": {
+        "houseCode": "dail",
+        "houseNo": "34",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-17/pq_5",
       "to": {
-        "uri": null,
-        "showAs": "Taoiseach",
         "roleType": null,
-        "roleCode": null
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Taoiseach"
       },
-      "house": {
-        "houseCode": "dail",
-        "showAs": "34th Dáil",
-        "houseNo": "34",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "committeeCode": "",
-        "chamberType": "house"
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-17/debate/dbsect_12",
+        "debateSectionId": "dbsect_12",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-17/debate/mul@/dbsect_12.xml"
+          }
+        },
+        "showAs": "Cabinet Committees"
       },
+      "questionType": "oral",
+      "date": "2025-09-17",
+      "showAs": " 5. Deputy Martin Daly asked the Taoiseach when the Cabinet committee on housing will next meet. [46854/25] ",
       "by": {
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Martin-Daly.D.2024-11-29",
-        "memberCode": "Martin-Daly.D.2024-11-29",
-        "showAs": "Martin Daly"
-      },
-      "questionType": "oral",
-      "debateSection": {
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-17/debate/dbsect_12",
-        "showAs": "Cabinet Committees",
-        "debateSectionId": "dbsect_12",
-        "formats": {
-          "pdf": null,
-          "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-17/debate/mul@/dbsect_12.xml"
-          }
-        }
+        "showAs": "Martin Daly",
+        "memberCode": "Martin-Daly.D.2024-11-29"
       }
     }
   },
   {
     "contextDate": "2025-09-17",
     "question": {
-      "date": "2025-09-17",
-      "showAs": " 6. Deputy Ivana Bacik asked the Taoiseach when the Cabinet committee on housing will next meet. [48430/25] ",
       "questionNumber": 6,
+      "house": {
+        "houseCode": "dail",
+        "houseNo": "34",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-17/pq_6",
       "to": {
-        "uri": null,
-        "showAs": "Taoiseach",
         "roleType": null,
-        "roleCode": null
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Taoiseach"
       },
-      "house": {
-        "houseCode": "dail",
-        "showAs": "34th Dáil",
-        "houseNo": "34",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "committeeCode": "",
-        "chamberType": "house"
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-17/debate/dbsect_12",
+        "debateSectionId": "dbsect_12",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-17/debate/mul@/dbsect_12.xml"
+          }
+        },
+        "showAs": "Cabinet Committees"
       },
+      "questionType": "oral",
+      "date": "2025-09-17",
+      "showAs": " 6. Deputy Ivana Bacik asked the Taoiseach when the Cabinet committee on housing will next meet. [48430/25] ",
       "by": {
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ivana-Bacik.S.2007-07-23",
-        "memberCode": "Ivana-Bacik.S.2007-07-23",
-        "showAs": "Ivana Bacik"
-      },
-      "questionType": "oral",
-      "debateSection": {
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-17/debate/dbsect_12",
-        "showAs": "Cabinet Committees",
-        "debateSectionId": "dbsect_12",
-        "formats": {
-          "pdf": null,
-          "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-17/debate/mul@/dbsect_12.xml"
-          }
-        }
+        "showAs": "Ivana Bacik",
+        "memberCode": "Ivana-Bacik.S.2007-07-23"
       }
     }
   },
   {
     "contextDate": "2025-09-17",
     "question": {
-      "date": "2025-09-17",
-      "showAs": " 7. Deputy James Geoghegan asked the Taoiseach when the Cabinet committee on housing will next meet. [48477/25] ",
       "questionNumber": 7,
+      "house": {
+        "houseCode": "dail",
+        "houseNo": "34",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-17/pq_7",
       "to": {
-        "uri": null,
-        "showAs": "Taoiseach",
         "roleType": null,
-        "roleCode": null
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Taoiseach"
       },
-      "house": {
-        "houseCode": "dail",
-        "showAs": "34th Dáil",
-        "houseNo": "34",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "committeeCode": "",
-        "chamberType": "house"
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-17/debate/dbsect_12",
+        "debateSectionId": "dbsect_12",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-17/debate/mul@/dbsect_12.xml"
+          }
+        },
+        "showAs": "Cabinet Committees"
       },
+      "questionType": "oral",
+      "date": "2025-09-17",
+      "showAs": " 7. Deputy James Geoghegan asked the Taoiseach when the Cabinet committee on housing will next meet. [48477/25] ",
       "by": {
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/James-Geoghegan.D.2024-11-29",
-        "memberCode": "James-Geoghegan.D.2024-11-29",
-        "showAs": "James Geoghegan"
-      },
-      "questionType": "oral",
-      "debateSection": {
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-17/debate/dbsect_12",
-        "showAs": "Cabinet Committees",
-        "debateSectionId": "dbsect_12",
-        "formats": {
-          "pdf": null,
-          "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-17/debate/mul@/dbsect_12.xml"
-          }
-        }
+        "showAs": "James Geoghegan",
+        "memberCode": "James-Geoghegan.D.2024-11-29"
       }
     }
   },
   {
     "contextDate": "2025-09-17",
     "question": {
-      "date": "2025-09-17",
-      "showAs": " 8. Deputy Ruairí Ó Murchú asked the Taoiseach when the Cabinet committee on housing will next meet. [48847/25] ",
       "questionNumber": 8,
+      "house": {
+        "houseCode": "dail",
+        "houseNo": "34",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-17/pq_8",
       "to": {
-        "uri": null,
-        "showAs": "Taoiseach",
         "roleType": null,
-        "roleCode": null
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Taoiseach"
       },
-      "house": {
-        "houseCode": "dail",
-        "showAs": "34th Dáil",
-        "houseNo": "34",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "committeeCode": "",
-        "chamberType": "house"
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-17/debate/dbsect_12",
+        "debateSectionId": "dbsect_12",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-17/debate/mul@/dbsect_12.xml"
+          }
+        },
+        "showAs": "Cabinet Committees"
       },
+      "questionType": "oral",
+      "date": "2025-09-17",
+      "showAs": " 8. Deputy Ruairí Ó Murchú asked the Taoiseach when the Cabinet committee on housing will next meet. [48847/25] ",
       "by": {
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruairí-Ó-Murchú.D.2020-02-08",
-        "memberCode": "Ruairí-Ó-Murchú.D.2020-02-08",
-        "showAs": "Ruairí Ó Murchú"
-      },
-      "questionType": "oral",
-      "debateSection": {
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-17/debate/dbsect_12",
-        "showAs": "Cabinet Committees",
-        "debateSectionId": "dbsect_12",
-        "formats": {
-          "pdf": null,
-          "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-17/debate/mul@/dbsect_12.xml"
-          }
-        }
+        "showAs": "Ruairí Ó Murchú",
+        "memberCode": "Ruairí-Ó-Murchú.D.2020-02-08"
       }
     }
   },
   {
     "contextDate": "2025-09-17",
     "question": {
-      "date": "2025-09-17",
-      "showAs": " 9. Deputy Mark Ward asked the Taoiseach when the Cabinet committee on housing will next meet. [48902/25] ",
       "questionNumber": 9,
+      "house": {
+        "houseCode": "dail",
+        "houseNo": "34",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-17/pq_9",
       "to": {
-        "uri": null,
-        "showAs": "Taoiseach",
         "roleType": null,
-        "roleCode": null
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Taoiseach"
       },
-      "house": {
-        "houseCode": "dail",
-        "showAs": "34th Dáil",
-        "houseNo": "34",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "committeeCode": "",
-        "chamberType": "house"
-      },
-      "by": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Mark-Ward.D.2019-11-29",
-        "memberCode": "Mark-Ward.D.2019-11-29",
-        "showAs": "Mark Ward"
-      },
-      "questionType": "oral",
       "debateSection": {
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-17/debate/dbsect_12",
-        "showAs": "Cabinet Committees",
         "debateSectionId": "dbsect_12",
         "formats": {
           "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-17/debate/mul@/dbsect_12.xml"
           }
-        }
+        },
+        "showAs": "Cabinet Committees"
+      },
+      "questionType": "oral",
+      "date": "2025-09-17",
+      "showAs": " 9. Deputy Mark Ward asked the Taoiseach when the Cabinet committee on housing will next meet. [48902/25] ",
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Mark-Ward.D.2019-11-29",
+        "showAs": "Mark Ward",
+        "memberCode": "Mark-Ward.D.2019-11-29"
       }
     }
   },
   {
     "contextDate": "2025-09-17",
     "question": {
-      "date": "2025-09-17",
-      "showAs": " 10. Deputy Mary Lou McDonald asked the Taoiseach when the Cabinet committee on children and education will meet next. [46217/25] ",
       "questionNumber": 10,
+      "house": {
+        "houseCode": "dail",
+        "houseNo": "34",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-17/pq_10",
       "to": {
-        "uri": null,
-        "showAs": "Taoiseach",
         "roleType": null,
-        "roleCode": null
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Taoiseach"
       },
-      "house": {
-        "houseCode": "dail",
-        "showAs": "34th Dáil",
-        "houseNo": "34",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "committeeCode": "",
-        "chamberType": "house"
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-17/debate/dbsect_13",
+        "debateSectionId": "dbsect_13",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-17/debate/mul@/dbsect_13.xml"
+          }
+        },
+        "showAs": "Cabinet Committees"
       },
+      "questionType": "oral",
+      "date": "2025-09-17",
+      "showAs": " 10. Deputy Mary Lou McDonald asked the Taoiseach when the Cabinet committee on children and education will meet next. [46217/25] ",
       "by": {
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Mary-Lou-McDonald.D.2011-03-09",
-        "memberCode": "Mary-Lou-McDonald.D.2011-03-09",
-        "showAs": "Mary Lou McDonald"
-      },
-      "questionType": "oral",
-      "debateSection": {
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-17/debate/dbsect_13",
-        "showAs": "Cabinet Committees",
-        "debateSectionId": "dbsect_13",
-        "formats": {
-          "pdf": null,
-          "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-17/debate/mul@/dbsect_13.xml"
-          }
-        }
+        "showAs": "Mary Lou McDonald",
+        "memberCode": "Mary-Lou-McDonald.D.2011-03-09"
       }
     }
   },
   {
     "contextDate": "2025-09-17",
     "question": {
-      "date": "2025-09-17",
-      "showAs": " 11. Deputy John Connolly asked the Taoiseach when the Cabinet committee on children and education will next meet. [46876/25] ",
       "questionNumber": 11,
+      "house": {
+        "houseCode": "dail",
+        "houseNo": "34",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-17/pq_11",
       "to": {
-        "uri": null,
-        "showAs": "Taoiseach",
         "roleType": null,
-        "roleCode": null
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Taoiseach"
       },
-      "house": {
-        "houseCode": "dail",
-        "showAs": "34th Dáil",
-        "houseNo": "34",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "committeeCode": "",
-        "chamberType": "house"
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-17/debate/dbsect_13",
+        "debateSectionId": "dbsect_13",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-17/debate/mul@/dbsect_13.xml"
+          }
+        },
+        "showAs": "Cabinet Committees"
       },
+      "questionType": "oral",
+      "date": "2025-09-17",
+      "showAs": " 11. Deputy John Connolly asked the Taoiseach when the Cabinet committee on children and education will next meet. [46876/25] ",
       "by": {
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/John-Connolly.D.2024-11-29",
-        "memberCode": "John-Connolly.D.2024-11-29",
-        "showAs": "John Connolly"
-      },
-      "questionType": "oral",
-      "debateSection": {
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-17/debate/dbsect_13",
-        "showAs": "Cabinet Committees",
-        "debateSectionId": "dbsect_13",
-        "formats": {
-          "pdf": null,
-          "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-17/debate/mul@/dbsect_13.xml"
-          }
-        }
+        "showAs": "John Connolly",
+        "memberCode": "John-Connolly.D.2024-11-29"
       }
     }
   },
   {
     "contextDate": "2025-09-17",
     "question": {
-      "date": "2025-09-17",
-      "showAs": " 12. Deputy Aisling Dempsey asked the Taoiseach when the Cabinet committee on children and education will next meet. [46879/25] ",
       "questionNumber": 12,
+      "house": {
+        "houseCode": "dail",
+        "houseNo": "34",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-17/pq_12",
       "to": {
-        "uri": null,
-        "showAs": "Taoiseach",
         "roleType": null,
-        "roleCode": null
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Taoiseach"
       },
-      "house": {
-        "houseCode": "dail",
-        "showAs": "34th Dáil",
-        "houseNo": "34",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "committeeCode": "",
-        "chamberType": "house"
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-17/debate/dbsect_13",
+        "debateSectionId": "dbsect_13",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-17/debate/mul@/dbsect_13.xml"
+          }
+        },
+        "showAs": "Cabinet Committees"
       },
+      "questionType": "oral",
+      "date": "2025-09-17",
+      "showAs": " 12. Deputy Aisling Dempsey asked the Taoiseach when the Cabinet committee on children and education will next meet. [46879/25] ",
       "by": {
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Aisling-Dempsey.D.2024-11-29",
-        "memberCode": "Aisling-Dempsey.D.2024-11-29",
-        "showAs": "Aisling Dempsey"
-      },
-      "questionType": "oral",
-      "debateSection": {
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-17/debate/dbsect_13",
-        "showAs": "Cabinet Committees",
-        "debateSectionId": "dbsect_13",
-        "formats": {
-          "pdf": null,
-          "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-17/debate/mul@/dbsect_13.xml"
-          }
-        }
+        "showAs": "Aisling Dempsey",
+        "memberCode": "Aisling-Dempsey.D.2024-11-29"
       }
     }
   },
   {
     "contextDate": "2025-09-17",
     "question": {
-      "date": "2025-09-17",
-      "showAs": " 13. Deputy Catherine Ardagh asked the Taoiseach when the Cabinet committee on children and education will next meet. [46847/25] ",
       "questionNumber": 13,
+      "house": {
+        "houseCode": "dail",
+        "houseNo": "34",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-17/pq_13",
       "to": {
-        "uri": null,
-        "showAs": "Taoiseach",
         "roleType": null,
-        "roleCode": null
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Taoiseach"
       },
-      "house": {
-        "houseCode": "dail",
-        "showAs": "34th Dáil",
-        "houseNo": "34",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "committeeCode": "",
-        "chamberType": "house"
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-17/debate/dbsect_13",
+        "debateSectionId": "dbsect_13",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-17/debate/mul@/dbsect_13.xml"
+          }
+        },
+        "showAs": "Cabinet Committees"
       },
+      "questionType": "oral",
+      "date": "2025-09-17",
+      "showAs": " 13. Deputy Catherine Ardagh asked the Taoiseach when the Cabinet committee on children and education will next meet. [46847/25] ",
       "by": {
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Catherine-Ardagh.S.2016-04-25",
-        "memberCode": "Catherine-Ardagh.S.2016-04-25",
-        "showAs": "Catherine Ardagh"
-      },
-      "questionType": "oral",
-      "debateSection": {
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-17/debate/dbsect_13",
-        "showAs": "Cabinet Committees",
-        "debateSectionId": "dbsect_13",
-        "formats": {
-          "pdf": null,
-          "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-17/debate/mul@/dbsect_13.xml"
-          }
-        }
+        "showAs": "Catherine Ardagh",
+        "memberCode": "Catherine-Ardagh.S.2016-04-25"
       }
     }
   },
   {
     "contextDate": "2025-09-17",
     "question": {
-      "date": "2025-09-17",
-      "showAs": " 14. Deputy Tom Brabazon asked the Taoiseach the Cabinet committee on children and education will next meet. [46851/25] ",
       "questionNumber": 14,
+      "house": {
+        "houseCode": "dail",
+        "houseNo": "34",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-17/pq_14",
       "to": {
-        "uri": null,
-        "showAs": "Taoiseach",
         "roleType": null,
-        "roleCode": null
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Taoiseach"
       },
-      "house": {
-        "houseCode": "dail",
-        "showAs": "34th Dáil",
-        "houseNo": "34",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "committeeCode": "",
-        "chamberType": "house"
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-17/debate/dbsect_13",
+        "debateSectionId": "dbsect_13",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-17/debate/mul@/dbsect_13.xml"
+          }
+        },
+        "showAs": "Cabinet Committees"
       },
+      "questionType": "oral",
+      "date": "2025-09-17",
+      "showAs": " 14. Deputy Tom Brabazon asked the Taoiseach the Cabinet committee on children and education will next meet. [46851/25] ",
       "by": {
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tom-Brabazon.D.2024-11-29",
-        "memberCode": "Tom-Brabazon.D.2024-11-29",
-        "showAs": "Tom Brabazon"
-      },
-      "questionType": "oral",
-      "debateSection": {
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-17/debate/dbsect_13",
-        "showAs": "Cabinet Committees",
-        "debateSectionId": "dbsect_13",
-        "formats": {
-          "pdf": null,
-          "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-17/debate/mul@/dbsect_13.xml"
-          }
-        }
+        "showAs": "Tom Brabazon",
+        "memberCode": "Tom-Brabazon.D.2024-11-29"
       }
     }
   },
   {
     "contextDate": "2025-09-17",
     "question": {
-      "date": "2025-09-17",
-      "showAs": " 15. Deputy Erin McGreehan asked the Taoiseach when the Cabinet committee on children and education will next meet. [48518/25] ",
       "questionNumber": 15,
+      "house": {
+        "houseCode": "dail",
+        "houseNo": "34",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-17/pq_15",
       "to": {
-        "uri": null,
-        "showAs": "Taoiseach",
         "roleType": null,
-        "roleCode": null
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Taoiseach"
       },
-      "house": {
-        "houseCode": "dail",
-        "showAs": "34th Dáil",
-        "houseNo": "34",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "committeeCode": "",
-        "chamberType": "house"
-      },
-      "by": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Erin-McGreehan.S.2020-06-29",
-        "memberCode": "Erin-McGreehan.S.2020-06-29",
-        "showAs": "Erin McGreehan"
-      },
-      "questionType": "oral",
       "debateSection": {
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-17/debate/dbsect_13",
-        "showAs": "Cabinet Committees",
         "debateSectionId": "dbsect_13",
         "formats": {
           "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-17/debate/mul@/dbsect_13.xml"
           }
-        }
+        },
+        "showAs": "Cabinet Committees"
+      },
+      "questionType": "oral",
+      "date": "2025-09-17",
+      "showAs": " 15. Deputy Erin McGreehan asked the Taoiseach when the Cabinet committee on children and education will next meet. [48518/25] ",
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Erin-McGreehan.S.2020-06-29",
+        "showAs": "Erin McGreehan",
+        "memberCode": "Erin-McGreehan.S.2020-06-29"
       }
     }
   },
   {
     "contextDate": "2025-09-17",
     "question": {
-      "date": "2025-09-17",
-      "showAs": " 16. Deputy Eoin Hayes asked the Taoiseach when the Cabinet committee on children and education will next meet. [48904/25] ",
       "questionNumber": 16,
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-17/pq_16",
-      "to": {
-        "uri": null,
-        "showAs": "Taoiseach",
-        "roleType": null,
-        "roleCode": null
-      },
       "house": {
         "houseCode": "dail",
-        "showAs": "34th Dáil",
         "houseNo": "34",
+        "chamberType": "house",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
         "committeeCode": "",
-        "chamberType": "house"
+        "showAs": "34th Dáil"
       },
-      "by": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Eoin-Hayes.D.2024-11-29",
-        "memberCode": "Eoin-Hayes.D.2024-11-29",
-        "showAs": "Eoin Hayes"
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-17/pq_16",
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Taoiseach"
       },
-      "questionType": "oral",
       "debateSection": {
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-17/debate/dbsect_13",
-        "showAs": "Cabinet Committees",
         "debateSectionId": "dbsect_13",
         "formats": {
           "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-17/debate/mul@/dbsect_13.xml"
           }
-        }
+        },
+        "showAs": "Cabinet Committees"
+      },
+      "questionType": "oral",
+      "date": "2025-09-17",
+      "showAs": " 16. Deputy Eoin Hayes asked the Taoiseach when the Cabinet committee on children and education will next meet. [48904/25] ",
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Eoin-Hayes.D.2024-11-29",
+        "showAs": "Eoin Hayes",
+        "memberCode": "Eoin-Hayes.D.2024-11-29"
       }
     }
   }

@@ -2,1200 +2,3120 @@
   {
     "contextDate": "2025-09-18",
     "question": {
-      "questionNumber": 1,
-      "date": "2025-09-18",
-      "to": {
-        "uri": null,
-        "roleCode": null,
-        "roleType": null,
-        "showAs": "Defence"
-      },
       "questionType": "oral",
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-18/pq_1",
-      "by": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Donnchadh-Ó-Laoghaire.D.2016-10-03",
-        "showAs": "Donnchadh Ó Laoghaire",
-        "memberCode": "Donnchadh-Ó-Laoghaire.D.2016-10-03"
-      },
+      "date": "2025-09-18",
+      "showAs": " 1. Deputy Donnchadh Ó Laoghaire asked the Tánaiste and Minister for Defence his plans to ensure sufficient funding is provided to resource Joint Induction Training Centre, JITC, Gormanston, Baldonnel, Haulbowline and DFTC infrastructure master plans.  [49298/25] ",
       "house": {
-        "committeeCode": "",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "showAs": "34th Dáil",
         "chamberType": "house",
         "houseNo": "34",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
         "houseCode": "dail"
       },
-      "showAs": " 1. Deputy Donnchadh Ó Laoghaire asked the Tánaiste and Minister for Defence his plans to ensure sufficient funding is provided to resource Joint Induction Training Centre, JITC, Gormanston, Baldonnel, Haulbowline and DFTC infrastructure master plans.  [49298/25] ",
+      "questionNumber": 1,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-18/pq_1",
       "debateSection": {
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/debate/dbsect_3",
-        "debateSectionId": "dbsect_3",
-        "showAs": "Defence Forces",
         "formats": {
-          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/debate/mul@/dbsect_3.xml"
-          }
-        }
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/debate/dbsect_3",
+        "showAs": "Defence Forces",
+        "debateSectionId": "dbsect_3"
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Donnchadh-Ó-Laoghaire.D.2016-10-03",
+        "memberCode": "Donnchadh-Ó-Laoghaire.D.2016-10-03",
+        "showAs": "Donnchadh Ó Laoghaire"
+      },
+      "to": {
+        "uri": null,
+        "showAs": "Defence",
+        "roleType": null,
+        "roleCode": null
       }
     }
   },
   {
     "contextDate": "2025-09-18",
     "question": {
-      "questionNumber": 2,
-      "date": "2025-09-18",
-      "to": {
-        "uri": null,
-        "roleCode": null,
-        "roleType": null,
-        "showAs": "Defence"
-      },
       "questionType": "oral",
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-18/pq_2",
-      "by": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Duncan-Smith.D.2020-02-08",
-        "showAs": "Duncan Smith",
-        "memberCode": "Duncan-Smith.D.2020-02-08"
-      },
+      "date": "2025-09-18",
+      "showAs": " 2. Deputy Duncan Smith asked the Tánaiste and Minister for Defence if pension entitlements will be transferred to the widow of a person (details supplied); and if he will make a statement on the matter.  [49022/25] ",
       "house": {
-        "committeeCode": "",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "showAs": "34th Dáil",
         "chamberType": "house",
         "houseNo": "34",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
         "houseCode": "dail"
       },
-      "showAs": " 2. Deputy Duncan Smith asked the Tánaiste and Minister for Defence if pension entitlements will be transferred to the widow of a person (details supplied); and if he will make a statement on the matter.  [49022/25] ",
+      "questionNumber": 2,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-18/pq_2",
       "debateSection": {
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/debate/dbsect_4",
-        "debateSectionId": "dbsect_4",
-        "showAs": "Pension Provisions",
         "formats": {
-          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/debate/mul@/dbsect_4.xml"
-          }
-        }
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/debate/dbsect_4",
+        "showAs": "Pension Provisions",
+        "debateSectionId": "dbsect_4"
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Duncan-Smith.D.2020-02-08",
+        "memberCode": "Duncan-Smith.D.2020-02-08",
+        "showAs": "Duncan Smith"
+      },
+      "to": {
+        "uri": null,
+        "showAs": "Defence",
+        "roleType": null,
+        "roleCode": null
       }
     }
   },
   {
     "contextDate": "2025-09-18",
     "question": {
-      "questionNumber": 3,
-      "date": "2025-09-18",
-      "to": {
-        "uri": null,
-        "roleCode": null,
-        "roleType": null,
-        "showAs": "Defence"
-      },
       "questionType": "oral",
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-18/pq_3",
-      "by": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Donnchadh-Ó-Laoghaire.D.2016-10-03",
-        "showAs": "Donnchadh Ó Laoghaire",
-        "memberCode": "Donnchadh-Ó-Laoghaire.D.2016-10-03"
-      },
+      "date": "2025-09-18",
+      "showAs": " 3. Deputy Donnchadh Ó Laoghaire asked the Tánaiste and Minister for Defence to provide an update on the national maritime security strategy; and the level of funding that has been committed for 2026 and 2027. [49299/25] ",
       "house": {
-        "committeeCode": "",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "showAs": "34th Dáil",
         "chamberType": "house",
         "houseNo": "34",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
         "houseCode": "dail"
       },
-      "showAs": " 3. Deputy Donnchadh Ó Laoghaire asked the Tánaiste and Minister for Defence to provide an update on the national maritime security strategy; and the level of funding that has been committed for 2026 and 2027. [49299/25] ",
+      "questionNumber": 3,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-18/pq_3",
       "debateSection": {
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/debate/dbsect_5",
-        "debateSectionId": "dbsect_5",
-        "showAs": "Maritime Jurisdiction",
         "formats": {
-          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/debate/mul@/dbsect_5.xml"
-          }
-        }
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/debate/dbsect_5",
+        "showAs": "Maritime Jurisdiction",
+        "debateSectionId": "dbsect_5"
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Donnchadh-Ó-Laoghaire.D.2016-10-03",
+        "memberCode": "Donnchadh-Ó-Laoghaire.D.2016-10-03",
+        "showAs": "Donnchadh Ó Laoghaire"
+      },
+      "to": {
+        "uri": null,
+        "showAs": "Defence",
+        "roleType": null,
+        "roleCode": null
       }
     }
   },
   {
     "contextDate": "2025-09-18",
     "question": {
-      "questionNumber": 4,
-      "date": "2025-09-18",
-      "to": {
-        "uri": null,
-        "roleCode": null,
-        "roleType": null,
-        "showAs": "Defence"
-      },
       "questionType": "oral",
+      "date": "2025-09-18",
+      "showAs": " 4. Deputy Sinéad Gibney asked the Tánaiste and Minister for Defence the consultation he has had with rank and file members of the Defence Forces in relation to the potential changes to their terms and conditions in the general dcheme of the defence (amendment) Bill 2025, which has recently concluded pre legislative scrutiny, particularly in the context of potentially more dangerous operational parameters of non-UN sanctioned missions; and if he will make a statement on the matter.  [49295/25] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "houseCode": "dail"
+      },
+      "questionNumber": 4,
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-18/pq_4",
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/debate/mul@/dbsect_6.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/debate/dbsect_6",
+        "showAs": "Defence Forces",
+        "debateSectionId": "dbsect_6"
+      },
       "by": {
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Sinéad-Gibney.D.2024-11-29",
-        "showAs": "Sinéad Gibney",
-        "memberCode": "Sinéad-Gibney.D.2024-11-29"
+        "memberCode": "Sinéad-Gibney.D.2024-11-29",
+        "showAs": "Sinéad Gibney"
       },
-      "house": {
-        "committeeCode": "",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "showAs": "34th Dáil",
-        "chamberType": "house",
-        "houseNo": "34",
-        "houseCode": "dail"
-      },
-      "showAs": " 4. Deputy Sinéad Gibney asked the Tánaiste and Minister for Defence the consultation he has had with rank and file members of the Defence Forces in relation to the potential changes to their terms and conditions in the general dcheme of the defence (amendment) Bill 2025, which has recently concluded pre legislative scrutiny, particularly in the context of potentially more dangerous operational parameters of non-UN sanctioned missions; and if he will make a statement on the matter.  [49295/25] ",
-      "debateSection": {
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/debate/dbsect_6",
-        "debateSectionId": "dbsect_6",
-        "showAs": "Defence Forces",
-        "formats": {
-          "pdf": null,
-          "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/debate/mul@/dbsect_6.xml"
-          }
-        }
+      "to": {
+        "uri": null,
+        "showAs": "Defence",
+        "roleType": null,
+        "roleCode": null
       }
     }
   },
   {
     "contextDate": "2025-09-18",
     "question": {
-      "questionNumber": 5,
-      "date": "2025-09-18",
-      "to": {
-        "uri": null,
-        "roleCode": null,
-        "roleType": null,
-        "showAs": "Defence"
-      },
       "questionType": "oral",
+      "date": "2025-09-18",
+      "showAs": " 5. Deputy Donnchadh Ó Laoghaire asked the Tánaiste and Minister for Defence if he will outline his proposals to remove the triple lock neutrality protection; when he intends to bring forward a Bill; and if he will make a statement on the matter.  [49300/25] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "houseCode": "dail"
+      },
+      "questionNumber": 5,
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-18/pq_5",
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/debate/mul@/dbsect_6.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/debate/dbsect_6",
+        "showAs": "Defence Forces",
+        "debateSectionId": "dbsect_6"
+      },
       "by": {
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Donnchadh-Ó-Laoghaire.D.2016-10-03",
-        "showAs": "Donnchadh Ó Laoghaire",
-        "memberCode": "Donnchadh-Ó-Laoghaire.D.2016-10-03"
+        "memberCode": "Donnchadh-Ó-Laoghaire.D.2016-10-03",
+        "showAs": "Donnchadh Ó Laoghaire"
       },
-      "house": {
-        "committeeCode": "",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "showAs": "34th Dáil",
-        "chamberType": "house",
-        "houseNo": "34",
-        "houseCode": "dail"
-      },
-      "showAs": " 5. Deputy Donnchadh Ó Laoghaire asked the Tánaiste and Minister for Defence if he will outline his proposals to remove the triple lock neutrality protection; when he intends to bring forward a Bill; and if he will make a statement on the matter.  [49300/25] ",
-      "debateSection": {
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/debate/dbsect_6",
-        "debateSectionId": "dbsect_6",
-        "showAs": "Defence Forces",
-        "formats": {
-          "pdf": null,
-          "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/debate/mul@/dbsect_6.xml"
-          }
-        }
+      "to": {
+        "uri": null,
+        "showAs": "Defence",
+        "roleType": null,
+        "roleCode": null
       }
     }
   },
   {
     "contextDate": "2025-09-18",
     "question": {
-      "questionNumber": 6,
-      "date": "2025-09-18",
-      "to": {
-        "uri": null,
-        "roleCode": null,
-        "roleType": null,
-        "showAs": "Defence"
-      },
       "questionType": "oral",
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-18/pq_6",
-      "by": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Catherine-Callaghan.D.2024-11-29",
-        "showAs": "Catherine Callaghan",
-        "memberCode": "Catherine-Callaghan.D.2024-11-29"
-      },
+      "date": "2025-09-18",
+      "showAs": " 6. Deputy Catherine Callaghan asked the Tánaiste and Minister for Defence if he will, in the interests of equity, seek an increase in cadets' pay to bring it in line with the starting pay of a three-star private given both are similarly trained and qualified; and if he will make a statement on the matter.  [49483/25] ",
       "house": {
-        "committeeCode": "",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "showAs": "34th Dáil",
         "chamberType": "house",
         "houseNo": "34",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
         "houseCode": "dail"
       },
-      "showAs": " 6. Deputy Catherine Callaghan asked the Tánaiste and Minister for Defence if he will, in the interests of equity, seek an increase in cadets' pay to bring it in line with the starting pay of a three-star private given both are similarly trained and qualified; and if he will make a statement on the matter.  [49483/25] ",
+      "questionNumber": 6,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-18/pq_6",
       "debateSection": {
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/debate/dbsect_7",
-        "debateSectionId": "dbsect_7",
-        "showAs": "Defence Forces",
         "formats": {
-          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/debate/mul@/dbsect_7.xml"
-          }
-        }
-      }
-    }
-  },
-  {
-    "contextDate": "2025-09-18",
-    "question": {
-      "questionNumber": 7,
-      "date": "2025-09-18",
-      "to": {
-        "uri": null,
-        "roleCode": null,
-        "roleType": null,
-        "showAs": "Defence"
-      },
-      "questionType": "oral",
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-18/pq_7",
-      "by": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/John-Clendennen.D.2024-11-29",
-        "showAs": "John Clendennen",
-        "memberCode": "John-Clendennen.D.2024-11-29"
-      },
-      "house": {
-        "committeeCode": "",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "showAs": "34th Dáil",
-        "chamberType": "house",
-        "houseNo": "34",
-        "houseCode": "dail"
-      },
-      "showAs": " 7. Deputy John Clendennen asked the Tánaiste and Minister for Defence to clarify the precise change to the triple lock that recently announced legislation will result in; and if he will make a statement on the matter.  [48880/25] ",
-      "debateSection": {
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/debate/dbsect_9",
-        "debateSectionId": "dbsect_9",
-        "showAs": "Military Neutrality",
-        "formats": {
-          "pdf": null,
-          "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/debate/mul@/dbsect_9.xml"
-          }
-        }
-      }
-    }
-  },
-  {
-    "contextDate": "2025-09-18",
-    "question": {
-      "questionNumber": 8,
-      "date": "2025-09-18",
-      "to": {
-        "uri": null,
-        "roleCode": null,
-        "roleType": null,
-        "showAs": "Defence"
-      },
-      "questionType": "oral",
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-18/pq_8",
-      "by": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Naoise-Ó-Muirí.D.2024-11-29",
-        "showAs": "Naoise Ó Muirí",
-        "memberCode": "Naoise-Ó-Muirí.D.2024-11-29"
-      },
-      "house": {
-        "committeeCode": "",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "showAs": "34th Dáil",
-        "chamberType": "house",
-        "houseNo": "34",
-        "houseCode": "dail"
-      },
-      "showAs": " 8. Deputy Naoise Ó Muirí asked the Tánaiste and Minister for Defence to provide an update on the development of a national strategy for the resilience of critical entities; and if he will make a statement on the matter.  [48912/25] ",
-      "debateSection": {
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/debate/dbsect_10",
-        "debateSectionId": "dbsect_10",
-        "showAs": "Departmental Strategies",
-        "formats": {
-          "pdf": null,
-          "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/debate/mul@/dbsect_10.xml"
-          }
-        }
-      }
-    }
-  },
-  {
-    "contextDate": "2025-09-18",
-    "question": {
-      "questionNumber": 9,
-      "date": "2025-09-18",
-      "to": {
-        "uri": null,
-        "roleCode": null,
-        "roleType": null,
-        "showAs": "Defence"
-      },
-      "questionType": "oral",
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-18/pq_9",
-      "by": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Shay-Brennan.D.2024-11-29",
-        "showAs": "Shay Brennan",
-        "memberCode": "Shay-Brennan.D.2024-11-29"
-      },
-      "house": {
-        "committeeCode": "",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "showAs": "34th Dáil",
-        "chamberType": "house",
-        "houseNo": "34",
-        "houseCode": "dail"
-      },
-      "showAs": " 9. Deputy Shay Brennan asked the Tánaiste and Minister for Defence if he will report on plans for a properly resourced office of veterans' affairs.  [48992/25] ",
-      "debateSection": {
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/debate/dbsect_11",
-        "debateSectionId": "dbsect_11",
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/debate/dbsect_7",
         "showAs": "Defence Forces",
-        "formats": {
-          "pdf": null,
-          "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/debate/mul@/dbsect_11.xml"
-          }
-        }
-      }
-    }
-  },
-  {
-    "contextDate": "2025-09-18",
-    "question": {
-      "questionNumber": 10,
-      "date": "2025-09-18",
-      "to": {
-        "uri": null,
-        "roleCode": null,
-        "roleType": null,
-        "showAs": "Defence"
+        "debateSectionId": "dbsect_7"
       },
-      "questionType": "oral",
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-18/pq_10",
-      "by": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruairí-Ó-Murchú.D.2020-02-08",
-        "showAs": "Ruairí Ó Murchú",
-        "memberCode": "Ruairí-Ó-Murchú.D.2020-02-08"
-      },
-      "house": {
-        "committeeCode": "",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "showAs": "34th Dáil",
-        "chamberType": "house",
-        "houseNo": "34",
-        "houseCode": "dail"
-      },
-      "showAs": " 10. Deputy Ruairí Ó Murchú asked the Tánaiste and Minister for Defence the engagements there have been with the Lebanese authorities following the re-examination of the case against individuals charged in Lebanon in relation to the death of a person (details supplied); the status of the other investigations carried out into the death; when these reports will be published; and if he will make a statement on the matter.  [48885/25] ",
-      "debateSection": {
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/debate/dbsect_12",
-        "debateSectionId": "dbsect_12",
-        "showAs": "Middle East",
-        "formats": {
-          "pdf": null,
-          "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/debate/mul@/dbsect_12.xml"
-          }
-        }
-      }
-    }
-  },
-  {
-    "contextDate": "2025-09-18",
-    "question": {
-      "questionNumber": 11,
-      "date": "2025-09-18",
-      "to": {
-        "uri": null,
-        "roleCode": null,
-        "roleType": null,
-        "showAs": "Defence"
-      },
-      "questionType": "oral",
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-18/pq_11",
-      "by": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Donna-McGettigan.D.2024-11-29",
-        "showAs": "Donna McGettigan",
-        "memberCode": "Donna-McGettigan.D.2024-11-29"
-      },
-      "house": {
-        "committeeCode": "",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "showAs": "34th Dáil",
-        "chamberType": "house",
-        "houseNo": "34",
-        "houseCode": "dail"
-      },
-      "showAs": " 11. Deputy Donna McGettigan asked the Tánaiste and Minister for Defence his plans for the triple lock given recent comments by the Minister for Health and by other members of the Government proposing to scrap or undermine it, despite it being the expressed will of the people to retain it.  [48759/25] ",
-      "debateSection": {
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/debate/dbsect_9",
-        "debateSectionId": "dbsect_9",
-        "showAs": "Military Neutrality",
-        "formats": {
-          "pdf": null,
-          "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/debate/mul@/dbsect_9.xml"
-          }
-        }
-      }
-    }
-  },
-  {
-    "contextDate": "2025-09-18",
-    "question": {
-      "questionNumber": 12,
-      "date": "2025-09-18",
-      "to": {
-        "uri": null,
-        "roleCode": null,
-        "roleType": null,
-        "showAs": "Defence"
-      },
-      "questionType": "oral",
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-18/pq_12",
-      "by": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Murphy.D.2014-10-10",
-        "showAs": "Paul Murphy",
-        "memberCode": "Paul-Murphy.D.2014-10-10"
-      },
-      "house": {
-        "committeeCode": "",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "showAs": "34th Dáil",
-        "chamberType": "house",
-        "houseNo": "34",
-        "houseCode": "dail"
-      },
-      "showAs": " 12. Deputy Paul Murphy asked the Tánaiste and Minister for Defence if he plans to remove the triple lock by the end of 2025; and if he will make a statement on the matter.  [49151/25] ",
-      "debateSection": {
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/debate/dbsect_9",
-        "debateSectionId": "dbsect_9",
-        "showAs": "Military Neutrality",
-        "formats": {
-          "pdf": null,
-          "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/debate/mul@/dbsect_9.xml"
-          }
-        }
-      }
-    }
-  },
-  {
-    "contextDate": "2025-09-18",
-    "question": {
-      "questionNumber": 13,
-      "date": "2025-09-18",
-      "to": {
-        "uri": null,
-        "roleCode": null,
-        "roleType": null,
-        "showAs": "Defence"
-      },
-      "questionType": "oral",
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-18/pq_13",
-      "by": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Noel-McCarthy.D.2024-11-29",
-        "showAs": "Noel McCarthy",
-        "memberCode": "Noel-McCarthy.D.2024-11-29"
-      },
-      "house": {
-        "committeeCode": "",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "showAs": "34th Dáil",
-        "chamberType": "house",
-        "houseNo": "34",
-        "houseCode": "dail"
-      },
-      "showAs": " 13. Deputy Noel McCarthy asked the Tánaiste and Minister for Defence the amount of funding allocated for the development of Defence Forces infrastructure in each of the past five years, the number of projects completed in that period, the number under way and if he will make a statement on the matter.  [49093/25] ",
-      "debateSection": {
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/debate/dbsect_13",
-        "debateSectionId": "dbsect_13",
-        "showAs": "Defence Forces",
-        "formats": {
-          "pdf": null,
-          "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/debate/mul@/dbsect_13.xml"
-          }
-        }
-      }
-    }
-  },
-  {
-    "contextDate": "2025-09-18",
-    "question": {
-      "questionNumber": 15,
-      "date": "2025-09-18",
-      "to": {
-        "uri": null,
-        "roleCode": null,
-        "roleType": null,
-        "showAs": "Defence"
-      },
-      "questionType": "oral",
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-18/pq_15",
-      "by": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Donnchadh-Ó-Laoghaire.D.2016-10-03",
-        "showAs": "Donnchadh Ó Laoghaire",
-        "memberCode": "Donnchadh-Ó-Laoghaire.D.2016-10-03"
-      },
-      "house": {
-        "committeeCode": "",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "showAs": "34th Dáil",
-        "chamberType": "house",
-        "houseNo": "34",
-        "houseCode": "dail"
-      },
-      "showAs": " 15. Deputy Donnchadh Ó Laoghaire asked the Tánaiste and Minister for Defence the number of residential Defence Forces buildings that are currently not habitable, and if he will make a statement on the matter.  [49304/25] ",
-      "debateSection": {
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/debate/dbsect_14",
-        "debateSectionId": "dbsect_14",
-        "showAs": "Defence Forces",
-        "formats": {
-          "pdf": null,
-          "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/debate/mul@/dbsect_14.xml"
-          }
-        }
-      }
-    }
-  },
-  {
-    "contextDate": "2025-09-18",
-    "question": {
-      "questionNumber": 39,
-      "date": "2025-09-18",
-      "to": {
-        "uri": null,
-        "roleCode": null,
-        "roleType": null,
-        "showAs": "Defence"
-      },
-      "questionType": "oral",
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-18/pq_39",
-      "by": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Mark-Ward.D.2019-11-29",
-        "showAs": "Mark Ward",
-        "memberCode": "Mark-Ward.D.2019-11-29"
-      },
-      "house": {
-        "committeeCode": "",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "showAs": "34th Dáil",
-        "chamberType": "house",
-        "houseNo": "34",
-        "houseCode": "dail"
-      },
-      "showAs": " 39. Deputy Mark Ward asked the Tánaiste and Minister for Defence to provide details of the Government’s decision to remove the triple lock; if the UN General Assembly can sanction peacekeeping missions by bypassing a veto at the UN Security Council; and if he will make a statement on the matter.  [49268/25] ",
-      "debateSection": {
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/debate/dbsect_9",
-        "debateSectionId": "dbsect_9",
-        "showAs": "Military Neutrality",
-        "formats": {
-          "pdf": null,
-          "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/debate/mul@/dbsect_9.xml"
-          }
-        }
-      }
-    }
-  },
-  {
-    "contextDate": "2025-09-18",
-    "question": {
-      "questionNumber": 55,
-      "date": "2025-09-18",
-      "to": {
-        "uri": null,
-        "roleCode": null,
-        "roleType": null,
-        "showAs": "Defence"
-      },
-      "questionType": "oral",
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-18/pq_55",
-      "by": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/John-Clendennen.D.2024-11-29",
-        "showAs": "John Clendennen",
-        "memberCode": "John-Clendennen.D.2024-11-29"
-      },
-      "house": {
-        "committeeCode": "",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "showAs": "34th Dáil",
-        "chamberType": "house",
-        "houseNo": "34",
-        "houseCode": "dail"
-      },
-      "showAs": " 55. Deputy John Clendennen asked the Tánaiste and Minister for Defence if the proposed changes to the triple lock will impact Ireland's policy of being militarily neutral; and if he will make a statement on the matter.  [48881/25] ",
-      "debateSection": {
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/debate/dbsect_9",
-        "debateSectionId": "dbsect_9",
-        "showAs": "Military Neutrality",
-        "formats": {
-          "pdf": null,
-          "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/debate/mul@/dbsect_9.xml"
-          }
-        }
-      }
-    }
-  },
-  {
-    "contextDate": "2025-09-18",
-    "question": {
-      "questionNumber": 82,
-      "date": "2025-09-18",
-      "to": {
-        "uri": null,
-        "roleCode": null,
-        "roleType": null,
-        "showAs": "Climate"
-      },
-      "questionType": "oral",
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-18/pq_82",
-      "by": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Pa-Daly.D.2020-02-08",
-        "showAs": "Pa Daly",
-        "memberCode": "Pa-Daly.D.2020-02-08"
-      },
-      "house": {
-        "committeeCode": "",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "showAs": "34th Dáil",
-        "chamberType": "house",
-        "houseNo": "34",
-        "houseCode": "dail"
-      },
-      "showAs": " 82. Deputy Pa Daly asked the Minister for Climate, Energy and the Environment the measures he is taking to address the fact that 300,000 households are in arrears on their energy bills; and if he will make a statement on the matter.  [49202/25] ",
-      "debateSection": {
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/debate/dbsect_16",
-        "debateSectionId": "dbsect_16",
-        "showAs": "Energy Prices",
-        "formats": {
-          "pdf": null,
-          "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/debate/mul@/dbsect_16.xml"
-          }
-        }
-      }
-    }
-  },
-  {
-    "contextDate": "2025-09-18",
-    "question": {
-      "questionNumber": 83,
-      "date": "2025-09-18",
-      "to": {
-        "uri": null,
-        "roleCode": null,
-        "roleType": null,
-        "showAs": "Climate"
-      },
-      "questionType": "oral",
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-18/pq_83",
-      "by": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ciarán-Ahern.D.2024-11-29",
-        "showAs": "Ciarán Ahern",
-        "memberCode": "Ciarán-Ahern.D.2024-11-29"
-      },
-      "house": {
-        "committeeCode": "",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "showAs": "34th Dáil",
-        "chamberType": "house",
-        "houseNo": "34",
-        "houseCode": "dail"
-      },
-      "showAs": " 83. Deputy Ciarán Ahern asked the Minister for Climate, Energy and the Environment if he or his Department have been lobbied with regard to the promised increase in the quantity of oil and gas which is to be purchased from the United States of America by the European Union; the contribution that this State is expected to make towards such an increase, and-or the potential for related loosening of environmental and climate regulations and human rights safeguards; and if he will make a statement on the matter.  [49306/25] ",
-      "debateSection": {
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/debate/dbsect_17",
-        "debateSectionId": "dbsect_17",
-        "showAs": "Energy Policy",
-        "formats": {
-          "pdf": null,
-          "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/debate/mul@/dbsect_17.xml"
-          }
-        }
-      }
-    }
-  },
-  {
-    "contextDate": "2025-09-18",
-    "question": {
-      "questionNumber": 84,
-      "date": "2025-09-18",
-      "to": {
-        "uri": null,
-        "roleCode": null,
-        "roleType": null,
-        "showAs": "Climate"
-      },
-      "questionType": "oral",
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-18/pq_84",
-      "by": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Pa-Daly.D.2020-02-08",
-        "showAs": "Pa Daly",
-        "memberCode": "Pa-Daly.D.2020-02-08"
-      },
-      "house": {
-        "committeeCode": "",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "showAs": "34th Dáil",
-        "chamberType": "house",
-        "houseNo": "34",
-        "houseCode": "dail"
-      },
-      "showAs": " 84. Deputy Pa Daly asked the Minister for Climate, Energy and the Environment the measures he is taking to address the concerns raised by senior Government officials regarding the impact of data centres on household bills and housing development; and if he will make a statement on the matter.  [49203/25] ",
-      "debateSection": {
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/debate/dbsect_18",
-        "debateSectionId": "dbsect_18",
-        "showAs": "Data Centres",
-        "formats": {
-          "pdf": null,
-          "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/debate/mul@/dbsect_18.xml"
-          }
-        }
-      }
-    }
-  },
-  {
-    "contextDate": "2025-09-18",
-    "question": {
-      "questionNumber": 85,
-      "date": "2025-09-18",
-      "to": {
-        "uri": null,
-        "roleCode": null,
-        "roleType": null,
-        "showAs": "Climate"
-      },
-      "questionType": "oral",
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-18/pq_85",
-      "by": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Brian-Stanley.D.2011-03-09",
-        "showAs": "Brian Stanley",
-        "memberCode": "Brian-Stanley.D.2011-03-09"
-      },
-      "house": {
-        "committeeCode": "",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "showAs": "34th Dáil",
-        "chamberType": "house",
-        "houseNo": "34",
-        "houseCode": "dail"
-      },
-      "showAs": " 85. Deputy Brian Stanley asked the Minister for Climate, Energy and the Environment the amount of funding provided to projects and initiatives in County Laois from the national and European just transition funds, under the various headings, to date in 2025, by recipients; the amount granted to each, and the purposes for which it is to be used; and if he will make a statement on the matter. [49377/25] ",
-      "debateSection": {
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/debate/dbsect_19",
-        "debateSectionId": "dbsect_19",
-        "showAs": "Just Transition",
-        "formats": {
-          "pdf": null,
-          "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/debate/mul@/dbsect_19.xml"
-          }
-        }
-      }
-    }
-  },
-  {
-    "contextDate": "2025-09-18",
-    "question": {
-      "questionNumber": 86,
-      "date": "2025-09-18",
-      "to": {
-        "uri": null,
-        "roleCode": null,
-        "roleType": null,
-        "showAs": "Climate"
-      },
-      "questionType": "oral",
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-18/pq_86",
-      "by": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Lawless.D.2024-11-29",
-        "showAs": "Paul Lawless",
-        "memberCode": "Paul-Lawless.D.2024-11-29"
-      },
-      "house": {
-        "committeeCode": "",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "showAs": "34th Dáil",
-        "chamberType": "house",
-        "houseNo": "34",
-        "houseCode": "dail"
-      },
-      "showAs": " 86. Deputy Paul Lawless asked the Minister for Climate, Energy and the Environment the proportion of plastics collected under the deposit return scheme that are processed overseas; and if he will make a statement on the matter.  [49283/25] ",
-      "debateSection": {
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/debate/dbsect_20",
-        "debateSectionId": "dbsect_20",
-        "showAs": "Recycling Policy",
-        "formats": {
-          "pdf": null,
-          "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/debate/mul@/dbsect_20.xml"
-          }
-        }
-      }
-    }
-  },
-  {
-    "contextDate": "2025-09-18",
-    "question": {
-      "questionNumber": 87,
-      "date": "2025-09-18",
-      "to": {
-        "uri": null,
-        "roleCode": null,
-        "roleType": null,
-        "showAs": "Climate"
-      },
-      "questionType": "oral",
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-18/pq_87",
       "by": {
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Catherine-Callaghan.D.2024-11-29",
-        "showAs": "Catherine Callaghan",
-        "memberCode": "Catherine-Callaghan.D.2024-11-29"
+        "memberCode": "Catherine-Callaghan.D.2024-11-29",
+        "showAs": "Catherine Callaghan"
       },
-      "house": {
-        "committeeCode": "",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "showAs": "34th Dáil",
-        "chamberType": "house",
-        "houseNo": "34",
-        "houseCode": "dail"
-      },
-      "showAs": " 87. Deputy Catherine Callaghan asked the Minister for Climate, Energy and the Environment his plans for an expansion of the funding of the circular economy innovation grant scheme in 2025.  [49232/25] ",
-      "debateSection": {
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/debate/dbsect_22",
-        "debateSectionId": "dbsect_22",
-        "showAs": "Environmental Schemes",
-        "formats": {
-          "pdf": null,
-          "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/debate/mul@/dbsect_22.xml"
-          }
-        }
+      "to": {
+        "uri": null,
+        "showAs": "Defence",
+        "roleType": null,
+        "roleCode": null
       }
     }
   },
   {
     "contextDate": "2025-09-18",
     "question": {
-      "questionNumber": 88,
-      "date": "2025-09-18",
-      "to": {
-        "uri": null,
-        "roleCode": null,
-        "roleType": null,
-        "showAs": "Climate"
-      },
       "questionType": "oral",
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-18/pq_88",
+      "date": "2025-09-18",
+      "showAs": " 7. Deputy John Clendennen asked the Tánaiste and Minister for Defence to clarify the precise change to the triple lock that recently announced legislation will result in; and if he will make a statement on the matter.  [48880/25] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "houseCode": "dail"
+      },
+      "questionNumber": 7,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-18/pq_7",
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/debate/mul@/dbsect_9.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/debate/dbsect_9",
+        "showAs": "Military Neutrality",
+        "debateSectionId": "dbsect_9"
+      },
       "by": {
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/John-Clendennen.D.2024-11-29",
-        "showAs": "John Clendennen",
-        "memberCode": "John-Clendennen.D.2024-11-29"
+        "memberCode": "John-Clendennen.D.2024-11-29",
+        "showAs": "John Clendennen"
       },
-      "house": {
-        "committeeCode": "",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "showAs": "34th Dáil",
-        "chamberType": "house",
-        "houseNo": "34",
-        "houseCode": "dail"
-      },
-      "showAs": " 88. Deputy John Clendennen asked the Minister for Climate, Energy and the Environment the status of the operation of the home energy upgrade loan scheme; and if he will make a statement on the matter.  [48877/25] ",
-      "debateSection": {
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/debate/dbsect_23",
-        "debateSectionId": "dbsect_23",
-        "showAs": "Environmental Schemes",
-        "formats": {
-          "pdf": null,
-          "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/debate/mul@/dbsect_23.xml"
-          }
-        }
+      "to": {
+        "uri": null,
+        "showAs": "Defence",
+        "roleType": null,
+        "roleCode": null
       }
     }
   },
   {
     "contextDate": "2025-09-18",
     "question": {
-      "questionNumber": 90,
-      "date": "2025-09-18",
-      "to": {
-        "uri": null,
-        "roleCode": null,
-        "roleType": null,
-        "showAs": "Climate"
-      },
       "questionType": "oral",
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-18/pq_90",
+      "date": "2025-09-18",
+      "showAs": " 8. Deputy Naoise Ó Muirí asked the Tánaiste and Minister for Defence to provide an update on the development of a national strategy for the resilience of critical entities; and if he will make a statement on the matter.  [48912/25] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "houseCode": "dail"
+      },
+      "questionNumber": 8,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-18/pq_8",
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/debate/mul@/dbsect_10.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/debate/dbsect_10",
+        "showAs": "Departmental Strategies",
+        "debateSectionId": "dbsect_10"
+      },
       "by": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Lawless.D.2024-11-29",
-        "showAs": "Paul Lawless",
-        "memberCode": "Paul-Lawless.D.2024-11-29"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Naoise-Ó-Muirí.D.2024-11-29",
+        "memberCode": "Naoise-Ó-Muirí.D.2024-11-29",
+        "showAs": "Naoise Ó Muirí"
       },
-      "house": {
-        "committeeCode": "",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "showAs": "34th Dáil",
-        "chamberType": "house",
-        "houseNo": "34",
-        "houseCode": "dail"
-      },
-      "showAs": " 90. Deputy Paul Lawless asked the Minister for Climate, Energy and the Environment his views on whether the deposit return scheme has been a success to date; and if he will make a statement on the matter.  [49284/25] ",
-      "debateSection": {
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/debate/dbsect_24",
-        "debateSectionId": "dbsect_24",
-        "showAs": "Recycling Policy",
-        "formats": {
-          "pdf": null,
-          "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/debate/mul@/dbsect_24.xml"
-          }
-        }
+      "to": {
+        "uri": null,
+        "showAs": "Defence",
+        "roleType": null,
+        "roleCode": null
       }
     }
   },
   {
     "contextDate": "2025-09-18",
     "question": {
-      "questionNumber": 91,
+      "questionType": "oral",
       "date": "2025-09-18",
+      "showAs": " 9. Deputy Shay Brennan asked the Tánaiste and Minister for Defence if he will report on plans for a properly resourced office of veterans' affairs.  [48992/25] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "houseCode": "dail"
+      },
+      "questionNumber": 9,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-18/pq_9",
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/debate/mul@/dbsect_11.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/debate/dbsect_11",
+        "showAs": "Defence Forces",
+        "debateSectionId": "dbsect_11"
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Shay-Brennan.D.2024-11-29",
+        "memberCode": "Shay-Brennan.D.2024-11-29",
+        "showAs": "Shay Brennan"
+      },
       "to": {
         "uri": null,
-        "roleCode": null,
+        "showAs": "Defence",
         "roleType": null,
-        "showAs": "Climate"
-      },
+        "roleCode": null
+      }
+    }
+  },
+  {
+    "contextDate": "2025-09-18",
+    "question": {
       "questionType": "oral",
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-18/pq_91",
+      "date": "2025-09-18",
+      "showAs": " 10. Deputy Ruairí Ó Murchú asked the Tánaiste and Minister for Defence the engagements there have been with the Lebanese authorities following the re-examination of the case against individuals charged in Lebanon in relation to the death of a person (details supplied); the status of the other investigations carried out into the death; when these reports will be published; and if he will make a statement on the matter.  [48885/25] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "houseCode": "dail"
+      },
+      "questionNumber": 10,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-18/pq_10",
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/debate/mul@/dbsect_12.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/debate/dbsect_12",
+        "showAs": "Middle East",
+        "debateSectionId": "dbsect_12"
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruairí-Ó-Murchú.D.2020-02-08",
+        "memberCode": "Ruairí-Ó-Murchú.D.2020-02-08",
+        "showAs": "Ruairí Ó Murchú"
+      },
+      "to": {
+        "uri": null,
+        "showAs": "Defence",
+        "roleType": null,
+        "roleCode": null
+      }
+    }
+  },
+  {
+    "contextDate": "2025-09-18",
+    "question": {
+      "questionType": "oral",
+      "date": "2025-09-18",
+      "showAs": " 11. Deputy Donna McGettigan asked the Tánaiste and Minister for Defence his plans for the triple lock given recent comments by the Minister for Health and by other members of the Government proposing to scrap or undermine it, despite it being the expressed will of the people to retain it.  [48759/25] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "houseCode": "dail"
+      },
+      "questionNumber": 11,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-18/pq_11",
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/debate/mul@/dbsect_9.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/debate/dbsect_9",
+        "showAs": "Military Neutrality",
+        "debateSectionId": "dbsect_9"
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Donna-McGettigan.D.2024-11-29",
+        "memberCode": "Donna-McGettigan.D.2024-11-29",
+        "showAs": "Donna McGettigan"
+      },
+      "to": {
+        "uri": null,
+        "showAs": "Defence",
+        "roleType": null,
+        "roleCode": null
+      }
+    }
+  },
+  {
+    "contextDate": "2025-09-18",
+    "question": {
+      "questionType": "oral",
+      "date": "2025-09-18",
+      "showAs": " 12. Deputy Paul Murphy asked the Tánaiste and Minister for Defence if he plans to remove the triple lock by the end of 2025; and if he will make a statement on the matter.  [49151/25] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "houseCode": "dail"
+      },
+      "questionNumber": 12,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-18/pq_12",
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/debate/mul@/dbsect_9.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/debate/dbsect_9",
+        "showAs": "Military Neutrality",
+        "debateSectionId": "dbsect_9"
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Murphy.D.2014-10-10",
+        "memberCode": "Paul-Murphy.D.2014-10-10",
+        "showAs": "Paul Murphy"
+      },
+      "to": {
+        "uri": null,
+        "showAs": "Defence",
+        "roleType": null,
+        "roleCode": null
+      }
+    }
+  },
+  {
+    "contextDate": "2025-09-18",
+    "question": {
+      "questionType": "oral",
+      "date": "2025-09-18",
+      "showAs": " 13. Deputy Noel McCarthy asked the Tánaiste and Minister for Defence the amount of funding allocated for the development of Defence Forces infrastructure in each of the past five years, the number of projects completed in that period, the number under way and if he will make a statement on the matter.  [49093/25] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "houseCode": "dail"
+      },
+      "questionNumber": 13,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-18/pq_13",
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/debate/mul@/dbsect_13.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/debate/dbsect_13",
+        "showAs": "Defence Forces",
+        "debateSectionId": "dbsect_13"
+      },
       "by": {
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Noel-McCarthy.D.2024-11-29",
-        "showAs": "Noel McCarthy",
-        "memberCode": "Noel-McCarthy.D.2024-11-29"
+        "memberCode": "Noel-McCarthy.D.2024-11-29",
+        "showAs": "Noel McCarthy"
       },
-      "house": {
-        "committeeCode": "",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "showAs": "34th Dáil",
-        "chamberType": "house",
-        "houseNo": "34",
-        "houseCode": "dail"
-      },
-      "showAs": " 91. Deputy Noel McCarthy asked the Minister for Climate, Energy and the Environment the proposed timeline for auctions for the delivery of the three other sites identified in the designated maritime area plan, which are not included in the Tonn Nua offshore wind auction; and if he will make a statement on the matter. [49265/25] ",
-      "debateSection": {
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/debate/dbsect_25",
-        "debateSectionId": "dbsect_25",
-        "showAs": "Wind Energy Generation",
-        "formats": {
-          "pdf": null,
-          "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/debate/mul@/dbsect_25.xml"
-          }
-        }
+      "to": {
+        "uri": null,
+        "showAs": "Defence",
+        "roleType": null,
+        "roleCode": null
       }
     }
   },
   {
     "contextDate": "2025-09-18",
     "question": {
-      "questionNumber": 92,
+      "questionType": "written",
       "date": "2025-09-18",
-      "to": {
-        "uri": null,
-        "roleCode": null,
-        "roleType": null,
-        "showAs": "Climate"
+      "showAs": " 14. Deputy Duncan Smith asked the Tánaiste and Minister for Defence to provide an update on the establishment of a network of Defence attachés to be assigned to embassies around the globe; and if he will make a statement on the matter. [49023/25] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "houseCode": "dail"
       },
-      "questionType": "oral",
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-18/pq_92",
+      "questionNumber": 14,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-18/pq_14",
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/writtens/mul@/dbsect_44.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/writtens/dbsect_44",
+        "showAs": "Departmental Policies",
+        "debateSectionId": "dbsect_44"
+      },
       "by": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Jennifer-Whitmore.D.2020-02-08",
-        "showAs": "Jennifer Whitmore",
-        "memberCode": "Jennifer-Whitmore.D.2020-02-08"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Duncan-Smith.D.2020-02-08",
+        "memberCode": "Duncan-Smith.D.2020-02-08",
+        "showAs": "Duncan Smith"
       },
-      "house": {
-        "committeeCode": "",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "showAs": "34th Dáil",
-        "chamberType": "house",
-        "houseNo": "34",
-        "houseCode": "dail"
-      },
-      "showAs": " 92. Deputy Jennifer Whitmore asked the Minister for Climate, Energy and the Environment if he will expand the warmer homes scheme to include solar; and if he will make a statement on the matter.  [48994/25] ",
-      "debateSection": {
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/debate/dbsect_26",
-        "debateSectionId": "dbsect_26",
-        "showAs": "Solar Energy Guidelines",
-        "formats": {
-          "pdf": null,
-          "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/debate/mul@/dbsect_26.xml"
-          }
-        }
+      "to": {
+        "uri": null,
+        "showAs": "Defence",
+        "roleType": null,
+        "roleCode": null
       }
     }
   },
   {
     "contextDate": "2025-09-18",
     "question": {
-      "questionNumber": 93,
-      "date": "2025-09-18",
-      "to": {
-        "uri": null,
-        "roleCode": null,
-        "roleType": null,
-        "showAs": "Climate"
-      },
       "questionType": "oral",
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-18/pq_93",
+      "date": "2025-09-18",
+      "showAs": " 15. Deputy Donnchadh Ó Laoghaire asked the Tánaiste and Minister for Defence the number of residential Defence Forces buildings that are currently not habitable, and if he will make a statement on the matter.  [49304/25] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "houseCode": "dail"
+      },
+      "questionNumber": 15,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-18/pq_15",
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/debate/mul@/dbsect_14.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/debate/dbsect_14",
+        "showAs": "Defence Forces",
+        "debateSectionId": "dbsect_14"
+      },
       "by": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Barry-Ward.S.2020-03-30",
-        "showAs": "Barry Ward",
-        "memberCode": "Barry-Ward.S.2020-03-30"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Donnchadh-Ó-Laoghaire.D.2016-10-03",
+        "memberCode": "Donnchadh-Ó-Laoghaire.D.2016-10-03",
+        "showAs": "Donnchadh Ó Laoghaire"
       },
-      "house": {
-        "committeeCode": "",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "showAs": "34th Dáil",
-        "chamberType": "house",
-        "houseNo": "34",
-        "houseCode": "dail"
-      },
-      "showAs": " 93. Deputy Barry Ward asked the Minister for Climate, Energy and the Environment the total capacity output available under existing wind generation schemes; the projected output if all wind farms currently at various stages of the planning system were to come to fruition; and if he will make a statement on the matter.  [49042/25] ",
-      "debateSection": {
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/debate/dbsect_27",
-        "debateSectionId": "dbsect_27",
-        "showAs": "Wind Energy Generation",
-        "formats": {
-          "pdf": null,
-          "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/debate/mul@/dbsect_27.xml"
-          }
-        }
+      "to": {
+        "uri": null,
+        "showAs": "Defence",
+        "roleType": null,
+        "roleCode": null
       }
     }
   },
   {
     "contextDate": "2025-09-18",
     "question": {
-      "questionNumber": 94,
+      "questionType": "written",
       "date": "2025-09-18",
-      "to": {
-        "uri": null,
-        "roleCode": null,
-        "roleType": null,
-        "showAs": "Climate"
+      "showAs": " 16. Deputy John Connolly asked the Tánaiste and Minister for Defence the total number of members of the Irish Defence Forces currently deployed to the UNIFIL mission; and the number of further deployments of Irish troops that are expected to fulfil the mission prior to the projected conclusion of the mandate in December 2026. [48426/25] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "houseCode": "dail"
       },
-      "questionType": "oral",
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-18/pq_94",
+      "questionNumber": 16,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-18/pq_16",
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/writtens/mul@/dbsect_45.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/writtens/dbsect_45",
+        "showAs": "Defence Forces",
+        "debateSectionId": "dbsect_45"
+      },
       "by": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Thomas-Gould.D.2020-02-08",
-        "showAs": "Thomas Gould",
-        "memberCode": "Thomas-Gould.D.2020-02-08"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/John-Connolly.D.2024-11-29",
+        "memberCode": "John-Connolly.D.2024-11-29",
+        "showAs": "John Connolly"
       },
-      "house": {
-        "committeeCode": "",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "showAs": "34th Dáil",
-        "chamberType": "house",
-        "houseNo": "34",
-        "houseCode": "dail"
-      },
-      "showAs": " 94. Deputy Thomas Gould asked the Minister for Climate, Energy and the Environment the percentage of grant applications to SEAI that are withdrawn.  [49212/25] ",
-      "debateSection": {
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/debate/dbsect_30",
-        "debateSectionId": "dbsect_30",
-        "showAs": "Energy Conservation",
-        "formats": {
-          "pdf": null,
-          "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/debate/mul@/dbsect_30.xml"
-          }
-        }
+      "to": {
+        "uri": null,
+        "showAs": "Defence",
+        "roleType": null,
+        "roleCode": null
       }
     }
   },
   {
     "contextDate": "2025-09-18",
     "question": {
-      "questionNumber": 95,
+      "questionType": "written",
       "date": "2025-09-18",
-      "to": {
-        "uri": null,
-        "roleCode": null,
-        "roleType": null,
-        "showAs": "Climate"
+      "showAs": " 17. Deputy Paul Murphy asked the Tánaiste and Minister for Defence if Ireland plans to be part of a peacekeeping force in Ukraine even if Russia does not consent to the mission; and if he will make a statement on the matter. [49149/25] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "houseCode": "dail"
       },
-      "questionType": "oral",
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-18/pq_95",
+      "questionNumber": 17,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-18/pq_17",
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/writtens/mul@/dbsect_46.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/writtens/dbsect_46",
+        "showAs": "Ukraine War",
+        "debateSectionId": "dbsect_46"
+      },
       "by": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Peter-'Chap'-Cleere.D.2024-11-29",
-        "showAs": "Peter 'Chap' Cleere",
-        "memberCode": "Peter-'Chap'-Cleere.D.2024-11-29"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Murphy.D.2014-10-10",
+        "memberCode": "Paul-Murphy.D.2014-10-10",
+        "showAs": "Paul Murphy"
       },
-      "house": {
-        "committeeCode": "",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "showAs": "34th Dáil",
-        "chamberType": "house",
-        "houseNo": "34",
-        "houseCode": "dail"
-      },
-      "showAs": " 95. Deputy Peter 'Chap' Cleere asked the Minister for Climate, Energy and the Environment to outline his plans for a new policy on private wires.  [49010/25] ",
-      "debateSection": {
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/debate/dbsect_29",
-        "debateSectionId": "dbsect_29",
-        "showAs": "Energy Policy",
-        "formats": {
-          "pdf": null,
-          "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/debate/mul@/dbsect_29.xml"
-          }
-        }
+      "to": {
+        "uri": null,
+        "showAs": "Defence",
+        "roleType": null,
+        "roleCode": null
       }
     }
   },
   {
     "contextDate": "2025-09-18",
     "question": {
-      "questionNumber": 97,
+      "questionType": "written",
       "date": "2025-09-18",
+      "showAs": " 18. Deputy Shane Moynihan asked the Tánaiste and Minister for Defence for an update on the review of the first masterplan for Airside in Casement Aerodrome, Baldonnel, by officials in his Department; and if he will make a statement on the matter. [49272/25] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "houseCode": "dail"
+      },
+      "questionNumber": 18,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-18/pq_18",
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/writtens/mul@/dbsect_47.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/writtens/dbsect_47",
+        "showAs": "Defence Forces",
+        "debateSectionId": "dbsect_47"
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Shane-Moynihan.D.2024-11-29",
+        "memberCode": "Shane-Moynihan.D.2024-11-29",
+        "showAs": "Shane Moynihan"
+      },
       "to": {
         "uri": null,
-        "roleCode": null,
+        "showAs": "Defence",
         "roleType": null,
-        "showAs": "Climate"
+        "roleCode": null
+      }
+    }
+  },
+  {
+    "contextDate": "2025-09-18",
+    "question": {
+      "questionType": "written",
+      "date": "2025-09-18",
+      "showAs": " 19. Deputy Maeve O'Connell asked the Tánaiste and Minister for Defence to report the work of his Department in responding to the decision to withdraw the international peacekeeping force in Lebanon in 2027. [49119/25] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "houseCode": "dail"
       },
-      "questionType": "oral",
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-18/pq_97",
+      "questionNumber": 19,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-18/pq_19",
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/writtens/mul@/dbsect_45.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/writtens/dbsect_45",
+        "showAs": "Defence Forces",
+        "debateSectionId": "dbsect_45"
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Maeve-O'Connell.D.2024-11-29",
+        "memberCode": "Maeve-O'Connell.D.2024-11-29",
+        "showAs": "Maeve O'Connell"
+      },
+      "to": {
+        "uri": null,
+        "showAs": "Defence",
+        "roleType": null,
+        "roleCode": null
+      }
+    }
+  },
+  {
+    "contextDate": "2025-09-18",
+    "question": {
+      "questionType": "written",
+      "date": "2025-09-18",
+      "showAs": " 20. Deputy Seán Ó Fearghaíl asked the Tánaiste and Minister for Defence the action he is taking to improve retention levels in the Defence Forces; and if he will make a statement on the matter. [48977/25] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "houseCode": "dail"
+      },
+      "questionNumber": 20,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-18/pq_20",
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/writtens/mul@/dbsect_48.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/writtens/dbsect_48",
+        "showAs": "Defence Forces",
+        "debateSectionId": "dbsect_48"
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Seán-Ó-Fearghaíl.S.2000-06-09",
+        "memberCode": "Seán-Ó-Fearghaíl.S.2000-06-09",
+        "showAs": "Seán Ó Fearghaíl"
+      },
+      "to": {
+        "uri": null,
+        "showAs": "Defence",
+        "roleType": null,
+        "roleCode": null
+      }
+    }
+  },
+  {
+    "contextDate": "2025-09-18",
+    "question": {
+      "questionType": "written",
+      "date": "2025-09-18",
+      "showAs": " 21. Deputy Naoise Ó Cearúil asked the Tánaiste and Minister for Defence the steps he will take to safeguard undersea critical infrastructure given the recent €60 million investment in sonar capabilities; and if he will make a statement on the matter. [49096/25] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "houseCode": "dail"
+      },
+      "questionNumber": 21,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-18/pq_21",
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/writtens/mul@/dbsect_50.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/writtens/dbsect_50",
+        "showAs": "National Security",
+        "debateSectionId": "dbsect_50"
+      },
       "by": {
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Naoise-Ó-Cearúil.D.2024-11-29",
-        "showAs": "Naoise Ó Cearúil",
-        "memberCode": "Naoise-Ó-Cearúil.D.2024-11-29"
+        "memberCode": "Naoise-Ó-Cearúil.D.2024-11-29",
+        "showAs": "Naoise Ó Cearúil"
       },
+      "to": {
+        "uri": null,
+        "showAs": "Defence",
+        "roleType": null,
+        "roleCode": null
+      }
+    }
+  },
+  {
+    "contextDate": "2025-09-18",
+    "question": {
+      "questionType": "written",
+      "date": "2025-09-18",
+      "showAs": " 22. Deputy Grace Boland asked the Tánaiste and Minister for Defence to report on the progress of recruitment campaigns for school leavers and women into careers in the Defence Forces; and if he will make a statement on the matter. [49114/25] ",
       "house": {
-        "committeeCode": "",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "showAs": "34th Dáil",
         "chamberType": "house",
         "houseNo": "34",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
         "houseCode": "dail"
       },
-      "showAs": " 97. Deputy Naoise Ó Cearúil asked the Minister for Climate, Energy and the Environment if his Department has assessed the potential role of nuclear energy in Ireland's future energy mix; and if he will make a statement on the matter.  [49081/25] ",
+      "questionNumber": 22,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-18/pq_22",
       "debateSection": {
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/debate/dbsect_28",
-        "debateSectionId": "dbsect_28",
-        "showAs": "Nuclear Plants",
         "formats": {
-          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/writtens/mul@/dbsect_51.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/writtens/dbsect_51",
+        "showAs": "Defence Forces",
+        "debateSectionId": "dbsect_51"
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Grace-Boland.D.2024-11-29",
+        "memberCode": "Grace-Boland.D.2024-11-29",
+        "showAs": "Grace Boland"
+      },
+      "to": {
+        "uri": null,
+        "showAs": "Defence",
+        "roleType": null,
+        "roleCode": null
+      }
+    }
+  },
+  {
+    "contextDate": "2025-09-18",
+    "question": {
+      "questionType": "written",
+      "date": "2025-09-18",
+      "showAs": " 23. Deputy Donnchadh Ó Laoghaire asked the Tánaiste and Minister for Defence the progress his Department has made regarding the establishment of a joint cyber-security command and other actions related to cyber-security contained in the Report of the Commission on the Defence Forces. [49303/25] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "houseCode": "dail"
+      },
+      "questionNumber": 23,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-18/pq_23",
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/writtens/mul@/dbsect_52.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/writtens/dbsect_52",
+        "showAs": "Defence Forces",
+        "debateSectionId": "dbsect_52"
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Donnchadh-Ó-Laoghaire.D.2016-10-03",
+        "memberCode": "Donnchadh-Ó-Laoghaire.D.2016-10-03",
+        "showAs": "Donnchadh Ó Laoghaire"
+      },
+      "to": {
+        "uri": null,
+        "showAs": "Defence",
+        "roleType": null,
+        "roleCode": null
+      }
+    }
+  },
+  {
+    "contextDate": "2025-09-18",
+    "question": {
+      "questionType": "written",
+      "date": "2025-09-18",
+      "showAs": " 24. Deputy Matt Carthy asked the Tánaiste and Minister for Defence the establishment figure of the Defence Forces; the total number of personnel in 2019; and the current total number of personnel. [48882/25] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "houseCode": "dail"
+      },
+      "questionNumber": 24,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-18/pq_24",
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/writtens/mul@/dbsect_53.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/writtens/dbsect_53",
+        "showAs": "Defence Forces",
+        "debateSectionId": "dbsect_53"
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Matt-Carthy.D.2020-02-08",
+        "memberCode": "Matt-Carthy.D.2020-02-08",
+        "showAs": "Matt Carthy"
+      },
+      "to": {
+        "uri": null,
+        "showAs": "Defence",
+        "roleType": null,
+        "roleCode": null
+      }
+    }
+  },
+  {
+    "contextDate": "2025-09-18",
+    "question": {
+      "questionType": "written",
+      "date": "2025-09-18",
+      "showAs": " 25. Deputy Cathal Crowe asked the Tánaiste and Minister for Defence if he will consider introducing legislation to ensure that military uniforms can only be worn by members of the permanent and reserve Defence Forces, and that for all other uses, such as filmmaking and re-enactment, a licence would have to be obtained from his Department; if he will extend such legislation to include a prohibition on the wearing of military-style uniforms by paramilitaries and political organisations; and if he will make a statement on the matter. [48942/25] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "houseCode": "dail"
+      },
+      "questionNumber": 25,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-18/pq_25",
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/writtens/mul@/dbsect_54.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/writtens/dbsect_54",
+        "showAs": "Defence Forces",
+        "debateSectionId": "dbsect_54"
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Cathal-Crowe.D.2020-02-08",
+        "memberCode": "Cathal-Crowe.D.2020-02-08",
+        "showAs": "Cathal Crowe"
+      },
+      "to": {
+        "uri": null,
+        "showAs": "Defence",
+        "roleType": null,
+        "roleCode": null
+      }
+    }
+  },
+  {
+    "contextDate": "2025-09-18",
+    "question": {
+      "questionType": "written",
+      "date": "2025-09-18",
+      "showAs": " 26. Deputy John Connolly asked the Tánaiste and Minister for Defence for an update on the development of Ireland’s first national maritime security strategy. [48427/25] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "houseCode": "dail"
+      },
+      "questionNumber": 26,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-18/pq_26",
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/writtens/mul@/dbsect_55.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/writtens/dbsect_55",
+        "showAs": "National Security",
+        "debateSectionId": "dbsect_55"
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/John-Connolly.D.2024-11-29",
+        "memberCode": "John-Connolly.D.2024-11-29",
+        "showAs": "John Connolly"
+      },
+      "to": {
+        "uri": null,
+        "showAs": "Defence",
+        "roleType": null,
+        "roleCode": null
+      }
+    }
+  },
+  {
+    "contextDate": "2025-09-18",
+    "question": {
+      "questionType": "written",
+      "date": "2025-09-18",
+      "showAs": " 27. Deputy Brian Stanley asked the Tánaiste and Minister for Defence the commitment the Government have given to increase defence spending; and if he will make a statement on the matter. [37866/25] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "houseCode": "dail"
+      },
+      "questionNumber": 27,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-18/pq_27",
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/writtens/mul@/dbsect_56.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/writtens/dbsect_56",
+        "showAs": "Budget Process",
+        "debateSectionId": "dbsect_56"
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Brian-Stanley.D.2011-03-09",
+        "memberCode": "Brian-Stanley.D.2011-03-09",
+        "showAs": "Brian Stanley"
+      },
+      "to": {
+        "uri": null,
+        "showAs": "Defence",
+        "roleType": null,
+        "roleCode": null
+      }
+    }
+  },
+  {
+    "contextDate": "2025-09-18",
+    "question": {
+      "questionType": "written",
+      "date": "2025-09-18",
+      "showAs": " 28. Deputy Séamus McGrath asked the Tánaiste and Minister for Defence the strength of the Naval Service fleet; if there is an adequate number of personnel in the service to keep all ships operational when needed; the number of ships that have been docked at Haulbowline for more than six-months in the past three years; the exact duration that they have been docked; and the reason they have been docked. [49101/25] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "houseCode": "dail"
+      },
+      "questionNumber": 28,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-18/pq_28",
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/writtens/mul@/dbsect_57.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/writtens/dbsect_57",
+        "showAs": "Naval Service",
+        "debateSectionId": "dbsect_57"
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Séamus-McGrath.D.2024-11-29",
+        "memberCode": "Séamus-McGrath.D.2024-11-29",
+        "showAs": "Séamus McGrath"
+      },
+      "to": {
+        "uri": null,
+        "showAs": "Defence",
+        "roleType": null,
+        "roleCode": null
+      }
+    }
+  },
+  {
+    "contextDate": "2025-09-18",
+    "question": {
+      "questionType": "written",
+      "date": "2025-09-18",
+      "showAs": " 29. Deputy Aindrias Moynihan asked the Tánaiste and Minister for Defence his plans for continuing engagement with the UN Under-Secretary General for Peace Operations, Mr. Jean-Pierre Lacroix, for a further extension to the Security Council’s current renewal of the UNIFIL mandate for 12 months, to 31 August 2026, given the ongoing volatile situation in Lebanon; and if he will make a statement on the matter. [49280/25] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "houseCode": "dail"
+      },
+      "questionNumber": 29,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-18/pq_29",
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/writtens/mul@/dbsect_45.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/writtens/dbsect_45",
+        "showAs": "Defence Forces",
+        "debateSectionId": "dbsect_45"
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Aindrias-Moynihan.D.2016-10-03",
+        "memberCode": "Aindrias-Moynihan.D.2016-10-03",
+        "showAs": "Aindrias Moynihan"
+      },
+      "to": {
+        "uri": null,
+        "showAs": "Defence",
+        "roleType": null,
+        "roleCode": null
+      }
+    }
+  },
+  {
+    "contextDate": "2025-09-18",
+    "question": {
+      "questionType": "written",
+      "date": "2025-09-18",
+      "showAs": " 30. Deputy Donnchadh Ó Laoghaire asked the Tánaiste and Minister for Defence if he will consider the introduction of service commitment schemes to retain key specialist functions within the Defence Forces; and if he will make a statement on the matter. [49302/25] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "houseCode": "dail"
+      },
+      "questionNumber": 30,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-18/pq_30",
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/writtens/mul@/dbsect_58.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/writtens/dbsect_58",
+        "showAs": "Defence Forces",
+        "debateSectionId": "dbsect_58"
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Donnchadh-Ó-Laoghaire.D.2016-10-03",
+        "memberCode": "Donnchadh-Ó-Laoghaire.D.2016-10-03",
+        "showAs": "Donnchadh Ó Laoghaire"
+      },
+      "to": {
+        "uri": null,
+        "showAs": "Defence",
+        "roleType": null,
+        "roleCode": null
+      }
+    }
+  },
+  {
+    "contextDate": "2025-09-18",
+    "question": {
+      "questionType": "written",
+      "date": "2025-09-18",
+      "showAs": " 31. Deputy Albert Dolan asked the Tánaiste and Minister for Defence to provide an update on payments and remuneration for members of the Reserve Defence Forces; and to explain the changes that have taken place in recent years. [49214/25] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "houseCode": "dail"
+      },
+      "questionNumber": 31,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-18/pq_31",
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/writtens/mul@/dbsect_59.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/writtens/dbsect_59",
+        "showAs": "Defence Forces",
+        "debateSectionId": "dbsect_59"
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Albert-Dolan.D.2024-11-29",
+        "memberCode": "Albert-Dolan.D.2024-11-29",
+        "showAs": "Albert Dolan"
+      },
+      "to": {
+        "uri": null,
+        "showAs": "Defence",
+        "roleType": null,
+        "roleCode": null
+      }
+    }
+  },
+  {
+    "contextDate": "2025-09-18",
+    "question": {
+      "questionType": "written",
+      "date": "2025-09-18",
+      "showAs": " 32. Deputy Naoise Ó Muirí asked the Tánaiste and Minister for Defence to provide an update on the planned new training centre for the Army Ranger Wing of the Defence Forces; and if he will make a statement on the matter. [48911/25] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "houseCode": "dail"
+      },
+      "questionNumber": 32,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-18/pq_32",
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/writtens/mul@/dbsect_60.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/writtens/dbsect_60",
+        "showAs": "Defence Forces",
+        "debateSectionId": "dbsect_60"
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Naoise-Ó-Muirí.D.2024-11-29",
+        "memberCode": "Naoise-Ó-Muirí.D.2024-11-29",
+        "showAs": "Naoise Ó Muirí"
+      },
+      "to": {
+        "uri": null,
+        "showAs": "Defence",
+        "roleType": null,
+        "roleCode": null
+      }
+    }
+  },
+  {
+    "contextDate": "2025-09-18",
+    "question": {
+      "questionType": "written",
+      "date": "2025-09-18",
+      "showAs": " 33. Deputy Tom Brabazon asked the Tánaiste and Minister for Defence for an update on the operational functionality of Baldonnell Aerodrome given the recent issues with air traffic control personnel. [48979/25] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "houseCode": "dail"
+      },
+      "questionNumber": 33,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-18/pq_33",
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/writtens/mul@/dbsect_61.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/writtens/dbsect_61",
+        "showAs": "Air Corps",
+        "debateSectionId": "dbsect_61"
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tom-Brabazon.D.2024-11-29",
+        "memberCode": "Tom-Brabazon.D.2024-11-29",
+        "showAs": "Tom Brabazon"
+      },
+      "to": {
+        "uri": null,
+        "showAs": "Defence",
+        "roleType": null,
+        "roleCode": null
+      }
+    }
+  },
+  {
+    "contextDate": "2025-09-18",
+    "question": {
+      "questionType": "written",
+      "date": "2025-09-18",
+      "showAs": " 34. Deputy Duncan Smith asked the Tánaiste and Minister for Defence to provide an update on the current work ongoing with the British government regarding a memorandum of understanding for Ireland's defence, which is to be updated in 2026; and if he will make a statement on the matter. [48094/25] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "houseCode": "dail"
+      },
+      "questionNumber": 34,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-18/pq_34",
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/writtens/mul@/dbsect_62.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/writtens/dbsect_62",
+        "showAs": "National Security",
+        "debateSectionId": "dbsect_62"
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Duncan-Smith.D.2020-02-08",
+        "memberCode": "Duncan-Smith.D.2020-02-08",
+        "showAs": "Duncan Smith"
+      },
+      "to": {
+        "uri": null,
+        "showAs": "Defence",
+        "roleType": null,
+        "roleCode": null
+      }
+    }
+  },
+  {
+    "contextDate": "2025-09-18",
+    "question": {
+      "questionType": "written",
+      "date": "2025-09-18",
+      "showAs": " 35. Deputy Tony McCormack asked the Tánaiste and Minister for Defence his response to the recent decision by the UN Security Council in relation to the UNIFIL Mandate. [48983/25] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "houseCode": "dail"
+      },
+      "questionNumber": 35,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-18/pq_35",
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/writtens/mul@/dbsect_45.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/writtens/dbsect_45",
+        "showAs": "Defence Forces",
+        "debateSectionId": "dbsect_45"
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tony-McCormack.D.2024-11-29",
+        "memberCode": "Tony-McCormack.D.2024-11-29",
+        "showAs": "Tony McCormack"
+      },
+      "to": {
+        "uri": null,
+        "showAs": "Defence",
+        "roleType": null,
+        "roleCode": null
+      }
+    }
+  },
+  {
+    "contextDate": "2025-09-18",
+    "question": {
+      "questionType": "written",
+      "date": "2025-09-18",
+      "showAs": " 36. Deputy Paul Lawless asked the Tánaiste and Minister for Defence the circumstances surrounding the collapse of the Army nursing service; the decision to outsource to private contractors; and if he will make a statement on the matter. [49294/25] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "houseCode": "dail"
+      },
+      "questionNumber": 36,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-18/pq_36",
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/writtens/mul@/dbsect_63.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/writtens/dbsect_63",
+        "showAs": "Defence Forces",
+        "debateSectionId": "dbsect_63"
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Lawless.D.2024-11-29",
+        "memberCode": "Paul-Lawless.D.2024-11-29",
+        "showAs": "Paul Lawless"
+      },
+      "to": {
+        "uri": null,
+        "showAs": "Defence",
+        "roleType": null,
+        "roleCode": null
+      }
+    }
+  },
+  {
+    "contextDate": "2025-09-18",
+    "question": {
+      "questionType": "written",
+      "date": "2025-09-18",
+      "showAs": " 37. Deputy Louis O'Hara asked the Tánaiste and Minister for Defence the process for the awarding of historical IRA medals to families of volunteers; and if he will make a statement on the matter. [49282/25] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "houseCode": "dail"
+      },
+      "questionNumber": 37,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-18/pq_37",
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/writtens/mul@/dbsect_64.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/writtens/dbsect_64",
+        "showAs": "Commemorative Medals",
+        "debateSectionId": "dbsect_64"
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Louis-O'Hara.D.2024-11-29",
+        "memberCode": "Louis-O'Hara.D.2024-11-29",
+        "showAs": "Louis O'Hara"
+      },
+      "to": {
+        "uri": null,
+        "showAs": "Defence",
+        "roleType": null,
+        "roleCode": null
+      }
+    }
+  },
+  {
+    "contextDate": "2025-09-18",
+    "question": {
+      "questionType": "written",
+      "date": "2025-09-18",
+      "showAs": " 38. Deputy Ryan O'Meara asked the Tánaiste and Minister for Defence the means by which he is examining incentives and structural changes to make a military career accessible to a wider range of candidates, and to encourage existing personnel to extend their military careers, including rewarding long service and broadening eligibility criteria. [48991/25] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "houseCode": "dail"
+      },
+      "questionNumber": 38,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-18/pq_38",
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/writtens/mul@/dbsect_65.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/writtens/dbsect_65",
+        "showAs": "Defence Forces",
+        "debateSectionId": "dbsect_65"
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ryan-O'Meara.D.2024-11-29",
+        "memberCode": "Ryan-O'Meara.D.2024-11-29",
+        "showAs": "Ryan O'Meara"
+      },
+      "to": {
+        "uri": null,
+        "showAs": "Defence",
+        "roleType": null,
+        "roleCode": null
+      }
+    }
+  },
+  {
+    "contextDate": "2025-09-18",
+    "question": {
+      "questionType": "oral",
+      "date": "2025-09-18",
+      "showAs": " 39. Deputy Mark Ward asked the Tánaiste and Minister for Defence to provide details of the Government’s decision to remove the triple lock; if the UN General Assembly can sanction peacekeeping missions by bypassing a veto at the UN Security Council; and if he will make a statement on the matter.  [49268/25] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "houseCode": "dail"
+      },
+      "questionNumber": 39,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-18/pq_39",
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/debate/mul@/dbsect_9.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/debate/dbsect_9",
+        "showAs": "Military Neutrality",
+        "debateSectionId": "dbsect_9"
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Mark-Ward.D.2019-11-29",
+        "memberCode": "Mark-Ward.D.2019-11-29",
+        "showAs": "Mark Ward"
+      },
+      "to": {
+        "uri": null,
+        "showAs": "Defence",
+        "roleType": null,
+        "roleCode": null
+      }
+    }
+  },
+  {
+    "contextDate": "2025-09-18",
+    "question": {
+      "questionType": "written",
+      "date": "2025-09-18",
+      "showAs": " 40. Deputy Brendan Smith asked the Tánaiste and Minister for Defence the proposals there are to upgrade and-or provide new accommodation and facilities, including living accommodation, for the permanent Defence Forces; and if he will make a statement on the matter. [49234/25] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "houseCode": "dail"
+      },
+      "questionNumber": 40,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-18/pq_40",
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/writtens/mul@/dbsect_66.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/writtens/dbsect_66",
+        "showAs": "Defence Forces",
+        "debateSectionId": "dbsect_66"
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Brendan-Smith.D.1992-12-14",
+        "memberCode": "Brendan-Smith.D.1992-12-14",
+        "showAs": "Brendan Smith"
+      },
+      "to": {
+        "uri": null,
+        "showAs": "Defence",
+        "roleType": null,
+        "roleCode": null
+      }
+    }
+  },
+  {
+    "contextDate": "2025-09-18",
+    "question": {
+      "questionType": "written",
+      "date": "2025-09-18",
+      "showAs": " 41. Deputy Grace Boland asked the Tánaiste and Minister for Defence if the provision of accommodation for Defence Force members is being pursued to improve recruitment and retention of members; and if he will make a statement on the matter. [49115/25] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "houseCode": "dail"
+      },
+      "questionNumber": 41,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-18/pq_41",
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/writtens/mul@/dbsect_66.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/writtens/dbsect_66",
+        "showAs": "Defence Forces",
+        "debateSectionId": "dbsect_66"
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Grace-Boland.D.2024-11-29",
+        "memberCode": "Grace-Boland.D.2024-11-29",
+        "showAs": "Grace Boland"
+      },
+      "to": {
+        "uri": null,
+        "showAs": "Defence",
+        "roleType": null,
+        "roleCode": null
+      }
+    }
+  },
+  {
+    "contextDate": "2025-09-18",
+    "question": {
+      "questionType": "written",
+      "date": "2025-09-18",
+      "showAs": " 42. Deputy Shay Brennan asked the Tánaiste and Minister for Defence the measures he is taking regarding the further development of the Reserve Defence Force. [48993/25] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "houseCode": "dail"
+      },
+      "questionNumber": 42,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-18/pq_42",
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/writtens/mul@/dbsect_68.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/writtens/dbsect_68",
+        "showAs": "Defence Forces",
+        "debateSectionId": "dbsect_68"
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Shay-Brennan.D.2024-11-29",
+        "memberCode": "Shay-Brennan.D.2024-11-29",
+        "showAs": "Shay Brennan"
+      },
+      "to": {
+        "uri": null,
+        "showAs": "Defence",
+        "roleType": null,
+        "roleCode": null
+      }
+    }
+  },
+  {
+    "contextDate": "2025-09-18",
+    "question": {
+      "questionType": "written",
+      "date": "2025-09-18",
+      "showAs": " 43. Deputy Thomas Gould asked the Tánaiste and Minister for Defence the actions taken to improve retention in the Defence Forces. [49210/25] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "houseCode": "dail"
+      },
+      "questionNumber": 43,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-18/pq_43",
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/writtens/mul@/dbsect_48.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/writtens/dbsect_48",
+        "showAs": "Defence Forces",
+        "debateSectionId": "dbsect_48"
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Thomas-Gould.D.2020-02-08",
+        "memberCode": "Thomas-Gould.D.2020-02-08",
+        "showAs": "Thomas Gould"
+      },
+      "to": {
+        "uri": null,
+        "showAs": "Defence",
+        "roleType": null,
+        "roleCode": null
+      }
+    }
+  },
+  {
+    "contextDate": "2025-09-18",
+    "question": {
+      "questionType": "written",
+      "date": "2025-09-18",
+      "showAs": " 44. Deputy Seán Ó Fearghaíl asked the Tánaiste and Minister for Defence the strength of the permanent Defence Forces as of 31 August 2025, or the latest date available; and if he will make a statement on the matter. [48978/25] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "houseCode": "dail"
+      },
+      "questionNumber": 44,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-18/pq_44",
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/writtens/mul@/dbsect_69.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/writtens/dbsect_69",
+        "showAs": "Defence Forces",
+        "debateSectionId": "dbsect_69"
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Seán-Ó-Fearghaíl.S.2000-06-09",
+        "memberCode": "Seán-Ó-Fearghaíl.S.2000-06-09",
+        "showAs": "Seán Ó Fearghaíl"
+      },
+      "to": {
+        "uri": null,
+        "showAs": "Defence",
+        "roleType": null,
+        "roleCode": null
+      }
+    }
+  },
+  {
+    "contextDate": "2025-09-18",
+    "question": {
+      "questionType": "written",
+      "date": "2025-09-18",
+      "showAs": " 45. Deputy Edward Timmins asked the Tánaiste and Minister for Defence the progress at securing a primary radar system; and if he will make a statement on the matter. [49099/25] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "houseCode": "dail"
+      },
+      "questionNumber": 45,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-18/pq_45",
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/writtens/mul@/dbsect_70.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/writtens/dbsect_70",
+        "showAs": "Defence Forces",
+        "debateSectionId": "dbsect_70"
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Edward-Timmins.D.2024-11-29",
+        "memberCode": "Edward-Timmins.D.2024-11-29",
+        "showAs": "Edward Timmins"
+      },
+      "to": {
+        "uri": null,
+        "showAs": "Defence",
+        "roleType": null,
+        "roleCode": null
+      }
+    }
+  },
+  {
+    "contextDate": "2025-09-18",
+    "question": {
+      "questionType": "written",
+      "date": "2025-09-18",
+      "showAs": " 46. Deputy Naoise Ó Cearúil asked the Tánaiste and Minister for Defence if he will report on Ireland's engagement with EU partners on defence innovation, including the development of radar and AI technologies; and if he will make a statement on the matter. [49098/25] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "houseCode": "dail"
+      },
+      "questionNumber": 46,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-18/pq_46",
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/writtens/mul@/dbsect_71.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/writtens/dbsect_71",
+        "showAs": "Foreign Policy",
+        "debateSectionId": "dbsect_71"
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Naoise-Ó-Cearúil.D.2024-11-29",
+        "memberCode": "Naoise-Ó-Cearúil.D.2024-11-29",
+        "showAs": "Naoise Ó Cearúil"
+      },
+      "to": {
+        "uri": null,
+        "showAs": "Defence",
+        "roleType": null,
+        "roleCode": null
+      }
+    }
+  },
+  {
+    "contextDate": "2025-09-18",
+    "question": {
+      "questionType": "written",
+      "date": "2025-09-18",
+      "showAs": " 47. Deputy Cathal Crowe asked the Tánaiste and Minister for Defence the extent to which his Department owns property at Knockalisheen, Meelick, County Clare; the purpose for which this land is currently used; and his future intentions for this land bank. [48941/25] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "houseCode": "dail"
+      },
+      "questionNumber": 47,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-18/pq_47",
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/writtens/mul@/dbsect_72.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/writtens/dbsect_72",
+        "showAs": "Departmental Properties",
+        "debateSectionId": "dbsect_72"
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Cathal-Crowe.D.2020-02-08",
+        "memberCode": "Cathal-Crowe.D.2020-02-08",
+        "showAs": "Cathal Crowe"
+      },
+      "to": {
+        "uri": null,
+        "showAs": "Defence",
+        "roleType": null,
+        "roleCode": null
+      }
+    }
+  },
+  {
+    "contextDate": "2025-09-18",
+    "question": {
+      "questionType": "written",
+      "date": "2025-09-18",
+      "showAs": " 48. Deputy Ryan O'Meara asked the Tánaiste and Minister for Defence for an update on the Programme for Government commitment to a nationwide programme for transition year and third level students, with a view to achieving the target of 11,500 personnel and better representation of women at all levels of the Defence Forces. [48990/25] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "houseCode": "dail"
+      },
+      "questionNumber": 48,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-18/pq_48",
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/writtens/mul@/dbsect_51.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/writtens/dbsect_51",
+        "showAs": "Defence Forces",
+        "debateSectionId": "dbsect_51"
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ryan-O'Meara.D.2024-11-29",
+        "memberCode": "Ryan-O'Meara.D.2024-11-29",
+        "showAs": "Ryan O'Meara"
+      },
+      "to": {
+        "uri": null,
+        "showAs": "Defence",
+        "roleType": null,
+        "roleCode": null
+      }
+    }
+  },
+  {
+    "contextDate": "2025-09-18",
+    "question": {
+      "questionType": "written",
+      "date": "2025-09-18",
+      "showAs": " 49. Deputy Sinéad Gibney asked the Tánaiste and Minister for Defence if the Defence Forces or his Department is keeping data on the number of people leaving the Defence Forces, by service, rank, and when they are leaving; if so, how far back this data goes; if it has been analysed to better understand the reason members are leaving the Defence Forces; and if he will make a statement on the matter. [49296/25] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "houseCode": "dail"
+      },
+      "questionNumber": 49,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-18/pq_49",
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/writtens/mul@/dbsect_73.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/writtens/dbsect_73",
+        "showAs": "Defence Forces",
+        "debateSectionId": "dbsect_73"
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Sinéad-Gibney.D.2024-11-29",
+        "memberCode": "Sinéad-Gibney.D.2024-11-29",
+        "showAs": "Sinéad Gibney"
+      },
+      "to": {
+        "uri": null,
+        "showAs": "Defence",
+        "roleType": null,
+        "roleCode": null
+      }
+    }
+  },
+  {
+    "contextDate": "2025-09-18",
+    "question": {
+      "questionType": "written",
+      "date": "2025-09-18",
+      "showAs": " 50. Deputy Noel McCarthy asked the Tánaiste and Minister for Defence the level of specialist technician recruitment to the Naval Service over the past three years; the positions filled in that period; if he satisfied that there is currently an adequate number of technicians to ensure the proper functioning of the naval fleet; and if he will make a statement on the matter. [49092/25] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "houseCode": "dail"
+      },
+      "questionNumber": 50,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-18/pq_50",
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/writtens/mul@/dbsect_74.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/writtens/dbsect_74",
+        "showAs": "Naval Service",
+        "debateSectionId": "dbsect_74"
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Noel-McCarthy.D.2024-11-29",
+        "memberCode": "Noel-McCarthy.D.2024-11-29",
+        "showAs": "Noel McCarthy"
+      },
+      "to": {
+        "uri": null,
+        "showAs": "Defence",
+        "roleType": null,
+        "roleCode": null
+      }
+    }
+  },
+  {
+    "contextDate": "2025-09-18",
+    "question": {
+      "questionType": "written",
+      "date": "2025-09-18",
+      "showAs": " 51. Deputy Ruairí Ó Murchú asked the Tánaiste and Minister for Defence the interaction he and his Department have had in relation to the changes in the UNIFIL mission; and if he will make a statement on the matter. [48884/25] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "houseCode": "dail"
+      },
+      "questionNumber": 51,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-18/pq_51",
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/writtens/mul@/dbsect_45.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/writtens/dbsect_45",
+        "showAs": "Defence Forces",
+        "debateSectionId": "dbsect_45"
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruairí-Ó-Murchú.D.2020-02-08",
+        "memberCode": "Ruairí-Ó-Murchú.D.2020-02-08",
+        "showAs": "Ruairí Ó Murchú"
+      },
+      "to": {
+        "uri": null,
+        "showAs": "Defence",
+        "roleType": null,
+        "roleCode": null
+      }
+    }
+  },
+  {
+    "contextDate": "2025-09-18",
+    "question": {
+      "questionType": "written",
+      "date": "2025-09-18",
+      "showAs": " 52. Deputy Shane Moynihan asked the Tánaiste and Minister for Defence for an update on the planned rollout beginning in 2026 of the military radar programme as recommended by the Commission on the Defence Forces; and if he will make a statement on the matter. [49273/25] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "houseCode": "dail"
+      },
+      "questionNumber": 52,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-18/pq_52",
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/writtens/mul@/dbsect_70.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/writtens/dbsect_70",
+        "showAs": "Defence Forces",
+        "debateSectionId": "dbsect_70"
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Shane-Moynihan.D.2024-11-29",
+        "memberCode": "Shane-Moynihan.D.2024-11-29",
+        "showAs": "Shane Moynihan"
+      },
+      "to": {
+        "uri": null,
+        "showAs": "Defence",
+        "roleType": null,
+        "roleCode": null
+      }
+    }
+  },
+  {
+    "contextDate": "2025-09-18",
+    "question": {
+      "questionType": "written",
+      "date": "2025-09-18",
+      "showAs": " 53. Deputy Willie O'Dea asked the Tánaiste and Minister for Defence if he has examined the extent to which pension entitlements are hindering retention levels in the Defence Forces; and if he will make a statement on the matter. [48985/25] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "houseCode": "dail"
+      },
+      "questionNumber": 53,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-18/pq_53",
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/writtens/mul@/dbsect_75.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/writtens/dbsect_75",
+        "showAs": "Defence Forces",
+        "debateSectionId": "dbsect_75"
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Willie-O'Dea.D.1982-03-09",
+        "memberCode": "Willie-O'Dea.D.1982-03-09",
+        "showAs": "Willie O'Dea"
+      },
+      "to": {
+        "uri": null,
+        "showAs": "Defence",
+        "roleType": null,
+        "roleCode": null
+      }
+    }
+  },
+  {
+    "contextDate": "2025-09-18",
+    "question": {
+      "questionType": "written",
+      "date": "2025-09-18",
+      "showAs": " 54. Deputy Malcolm Byrne asked the Tánaiste and Minister for Defence for an update on his announcement to support the procurement of Jet capability for the State, what developments have occurred in providing the State with its own Air Policing Capability; and if he will make a statement on the matter. [49036/25] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "houseCode": "dail"
+      },
+      "questionNumber": 54,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-18/pq_54",
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/writtens/mul@/dbsect_76.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/writtens/dbsect_76",
+        "showAs": "Defence Forces",
+        "debateSectionId": "dbsect_76"
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Malcolm-Byrne.D.2019-11-29",
+        "memberCode": "Malcolm-Byrne.D.2019-11-29",
+        "showAs": "Malcolm Byrne"
+      },
+      "to": {
+        "uri": null,
+        "showAs": "Defence",
+        "roleType": null,
+        "roleCode": null
+      }
+    }
+  },
+  {
+    "contextDate": "2025-09-18",
+    "question": {
+      "questionType": "oral",
+      "date": "2025-09-18",
+      "showAs": " 55. Deputy John Clendennen asked the Tánaiste and Minister for Defence if the proposed changes to the triple lock will impact Ireland's policy of being militarily neutral; and if he will make a statement on the matter.  [48881/25] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "houseCode": "dail"
+      },
+      "questionNumber": 55,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-18/pq_55",
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/debate/mul@/dbsect_9.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/debate/dbsect_9",
+        "showAs": "Military Neutrality",
+        "debateSectionId": "dbsect_9"
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/John-Clendennen.D.2024-11-29",
+        "memberCode": "John-Clendennen.D.2024-11-29",
+        "showAs": "John Clendennen"
+      },
+      "to": {
+        "uri": null,
+        "showAs": "Defence",
+        "roleType": null,
+        "roleCode": null
+      }
+    }
+  },
+  {
+    "contextDate": "2025-09-18",
+    "question": {
+      "questionType": "written",
+      "date": "2025-09-18",
+      "showAs": " 56. Deputy Tom Brabazon asked the Tánaiste and Minister for Defence the way in which the Defence Forces are developing their drone capability; and if he will make a statement on the matter. [48980/25] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "houseCode": "dail"
+      },
+      "questionNumber": 56,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-18/pq_56",
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/writtens/mul@/dbsect_77.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/writtens/dbsect_77",
+        "showAs": "Defence Forces",
+        "debateSectionId": "dbsect_77"
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tom-Brabazon.D.2024-11-29",
+        "memberCode": "Tom-Brabazon.D.2024-11-29",
+        "showAs": "Tom Brabazon"
+      },
+      "to": {
+        "uri": null,
+        "showAs": "Defence",
+        "roleType": null,
+        "roleCode": null
+      }
+    }
+  },
+  {
+    "contextDate": "2025-09-18",
+    "question": {
+      "questionType": "written",
+      "date": "2025-09-18",
+      "showAs": " 57. Deputy Malcolm Byrne asked the Tánaiste and Minister for Defence the total number in the Reserve Defence Forces at present; the way in which that compares with five years ago and ten years ago; the measures in place to encourage recruitment; and if he will make a statement on the matter. [49037/25] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "houseCode": "dail"
+      },
+      "questionNumber": 57,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-18/pq_57",
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/writtens/mul@/dbsect_78.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/writtens/dbsect_78",
+        "showAs": "Defence Forces",
+        "debateSectionId": "dbsect_78"
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Malcolm-Byrne.D.2019-11-29",
+        "memberCode": "Malcolm-Byrne.D.2019-11-29",
+        "showAs": "Malcolm Byrne"
+      },
+      "to": {
+        "uri": null,
+        "showAs": "Defence",
+        "roleType": null,
+        "roleCode": null
+      }
+    }
+  },
+  {
+    "contextDate": "2025-09-18",
+    "question": {
+      "questionType": "written",
+      "date": "2025-09-18",
+      "showAs": " 58. Deputy Paul Lawless asked the Tánaiste and Minister for Defence the measures he will take to improve the Irish Naval Service; and if he will make a statement on the matter. [49293/25] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "houseCode": "dail"
+      },
+      "questionNumber": 58,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-18/pq_58",
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/writtens/mul@/dbsect_79.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/writtens/dbsect_79",
+        "showAs": "Naval Service",
+        "debateSectionId": "dbsect_79"
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Lawless.D.2024-11-29",
+        "memberCode": "Paul-Lawless.D.2024-11-29",
+        "showAs": "Paul Lawless"
+      },
+      "to": {
+        "uri": null,
+        "showAs": "Defence",
+        "roleType": null,
+        "roleCode": null
+      }
+    }
+  },
+  {
+    "contextDate": "2025-09-18",
+    "question": {
+      "questionType": "written",
+      "date": "2025-09-18",
+      "showAs": " 59. Deputy Willie O'Dea asked the Tánaiste and Minister for Defence if he will report on the capital funding allocated to defence in the National Development Plan for the period 2026 to 2030. [48984/25] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "houseCode": "dail"
+      },
+      "questionNumber": 59,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-18/pq_59",
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/writtens/mul@/dbsect_80.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/writtens/dbsect_80",
+        "showAs": "Departmental Funding",
+        "debateSectionId": "dbsect_80"
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Willie-O'Dea.D.1982-03-09",
+        "memberCode": "Willie-O'Dea.D.1982-03-09",
+        "showAs": "Willie O'Dea"
+      },
+      "to": {
+        "uri": null,
+        "showAs": "Defence",
+        "roleType": null,
+        "roleCode": null
+      }
+    }
+  },
+  {
+    "contextDate": "2025-09-18",
+    "question": {
+      "questionType": "written",
+      "date": "2025-09-18",
+      "showAs": " 60. Deputy Paul Murphy asked the Tánaiste and Minister for Defence if Ireland has agreed to be part of a peacekeeping force in Ukraine even if Russia does not consent to the mission; and if he will make a statement on the matter. [49148/25] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "houseCode": "dail"
+      },
+      "questionNumber": 60,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-18/pq_60",
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/writtens/mul@/dbsect_46.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/writtens/dbsect_46",
+        "showAs": "Ukraine War",
+        "debateSectionId": "dbsect_46"
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Murphy.D.2014-10-10",
+        "memberCode": "Paul-Murphy.D.2014-10-10",
+        "showAs": "Paul Murphy"
+      },
+      "to": {
+        "uri": null,
+        "showAs": "Defence",
+        "roleType": null,
+        "roleCode": null
+      }
+    }
+  },
+  {
+    "contextDate": "2025-09-18",
+    "question": {
+      "questionType": "written",
+      "date": "2025-09-18",
+      "showAs": " 62. Deputy Micheál Carrigy asked the Tánaiste and Minister for Defence if consideration is being given to holding specific recruitment campaigns for people in other sectors and in mid- and later-career stages; and if he will make a statement on the matter. [48826/25] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "houseCode": "dail"
+      },
+      "questionNumber": 62,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-18/pq_62",
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/writtens/mul@/dbsect_69.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/writtens/dbsect_69",
+        "showAs": "Defence Forces",
+        "debateSectionId": "dbsect_69"
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Micheál-Carrigy.S.2020-03-30",
+        "memberCode": "Micheál-Carrigy.S.2020-03-30",
+        "showAs": "Micheál Carrigy"
+      },
+      "to": {
+        "uri": null,
+        "showAs": "Defence",
+        "roleType": null,
+        "roleCode": null
+      }
+    }
+  },
+  {
+    "contextDate": "2025-09-18",
+    "question": {
+      "questionType": "written",
+      "date": "2025-09-18",
+      "showAs": " 76. Deputy John Paul O'Shea asked the Tánaiste and Minister for Defence the current strength of the Reserve Defence Force; the efforts being made by his Department to increase recruitment to the Reserve Defence Force; and if he will make a statement on the matter. [49254/25] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "houseCode": "dail"
+      },
+      "questionNumber": 76,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-18/pq_76",
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/writtens/mul@/dbsect_68.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/writtens/dbsect_68",
+        "showAs": "Defence Forces",
+        "debateSectionId": "dbsect_68"
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/John-Paul-O'Shea.D.2024-11-29",
+        "memberCode": "John-Paul-O'Shea.D.2024-11-29",
+        "showAs": "John Paul O'Shea"
+      },
+      "to": {
+        "uri": null,
+        "showAs": "Defence",
+        "roleType": null,
+        "roleCode": null
+      }
+    }
+  },
+  {
+    "contextDate": "2025-09-18",
+    "question": {
+      "questionType": "written",
+      "date": "2025-09-18",
+      "showAs": " 77. Deputy Pádraig O'Sullivan asked the Tánaiste and Minister for Defence the discussions he and his Department have had with the UK Government on defence co-operation; what is likely to be included in an upcoming MOU (Memorandum of Understanding); and if he will make a statement on the matter. [49094/25] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "houseCode": "dail"
+      },
+      "questionNumber": 77,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-18/pq_77",
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/writtens/mul@/dbsect_62.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/writtens/dbsect_62",
+        "showAs": "National Security",
+        "debateSectionId": "dbsect_62"
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Pádraig-O'Sullivan.D.2019-11-29",
+        "memberCode": "Pádraig-O'Sullivan.D.2019-11-29",
+        "showAs": "Pádraig O'Sullivan"
+      },
+      "to": {
+        "uri": null,
+        "showAs": "Defence",
+        "roleType": null,
+        "roleCode": null
+      }
+    }
+  },
+  {
+    "contextDate": "2025-09-18",
+    "question": {
+      "questionType": "written",
+      "date": "2025-09-18",
+      "showAs": " 78. Deputy Barry Ward asked the Tánaiste and Minister for Defence the position regarding any initiatives that seek  to encourage both recruitment and retention of personnel in the armed forces; and if he will make a statement on the matter. [49039/25] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "houseCode": "dail"
+      },
+      "questionNumber": 78,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-18/pq_78",
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/writtens/mul@/dbsect_69.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/writtens/dbsect_69",
+        "showAs": "Defence Forces",
+        "debateSectionId": "dbsect_69"
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Barry-Ward.S.2020-03-30",
+        "memberCode": "Barry-Ward.S.2020-03-30",
+        "showAs": "Barry Ward"
+      },
+      "to": {
+        "uri": null,
+        "showAs": "Defence",
+        "roleType": null,
+        "roleCode": null
+      }
+    }
+  },
+  {
+    "contextDate": "2025-09-18",
+    "question": {
+      "questionType": "oral",
+      "date": "2025-09-18",
+      "showAs": " 82. Deputy Pa Daly asked the Minister for Climate, Energy and the Environment the measures he is taking to address the fact that 300,000 households are in arrears on their energy bills; and if he will make a statement on the matter.  [49202/25] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "houseCode": "dail"
+      },
+      "questionNumber": 82,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-18/pq_82",
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/debate/mul@/dbsect_16.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/debate/dbsect_16",
+        "showAs": "Energy Prices",
+        "debateSectionId": "dbsect_16"
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Pa-Daly.D.2020-02-08",
+        "memberCode": "Pa-Daly.D.2020-02-08",
+        "showAs": "Pa Daly"
+      },
+      "to": {
+        "uri": null,
+        "showAs": "Climate",
+        "roleType": null,
+        "roleCode": null
+      }
+    }
+  },
+  {
+    "contextDate": "2025-09-18",
+    "question": {
+      "questionType": "oral",
+      "date": "2025-09-18",
+      "showAs": " 83. Deputy Ciarán Ahern asked the Minister for Climate, Energy and the Environment if he or his Department have been lobbied with regard to the promised increase in the quantity of oil and gas which is to be purchased from the United States of America by the European Union; the contribution that this State is expected to make towards such an increase, and-or the potential for related loosening of environmental and climate regulations and human rights safeguards; and if he will make a statement on the matter.  [49306/25] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "houseCode": "dail"
+      },
+      "questionNumber": 83,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-18/pq_83",
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/debate/mul@/dbsect_17.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/debate/dbsect_17",
+        "showAs": "Energy Policy",
+        "debateSectionId": "dbsect_17"
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ciarán-Ahern.D.2024-11-29",
+        "memberCode": "Ciarán-Ahern.D.2024-11-29",
+        "showAs": "Ciarán Ahern"
+      },
+      "to": {
+        "uri": null,
+        "showAs": "Climate",
+        "roleType": null,
+        "roleCode": null
+      }
+    }
+  },
+  {
+    "contextDate": "2025-09-18",
+    "question": {
+      "questionType": "oral",
+      "date": "2025-09-18",
+      "showAs": " 84. Deputy Pa Daly asked the Minister for Climate, Energy and the Environment the measures he is taking to address the concerns raised by senior Government officials regarding the impact of data centres on household bills and housing development; and if he will make a statement on the matter.  [49203/25] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "houseCode": "dail"
+      },
+      "questionNumber": 84,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-18/pq_84",
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/debate/mul@/dbsect_18.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/debate/dbsect_18",
+        "showAs": "Data Centres",
+        "debateSectionId": "dbsect_18"
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Pa-Daly.D.2020-02-08",
+        "memberCode": "Pa-Daly.D.2020-02-08",
+        "showAs": "Pa Daly"
+      },
+      "to": {
+        "uri": null,
+        "showAs": "Climate",
+        "roleType": null,
+        "roleCode": null
+      }
+    }
+  },
+  {
+    "contextDate": "2025-09-18",
+    "question": {
+      "questionType": "oral",
+      "date": "2025-09-18",
+      "showAs": " 85. Deputy Brian Stanley asked the Minister for Climate, Energy and the Environment the amount of funding provided to projects and initiatives in County Laois from the national and European just transition funds, under the various headings, to date in 2025, by recipients; the amount granted to each, and the purposes for which it is to be used; and if he will make a statement on the matter. [49377/25] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "houseCode": "dail"
+      },
+      "questionNumber": 85,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-18/pq_85",
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/debate/mul@/dbsect_19.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/debate/dbsect_19",
+        "showAs": "Just Transition",
+        "debateSectionId": "dbsect_19"
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Brian-Stanley.D.2011-03-09",
+        "memberCode": "Brian-Stanley.D.2011-03-09",
+        "showAs": "Brian Stanley"
+      },
+      "to": {
+        "uri": null,
+        "showAs": "Climate",
+        "roleType": null,
+        "roleCode": null
+      }
+    }
+  },
+  {
+    "contextDate": "2025-09-18",
+    "question": {
+      "questionType": "oral",
+      "date": "2025-09-18",
+      "showAs": " 86. Deputy Paul Lawless asked the Minister for Climate, Energy and the Environment the proportion of plastics collected under the deposit return scheme that are processed overseas; and if he will make a statement on the matter.  [49283/25] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "houseCode": "dail"
+      },
+      "questionNumber": 86,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-18/pq_86",
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/debate/mul@/dbsect_20.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/debate/dbsect_20",
+        "showAs": "Recycling Policy",
+        "debateSectionId": "dbsect_20"
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Lawless.D.2024-11-29",
+        "memberCode": "Paul-Lawless.D.2024-11-29",
+        "showAs": "Paul Lawless"
+      },
+      "to": {
+        "uri": null,
+        "showAs": "Climate",
+        "roleType": null,
+        "roleCode": null
+      }
+    }
+  },
+  {
+    "contextDate": "2025-09-18",
+    "question": {
+      "questionType": "oral",
+      "date": "2025-09-18",
+      "showAs": " 87. Deputy Catherine Callaghan asked the Minister for Climate, Energy and the Environment his plans for an expansion of the funding of the circular economy innovation grant scheme in 2025.  [49232/25] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "houseCode": "dail"
+      },
+      "questionNumber": 87,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-18/pq_87",
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/debate/mul@/dbsect_22.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/debate/dbsect_22",
+        "showAs": "Environmental Schemes",
+        "debateSectionId": "dbsect_22"
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Catherine-Callaghan.D.2024-11-29",
+        "memberCode": "Catherine-Callaghan.D.2024-11-29",
+        "showAs": "Catherine Callaghan"
+      },
+      "to": {
+        "uri": null,
+        "showAs": "Climate",
+        "roleType": null,
+        "roleCode": null
+      }
+    }
+  },
+  {
+    "contextDate": "2025-09-18",
+    "question": {
+      "questionType": "oral",
+      "date": "2025-09-18",
+      "showAs": " 88. Deputy John Clendennen asked the Minister for Climate, Energy and the Environment the status of the operation of the home energy upgrade loan scheme; and if he will make a statement on the matter.  [48877/25] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "houseCode": "dail"
+      },
+      "questionNumber": 88,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-18/pq_88",
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/debate/mul@/dbsect_23.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/debate/dbsect_23",
+        "showAs": "Environmental Schemes",
+        "debateSectionId": "dbsect_23"
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/John-Clendennen.D.2024-11-29",
+        "memberCode": "John-Clendennen.D.2024-11-29",
+        "showAs": "John Clendennen"
+      },
+      "to": {
+        "uri": null,
+        "showAs": "Climate",
+        "roleType": null,
+        "roleCode": null
+      }
+    }
+  },
+  {
+    "contextDate": "2025-09-18",
+    "question": {
+      "questionType": "oral",
+      "date": "2025-09-18",
+      "showAs": " 90. Deputy Paul Lawless asked the Minister for Climate, Energy and the Environment his views on whether the deposit return scheme has been a success to date; and if he will make a statement on the matter.  [49284/25] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "houseCode": "dail"
+      },
+      "questionNumber": 90,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-18/pq_90",
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/debate/mul@/dbsect_24.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/debate/dbsect_24",
+        "showAs": "Recycling Policy",
+        "debateSectionId": "dbsect_24"
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Lawless.D.2024-11-29",
+        "memberCode": "Paul-Lawless.D.2024-11-29",
+        "showAs": "Paul Lawless"
+      },
+      "to": {
+        "uri": null,
+        "showAs": "Climate",
+        "roleType": null,
+        "roleCode": null
+      }
+    }
+  },
+  {
+    "contextDate": "2025-09-18",
+    "question": {
+      "questionType": "oral",
+      "date": "2025-09-18",
+      "showAs": " 91. Deputy Noel McCarthy asked the Minister for Climate, Energy and the Environment the proposed timeline for auctions for the delivery of the three other sites identified in the designated maritime area plan, which are not included in the Tonn Nua offshore wind auction; and if he will make a statement on the matter. [49265/25] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "houseCode": "dail"
+      },
+      "questionNumber": 91,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-18/pq_91",
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/debate/mul@/dbsect_25.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/debate/dbsect_25",
+        "showAs": "Wind Energy Generation",
+        "debateSectionId": "dbsect_25"
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Noel-McCarthy.D.2024-11-29",
+        "memberCode": "Noel-McCarthy.D.2024-11-29",
+        "showAs": "Noel McCarthy"
+      },
+      "to": {
+        "uri": null,
+        "showAs": "Climate",
+        "roleType": null,
+        "roleCode": null
+      }
+    }
+  },
+  {
+    "contextDate": "2025-09-18",
+    "question": {
+      "questionType": "oral",
+      "date": "2025-09-18",
+      "showAs": " 92. Deputy Jennifer Whitmore asked the Minister for Climate, Energy and the Environment if he will expand the warmer homes scheme to include solar; and if he will make a statement on the matter.  [48994/25] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "houseCode": "dail"
+      },
+      "questionNumber": 92,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-18/pq_92",
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/debate/mul@/dbsect_26.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/debate/dbsect_26",
+        "showAs": "Solar Energy Guidelines",
+        "debateSectionId": "dbsect_26"
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Jennifer-Whitmore.D.2020-02-08",
+        "memberCode": "Jennifer-Whitmore.D.2020-02-08",
+        "showAs": "Jennifer Whitmore"
+      },
+      "to": {
+        "uri": null,
+        "showAs": "Climate",
+        "roleType": null,
+        "roleCode": null
+      }
+    }
+  },
+  {
+    "contextDate": "2025-09-18",
+    "question": {
+      "questionType": "oral",
+      "date": "2025-09-18",
+      "showAs": " 93. Deputy Barry Ward asked the Minister for Climate, Energy and the Environment the total capacity output available under existing wind generation schemes; the projected output if all wind farms currently at various stages of the planning system were to come to fruition; and if he will make a statement on the matter.  [49042/25] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "houseCode": "dail"
+      },
+      "questionNumber": 93,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-18/pq_93",
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/debate/mul@/dbsect_27.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/debate/dbsect_27",
+        "showAs": "Wind Energy Generation",
+        "debateSectionId": "dbsect_27"
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Barry-Ward.S.2020-03-30",
+        "memberCode": "Barry-Ward.S.2020-03-30",
+        "showAs": "Barry Ward"
+      },
+      "to": {
+        "uri": null,
+        "showAs": "Climate",
+        "roleType": null,
+        "roleCode": null
+      }
+    }
+  },
+  {
+    "contextDate": "2025-09-18",
+    "question": {
+      "questionType": "oral",
+      "date": "2025-09-18",
+      "showAs": " 94. Deputy Thomas Gould asked the Minister for Climate, Energy and the Environment the percentage of grant applications to SEAI that are withdrawn.  [49212/25] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "houseCode": "dail"
+      },
+      "questionNumber": 94,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-18/pq_94",
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/debate/mul@/dbsect_30.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/debate/dbsect_30",
+        "showAs": "Energy Conservation",
+        "debateSectionId": "dbsect_30"
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Thomas-Gould.D.2020-02-08",
+        "memberCode": "Thomas-Gould.D.2020-02-08",
+        "showAs": "Thomas Gould"
+      },
+      "to": {
+        "uri": null,
+        "showAs": "Climate",
+        "roleType": null,
+        "roleCode": null
+      }
+    }
+  },
+  {
+    "contextDate": "2025-09-18",
+    "question": {
+      "questionType": "oral",
+      "date": "2025-09-18",
+      "showAs": " 95. Deputy Peter 'Chap' Cleere asked the Minister for Climate, Energy and the Environment to outline his plans for a new policy on private wires.  [49010/25] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "houseCode": "dail"
+      },
+      "questionNumber": 95,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-18/pq_95",
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/debate/mul@/dbsect_29.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/debate/dbsect_29",
+        "showAs": "Energy Policy",
+        "debateSectionId": "dbsect_29"
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Peter-'Chap'-Cleere.D.2024-11-29",
+        "memberCode": "Peter-'Chap'-Cleere.D.2024-11-29",
+        "showAs": "Peter 'Chap' Cleere"
+      },
+      "to": {
+        "uri": null,
+        "showAs": "Climate",
+        "roleType": null,
+        "roleCode": null
+      }
+    }
+  },
+  {
+    "contextDate": "2025-09-18",
+    "question": {
+      "questionType": "oral",
+      "date": "2025-09-18",
+      "showAs": " 97. Deputy Naoise Ó Cearúil asked the Minister for Climate, Energy and the Environment if his Department has assessed the potential role of nuclear energy in Ireland's future energy mix; and if he will make a statement on the matter.  [49081/25] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "houseCode": "dail"
+      },
+      "questionNumber": 97,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-18/pq_97",
+      "debateSection": {
+        "formats": {
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/debate/mul@/dbsect_28.xml"
-          }
-        }
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/debate/dbsect_28",
+        "showAs": "Nuclear Plants",
+        "debateSectionId": "dbsect_28"
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Naoise-Ó-Cearúil.D.2024-11-29",
+        "memberCode": "Naoise-Ó-Cearúil.D.2024-11-29",
+        "showAs": "Naoise Ó Cearúil"
+      },
+      "to": {
+        "uri": null,
+        "showAs": "Climate",
+        "roleType": null,
+        "roleCode": null
       }
     }
   }

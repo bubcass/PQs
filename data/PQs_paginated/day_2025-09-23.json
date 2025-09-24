@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "question": {
+      "showAs": " 1. Deputy Claire Kerrane asked the Minister for Children, Disability and Equality for an update on her engagement with Tusla following the report of a missing child in Donabate, Dublin, to date in 2025; the steps Tusla is now taking, and the timeline for same; and if she will make a statement on the matter.  [49873/25] ",
+      "to": {
+        "showAs": "Children",
+        "roleCode": null,
+        "roleType": null,
+        "uri": null
+      },
+      "date": "2025-09-23",
+      "debateSection": {
+        "showAs": "Child and Family Agency",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-23/debate/dbsect_14",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-23/debate/mul@/dbsect_14.xml"
+          },
+          "pdf": null
+        },
+        "debateSectionId": "dbsect_14"
+      },
+      "by": {
+        "showAs": "Claire Kerrane",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Claire-Kerrane.D.2020-02-08",
+        "memberCode": "Claire-Kerrane.D.2020-02-08"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-23/pq_1",
+      "house": {
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "houseNo": "34",
+        "chamberType": "house"
+      },
+      "questionType": "oral",
+      "questionNumber": 1
+    },
+    "contextDate": "2025-09-23"
+  }
+]

@@ -1,1 +1,1122 @@
-[]
+[
+  {
+    "question": {
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Rose-Conway-Walsh.S.2016-04-25",
+        "showAs": "Rose Conway-Walsh",
+        "memberCode": "Rose-Conway-Walsh.S.2016-04-25"
+      },
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": ""
+      },
+      "questionType": "oral",
+      "date": "2025-09-25",
+      "showAs": " 1. Deputy Rose Conway-Walsh asked the Minister for Enterprise, Tourism and Employment the measures he is taking to ensure that small- and medium-sized businesses can access affordable credit and avoid being burdened with high borrowing costs; and if he will make a statement on the matter. [51024/25] ",
+      "to": {
+        "uri": null,
+        "showAs": "Enterprise",
+        "roleCode": null,
+        "roleType": null
+      },
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-25/debate/dbsect_3",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-25/debate/mul@/dbsect_3.xml"
+          }
+        },
+        "showAs": "Small and Medium Enterprises",
+        "debateSectionId": "dbsect_3"
+      },
+      "questionNumber": 1,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-25/pq_1"
+    },
+    "contextDate": "2025-09-25"
+  },
+  {
+    "question": {
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Sinéad-Gibney.D.2024-11-29",
+        "showAs": "Sinéad Gibney",
+        "memberCode": "Sinéad-Gibney.D.2024-11-29"
+      },
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": ""
+      },
+      "questionType": "oral",
+      "date": "2025-09-25",
+      "showAs": " 2. Deputy Sinéad Gibney asked the Minister for Enterprise, Tourism and Employment whether there are concerns in his Department regarding due diligence on the granting of licences for dual use goods, particularly in light of plans to expand Ireland's role in the dual use market, per the Action Plan on Competitiveness and Productivity; and if he will make a statement on the matter. [50822/25] ",
+      "to": {
+        "uri": null,
+        "showAs": "Enterprise",
+        "roleCode": null,
+        "roleType": null
+      },
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-25/debate/dbsect_4",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-25/debate/mul@/dbsect_4.xml"
+          }
+        },
+        "showAs": "Export Controls",
+        "debateSectionId": "dbsect_4"
+      },
+      "questionNumber": 2,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-25/pq_2"
+    },
+    "contextDate": "2025-09-25"
+  },
+  {
+    "question": {
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Rose-Conway-Walsh.S.2016-04-25",
+        "showAs": "Rose Conway-Walsh",
+        "memberCode": "Rose-Conway-Walsh.S.2016-04-25"
+      },
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": ""
+      },
+      "questionType": "oral",
+      "date": "2025-09-25",
+      "showAs": " 3. Deputy Rose Conway-Walsh asked the Minister for Enterprise, Tourism and Employment the means by which existing grant and support schemes are being simplified to make them more accessible to small and medium businesses; the steps his Department is taking to cut unnecessary red tape and reduce the administrative burden on small businesses; and if he will make a statement on the matter. [51025/25] ",
+      "to": {
+        "uri": null,
+        "showAs": "Enterprise",
+        "roleCode": null,
+        "roleType": null
+      },
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-25/debate/dbsect_5",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-25/debate/mul@/dbsect_5.xml"
+          }
+        },
+        "showAs": "Departmental Schemes",
+        "debateSectionId": "dbsect_5"
+      },
+      "questionNumber": 3,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-25/pq_3"
+    },
+    "contextDate": "2025-09-25"
+  },
+  {
+    "question": {
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Murphy.D.2014-10-10",
+        "showAs": "Paul Murphy",
+        "memberCode": "Paul-Murphy.D.2014-10-10"
+      },
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": ""
+      },
+      "questionType": "oral",
+      "date": "2025-09-25",
+      "showAs": " 4. Deputy Paul Murphy asked the Minister for Enterprise, Tourism and Employment when subminimum pay rates for young workers will be abolished; and if he will make a statement on the matter.  [50574/25] ",
+      "to": {
+        "uri": null,
+        "showAs": "Enterprise",
+        "roleCode": null,
+        "roleType": null
+      },
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-25/debate/dbsect_6",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-25/debate/mul@/dbsect_6.xml"
+          }
+        },
+        "showAs": "Wage-setting Mechanisms",
+        "debateSectionId": "dbsect_6"
+      },
+      "questionNumber": 4,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-25/pq_4"
+    },
+    "contextDate": "2025-09-25"
+  },
+  {
+    "question": {
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Rose-Conway-Walsh.S.2016-04-25",
+        "showAs": "Rose Conway-Walsh",
+        "memberCode": "Rose-Conway-Walsh.S.2016-04-25"
+      },
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": ""
+      },
+      "questionType": "oral",
+      "date": "2025-09-25",
+      "showAs": " 5. Deputy Rose Conway-Walsh asked the Minister for Enterprise, Tourism and Employment when the action plan on collective bargaining will be published; the timeline for publication of the underpinning legislation; and if he will make a statement on the matter. [51026/25] ",
+      "to": {
+        "uri": null,
+        "showAs": "Enterprise",
+        "roleCode": null,
+        "roleType": null
+      },
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-25/debate/dbsect_7",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-25/debate/mul@/dbsect_7.xml"
+          }
+        },
+        "showAs": "Wage-setting Mechanisms",
+        "debateSectionId": "dbsect_7"
+      },
+      "questionNumber": 5,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-25/pq_5"
+    },
+    "contextDate": "2025-09-25"
+  },
+  {
+    "question": {
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Albert-Dolan.D.2024-11-29",
+        "showAs": "Albert Dolan",
+        "memberCode": "Albert-Dolan.D.2024-11-29"
+      },
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": ""
+      },
+      "questionType": "oral",
+      "date": "2025-09-25",
+      "showAs": " 6. Deputy Albert Dolan asked the Minister for Enterprise, Tourism and Employment the action he is taking to simplify business regulation; and if he will make a statement on the matter. [51027/25] ",
+      "to": {
+        "uri": null,
+        "showAs": "Enterprise",
+        "roleCode": null,
+        "roleType": null
+      },
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-25/debate/dbsect_8",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-25/debate/mul@/dbsect_8.xml"
+          }
+        },
+        "showAs": "Business Regulation",
+        "debateSectionId": "dbsect_8"
+      },
+      "questionNumber": 6,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-25/pq_6"
+    },
+    "contextDate": "2025-09-25"
+  },
+  {
+    "question": {
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Aindrias-Moynihan.D.2016-10-03",
+        "showAs": "Aindrias Moynihan",
+        "memberCode": "Aindrias-Moynihan.D.2016-10-03"
+      },
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": ""
+      },
+      "questionType": "oral",
+      "date": "2025-09-25",
+      "showAs": " 7. Deputy Aindrias Moynihan asked the Minister for Enterprise, Tourism and Employment for the up-to-date position on the development of a tourism plan for the Muscraí district to include the Gearagh, County Cork; and if he will make a statement on the matter. [50804/25] ",
+      "to": {
+        "uri": null,
+        "showAs": "Enterprise",
+        "roleCode": null,
+        "roleType": null
+      },
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-25/debate/dbsect_10",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-25/debate/mul@/dbsect_10.xml"
+          }
+        },
+        "showAs": "Tourism Policy",
+        "debateSectionId": "dbsect_10"
+      },
+      "questionNumber": 7,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-25/pq_7"
+    },
+    "contextDate": "2025-09-25"
+  },
+  {
+    "question": {
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tony-McCormack.D.2024-11-29",
+        "showAs": "Tony McCormack",
+        "memberCode": "Tony-McCormack.D.2024-11-29"
+      },
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": ""
+      },
+      "questionType": "oral",
+      "date": "2025-09-25",
+      "showAs": " 8. Deputy Tony McCormack asked the Minister for Enterprise, Tourism and Employment the steps he is taking to ensure that County Offaly does not fall further behind neighbouring counties in attracting IDA Ireland investment and securing employment opportunities; if his Department will commit to increasing the number of IDA Ireland site visits and targeted investment in Offaly; and if he will make a statement on the matter. [50722/25] ",
+      "to": {
+        "uri": null,
+        "showAs": "Enterprise",
+        "roleCode": null,
+        "roleType": null
+      },
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-25/debate/dbsect_11",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-25/debate/mul@/dbsect_11.xml"
+          }
+        },
+        "showAs": "Industrial Development",
+        "debateSectionId": "dbsect_11"
+      },
+      "questionNumber": 8,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-25/pq_8"
+    },
+    "contextDate": "2025-09-25"
+  },
+  {
+    "question": {
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Albert-Dolan.D.2024-11-29",
+        "showAs": "Albert Dolan",
+        "memberCode": "Albert-Dolan.D.2024-11-29"
+      },
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": ""
+      },
+      "questionType": "oral",
+      "date": "2025-09-25",
+      "showAs": " 9. Deputy Albert Dolan asked the Minister for Enterprise, Tourism and Employment the number of investments IDA Ireland is targeting in the west under its current strategy; its performance in investments in the west under the previous strategy; and if he will make a statement on the matter. [50584/25] ",
+      "to": {
+        "uri": null,
+        "showAs": "Enterprise",
+        "roleCode": null,
+        "roleType": null
+      },
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-25/debate/dbsect_12",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-25/debate/mul@/dbsect_12.xml"
+          }
+        },
+        "showAs": "Industrial Development",
+        "debateSectionId": "dbsect_12"
+      },
+      "questionNumber": 9,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-25/pq_9"
+    },
+    "contextDate": "2025-09-25"
+  },
+  {
+    "question": {
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Seán-Fleming.D.1997-06-26",
+        "showAs": "Seán Fleming",
+        "memberCode": "Seán-Fleming.D.1997-06-26"
+      },
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": ""
+      },
+      "questionType": "oral",
+      "date": "2025-09-25",
+      "showAs": " 13. Deputy Seán Fleming asked the Minister for Enterprise, Tourism and Employment the number of investments the IDA is targeting in the midlands under its current strategy; its performance in midlands investments under the previous strategy; and if he will make a statement on the matter. [50579/25] ",
+      "to": {
+        "uri": null,
+        "showAs": "Enterprise",
+        "roleCode": null,
+        "roleType": null
+      },
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-25/debate/dbsect_13",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-25/debate/mul@/dbsect_13.xml"
+          }
+        },
+        "showAs": "Industrial Development",
+        "debateSectionId": "dbsect_13"
+      },
+      "questionNumber": 13,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-25/pq_13"
+    },
+    "contextDate": "2025-09-25"
+  },
+  {
+    "question": {
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/John-Clendennen.D.2024-11-29",
+        "showAs": "John Clendennen",
+        "memberCode": "John-Clendennen.D.2024-11-29"
+      },
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": ""
+      },
+      "questionType": "oral",
+      "date": "2025-09-25",
+      "showAs": " 15. Deputy John Clendennen asked the Minister for Enterprise, Tourism and Employment to provide an update on the steps being taken to help reduce the cost of doing business; and if he will make a statement on the matter. [50598/25] ",
+      "to": {
+        "uri": null,
+        "showAs": "Enterprise",
+        "roleCode": null,
+        "roleType": null
+      },
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-25/debate/dbsect_15",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-25/debate/mul@/dbsect_15.xml"
+          }
+        },
+        "showAs": "Business Supports",
+        "debateSectionId": "dbsect_15"
+      },
+      "questionNumber": 15,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-25/pq_15"
+    },
+    "contextDate": "2025-09-25"
+  },
+  {
+    "question": {
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Aindrias-Moynihan.D.2016-10-03",
+        "showAs": "Aindrias Moynihan",
+        "memberCode": "Aindrias-Moynihan.D.2016-10-03"
+      },
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": ""
+      },
+      "questionType": "oral",
+      "date": "2025-09-25",
+      "showAs": " 16. Deputy Aindrias Moynihan asked the Minister for Enterprise, Tourism and Employment to consider supporting producers of pig products impacted by Chinese tariffs; and if he will make a statement on the matter. [50805/25] ",
+      "to": {
+        "uri": null,
+        "showAs": "Enterprise",
+        "roleCode": null,
+        "roleType": null
+      },
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-25/debate/dbsect_14",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-25/debate/mul@/dbsect_14.xml"
+          }
+        },
+        "showAs": "Pigmeat Sector",
+        "debateSectionId": "dbsect_14"
+      },
+      "questionNumber": 16,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-25/pq_16"
+    },
+    "contextDate": "2025-09-25"
+  },
+  {
+    "question": {
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Catherine-Connolly.D.2016-10-03",
+        "showAs": "Catherine Connolly",
+        "memberCode": "Catherine-Connolly.D.2016-10-03"
+      },
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": ""
+      },
+      "questionType": "oral",
+      "date": "2025-09-25",
+      "showAs": " 18. Deputy Catherine Connolly asked the Minister for Enterprise, Tourism and Employment the number and value of dual-use export licence applications, in respect of end-users in Israel, approved by his Department by quarter to date in 2025; the number refused in each quarter to date in 2025; and if he will make a statement on the matter. [50786/25] ",
+      "to": {
+        "uri": null,
+        "showAs": "Enterprise",
+        "roleCode": null,
+        "roleType": null
+      },
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-25/debate/dbsect_16",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-25/debate/mul@/dbsect_16.xml"
+          }
+        },
+        "showAs": "Export Controls",
+        "debateSectionId": "dbsect_16"
+      },
+      "questionNumber": 18,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-25/pq_18"
+    },
+    "contextDate": "2025-09-25"
+  },
+  {
+    "question": {
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Louise-O'Reilly.D.2016-10-03",
+        "showAs": "Louise O'Reilly",
+        "memberCode": "Louise-O'Reilly.D.2016-10-03"
+      },
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": ""
+      },
+      "questionType": "oral",
+      "date": "2025-09-25",
+      "showAs": " 82. Deputy Louise O'Reilly asked the Minister for Social Protection if he is aware that the measurement 'consistent poverty' obscures the full number of people both at risk of poverty and in material deprivation; if he is aware that 'consistent poverty' fails to account for housing costs; if he will consider using both 'material deprivation' and 'at risk of poverty after housing costs' as alternative measures for future national child poverty targets; if he will ensure all research commissioned on the topic of child poverty utilises both 'material deprivation' and 'at risk of poverty after housing costs' when measuring poverty; and if he will make a statement on the matter.  [50375/25] ",
+      "to": {
+        "uri": null,
+        "showAs": "Social",
+        "roleCode": null,
+        "roleType": null
+      },
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-25/debate/dbsect_18",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-25/debate/mul@/dbsect_18.xml"
+          }
+        },
+        "showAs": "Poverty Data",
+        "debateSectionId": "dbsect_18"
+      },
+      "questionNumber": 82,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-25/pq_82"
+    },
+    "contextDate": "2025-09-25"
+  },
+  {
+    "question": {
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Mark-Wall.S.2020-03-30",
+        "showAs": "Mark Wall",
+        "memberCode": "Mark-Wall.S.2020-03-30"
+      },
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": ""
+      },
+      "questionType": "oral",
+      "date": "2025-09-25",
+      "showAs": " 83. Deputy Mark Wall asked the Minister for Social Protection to provide the number of requests for an oral hearing over the past four years; the number of oral hearings that have been held virtually, in-person and over the phone, in the past four years, in tabular form; and if he will make a statement on the matter. [50021/25] ",
+      "to": {
+        "uri": null,
+        "showAs": "Social",
+        "roleCode": null,
+        "roleType": null
+      },
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-25/debate/dbsect_19",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-25/debate/mul@/dbsect_19.xml"
+          }
+        },
+        "showAs": "Social Welfare Appeals",
+        "debateSectionId": "dbsect_19"
+      },
+      "questionNumber": 83,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-25/pq_83"
+    },
+    "contextDate": "2025-09-25"
+  },
+  {
+    "question": {
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Louise-O'Reilly.D.2016-10-03",
+        "showAs": "Louise O'Reilly",
+        "memberCode": "Louise-O'Reilly.D.2016-10-03"
+      },
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": ""
+      },
+      "questionType": "oral",
+      "date": "2025-09-25",
+      "showAs": " 84. Deputy Louise O'Reilly asked the Minister for Social Protection the number of schools under contract to a supplier (details supplied) under the hot school meals programme; the number of these schools that exclusively cater to additional educational needs; the number that are DEIS schools; the number that are DEIS+ schools; his plan to provide parents of children affected by the cessation of the services with a stipend while a new contractor is being procured; the options for school meal provision for children affected in the meantime; if alternative cold lunches will be subsidised or provided by the Department; and if he will make a statement on the matter. [50376/25] ",
+      "to": {
+        "uri": null,
+        "showAs": "Social",
+        "roleCode": null,
+        "roleType": null
+      },
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-25/debate/dbsect_20",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-25/debate/mul@/dbsect_20.xml"
+          }
+        },
+        "showAs": "School Meals Programme",
+        "debateSectionId": "dbsect_20"
+      },
+      "questionNumber": 84,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-25/pq_84"
+    },
+    "contextDate": "2025-09-25"
+  },
+  {
+    "question": {
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Liam-Quaide.D.2024-11-29",
+        "showAs": "Liam Quaide",
+        "memberCode": "Liam-Quaide.D.2024-11-29"
+      },
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": ""
+      },
+      "questionType": "oral",
+      "date": "2025-09-25",
+      "showAs": " 85. Deputy Liam Quaide asked the Minister for Social Protection his plans to introduce a cost of disability payment to help address the significant additional costs of having a disability; and if he will make a statement on the matter. [50570/25] ",
+      "to": {
+        "uri": null,
+        "showAs": "Social",
+        "roleCode": null,
+        "roleType": null
+      },
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-25/debate/dbsect_21",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-25/debate/mul@/dbsect_21.xml"
+          }
+        },
+        "showAs": "Programme for Government",
+        "debateSectionId": "dbsect_21"
+      },
+      "questionNumber": 85,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-25/pq_85"
+    },
+    "contextDate": "2025-09-25"
+  },
+  {
+    "question": {
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Peadar-Tóibín.D.2011-03-09",
+        "showAs": "Peadar Tóibín",
+        "memberCode": "Peadar-Tóibín.D.2011-03-09"
+      },
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": ""
+      },
+      "questionType": "oral",
+      "date": "2025-09-25",
+      "showAs": " 86. Deputy Peadar Tóibín asked the Minister for Social Protection the number of former An Post employees whose initial applications for pensions were refused in each of the past ten years; and if he will make a statement on the matter. [51086/25] ",
+      "to": {
+        "uri": null,
+        "showAs": "Social",
+        "roleCode": null,
+        "roleType": null
+      },
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-25/debate/dbsect_22",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-25/debate/mul@/dbsect_22.xml"
+          }
+        },
+        "showAs": "Pension Provisions",
+        "debateSectionId": "dbsect_22"
+      },
+      "questionNumber": 86,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-25/pq_86"
+    },
+    "contextDate": "2025-09-25"
+  },
+  {
+    "question": {
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/John-Paul-O'Shea.D.2024-11-29",
+        "showAs": "John Paul O'Shea",
+        "memberCode": "John-Paul-O'Shea.D.2024-11-29"
+      },
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": ""
+      },
+      "questionType": "oral",
+      "date": "2025-09-25",
+      "showAs": " 87. Deputy John Paul O'Shea asked the Minister for Social Protection his plans for phasing out the means test entirely for the carer’s allowance during the lifetime of this Government, as per the programme for Government; and if he will make a statement on the matter. [51028/25] ",
+      "to": {
+        "uri": null,
+        "showAs": "Social",
+        "roleCode": null,
+        "roleType": null
+      },
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-25/debate/dbsect_23",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-25/debate/mul@/dbsect_23.xml"
+          }
+        },
+        "showAs": "Social Welfare Code",
+        "debateSectionId": "dbsect_23"
+      },
+      "questionNumber": 87,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-25/pq_87"
+    },
+    "contextDate": "2025-09-25"
+  },
+  {
+    "question": {
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Edward-Timmins.D.2024-11-29",
+        "showAs": "Edward Timmins",
+        "memberCode": "Edward-Timmins.D.2024-11-29"
+      },
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": ""
+      },
+      "questionType": "oral",
+      "date": "2025-09-25",
+      "showAs": " 89. Deputy Edward Timmins asked the Minister for Social Protection to review the contributory pension entitlement of someone with fewer than 520 contributions; and to grant those recipients a pro rata pension. [50762/25] ",
+      "to": {
+        "uri": null,
+        "showAs": "Social",
+        "roleCode": null,
+        "roleType": null
+      },
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-25/debate/dbsect_25",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-25/debate/mul@/dbsect_25.xml"
+          }
+        },
+        "showAs": "Pension Provisions",
+        "debateSectionId": "dbsect_25"
+      },
+      "questionNumber": 89,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-25/pq_89"
+    },
+    "contextDate": "2025-09-25"
+  },
+  {
+    "question": {
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Grace-Boland.D.2024-11-29",
+        "showAs": "Grace Boland",
+        "memberCode": "Grace-Boland.D.2024-11-29"
+      },
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": ""
+      },
+      "questionType": "oral",
+      "date": "2025-09-25",
+      "showAs": " 90. Deputy Grace Boland asked the Minister for Social Protection his plans to develop a pension solution for foster carers, in recognition of the enormous contribution they make to vulnerable children in our society, as committed to in the programme for Government; and if he will make a statement on the matter. [50587/25] ",
+      "to": {
+        "uri": null,
+        "showAs": "Social",
+        "roleCode": null,
+        "roleType": null
+      },
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-25/debate/dbsect_26",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-25/debate/mul@/dbsect_26.xml"
+          }
+        },
+        "showAs": "Pension Provisions",
+        "debateSectionId": "dbsect_26"
+      },
+      "questionNumber": 90,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-25/pq_90"
+    },
+    "contextDate": "2025-09-25"
+  },
+  {
+    "question": {
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Joe-Neville.D.2024-11-29",
+        "showAs": "Joe Neville",
+        "memberCode": "Joe-Neville.D.2024-11-29"
+      },
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": ""
+      },
+      "questionType": "oral",
+      "date": "2025-09-25",
+      "showAs": " 91. Deputy Joe Neville asked the Minister for Social Protection the number of schools enrolled in the school meals scheme in 2025; the percentage of waste analysis has been done in these schools; and the nature of the reporting mechanism. [50836/25] ",
+      "to": {
+        "uri": null,
+        "showAs": "Social",
+        "roleCode": null,
+        "roleType": null
+      },
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-25/debate/dbsect_27",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-25/debate/mul@/dbsect_27.xml"
+          }
+        },
+        "showAs": "School Meals Programme",
+        "debateSectionId": "dbsect_27"
+      },
+      "questionNumber": 91,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-25/pq_91"
+    },
+    "contextDate": "2025-09-25"
+  },
+  {
+    "question": {
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/John-Connolly.D.2024-11-29",
+        "showAs": "John Connolly",
+        "memberCode": "John-Connolly.D.2024-11-29"
+      },
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": ""
+      },
+      "questionType": "oral",
+      "date": "2025-09-25",
+      "showAs": " 92. Deputy John Connolly asked the Minister for Social Protection the number of active participants in the fish assist scheme in each county, in tabular form; to consider an increase in the rate of payment under the fish assist scheme; and if he will make a statement on the matter. [50828/25] ",
+      "to": {
+        "uri": null,
+        "showAs": "Social",
+        "roleCode": null,
+        "roleType": null
+      },
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-25/debate/dbsect_28",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-25/debate/mul@/dbsect_28.xml"
+          }
+        },
+        "showAs": "Departmental Schemes",
+        "debateSectionId": "dbsect_28"
+      },
+      "questionNumber": 92,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-25/pq_92"
+    },
+    "contextDate": "2025-09-25"
+  },
+  {
+    "question": {
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Peadar-Tóibín.D.2011-03-09",
+        "showAs": "Peadar Tóibín",
+        "memberCode": "Peadar-Tóibín.D.2011-03-09"
+      },
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": ""
+      },
+      "questionType": "oral",
+      "date": "2025-09-25",
+      "showAs": " 93. Deputy Peadar Tóibín asked the Minister for Social Protection if his attention has been drawn to the classification of employees of State and semi-State bodies (details supplied). [39838/25] ",
+      "to": {
+        "uri": null,
+        "showAs": "Social",
+        "roleCode": null,
+        "roleType": null
+      },
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-25/debate/dbsect_29",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-25/debate/mul@/dbsect_29.xml"
+          }
+        },
+        "showAs": "Public Sector Staff",
+        "debateSectionId": "dbsect_29"
+      },
+      "questionNumber": 93,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-25/pq_93"
+    },
+    "contextDate": "2025-09-25"
+  },
+  {
+    "question": {
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Willie-O'Dea.D.1982-03-09",
+        "showAs": "Willie O'Dea",
+        "memberCode": "Willie-O'Dea.D.1982-03-09"
+      },
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": ""
+      },
+      "questionType": "oral",
+      "date": "2025-09-25",
+      "showAs": " 94. Deputy Willie O'Dea asked the Minister for Social Protection his plans to reform the disability allowance payment and remove anomalies in the current means test for the payment. [50675/25] ",
+      "to": {
+        "uri": null,
+        "showAs": "Social",
+        "roleCode": null,
+        "roleType": null
+      },
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-25/debate/dbsect_30",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-25/debate/mul@/dbsect_30.xml"
+          }
+        },
+        "showAs": "Social Welfare Eligibility",
+        "debateSectionId": "dbsect_30"
+      },
+      "questionNumber": 94,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-25/pq_94"
+    },
+    "contextDate": "2025-09-25"
+  },
+  {
+    "question": {
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Naoise-Ó-Muirí.D.2024-11-29",
+        "showAs": "Naoise Ó Muirí",
+        "memberCode": "Naoise-Ó-Muirí.D.2024-11-29"
+      },
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": ""
+      },
+      "questionType": "oral",
+      "date": "2025-09-25",
+      "showAs": " 95. Deputy Naoise Ó Muirí asked the Minister for Social Protection the cost of reducing the minimum required hours under the wage subsidy scheme from 21 hours to 15 hours in April 2024; and if he will make a statement on the matter. [50438/25] ",
+      "to": {
+        "uri": null,
+        "showAs": "Social",
+        "roleCode": null,
+        "roleType": null
+      },
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-25/debate/dbsect_31",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-25/debate/mul@/dbsect_31.xml"
+          }
+        },
+        "showAs": "Social Welfare Schemes",
+        "debateSectionId": "dbsect_31"
+      },
+      "questionNumber": 95,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-25/pq_95"
+    },
+    "contextDate": "2025-09-25"
+  },
+  {
+    "question": {
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Peter-Roche.D.2024-11-29",
+        "showAs": "Peter Roche",
+        "memberCode": "Peter-Roche.D.2024-11-29"
+      },
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": ""
+      },
+      "questionType": "oral",
+      "date": "2025-09-25",
+      "showAs": " 96. Deputy Peter Roche asked the Minister for Social Protection if he will review the assessment criteria for social protection payments in cases where applicants and-or part-time farming applicants are not in paid employment outside the home but provide essential unpaid care and support within the household; and if he will consider allowing greater flexibility in recognising minimal or subsistence-level farming activity (details supplied), in view of concerns that rigid application of the rules is leaving some families without necessary supports; and if he will make a statement on the matter. [50808/25] ",
+      "to": {
+        "uri": null,
+        "showAs": "Social",
+        "roleCode": null,
+        "roleType": null
+      },
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-25/debate/dbsect_32",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-25/debate/mul@/dbsect_32.xml"
+          }
+        },
+        "showAs": "Social Welfare Eligibility",
+        "debateSectionId": "dbsect_32"
+      },
+      "questionNumber": 96,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-25/pq_96"
+    },
+    "contextDate": "2025-09-25"
+  },
+  {
+    "question": {
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Louise-O'Reilly.D.2016-10-03",
+        "showAs": "Louise O'Reilly",
+        "memberCode": "Louise-O'Reilly.D.2016-10-03"
+      },
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": ""
+      },
+      "questionType": "oral",
+      "date": "2025-09-25",
+      "showAs": " 97. Deputy Louise O'Reilly asked the Minister for Social Protection if he is aware of the fact that when custody is split between two separated or divorced co-parents, there is no mechanism by which both co-parents may each receive half of the children's allowance and the children's allowance instead universally goes to the mother regardless of circumstances; if he is aware of the financial hardship this can incur on fathers who co-parent equally; his plans to address this; and if he will make a statement on the matter.  [50385/25] ",
+      "to": {
+        "uri": null,
+        "showAs": "Social",
+        "roleCode": null,
+        "roleType": null
+      },
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-25/debate/dbsect_33",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-25/debate/mul@/dbsect_33.xml"
+          }
+        },
+        "showAs": "Social Welfare Code",
+        "debateSectionId": "dbsect_33"
+      },
+      "questionNumber": 97,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-25/pq_97"
+    },
+    "contextDate": "2025-09-25"
+  }
+]

@@ -1,1 +1,922 @@
-[]
+[
+  {
+    "contextDate": "2025-09-30",
+    "question": {
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "roleType": null,
+        "showAs": "Taoiseach"
+      },
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "showAs": "34th Dáil"
+      },
+      "showAs": " 1. Deputy Mary Lou McDonald asked the Taoiseach when the Cabinet Committee on Health will next meet. [46218/25] ",
+      "debateSection": {
+        "showAs": "Health Services",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-30/debate/dbsect_14",
+        "debateSectionId": "dbsect_14",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-30/debate/mul@/dbsect_14.xml"
+          },
+          "pdf": null
+        }
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Mary-Lou-McDonald.D.2011-03-09",
+        "memberCode": "Mary-Lou-McDonald.D.2011-03-09",
+        "showAs": "Mary Lou McDonald"
+      },
+      "date": "2025-09-30",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-30/pq_1",
+      "questionNumber": 1,
+      "questionType": "oral"
+    }
+  },
+  {
+    "contextDate": "2025-09-30",
+    "question": {
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "roleType": null,
+        "showAs": "Taoiseach"
+      },
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "showAs": "34th Dáil"
+      },
+      "showAs": " 2. Deputy Paul McAuliffe asked the Taoiseach when the Cabinet Committee on Health will next meet. [46882/25] ",
+      "debateSection": {
+        "showAs": "Health Services",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-30/debate/dbsect_14",
+        "debateSectionId": "dbsect_14",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-30/debate/mul@/dbsect_14.xml"
+          },
+          "pdf": null
+        }
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-McAuliffe.D.2020-02-08",
+        "memberCode": "Paul-McAuliffe.D.2020-02-08",
+        "showAs": "Paul McAuliffe"
+      },
+      "date": "2025-09-30",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-30/pq_2",
+      "questionNumber": 2,
+      "questionType": "oral"
+    }
+  },
+  {
+    "contextDate": "2025-09-30",
+    "question": {
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "roleType": null,
+        "showAs": "Taoiseach"
+      },
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "showAs": "34th Dáil"
+      },
+      "showAs": " 3. Deputy Martin Daly asked the Taoiseach when the Cabinet Committee on Health will next meet. [46852/25] ",
+      "debateSection": {
+        "showAs": "Health Services",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-30/debate/dbsect_14",
+        "debateSectionId": "dbsect_14",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-30/debate/mul@/dbsect_14.xml"
+          },
+          "pdf": null
+        }
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Martin-Daly.D.2024-11-29",
+        "memberCode": "Martin-Daly.D.2024-11-29",
+        "showAs": "Martin Daly"
+      },
+      "date": "2025-09-30",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-30/pq_3",
+      "questionNumber": 3,
+      "questionType": "oral"
+    }
+  },
+  {
+    "contextDate": "2025-09-30",
+    "question": {
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "roleType": null,
+        "showAs": "Taoiseach"
+      },
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "showAs": "34th Dáil"
+      },
+      "showAs": " 4. Deputy Ivana Bacik asked the Taoiseach when the Cabinet Committee on Health will next meet. [48431/25] ",
+      "debateSection": {
+        "showAs": "Health Services",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-30/debate/dbsect_14",
+        "debateSectionId": "dbsect_14",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-30/debate/mul@/dbsect_14.xml"
+          },
+          "pdf": null
+        }
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ivana-Bacik.S.2007-07-23",
+        "memberCode": "Ivana-Bacik.S.2007-07-23",
+        "showAs": "Ivana Bacik"
+      },
+      "date": "2025-09-30",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-30/pq_4",
+      "questionNumber": 4,
+      "questionType": "oral"
+    }
+  },
+  {
+    "contextDate": "2025-09-30",
+    "question": {
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "roleType": null,
+        "showAs": "Taoiseach"
+      },
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "showAs": "34th Dáil"
+      },
+      "showAs": " 5. Deputy Pádraig O'Sullivan asked the Taoiseach when the Cabinet Committee on Health will next meet. [48524/25] ",
+      "debateSection": {
+        "showAs": "Health Services",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-30/debate/dbsect_14",
+        "debateSectionId": "dbsect_14",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-30/debate/mul@/dbsect_14.xml"
+          },
+          "pdf": null
+        }
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Pádraig-O'Sullivan.D.2019-11-29",
+        "memberCode": "Pádraig-O'Sullivan.D.2019-11-29",
+        "showAs": "Pádraig O'Sullivan"
+      },
+      "date": "2025-09-30",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-30/pq_5",
+      "questionNumber": 5,
+      "questionType": "oral"
+    }
+  },
+  {
+    "contextDate": "2025-09-30",
+    "question": {
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "roleType": null,
+        "showAs": "Taoiseach"
+      },
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "showAs": "34th Dáil"
+      },
+      "showAs": " 6. Deputy Michael Cahill asked the Taoiseach when the Cabinet Committee on Health will next meet. [48528/25] ",
+      "debateSection": {
+        "showAs": "Health Services",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-30/debate/dbsect_14",
+        "debateSectionId": "dbsect_14",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-30/debate/mul@/dbsect_14.xml"
+          },
+          "pdf": null
+        }
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Michael-Cahill.D.2024-11-29",
+        "memberCode": "Michael-Cahill.D.2024-11-29",
+        "showAs": "Michael Cahill"
+      },
+      "date": "2025-09-30",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-30/pq_6",
+      "questionNumber": 6,
+      "questionType": "oral"
+    }
+  },
+  {
+    "contextDate": "2025-09-30",
+    "question": {
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "roleType": null,
+        "showAs": "Taoiseach"
+      },
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "showAs": "34th Dáil"
+      },
+      "showAs": " 7. Deputy Mark Ward asked the Taoiseach when the Cabinet Committee on Health will next meet. [48903/25] ",
+      "debateSection": {
+        "showAs": "Health Services",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-30/debate/dbsect_14",
+        "debateSectionId": "dbsect_14",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-30/debate/mul@/dbsect_14.xml"
+          },
+          "pdf": null
+        }
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Mark-Ward.D.2019-11-29",
+        "memberCode": "Mark-Ward.D.2019-11-29",
+        "showAs": "Mark Ward"
+      },
+      "date": "2025-09-30",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-30/pq_7",
+      "questionNumber": 7,
+      "questionType": "oral"
+    }
+  },
+  {
+    "contextDate": "2025-09-30",
+    "question": {
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "roleType": null,
+        "showAs": "Taoiseach"
+      },
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "showAs": "34th Dáil"
+      },
+      "showAs": " 8. Deputy Peadar Tóibín asked the Taoiseach when the Cabinet Committee on Health last met. [49645/25] ",
+      "debateSection": {
+        "showAs": "Health Services",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-30/debate/dbsect_14",
+        "debateSectionId": "dbsect_14",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-30/debate/mul@/dbsect_14.xml"
+          },
+          "pdf": null
+        }
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Peadar-Tóibín.D.2011-03-09",
+        "memberCode": "Peadar-Tóibín.D.2011-03-09",
+        "showAs": "Peadar Tóibín"
+      },
+      "date": "2025-09-30",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-30/pq_8",
+      "questionNumber": 8,
+      "questionType": "oral"
+    }
+  },
+  {
+    "contextDate": "2025-09-30",
+    "question": {
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "roleType": null,
+        "showAs": "Taoiseach"
+      },
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "showAs": "34th Dáil"
+      },
+      "showAs": " 9. Deputy Emer Currie asked the Taoiseach when the Cabinet Committee on Health will next meet. [50175/25] ",
+      "debateSection": {
+        "showAs": "Health Services",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-30/debate/dbsect_14",
+        "debateSectionId": "dbsect_14",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-30/debate/mul@/dbsect_14.xml"
+          },
+          "pdf": null
+        }
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Emer-Currie.S.2020-06-29",
+        "memberCode": "Emer-Currie.S.2020-06-29",
+        "showAs": "Emer Currie"
+      },
+      "date": "2025-09-30",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-30/pq_9",
+      "questionNumber": 9,
+      "questionType": "oral"
+    }
+  },
+  {
+    "contextDate": "2025-09-30",
+    "question": {
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "roleType": null,
+        "showAs": "Taoiseach"
+      },
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "showAs": "34th Dáil"
+      },
+      "showAs": " 10. Deputy Rose Conway-Walsh asked the Taoiseach when the Cabinet Committee on Health will next meet. [50476/25] ",
+      "debateSection": {
+        "showAs": "Health Services",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-30/debate/dbsect_14",
+        "debateSectionId": "dbsect_14",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-30/debate/mul@/dbsect_14.xml"
+          },
+          "pdf": null
+        }
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Rose-Conway-Walsh.S.2016-04-25",
+        "memberCode": "Rose-Conway-Walsh.S.2016-04-25",
+        "showAs": "Rose Conway-Walsh"
+      },
+      "date": "2025-09-30",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-30/pq_10",
+      "questionNumber": 10,
+      "questionType": "oral"
+    }
+  },
+  {
+    "contextDate": "2025-09-30",
+    "question": {
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "roleType": null,
+        "showAs": "Taoiseach"
+      },
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "showAs": "34th Dáil"
+      },
+      "showAs": " 11. Deputy Peter 'Chap' Cleere asked the Taoiseach when the Cabinet committee on climate action, environment and energy will next meet.  [46874/25] ",
+      "debateSection": {
+        "showAs": "Cabinet Committees",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-30/debate/dbsect_15",
+        "debateSectionId": "dbsect_15",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-30/debate/mul@/dbsect_15.xml"
+          },
+          "pdf": null
+        }
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Peter-'Chap'-Cleere.D.2024-11-29",
+        "memberCode": "Peter-'Chap'-Cleere.D.2024-11-29",
+        "showAs": "Peter 'Chap' Cleere"
+      },
+      "date": "2025-09-30",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-30/pq_11",
+      "questionNumber": 11,
+      "questionType": "oral"
+    }
+  },
+  {
+    "contextDate": "2025-09-30",
+    "question": {
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "roleType": null,
+        "showAs": "Taoiseach"
+      },
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "showAs": "34th Dáil"
+      },
+      "showAs": " 12. Deputy Malcolm Byrne asked the Taoiseach when the Cabinet committee on climate action, environment and energy will next meet.  [46518/25] ",
+      "debateSection": {
+        "showAs": "Cabinet Committees",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-30/debate/dbsect_15",
+        "debateSectionId": "dbsect_15",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-30/debate/mul@/dbsect_15.xml"
+          },
+          "pdf": null
+        }
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Malcolm-Byrne.D.2019-11-29",
+        "memberCode": "Malcolm-Byrne.D.2019-11-29",
+        "showAs": "Malcolm Byrne"
+      },
+      "date": "2025-09-30",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-30/pq_12",
+      "questionNumber": 12,
+      "questionType": "oral"
+    }
+  },
+  {
+    "contextDate": "2025-09-30",
+    "question": {
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "roleType": null,
+        "showAs": "Taoiseach"
+      },
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "showAs": "34th Dáil"
+      },
+      "showAs": " 13. Deputy Naoise Ó Cearúil asked the Taoiseach when the Cabinet committee on climate action, environment and energy will next meet.  [46855/25] ",
+      "debateSection": {
+        "showAs": "Cabinet Committees",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-30/debate/dbsect_15",
+        "debateSectionId": "dbsect_15",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-30/debate/mul@/dbsect_15.xml"
+          },
+          "pdf": null
+        }
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Naoise-Ó-Cearúil.D.2024-11-29",
+        "memberCode": "Naoise-Ó-Cearúil.D.2024-11-29",
+        "showAs": "Naoise Ó Cearúil"
+      },
+      "date": "2025-09-30",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-30/pq_13",
+      "questionNumber": 13,
+      "questionType": "oral"
+    }
+  },
+  {
+    "contextDate": "2025-09-30",
+    "question": {
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "roleType": null,
+        "showAs": "Taoiseach"
+      },
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "showAs": "34th Dáil"
+      },
+      "showAs": " 14. Deputy Tony McCormack asked the Taoiseach when the Cabinet committee on climate action, environment and energy will next meet.  [46860/25] ",
+      "debateSection": {
+        "showAs": "Cabinet Committees",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-30/debate/dbsect_15",
+        "debateSectionId": "dbsect_15",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-30/debate/mul@/dbsect_15.xml"
+          },
+          "pdf": null
+        }
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tony-McCormack.D.2024-11-29",
+        "memberCode": "Tony-McCormack.D.2024-11-29",
+        "showAs": "Tony McCormack"
+      },
+      "date": "2025-09-30",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-30/pq_14",
+      "questionNumber": 14,
+      "questionType": "oral"
+    }
+  },
+  {
+    "contextDate": "2025-09-30",
+    "question": {
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "roleType": null,
+        "showAs": "Taoiseach"
+      },
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "showAs": "34th Dáil"
+      },
+      "showAs": " 15. Deputy Mary Lou McDonald asked the Taoiseach when the Cabinet committee on climate action, environment and energy will next meet.  [49936/25] ",
+      "debateSection": {
+        "showAs": "Cabinet Committees",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-30/debate/dbsect_15",
+        "debateSectionId": "dbsect_15",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-30/debate/mul@/dbsect_15.xml"
+          },
+          "pdf": null
+        }
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Mary-Lou-McDonald.D.2011-03-09",
+        "memberCode": "Mary-Lou-McDonald.D.2011-03-09",
+        "showAs": "Mary Lou McDonald"
+      },
+      "date": "2025-09-30",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-30/pq_15",
+      "questionNumber": 15,
+      "questionType": "oral"
+    }
+  },
+  {
+    "contextDate": "2025-09-30",
+    "question": {
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "roleType": null,
+        "showAs": "Taoiseach"
+      },
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "showAs": "34th Dáil"
+      },
+      "showAs": " 16. Deputy Ruth Coppinger asked the Taoiseach when the Cabinet committee on climate action, environment and energy will next meet.  [49986/25] ",
+      "debateSection": {
+        "showAs": "Cabinet Committees",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-30/debate/dbsect_15",
+        "debateSectionId": "dbsect_15",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-30/debate/mul@/dbsect_15.xml"
+          },
+          "pdf": null
+        }
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruth-Coppinger.D.2014-05-23",
+        "memberCode": "Ruth-Coppinger.D.2014-05-23",
+        "showAs": "Ruth Coppinger"
+      },
+      "date": "2025-09-30",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-30/pq_16",
+      "questionNumber": 16,
+      "questionType": "oral"
+    }
+  },
+  {
+    "contextDate": "2025-09-30",
+    "question": {
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "roleType": null,
+        "showAs": "Taoiseach"
+      },
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "showAs": "34th Dáil"
+      },
+      "showAs": " 17. Deputy Darren O'Rourke asked the Taoiseach when the Cabinet committee on climate action, environment and energy will next meet.  [50084/25] ",
+      "debateSection": {
+        "showAs": "Cabinet Committees",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-30/debate/dbsect_15",
+        "debateSectionId": "dbsect_15",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-30/debate/mul@/dbsect_15.xml"
+          },
+          "pdf": null
+        }
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Darren-O'Rourke.D.2020-02-08",
+        "memberCode": "Darren-O'Rourke.D.2020-02-08",
+        "showAs": "Darren O'Rourke"
+      },
+      "date": "2025-09-30",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-30/pq_17",
+      "questionNumber": 17,
+      "questionType": "oral"
+    }
+  },
+  {
+    "contextDate": "2025-09-30",
+    "question": {
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "roleType": null,
+        "showAs": "Taoiseach"
+      },
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "showAs": "34th Dáil"
+      },
+      "showAs": " 18. Deputy Ruairí Ó Murchú asked the Taoiseach when the Cabinet committee on climate action, environment and energy will next meet.  [50087/25] ",
+      "debateSection": {
+        "showAs": "Cabinet Committees",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-30/debate/dbsect_15",
+        "debateSectionId": "dbsect_15",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-30/debate/mul@/dbsect_15.xml"
+          },
+          "pdf": null
+        }
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruairí-Ó-Murchú.D.2020-02-08",
+        "memberCode": "Ruairí-Ó-Murchú.D.2020-02-08",
+        "showAs": "Ruairí Ó Murchú"
+      },
+      "date": "2025-09-30",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-30/pq_18",
+      "questionNumber": 18,
+      "questionType": "oral"
+    }
+  },
+  {
+    "contextDate": "2025-09-30",
+    "question": {
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "roleType": null,
+        "showAs": "Taoiseach"
+      },
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "showAs": "34th Dáil"
+      },
+      "showAs": " 19. Deputy Ivana Bacik asked the Taoiseach when the Cabinet committee on climate action, environment and energy will next meet.  [50150/25] ",
+      "debateSection": {
+        "showAs": "Cabinet Committees",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-30/debate/dbsect_15",
+        "debateSectionId": "dbsect_15",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-30/debate/mul@/dbsect_15.xml"
+          },
+          "pdf": null
+        }
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ivana-Bacik.S.2007-07-23",
+        "memberCode": "Ivana-Bacik.S.2007-07-23",
+        "showAs": "Ivana Bacik"
+      },
+      "date": "2025-09-30",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-30/pq_19",
+      "questionNumber": 19,
+      "questionType": "oral"
+    }
+  },
+  {
+    "contextDate": "2025-09-30",
+    "question": {
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "roleType": null,
+        "showAs": "Taoiseach"
+      },
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "showAs": "34th Dáil"
+      },
+      "showAs": " 20. Deputy Paul Murphy asked the Taoiseach when the Cabinet committee on climate action, environment and energy will next meet.  [50159/25] ",
+      "debateSection": {
+        "showAs": "Cabinet Committees",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-30/debate/dbsect_15",
+        "debateSectionId": "dbsect_15",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-30/debate/mul@/dbsect_15.xml"
+          },
+          "pdf": null
+        }
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Murphy.D.2014-10-10",
+        "memberCode": "Paul-Murphy.D.2014-10-10",
+        "showAs": "Paul Murphy"
+      },
+      "date": "2025-09-30",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-30/pq_20",
+      "questionNumber": 20,
+      "questionType": "oral"
+    }
+  },
+  {
+    "contextDate": "2025-09-30",
+    "question": {
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "roleType": null,
+        "showAs": "Transport"
+      },
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "showAs": "34th Dáil"
+      },
+      "showAs": " 92. Deputy Pa Daly asked the Minister for Transport to provide an update on his Department's investigation into overflights of munitions to Israel; and if he will make a statement on the matter. [51973/25] ",
+      "debateSection": {
+        "showAs": "Departmental Investigations",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-30/debate/dbsect_21",
+        "debateSectionId": "dbsect_21",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-30/debate/mul@/dbsect_21.xml"
+          },
+          "pdf": null
+        }
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Pa-Daly.D.2020-02-08",
+        "memberCode": "Pa-Daly.D.2020-02-08",
+        "showAs": "Pa Daly"
+      },
+      "date": "2025-09-30",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-30/pq_92",
+      "questionNumber": 92,
+      "questionType": "oral"
+    }
+  },
+  {
+    "contextDate": "2025-09-30",
+    "question": {
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "roleType": null,
+        "showAs": "Transport"
+      },
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "showAs": "34th Dáil"
+      },
+      "showAs": " 93. Deputy Charles Ward asked the Minister for Transport whether he intends to develop or reinstate railway services in Donegal; whether any progress has been made in the north west since the publication of the all-island strategic rail review last year; and if he will make a statement on the matter. [52139/25] ",
+      "debateSection": {
+        "showAs": "Rail Network",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-30/debate/dbsect_22",
+        "debateSectionId": "dbsect_22",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-30/debate/mul@/dbsect_22.xml"
+          },
+          "pdf": null
+        }
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Charles-Ward.D.2024-11-29",
+        "memberCode": "Charles-Ward.D.2024-11-29",
+        "showAs": "Charles Ward"
+      },
+      "date": "2025-09-30",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-30/pq_93",
+      "questionNumber": 93,
+      "questionType": "oral"
+    }
+  },
+  {
+    "contextDate": "2025-09-30",
+    "question": {
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "roleType": null,
+        "showAs": "Transport"
+      },
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "showAs": "34th Dáil"
+      },
+      "showAs": " 94. Deputy Pa Daly asked the Minister for Transport the measures he is taking to ensure balanced regional development of transport infrastructure following the review of the national development plan.  [51974/25] ",
+      "debateSection": {
+        "showAs": "Regional Development",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-30/debate/dbsect_23",
+        "debateSectionId": "dbsect_23",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-30/debate/mul@/dbsect_23.xml"
+          },
+          "pdf": null
+        }
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Pa-Daly.D.2020-02-08",
+        "memberCode": "Pa-Daly.D.2020-02-08",
+        "showAs": "Pa Daly"
+      },
+      "date": "2025-09-30",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-09-30/pq_94",
+      "questionNumber": 94,
+      "questionType": "oral"
+    }
+  }
+]

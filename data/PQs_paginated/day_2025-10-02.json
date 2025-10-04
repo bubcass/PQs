@@ -3,39 +3,39 @@
     "question": {
       "debateSection": {
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/debate/mul@/dbsect_3.xml"
-          },
-          "pdf": null
+          }
         },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/debate/dbsect_3",
         "debateSectionId": "dbsect_3",
-        "showAs": "Sport and Recreational Development",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/debate/dbsect_3"
-      },
-      "questionNumber": 1,
-      "questionType": "oral",
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-02/pq_1",
-      "to": {
-        "uri": null,
-        "roleCode": null,
-        "roleType": null,
-        "showAs": "Culture"
-      },
-      "house": {
-        "houseNo": "34",
-        "chamberType": "house",
-        "houseCode": "dail",
-        "committeeCode": "",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "showAs": "34th Dáil"
+        "showAs": "Sport and Recreational Development"
       },
       "by": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Joanna-Byrne.D.2024-11-29",
+        "memberCode": "Joanna-Byrne.D.2024-11-29",
         "showAs": "Joanna Byrne",
-        "memberCode": "Joanna-Byrne.D.2024-11-29"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Joanna-Byrne.D.2024-11-29"
       },
+      "date": "2025-10-02",
+      "house": {
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "houseNo": "34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-02/pq_1",
+      "questionType": "oral",
       "showAs": " 1. Deputy Joanna Byrne asked the Minister for Culture, Communications and Sport in view of the global gindings report produced from the Double Pass audit into the League of Ireland academy system, which benchmarks Ireland significantly behind other nations, the plans he has initiated to support academy development; if he will commit to the significant funding increase in this area to allow our academies grow to meet the huge potential they hold; and if he will make a statement on the matter.  [52248/25] ",
-      "date": "2025-10-02"
+      "to": {
+        "uri": null,
+        "showAs": "Culture",
+        "roleCode": null,
+        "roleType": null
+      },
+      "questionNumber": 1
     },
     "contextDate": "2025-10-02"
   },
@@ -43,39 +43,39 @@
     "question": {
       "debateSection": {
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/debate/mul@/dbsect_4.xml"
-          },
-          "pdf": null
+          }
         },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/debate/dbsect_4",
         "debateSectionId": "dbsect_4",
-        "showAs": "Postal Services",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/debate/dbsect_4"
-      },
-      "questionNumber": 2,
-      "questionType": "oral",
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-02/pq_2",
-      "to": {
-        "uri": null,
-        "roleCode": null,
-        "roleType": null,
-        "showAs": "Culture"
-      },
-      "house": {
-        "houseNo": "34",
-        "chamberType": "house",
-        "houseCode": "dail",
-        "committeeCode": "",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "showAs": "34th Dáil"
+        "showAs": "Postal Services"
       },
       "by": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Robert-O'Donoghue.D.2024-11-29",
+        "memberCode": "Robert-O'Donoghue.D.2024-11-29",
         "showAs": "Robert O'Donoghue",
-        "memberCode": "Robert-O'Donoghue.D.2024-11-29"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Robert-O'Donoghue.D.2024-11-29"
       },
+      "date": "2025-10-02",
+      "house": {
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "houseNo": "34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-02/pq_2",
+      "questionType": "oral",
       "showAs": " 2. Deputy Robert O'Donoghue asked the Minister for Culture, Communications and Sport if he will consider transferring certain State services, such as voter registration, motor tax payments, or cash collection, to An Post with a view to supporting its long-term viability, preventing further post office closures, reducing pressure on other public services and allowing people with lower levels of digital literacy skills to still have a place they can do their business. [52487/25] ",
-      "date": "2025-10-02"
+      "to": {
+        "uri": null,
+        "showAs": "Culture",
+        "roleCode": null,
+        "roleType": null
+      },
+      "questionNumber": 2
     },
     "contextDate": "2025-10-02"
   },
@@ -83,39 +83,39 @@
     "question": {
       "debateSection": {
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/debate/mul@/dbsect_5.xml"
-          },
-          "pdf": null
+          }
         },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/debate/dbsect_5",
         "debateSectionId": "dbsect_5",
-        "showAs": "Artists' Remuneration",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/debate/dbsect_5"
-      },
-      "questionNumber": 3,
-      "questionType": "oral",
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-02/pq_3",
-      "to": {
-        "uri": null,
-        "roleCode": null,
-        "roleType": null,
-        "showAs": "Culture"
-      },
-      "house": {
-        "houseNo": "34",
-        "chamberType": "house",
-        "houseCode": "dail",
-        "committeeCode": "",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "showAs": "34th Dáil"
+        "showAs": "Artists' Remuneration"
       },
       "by": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Aengus-Ó-Snodaigh.D.2002-06-06",
+        "memberCode": "Aengus-Ó-Snodaigh.D.2002-06-06",
         "showAs": "Aengus Ó Snodaigh",
-        "memberCode": "Aengus-Ó-Snodaigh.D.2002-06-06"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Aengus-Ó-Snodaigh.D.2002-06-06"
       },
+      "date": "2025-10-02",
+      "house": {
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "houseNo": "34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-02/pq_3",
+      "questionType": "oral",
       "showAs": " 3. Deputy Aengus Ó Snodaigh asked the Minister for Culture, Communications and Sport his plans for the extension or expansion of the basic income for the arts, following the publication of the cost-benefit analysis on the pilot scheme; and if he will make a statement on the matter. [52536/25] ",
-      "date": "2025-10-02"
+      "to": {
+        "uri": null,
+        "showAs": "Culture",
+        "roleCode": null,
+        "roleType": null
+      },
+      "questionNumber": 3
     },
     "contextDate": "2025-10-02"
   },
@@ -123,39 +123,39 @@
     "question": {
       "debateSection": {
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/debate/mul@/dbsect_6.xml"
-          },
-          "pdf": null
+          }
         },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/debate/dbsect_6",
         "debateSectionId": "dbsect_6",
-        "showAs": "Arts Funding",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/debate/dbsect_6"
-      },
-      "questionNumber": 4,
-      "questionType": "oral",
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-02/pq_4",
-      "to": {
-        "uri": null,
-        "roleCode": null,
-        "roleType": null,
-        "showAs": "Culture"
-      },
-      "house": {
-        "houseNo": "34",
-        "chamberType": "house",
-        "houseCode": "dail",
-        "committeeCode": "",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "showAs": "34th Dáil"
+        "showAs": "Arts Funding"
       },
       "by": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Aengus-Ó-Snodaigh.D.2002-06-06",
+        "memberCode": "Aengus-Ó-Snodaigh.D.2002-06-06",
         "showAs": "Aengus Ó Snodaigh",
-        "memberCode": "Aengus-Ó-Snodaigh.D.2002-06-06"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Aengus-Ó-Snodaigh.D.2002-06-06"
       },
+      "date": "2025-10-02",
+      "house": {
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "houseNo": "34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-02/pq_4",
+      "questionType": "oral",
       "showAs": " 4. Deputy Aengus Ó Snodaigh asked the Minister for Culture, Communications and Sport to confirm whether he granted funding to a festival on an exceptional basis outside the normal application processes for annual departmental or Arts Council schemes; the amounts and the recipients of such exceptional funding outside the normal applications processes provided by his Department in relation to community festivals and summer schools since his appointment; and if he will commit to ensuring in future that any such exceptional funding is separately indexed by his Department. [52539/25] ",
-      "date": "2025-10-02"
+      "to": {
+        "uri": null,
+        "showAs": "Culture",
+        "roleCode": null,
+        "roleType": null
+      },
+      "questionNumber": 4
     },
     "contextDate": "2025-10-02"
   },
@@ -163,39 +163,39 @@
     "question": {
       "debateSection": {
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/debate/mul@/dbsect_5.xml"
-          },
-          "pdf": null
+          }
         },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/debate/dbsect_5",
         "debateSectionId": "dbsect_5",
-        "showAs": "Artists' Remuneration",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/debate/dbsect_5"
-      },
-      "questionNumber": 5,
-      "questionType": "oral",
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-02/pq_5",
-      "to": {
-        "uri": null,
-        "roleCode": null,
-        "roleType": null,
-        "showAs": "Culture"
-      },
-      "house": {
-        "houseNo": "34",
-        "chamberType": "house",
-        "houseCode": "dail",
-        "committeeCode": "",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "showAs": "34th Dáil"
+        "showAs": "Artists' Remuneration"
       },
       "by": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Sinéad-Gibney.D.2024-11-29",
+        "memberCode": "Sinéad-Gibney.D.2024-11-29",
         "showAs": "Sinéad Gibney",
-        "memberCode": "Sinéad-Gibney.D.2024-11-29"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Sinéad-Gibney.D.2024-11-29"
       },
+      "date": "2025-10-02",
+      "house": {
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "houseNo": "34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-02/pq_5",
+      "questionType": "oral",
       "showAs": " 5. Deputy Sinéad Gibney asked the Minister for Culture, Communications and Sport whether he has had any engagement with other Departments on the basic income for the arts scheme, to share learnings from the scheme and help identify other cohorts who may benefit from a basic income scheme; and if he will make a statement on the matter. [52579/25] ",
-      "date": "2025-10-02"
+      "to": {
+        "uri": null,
+        "showAs": "Culture",
+        "roleCode": null,
+        "roleType": null
+      },
+      "questionNumber": 5
     },
     "contextDate": "2025-10-02"
   },
@@ -203,39 +203,39 @@
     "question": {
       "debateSection": {
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/debate/mul@/dbsect_8.xml"
-          },
-          "pdf": null
+          }
         },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/debate/dbsect_8",
         "debateSectionId": "dbsect_8",
-        "showAs": "Arts Funding",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/debate/dbsect_8"
-      },
-      "questionNumber": 6,
-      "questionType": "oral",
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-02/pq_6",
-      "to": {
-        "uri": null,
-        "roleCode": null,
-        "roleType": null,
-        "showAs": "Culture"
-      },
-      "house": {
-        "houseNo": "34",
-        "chamberType": "house",
-        "houseCode": "dail",
-        "committeeCode": "",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "showAs": "34th Dáil"
+        "showAs": "Arts Funding"
       },
       "by": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Murphy.D.2014-10-10",
+        "memberCode": "Paul-Murphy.D.2014-10-10",
         "showAs": "Paul Murphy",
-        "memberCode": "Paul-Murphy.D.2014-10-10"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Murphy.D.2014-10-10"
       },
+      "date": "2025-10-02",
+      "house": {
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "houseNo": "34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-02/pq_6",
+      "questionType": "oral",
       "showAs": " 6. Deputy Paul Murphy asked the Minister for Culture, Communications and Sport if he will increase the payment under the basic income for the arts scheme in budget 2026; and if he will make a statement on the matter. [52583/25] ",
-      "date": "2025-10-02"
+      "to": {
+        "uri": null,
+        "showAs": "Culture",
+        "roleCode": null,
+        "roleType": null
+      },
+      "questionNumber": 6
     },
     "contextDate": "2025-10-02"
   },
@@ -243,39 +243,39 @@
     "question": {
       "debateSection": {
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/debate/mul@/dbsect_9.xml"
-          },
-          "pdf": null
+          }
         },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/debate/dbsect_9",
         "debateSectionId": "dbsect_9",
-        "showAs": "Sports Funding",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/debate/dbsect_9"
-      },
-      "questionNumber": 7,
-      "questionType": "oral",
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-02/pq_7",
-      "to": {
-        "uri": null,
-        "roleCode": null,
-        "roleType": null,
-        "showAs": "Culture"
-      },
-      "house": {
-        "houseNo": "34",
-        "chamberType": "house",
-        "houseCode": "dail",
-        "committeeCode": "",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "showAs": "34th Dáil"
+        "showAs": "Sports Funding"
       },
       "by": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Mark-Ward.D.2019-11-29",
+        "memberCode": "Mark-Ward.D.2019-11-29",
         "showAs": "Mark Ward",
-        "memberCode": "Mark-Ward.D.2019-11-29"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Mark-Ward.D.2019-11-29"
       },
+      "date": "2025-10-02",
+      "house": {
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "houseNo": "34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-02/pq_7",
+      "questionType": "oral",
       "showAs": " 7. Deputy Mark Ward asked the Minister for Culture, Communications and Sport to set out the level of funding allocated to League of Ireland clubs for academies; if this funding will be increased in budget 2026; and if he will make a statement on the matter.  [52515/25] ",
-      "date": "2025-10-02"
+      "to": {
+        "uri": null,
+        "showAs": "Culture",
+        "roleCode": null,
+        "roleType": null
+      },
+      "questionNumber": 7
     },
     "contextDate": "2025-10-02"
   },
@@ -283,39 +283,39 @@
     "question": {
       "debateSection": {
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/debate/mul@/dbsect_10.xml"
-          },
-          "pdf": null
+          }
         },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/debate/dbsect_10",
         "debateSectionId": "dbsect_10",
-        "showAs": "Media Sector",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/debate/dbsect_10"
-      },
-      "questionNumber": 9,
-      "questionType": "oral",
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-02/pq_9",
-      "to": {
-        "uri": null,
-        "roleCode": null,
-        "roleType": null,
-        "showAs": "Culture"
-      },
-      "house": {
-        "houseNo": "34",
-        "chamberType": "house",
-        "houseCode": "dail",
-        "committeeCode": "",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "showAs": "34th Dáil"
+        "showAs": "Media Sector"
       },
       "by": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Robert-O'Donoghue.D.2024-11-29",
+        "memberCode": "Robert-O'Donoghue.D.2024-11-29",
         "showAs": "Robert O'Donoghue",
-        "memberCode": "Robert-O'Donoghue.D.2024-11-29"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Robert-O'Donoghue.D.2024-11-29"
       },
+      "date": "2025-10-02",
+      "house": {
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "houseNo": "34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-02/pq_9",
+      "questionType": "oral",
       "showAs": " 9. Deputy Robert O'Donoghue asked the Minister for Culture, Communications and Sport the measures he is adopting to ensure that independent radio and broadcasters have fair access to funding in budget 2026, particularly in underserved or rural areas; the means by which he plans to support current affairs and local news provision; and if he will make a statement on the matter. [52422/25] ",
-      "date": "2025-10-02"
+      "to": {
+        "uri": null,
+        "showAs": "Culture",
+        "roleCode": null,
+        "roleType": null
+      },
+      "questionNumber": 9
     },
     "contextDate": "2025-10-02"
   },
@@ -323,39 +323,39 @@
     "question": {
       "debateSection": {
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/debate/mul@/dbsect_11.xml"
-          },
-          "pdf": null
+          }
         },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/debate/dbsect_11",
         "debateSectionId": "dbsect_11",
-        "showAs": "Commemorative Events",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/debate/dbsect_11"
-      },
-      "questionNumber": 10,
-      "questionType": "oral",
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-02/pq_10",
-      "to": {
-        "uri": null,
-        "roleCode": null,
-        "roleType": null,
-        "showAs": "Culture"
-      },
-      "house": {
-        "houseNo": "34",
-        "chamberType": "house",
-        "houseCode": "dail",
-        "committeeCode": "",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "showAs": "34th Dáil"
+        "showAs": "Commemorative Events"
       },
       "by": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Edward-Timmins.D.2024-11-29",
+        "memberCode": "Edward-Timmins.D.2024-11-29",
         "showAs": "Edward Timmins",
-        "memberCode": "Edward-Timmins.D.2024-11-29"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Edward-Timmins.D.2024-11-29"
       },
+      "date": "2025-10-02",
+      "house": {
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "houseNo": "34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-02/pq_10",
+      "questionType": "oral",
       "showAs": " 10. Deputy Edward Timmins asked the Minister for Culture, Communications and Sport for an update on the American Presidents' trail; and if he will make a statement on the matter. [52572/25] ",
-      "date": "2025-10-02"
+      "to": {
+        "uri": null,
+        "showAs": "Culture",
+        "roleCode": null,
+        "roleType": null
+      },
+      "questionNumber": 10
     },
     "contextDate": "2025-10-02"
   },
@@ -363,39 +363,39 @@
     "question": {
       "debateSection": {
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/debate/mul@/dbsect_12.xml"
-          },
-          "pdf": null
+          }
         },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/debate/dbsect_12",
         "debateSectionId": "dbsect_12",
-        "showAs": "Culture Policy",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/debate/dbsect_12"
-      },
-      "questionNumber": 11,
-      "questionType": "oral",
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-02/pq_11",
-      "to": {
-        "uri": null,
-        "roleCode": null,
-        "roleType": null,
-        "showAs": "Culture"
-      },
-      "house": {
-        "houseNo": "34",
-        "chamberType": "house",
-        "houseCode": "dail",
-        "committeeCode": "",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "showAs": "34th Dáil"
+        "showAs": "Culture Policy"
       },
       "by": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Conor-D-McGuinness.D.2024-11-29",
+        "memberCode": "Conor-D-McGuinness.D.2024-11-29",
         "showAs": "Conor D McGuinness",
-        "memberCode": "Conor-D-McGuinness.D.2024-11-29"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Conor-D-McGuinness.D.2024-11-29"
       },
+      "date": "2025-10-02",
+      "house": {
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "houseNo": "34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-02/pq_11",
+      "questionType": "oral",
       "showAs": " 11. Deputy Conor D. McGuinness asked the Minister for Culture, Communications and Sport the engagement he has had with museums, universities, institutes, and archives in other countries regarding the restitution and repatriation of cultural heritage; his engagement with the advisory committee on the restitution and repatriation of cultural heritage; whether a national strategy is in place; and if he will make a statement on the matter.  [35815/25] ",
-      "date": "2025-10-02"
+      "to": {
+        "uri": null,
+        "showAs": "Culture",
+        "roleCode": null,
+        "roleType": null
+      },
+      "questionNumber": 11
     },
     "contextDate": "2025-10-02"
   },
@@ -403,39 +403,39 @@
     "question": {
       "debateSection": {
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/debate/mul@/dbsect_13.xml"
-          },
-          "pdf": null
+          }
         },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/debate/dbsect_13",
         "debateSectionId": "dbsect_13",
-        "showAs": "Postal Services",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/debate/dbsect_13"
-      },
-      "questionNumber": 12,
-      "questionType": "oral",
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-02/pq_12",
-      "to": {
-        "uri": null,
-        "roleCode": null,
-        "roleType": null,
-        "showAs": "Culture"
-      },
-      "house": {
-        "houseNo": "34",
-        "chamberType": "house",
-        "houseCode": "dail",
-        "committeeCode": "",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "showAs": "34th Dáil"
+        "showAs": "Postal Services"
       },
       "by": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Emer-Currie.S.2020-06-29",
+        "memberCode": "Emer-Currie.S.2020-06-29",
         "showAs": "Emer Currie",
-        "memberCode": "Emer-Currie.S.2020-06-29"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Emer-Currie.S.2020-06-29"
       },
+      "date": "2025-10-02",
+      "house": {
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "houseNo": "34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-02/pq_12",
+      "questionType": "oral",
       "showAs": " 12. Deputy Emer Currie asked the Minister for Culture, Communications and Sport for an update on his Department's efforts to fulfil the programme for Government commitment to provide the nationwide network of post offices with funding to ensure their sustainability and enhance the value they bring to local communities; and if he will make a statement on the matter. [52247/25] ",
-      "date": "2025-10-02"
+      "to": {
+        "uri": null,
+        "showAs": "Culture",
+        "roleCode": null,
+        "roleType": null
+      },
+      "questionNumber": 12
     },
     "contextDate": "2025-10-02"
   },
@@ -443,39 +443,39 @@
     "question": {
       "debateSection": {
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/debate/mul@/dbsect_14.xml"
-          },
-          "pdf": null
+          }
         },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/debate/dbsect_14",
         "debateSectionId": "dbsect_14",
-        "showAs": "Irish Language",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/debate/dbsect_14"
-      },
-      "questionNumber": 14,
-      "questionType": "oral",
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-02/pq_14",
-      "to": {
-        "uri": null,
-        "roleCode": null,
-        "roleType": null,
-        "showAs": "Culture"
-      },
-      "house": {
-        "houseNo": "34",
-        "chamberType": "house",
-        "houseCode": "dail",
-        "committeeCode": "",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "showAs": "34th Dáil"
+        "showAs": "Irish Language"
       },
       "by": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Barry-Ward.S.2020-03-30",
+        "memberCode": "Barry-Ward.S.2020-03-30",
         "showAs": "Barry Ward",
-        "memberCode": "Barry-Ward.S.2020-03-30"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Barry-Ward.S.2020-03-30"
       },
+      "date": "2025-10-02",
+      "house": {
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "houseNo": "34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-02/pq_14",
+      "questionType": "oral",
       "showAs": " 14. Deputy Barry Ward asked the Minister for Culture, Communications and Sport his views on the merits of increasing targeted support for independent Irish language productions, for both television and online streaming; and if he will make a statement on the matter. [51126/25] ",
-      "date": "2025-10-02"
+      "to": {
+        "uri": null,
+        "showAs": "Culture",
+        "roleCode": null,
+        "roleType": null
+      },
+      "questionNumber": 14
     },
     "contextDate": "2025-10-02"
   },
@@ -483,39 +483,39 @@
     "question": {
       "debateSection": {
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/debate/mul@/dbsect_15.xml"
-          },
-          "pdf": null
+          }
         },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/debate/dbsect_15",
         "debateSectionId": "dbsect_15",
-        "showAs": "Departmental Funding",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/debate/dbsect_15"
-      },
-      "questionNumber": 16,
-      "questionType": "oral",
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-02/pq_16",
-      "to": {
-        "uri": null,
-        "roleCode": null,
-        "roleType": null,
-        "showAs": "Culture"
-      },
-      "house": {
-        "houseNo": "34",
-        "chamberType": "house",
-        "houseCode": "dail",
-        "committeeCode": "",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "showAs": "34th Dáil"
+        "showAs": "Departmental Funding"
       },
       "by": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Keira-Keogh.D.2024-11-29",
+        "memberCode": "Keira-Keogh.D.2024-11-29",
         "showAs": "Keira Keogh",
-        "memberCode": "Keira-Keogh.D.2024-11-29"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Keira-Keogh.D.2024-11-29"
       },
+      "date": "2025-10-02",
+      "house": {
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "houseNo": "34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-02/pq_16",
+      "questionType": "oral",
       "showAs": " 16. Deputy Keira Keogh asked the Minister for Culture, Communications and Sport following on from the launch of the National Human Rights Strategy for Disabled People 2025-2030, the means by which disability lead and associated grants are funded; the overall funding provided to such grants; and if he will make a statement on the matter. [52009/25] ",
-      "date": "2025-10-02"
+      "to": {
+        "uri": null,
+        "showAs": "Culture",
+        "roleCode": null,
+        "roleType": null
+      },
+      "questionNumber": 16
     },
     "contextDate": "2025-10-02"
   },
@@ -523,39 +523,39 @@
     "question": {
       "debateSection": {
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/debate/mul@/dbsect_16.xml"
-          },
-          "pdf": null
+          }
         },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/debate/dbsect_16",
         "debateSectionId": "dbsect_16",
-        "showAs": "Health Promotion",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/debate/dbsect_16"
-      },
-      "questionNumber": 17,
-      "questionType": "oral",
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-02/pq_17",
-      "to": {
-        "uri": null,
-        "roleCode": null,
-        "roleType": null,
-        "showAs": "Culture"
-      },
-      "house": {
-        "houseNo": "34",
-        "chamberType": "house",
-        "houseCode": "dail",
-        "committeeCode": "",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "showAs": "34th Dáil"
+        "showAs": "Health Promotion"
       },
       "by": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Colm-Burke.S.2011-05-25",
+        "memberCode": "Colm-Burke.S.2011-05-25",
         "showAs": "Colm Burke",
-        "memberCode": "Colm-Burke.S.2011-05-25"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Colm-Burke.S.2011-05-25"
       },
+      "date": "2025-10-02",
+      "house": {
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "houseNo": "34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-02/pq_17",
+      "questionType": "oral",
       "showAs": " 17. Deputy Colm Burke asked the Minister for Culture, Communications and Sport for an update on the co-ordination between his Department and the Department of Health, in particular in the delivery of community-based and national health promotion programmes assisting people on how they can identify supports in improving their mental health; and if he will make a statement on the matter. [52512/25] ",
-      "date": "2025-10-02"
+      "to": {
+        "uri": null,
+        "showAs": "Culture",
+        "roleCode": null,
+        "roleType": null
+      },
+      "questionNumber": 17
     },
     "contextDate": "2025-10-02"
   },
@@ -563,39 +563,39 @@
     "question": {
       "debateSection": {
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/debate/mul@/dbsect_8.xml"
-          },
-          "pdf": null
+          }
         },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/debate/dbsect_8",
         "debateSectionId": "dbsect_8",
-        "showAs": "Arts Funding",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/debate/dbsect_8"
-      },
-      "questionNumber": 20,
-      "questionType": "oral",
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-02/pq_20",
-      "to": {
-        "uri": null,
-        "roleCode": null,
-        "roleType": null,
-        "showAs": "Culture"
-      },
-      "house": {
-        "houseNo": "34",
-        "chamberType": "house",
-        "houseCode": "dail",
-        "committeeCode": "",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "showAs": "34th Dáil"
+        "showAs": "Arts Funding"
       },
       "by": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Peadar-Tóibín.D.2011-03-09",
+        "memberCode": "Peadar-Tóibín.D.2011-03-09",
         "showAs": "Peadar Tóibín",
-        "memberCode": "Peadar-Tóibín.D.2011-03-09"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Peadar-Tóibín.D.2011-03-09"
       },
+      "date": "2025-10-02",
+      "house": {
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "houseNo": "34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-02/pq_20",
+      "questionType": "oral",
       "showAs": " 20. Deputy Peadar Tóibín asked the Minister for Culture, Communications and Sport the number of persons in receipt of the basic income for the arts payment; and if he will make a statement on the matter. [51546/25] ",
-      "date": "2025-10-02"
+      "to": {
+        "uri": null,
+        "showAs": "Culture",
+        "roleCode": null,
+        "roleType": null
+      },
+      "questionNumber": 20
     },
     "contextDate": "2025-10-02"
   },
@@ -603,39 +603,39 @@
     "question": {
       "debateSection": {
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/debate/mul@/dbsect_8.xml"
-          },
-          "pdf": null
+          }
         },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/debate/dbsect_8",
         "debateSectionId": "dbsect_8",
-        "showAs": "Arts Funding",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/debate/dbsect_8"
-      },
-      "questionNumber": 23,
-      "questionType": "oral",
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-02/pq_23",
-      "to": {
-        "uri": null,
-        "roleCode": null,
-        "roleType": null,
-        "showAs": "Culture"
-      },
-      "house": {
-        "houseNo": "34",
-        "chamberType": "house",
-        "houseCode": "dail",
-        "committeeCode": "",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "showAs": "34th Dáil"
+        "showAs": "Arts Funding"
       },
       "by": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Naoise-Ó-Muirí.D.2024-11-29",
+        "memberCode": "Naoise-Ó-Muirí.D.2024-11-29",
         "showAs": "Naoise Ó Muirí",
-        "memberCode": "Naoise-Ó-Muirí.D.2024-11-29"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Naoise-Ó-Muirí.D.2024-11-29"
       },
+      "date": "2025-10-02",
+      "house": {
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "houseNo": "34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-02/pq_23",
+      "questionType": "oral",
       "showAs": " 23. Deputy Naoise Ó Muirí asked the Minister for Culture, Communications and Sport when a decision is expected on plans to extend the basic income for artists scheme; and if he will make a statement on the matter. [52174/25] ",
-      "date": "2025-10-02"
+      "to": {
+        "uri": null,
+        "showAs": "Culture",
+        "roleCode": null,
+        "roleType": null
+      },
+      "questionNumber": 23
     },
     "contextDate": "2025-10-02"
   },
@@ -643,79 +643,39 @@
     "question": {
       "debateSection": {
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/debate/mul@/dbsect_8.xml"
-          },
-          "pdf": null
+          }
         },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/debate/dbsect_8",
         "debateSectionId": "dbsect_8",
-        "showAs": "Arts Funding",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/debate/dbsect_8"
-      },
-      "questionNumber": 26,
-      "questionType": "oral",
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-02/pq_26",
-      "to": {
-        "uri": null,
-        "roleCode": null,
-        "roleType": null,
-        "showAs": "Culture"
-      },
-      "house": {
-        "houseNo": "34",
-        "chamberType": "house",
-        "houseCode": "dail",
-        "committeeCode": "",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "showAs": "34th Dáil"
+        "showAs": "Arts Funding"
       },
       "by": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Catherine-Connolly.D.2016-10-03",
+        "memberCode": "Catherine-Connolly.D.2016-10-03",
         "showAs": "Catherine Connolly",
-        "memberCode": "Catherine-Connolly.D.2016-10-03"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Catherine-Connolly.D.2016-10-03"
       },
-      "showAs": " 26. Deputy Catherine Connolly asked the Minister for Culture, Communications and Sport for an update on the development of a permanent successor scheme to the basic income for the arts pilot; his plans to publish the cost benefit analysis paper; and if he will make a statement on the matter. [52574/25] ",
-      "date": "2025-10-02"
-    },
-    "contextDate": "2025-10-02"
-  },
-  {
-    "question": {
-      "debateSection": {
-        "formats": {
-          "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/debate/mul@/dbsect_8.xml"
-          },
-          "pdf": null
-        },
-        "debateSectionId": "dbsect_8",
-        "showAs": "Arts Funding",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/debate/dbsect_8"
-      },
-      "questionNumber": 32,
-      "questionType": "oral",
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-02/pq_32",
-      "to": {
-        "uri": null,
-        "roleCode": null,
-        "roleType": null,
-        "showAs": "Culture"
-      },
+      "date": "2025-10-02",
       "house": {
-        "houseNo": "34",
         "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
         "houseCode": "dail",
         "committeeCode": "",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "showAs": "34th Dáil"
+        "showAs": "34th Dáil",
+        "houseNo": "34"
       },
-      "by": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Murphy.D.2014-10-10",
-        "showAs": "Paul Murphy",
-        "memberCode": "Paul-Murphy.D.2014-10-10"
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-02/pq_26",
+      "questionType": "oral",
+      "showAs": " 26. Deputy Catherine Connolly asked the Minister for Culture, Communications and Sport for an update on the development of a permanent successor scheme to the basic income for the arts pilot; his plans to publish the cost benefit analysis paper; and if he will make a statement on the matter. [52574/25] ",
+      "to": {
+        "uri": null,
+        "showAs": "Culture",
+        "roleCode": null,
+        "roleType": null
       },
-      "showAs": " 32. Deputy Paul Murphy asked the Minister for Culture, Communications and Sport if he will make the basic income for the arts scheme permanent in budget 2026; and if he will make a statement on the matter.  [52584/25] ",
-      "date": "2025-10-02"
+      "questionNumber": 26
     },
     "contextDate": "2025-10-02"
   },
@@ -723,39 +683,79 @@
     "question": {
       "debateSection": {
         "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/debate/mul@/dbsect_8.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/debate/dbsect_8",
+        "debateSectionId": "dbsect_8",
+        "showAs": "Arts Funding"
+      },
+      "by": {
+        "memberCode": "Paul-Murphy.D.2014-10-10",
+        "showAs": "Paul Murphy",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Murphy.D.2014-10-10"
+      },
+      "date": "2025-10-02",
+      "house": {
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "houseNo": "34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-02/pq_32",
+      "questionType": "oral",
+      "showAs": " 32. Deputy Paul Murphy asked the Minister for Culture, Communications and Sport if he will make the basic income for the arts scheme permanent in budget 2026; and if he will make a statement on the matter.  [52584/25] ",
+      "to": {
+        "uri": null,
+        "showAs": "Culture",
+        "roleCode": null,
+        "roleType": null
+      },
+      "questionNumber": 32
+    },
+    "contextDate": "2025-10-02"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/debate/mul@/dbsect_18.xml"
-          },
-          "pdf": null
+          }
         },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/debate/dbsect_18",
         "debateSectionId": "dbsect_18",
-        "showAs": "Public Inquiries",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/debate/dbsect_18"
-      },
-      "questionNumber": 76,
-      "questionType": "oral",
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-02/pq_76",
-      "to": {
-        "uri": null,
-        "roleCode": null,
-        "roleType": null,
-        "showAs": "Health"
-      },
-      "house": {
-        "houseNo": "34",
-        "chamberType": "house",
-        "houseCode": "dail",
-        "committeeCode": "",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "showAs": "34th Dáil"
+        "showAs": "Public Inquiries"
       },
       "by": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/David-Cullinane.S.2011-05-25",
+        "memberCode": "David-Cullinane.S.2011-05-25",
         "showAs": "David Cullinane",
-        "memberCode": "David-Cullinane.S.2011-05-25"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/David-Cullinane.S.2011-05-25"
       },
+      "date": "2025-10-02",
+      "house": {
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "houseNo": "34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-02/pq_76",
+      "questionType": "oral",
       "showAs": " 76. Deputy David Cullinane asked the Minister for Health if she will consider an independent public inquiry into scandals at Children’s Health Ireland; and if she will make a statement on the matter. [52528/25] ",
-      "date": "2025-10-02"
+      "to": {
+        "uri": null,
+        "showAs": "Health",
+        "roleCode": null,
+        "roleType": null
+      },
+      "questionNumber": 76
     },
     "contextDate": "2025-10-02"
   },
@@ -763,39 +763,39 @@
     "question": {
       "debateSection": {
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/debate/mul@/dbsect_19.xml"
-          },
-          "pdf": null
+          }
         },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/debate/dbsect_19",
         "debateSectionId": "dbsect_19",
-        "showAs": "Cancer Services",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/debate/dbsect_19"
-      },
-      "questionNumber": 77,
-      "questionType": "oral",
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-02/pq_77",
-      "to": {
-        "uri": null,
-        "roleCode": null,
-        "roleType": null,
-        "showAs": "Health"
-      },
-      "house": {
-        "houseNo": "34",
-        "chamberType": "house",
-        "houseCode": "dail",
-        "committeeCode": "",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "showAs": "34th Dáil"
+        "showAs": "Cancer Services"
       },
       "by": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Marie-Sherlock.S.2020-03-30",
+        "memberCode": "Marie-Sherlock.S.2020-03-30",
         "showAs": "Marie Sherlock",
-        "memberCode": "Marie-Sherlock.S.2020-03-30"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Marie-Sherlock.S.2020-03-30"
       },
+      "date": "2025-10-02",
+      "house": {
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "houseNo": "34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-02/pq_77",
+      "questionType": "oral",
       "showAs": " 77. Deputy Marie Sherlock asked the Minister for Health to account for the dramatic drop over the past eight years in breast cancer patients with an identified B5 or C5 receiving surgical intervention within the 20-working day target - with surgery identified as the first treatment; and if she will make a statement on the matter. [52489/25] ",
-      "date": "2025-10-02"
+      "to": {
+        "uri": null,
+        "showAs": "Health",
+        "roleCode": null,
+        "roleType": null
+      },
+      "questionNumber": 77
     },
     "contextDate": "2025-10-02"
   },
@@ -803,39 +803,39 @@
     "question": {
       "debateSection": {
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/debate/mul@/dbsect_20.xml"
-          },
-          "pdf": null
+          }
         },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/debate/dbsect_20",
         "debateSectionId": "dbsect_20",
-        "showAs": "Capital Expenditure Programme",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/debate/dbsect_20"
-      },
-      "questionNumber": 78,
-      "questionType": "oral",
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-02/pq_78",
-      "to": {
-        "uri": null,
-        "roleCode": null,
-        "roleType": null,
-        "showAs": "Health"
-      },
-      "house": {
-        "houseNo": "34",
-        "chamberType": "house",
-        "houseCode": "dail",
-        "committeeCode": "",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "showAs": "34th Dáil"
+        "showAs": "Capital Expenditure Programme"
       },
       "by": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/David-Cullinane.S.2011-05-25",
+        "memberCode": "David-Cullinane.S.2011-05-25",
         "showAs": "David Cullinane",
-        "memberCode": "David-Cullinane.S.2011-05-25"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/David-Cullinane.S.2011-05-25"
       },
+      "date": "2025-10-02",
+      "house": {
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "houseNo": "34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-02/pq_78",
+      "questionType": "oral",
       "showAs": " 78. Deputy David Cullinane asked the Minister for Health if she is confident that sufficient capital funding has been provided for in the national development plan to deliver elective centres, 3,000 additional acute inpatient beds, digital transformation, and the entirety of health infrastructure commitments made by the Government; and if she will make a statement on the matter. [52529/25] ",
-      "date": "2025-10-02"
+      "to": {
+        "uri": null,
+        "showAs": "Health",
+        "roleCode": null,
+        "roleType": null
+      },
+      "questionNumber": 78
     },
     "contextDate": "2025-10-02"
   },
@@ -843,39 +843,39 @@
     "question": {
       "debateSection": {
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/debate/mul@/dbsect_21.xml"
-          },
-          "pdf": null
+          }
         },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/debate/dbsect_21",
         "debateSectionId": "dbsect_21",
-        "showAs": "Cancer Services",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/debate/dbsect_21"
-      },
-      "questionNumber": 79,
-      "questionType": "oral",
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-02/pq_79",
-      "to": {
-        "uri": null,
-        "roleCode": null,
-        "roleType": null,
-        "showAs": "Health"
-      },
-      "house": {
-        "houseNo": "34",
-        "chamberType": "house",
-        "houseCode": "dail",
-        "committeeCode": "",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "showAs": "34th Dáil"
+        "showAs": "Cancer Services"
       },
       "by": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Pádraig-Rice.D.2024-11-29",
+        "memberCode": "Pádraig-Rice.D.2024-11-29",
         "showAs": "Pádraig Rice",
-        "memberCode": "Pádraig-Rice.D.2024-11-29"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Pádraig-Rice.D.2024-11-29"
       },
+      "date": "2025-10-02",
+      "house": {
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "houseNo": "34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-02/pq_79",
+      "questionType": "oral",
       "showAs": " 79. Deputy Pádraig Rice asked the Minister for Health the steps she is taking to address the serious deficits in staffing and equipment in public radiation therapy services; if she will instruct the HSE to offer all radiation therapy graduates employment; and if she will make a statement on the matter. [52861/25] ",
-      "date": "2025-10-02"
+      "to": {
+        "uri": null,
+        "showAs": "Health",
+        "roleCode": null,
+        "roleType": null
+      },
+      "questionNumber": 79
     },
     "contextDate": "2025-10-02"
   },
@@ -883,39 +883,39 @@
     "question": {
       "debateSection": {
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/debate/mul@/dbsect_28.xml"
-          },
-          "pdf": null
+          }
         },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/debate/dbsect_28",
         "debateSectionId": "dbsect_28",
-        "showAs": "Hospital Facilities",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/debate/dbsect_28"
-      },
-      "questionNumber": 80,
-      "questionType": "oral",
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-02/pq_80",
-      "to": {
-        "uri": null,
-        "roleCode": null,
-        "roleType": null,
-        "showAs": "Health"
-      },
-      "house": {
-        "houseNo": "34",
-        "chamberType": "house",
-        "houseCode": "dail",
-        "committeeCode": "",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "showAs": "34th Dáil"
+        "showAs": "Hospital Facilities"
       },
       "by": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Catherine-Connolly.D.2016-10-03",
+        "memberCode": "Catherine-Connolly.D.2016-10-03",
         "showAs": "Catherine Connolly",
-        "memberCode": "Catherine-Connolly.D.2016-10-03"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Catherine-Connolly.D.2016-10-03"
       },
+      "date": "2025-10-02",
+      "house": {
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "houseNo": "34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-02/pq_80",
+      "questionType": "oral",
       "showAs": " 80. Deputy Catherine Connolly asked the Minister for Health if her Department’s review of the development control plan and strategic assessment report for the University Hospital Galway campus has been completed to date; if not, the expected timeline for the review to be completed and the documents returned to the HSE; the details of the enabling works underway; the details of any further enabling works planned; and if she will make a statement on the matter. [52567/25] ",
-      "date": "2025-10-02"
+      "to": {
+        "uri": null,
+        "showAs": "Health",
+        "roleCode": null,
+        "roleType": null
+      },
+      "questionNumber": 80
     },
     "contextDate": "2025-10-02"
   },
@@ -923,39 +923,39 @@
     "question": {
       "debateSection": {
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/debate/mul@/dbsect_22.xml"
-          },
-          "pdf": null
+          }
         },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/debate/dbsect_22",
         "debateSectionId": "dbsect_22",
-        "showAs": "Hospital Services",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/debate/dbsect_22"
-      },
-      "questionNumber": 81,
-      "questionType": "oral",
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-02/pq_81",
-      "to": {
-        "uri": null,
-        "roleCode": null,
-        "roleType": null,
-        "showAs": "Health"
-      },
-      "house": {
-        "houseNo": "34",
-        "chamberType": "house",
-        "houseCode": "dail",
-        "committeeCode": "",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "showAs": "34th Dáil"
+        "showAs": "Hospital Services"
       },
       "by": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Martin-Daly.D.2024-11-29",
+        "memberCode": "Martin-Daly.D.2024-11-29",
         "showAs": "Martin Daly",
-        "memberCode": "Martin-Daly.D.2024-11-29"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Martin-Daly.D.2024-11-29"
       },
+      "date": "2025-10-02",
+      "house": {
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "houseNo": "34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-02/pq_81",
+      "questionType": "oral",
       "showAs": " 81. Deputy Martin Daly asked the Minister for Health the reason the recommendations of the Walker report have not been implemented; the current status of their implementation; and if she will make a statement on the matter. [52819/25] ",
-      "date": "2025-10-02"
+      "to": {
+        "uri": null,
+        "showAs": "Health",
+        "roleCode": null,
+        "roleType": null
+      },
+      "questionNumber": 81
     },
     "contextDate": "2025-10-02"
   },
@@ -963,39 +963,39 @@
     "question": {
       "debateSection": {
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/debate/mul@/dbsect_24.xml"
-          },
-          "pdf": null
+          }
         },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/debate/dbsect_24",
         "debateSectionId": "dbsect_24",
-        "showAs": "Hospital Procedures",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/debate/dbsect_24"
-      },
-      "questionNumber": 82,
-      "questionType": "oral",
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-02/pq_82",
-      "to": {
-        "uri": null,
-        "roleCode": null,
-        "roleType": null,
-        "showAs": "Health"
-      },
-      "house": {
-        "houseNo": "34",
-        "chamberType": "house",
-        "houseCode": "dail",
-        "committeeCode": "",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "showAs": "34th Dáil"
+        "showAs": "Hospital Procedures"
       },
       "by": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Peadar-Tóibín.D.2011-03-09",
+        "memberCode": "Peadar-Tóibín.D.2011-03-09",
         "showAs": "Peadar Tóibín",
-        "memberCode": "Peadar-Tóibín.D.2011-03-09"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Peadar-Tóibín.D.2011-03-09"
       },
+      "date": "2025-10-02",
+      "house": {
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "houseNo": "34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-02/pq_82",
+      "questionType": "oral",
       "showAs": " 82. Deputy Peadar Tóibín asked the Minister for Health the number of persons on the scoliosis waiting list for surgery at CHI hospitals at present; and the steps she is taking to reduce waiting lists. [51548/25] ",
-      "date": "2025-10-02"
+      "to": {
+        "uri": null,
+        "showAs": "Health",
+        "roleCode": null,
+        "roleType": null
+      },
+      "questionNumber": 82
     },
     "contextDate": "2025-10-02"
   },
@@ -1003,39 +1003,39 @@
     "question": {
       "debateSection": {
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/debate/mul@/dbsect_26.xml"
-          },
-          "pdf": null
+          }
         },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/debate/dbsect_26",
         "debateSectionId": "dbsect_26",
-        "showAs": "Hospital Waiting Lists",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/debate/dbsect_26"
-      },
-      "questionNumber": 83,
-      "questionType": "oral",
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-02/pq_83",
-      "to": {
-        "uri": null,
-        "roleCode": null,
-        "roleType": null,
-        "showAs": "Health"
-      },
-      "house": {
-        "houseNo": "34",
-        "chamberType": "house",
-        "houseCode": "dail",
-        "committeeCode": "",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "showAs": "34th Dáil"
+        "showAs": "Hospital Waiting Lists"
       },
       "by": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Murphy.D.2014-10-10",
+        "memberCode": "Paul-Murphy.D.2014-10-10",
         "showAs": "Paul Murphy",
-        "memberCode": "Paul-Murphy.D.2014-10-10"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Murphy.D.2014-10-10"
       },
+      "date": "2025-10-02",
+      "house": {
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "houseNo": "34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-02/pq_83",
+      "questionType": "oral",
       "showAs": " 83. Deputy Paul Murphy asked the Minister for Health when she anticipates that no child will have to wait longer than three months for spinal surgery; and if she will make a statement on the matter. [52561/25] ",
-      "date": "2025-10-02"
+      "to": {
+        "uri": null,
+        "showAs": "Health",
+        "roleCode": null,
+        "roleType": null
+      },
+      "questionNumber": 83
     },
     "contextDate": "2025-10-02"
   },
@@ -1043,39 +1043,39 @@
     "question": {
       "debateSection": {
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/debate/mul@/dbsect_25.xml"
-          },
-          "pdf": null
+          }
         },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/debate/dbsect_25",
         "debateSectionId": "dbsect_25",
-        "showAs": "Primary Care Centres",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/debate/dbsect_25"
-      },
-      "questionNumber": 84,
-      "questionType": "oral",
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-02/pq_84",
-      "to": {
-        "uri": null,
-        "roleCode": null,
-        "roleType": null,
-        "showAs": "Health"
-      },
-      "house": {
-        "houseNo": "34",
-        "chamberType": "house",
-        "houseCode": "dail",
-        "committeeCode": "",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "showAs": "34th Dáil"
+        "showAs": "Primary Care Centres"
       },
       "by": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Peter-'Chap'-Cleere.D.2024-11-29",
+        "memberCode": "Peter-'Chap'-Cleere.D.2024-11-29",
         "showAs": "Peter 'Chap' Cleere",
-        "memberCode": "Peter-'Chap'-Cleere.D.2024-11-29"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Peter-'Chap'-Cleere.D.2024-11-29"
       },
+      "date": "2025-10-02",
+      "house": {
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "houseNo": "34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-02/pq_84",
+      "questionType": "oral",
       "showAs": " 84. Deputy Peter 'Chap' Cleere asked the Minister for Health for an update on the proposed new primary care centre for Graiguenamanagh; and if she will make a statement on the matter. [52193/25] ",
-      "date": "2025-10-02"
+      "to": {
+        "uri": null,
+        "showAs": "Health",
+        "roleCode": null,
+        "roleType": null
+      },
+      "questionNumber": 84
     },
     "contextDate": "2025-10-02"
   },
@@ -1083,39 +1083,39 @@
     "question": {
       "debateSection": {
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/debate/mul@/dbsect_27.xml"
-          },
-          "pdf": null
+          }
         },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/debate/dbsect_27",
         "debateSectionId": "dbsect_27",
-        "showAs": "Hospital Investigations",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/debate/dbsect_27"
-      },
-      "questionNumber": 85,
-      "questionType": "oral",
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-02/pq_85",
-      "to": {
-        "uri": null,
-        "roleCode": null,
-        "roleType": null,
-        "showAs": "Health"
-      },
-      "house": {
-        "houseNo": "34",
-        "chamberType": "house",
-        "houseCode": "dail",
-        "committeeCode": "",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "showAs": "34th Dáil"
+        "showAs": "Hospital Investigations"
       },
       "by": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Darren-O'Rourke.D.2020-02-08",
+        "memberCode": "Darren-O'Rourke.D.2020-02-08",
         "showAs": "Darren O'Rourke",
-        "memberCode": "Darren-O'Rourke.D.2020-02-08"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Darren-O'Rourke.D.2020-02-08"
       },
+      "date": "2025-10-02",
+      "house": {
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "houseNo": "34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-02/pq_85",
+      "questionType": "oral",
       "showAs": " 85. Deputy Darren O'Rourke asked the Minister for Health for an update on the investigation into unnecessary hip surgeries at CHI; the supports available to those affected; and if she will make a statement on the matter. [51162/25] ",
-      "date": "2025-10-02"
+      "to": {
+        "uri": null,
+        "showAs": "Health",
+        "roleCode": null,
+        "roleType": null
+      },
+      "questionNumber": 85
     },
     "contextDate": "2025-10-02"
   },
@@ -1123,39 +1123,39 @@
     "question": {
       "debateSection": {
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/debate/mul@/dbsect_29.xml"
-          },
-          "pdf": null
+          }
         },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/debate/dbsect_29",
         "debateSectionId": "dbsect_29",
-        "showAs": "Health Services Staff",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/debate/dbsect_29"
-      },
-      "questionNumber": 86,
-      "questionType": "oral",
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-02/pq_86",
-      "to": {
-        "uri": null,
-        "roleCode": null,
-        "roleType": null,
-        "showAs": "Health"
-      },
-      "house": {
-        "houseNo": "34",
-        "chamberType": "house",
-        "houseCode": "dail",
-        "committeeCode": "",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "showAs": "34th Dáil"
+        "showAs": "Health Services Staff"
       },
       "by": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Brendan-Smith.D.1992-12-14",
+        "memberCode": "Brendan-Smith.D.1992-12-14",
         "showAs": "Brendan Smith",
-        "memberCode": "Brendan-Smith.D.1992-12-14"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Brendan-Smith.D.1992-12-14"
       },
+      "date": "2025-10-02",
+      "house": {
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "houseNo": "34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-02/pq_86",
+      "questionType": "oral",
       "showAs": " 86. Deputy Brendan Smith asked the Minister for Health the progress to date in recruiting therapists for primary care in counties Cavan and Monaghan, taking into account the urgent need to reduce waiting times for children with additional needs seeking to access essential supports; and if she will make a statement on the matter. [52459/25] ",
-      "date": "2025-10-02"
+      "to": {
+        "uri": null,
+        "showAs": "Health",
+        "roleCode": null,
+        "roleType": null
+      },
+      "questionNumber": 86
     },
     "contextDate": "2025-10-02"
   },
@@ -1163,39 +1163,39 @@
     "question": {
       "debateSection": {
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/debate/mul@/dbsect_30.xml"
-          },
-          "pdf": null
+          }
         },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/debate/dbsect_30",
         "debateSectionId": "dbsect_30",
-        "showAs": "Health Services",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/debate/dbsect_30"
-      },
-      "questionNumber": 87,
-      "questionType": "oral",
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-02/pq_87",
-      "to": {
-        "uri": null,
-        "roleCode": null,
-        "roleType": null,
-        "showAs": "Health"
-      },
-      "house": {
-        "houseNo": "34",
-        "chamberType": "house",
-        "houseCode": "dail",
-        "committeeCode": "",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "showAs": "34th Dáil"
+        "showAs": "Health Services"
       },
       "by": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Grace-Boland.D.2024-11-29",
+        "memberCode": "Grace-Boland.D.2024-11-29",
         "showAs": "Grace Boland",
-        "memberCode": "Grace-Boland.D.2024-11-29"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Grace-Boland.D.2024-11-29"
       },
+      "date": "2025-10-02",
+      "house": {
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "houseNo": "34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-02/pq_87",
+      "questionType": "oral",
       "showAs": " 87. Deputy Grace Boland asked the Minister for Health the steps being taken to reduce the average diagnostic delay for endometriosis; the plans to introduce public awareness campaigns and GP training to support earlier intervention; and if she will make a statement on the matter. [52381/25] ",
-      "date": "2025-10-02"
+      "to": {
+        "uri": null,
+        "showAs": "Health",
+        "roleCode": null,
+        "roleType": null
+      },
+      "questionNumber": 87
     },
     "contextDate": "2025-10-02"
   },
@@ -1203,39 +1203,39 @@
     "question": {
       "debateSection": {
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/debate/mul@/dbsect_30.xml"
-          },
-          "pdf": null
+          }
         },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/debate/dbsect_30",
         "debateSectionId": "dbsect_30",
-        "showAs": "Health Services",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/debate/dbsect_30"
-      },
-      "questionNumber": 97,
-      "questionType": "oral",
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-02/pq_97",
-      "to": {
-        "uri": null,
-        "roleCode": null,
-        "roleType": null,
-        "showAs": "Health"
-      },
-      "house": {
-        "houseNo": "34",
-        "chamberType": "house",
-        "houseCode": "dail",
-        "committeeCode": "",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "showAs": "34th Dáil"
+        "showAs": "Health Services"
       },
       "by": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Naoise-Ó-Muirí.D.2024-11-29",
+        "memberCode": "Naoise-Ó-Muirí.D.2024-11-29",
         "showAs": "Naoise Ó Muirí",
-        "memberCode": "Naoise-Ó-Muirí.D.2024-11-29"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Naoise-Ó-Muirí.D.2024-11-29"
       },
+      "date": "2025-10-02",
+      "house": {
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "houseNo": "34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-02/pq_97",
+      "questionType": "oral",
       "showAs": " 97. Deputy Naoise Ó Muirí asked the Minister for Health for an update on the development of the national framework for endometriosis care; and if she will make a statement on the matter. [52187/25] ",
-      "date": "2025-10-02"
+      "to": {
+        "uri": null,
+        "showAs": "Health",
+        "roleCode": null,
+        "roleType": null
+      },
+      "questionNumber": 97
     },
     "contextDate": "2025-10-02"
   },
@@ -1243,39 +1243,1879 @@
     "question": {
       "debateSection": {
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/debate/mul@/dbsect_30.xml"
-          },
-          "pdf": null
+          }
         },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/debate/dbsect_30",
         "debateSectionId": "dbsect_30",
-        "showAs": "Health Services",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/debate/dbsect_30"
-      },
-      "questionNumber": 101,
-      "questionType": "oral",
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-02/pq_101",
-      "to": {
-        "uri": null,
-        "roleCode": null,
-        "roleType": null,
-        "showAs": "Health"
-      },
-      "house": {
-        "houseNo": "34",
-        "chamberType": "house",
-        "houseCode": "dail",
-        "committeeCode": "",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "showAs": "34th Dáil"
+        "showAs": "Health Services"
       },
       "by": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/David-Cullinane.S.2011-05-25",
+        "memberCode": "David-Cullinane.S.2011-05-25",
         "showAs": "David Cullinane",
-        "memberCode": "David-Cullinane.S.2011-05-25"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/David-Cullinane.S.2011-05-25"
       },
+      "date": "2025-10-02",
+      "house": {
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "houseNo": "34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-02/pq_101",
+      "questionType": "oral",
       "showAs": " 101. Deputy David Cullinane asked the Minister for Health her intentions regarding the provision of comprehensive endometriosis services; and if she will make a statement on the matter. [52532/25] ",
-      "date": "2025-10-02"
+      "to": {
+        "uri": null,
+        "showAs": "Health",
+        "roleCode": null,
+        "roleType": null
+      },
+      "questionNumber": 101
+    },
+    "contextDate": "2025-10-02"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/writtens/mul@/dbsect_43.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/writtens/dbsect_43",
+        "debateSectionId": "dbsect_43",
+        "showAs": "Hospital Staff"
+      },
+      "by": {
+        "memberCode": "Keira-Keogh.D.2024-11-29",
+        "showAs": "Keira Keogh",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Keira-Keogh.D.2024-11-29"
+      },
+      "date": "2025-10-02",
+      "house": {
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "houseNo": "34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-02/pq_106",
+      "questionType": "written",
+      "showAs": " 106. Deputy Keira Keogh asked the Minister for Health the plans she has to engage further with Mayo University Hospital in relation to staff shortages in the accident and emergency department; and if she will make a statement on the matter. [52391/25] ",
+      "to": {
+        "uri": null,
+        "showAs": "Health",
+        "roleCode": null,
+        "roleType": null
+      },
+      "questionNumber": 106
+    },
+    "contextDate": "2025-10-02"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/writtens/mul@/dbsect_44.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/writtens/dbsect_44",
+        "debateSectionId": "dbsect_44",
+        "showAs": "Hospital Facilities"
+      },
+      "by": {
+        "memberCode": "Noel-McCarthy.D.2024-11-29",
+        "showAs": "Noel McCarthy",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Noel-McCarthy.D.2024-11-29"
+      },
+      "date": "2025-10-02",
+      "house": {
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "houseNo": "34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-02/pq_107",
+      "questionType": "written",
+      "showAs": " 107. Deputy Noel McCarthy asked the Minister for Health to provide an update on the development of the new community nursing unit at Midleton Community Hospital, Midleton, County Cork; and if she will make a statement on the matter. [52008/25] ",
+      "to": {
+        "uri": null,
+        "showAs": "Health",
+        "roleCode": null,
+        "roleType": null
+      },
+      "questionNumber": 107
+    },
+    "contextDate": "2025-10-02"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/writtens/mul@/dbsect_45.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/writtens/dbsect_45",
+        "debateSectionId": "dbsect_45",
+        "showAs": "Hospital Equipment"
+      },
+      "by": {
+        "memberCode": "Matt-Carthy.D.2020-02-08",
+        "showAs": "Matt Carthy",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Matt-Carthy.D.2020-02-08"
+      },
+      "date": "2025-10-02",
+      "house": {
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "houseNo": "34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-02/pq_108",
+      "questionType": "written",
+      "showAs": " 108. Deputy Matt Carthy asked the Minister for Health if she will commission a feasibility study into the provision of MRI and CT scanners at Monaghan hospital. [52348/25] ",
+      "to": {
+        "uri": null,
+        "showAs": "Health",
+        "roleCode": null,
+        "roleType": null
+      },
+      "questionNumber": 108
+    },
+    "contextDate": "2025-10-02"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/writtens/mul@/dbsect_46.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/writtens/dbsect_46",
+        "debateSectionId": "dbsect_46",
+        "showAs": "Hospital Staff"
+      },
+      "by": {
+        "memberCode": "Paul-Murphy.D.2014-10-10",
+        "showAs": "Paul Murphy",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Murphy.D.2014-10-10"
+      },
+      "date": "2025-10-02",
+      "house": {
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "houseNo": "34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-02/pq_109",
+      "questionType": "written",
+      "showAs": " 109. Deputy Paul Murphy asked the Minister for Health if she has any concerns about Children's Health Ireland surgeons who may have performed unnecessary operations on children continuing to operate on them today; and if she will make a statement on the matter. [52562/25] ",
+      "to": {
+        "uri": null,
+        "showAs": "Health",
+        "roleCode": null,
+        "roleType": null
+      },
+      "questionNumber": 109
+    },
+    "contextDate": "2025-10-02"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/writtens/mul@/dbsect_47.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/writtens/dbsect_47",
+        "debateSectionId": "dbsect_47",
+        "showAs": "Cancer Services"
+      },
+      "by": {
+        "memberCode": "Paul-McAuliffe.D.2020-02-08",
+        "showAs": "Paul McAuliffe",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-McAuliffe.D.2020-02-08"
+      },
+      "date": "2025-10-02",
+      "house": {
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "houseNo": "34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-02/pq_110",
+      "questionType": "written",
+      "showAs": " 110. Deputy Paul McAuliffe asked the Minister for Health if there are plans, within the next year, to increase resources nationwide to address the wait times for those seeking an oncology appointment; and if she will make a statement on the matter. [52564/25] ",
+      "to": {
+        "uri": null,
+        "showAs": "Health",
+        "roleCode": null,
+        "roleType": null
+      },
+      "questionNumber": 110
+    },
+    "contextDate": "2025-10-02"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/writtens/mul@/dbsect_48.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/writtens/dbsect_48",
+        "debateSectionId": "dbsect_48",
+        "showAs": "Hospital Facilities"
+      },
+      "by": {
+        "memberCode": "Pádraig-O'Sullivan.D.2019-11-29",
+        "showAs": "Pádraig O'Sullivan",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Pádraig-O'Sullivan.D.2019-11-29"
+      },
+      "date": "2025-10-02",
+      "house": {
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "houseNo": "34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-02/pq_111",
+      "questionType": "written",
+      "showAs": " 111. Deputy Pádraig O'Sullivan asked the Minister for Health if she will provide an update on the bed capacity across the hospitals in Cork; if she will provide an update on the commitment made in 2024 to provide an additional 472 hospital beds across Cork by 2031; the timeline for their delivery; and if she will make a statement on the matter. [52196/25] ",
+      "to": {
+        "uri": null,
+        "showAs": "Health",
+        "roleCode": null,
+        "roleType": null
+      },
+      "questionNumber": 111
+    },
+    "contextDate": "2025-10-02"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/writtens/mul@/dbsect_49.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/writtens/dbsect_49",
+        "debateSectionId": "dbsect_49",
+        "showAs": "Healthcare Infrastructure Provision"
+      },
+      "by": {
+        "memberCode": "William-Aird.D.2024-11-29",
+        "showAs": "William Aird",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/William-Aird.D.2024-11-29"
+      },
+      "date": "2025-10-02",
+      "house": {
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "houseNo": "34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-02/pq_112",
+      "questionType": "written",
+      "showAs": " 112. Deputy William Aird asked the Minister for Health to provide a timeframe for the funding for the construction of the next phase of the extension of Mountmellick Community Nursing Home, County Laois (St Vincent's Hospital) and the expected capacity of the facility when all phases are completed; and if she will make a statement on the matter. [52181/25] ",
+      "to": {
+        "uri": null,
+        "showAs": "Health",
+        "roleCode": null,
+        "roleType": null
+      },
+      "questionNumber": 112
+    },
+    "contextDate": "2025-10-02"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/writtens/mul@/dbsect_50.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/writtens/dbsect_50",
+        "debateSectionId": "dbsect_50",
+        "showAs": "Patient Transfers"
+      },
+      "by": {
+        "memberCode": "Paul-Lawless.D.2024-11-29",
+        "showAs": "Paul Lawless",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Lawless.D.2024-11-29"
+      },
+      "date": "2025-10-02",
+      "house": {
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "houseNo": "34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-02/pq_113",
+      "questionType": "written",
+      "showAs": " 113. Deputy Paul Lawless asked the Minister for Health the number of patients in Mayo University Hospital who have been clinically discharged but remain in hospital; and the length of time such patients have been in that situation. [52242/25] ",
+      "to": {
+        "uri": null,
+        "showAs": "Health",
+        "roleCode": null,
+        "roleType": null
+      },
+      "questionNumber": 113
+    },
+    "contextDate": "2025-10-02"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/writtens/mul@/dbsect_51.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/writtens/dbsect_51",
+        "debateSectionId": "dbsect_51",
+        "showAs": "Pharmacy Services"
+      },
+      "by": {
+        "memberCode": "Joe-Cooney.D.2024-11-29",
+        "showAs": "Joe Cooney",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Joe-Cooney.D.2024-11-29"
+      },
+      "date": "2025-10-02",
+      "house": {
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "houseNo": "34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-02/pq_114",
+      "questionType": "written",
+      "showAs": " 114. Deputy Joe Cooney asked the Minister for Health the number of pharmacies participating in the HRT scheme, by county, in tabular form; and if she will make a statement on the matter. [52209/25] ",
+      "to": {
+        "uri": null,
+        "showAs": "Health",
+        "roleCode": null,
+        "roleType": null
+      },
+      "questionNumber": 114
+    },
+    "contextDate": "2025-10-02"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/writtens/mul@/dbsect_52.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/writtens/dbsect_52",
+        "debateSectionId": "dbsect_52",
+        "showAs": "Patient Transport"
+      },
+      "by": {
+        "memberCode": "Brian-Stanley.D.2011-03-09",
+        "showAs": "Brian Stanley",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Brian-Stanley.D.2011-03-09"
+      },
+      "date": "2025-10-02",
+      "house": {
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "houseNo": "34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-02/pq_115",
+      "questionType": "written",
+      "showAs": " 115. Deputy Brian Stanley asked the Minister for Health the action being taken to resolve the issue of public patients in nursing home care being unable to access ambulance transfer to hospital appointments when necessary, including some who are a long distance away; and if she will make a statement on the matter. [51532/25] ",
+      "to": {
+        "uri": null,
+        "showAs": "Health",
+        "roleCode": null,
+        "roleType": null
+      },
+      "questionNumber": 115
+    },
+    "contextDate": "2025-10-02"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/writtens/mul@/dbsect_53.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/writtens/dbsect_53",
+        "debateSectionId": "dbsect_53",
+        "showAs": "Health Services Waiting Lists"
+      },
+      "by": {
+        "memberCode": "Richard-O'Donoghue.D.2020-02-08",
+        "showAs": "Richard O'Donoghue",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Richard-O'Donoghue.D.2020-02-08"
+      },
+      "date": "2025-10-02",
+      "house": {
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "houseNo": "34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-02/pq_116",
+      "questionType": "written",
+      "showAs": " 116. Deputy Richard O'Donoghue asked the Minister for Health whether her Department has in place a strategy to cut the waiting lists for speech and language therapy assessments; and if she will make a statement on the matter. [50452/25] ",
+      "to": {
+        "uri": null,
+        "showAs": "Health",
+        "roleCode": null,
+        "roleType": null
+      },
+      "questionNumber": 116
+    },
+    "contextDate": "2025-10-02"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/writtens/mul@/dbsect_54.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/writtens/dbsect_54",
+        "debateSectionId": "dbsect_54",
+        "showAs": "Hospital Waiting Lists"
+      },
+      "by": {
+        "memberCode": "Sorca-Clarke.D.2020-02-08",
+        "showAs": "Sorca Clarke",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Sorca-Clarke.D.2020-02-08"
+      },
+      "date": "2025-10-02",
+      "house": {
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "houseNo": "34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-02/pq_117",
+      "questionType": "written",
+      "showAs": " 117. Deputy Sorca Clarke asked the Minister for Health the measures being taken to reduce waiting lists for gynaecology outpatient and inpatient appointments and procedures. [52557/25] ",
+      "to": {
+        "uri": null,
+        "showAs": "Health",
+        "roleCode": null,
+        "roleType": null
+      },
+      "questionNumber": 117
+    },
+    "contextDate": "2025-10-02"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/writtens/mul@/dbsect_55.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/writtens/dbsect_55",
+        "debateSectionId": "dbsect_55",
+        "showAs": "General Practitioner Services"
+      },
+      "by": {
+        "memberCode": "Cormac-Devlin.D.2020-02-08",
+        "showAs": "Cormac Devlin",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Cormac-Devlin.D.2020-02-08"
+      },
+      "date": "2025-10-02",
+      "house": {
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "houseNo": "34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-02/pq_118",
+      "questionType": "written",
+      "showAs": " 118. Deputy Cormac Devlin asked the Minister for Health for an update on the strategic review of general practice; and the bringing forward of a new, modern GP contract. [52362/25] ",
+      "to": {
+        "uri": null,
+        "showAs": "Health",
+        "roleCode": null,
+        "roleType": null
+      },
+      "questionNumber": 118
+    },
+    "contextDate": "2025-10-02"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/writtens/mul@/dbsect_56.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/writtens/dbsect_56",
+        "debateSectionId": "dbsect_56",
+        "showAs": "Healthcare Infrastructure Provision"
+      },
+      "by": {
+        "memberCode": "Peter-'Chap'-Cleere.D.2024-11-29",
+        "showAs": "Peter 'Chap' Cleere",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Peter-'Chap'-Cleere.D.2024-11-29"
+      },
+      "date": "2025-10-02",
+      "house": {
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "houseNo": "34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-02/pq_119",
+      "questionType": "written",
+      "showAs": " 119. Deputy Peter 'Chap' Cleere asked the Minister for Health for an overview of the health capital projects currently in construction and in design across Kilkenny; and if she will make a statement on the matter. [52194/25] ",
+      "to": {
+        "uri": null,
+        "showAs": "Health",
+        "roleCode": null,
+        "roleType": null
+      },
+      "questionNumber": 119
+    },
+    "contextDate": "2025-10-02"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/writtens/mul@/dbsect_57.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/writtens/dbsect_57",
+        "debateSectionId": "dbsect_57",
+        "showAs": "Healthcare Infrastructure Provision"
+      },
+      "by": {
+        "memberCode": "Colm-Burke.S.2011-05-25",
+        "showAs": "Colm Burke",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Colm-Burke.S.2011-05-25"
+      },
+      "date": "2025-10-02",
+      "house": {
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "houseNo": "34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-02/pq_120",
+      "questionType": "written",
+      "showAs": " 120. Deputy Colm Burke asked the Minister for Health whether she has set a deadline for the finalisation of the design for the elective hospital in Sarsfield Court, Glanmire, Cork; the deadline for the planning application submission for the project; and if she will make a statement on the matter. [52405/25] ",
+      "to": {
+        "uri": null,
+        "showAs": "Health",
+        "roleCode": null,
+        "roleType": null
+      },
+      "questionNumber": 120
+    },
+    "contextDate": "2025-10-02"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/writtens/mul@/dbsect_58.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/writtens/dbsect_58",
+        "debateSectionId": "dbsect_58",
+        "showAs": "Medicinal Products"
+      },
+      "by": {
+        "memberCode": "Mairéad-Farrell.D.2020-02-08",
+        "showAs": "Mairéad Farrell",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Mairéad-Farrell.D.2020-02-08"
+      },
+      "date": "2025-10-02",
+      "house": {
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "houseNo": "34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-02/pq_121",
+      "questionType": "written",
+      "showAs": " 121. Deputy Mairéad Farrell asked the Minister for Health if she has engaged with the HSE on the recent approval of Belimumab for the treatment of lupus; if funding will be given in budget 2026 towards this treatment; and if she will make a statement on the matter. [52239/25] ",
+      "to": {
+        "uri": null,
+        "showAs": "Health",
+        "roleCode": null,
+        "roleType": null
+      },
+      "questionNumber": 121
+    },
+    "contextDate": "2025-10-02"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/writtens/mul@/dbsect_59.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/writtens/dbsect_59",
+        "debateSectionId": "dbsect_59",
+        "showAs": "Mental Health Services"
+      },
+      "by": {
+        "memberCode": "Liam-Quaide.D.2024-11-29",
+        "showAs": "Liam Quaide",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Liam-Quaide.D.2024-11-29"
+      },
+      "date": "2025-10-02",
+      "house": {
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "houseNo": "34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-02/pq_122",
+      "questionType": "written",
+      "showAs": " 122. Deputy Liam Quaide asked the Minister for Health whether the proposed 50-bedroom mental health facility on the grounds of St Stephen’s hospital, Glanmire, is compliant with the UNCRPD; and if she will make a statement on the matter. [52504/25] ",
+      "to": {
+        "uri": null,
+        "showAs": "Health",
+        "roleCode": null,
+        "roleType": null
+      },
+      "questionNumber": 122
+    },
+    "contextDate": "2025-10-02"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/writtens/mul@/dbsect_60.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/writtens/dbsect_60",
+        "debateSectionId": "dbsect_60",
+        "showAs": "Healthcare Infrastructure Provision"
+      },
+      "by": {
+        "memberCode": "Shane-Moynihan.D.2024-11-29",
+        "showAs": "Shane Moynihan",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Shane-Moynihan.D.2024-11-29"
+      },
+      "date": "2025-10-02",
+      "house": {
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "houseNo": "34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-02/pq_123",
+      "questionType": "written",
+      "showAs": " 123. Deputy Shane Moynihan asked the Minister for Health for a status update on the funding required for the women's health unit in the Coombe Hospital; and if she will make a statement on the matter. [52445/25] ",
+      "to": {
+        "uri": null,
+        "showAs": "Health",
+        "roleCode": null,
+        "roleType": null
+      },
+      "questionNumber": 123
+    },
+    "contextDate": "2025-10-02"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/writtens/mul@/dbsect_61.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/writtens/dbsect_61",
+        "debateSectionId": "dbsect_61",
+        "showAs": "Health Strategies"
+      },
+      "by": {
+        "memberCode": "Naoise-Ó-Cearúil.D.2024-11-29",
+        "showAs": "Naoise Ó Cearúil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Naoise-Ó-Cearúil.D.2024-11-29"
+      },
+      "date": "2025-10-02",
+      "house": {
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "houseNo": "34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-02/pq_124",
+      "questionType": "written",
+      "showAs": " 124. Deputy Naoise Ó Cearúil asked the Minister for Health the progress made on developing a successor policy to the national cardiovascular policy; and if she will make a statement on the matter. [52431/25] ",
+      "to": {
+        "uri": null,
+        "showAs": "Health",
+        "roleCode": null,
+        "roleType": null
+      },
+      "questionNumber": 124
+    },
+    "contextDate": "2025-10-02"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/writtens/mul@/dbsect_62.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/writtens/dbsect_62",
+        "debateSectionId": "dbsect_62",
+        "showAs": "Legislative Measures"
+      },
+      "by": {
+        "memberCode": "Naoise-Ó-Muirí.D.2024-11-29",
+        "showAs": "Naoise Ó Muirí",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Naoise-Ó-Muirí.D.2024-11-29"
+      },
+      "date": "2025-10-02",
+      "house": {
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "houseNo": "34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-02/pq_125",
+      "questionType": "written",
+      "showAs": " 125. Deputy Naoise Ó Muirí asked the Minister for Health for an update on the legislation being drafted to further regulate nicotine inhaling products and single-use vapes; and if she will make a statement on the matter. [52188/25] ",
+      "to": {
+        "uri": null,
+        "showAs": "Health",
+        "roleCode": null,
+        "roleType": null
+      },
+      "questionNumber": 125
+    },
+    "contextDate": "2025-10-02"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/writtens/mul@/dbsect_64.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/writtens/dbsect_64",
+        "debateSectionId": "dbsect_64",
+        "showAs": "Health Services Staff"
+      },
+      "by": {
+        "memberCode": "Edward-Timmins.D.2024-11-29",
+        "showAs": "Edward Timmins",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Edward-Timmins.D.2024-11-29"
+      },
+      "date": "2025-10-02",
+      "house": {
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "houseNo": "34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-02/pq_126",
+      "questionType": "written",
+      "showAs": " 126. Deputy Edward Timmins asked the Minister for Health the number of medical graduates at all clinical levels who graduated since 2020 and who are currently employed in the HSE; and if she will make a statement on the matter. [52552/25] ",
+      "to": {
+        "uri": null,
+        "showAs": "Health",
+        "roleCode": null,
+        "roleType": null
+      },
+      "questionNumber": 126
+    },
+    "contextDate": "2025-10-02"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/writtens/mul@/dbsect_65.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/writtens/dbsect_65",
+        "debateSectionId": "dbsect_65",
+        "showAs": "Primary Care Centres"
+      },
+      "by": {
+        "memberCode": "John-Clendennen.D.2024-11-29",
+        "showAs": "John Clendennen",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/John-Clendennen.D.2024-11-29"
+      },
+      "date": "2025-10-02",
+      "house": {
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "houseNo": "34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-02/pq_127",
+      "questionType": "written",
+      "showAs": " 127. Deputy John Clendennen asked the Minister for Health the number of primary care centres planned to be delivered in Offaly; the means by which the centres are helping to achieve the aims of Sláintecare; and if she will make a statement on the matter. [52245/25] ",
+      "to": {
+        "uri": null,
+        "showAs": "Health",
+        "roleCode": null,
+        "roleType": null
+      },
+      "questionNumber": 127
+    },
+    "contextDate": "2025-10-02"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/writtens/mul@/dbsect_66.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/writtens/dbsect_66",
+        "debateSectionId": "dbsect_66",
+        "showAs": "Health Services Waiting Lists"
+      },
+      "by": {
+        "memberCode": "Pearse-Doherty.S.2007-07-23",
+        "showAs": "Pearse Doherty",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Pearse-Doherty.S.2007-07-23"
+      },
+      "date": "2025-10-02",
+      "house": {
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "houseNo": "34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-02/pq_128",
+      "questionType": "written",
+      "showAs": " 128. Deputy Pearse Doherty asked the Minister for Health the plans in place to address the large number of people in County Donegal on waiting lists for occupational therapy; and if she will make a statement on the matter. [52385/25] ",
+      "to": {
+        "uri": null,
+        "showAs": "Health",
+        "roleCode": null,
+        "roleType": null
+      },
+      "questionNumber": 128
+    },
+    "contextDate": "2025-10-02"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/writtens/mul@/dbsect_67.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/writtens/dbsect_67",
+        "debateSectionId": "dbsect_67",
+        "showAs": "Primary Care Centres"
+      },
+      "by": {
+        "memberCode": "James-O'Connor.D.2020-02-08",
+        "showAs": "James O'Connor",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/James-O'Connor.D.2020-02-08"
+      },
+      "date": "2025-10-02",
+      "house": {
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "houseNo": "34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-02/pq_129",
+      "questionType": "written",
+      "showAs": " 129. Deputy James O'Connor asked the Minister for Health to provide an update on a project (details supplied); and if she will make a statement on the matter. [52296/25] ",
+      "to": {
+        "uri": null,
+        "showAs": "Health",
+        "roleCode": null,
+        "roleType": null
+      },
+      "questionNumber": 129
+    },
+    "contextDate": "2025-10-02"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/writtens/mul@/dbsect_68.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/writtens/dbsect_68",
+        "debateSectionId": "dbsect_68",
+        "showAs": "Hospital Services"
+      },
+      "by": {
+        "memberCode": "Albert-Dolan.D.2024-11-29",
+        "showAs": "Albert Dolan",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Albert-Dolan.D.2024-11-29"
+      },
+      "date": "2025-10-02",
+      "house": {
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "houseNo": "34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-02/pq_130",
+      "questionType": "written",
+      "showAs": " 130. Deputy Albert Dolan asked the Minister for Health if she will provide an update on the current status of maternity services at Portiuncula University Hospital, Ballinasloe; and to outline the measures being taken to ensure the long-term sustainability and safety of maternity care for families in this facility. [52335/25] ",
+      "to": {
+        "uri": null,
+        "showAs": "Health",
+        "roleCode": null,
+        "roleType": null
+      },
+      "questionNumber": 130
+    },
+    "contextDate": "2025-10-02"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/writtens/mul@/dbsect_69.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/writtens/dbsect_69",
+        "debateSectionId": "dbsect_69",
+        "showAs": "Primary Care Centres"
+      },
+      "by": {
+        "memberCode": "Willie-O'Dea.D.1982-03-09",
+        "showAs": "Willie O'Dea",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Willie-O'Dea.D.1982-03-09"
+      },
+      "date": "2025-10-02",
+      "house": {
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "houseNo": "34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-02/pq_131",
+      "questionType": "written",
+      "showAs": " 131. Deputy Willie O'Dea asked the Minister for Health the plans to open more primary care centres and expedite the delivery of the existing pipeline to construction. [52384/25] ",
+      "to": {
+        "uri": null,
+        "showAs": "Health",
+        "roleCode": null,
+        "roleType": null
+      },
+      "questionNumber": 131
+    },
+    "contextDate": "2025-10-02"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/writtens/mul@/dbsect_70.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/writtens/dbsect_70",
+        "debateSectionId": "dbsect_70",
+        "showAs": "Departmental Inquiries"
+      },
+      "by": {
+        "memberCode": "Paul-Murphy.D.2014-10-10",
+        "showAs": "Paul Murphy",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Murphy.D.2014-10-10"
+      },
+      "date": "2025-10-02",
+      "house": {
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "houseNo": "34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-02/pq_132",
+      "questionType": "written",
+      "showAs": " 132. Deputy Paul Murphy asked the Minister for Health if she will agree to a statutory inquiry into possible malpractice at Children's Health Ireland; and if she will make a statement on the matter. [52559/25] ",
+      "to": {
+        "uri": null,
+        "showAs": "Health",
+        "roleCode": null,
+        "roleType": null
+      },
+      "questionNumber": 132
+    },
+    "contextDate": "2025-10-02"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/writtens/mul@/dbsect_71.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/writtens/dbsect_71",
+        "debateSectionId": "dbsect_71",
+        "showAs": "Disease Management"
+      },
+      "by": {
+        "memberCode": "Shay-Brennan.D.2024-11-29",
+        "showAs": "Shay Brennan",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Shay-Brennan.D.2024-11-29"
+      },
+      "date": "2025-10-02",
+      "house": {
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "houseNo": "34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-02/pq_133",
+      "questionType": "written",
+      "showAs": " 133. Deputy Shay Brennan asked the Minister for Health her plans to expand specialist services in endometriosis. [52387/25] ",
+      "to": {
+        "uri": null,
+        "showAs": "Health",
+        "roleCode": null,
+        "roleType": null
+      },
+      "questionNumber": 133
+    },
+    "contextDate": "2025-10-02"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/writtens/mul@/dbsect_72.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/writtens/dbsect_72",
+        "debateSectionId": "dbsect_72",
+        "showAs": "Vaccination Programme"
+      },
+      "by": {
+        "memberCode": "Emer-Currie.S.2020-06-29",
+        "showAs": "Emer Currie",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Emer-Currie.S.2020-06-29"
+      },
+      "date": "2025-10-02",
+      "house": {
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "houseNo": "34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-02/pq_134",
+      "questionType": "written",
+      "showAs": " 134. Deputy Emer Currie asked the Minister for Health if she will consider the introduction of a free shingles vaccine for older people, in particular those over 66 years-of-age, in line with best practice in other European countries; and if she will make a statement on the matter. [52175/25] ",
+      "to": {
+        "uri": null,
+        "showAs": "Health",
+        "roleCode": null,
+        "roleType": null
+      },
+      "questionNumber": 134
+    },
+    "contextDate": "2025-10-02"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/writtens/mul@/dbsect_73.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/writtens/dbsect_73",
+        "debateSectionId": "dbsect_73",
+        "showAs": "Health Services Waiting Lists"
+      },
+      "by": {
+        "memberCode": "Seán-Fleming.D.1997-06-26",
+        "showAs": "Seán Fleming",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Seán-Fleming.D.1997-06-26"
+      },
+      "date": "2025-10-02",
+      "house": {
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "houseNo": "34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-02/pq_135",
+      "questionType": "written",
+      "showAs": " 135. Deputy Seán Fleming asked the Minister for Health for an update on her review of the use by the health service of third-party insourcing; and if she will make a statement on the matter. [52366/25] ",
+      "to": {
+        "uri": null,
+        "showAs": "Health",
+        "roleCode": null,
+        "roleType": null
+      },
+      "questionNumber": 135
+    },
+    "contextDate": "2025-10-02"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/writtens/mul@/dbsect_74.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/writtens/dbsect_74",
+        "debateSectionId": "dbsect_74",
+        "showAs": "Pharmacy Services"
+      },
+      "by": {
+        "memberCode": "Aengus-Ó-Snodaigh.D.2002-06-06",
+        "showAs": "Aengus Ó Snodaigh",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Aengus-Ó-Snodaigh.D.2002-06-06"
+      },
+      "date": "2025-10-02",
+      "house": {
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "houseNo": "34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-02/pq_136",
+      "questionType": "written",
+      "showAs": " 136. Deputy Aengus Ó Snodaigh asked the Minister for Health when she will introduce a proper disposal of unused medicines scheme as required by EU law since 2004; and if she will make a statement on the matter.  [52119/25] ",
+      "to": {
+        "uri": null,
+        "showAs": "Health",
+        "roleCode": null,
+        "roleType": null
+      },
+      "questionNumber": 136
+    },
+    "contextDate": "2025-10-02"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/writtens/mul@/dbsect_75.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/writtens/dbsect_75",
+        "debateSectionId": "dbsect_75",
+        "showAs": "Care Services"
+      },
+      "by": {
+        "memberCode": "Aindrias-Moynihan.D.2016-10-03",
+        "showAs": "Aindrias Moynihan",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Aindrias-Moynihan.D.2016-10-03"
+      },
+      "date": "2025-10-02",
+      "house": {
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "houseNo": "34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-02/pq_137",
+      "questionType": "written",
+      "showAs": " 137. Deputy Aindrias Moynihan asked the Minister for Health the status of the delivery of a daycare centre for Macroom; and if she will make a statement on the matter. [52015/25] ",
+      "to": {
+        "uri": null,
+        "showAs": "Health",
+        "roleCode": null,
+        "roleType": null
+      },
+      "questionNumber": 137
+    },
+    "contextDate": "2025-10-02"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/writtens/mul@/dbsect_76.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/writtens/dbsect_76",
+        "debateSectionId": "dbsect_76",
+        "showAs": "Ambulance Service"
+      },
+      "by": {
+        "memberCode": "Tony-McCormack.D.2024-11-29",
+        "showAs": "Tony McCormack",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tony-McCormack.D.2024-11-29"
+      },
+      "date": "2025-10-02",
+      "house": {
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "houseNo": "34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-02/pq_138",
+      "questionType": "written",
+      "showAs": " 138. Deputy Tony McCormack asked the Minister for Health if she is satisfied that the current ambulance dispatch system ensures timely and equitable emergency response across all regions; and if she will make a statement on the matter. [52501/25] ",
+      "to": {
+        "uri": null,
+        "showAs": "Health",
+        "roleCode": null,
+        "roleType": null
+      },
+      "questionNumber": 138
+    },
+    "contextDate": "2025-10-02"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/writtens/mul@/dbsect_77.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/writtens/dbsect_77",
+        "debateSectionId": "dbsect_77",
+        "showAs": "Home Care Packages"
+      },
+      "by": {
+        "memberCode": "Martin-Daly.D.2024-11-29",
+        "showAs": "Martin Daly",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Martin-Daly.D.2024-11-29"
+      },
+      "date": "2025-10-02",
+      "house": {
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "houseNo": "34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-02/pq_139",
+      "questionType": "written",
+      "showAs": " 139. Deputy Martin Daly asked the Minister for Health the number of home care support hours provided for older people in Roscommon in 2024; the target for same in 2025; and if she will make a statement on the matter. [52218/25] ",
+      "to": {
+        "uri": null,
+        "showAs": "Health",
+        "roleCode": null,
+        "roleType": null
+      },
+      "questionNumber": 139
+    },
+    "contextDate": "2025-10-02"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/writtens/mul@/dbsect_78.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/writtens/dbsect_78",
+        "debateSectionId": "dbsect_78",
+        "showAs": "Official Engagements"
+      },
+      "by": {
+        "memberCode": "Peadar-Tóibín.D.2011-03-09",
+        "showAs": "Peadar Tóibín",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Peadar-Tóibín.D.2011-03-09"
+      },
+      "date": "2025-10-02",
+      "house": {
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "houseNo": "34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-02/pq_140",
+      "questionType": "written",
+      "showAs": " 140. Deputy Peadar Tóibín asked the Minister for Health the number of times she has visited hospitals in Meath and Louth since she took office; if she will list the hospitals she has visited in those counties; and if she will make a statement on the matter. [51549/25] ",
+      "to": {
+        "uri": null,
+        "showAs": "Health",
+        "roleCode": null,
+        "roleType": null
+      },
+      "questionNumber": 140
+    },
+    "contextDate": "2025-10-02"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/writtens/mul@/dbsect_79.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/writtens/dbsect_79",
+        "debateSectionId": "dbsect_79",
+        "showAs": "Mortality Rates"
+      },
+      "by": {
+        "memberCode": "David-Cullinane.S.2011-05-25",
+        "showAs": "David Cullinane",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/David-Cullinane.S.2011-05-25"
+      },
+      "date": "2025-10-02",
+      "house": {
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "houseNo": "34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-02/pq_141",
+      "questionType": "written",
+      "showAs": " 141. Deputy David Cullinane asked the Minister for Health the steps she will take to reduce premature mortality among men; and if she will make a statement on the matter. [52533/25] ",
+      "to": {
+        "uri": null,
+        "showAs": "Health",
+        "roleCode": null,
+        "roleType": null
+      },
+      "questionNumber": 141
+    },
+    "contextDate": "2025-10-02"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/writtens/mul@/dbsect_80.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/writtens/dbsect_80",
+        "debateSectionId": "dbsect_80",
+        "showAs": "Healthcare Infrastructure Provision"
+      },
+      "by": {
+        "memberCode": "James-O'Connor.D.2020-02-08",
+        "showAs": "James O'Connor",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/James-O'Connor.D.2020-02-08"
+      },
+      "date": "2025-10-02",
+      "house": {
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "houseNo": "34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-02/pq_142",
+      "questionType": "written",
+      "showAs": " 142. Deputy James O'Connor asked the Minister for Health her Department's plans for a project (details supplied); and if she will make a statement on the matter. [52297/25] ",
+      "to": {
+        "uri": null,
+        "showAs": "Health",
+        "roleCode": null,
+        "roleType": null
+      },
+      "questionNumber": 142
+    },
+    "contextDate": "2025-10-02"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/writtens/mul@/dbsect_81.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/writtens/dbsect_81",
+        "debateSectionId": "dbsect_81",
+        "showAs": "Disabilities Assessments"
+      },
+      "by": {
+        "memberCode": "Mattie-McGrath.D.2007-06-14",
+        "showAs": "Mattie McGrath",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Mattie-McGrath.D.2007-06-14"
+      },
+      "date": "2025-10-02",
+      "house": {
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "houseNo": "34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-02/pq_143",
+      "questionType": "written",
+      "showAs": " 143. Deputy Mattie McGrath asked the Minister for Health the way in which a child who has a waiting time of 60 months for an autism assessment with the primary care autism assessment team can have the cost of a private assessment reimbursed, as committed to by the Minister; the steps being taken to reduce this waiting time which has now grown to five years; and if she will make a statement on the matter. [46745/25] ",
+      "to": {
+        "uri": null,
+        "showAs": "Health",
+        "roleCode": null,
+        "roleType": null
+      },
+      "questionNumber": 143
+    },
+    "contextDate": "2025-10-02"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/writtens/mul@/dbsect_82.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/writtens/dbsect_82",
+        "debateSectionId": "dbsect_82",
+        "showAs": "Health Services Staff"
+      },
+      "by": {
+        "memberCode": "Mark-Ward.D.2019-11-29",
+        "showAs": "Mark Ward",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Mark-Ward.D.2019-11-29"
+      },
+      "date": "2025-10-02",
+      "house": {
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "houseNo": "34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-02/pq_144",
+      "questionType": "written",
+      "showAs": " 144. Deputy Mark Ward asked the Minister for Health for an update on the recruitment plan for public health nurses in Dublin mid west; if P2 and P3 services will be available in all parts of the constituency in the coming year; and if she will make a statement on the matter. [52505/25] ",
+      "to": {
+        "uri": null,
+        "showAs": "Health",
+        "roleCode": null,
+        "roleType": null
+      },
+      "questionNumber": 144
+    },
+    "contextDate": "2025-10-02"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/writtens/mul@/dbsect_83.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/writtens/dbsect_83",
+        "debateSectionId": "dbsect_83",
+        "showAs": "General Practitioner Services"
+      },
+      "by": {
+        "memberCode": "Seán-Ó-Fearghaíl.S.2000-06-09",
+        "showAs": "Seán Ó Fearghaíl",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Seán-Ó-Fearghaíl.S.2000-06-09"
+      },
+      "date": "2025-10-02",
+      "house": {
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "houseNo": "34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-02/pq_145",
+      "questionType": "written",
+      "showAs": " 145. Deputy Seán Ó Fearghaíl asked the Minister for Health her plans to provide additional supports for GP practices in rural areas and areas of increased need; and if she will make a statement on the matter. [52378/25] ",
+      "to": {
+        "uri": null,
+        "showAs": "Health",
+        "roleCode": null,
+        "roleType": null
+      },
+      "questionNumber": 145
+    },
+    "contextDate": "2025-10-02"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/writtens/mul@/dbsect_68.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/writtens/dbsect_68",
+        "debateSectionId": "dbsect_68",
+        "showAs": "Hospital Services"
+      },
+      "by": {
+        "memberCode": "Claire-Kerrane.D.2020-02-08",
+        "showAs": "Claire Kerrane",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Claire-Kerrane.D.2020-02-08"
+      },
+      "date": "2025-10-02",
+      "house": {
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "houseNo": "34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-02/pq_151",
+      "questionType": "written",
+      "showAs": " 151. Deputy Claire Kerrane asked the Minister for Health if she is aware of concerns following significant changes to maternity services at Portiuncula University Hospital, Ballinasloe; and if she will address these concerns, and the future of the service. [52220/25] ",
+      "to": {
+        "uri": null,
+        "showAs": "Health",
+        "roleCode": null,
+        "roleType": null
+      },
+      "questionNumber": 151
+    },
+    "contextDate": "2025-10-02"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/writtens/mul@/dbsect_71.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/writtens/dbsect_71",
+        "debateSectionId": "dbsect_71",
+        "showAs": "Disease Management"
+      },
+      "by": {
+        "memberCode": "Aisling-Dempsey.D.2024-11-29",
+        "showAs": "Aisling Dempsey",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Aisling-Dempsey.D.2024-11-29"
+      },
+      "date": "2025-10-02",
+      "house": {
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "houseNo": "34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-02/pq_159",
+      "questionType": "written",
+      "showAs": " 159. Deputy Aisling Dempsey asked the Minister for Health when she expects the national endometriosis framework to be published; and if she will make a statement on the matter. [52364/25] ",
+      "to": {
+        "uri": null,
+        "showAs": "Health",
+        "roleCode": null,
+        "roleType": null
+      },
+      "questionNumber": 159
+    },
+    "contextDate": "2025-10-02"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/writtens/mul@/dbsect_70.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/writtens/dbsect_70",
+        "debateSectionId": "dbsect_70",
+        "showAs": "Departmental Inquiries"
+      },
+      "by": {
+        "memberCode": "Paul-Murphy.D.2014-10-10",
+        "showAs": "Paul Murphy",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Murphy.D.2014-10-10"
+      },
+      "date": "2025-10-02",
+      "house": {
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "houseNo": "34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-02/pq_160",
+      "questionType": "written",
+      "showAs": " 160. Deputy Paul Murphy asked the Minister for Health if she will hold a statutory inquiry into orthopaedic surgery at Children's Health Ireland; and if she will make a statement on the matter. [52560/25] ",
+      "to": {
+        "uri": null,
+        "showAs": "Health",
+        "roleCode": null,
+        "roleType": null
+      },
+      "questionNumber": 160
+    },
+    "contextDate": "2025-10-02"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/writtens/mul@/dbsect_68.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/writtens/dbsect_68",
+        "debateSectionId": "dbsect_68",
+        "showAs": "Hospital Services"
+      },
+      "by": {
+        "memberCode": "Louis-O'Hara.D.2024-11-29",
+        "showAs": "Louis O'Hara",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Louis-O'Hara.D.2024-11-29"
+      },
+      "date": "2025-10-02",
+      "house": {
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "houseNo": "34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-02/pq_169",
+      "questionType": "written",
+      "showAs": " 169. Deputy Louis O'Hara asked the Minister for Health if the decision to downgrade maternity services at Portiuncula University Hospital will be reconsidered; and if she will make a statement on the matter. [52191/25] ",
+      "to": {
+        "uri": null,
+        "showAs": "Health",
+        "roleCode": null,
+        "roleType": null
+      },
+      "questionNumber": 169
+    },
+    "contextDate": "2025-10-02"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/writtens/mul@/dbsect_71.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/writtens/dbsect_71",
+        "debateSectionId": "dbsect_71",
+        "showAs": "Disease Management"
+      },
+      "by": {
+        "memberCode": "Marie-Sherlock.S.2020-03-30",
+        "showAs": "Marie Sherlock",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Marie-Sherlock.S.2020-03-30"
+      },
+      "date": "2025-10-02",
+      "house": {
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "houseNo": "34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-02/pq_185",
+      "questionType": "written",
+      "showAs": " 185. Deputy Marie Sherlock asked the Minister for Health the plans to address the significant waiting list for endometriosis care, the understaffing of endometriosis hubs, with 747 women waiting for surgery; the financial supports being considered for women who are forced to travel abroad for essential care; and if she will make a statement on the matter. [52430/25] ",
+      "to": {
+        "uri": null,
+        "showAs": "Health",
+        "roleCode": null,
+        "roleType": null
+      },
+      "questionNumber": 185
+    },
+    "contextDate": "2025-10-02"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/writtens/mul@/dbsect_68.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/writtens/dbsect_68",
+        "debateSectionId": "dbsect_68",
+        "showAs": "Hospital Services"
+      },
+      "by": {
+        "memberCode": "Claire-Kerrane.D.2020-02-08",
+        "showAs": "Claire Kerrane",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Claire-Kerrane.D.2020-02-08"
+      },
+      "date": "2025-10-02",
+      "house": {
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "houseNo": "34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-02/pq_197",
+      "questionType": "written",
+      "showAs": " 197. Deputy Claire Kerrane asked the Minister for Health if she will meet with Oireachtas Members to discuss significant changes to maternity services at Portiuncula University Hospital, Ballinasloe. [52221/25] ",
+      "to": {
+        "uri": null,
+        "showAs": "Health",
+        "roleCode": null,
+        "roleType": null
+      },
+      "questionNumber": 197
     },
     "contextDate": "2025-10-02"
   }

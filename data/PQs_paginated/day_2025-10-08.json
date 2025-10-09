@@ -1,1 +1,762 @@
-[]
+[
+  {
+    "contextDate": "2025-10-08",
+    "question": {
+      "questionType": "oral",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-08/pq_1",
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Housing"
+      },
+      "date": "2025-10-08",
+      "showAs": " 1. Deputy Eoin Ó Broin asked the Minister for Housing, Local Government and Heritage the actions he intends to take in the coming months to halt the relentless rise in adult and child homelessness and to reduce the number of people presenting as homeless and accelerate the number of exits of persons currently in emergency accommodation. [54228/25] ",
+      "house": {
+        "houseNo": "34",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "by": {
+        "memberCode": "Eoin-Ó-Broin.D.2016-10-03",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Eoin-Ó-Broin.D.2016-10-03",
+        "showAs": "Eoin Ó Broin"
+      },
+      "questionNumber": 1,
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-08/debate/mul@/dbsect_3.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-08/debate/dbsect_3",
+        "debateSectionId": "dbsect_3",
+        "showAs": "Homeless Accommodation"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-10-08",
+    "question": {
+      "questionType": "oral",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-08/pq_2",
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Housing"
+      },
+      "date": "2025-10-08",
+      "showAs": " 2. Deputy Conor Sheehan asked the Minister for Housing, Local Government and Heritage the way in which he intends to ensure the LDA meets its targets with a sustainable source of funding in view of the recent report by the Department of Finance into sustainable funding options for the LDA; and if he will make a statement on the matter. [53944/25] ",
+      "house": {
+        "houseNo": "34",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "by": {
+        "memberCode": "Conor-Sheehan.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Conor-Sheehan.D.2024-11-29",
+        "showAs": "Conor Sheehan"
+      },
+      "questionNumber": 2,
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-08/debate/mul@/dbsect_4.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-08/debate/dbsect_4",
+        "debateSectionId": "dbsect_4",
+        "showAs": "Land Development Agency"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-10-08",
+    "question": {
+      "questionType": "oral",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-08/pq_3",
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Housing"
+      },
+      "date": "2025-10-08",
+      "showAs": " 3. Deputy Thomas Gould asked the Minister for Housing, Local Government and Heritage for an update on the number of compulsory purchase orders, CPOs, completed under the CPO activation programme and an update on the long-promised legislation to reform the CPO process as recommended by the Law Reform Commission.  [54229/25] ",
+      "house": {
+        "houseNo": "34",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "by": {
+        "memberCode": "Thomas-Gould.D.2020-02-08",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Thomas-Gould.D.2020-02-08",
+        "showAs": "Thomas Gould"
+      },
+      "questionNumber": 3,
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-08/debate/mul@/dbsect_5.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-08/debate/dbsect_5",
+        "debateSectionId": "dbsect_5",
+        "showAs": "Compulsory Purchase Orders"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-10-08",
+    "question": {
+      "questionType": "oral",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-08/pq_4",
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Housing"
+      },
+      "date": "2025-10-08",
+      "showAs": " 4. Deputy Rory Hearne asked the Minister for Housing, Local Government and Heritage to outline the way in which his Department plans to address approval lags for cost rental equity loan, CREL, funding; the reason capital advance leasing facility, CALF, and CREL funding is being approved at different times; the number of units which have been delayed, in tabular form; and his plans to address these delays.  [53906/25] ",
+      "house": {
+        "houseNo": "34",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "by": {
+        "memberCode": "Rory-Hearne.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Rory-Hearne.D.2024-11-29",
+        "showAs": "Rory Hearne"
+      },
+      "questionNumber": 4,
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-08/debate/mul@/dbsect_6.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-08/debate/dbsect_6",
+        "debateSectionId": "dbsect_6",
+        "showAs": "Housing Schemes"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-10-08",
+    "question": {
+      "questionType": "oral",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-08/pq_5",
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Housing"
+      },
+      "date": "2025-10-08",
+      "showAs": " 5. Deputy Eoin Ó Broin asked the Minister for Housing, Local Government and Heritage the action he is taking to tackle high rents in the private rental sector and the increasing unaffordability of rents in the Government-funded cost rental sector. [54230/25] ",
+      "house": {
+        "houseNo": "34",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "by": {
+        "memberCode": "Eoin-Ó-Broin.D.2016-10-03",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Eoin-Ó-Broin.D.2016-10-03",
+        "showAs": "Eoin Ó Broin"
+      },
+      "questionNumber": 5,
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-08/debate/mul@/dbsect_7.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-08/debate/dbsect_7",
+        "debateSectionId": "dbsect_7",
+        "showAs": "Rental Sector"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-10-08",
+    "question": {
+      "questionType": "oral",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-08/pq_6",
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Housing"
+      },
+      "date": "2025-10-08",
+      "showAs": " 6. Deputy Carol Nolan asked the Minister for Housing, Local Government and Heritage if he will consider placing a pause on all wind energy developments until the new wind energy guidelines are published; when he expects the revised guidelines to be published and if he will make a statement on the matter.  [52740/25] ",
+      "house": {
+        "houseNo": "34",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "by": {
+        "memberCode": "Carol-Nolan.D.2016-10-03",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Carol-Nolan.D.2016-10-03",
+        "showAs": "Carol Nolan"
+      },
+      "questionNumber": 6,
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-08/debate/mul@/dbsect_8.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-08/debate/dbsect_8",
+        "debateSectionId": "dbsect_8",
+        "showAs": "Wind Energy Guidelines"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-10-08",
+    "question": {
+      "questionType": "oral",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-08/pq_7",
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Housing"
+      },
+      "date": "2025-10-08",
+      "showAs": " 7. Deputy Seán Fleming asked the Minister for Housing, Local Government and Heritage for an update on the housing activation office and its work and if he will make a statement on the matter.  [53635/25] ",
+      "house": {
+        "houseNo": "34",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "by": {
+        "memberCode": "Seán-Fleming.D.1997-06-26",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Seán-Fleming.D.1997-06-26",
+        "showAs": "Seán Fleming"
+      },
+      "questionNumber": 7,
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-08/debate/mul@/dbsect_10.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-08/debate/dbsect_10",
+        "debateSectionId": "dbsect_10",
+        "showAs": "Housing Provision"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-10-08",
+    "question": {
+      "questionType": "oral",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-08/pq_8",
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Housing"
+      },
+      "date": "2025-10-08",
+      "showAs": " 8. Deputy Darren O'Rourke asked the Minister for Housing, Local Government and Heritage the measures he is taking to increase the amount of affordable housing in County Meath; and if he will make a statement on the matter. [52989/25] ",
+      "house": {
+        "houseNo": "34",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "by": {
+        "memberCode": "Darren-O'Rourke.D.2020-02-08",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Darren-O'Rourke.D.2020-02-08",
+        "showAs": "Darren O'Rourke"
+      },
+      "questionNumber": 8,
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-08/debate/mul@/dbsect_11.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-08/debate/dbsect_11",
+        "debateSectionId": "dbsect_11",
+        "showAs": "Housing Provision"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-10-08",
+    "question": {
+      "questionType": "oral",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-08/pq_9",
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Housing"
+      },
+      "date": "2025-10-08",
+      "showAs": " 9. Deputy Mark Ward asked the Minister for Housing, Local Government and Heritage for an update on the number of new affordable homes in Dublin for 2025; the proposed number for 2026; and if he will make a statement on the matter. [53922/25] ",
+      "house": {
+        "houseNo": "34",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "by": {
+        "memberCode": "Mark-Ward.D.2019-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Mark-Ward.D.2019-11-29",
+        "showAs": "Mark Ward"
+      },
+      "questionNumber": 9,
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-08/debate/mul@/dbsect_12.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-08/debate/dbsect_12",
+        "debateSectionId": "dbsect_12",
+        "showAs": "Housing Provision"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-10-08",
+    "question": {
+      "questionType": "oral",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-08/pq_10",
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Housing"
+      },
+      "date": "2025-10-08",
+      "showAs": " 10. Deputy Rory Hearne asked the Minister for Housing, Local Government and Heritage his plans to hold a referendum and legislate for a constitutional right to housing; and if he will make a statement on the matter. [53899/25] ",
+      "house": {
+        "houseNo": "34",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "by": {
+        "memberCode": "Rory-Hearne.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Rory-Hearne.D.2024-11-29",
+        "showAs": "Rory Hearne"
+      },
+      "questionNumber": 10,
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-08/debate/mul@/dbsect_13.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-08/debate/dbsect_13",
+        "debateSectionId": "dbsect_13",
+        "showAs": "Housing Policy"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-10-08",
+    "question": {
+      "questionType": "oral",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-08/pq_11",
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Housing"
+      },
+      "date": "2025-10-08",
+      "showAs": " 11. Deputy John Paul O'Shea asked the Minister for Housing, Local Government and Heritage if he will provide an update on the delivery of affordable and social housing in Cork city and county, including the expected number of units to be completed in 2025; and if he will make a statement on the matter. [53206/25] ",
+      "house": {
+        "houseNo": "34",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "by": {
+        "memberCode": "John-Paul-O'Shea.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/John-Paul-O'Shea.D.2024-11-29",
+        "showAs": "John Paul O'Shea"
+      },
+      "questionNumber": 11,
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-08/debate/mul@/dbsect_14.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-08/debate/dbsect_14",
+        "debateSectionId": "dbsect_14",
+        "showAs": "Housing Provision"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-10-08",
+    "question": {
+      "questionType": "oral",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-08/pq_12",
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Housing"
+      },
+      "date": "2025-10-08",
+      "showAs": " 12. Deputy Louise O'Reilly asked the Minister for Housing, Local Government and Heritage the number of cost rental homes delivered in Balbriggan in each of the past five years. [53572/25] ",
+      "house": {
+        "houseNo": "34",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "by": {
+        "memberCode": "Louise-O'Reilly.D.2016-10-03",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Louise-O'Reilly.D.2016-10-03",
+        "showAs": "Louise O'Reilly"
+      },
+      "questionNumber": 12,
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-08/debate/mul@/dbsect_15.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-08/debate/dbsect_15",
+        "debateSectionId": "dbsect_15",
+        "showAs": "Housing Provision"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-10-08",
+    "question": {
+      "questionType": "oral",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-08/pq_13",
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Housing"
+      },
+      "date": "2025-10-08",
+      "showAs": " 13. Deputy Roderic O'Gorman asked the Minister for Housing, Local Government and Heritage the reason for the delay in implementing the commitment contained in the programme for Government that introduced a minimum BER for the private rental sector; and if he will make a statement on the matter.  [53530/25] ",
+      "house": {
+        "houseNo": "34",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "by": {
+        "memberCode": "Roderic-O'Gorman.D.2020-02-08",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Roderic-O'Gorman.D.2020-02-08",
+        "showAs": "Roderic O'Gorman"
+      },
+      "questionNumber": 13,
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-08/debate/mul@/dbsect_16.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-08/debate/dbsect_16",
+        "debateSectionId": "dbsect_16",
+        "showAs": "Building Energy Rating"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-10-08",
+    "question": {
+      "questionType": "oral",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-08/pq_14",
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Housing"
+      },
+      "date": "2025-10-08",
+      "showAs": " 14. Deputy Maeve O'Connell asked the Minister for Housing, Local Government and Heritage the measures his Department is evaluating to promote the conversion of older buildings for housing delivery; and if he will make a statement on the matter. [53387/25] ",
+      "house": {
+        "houseNo": "34",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "by": {
+        "memberCode": "Maeve-O'Connell.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Maeve-O'Connell.D.2024-11-29",
+        "showAs": "Maeve O'Connell"
+      },
+      "questionNumber": 14,
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-08/debate/mul@/dbsect_17.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-08/debate/dbsect_17",
+        "debateSectionId": "dbsect_17",
+        "showAs": "Vacant Properties"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-10-08",
+    "question": {
+      "questionType": "oral",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-08/pq_15",
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Housing"
+      },
+      "date": "2025-10-08",
+      "showAs": " 15. Deputy Catherine Ardagh asked the Minister for Housing, Local Government and Heritage the amount of funding paid out to date to vacant property refurbishment grant applicants; the number of homes which have been brought back into residential use from vacancy nationwide; and if he will make a statement on the matter. [53739/25] ",
+      "house": {
+        "houseNo": "34",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "by": {
+        "memberCode": "Catherine-Ardagh.S.2016-04-25",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Catherine-Ardagh.S.2016-04-25",
+        "showAs": "Catherine Ardagh"
+      },
+      "questionNumber": 15,
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-08/debate/mul@/dbsect_17.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-08/debate/dbsect_17",
+        "debateSectionId": "dbsect_17",
+        "showAs": "Vacant Properties"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-10-08",
+    "question": {
+      "questionType": "oral",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-08/pq_21",
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Housing"
+      },
+      "date": "2025-10-08",
+      "showAs": " 21. Deputy Aindrias Moynihan asked the Minister for Housing, Local Government and Heritage for an update on the review being carried out in respect of the croí cónaithe and vacant or derelict property refurbishment grants; the elements of the schemes involved that are being considered for expansion; and if he will make a statement on the matter. [53447/25] ",
+      "house": {
+        "houseNo": "34",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "by": {
+        "memberCode": "Aindrias-Moynihan.D.2016-10-03",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Aindrias-Moynihan.D.2016-10-03",
+        "showAs": "Aindrias Moynihan"
+      },
+      "questionNumber": 21,
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-08/debate/mul@/dbsect_17.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-08/debate/dbsect_17",
+        "debateSectionId": "dbsect_17",
+        "showAs": "Vacant Properties"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-10-08",
+    "question": {
+      "questionType": "oral",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-08/pq_83",
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Housing"
+      },
+      "date": "2025-10-08",
+      "showAs": " 83. Deputy Peter 'Chap' Cleere asked the Minister for Housing, Local Government and Heritage if he will report on delivery under the croí cónaithe towns scheme in Kilkenny and Carlow; and if he will make a statement on the matter. [53883/25] ",
+      "house": {
+        "houseNo": "34",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "by": {
+        "memberCode": "Peter-'Chap'-Cleere.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Peter-'Chap'-Cleere.D.2024-11-29",
+        "showAs": "Peter 'Chap' Cleere"
+      },
+      "questionNumber": 83,
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-08/debate/mul@/dbsect_17.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-08/debate/dbsect_17",
+        "debateSectionId": "dbsect_17",
+        "showAs": "Vacant Properties"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-10-08",
+    "question": {
+      "questionType": "oral",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-08/pq_105",
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Housing"
+      },
+      "date": "2025-10-08",
+      "showAs": " 105. Deputy Shay Brennan asked the Minister for Housing, Local Government and Heritage if he will revise the vacant homes grant scheme to make it more accessible; and if he will make a statement on the matter. [53575/25] ",
+      "house": {
+        "houseNo": "34",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "by": {
+        "memberCode": "Shay-Brennan.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Shay-Brennan.D.2024-11-29",
+        "showAs": "Shay Brennan"
+      },
+      "questionNumber": 105,
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-08/debate/mul@/dbsect_17.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-08/debate/dbsect_17",
+        "debateSectionId": "dbsect_17",
+        "showAs": "Vacant Properties"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-10-08",
+    "question": {
+      "questionType": "oral",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-08/pq_112",
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Housing"
+      },
+      "date": "2025-10-08",
+      "showAs": " 112. Deputy John Clendennen asked the Minister for Housing, Local Government and Heritage the measures his Department is evaluating to promote the conversion of older buildings for housing delivery; and if he will make a statement on the matter. [53283/25] ",
+      "house": {
+        "houseNo": "34",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "by": {
+        "memberCode": "John-Clendennen.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/John-Clendennen.D.2024-11-29",
+        "showAs": "John Clendennen"
+      },
+      "questionNumber": 112,
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-08/debate/mul@/dbsect_17.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-08/debate/dbsect_17",
+        "debateSectionId": "dbsect_17",
+        "showAs": "Vacant Properties"
+      }
+    }
+  }
+]

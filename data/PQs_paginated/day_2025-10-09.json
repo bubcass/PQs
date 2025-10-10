@@ -1,1 +1,562 @@
-[]
+[
+  {
+    "contextDate": "2025-10-09",
+    "question": {
+      "to": {
+        "showAs": "Justice",
+        "roleType": null,
+        "roleCode": null,
+        "uri": null
+      },
+      "by": {
+        "showAs": "Matt Carthy",
+        "memberCode": "Matt-Carthy.D.2020-02-08",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Matt-Carthy.D.2020-02-08"
+      },
+      "house": {
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "houseCode": "dail",
+        "chamberType": "house",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "questionType": "oral",
+      "date": "2025-10-09",
+      "debateSection": {
+        "showAs": "Legislative Measures",
+        "debateSectionId": "dbsect_3",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-09/debate/mul@/dbsect_3.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-09/debate/dbsect_3"
+      },
+      "showAs": " 1. Deputy Matt Carthy asked the Minister for Justice, Home Affairs and Migration if he will support the introduction of protection orders for victims of sexual violence; and if he will make a statement on the matter. [54195/25] ",
+      "questionNumber": 1,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-09/pq_1"
+    }
+  },
+  {
+    "contextDate": "2025-10-09",
+    "question": {
+      "to": {
+        "showAs": "Justice",
+        "roleType": null,
+        "roleCode": null,
+        "uri": null
+      },
+      "by": {
+        "showAs": "Alan Kelly",
+        "memberCode": "Alan-Kelly.S.2007-07-23",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Alan-Kelly.S.2007-07-23"
+      },
+      "house": {
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "houseCode": "dail",
+        "chamberType": "house",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "questionType": "oral",
+      "date": "2025-10-09",
+      "debateSection": {
+        "showAs": "An Garda Síochána",
+        "debateSectionId": "dbsect_4",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-09/debate/mul@/dbsect_4.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-09/debate/dbsect_4"
+      },
+      "showAs": " 2. Deputy Alan Kelly asked the Minister for Justice, Home Affairs and Migration the reforms of An Garda Síochána he will be encouraging the newly appointed Garda Commissioner to introduce. [54472/25] ",
+      "questionNumber": 2,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-09/pq_2"
+    }
+  },
+  {
+    "contextDate": "2025-10-09",
+    "question": {
+      "to": {
+        "showAs": "Justice",
+        "roleType": null,
+        "roleCode": null,
+        "uri": null
+      },
+      "by": {
+        "showAs": "Matt Carthy",
+        "memberCode": "Matt-Carthy.D.2020-02-08",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Matt-Carthy.D.2020-02-08"
+      },
+      "house": {
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "houseCode": "dail",
+        "chamberType": "house",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "questionType": "oral",
+      "date": "2025-10-09",
+      "debateSection": {
+        "showAs": "International Protection",
+        "debateSectionId": "dbsect_5",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-09/debate/mul@/dbsect_5.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-09/debate/dbsect_5"
+      },
+      "showAs": " 3. Deputy Matt Carthy asked the Minister for Justice, Home Affairs and Migration if, following the issues identified in the annual report of the Comptroller and Auditor General regarding the management of international protection accommodation contracts, he will initiate a full and thorough look back review into the way in which public money has been spent on IPAS accommodation; and if he will make a statement on the matter. [54196/25] ",
+      "questionNumber": 3,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-09/pq_3"
+    }
+  },
+  {
+    "contextDate": "2025-10-09",
+    "question": {
+      "to": {
+        "showAs": "Justice",
+        "roleType": null,
+        "roleCode": null,
+        "uri": null
+      },
+      "by": {
+        "showAs": "Paul Murphy",
+        "memberCode": "Paul-Murphy.D.2014-10-10",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Murphy.D.2014-10-10"
+      },
+      "house": {
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "houseCode": "dail",
+        "chamberType": "house",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "questionType": "oral",
+      "date": "2025-10-09",
+      "debateSection": {
+        "showAs": "Legal Aid",
+        "debateSectionId": "dbsect_6",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-09/debate/mul@/dbsect_6.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-09/debate/dbsect_6"
+      },
+      "showAs": " 4. Deputy Paul Murphy asked the Minister for Justice, Home Affairs and Migration when he will review the disposable income threshold of €18,000 for accessing civil legal aid, which has not been updated since 2006; and if he will make a statement on the matter. [54227/25] ",
+      "questionNumber": 4,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-09/pq_4"
+    }
+  },
+  {
+    "contextDate": "2025-10-09",
+    "question": {
+      "to": {
+        "showAs": "Justice",
+        "roleType": null,
+        "roleCode": null,
+        "uri": null
+      },
+      "by": {
+        "showAs": "Paul Nicholas Gogarty",
+        "memberCode": "Paul-Nicholas-Gogarty.D.2002-06-06",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Nicholas-Gogarty.D.2002-06-06"
+      },
+      "house": {
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "houseCode": "dail",
+        "chamberType": "house",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "questionType": "oral",
+      "date": "2025-10-09",
+      "debateSection": {
+        "showAs": "Family Law Cases",
+        "debateSectionId": "dbsect_7",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-09/debate/mul@/dbsect_7.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-09/debate/dbsect_7"
+      },
+      "showAs": " 5. Deputy Paul Nicholas Gogarty asked the Minister for Justice, Home Affairs and Migration if there has been progress in removing the in camera rule in the family courts, subject to protection of identity, in order that media reports can be carried out in the interests of transparency; and if he will make a statement on the matter. [54521/25] ",
+      "questionNumber": 5,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-09/pq_5"
+    }
+  },
+  {
+    "contextDate": "2025-10-09",
+    "question": {
+      "to": {
+        "showAs": "Justice",
+        "roleType": null,
+        "roleCode": null,
+        "uri": null
+      },
+      "by": {
+        "showAs": "Catherine Callaghan",
+        "memberCode": "Catherine-Callaghan.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Catherine-Callaghan.D.2024-11-29"
+      },
+      "house": {
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "houseCode": "dail",
+        "chamberType": "house",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "questionType": "oral",
+      "date": "2025-10-09",
+      "debateSection": {
+        "showAs": "Cybersecurity Policy",
+        "debateSectionId": "dbsect_9",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-09/debate/mul@/dbsect_9.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-09/debate/dbsect_9"
+      },
+      "showAs": " 6. Deputy Catherine Callaghan asked the Minister for Justice, Home Affairs and Migration the progress on developing a new national cybersecurity strategy; and if he will make a statement on the matter. [49231/25] ",
+      "questionNumber": 6,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-09/pq_6"
+    }
+  },
+  {
+    "contextDate": "2025-10-09",
+    "question": {
+      "to": {
+        "showAs": "Justice",
+        "roleType": null,
+        "roleCode": null,
+        "uri": null
+      },
+      "by": {
+        "showAs": "Keira Keogh",
+        "memberCode": "Keira-Keogh.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Keira-Keogh.D.2024-11-29"
+      },
+      "house": {
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "houseCode": "dail",
+        "chamberType": "house",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "questionType": "oral",
+      "date": "2025-10-09",
+      "debateSection": {
+        "showAs": "An Garda Síochána",
+        "debateSectionId": "dbsect_10",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-09/debate/mul@/dbsect_10.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-09/debate/dbsect_10"
+      },
+      "showAs": " 7. Deputy Keira Keogh asked the Minister for Justice, Home Affairs and Migration for an update on changes to the Garda vetting system being considered by the Government; the proposed changes to re-vetting requirements; and if he will make a statement on the matter. [53675/25] ",
+      "questionNumber": 7,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-09/pq_7"
+    }
+  },
+  {
+    "contextDate": "2025-10-09",
+    "question": {
+      "to": {
+        "showAs": "Justice",
+        "roleType": null,
+        "roleCode": null,
+        "uri": null
+      },
+      "by": {
+        "showAs": "Paul McAuliffe",
+        "memberCode": "Paul-McAuliffe.D.2020-02-08",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-McAuliffe.D.2020-02-08"
+      },
+      "house": {
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "houseCode": "dail",
+        "chamberType": "house",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "questionType": "oral",
+      "date": "2025-10-09",
+      "debateSection": {
+        "showAs": "Legislative Measures",
+        "debateSectionId": "dbsect_11",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-09/debate/mul@/dbsect_11.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-09/debate/dbsect_11"
+      },
+      "showAs": " 8. Deputy Paul McAuliffe asked the Minister for Justice, Home Affairs and Migration if there are targeted measures in place to reduce the prevalence of illegal fireworks both nationally and locally, and particularly in Dublin North-West; and if he will make a statement on the matter.  [54149/25] ",
+      "questionNumber": 8,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-09/pq_8"
+    }
+  },
+  {
+    "contextDate": "2025-10-09",
+    "question": {
+      "to": {
+        "showAs": "Justice",
+        "roleType": null,
+        "roleCode": null,
+        "uri": null
+      },
+      "by": {
+        "showAs": "Matt Carthy",
+        "memberCode": "Matt-Carthy.D.2020-02-08",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Matt-Carthy.D.2020-02-08"
+      },
+      "house": {
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "houseCode": "dail",
+        "chamberType": "house",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "questionType": "oral",
+      "date": "2025-10-09",
+      "debateSection": {
+        "showAs": "Visa Applications",
+        "debateSectionId": "dbsect_12",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-09/debate/mul@/dbsect_12.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-09/debate/dbsect_12"
+      },
+      "showAs": " 9. Deputy Matt Carthy asked the Minister for Justice, Home Affairs and Migration if he will introduce measures to reduce the number of stamp 2 visa permissions granted annually in view of the pressures on student accommodation and housing; and if he will make a statement on the matter.  [54041/25] ",
+      "questionNumber": 9,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-09/pq_9"
+    }
+  },
+  {
+    "contextDate": "2025-10-09",
+    "question": {
+      "to": {
+        "showAs": "Justice",
+        "roleType": null,
+        "roleCode": null,
+        "uri": null
+      },
+      "by": {
+        "showAs": "William Aird",
+        "memberCode": "William-Aird.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/William-Aird.D.2024-11-29"
+      },
+      "house": {
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "houseCode": "dail",
+        "chamberType": "house",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "questionType": "oral",
+      "date": "2025-10-09",
+      "debateSection": {
+        "showAs": "Court Accommodation",
+        "debateSectionId": "dbsect_13",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-09/debate/mul@/dbsect_13.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-09/debate/dbsect_13"
+      },
+      "showAs": " 10. Deputy William Aird asked the Minister for Justice, Home Affairs and Migration further to Parliamentary Question No. 58 of 3 July 2025, if he will commit to ensuring that funding is made available to complete the new courthouse for Portlaoise, County Laois; the expected delivery of same; and if he will make a statement on the matter.  [53872/25] ",
+      "questionNumber": 10,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-09/pq_10"
+    }
+  },
+  {
+    "contextDate": "2025-10-09",
+    "question": {
+      "to": {
+        "showAs": "Justice",
+        "roleType": null,
+        "roleCode": null,
+        "uri": null
+      },
+      "by": {
+        "showAs": "Naoise Ó Muirí",
+        "memberCode": "Naoise-Ó-Muirí.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Naoise-Ó-Muirí.D.2024-11-29"
+      },
+      "house": {
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "houseCode": "dail",
+        "chamberType": "house",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "questionType": "oral",
+      "date": "2025-10-09",
+      "debateSection": {
+        "showAs": "Prison Service",
+        "debateSectionId": "dbsect_14",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-09/debate/mul@/dbsect_14.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-09/debate/dbsect_14"
+      },
+      "showAs": " 11. Deputy Naoise Ó Muirí asked the Minister for Justice, Home Affairs and Migration the plans his Department has to increase prison capacity in line with the country’s rising population; and if he will make a statement on the matter. [54032/25] ",
+      "questionNumber": 11,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-09/pq_11"
+    }
+  },
+  {
+    "contextDate": "2025-10-09",
+    "question": {
+      "to": {
+        "showAs": "Justice",
+        "roleType": null,
+        "roleCode": null,
+        "uri": null
+      },
+      "by": {
+        "showAs": "Catherine Callaghan",
+        "memberCode": "Catherine-Callaghan.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Catherine-Callaghan.D.2024-11-29"
+      },
+      "house": {
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "houseCode": "dail",
+        "chamberType": "house",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "questionType": "oral",
+      "date": "2025-10-09",
+      "debateSection": {
+        "showAs": "An Garda Síochána",
+        "debateSectionId": "dbsect_15",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-09/debate/mul@/dbsect_15.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-09/debate/dbsect_15"
+      },
+      "showAs": " 13. Deputy Catherine Callaghan asked the Minister for Justice, Home Affairs and Migration for the progress that has been made on the national roll-out of the See Something, Say Something initiative; and if he will make a statement on the matter.  [54168/25] ",
+      "questionNumber": 13,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-09/pq_13"
+    }
+  },
+  {
+    "contextDate": "2025-10-09",
+    "question": {
+      "to": {
+        "showAs": "Justice",
+        "roleType": null,
+        "roleCode": null,
+        "uri": null
+      },
+      "by": {
+        "showAs": "Louis O'Hara",
+        "memberCode": "Louis-O'Hara.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Louis-O'Hara.D.2024-11-29"
+      },
+      "house": {
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "houseCode": "dail",
+        "chamberType": "house",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "questionType": "oral",
+      "date": "2025-10-09",
+      "debateSection": {
+        "showAs": "International Protection",
+        "debateSectionId": "dbsect_16",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-09/debate/mul@/dbsect_16.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-09/debate/dbsect_16"
+      },
+      "showAs": " 14. Deputy Louis O'Hara asked the Minister for Justice, Home Affairs and Migration the action he will take in relation profiteering in the international protection accommodation sector, including in the context of significant concerns raised in the Comptroller and Auditor General's annual report about the spending of public money; and if he will make a statement on the matter. [53889/25] ",
+      "questionNumber": 14,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-09/pq_14"
+    }
+  },
+  {
+    "contextDate": "2025-10-09",
+    "question": {
+      "to": {
+        "showAs": "Justice",
+        "roleType": null,
+        "roleCode": null,
+        "uri": null
+      },
+      "by": {
+        "showAs": "Paul Lawless",
+        "memberCode": "Paul-Lawless.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Lawless.D.2024-11-29"
+      },
+      "house": {
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "houseCode": "dail",
+        "chamberType": "house",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "questionType": "oral",
+      "date": "2025-10-09",
+      "debateSection": {
+        "showAs": "Legislative Measures",
+        "debateSectionId": "dbsect_17",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-09/debate/mul@/dbsect_17.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-09/debate/dbsect_17"
+      },
+      "showAs": " 15. Deputy Paul Lawless asked the Minister for Justice, Home Affairs and Migration if he has raised the implications of the proposed EU legislation on hate speech at an EU level; and if he will make a statement on the matter. [37589/25] ",
+      "questionNumber": 15,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-09/pq_15"
+    }
+  }
+]

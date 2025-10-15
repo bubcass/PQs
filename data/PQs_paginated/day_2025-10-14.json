@@ -1,1 +1,922 @@
-[]
+[
+  {
+    "question": {
+      "questionType": "oral",
+      "questionNumber": 1,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-14/pq_1",
+      "house": {
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "committeeCode": ""
+      },
+      "date": "2025-10-14",
+      "debateSection": {
+        "debateSectionId": "dbsect_11",
+        "showAs": "Cabinet Committee",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-14/debate/mul@/dbsect_11.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-14/debate/dbsect_11"
+      },
+      "to": {
+        "uri": null,
+        "showAs": "Taoiseach",
+        "roleType": null,
+        "roleCode": null
+      },
+      "showAs": " 1. Deputy Malcolm Byrne asked the Taoiseach when the Cabinet committee on the economy, trade and competitiveness will next meet. [46519/25] ",
+      "by": {
+        "showAs": "Malcolm Byrne",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Malcolm-Byrne.D.2019-11-29",
+        "memberCode": "Malcolm-Byrne.D.2019-11-29"
+      }
+    },
+    "contextDate": "2025-10-14"
+  },
+  {
+    "question": {
+      "questionType": "oral",
+      "questionNumber": 2,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-14/pq_2",
+      "house": {
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "committeeCode": ""
+      },
+      "date": "2025-10-14",
+      "debateSection": {
+        "debateSectionId": "dbsect_11",
+        "showAs": "Cabinet Committee",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-14/debate/mul@/dbsect_11.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-14/debate/dbsect_11"
+      },
+      "to": {
+        "uri": null,
+        "showAs": "Taoiseach",
+        "roleType": null,
+        "roleCode": null
+      },
+      "showAs": " 2. Deputy Shane Moynihan asked the Taoiseach when the Cabinet committee on the economy, trade and competitiveness will next meet. [46522/25] ",
+      "by": {
+        "showAs": "Shane Moynihan",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Shane-Moynihan.D.2024-11-29",
+        "memberCode": "Shane-Moynihan.D.2024-11-29"
+      }
+    },
+    "contextDate": "2025-10-14"
+  },
+  {
+    "question": {
+      "questionType": "oral",
+      "questionNumber": 3,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-14/pq_3",
+      "house": {
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "committeeCode": ""
+      },
+      "date": "2025-10-14",
+      "debateSection": {
+        "debateSectionId": "dbsect_11",
+        "showAs": "Cabinet Committee",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-14/debate/mul@/dbsect_11.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-14/debate/dbsect_11"
+      },
+      "to": {
+        "uri": null,
+        "showAs": "Taoiseach",
+        "roleType": null,
+        "roleCode": null
+      },
+      "showAs": " 3. Deputy Shay Brennan asked the Taoiseach when the Cabinet committee on the economy, trade and competitiveness will next meet. [46842/25] ",
+      "by": {
+        "showAs": "Shay Brennan",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Shay-Brennan.D.2024-11-29",
+        "memberCode": "Shay-Brennan.D.2024-11-29"
+      }
+    },
+    "contextDate": "2025-10-14"
+  },
+  {
+    "question": {
+      "questionType": "oral",
+      "questionNumber": 4,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-14/pq_4",
+      "house": {
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "committeeCode": ""
+      },
+      "date": "2025-10-14",
+      "debateSection": {
+        "debateSectionId": "dbsect_11",
+        "showAs": "Cabinet Committee",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-14/debate/mul@/dbsect_11.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-14/debate/dbsect_11"
+      },
+      "to": {
+        "uri": null,
+        "showAs": "Taoiseach",
+        "roleType": null,
+        "roleCode": null
+      },
+      "showAs": " 4. Deputy Naoise Ó Cearúil asked the Taoiseach when the Cabinet committee on the economy, trade and competitiveness will next meet. [46856/25] ",
+      "by": {
+        "showAs": "Naoise Ó Cearúil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Naoise-Ó-Cearúil.D.2024-11-29",
+        "memberCode": "Naoise-Ó-Cearúil.D.2024-11-29"
+      }
+    },
+    "contextDate": "2025-10-14"
+  },
+  {
+    "question": {
+      "questionType": "oral",
+      "questionNumber": 5,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-14/pq_5",
+      "house": {
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "committeeCode": ""
+      },
+      "date": "2025-10-14",
+      "debateSection": {
+        "debateSectionId": "dbsect_11",
+        "showAs": "Cabinet Committee",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-14/debate/mul@/dbsect_11.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-14/debate/dbsect_11"
+      },
+      "to": {
+        "uri": null,
+        "showAs": "Taoiseach",
+        "roleType": null,
+        "roleCode": null
+      },
+      "showAs": " 5. Deputy Tony McCormack asked the Taoiseach when the Cabinet committee on the economy, trade and competitiveness will next meet. [46859/25] ",
+      "by": {
+        "showAs": "Tony McCormack",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tony-McCormack.D.2024-11-29",
+        "memberCode": "Tony-McCormack.D.2024-11-29"
+      }
+    },
+    "contextDate": "2025-10-14"
+  },
+  {
+    "question": {
+      "questionType": "oral",
+      "questionNumber": 6,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-14/pq_6",
+      "house": {
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "committeeCode": ""
+      },
+      "date": "2025-10-14",
+      "debateSection": {
+        "debateSectionId": "dbsect_11",
+        "showAs": "Cabinet Committee",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-14/debate/mul@/dbsect_11.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-14/debate/dbsect_11"
+      },
+      "to": {
+        "uri": null,
+        "showAs": "Taoiseach",
+        "roleType": null,
+        "roleCode": null
+      },
+      "showAs": " 6. Deputy Ruth Coppinger asked the Taoiseach when the Cabinet committee on the economy, trade and competitiveness will next meet. [49987/25] ",
+      "by": {
+        "showAs": "Ruth Coppinger",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruth-Coppinger.D.2014-05-23",
+        "memberCode": "Ruth-Coppinger.D.2014-05-23"
+      }
+    },
+    "contextDate": "2025-10-14"
+  },
+  {
+    "question": {
+      "questionType": "oral",
+      "questionNumber": 7,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-14/pq_7",
+      "house": {
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "committeeCode": ""
+      },
+      "date": "2025-10-14",
+      "debateSection": {
+        "debateSectionId": "dbsect_11",
+        "showAs": "Cabinet Committee",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-14/debate/mul@/dbsect_11.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-14/debate/dbsect_11"
+      },
+      "to": {
+        "uri": null,
+        "showAs": "Taoiseach",
+        "roleType": null,
+        "roleCode": null
+      },
+      "showAs": " 7. Deputy Darren O'Rourke asked the Taoiseach when the Cabinet committee on the economy, trade and competitiveness will next meet. [50085/25] ",
+      "by": {
+        "showAs": "Darren O'Rourke",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Darren-O'Rourke.D.2020-02-08",
+        "memberCode": "Darren-O'Rourke.D.2020-02-08"
+      }
+    },
+    "contextDate": "2025-10-14"
+  },
+  {
+    "question": {
+      "questionType": "oral",
+      "questionNumber": 8,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-14/pq_8",
+      "house": {
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "committeeCode": ""
+      },
+      "date": "2025-10-14",
+      "debateSection": {
+        "debateSectionId": "dbsect_11",
+        "showAs": "Cabinet Committee",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-14/debate/mul@/dbsect_11.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-14/debate/dbsect_11"
+      },
+      "to": {
+        "uri": null,
+        "showAs": "Taoiseach",
+        "roleType": null,
+        "roleCode": null
+      },
+      "showAs": " 8. Deputy Ruairí Ó Murchú asked the Taoiseach when the Cabinet committee on the economy, trade and competitiveness will next meet. [50088/25] ",
+      "by": {
+        "showAs": "Ruairí Ó Murchú",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruairí-Ó-Murchú.D.2020-02-08",
+        "memberCode": "Ruairí-Ó-Murchú.D.2020-02-08"
+      }
+    },
+    "contextDate": "2025-10-14"
+  },
+  {
+    "question": {
+      "questionType": "oral",
+      "questionNumber": 9,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-14/pq_9",
+      "house": {
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "committeeCode": ""
+      },
+      "date": "2025-10-14",
+      "debateSection": {
+        "debateSectionId": "dbsect_11",
+        "showAs": "Cabinet Committee",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-14/debate/mul@/dbsect_11.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-14/debate/dbsect_11"
+      },
+      "to": {
+        "uri": null,
+        "showAs": "Taoiseach",
+        "roleType": null,
+        "roleCode": null
+      },
+      "showAs": " 9. Deputy Ivana Bacik asked the Taoiseach when the Cabinet committee on the economy, trade and competitiveness will next meet; and if he will make a statement on the matter. [50151/25] ",
+      "by": {
+        "showAs": "Ivana Bacik",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ivana-Bacik.S.2007-07-23",
+        "memberCode": "Ivana-Bacik.S.2007-07-23"
+      }
+    },
+    "contextDate": "2025-10-14"
+  },
+  {
+    "question": {
+      "questionType": "oral",
+      "questionNumber": 10,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-14/pq_10",
+      "house": {
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "committeeCode": ""
+      },
+      "date": "2025-10-14",
+      "debateSection": {
+        "debateSectionId": "dbsect_11",
+        "showAs": "Cabinet Committee",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-14/debate/mul@/dbsect_11.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-14/debate/dbsect_11"
+      },
+      "to": {
+        "uri": null,
+        "showAs": "Taoiseach",
+        "roleType": null,
+        "roleCode": null
+      },
+      "showAs": " 10. Deputy Paul Murphy asked the Taoiseach when the Cabinet committee on the economy, trade and competitiveness will next meet. [50160/25] ",
+      "by": {
+        "showAs": "Paul Murphy",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Murphy.D.2014-10-10",
+        "memberCode": "Paul-Murphy.D.2014-10-10"
+      }
+    },
+    "contextDate": "2025-10-14"
+  },
+  {
+    "question": {
+      "questionType": "oral",
+      "questionNumber": 11,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-14/pq_11",
+      "house": {
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "committeeCode": ""
+      },
+      "date": "2025-10-14",
+      "debateSection": {
+        "debateSectionId": "dbsect_11",
+        "showAs": "Cabinet Committee",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-14/debate/mul@/dbsect_11.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-14/debate/dbsect_11"
+      },
+      "to": {
+        "uri": null,
+        "showAs": "Taoiseach",
+        "roleType": null,
+        "roleCode": null
+      },
+      "showAs": " 11. Deputy Emer Currie asked the Taoiseach when the Cabinet committee on the economy, trade and competitiveness will next meet. [50176/25] ",
+      "by": {
+        "showAs": "Emer Currie",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Emer-Currie.S.2020-06-29",
+        "memberCode": "Emer-Currie.S.2020-06-29"
+      }
+    },
+    "contextDate": "2025-10-14"
+  },
+  {
+    "question": {
+      "questionType": "oral",
+      "questionNumber": 12,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-14/pq_12",
+      "house": {
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "committeeCode": ""
+      },
+      "date": "2025-10-14",
+      "debateSection": {
+        "debateSectionId": "dbsect_11",
+        "showAs": "Cabinet Committee",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-14/debate/mul@/dbsect_11.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-14/debate/dbsect_11"
+      },
+      "to": {
+        "uri": null,
+        "showAs": "Taoiseach",
+        "roleType": null,
+        "roleCode": null
+      },
+      "showAs": " 12. Deputy Rose Conway-Walsh asked the Taoiseach when the Cabinet committee on the economy, trade and competitiveness will next meet. [50477/25] ",
+      "by": {
+        "showAs": "Rose Conway-Walsh",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Rose-Conway-Walsh.S.2016-04-25",
+        "memberCode": "Rose-Conway-Walsh.S.2016-04-25"
+      }
+    },
+    "contextDate": "2025-10-14"
+  },
+  {
+    "question": {
+      "questionType": "oral",
+      "questionNumber": 13,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-14/pq_13",
+      "house": {
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "committeeCode": ""
+      },
+      "date": "2025-10-14",
+      "debateSection": {
+        "debateSectionId": "dbsect_12",
+        "showAs": "Cabinet Committees",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-14/debate/mul@/dbsect_12.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-14/debate/dbsect_12"
+      },
+      "to": {
+        "uri": null,
+        "showAs": "Taoiseach",
+        "roleType": null,
+        "roleCode": null
+      },
+      "showAs": " 13. Deputy Malcolm Byrne asked the Taoiseach when the Cabinet committee on EU and international affairs will next meet. [46520/25] ",
+      "by": {
+        "showAs": "Malcolm Byrne",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Malcolm-Byrne.D.2019-11-29",
+        "memberCode": "Malcolm-Byrne.D.2019-11-29"
+      }
+    },
+    "contextDate": "2025-10-14"
+  },
+  {
+    "question": {
+      "questionType": "oral",
+      "questionNumber": 14,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-14/pq_14",
+      "house": {
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "committeeCode": ""
+      },
+      "date": "2025-10-14",
+      "debateSection": {
+        "debateSectionId": "dbsect_12",
+        "showAs": "Cabinet Committees",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-14/debate/mul@/dbsect_12.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-14/debate/dbsect_12"
+      },
+      "to": {
+        "uri": null,
+        "showAs": "Taoiseach",
+        "roleType": null,
+        "roleCode": null
+      },
+      "showAs": " 14. Deputy Shane Moynihan asked the Taoiseach when the Cabinet committee on EU and international affairs will next meet. [46523/25] ",
+      "by": {
+        "showAs": "Shane Moynihan",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Shane-Moynihan.D.2024-11-29",
+        "memberCode": "Shane-Moynihan.D.2024-11-29"
+      }
+    },
+    "contextDate": "2025-10-14"
+  },
+  {
+    "question": {
+      "questionType": "oral",
+      "questionNumber": 15,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-14/pq_15",
+      "house": {
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "committeeCode": ""
+      },
+      "date": "2025-10-14",
+      "debateSection": {
+        "debateSectionId": "dbsect_12",
+        "showAs": "Cabinet Committees",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-14/debate/mul@/dbsect_12.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-14/debate/dbsect_12"
+      },
+      "to": {
+        "uri": null,
+        "showAs": "Taoiseach",
+        "roleType": null,
+        "roleCode": null
+      },
+      "showAs": " 15. Deputy Shay Brennan asked the Taoiseach when the Cabinet committee on EU and international affairs will next meet. [46843/25] ",
+      "by": {
+        "showAs": "Shay Brennan",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Shay-Brennan.D.2024-11-29",
+        "memberCode": "Shay-Brennan.D.2024-11-29"
+      }
+    },
+    "contextDate": "2025-10-14"
+  },
+  {
+    "question": {
+      "questionType": "oral",
+      "questionNumber": 16,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-14/pq_16",
+      "house": {
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "committeeCode": ""
+      },
+      "date": "2025-10-14",
+      "debateSection": {
+        "debateSectionId": "dbsect_12",
+        "showAs": "Cabinet Committees",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-14/debate/mul@/dbsect_12.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-14/debate/dbsect_12"
+      },
+      "to": {
+        "uri": null,
+        "showAs": "Taoiseach",
+        "roleType": null,
+        "roleCode": null
+      },
+      "showAs": " 16. Deputy Naoise Ó Cearúil asked the Taoiseach when the Cabinet committee on EU and international affairs will next meet. [46857/25] ",
+      "by": {
+        "showAs": "Naoise Ó Cearúil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Naoise-Ó-Cearúil.D.2024-11-29",
+        "memberCode": "Naoise-Ó-Cearúil.D.2024-11-29"
+      }
+    },
+    "contextDate": "2025-10-14"
+  },
+  {
+    "question": {
+      "questionType": "oral",
+      "questionNumber": 17,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-14/pq_17",
+      "house": {
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "committeeCode": ""
+      },
+      "date": "2025-10-14",
+      "debateSection": {
+        "debateSectionId": "dbsect_12",
+        "showAs": "Cabinet Committees",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-14/debate/mul@/dbsect_12.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-14/debate/dbsect_12"
+      },
+      "to": {
+        "uri": null,
+        "showAs": "Taoiseach",
+        "roleType": null,
+        "roleCode": null
+      },
+      "showAs": " 17. Deputy Ruth Coppinger asked the Taoiseach when the Cabinet committee on EU and international affairs will next meet. [49988/25] ",
+      "by": {
+        "showAs": "Ruth Coppinger",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruth-Coppinger.D.2014-05-23",
+        "memberCode": "Ruth-Coppinger.D.2014-05-23"
+      }
+    },
+    "contextDate": "2025-10-14"
+  },
+  {
+    "question": {
+      "questionType": "oral",
+      "questionNumber": 18,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-14/pq_18",
+      "house": {
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "committeeCode": ""
+      },
+      "date": "2025-10-14",
+      "debateSection": {
+        "debateSectionId": "dbsect_12",
+        "showAs": "Cabinet Committees",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-14/debate/mul@/dbsect_12.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-14/debate/dbsect_12"
+      },
+      "to": {
+        "uri": null,
+        "showAs": "Taoiseach",
+        "roleType": null,
+        "roleCode": null
+      },
+      "showAs": " 18. Deputy Darren O'Rourke asked the Taoiseach when the Cabinet committee on EU and international affairs will next meet. [50086/25] ",
+      "by": {
+        "showAs": "Darren O'Rourke",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Darren-O'Rourke.D.2020-02-08",
+        "memberCode": "Darren-O'Rourke.D.2020-02-08"
+      }
+    },
+    "contextDate": "2025-10-14"
+  },
+  {
+    "question": {
+      "questionType": "oral",
+      "questionNumber": 19,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-14/pq_19",
+      "house": {
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "committeeCode": ""
+      },
+      "date": "2025-10-14",
+      "debateSection": {
+        "debateSectionId": "dbsect_12",
+        "showAs": "Cabinet Committees",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-14/debate/mul@/dbsect_12.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-14/debate/dbsect_12"
+      },
+      "to": {
+        "uri": null,
+        "showAs": "Taoiseach",
+        "roleType": null,
+        "roleCode": null
+      },
+      "showAs": " 19. Deputy Ruairí Ó Murchú asked the Taoiseach when the Cabinet committee on EU and international affairs will next meet. [50089/25] ",
+      "by": {
+        "showAs": "Ruairí Ó Murchú",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruairí-Ó-Murchú.D.2020-02-08",
+        "memberCode": "Ruairí-Ó-Murchú.D.2020-02-08"
+      }
+    },
+    "contextDate": "2025-10-14"
+  },
+  {
+    "question": {
+      "questionType": "oral",
+      "questionNumber": 20,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-14/pq_20",
+      "house": {
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "committeeCode": ""
+      },
+      "date": "2025-10-14",
+      "debateSection": {
+        "debateSectionId": "dbsect_12",
+        "showAs": "Cabinet Committees",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-14/debate/mul@/dbsect_12.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-14/debate/dbsect_12"
+      },
+      "to": {
+        "uri": null,
+        "showAs": "Taoiseach",
+        "roleType": null,
+        "roleCode": null
+      },
+      "showAs": " 20. Deputy Paul Murphy asked the Taoiseach when the Cabinet committee on EU and international affairs will next meet. [50161/25] ",
+      "by": {
+        "showAs": "Paul Murphy",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Murphy.D.2014-10-10",
+        "memberCode": "Paul-Murphy.D.2014-10-10"
+      }
+    },
+    "contextDate": "2025-10-14"
+  },
+  {
+    "question": {
+      "questionType": "oral",
+      "questionNumber": 21,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-14/pq_21",
+      "house": {
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "committeeCode": ""
+      },
+      "date": "2025-10-14",
+      "debateSection": {
+        "debateSectionId": "dbsect_12",
+        "showAs": "Cabinet Committees",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-14/debate/mul@/dbsect_12.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-14/debate/dbsect_12"
+      },
+      "to": {
+        "uri": null,
+        "showAs": "Taoiseach",
+        "roleType": null,
+        "roleCode": null
+      },
+      "showAs": " 21. Deputy Rose Conway-Walsh asked the Taoiseach when the Cabinet committee on EU and international affairs will next meet. [50478/25] ",
+      "by": {
+        "showAs": "Rose Conway-Walsh",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Rose-Conway-Walsh.S.2016-04-25",
+        "memberCode": "Rose-Conway-Walsh.S.2016-04-25"
+      }
+    },
+    "contextDate": "2025-10-14"
+  },
+  {
+    "question": {
+      "questionType": "oral",
+      "questionNumber": 22,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-14/pq_22",
+      "house": {
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "committeeCode": ""
+      },
+      "date": "2025-10-14",
+      "debateSection": {
+        "debateSectionId": "dbsect_12",
+        "showAs": "Cabinet Committees",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-14/debate/mul@/dbsect_12.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-14/debate/dbsect_12"
+      },
+      "to": {
+        "uri": null,
+        "showAs": "Taoiseach",
+        "roleType": null,
+        "roleCode": null
+      },
+      "showAs": " 22. Deputy James Geoghegan asked the Taoiseach when the Cabinet committee on EU and international affairs will next meet. [51782/25] ",
+      "by": {
+        "showAs": "James Geoghegan",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/James-Geoghegan.D.2024-11-29",
+        "memberCode": "James-Geoghegan.D.2024-11-29"
+      }
+    },
+    "contextDate": "2025-10-14"
+  },
+  {
+    "question": {
+      "questionType": "oral",
+      "questionNumber": 23,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-14/pq_23",
+      "house": {
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "committeeCode": ""
+      },
+      "date": "2025-10-14",
+      "debateSection": {
+        "debateSectionId": "dbsect_12",
+        "showAs": "Cabinet Committees",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-14/debate/mul@/dbsect_12.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-14/debate/dbsect_12"
+      },
+      "to": {
+        "uri": null,
+        "showAs": "Taoiseach",
+        "roleType": null,
+        "roleCode": null
+      },
+      "showAs": " 23. Deputy Darren O'Rourke asked the Taoiseach when the Cabinet committee on EU and international affairs will next meet. [53071/25] ",
+      "by": {
+        "showAs": "Darren O'Rourke",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Darren-O'Rourke.D.2020-02-08",
+        "memberCode": "Darren-O'Rourke.D.2020-02-08"
+      }
+    },
+    "contextDate": "2025-10-14"
+  }
+]

@@ -1,1 +1,1122 @@
-[]
+[
+  {
+    "contextDate": "2025-10-16",
+    "question": {
+      "to": {
+        "roleType": null,
+        "showAs": "Further and Higher Education",
+        "roleCode": null,
+        "uri": null
+      },
+      "questionType": "oral",
+      "questionNumber": 1,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-16/pq_1",
+      "house": {
+        "committeeCode": "",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "showAs": "34th Dáil",
+        "houseNo": "34"
+      },
+      "by": {
+        "showAs": "Donna McGettigan",
+        "memberCode": "Donna-McGettigan.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Donna-McGettigan.D.2024-11-29"
+      },
+      "showAs": " 1. Deputy Donna McGettigan asked the Minister for Further and Higher Education, Research, Innovation and Science for clarification on local training initiative operating guidelines, which state that any income received towards the running costs of an LTI , whether from earned income or secondary grant aiding, must be offset as income in the LTI monthly claim form. [56420/25] ",
+      "date": "2025-10-16",
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-16/debate/mul@/dbsect_3.xml"
+          },
+          "pdf": null
+        },
+        "showAs": "Education and Training Provision",
+        "debateSectionId": "dbsect_3",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-16/debate/dbsect_3"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-10-16",
+    "question": {
+      "to": {
+        "roleType": null,
+        "showAs": "Further and Higher Education",
+        "roleCode": null,
+        "uri": null
+      },
+      "questionType": "oral",
+      "questionNumber": 2,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-16/pq_2",
+      "house": {
+        "committeeCode": "",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "showAs": "34th Dáil",
+        "houseNo": "34"
+      },
+      "by": {
+        "showAs": "Eoghan Kenny",
+        "memberCode": "Eoghan-Kenny.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Eoghan-Kenny.D.2024-11-29"
+      },
+      "showAs": " 2. Deputy Eoghan Kenny asked the Minister for Further and Higher Education, Research, Innovation and Science when he expects specific capital funding to be allocated and announced to establish a new constituent campus in Wexford town for the Southeast Technological University; when the masterplan for the site will be published; when he expects SETU to have access to the new site and construction work on the new campus to begin; if he will outline the discussions he has had to date with the board of SETU and the HEA on the faculties to be sited in Wexford and when an announcement will be made on this issue; and if he will make a statement on the matter. [56050/25] ",
+      "date": "2025-10-16",
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-16/debate/mul@/dbsect_4.xml"
+          },
+          "pdf": null
+        },
+        "showAs": "Technological Universities",
+        "debateSectionId": "dbsect_4",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-16/debate/dbsect_4"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-10-16",
+    "question": {
+      "to": {
+        "roleType": null,
+        "showAs": "Further and Higher Education",
+        "roleCode": null,
+        "uri": null
+      },
+      "questionType": "oral",
+      "questionNumber": 3,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-16/pq_3",
+      "house": {
+        "committeeCode": "",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "showAs": "34th Dáil",
+        "houseNo": "34"
+      },
+      "by": {
+        "showAs": "Donna McGettigan",
+        "memberCode": "Donna-McGettigan.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Donna-McGettigan.D.2024-11-29"
+      },
+      "showAs": " 3. Deputy Donna McGettigan asked the Minister for Further and Higher Education, Research, Innovation and Science research, innovation and science the details of the missed targets in the last accommodation strategy; the reason this occurred; the reason no mention was made of this in budget 2026; the targets currently; and if new funding will be put in place for same. [56421/25] ",
+      "date": "2025-10-16",
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-16/debate/mul@/dbsect_5.xml"
+          },
+          "pdf": null
+        },
+        "showAs": "Student Accommodation",
+        "debateSectionId": "dbsect_5",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-16/debate/dbsect_5"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-10-16",
+    "question": {
+      "to": {
+        "roleType": null,
+        "showAs": "Further and Higher Education",
+        "roleCode": null,
+        "uri": null
+      },
+      "questionType": "oral",
+      "questionNumber": 4,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-16/pq_4",
+      "house": {
+        "committeeCode": "",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "showAs": "34th Dáil",
+        "houseNo": "34"
+      },
+      "by": {
+        "showAs": "Ruth Coppinger",
+        "memberCode": "Ruth-Coppinger.D.2014-05-23",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruth-Coppinger.D.2014-05-23"
+      },
+      "showAs": " 4. Deputy Ruth Coppinger asked the Minister for Further and Higher Education, Research, Innovation and Science the assessments that were carried out in relation to the impact the €500 increase in third level fees would have on accessibility to third level; and if he will make a statement on the matter. [56129/25] ",
+      "date": "2025-10-16",
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-16/debate/mul@/dbsect_6.xml"
+          },
+          "pdf": null
+        },
+        "showAs": "Third Level Costs",
+        "debateSectionId": "dbsect_6",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-16/debate/dbsect_6"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-10-16",
+    "question": {
+      "to": {
+        "roleType": null,
+        "showAs": "Further and Higher Education",
+        "roleCode": null,
+        "uri": null
+      },
+      "questionType": "oral",
+      "questionNumber": 5,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-16/pq_5",
+      "house": {
+        "committeeCode": "",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "showAs": "34th Dáil",
+        "houseNo": "34"
+      },
+      "by": {
+        "showAs": "Michael Collins",
+        "memberCode": "Michael-Collins.D.2016-10-03",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Michael-Collins.D.2016-10-03"
+      },
+      "showAs": " 5. Deputy Michael Collins asked the Minister for Further and Higher Education, Research, Innovation and Science the further actions he intends to take to increase craft apprenticeship participation given the additional funding announced in budget 2026 and the urgent need to increase the number of people qualified in the trades; and if he will make a statement on the matter. [56315/25] ",
+      "date": "2025-10-16",
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-16/debate/mul@/dbsect_7.xml"
+          },
+          "pdf": null
+        },
+        "showAs": "Apprenticeship Programmes",
+        "debateSectionId": "dbsect_7",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-16/debate/dbsect_7"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-10-16",
+    "question": {
+      "to": {
+        "roleType": null,
+        "showAs": "Further and Higher Education",
+        "roleCode": null,
+        "uri": null
+      },
+      "questionType": "oral",
+      "questionNumber": 6,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-16/pq_6",
+      "house": {
+        "committeeCode": "",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "showAs": "34th Dáil",
+        "houseNo": "34"
+      },
+      "by": {
+        "showAs": "John Connolly",
+        "memberCode": "John-Connolly.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/John-Connolly.D.2024-11-29"
+      },
+      "showAs": " 6. D'fhiafraigh Deputy John Connolly den Minister for Further and Higher Education, Research, Innovation and Science cad iad na beartais agus gníomhartha atá á ndéanamh ag a Roinn chun cur le líon agus raon na gcúrsaí trí mheán na Gaeilge atá ar fáil do mhic léinn sna forais ardoideachais; agus an ndéanfaidh sé ráiteas ina thaobh. [56314/25] ",
+      "date": "2025-10-16",
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-16/debate/mul@/dbsect_8.xml"
+          },
+          "pdf": null
+        },
+        "showAs": "Oideachas Tríú Leibhéal",
+        "debateSectionId": "dbsect_8",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-16/debate/dbsect_8"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-10-16",
+    "question": {
+      "to": {
+        "roleType": null,
+        "showAs": "Further and Higher Education",
+        "roleCode": null,
+        "uri": null
+      },
+      "questionType": "oral",
+      "questionNumber": 7,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-16/pq_7",
+      "house": {
+        "committeeCode": "",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "showAs": "34th Dáil",
+        "houseNo": "34"
+      },
+      "by": {
+        "showAs": "Martin Daly",
+        "memberCode": "Martin-Daly.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Martin-Daly.D.2024-11-29"
+      },
+      "showAs": " 7. Deputy Martin Daly asked the Minister for Further and Higher Education, Research, Innovation and Science given the value he places on clusters of third level institutions and innovation hubs, if there are clear pathways and supports in place for establishing and expanding such hubs in the west of Ireland; and if he will make a statement on the matter.  [56014/25] ",
+      "date": "2025-10-16",
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-16/debate/mul@/dbsect_10.xml"
+          },
+          "pdf": null
+        },
+        "showAs": "Research and Development",
+        "debateSectionId": "dbsect_10",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-16/debate/dbsect_10"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-10-16",
+    "question": {
+      "to": {
+        "roleType": null,
+        "showAs": "Further and Higher Education",
+        "roleCode": null,
+        "uri": null
+      },
+      "questionType": "oral",
+      "questionNumber": 8,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-16/pq_8",
+      "house": {
+        "committeeCode": "",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "showAs": "34th Dáil",
+        "houseNo": "34"
+      },
+      "by": {
+        "showAs": "Edward Timmins",
+        "memberCode": "Edward-Timmins.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Edward-Timmins.D.2024-11-29"
+      },
+      "showAs": " 8. Deputy Edward Timmins asked the Minister for Further and Higher Education, Research, Innovation and Science the role of the ETBs in higher education, and where they sit in the education hierarchy; and if he will make a statement on the matter. [56040/25] ",
+      "date": "2025-10-16",
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-16/debate/mul@/dbsect_11.xml"
+          },
+          "pdf": null
+        },
+        "showAs": "Education and Training Boards",
+        "debateSectionId": "dbsect_11",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-16/debate/dbsect_11"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-10-16",
+    "question": {
+      "to": {
+        "roleType": null,
+        "showAs": "Further and Higher Education",
+        "roleCode": null,
+        "uri": null
+      },
+      "questionType": "oral",
+      "questionNumber": 9,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-16/pq_9",
+      "house": {
+        "committeeCode": "",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "showAs": "34th Dáil",
+        "houseNo": "34"
+      },
+      "by": {
+        "showAs": "Cathy Bennett",
+        "memberCode": "Cathy-Bennett.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Cathy-Bennett.D.2024-11-29"
+      },
+      "showAs": " 9. Deputy Cathy Bennett asked the Minister for Further and Higher Education, Research, Innovation and Science the cost of third level fees in 2024 and 2025. [54973/25] ",
+      "date": "2025-10-16",
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-16/debate/mul@/dbsect_12.xml"
+          },
+          "pdf": null
+        },
+        "showAs": "Third Level Fees",
+        "debateSectionId": "dbsect_12",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-16/debate/dbsect_12"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-10-16",
+    "question": {
+      "to": {
+        "roleType": null,
+        "showAs": "Further and Higher Education",
+        "roleCode": null,
+        "uri": null
+      },
+      "questionType": "oral",
+      "questionNumber": 10,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-16/pq_10",
+      "house": {
+        "committeeCode": "",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "showAs": "34th Dáil",
+        "houseNo": "34"
+      },
+      "by": {
+        "showAs": "Jen Cummins",
+        "memberCode": "Jen-Cummins.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Jen-Cummins.D.2024-11-29"
+      },
+      "showAs": " 10. Deputy Jen Cummins asked the Minister for Further and Higher Education, Research, Innovation and Science the number of new resources from budget 2026 allocated specifically to further education and training provision, community education, Youthreach and community training centres; the capital and current funding; and if he will make a statement on the matter.  [55972/25] ",
+      "date": "2025-10-16",
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-16/debate/mul@/dbsect_13.xml"
+          },
+          "pdf": null
+        },
+        "showAs": "Education Schemes",
+        "debateSectionId": "dbsect_13",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-16/debate/dbsect_13"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-10-16",
+    "question": {
+      "to": {
+        "roleType": null,
+        "showAs": "Further and Higher Education",
+        "roleCode": null,
+        "uri": null
+      },
+      "questionType": "oral",
+      "questionNumber": 11,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-16/pq_11",
+      "house": {
+        "committeeCode": "",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "showAs": "34th Dáil",
+        "houseNo": "34"
+      },
+      "by": {
+        "showAs": "Cathy Bennett",
+        "memberCode": "Cathy-Bennett.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Cathy-Bennett.D.2024-11-29"
+      },
+      "showAs": " 11. Deputy Cathy Bennett asked the Minister for Further and Higher Education, Research, Innovation and Science his proposals to ensure the adequate provision of accommodation for students. [54974/25] ",
+      "date": "2025-10-16",
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-16/debate/mul@/dbsect_14.xml"
+          },
+          "pdf": null
+        },
+        "showAs": "Student Accommodation",
+        "debateSectionId": "dbsect_14",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-16/debate/dbsect_14"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-10-16",
+    "question": {
+      "to": {
+        "roleType": null,
+        "showAs": "Further and Higher Education",
+        "roleCode": null,
+        "uri": null
+      },
+      "questionType": "oral",
+      "questionNumber": 12,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-16/pq_12",
+      "house": {
+        "committeeCode": "",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "showAs": "34th Dáil",
+        "houseNo": "34"
+      },
+      "by": {
+        "showAs": "Peter Roche",
+        "memberCode": "Peter-Roche.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Peter-Roche.D.2024-11-29"
+      },
+      "showAs": " 12. Deputy Peter Roche asked the Minister for Further and Higher Education, Research, Innovation and Science the steps being taken to expand apprenticeship and skills training opportunities in rural areas such as County Galway, where access to approved training centres remains limited; if consideration will be given to establishing mobile or satellite training hubs in partnership with ETBs to reduce travel and dropout rates among rural apprentices; and if he will make a statement on the matter. [55759/25] ",
+      "date": "2025-10-16",
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-16/debate/mul@/dbsect_15.xml"
+          },
+          "pdf": null
+        },
+        "showAs": "Apprenticeship Programmes",
+        "debateSectionId": "dbsect_15",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-16/debate/dbsect_15"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-10-16",
+    "question": {
+      "to": {
+        "roleType": null,
+        "showAs": "Further and Higher Education",
+        "roleCode": null,
+        "uri": null
+      },
+      "questionType": "oral",
+      "questionNumber": 13,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-16/pq_13",
+      "house": {
+        "committeeCode": "",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "showAs": "34th Dáil",
+        "houseNo": "34"
+      },
+      "by": {
+        "showAs": "Naoise Ó Cearúil",
+        "memberCode": "Naoise-Ó-Cearúil.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Naoise-Ó-Cearúil.D.2024-11-29"
+      },
+      "showAs": " 13. Deputy Naoise Ó Cearúil asked the Minister for Further and Higher Education, Research, Innovation and Science if he will review the method used to calculate commuting distance for the SUSI adjacency grant eligibility; and if he will make a statement on the matter. [56002/25] ",
+      "date": "2025-10-16",
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-16/debate/mul@/dbsect_16.xml"
+          },
+          "pdf": null
+        },
+        "showAs": "Grant Payments",
+        "debateSectionId": "dbsect_16",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-16/debate/dbsect_16"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-10-16",
+    "question": {
+      "to": {
+        "roleType": null,
+        "showAs": "Further and Higher Education",
+        "roleCode": null,
+        "uri": null
+      },
+      "questionType": "oral",
+      "questionNumber": 25,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-16/pq_25",
+      "house": {
+        "committeeCode": "",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "showAs": "34th Dáil",
+        "houseNo": "34"
+      },
+      "by": {
+        "showAs": "Edward Timmins",
+        "memberCode": "Edward-Timmins.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Edward-Timmins.D.2024-11-29"
+      },
+      "showAs": " 25. Deputy Edward Timmins asked the Minister for Further and Higher Education, Research, Innovation and Science the steps being taken to develop co-operation and relationships between third level institutions and industry; and if he will make a statement on the matter. [56041/25] ",
+      "date": "2025-10-16",
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-16/debate/mul@/dbsect_10.xml"
+          },
+          "pdf": null
+        },
+        "showAs": "Research and Development",
+        "debateSectionId": "dbsect_10",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-16/debate/dbsect_10"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-10-16",
+    "question": {
+      "to": {
+        "roleType": null,
+        "showAs": "Rural",
+        "roleCode": null,
+        "uri": null
+      },
+      "questionType": "oral",
+      "questionNumber": 77,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-16/pq_77",
+      "house": {
+        "committeeCode": "",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "showAs": "34th Dáil",
+        "houseNo": "34"
+      },
+      "by": {
+        "showAs": "Aengus Ó Snodaigh",
+        "memberCode": "Aengus-Ó-Snodaigh.D.2002-06-06",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Aengus-Ó-Snodaigh.D.2002-06-06"
+      },
+      "showAs": " 77. D'fhiafraigh Deputy Aengus Ó Snodaigh den Aire Forbartha Tuaithe agus Pobail, agus Gaeltachta an féidir leis a dheimhniú nach bhfuil sé beartaithe aon airgead breise caipitiúil a dheonú do Rannóg na Gaeltachta anuas ar an airgead a bhí socraithe cheana féin faoin bPlean Forbartha Náisiúnta..  [56049/25] ",
+      "date": "2025-10-16",
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-16/debate/mul@/dbsect_18.xml"
+          },
+          "pdf": null
+        },
+        "showAs": "Forbairt na Gaeilge",
+        "debateSectionId": "dbsect_18",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-16/debate/dbsect_18"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-10-16",
+    "question": {
+      "to": {
+        "roleType": null,
+        "showAs": "Rural",
+        "roleCode": null,
+        "uri": null
+      },
+      "questionType": "oral",
+      "questionNumber": 79,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-16/pq_79",
+      "house": {
+        "committeeCode": "",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "showAs": "34th Dáil",
+        "houseNo": "34"
+      },
+      "by": {
+        "showAs": "Conor D McGuinness",
+        "memberCode": "Conor-D-McGuinness.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Conor-D-McGuinness.D.2024-11-29"
+      },
+      "showAs": " 79. Deputy Conor D. McGuinness asked the Minister for Rural and Community Development and the Gaeltacht to detail his formal engagements with the Minister for Housing, Local Government and Heritage; and the outcomes of those engagements. [56317/25] ",
+      "date": "2025-10-16",
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-16/debate/mul@/dbsect_19.xml"
+          },
+          "pdf": null
+        },
+        "showAs": "Housing Policy",
+        "debateSectionId": "dbsect_19",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-16/debate/dbsect_19"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-10-16",
+    "question": {
+      "to": {
+        "roleType": null,
+        "showAs": "Rural",
+        "roleCode": null,
+        "uri": null
+      },
+      "questionType": "oral",
+      "questionNumber": 80,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-16/pq_80",
+      "house": {
+        "committeeCode": "",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "showAs": "34th Dáil",
+        "houseNo": "34"
+      },
+      "by": {
+        "showAs": "Mark Wall",
+        "memberCode": "Mark-Wall.S.2020-03-30",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Mark-Wall.S.2020-03-30"
+      },
+      "showAs": " 80. Deputy Mark Wall asked the Minister for Rural and Community Development and the Gaeltacht if he will outline the new RAPID programme announced in budget 2026; and when he expects the programme to be operational by.  [55400/25] ",
+      "date": "2025-10-16",
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-16/debate/mul@/dbsect_20.xml"
+          },
+          "pdf": null
+        },
+        "showAs": "Rural Schemes",
+        "debateSectionId": "dbsect_20",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-16/debate/dbsect_20"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-10-16",
+    "question": {
+      "to": {
+        "roleType": null,
+        "showAs": "Rural",
+        "roleCode": null,
+        "uri": null
+      },
+      "questionType": "oral",
+      "questionNumber": 81,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-16/pq_81",
+      "house": {
+        "committeeCode": "",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "showAs": "34th Dáil",
+        "houseNo": "34"
+      },
+      "by": {
+        "showAs": "Keira Keogh",
+        "memberCode": "Keira-Keogh.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Keira-Keogh.D.2024-11-29"
+      },
+      "showAs": " 81. Deputy Keira Keogh asked the Minister for Rural and Community Development and the Gaeltacht if there are plans to move panic alarms administered by Pobal under the seniors alert scheme from copper phone lines to more robust broadband lines and if he will make a statement on the matter.  [55509/25] ",
+      "date": "2025-10-16",
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-16/debate/mul@/dbsect_21.xml"
+          },
+          "pdf": null
+        },
+        "showAs": "Rural Schemes",
+        "debateSectionId": "dbsect_21",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-16/debate/dbsect_21"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-10-16",
+    "question": {
+      "to": {
+        "roleType": null,
+        "showAs": "Rural",
+        "roleCode": null,
+        "uri": null
+      },
+      "questionType": "oral",
+      "questionNumber": 82,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-16/pq_82",
+      "house": {
+        "committeeCode": "",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "showAs": "34th Dáil",
+        "houseNo": "34"
+      },
+      "by": {
+        "showAs": "Brendan Smith",
+        "memberCode": "Brendan-Smith.D.1992-12-14",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Brendan-Smith.D.1992-12-14"
+      },
+      "showAs": " 82. Deputy Brendan Smith asked the Minister for Rural and Community Development and the Gaeltacht the total funding available for the CLÁR programme in 2026, the funding available for each measure under the programme; and if he will make a statement on the matter. [55960/25] ",
+      "date": "2025-10-16",
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-16/debate/mul@/dbsect_23.xml"
+          },
+          "pdf": null
+        },
+        "showAs": "Rural Schemes",
+        "debateSectionId": "dbsect_23",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-16/debate/dbsect_23"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-10-16",
+    "question": {
+      "to": {
+        "roleType": null,
+        "showAs": "Rural",
+        "roleCode": null,
+        "uri": null
+      },
+      "questionType": "oral",
+      "questionNumber": 84,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-16/pq_84",
+      "house": {
+        "committeeCode": "",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "showAs": "34th Dáil",
+        "houseNo": "34"
+      },
+      "by": {
+        "showAs": "Ruairí Ó Murchú",
+        "memberCode": "Ruairí-Ó-Murchú.D.2020-02-08",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruairí-Ó-Murchú.D.2020-02-08"
+      },
+      "showAs": " 84. Deputy Ruairí Ó Murchú asked the Minister for Rural and Community Development and the Gaeltacht if he will outline the future funding plans for the community recognition fund; and if he will make a statement on the matter.  [55894/25] ",
+      "date": "2025-10-16",
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-16/debate/mul@/dbsect_24.xml"
+          },
+          "pdf": null
+        },
+        "showAs": "Community Development Projects",
+        "debateSectionId": "dbsect_24",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-16/debate/dbsect_24"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-10-16",
+    "question": {
+      "to": {
+        "roleType": null,
+        "showAs": "Rural",
+        "roleCode": null,
+        "uri": null
+      },
+      "questionType": "oral",
+      "questionNumber": 85,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-16/pq_85",
+      "house": {
+        "committeeCode": "",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "showAs": "34th Dáil",
+        "houseNo": "34"
+      },
+      "by": {
+        "showAs": "Peadar Tóibín",
+        "memberCode": "Peadar-Tóibín.D.2011-03-09",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Peadar-Tóibín.D.2011-03-09"
+      },
+      "showAs": " 85. Deputy Peadar Tóibín asked the Minister for Rural and Community Development and the Gaeltacht the steps his Department is taking to promote the Irish language in the State; and if he will make a statement on the matter. [51547/25] ",
+      "date": "2025-10-16",
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-16/debate/mul@/dbsect_25.xml"
+          },
+          "pdf": null
+        },
+        "showAs": "Irish Language",
+        "debateSectionId": "dbsect_25",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-16/debate/dbsect_25"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-10-16",
+    "question": {
+      "to": {
+        "roleType": null,
+        "showAs": "Rural",
+        "roleCode": null,
+        "uri": null
+      },
+      "questionType": "oral",
+      "questionNumber": 86,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-16/pq_86",
+      "house": {
+        "committeeCode": "",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "showAs": "34th Dáil",
+        "houseNo": "34"
+      },
+      "by": {
+        "showAs": "Noel McCarthy",
+        "memberCode": "Noel-McCarthy.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Noel-McCarthy.D.2024-11-29"
+      },
+      "showAs": " 86. Deputy Noel McCarthy asked the Minister for Rural and Community Development and the Gaeltacht the supports made available by his Department to address rural vacancy and dereliction; and if he will make a statement on the matter. [55943/25] ",
+      "date": "2025-10-16",
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-16/debate/mul@/dbsect_26.xml"
+          },
+          "pdf": null
+        },
+        "showAs": "Vacant Properties",
+        "debateSectionId": "dbsect_26",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-16/debate/dbsect_26"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-10-16",
+    "question": {
+      "to": {
+        "roleType": null,
+        "showAs": "Rural",
+        "roleCode": null,
+        "uri": null
+      },
+      "questionType": "oral",
+      "questionNumber": 87,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-16/pq_87",
+      "house": {
+        "committeeCode": "",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "showAs": "34th Dáil",
+        "houseNo": "34"
+      },
+      "by": {
+        "showAs": "Louis O'Hara",
+        "memberCode": "Louis-O'Hara.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Louis-O'Hara.D.2024-11-29"
+      },
+      "showAs": " 87. Deputy Louis O'Hara asked the Minister for Rural and Community Development and the Gaeltacht if he will consider increasing the LEADER allocation for County Galway; and if he will make a statement on the matter. [54825/25] ",
+      "date": "2025-10-16",
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-16/debate/mul@/dbsect_27.xml"
+          },
+          "pdf": null
+        },
+        "showAs": "Departmental Funding",
+        "debateSectionId": "dbsect_27",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-16/debate/dbsect_27"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-10-16",
+    "question": {
+      "to": {
+        "roleType": null,
+        "showAs": "Rural",
+        "roleCode": null,
+        "uri": null
+      },
+      "questionType": "oral",
+      "questionNumber": 89,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-16/pq_89",
+      "house": {
+        "committeeCode": "",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "showAs": "34th Dáil",
+        "houseNo": "34"
+      },
+      "by": {
+        "showAs": "Peter Roche",
+        "memberCode": "Peter-Roche.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Peter-Roche.D.2024-11-29"
+      },
+      "showAs": " 89. Deputy Peter Roche asked the Minister for Rural and Community Development and the Gaeltacht if he will provide an update on his Department’s plans to streamline and accelerate the approval process for local improvement scheme and outdoor recreation infrastructure scheme applications, particularly in areas such as Galway east, where shovel-ready projects with local match funding are awaiting sanction; and if he will make a statement on the matter. [55758/25] ",
+      "date": "2025-10-16",
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-16/debate/mul@/dbsect_28.xml"
+          },
+          "pdf": null
+        },
+        "showAs": "Departmental Schemes",
+        "debateSectionId": "dbsect_28",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-16/debate/dbsect_28"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-10-16",
+    "question": {
+      "to": {
+        "roleType": null,
+        "showAs": "Rural",
+        "roleCode": null,
+        "uri": null
+      },
+      "questionType": "oral",
+      "questionNumber": 90,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-16/pq_90",
+      "house": {
+        "committeeCode": "",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "showAs": "34th Dáil",
+        "houseNo": "34"
+      },
+      "by": {
+        "showAs": "Ruairí Ó Murchú",
+        "memberCode": "Ruairí-Ó-Murchú.D.2020-02-08",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruairí-Ó-Murchú.D.2020-02-08"
+      },
+      "showAs": " 90. Deputy Ruairí Ó Murchú asked the Minister for Rural and Community Development and the Gaeltacht the funding available for primary school children to attend the Gaeltacht; and if he will make a statement on the matter. [55893/25] ",
+      "date": "2025-10-16",
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-16/debate/mul@/dbsect_29.xml"
+          },
+          "pdf": null
+        },
+        "showAs": "Irish Language",
+        "debateSectionId": "dbsect_29",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-16/debate/dbsect_29"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-10-16",
+    "question": {
+      "to": {
+        "roleType": null,
+        "showAs": "Rural",
+        "roleCode": null,
+        "uri": null
+      },
+      "questionType": "oral",
+      "questionNumber": 91,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-16/pq_91",
+      "house": {
+        "committeeCode": "",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "showAs": "34th Dáil",
+        "houseNo": "34"
+      },
+      "by": {
+        "showAs": "Micheál Carrigy",
+        "memberCode": "Micheál-Carrigy.S.2020-03-30",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Micheál-Carrigy.S.2020-03-30"
+      },
+      "showAs": " 91. Deputy Micheál Carrigy asked the Minister for Rural and Community Development and the Gaeltacht when the announcement of allocation of funding under the LEADER programme will be; and if he will make a statement on the matter. [55609/25] ",
+      "date": "2025-10-16",
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-16/debate/mul@/dbsect_30.xml"
+          },
+          "pdf": null
+        },
+        "showAs": "Departmental Programmes",
+        "debateSectionId": "dbsect_30",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-16/debate/dbsect_30"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-10-16",
+    "question": {
+      "to": {
+        "roleType": null,
+        "showAs": "Rural",
+        "roleCode": null,
+        "uri": null
+      },
+      "questionType": "oral",
+      "questionNumber": 93,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-16/pq_93",
+      "house": {
+        "committeeCode": "",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "showAs": "34th Dáil",
+        "houseNo": "34"
+      },
+      "by": {
+        "showAs": "Brendan Smith",
+        "memberCode": "Brendan-Smith.D.1992-12-14",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Brendan-Smith.D.1992-12-14"
+      },
+      "showAs": " 93. Deputy Brendan Smith asked the Minister for Rural and Community Development and the Gaeltacht the progress to date in the roll-out of the PEACEPLUS programme; and if he will make a statement on the matter.  [55959/25] ",
+      "date": "2025-10-16",
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-16/debate/mul@/dbsect_31.xml"
+          },
+          "pdf": null
+        },
+        "showAs": "EU Programmes",
+        "debateSectionId": "dbsect_31",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-16/debate/dbsect_31"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-10-16",
+    "question": {
+      "to": {
+        "roleType": null,
+        "showAs": "Rural",
+        "roleCode": null,
+        "uri": null
+      },
+      "questionType": "oral",
+      "questionNumber": 96,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-16/pq_96",
+      "house": {
+        "committeeCode": "",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "showAs": "34th Dáil",
+        "houseNo": "34"
+      },
+      "by": {
+        "showAs": "Barry Ward",
+        "memberCode": "Barry-Ward.S.2020-03-30",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Barry-Ward.S.2020-03-30"
+      },
+      "showAs": " 96. Deputy Barry Ward asked the Minister for Rural and Community Development and the Gaeltacht his views on the merits of providing multi-annual funding for men’s and women’s sheds to allow them to plan longer term projects; and if he will make a statement on the matter. [54869/25] ",
+      "date": "2025-10-16",
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-16/debate/mul@/dbsect_32.xml"
+          },
+          "pdf": null
+        },
+        "showAs": "Men's Sheds",
+        "debateSectionId": "dbsect_32",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-16/debate/dbsect_32"
+      }
+    }
+  }
+]

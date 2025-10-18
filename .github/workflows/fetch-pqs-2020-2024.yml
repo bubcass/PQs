@@ -3,7 +3,6 @@ name: Backfill Oireachtas Questions 2020–2024 (paginated, monthly)
 on:
   workflow_dispatch:
 
-# Needed so the workflow can push commits back to the repo.
 permissions:
   contents: write
 
@@ -165,18 +164,26 @@ jobs:
           if-no-files-found: ignore
           compression-level: 0  # already gzipped
 
+      # 👇 NEW: ensure no lingering bad local commit tries to push the monolith
+      - name: Reset local branch to remote main (drop any rejected commits)
+        shell: bash
+        run: |
+          set -euo pipefail
+          git fetch origin main
+          git reset --hard origin/main
+          # Make sure the big files are untracked and ignored going forward
+          echo "PQs_2020_2024_paginated.json" >> .gitignore || true
+          echo "PQs_2020_2024_paginated.json.gz" >> .gitignore || true
+          git rm --cached -f PQs_2020_2024_paginated.json PQs_2020_2024_paginated.json.gz 2>/dev/null || true
+
       - name: Commit backfill (monthlies + yearly merges) to repo
         shell: bash
         run: |
           set -euo pipefail
-
-          # Ensure the giant files are ignored forever
-          { echo "PQs_2020_2024_paginated.json"; echo "PQs_2020_2024_paginated.json.gz"; } >> .gitignore || true
-
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
 
-          # Add only monthlies and yearlies
+          # Add only monthlies and yearlies (safe sizes)
           git add .gitignore data/PQs_2020_2024_paginated/*.json
 
           echo "🔍 Changed files:"
@@ -188,7 +195,7 @@ jobs:
             echo "⚠️ Nothing to commit — skipping push"
           else
             echo "📝 Committing changes..."
-            git commit -m "Backfill 2020–2024 monthly shards + yearly merges (artifact for monolith; no files >100MB)"
+            git commit -m "Backfill 2020–2024 monthly shards + yearly merges (monolith as artifact only)"
             echo "🔄 Pulling with rebase to avoid conflicts..."
             git pull --rebase origin main || true
             echo "🚀 Pushing to origin..."

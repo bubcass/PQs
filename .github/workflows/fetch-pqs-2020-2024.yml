@@ -1,0 +1,186 @@
+name: Backfill Oireachtas Questions 2020–2024 (paginated, monthly)
+
+on:
+  workflow_dispatch:
+
+jobs:
+  backfill-monthly:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository with full history
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Install jq
+        run: sudo apt-get update && sudo apt-get install -y jq
+
+      - name: Backfill PQ data (Jan 2020 → Dec 2024) with pagination — monthly files
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          BASE_DIR="data/PQs_2020_2024_paginated"
+          LOG_FILE="backfill-log.txt"
+          mkdir -p "$BASE_DIR"
+          : > "$LOG_FILE"
+
+          echo "🕓 Backfill started at $(date -u)" | tee -a "$LOG_FILE"
+
+          START_YEAR=2020
+          START_MONTH=1
+          END_YEAR=2024
+          END_MONTH=12
+
+          # Utility: zero-pad
+          zpad() { printf "%02d" "$1"; }
+
+          # Iterate months from START to END
+          year=$START_YEAR
+          month=$START_MONTH
+
+          while true; do
+            ym="${year}-$(zpad "$month")"
+            FIRST_DAY="${year}-$(zpad "$month")-01"
+            # next month
+            NEXT_MONTH=$(date -d "${FIRST_DAY} +1 month" +%F)
+            LAST_DAY=$(date -d "${NEXT_MONTH} -1 day" +%F)
+
+            OUT_FILE="${BASE_DIR}/${ym}.json"
+            TEMPFILE="tmp_${ym}_page.json"
+            STATUS_FILE="curl_status_${ym}.txt"
+
+            echo "📅 Fetching ${ym} (${FIRST_DAY} → ${LAST_DAY})" | tee -a "$LOG_FILE"
+
+            PAGE=0
+            ALL_RESULTS="[]"
+            success=false
+
+            while true; do
+              SKIP=$((PAGE * 300))
+              URL="https://api.oireachtas.ie/v1/questions?date_start=${FIRST_DAY}&date_end=${LAST_DAY}&limit=300&skip=${SKIP}&qtype=oral,written&show_answers=false"
+
+              # Request + capture HTTP status
+              curl -s -w "%{http_code}" -o "$TEMPFILE" "$URL" > "$STATUS_FILE" || true
+              STATUS=$(tail -n1 "$STATUS_FILE")
+
+              if [ "$STATUS" -eq 200 ]; then
+                # If the API returns an error envelope like { "message": ... }, treat as retryable
+                if jq -e '.message' "$TEMPFILE" >/dev/null 2>&1; then
+                  echo "⚠️ API error on page $PAGE for ${ym} — retrying..." | tee -a "$LOG_FILE"
+                elif jq -e '.results' "$TEMPFILE" >/dev/null 2>&1; then
+                  COUNT=$(jq '.results | length' "$TEMPFILE")
+                  if [ "$COUNT" -eq 0 ]; then
+                    echo "✅ ${ym} complete — no more results after page $PAGE" | tee -a "$LOG_FILE"
+                    success=true
+                    break
+                  fi
+
+                  # Append page results
+                  ALL_RESULTS=$(jq -s '.[0] + .[1]' <(echo "$ALL_RESULTS") <(jq '.results' "$TEMPFILE"))
+                  echo "✅ Page $PAGE for ${ym} OK — $COUNT results" | tee -a "$LOG_FILE"
+
+                  PAGE=$((PAGE + 1))
+                else
+                  echo "❌ Malformed JSON on page $PAGE for ${ym} — retrying..." | tee -a "$LOG_FILE"
+                fi
+              else
+                echo "❌ HTTP $STATUS on page $PAGE for ${ym} — retrying..." | tee -a "$LOG_FILE"
+              fi
+
+              # Gentle backoff to be kind to the API
+              sleep 5
+            done
+
+            if [ "$success" = true ]; then
+              echo "$ALL_RESULTS" > "$OUT_FILE"
+              echo "💾 Wrote ${OUT_FILE} ($(jq 'length' "$OUT_FILE") items)" | tee -a "$LOG_FILE"
+            else
+              if [ -f "$OUT_FILE" ]; then
+                echo "🛑 Failed to fully fetch ${ym} — using existing file" | tee -a "$LOG_FILE"
+              else
+                echo "🛑 No data for ${ym} and no previous file exists" | tee -a "$LOG_FILE"
+              fi
+            fi
+
+            # Move to next month, break when we pass END
+            if [ "$year" -eq "$END_YEAR" ] && [ "$month" -eq "$END_MONTH" ]; then
+              break
+            fi
+            # increment month/year
+            if [ "$month" -eq 12 ]; then
+              month=1
+              year=$((year + 1))
+            else
+              month=$((month + 1))
+            fi
+
+            echo "🕒 Sleeping 10s before next month..." | tee -a "$LOG_FILE"
+            sleep 10
+          done
+
+          echo "✅ Monthly backfill completed at $(date -u)" | tee -a "$LOG_FILE"
+
+      - name: Ensure package.json for ES modules (if needed by local scripts)
+        run: |
+          if [ ! -f package.json ]; then
+            echo '{ "type": "module" }' > package.json
+          fi
+
+      - name: Merge monthly files into PQs_2020_2024_paginated.json (with jq)
+        shell: bash
+        run: |
+          set -euo pipefail
+          BASE_DIR="data/PQs_2020_2024_paginated"
+          OUT_ALL="PQs_2020_2024_paginated.json"
+
+          echo "📁 Listing contents of ${BASE_DIR}"
+          ls -l "${BASE_DIR}" | head -n 20 || true
+
+          # Merge all monthly arrays into one big array
+          # - read all *.json
+          # - each is an array → jq -s add concatenates arrays
+          if ls "${BASE_DIR}"/*.json >/dev/null 2>&1; then
+            jq -s 'add' ${BASE_DIR}/*.json > "${OUT_ALL}"
+            echo "💾 Wrote ${OUT_ALL} ($(jq 'length' "${OUT_ALL}") items)"
+          else
+            echo "⚠️ No monthly files found to merge; skipping."
+          fi
+
+      - name: Commit backfill and merged files to repo
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+
+          git add -A
+
+          echo "🔍 Changed files:"
+          git diff --name-only
+
+          echo "📦 Files staged for commit:"
+          git diff --cached --name-only
+
+          if git diff --cached --quiet; then
+            echo "⚠️ Nothing to commit — skipping push"
+          else
+            echo "📝 Committing changes..."
+            git commit -m "Backfill 2020–2024 Oireachtas Questions (paginated monthly) and merged PQs_2020_2024_paginated.json" || {
+              echo "❌ Git commit failed"
+              exit 2
+            }
+
+            echo "🔄 Pulling with rebase to avoid conflicts..."
+            git pull --rebase origin main || {
+              echo "❌ Git pull with rebase failed"
+              exit 2
+            }
+
+            echo "🚀 Pushing to origin..."
+            git push origin HEAD || {
+              echo "❌ Git push failed"
+              exit 2
+            }
+          fi

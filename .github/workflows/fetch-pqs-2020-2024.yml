@@ -20,6 +20,18 @@ jobs:
         with:
           fetch-depth: 0
 
+      # 🔒 Start clean: drop any local commits that might include a big blob
+      - name: Reset to remote main (clean workspace)
+        shell: bash
+        run: |
+          set -euo pipefail
+          git fetch origin main
+          git reset --hard origin/main
+          # Belt & braces: untrack any prior big files if they somehow exist
+          git rm --cached -f PQs_2020_2024_paginated.json PQs_2020_2024_paginated.json.gz 2>/dev/null || true
+          # Ignore them anyway
+          { echo "PQs_2020_2024_paginated.json"; echo "PQs_2020_2024_paginated.json.gz"; } >> .gitignore || true
+
       - name: Install jq
         run: sudo apt-get update && sudo apt-get install -y jq
 
@@ -141,7 +153,17 @@ jobs:
           merge_glob "${BASE_DIR}/2023-*.json" "${BASE_DIR}/PQs_2023_paginated.json"
           merge_glob "${BASE_DIR}/2024-*.json" "${BASE_DIR}/PQs_2024_paginated.json"
 
-          # Build all-years monolithic file but DO NOT commit it
+      # 🚫 Build monolith *outside* the repo (temp dir) and upload as artifact
+      - name: Build monolithic gz in temp and upload artifact
+        shell: bash
+        run: |
+          set -euo pipefail
+          BASE_DIR="data/PQs_2020_2024_paginated"
+
+          # Use runner temp so it's never inside the git worktree
+          TMPDIR="$(mktemp -d)"
+          MONO="${TMPDIR}/PQs_2020_2024_paginated.json"
+
           if ls "${BASE_DIR}/PQs_"*_paginated.json >/dev/null 2>&1; then
             jq -s 'add' \
               "${BASE_DIR}/PQs_2020_paginated.json" \
@@ -149,53 +171,64 @@ jobs:
               "${BASE_DIR}/PQs_2022_paginated.json" \
               "${BASE_DIR}/PQs_2023_paginated.json" \
               "${BASE_DIR}/PQs_2024_paginated.json" \
-              > "PQs_2020_2024_paginated.json"
-
-            gzip -9 -f "PQs_2020_2024_paginated.json"
-            echo "🗜️  Gzipped monolith: PQs_2020_2024_paginated.json.gz (size: $(du -h PQs_2020_2024_paginated.json.gz | cut -f1))"
+              > "${MONO}"
+            gzip -9 -f "${MONO}"
+            echo "🗜️  Monolith built at ${MONO}.gz (size: $(du -h "${MONO}.gz" | cut -f1))"
+            echo "MONO_GZ=${MONO}.gz" >> $GITHUB_ENV
+          else
+            echo "⚠️ Yearly files missing; skipping monolith."
           fi
 
-      - name: Upload monolithic gz as artifact (not committed)
-        if: ${{ hashFiles('PQs_2020_2024_paginated.json.gz') != '' }}
+      - name: Upload monolith artifact
+        if: ${{ env.MONO_GZ }}
         uses: actions/upload-artifact@v4
         with:
           name: PQs_2020_2024_paginated_json_gz
-          path: PQs_2020_2024_paginated.json.gz
+          path: ${{ env.MONO_GZ }}
           if-no-files-found: ignore
-          compression-level: 0  # already gzipped
-
-      # 👇 NEW: ensure no lingering bad local commit tries to push the monolith
-      - name: Reset local branch to remote main (drop any rejected commits)
-        shell: bash
-        run: |
-          set -euo pipefail
-          git fetch origin main
-          git reset --hard origin/main
-          # Make sure the big files are untracked and ignored going forward
-          echo "PQs_2020_2024_paginated.json" >> .gitignore || true
-          echo "PQs_2020_2024_paginated.json.gz" >> .gitignore || true
-          git rm --cached -f PQs_2020_2024_paginated.json PQs_2020_2024_paginated.json.gz 2>/dev/null || true
+          compression-level: 0
 
       - name: Commit backfill (monthlies + yearly merges) to repo
         shell: bash
         run: |
           set -euo pipefail
+
+          # Safety: ensure the monolith is not tracked
+          git rm --cached -f PQs_2020_2024_paginated.json PQs_2020_2024_paginated.json.gz 2>/dev/null || true
+          { echo "PQs_2020_2024_paginated.json"; echo "PQs_2020_2024_paginated.json.gz"; } >> .gitignore || true
+
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
 
-          # Add only monthlies and yearlies (safe sizes)
-          git add .gitignore data/PQs_2020_2024_paginated/*.json
+          # ✅ Whitelist only the safe paths
+          git add .gitignore
+          git add data/PQs_2020_2024_paginated/2020-*.json 2>/dev/null || true
+          git add data/PQs_2020_2024_paginated/2021-*.json 2>/dev/null || true
+          git add data/PQs_2020_2024_paginated/2022-*.json 2>/dev/null || true
+          git add data/PQs_2020_2024_paginated/2023-*.json 2>/dev/null || true
+          git add data/PQs_2020_2024_paginated/2024-*.json 2>/dev/null || true
+          git add data/PQs_2020_2024_paginated/PQs_202*_paginated.json 2>/dev/null || true
 
           echo "🔍 Changed files:"
           git diff --name-only || true
           echo "📦 Files staged for commit:"
           git diff --cached --name-only || true
 
+          # 🚨 Final guard: fail if the monolith somehow snuck in
+          if git diff --cached --name-only | grep -q '^PQs_2020_2024_paginated\.json$'; then
+            echo "❌ Monolith is staged unexpectedly. Aborting commit."
+            exit 3
+          fi
+          if git diff --cached --name-only | grep -q '^PQs_2020_2024_paginated\.json\.gz$'; then
+            echo "❌ Monolith .gz is staged unexpectedly. Aborting commit."
+            exit 3
+          fi
+
           if git diff --cached --quiet; then
             echo "⚠️ Nothing to commit — skipping push"
           else
             echo "📝 Committing changes..."
-            git commit -m "Backfill 2020–2024 monthly shards + yearly merges (monolith as artifact only)"
+            git commit -m "Backfill 2020–2024 monthly shards + yearly merges (monolith artifact only)"
             echo "🔄 Pulling with rebase to avoid conflicts..."
             git pull --rebase origin main || true
             echo "🚀 Pushing to origin..."

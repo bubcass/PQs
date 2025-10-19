@@ -20,17 +20,19 @@ jobs:
         with:
           fetch-depth: 0
 
-      # 🔒 Start clean: drop any local commits that might include a big blob
+      # 🔒 Start *clean* and ensure big files cannot be tracked
       - name: Reset to remote main (clean workspace)
         shell: bash
         run: |
           set -euo pipefail
           git fetch origin main
           git reset --hard origin/main
-          # Belt & braces: untrack any prior big files if they somehow exist
+          # Nuke any stray monolith in worktree/index
           git rm --cached -f PQs_2020_2024_paginated.json PQs_2020_2024_paginated.json.gz 2>/dev/null || true
-          # Ignore them anyway
+          rm -f PQs_2020_2024_paginated.json PQs_2020_2024_paginated.json.gz || true
           { echo "PQs_2020_2024_paginated.json"; echo "PQs_2020_2024_paginated.json.gz"; } >> .gitignore || true
+          # Remove *all* untracked files just in case
+          git clean -fdx
 
       - name: Install jq
         run: sudo apt-get update && sudo apt-get install -y jq
@@ -153,14 +155,12 @@ jobs:
           merge_glob "${BASE_DIR}/2023-*.json" "${BASE_DIR}/PQs_2023_paginated.json"
           merge_glob "${BASE_DIR}/2024-*.json" "${BASE_DIR}/PQs_2024_paginated.json"
 
-      # 🚫 Build monolith *outside* the repo (temp dir) and upload as artifact
+      # 🚫 Build monolith *outside* the repo and upload as artifact
       - name: Build monolithic gz in temp and upload artifact
         shell: bash
         run: |
           set -euo pipefail
           BASE_DIR="data/PQs_2020_2024_paginated"
-
-          # Use runner temp so it's never inside the git worktree
           TMPDIR="$(mktemp -d)"
           MONO="${TMPDIR}/PQs_2020_2024_paginated.json"
 
@@ -173,7 +173,7 @@ jobs:
               "${BASE_DIR}/PQs_2024_paginated.json" \
               > "${MONO}"
             gzip -9 -f "${MONO}"
-            echo "🗜️  Monolith built at ${MONO}.gz (size: $(du -h "${MONO}.gz" | cut -f1))"
+            echo "🗜️  Built monolith at ${MONO}.gz (size: $(du -h "${MONO}.gz" | cut -f1))"
             echo "MONO_GZ=${MONO}.gz" >> $GITHUB_ENV
           else
             echo "⚠️ Yearly files missing; skipping monolith."
@@ -192,15 +192,15 @@ jobs:
         shell: bash
         run: |
           set -euo pipefail
-
-          # Safety: ensure the monolith is not tracked
-          git rm --cached -f PQs_2020_2024_paginated.json PQs_2020_2024_paginated.json.gz 2>/dev/null || true
-          { echo "PQs_2020_2024_paginated.json"; echo "PQs_2020_2024_paginated.json.gz"; } >> .gitignore || true
-
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
 
-          # ✅ Whitelist only the safe paths
+          # Safety sweep before staging
+          rm -f PQs_2020_2024_paginated.json PQs_2020_2024_paginated.json.gz || true
+          git rm --cached -f PQs_2020_2024_paginated.json PQs_2020_2024_paginated.json.gz 2>/dev/null || true
+          { echo "PQs_2020_2024_paginated.json"; echo "PQs_2020_2024_paginated.json.gz"; } >> .gitignore || true
+
+          # ✅ Whitelist staging
           git add .gitignore
           git add data/PQs_2020_2024_paginated/2020-*.json 2>/dev/null || true
           git add data/PQs_2020_2024_paginated/2021-*.json 2>/dev/null || true
@@ -214,7 +214,7 @@ jobs:
           echo "📦 Files staged for commit:"
           git diff --cached --name-only || true
 
-          # 🚨 Final guard: fail if the monolith somehow snuck in
+          # 🚨 Final guard
           if git diff --cached --name-only | grep -q '^PQs_2020_2024_paginated\.json$'; then
             echo "❌ Monolith is staged unexpectedly. Aborting commit."
             exit 3

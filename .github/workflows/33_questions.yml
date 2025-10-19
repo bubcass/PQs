@@ -1,0 +1,157 @@
+name: Backfill Oireachtas Questions 2020–2024 (paginated, monthly, safe)
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: backfill-2020-2024
+  cancel-in-progress: false
+
+jobs:
+  backfill:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Clean slate & block big files
+        shell: bash
+        run: |
+          set -euo pipefail
+          git fetch origin main
+          git reset --hard origin/main
+          # Nuke any stray monoliths
+          git rm --cached -f PQs_2020_2024_paginated.json PQs_2020_2024_paginated.json.gz 2>/dev/null || true
+          rm -f PQs_2020_2024_paginated.json PQs_2020_2024_paginated.json.gz || true
+          # Ignore them forever
+          { echo "PQs_2020_2024_paginated.json"; echo "PQs_2020_2024_paginated.json.gz"; } >> .gitignore || true
+          # Remove all untracked files (old tmp_* pages, etc.)
+          git clean -fdx
+
+      - name: Install jq
+        run: sudo apt-get update && sudo apt-get install -y jq
+
+      - name: Fetch monthly PQs (2020 → 2024) with pagination
+        shell: bash
+        run: |
+          set -euo pipefail
+          BASE="data/PQs_2020_2024_paginated"
+          mkdir -p "$BASE"
+          zpad(){ printf "%02d" "$1"; }
+          for Y in 2020 2021 2022 2023 2024; do
+            for M in $(seq 1 12); do
+              ym="${Y}-$(zpad $M)"
+              FIRST="${Y}-$(zpad $M)-01"
+              NEXT=$(date -d "$FIRST +1 month" +%F)
+              LAST=$(date -d "$NEXT -1 day" +%F)
+              OUT="$BASE/${ym}.json"
+              PAGE=0
+              ALL="[]"
+              while :; do
+                SKIP=$((PAGE*300))
+                URL="https://api.oireachtas.ie/v1/questions?date_start=${FIRST}&date_end=${LAST}&limit=300&skip=${SKIP}&qtype=oral,written&show_answers=false"
+                curl -s -w "%{http_code}" -o tmp_${ym}_page.json "$URL" > status.txt || true
+                CODE=$(tail -n1 status.txt)
+                if [ "$CODE" -ne 200 ]; then sleep 5; continue; fi
+                if jq -e '.message' tmp_${ym}_page.json >/dev/null 2>&1; then sleep 5; continue; fi
+                if ! jq -e '.results' tmp_${ym}_page.json >/dev/null 2>&1; then sleep 5; continue; fi
+                COUNT=$(jq '.results|length' tmp_${ym}_page.json)
+                [ "$COUNT" -eq 0 ] && break
+                ALL=$(jq -s '.[0]+.[1]' <(echo "$ALL") <(jq '.results' tmp_${ym}_page.json))
+                PAGE=$((PAGE+1))
+                sleep 5
+              done
+              echo "$ALL" > "$OUT"
+              echo "Wrote $OUT ($(jq 'length' "$OUT") items)"
+            done
+          done
+          rm -f tmp_* status.txt || true
+
+      - name: Merge monthlies → yearly files
+        shell: bash
+        run: |
+          set -euo pipefail
+          BASE="data/PQs_2020_2024_paginated"
+          merge_year(){ y=$1; if ls "$BASE/$y-"*.json >/dev/null 2>&1; then jq -s 'add' "$BASE/$y-"*.json > "$BASE/PQs_${y}_paginated.json"; fi }
+          for y in 2020 2021 2022 2023 2024; do merge_year $y; echo "Year $y: $(jq 'length' "$BASE/PQs_${y}_paginated.json") items"; done
+
+      - name: Build monolith in /tmp (artifact only)
+        shell: bash
+        run: |
+          set -euo pipefail
+          BASE="data/PQs_2020_2024_paginated"
+          TMPDIR="$(mktemp -d)"
+          MONO="${TMPDIR}/PQs_2020_2024_paginated.json"
+          if ls "$BASE/PQs_"*_paginated.json >/dev/null 2>&1; then
+            jq -s 'add' \
+              "$BASE/PQs_2020_paginated.json" \
+              "$BASE/PQs_2021_paginated.json" \
+              "$BASE/PQs_2022_paginated.json" \
+              "$BASE/PQs_2023_paginated.json" \
+              "$BASE/PQs_2024_paginated.json" > "$MONO"
+            gzip -9 "$MONO"
+            echo "MONO_GZ=${MONO}.gz" >> $GITHUB_ENV
+            du -h "${MONO}.gz" | cat
+          fi
+
+      - name: Upload monolith artifact
+        if: ${{ env.MONO_GZ }}
+        uses: actions/upload-artifact@v4
+        with:
+          name: PQs_2020_2024_paginated_json_gz
+          path: ${{ env.MONO_GZ }}
+          if-no-files-found: ignore
+          compression-level: 0
+
+      - name: Stage & commit safe files ONLY
+        shell: bash
+        run: |
+          set -euo pipefail
+          # Snapshot safe outputs to /tmp
+          SNAP="$(mktemp -d)"
+          rsync -a --delete data/PQs_2020_2024_paginated/ "$SNAP/PQs_2020_2024_paginated/"
+          cp -f .gitignore "$SNAP/.gitignore" 2>/dev/null || true
+
+          # Hard reset again to ensure zero bad history
+          git fetch origin main
+          git reset --hard origin/main
+          git clean -fdx
+
+          # Restore snapshot
+          mkdir -p data
+          rsync -a "$SNAP/PQs_2020_2024_paginated/" data/PQs_2020_2024_paginated/
+          [ -f "$SNAP/.gitignore" ] && cp -f "$SNAP/.gitignore" .gitignore || true
+          { echo "PQs_2020_2024_paginated.json"; echo "PQs_2020_2024_paginated.json.gz"; } >> .gitignore || true
+
+          # Whitelist staging
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add .gitignore
+          git add data/PQs_2020_2024_paginated/2020-*.json 2>/dev/null || true
+          git add data/PQs_2020_2024_paginated/2021-*.json 2>/dev/null || true
+          git add data/PQs_2020_2024_paginated/2022-*.json 2>/dev/null || true
+          git add data/PQs_2020_2024_paginated/2023-*.json 2>/dev/null || true
+          git add data/PQs_2020_2024_paginated/2024-*.json 2>/dev/null || true
+          git add data/PQs_2020_2024_paginated/PQs_202*_paginated.json 2>/dev/null || true
+
+          echo "Staged files:"
+          git diff --cached --name-only || true
+
+          # Guards
+          if git diff --cached --name-only | grep -q '^PQs_2020_2024_paginated\.json$'; then
+            echo "❌ Monolith staged — aborting"; exit 3; fi
+          if git diff --cached --name-only | grep -q '^PQs_2020_2024_paginated\.json\.gz$'; then
+            echo "❌ Monolith .gz staged — aborting"; exit 3; fi
+
+          if git diff --cached --quiet; then
+            echo "Nothing to commit."
+          else
+            git commit -m "Backfill 2020–2024: monthly shards + yearly merges (monolith as artifact only)"
+            git pull --rebase origin main || true
+            git push origin HEAD
+          fi

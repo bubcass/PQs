@@ -1,1 +1,922 @@
-[]
+[
+  {
+    "contextDate": "2025-10-21",
+    "question": {
+      "house": {
+        "houseCode": "dail",
+        "houseNo": "34",
+        "chamberType": "house",
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "questionType": "oral",
+      "to": {
+        "roleCode": null,
+        "roleType": null,
+        "showAs": "Taoiseach",
+        "uri": null
+      },
+      "questionNumber": 1,
+      "date": "2025-10-21",
+      "debateSection": {
+        "debateSectionId": "dbsect_11",
+        "showAs": "Cabinet Committees",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-21/debate/dbsect_11",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-21/debate/mul@/dbsect_11.xml"
+          }
+        }
+      },
+      "by": {
+        "memberCode": "Peter-'Chap'-Cleere.D.2024-11-29",
+        "showAs": "Peter 'Chap' Cleere",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Peter-'Chap'-Cleere.D.2024-11-29"
+      },
+      "showAs": " 1. Deputy Peter 'Chap' Cleere asked the Taoiseach when the Cabinet committee on infrastructure will next meet. [46875/25] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-21/pq_1"
+    }
+  },
+  {
+    "contextDate": "2025-10-21",
+    "question": {
+      "house": {
+        "houseCode": "dail",
+        "houseNo": "34",
+        "chamberType": "house",
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "questionType": "oral",
+      "to": {
+        "roleCode": null,
+        "roleType": null,
+        "showAs": "Taoiseach",
+        "uri": null
+      },
+      "questionNumber": 2,
+      "date": "2025-10-21",
+      "debateSection": {
+        "debateSectionId": "dbsect_11",
+        "showAs": "Cabinet Committees",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-21/debate/dbsect_11",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-21/debate/mul@/dbsect_11.xml"
+          }
+        }
+      },
+      "by": {
+        "memberCode": "Shane-Moynihan.D.2024-11-29",
+        "showAs": "Shane Moynihan",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Shane-Moynihan.D.2024-11-29"
+      },
+      "showAs": " 2. Deputy Shane Moynihan asked the Taoiseach when the Cabinet committee on infrastructure will next meet. [46521/25] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-21/pq_2"
+    }
+  },
+  {
+    "contextDate": "2025-10-21",
+    "question": {
+      "house": {
+        "houseCode": "dail",
+        "houseNo": "34",
+        "chamberType": "house",
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "questionType": "oral",
+      "to": {
+        "roleCode": null,
+        "roleType": null,
+        "showAs": "Taoiseach",
+        "uri": null
+      },
+      "questionNumber": 3,
+      "date": "2025-10-21",
+      "debateSection": {
+        "debateSectionId": "dbsect_11",
+        "showAs": "Cabinet Committees",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-21/debate/dbsect_11",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-21/debate/mul@/dbsect_11.xml"
+          }
+        }
+      },
+      "by": {
+        "memberCode": "Séamus-McGrath.D.2024-11-29",
+        "showAs": "Séamus McGrath",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Séamus-McGrath.D.2024-11-29"
+      },
+      "showAs": " 3. Deputy Séamus McGrath asked the Taoiseach when the Cabinet committee on infrastructure will next meet. [46844/25] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-21/pq_3"
+    }
+  },
+  {
+    "contextDate": "2025-10-21",
+    "question": {
+      "house": {
+        "houseCode": "dail",
+        "houseNo": "34",
+        "chamberType": "house",
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "questionType": "oral",
+      "to": {
+        "roleCode": null,
+        "roleType": null,
+        "showAs": "Taoiseach",
+        "uri": null
+      },
+      "questionNumber": 4,
+      "date": "2025-10-21",
+      "debateSection": {
+        "debateSectionId": "dbsect_11",
+        "showAs": "Cabinet Committees",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-21/debate/dbsect_11",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-21/debate/mul@/dbsect_11.xml"
+          }
+        }
+      },
+      "by": {
+        "memberCode": "Tony-McCormack.D.2024-11-29",
+        "showAs": "Tony McCormack",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tony-McCormack.D.2024-11-29"
+      },
+      "showAs": " 4. Deputy Tony McCormack asked the Taoiseach when the Cabinet committee on infrastructure will next meet. [46858/25] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-21/pq_4"
+    }
+  },
+  {
+    "contextDate": "2025-10-21",
+    "question": {
+      "house": {
+        "houseCode": "dail",
+        "houseNo": "34",
+        "chamberType": "house",
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "questionType": "oral",
+      "to": {
+        "roleCode": null,
+        "roleType": null,
+        "showAs": "Taoiseach",
+        "uri": null
+      },
+      "questionNumber": 5,
+      "date": "2025-10-21",
+      "debateSection": {
+        "debateSectionId": "dbsect_11",
+        "showAs": "Cabinet Committees",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-21/debate/dbsect_11",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-21/debate/mul@/dbsect_11.xml"
+          }
+        }
+      },
+      "by": {
+        "memberCode": "Ivana-Bacik.S.2007-07-23",
+        "showAs": "Ivana Bacik",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ivana-Bacik.S.2007-07-23"
+      },
+      "showAs": " 5. Deputy Ivana Bacik asked the Taoiseach when the Cabinet committee on infrastructure will next meet. [50152/25] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-21/pq_5"
+    }
+  },
+  {
+    "contextDate": "2025-10-21",
+    "question": {
+      "house": {
+        "houseCode": "dail",
+        "houseNo": "34",
+        "chamberType": "house",
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "questionType": "oral",
+      "to": {
+        "roleCode": null,
+        "roleType": null,
+        "showAs": "Taoiseach",
+        "uri": null
+      },
+      "questionNumber": 6,
+      "date": "2025-10-21",
+      "debateSection": {
+        "debateSectionId": "dbsect_11",
+        "showAs": "Cabinet Committees",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-21/debate/dbsect_11",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-21/debate/mul@/dbsect_11.xml"
+          }
+        }
+      },
+      "by": {
+        "memberCode": "Ruairí-Ó-Murchú.D.2020-02-08",
+        "showAs": "Ruairí Ó Murchú",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruairí-Ó-Murchú.D.2020-02-08"
+      },
+      "showAs": " 6. Deputy Ruairí Ó Murchú asked the Taoiseach when the Cabinet committee on infrastructure will next meet. [51663/25] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-21/pq_6"
+    }
+  },
+  {
+    "contextDate": "2025-10-21",
+    "question": {
+      "house": {
+        "houseCode": "dail",
+        "houseNo": "34",
+        "chamberType": "house",
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "questionType": "oral",
+      "to": {
+        "roleCode": null,
+        "roleType": null,
+        "showAs": "Taoiseach",
+        "uri": null
+      },
+      "questionNumber": 7,
+      "date": "2025-10-21",
+      "debateSection": {
+        "debateSectionId": "dbsect_11",
+        "showAs": "Cabinet Committees",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-21/debate/dbsect_11",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-21/debate/mul@/dbsect_11.xml"
+          }
+        }
+      },
+      "by": {
+        "memberCode": "Darren-O'Rourke.D.2020-02-08",
+        "showAs": "Darren O'Rourke",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Darren-O'Rourke.D.2020-02-08"
+      },
+      "showAs": " 7. Deputy Darren O'Rourke asked the Taoiseach when the Cabinet committee on infrastructure will next meet. [51668/25] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-21/pq_7"
+    }
+  },
+  {
+    "contextDate": "2025-10-21",
+    "question": {
+      "house": {
+        "houseCode": "dail",
+        "houseNo": "34",
+        "chamberType": "house",
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "questionType": "oral",
+      "to": {
+        "roleCode": null,
+        "roleType": null,
+        "showAs": "Taoiseach",
+        "uri": null
+      },
+      "questionNumber": 8,
+      "date": "2025-10-21",
+      "debateSection": {
+        "debateSectionId": "dbsect_11",
+        "showAs": "Cabinet Committees",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-21/debate/dbsect_11",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-21/debate/mul@/dbsect_11.xml"
+          }
+        }
+      },
+      "by": {
+        "memberCode": "Ruth-Coppinger.D.2014-05-23",
+        "showAs": "Ruth Coppinger",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruth-Coppinger.D.2014-05-23"
+      },
+      "showAs": " 8. Deputy Ruth Coppinger asked the Taoiseach when the Cabinet committee on infrastructure will next meet. [52038/25] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-21/pq_8"
+    }
+  },
+  {
+    "contextDate": "2025-10-21",
+    "question": {
+      "house": {
+        "houseCode": "dail",
+        "houseNo": "34",
+        "chamberType": "house",
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "questionType": "oral",
+      "to": {
+        "roleCode": null,
+        "roleType": null,
+        "showAs": "Taoiseach",
+        "uri": null
+      },
+      "questionNumber": 9,
+      "date": "2025-10-21",
+      "debateSection": {
+        "debateSectionId": "dbsect_11",
+        "showAs": "Cabinet Committees",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-21/debate/dbsect_11",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-21/debate/mul@/dbsect_11.xml"
+          }
+        }
+      },
+      "by": {
+        "memberCode": "Mary-Lou-McDonald.D.2011-03-09",
+        "showAs": "Mary Lou McDonald",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Mary-Lou-McDonald.D.2011-03-09"
+      },
+      "showAs": " 9. Deputy Mary Lou McDonald asked the Taoiseach when the Cabinet committee on infrastructure will next meet. [53181/25] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-21/pq_9"
+    }
+  },
+  {
+    "contextDate": "2025-10-21",
+    "question": {
+      "house": {
+        "houseCode": "dail",
+        "houseNo": "34",
+        "chamberType": "house",
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "questionType": "oral",
+      "to": {
+        "roleCode": null,
+        "roleType": null,
+        "showAs": "Taoiseach",
+        "uri": null
+      },
+      "questionNumber": 10,
+      "date": "2025-10-21",
+      "debateSection": {
+        "debateSectionId": "dbsect_11",
+        "showAs": "Cabinet Committees",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-21/debate/dbsect_11",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-21/debate/mul@/dbsect_11.xml"
+          }
+        }
+      },
+      "by": {
+        "memberCode": "Paul-Murphy.D.2014-10-10",
+        "showAs": "Paul Murphy",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Murphy.D.2014-10-10"
+      },
+      "showAs": " 10. Deputy Paul Murphy asked the Taoiseach when the Cabinet committee on infrastructure will next meet. [53243/25] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-21/pq_10"
+    }
+  },
+  {
+    "contextDate": "2025-10-21",
+    "question": {
+      "house": {
+        "houseCode": "dail",
+        "houseNo": "34",
+        "chamberType": "house",
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "questionType": "oral",
+      "to": {
+        "roleCode": null,
+        "roleType": null,
+        "showAs": "Taoiseach",
+        "uri": null
+      },
+      "questionNumber": 11,
+      "date": "2025-10-21",
+      "debateSection": {
+        "debateSectionId": "dbsect_11",
+        "showAs": "Cabinet Committees",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-21/debate/dbsect_11",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-21/debate/mul@/dbsect_11.xml"
+          }
+        }
+      },
+      "by": {
+        "memberCode": "Liam-Quaide.D.2024-11-29",
+        "showAs": "Liam Quaide",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Liam-Quaide.D.2024-11-29"
+      },
+      "showAs": " 11. Deputy Liam Quaide asked the Taoiseach when the Cabinet committee on infrastructure will next meet. [55510/25] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-21/pq_11"
+    }
+  },
+  {
+    "contextDate": "2025-10-21",
+    "question": {
+      "house": {
+        "houseCode": "dail",
+        "houseNo": "34",
+        "chamberType": "house",
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "questionType": "oral",
+      "to": {
+        "roleCode": null,
+        "roleType": null,
+        "showAs": "Taoiseach",
+        "uri": null
+      },
+      "questionNumber": 12,
+      "date": "2025-10-21",
+      "debateSection": {
+        "debateSectionId": "dbsect_11",
+        "showAs": "Cabinet Committees",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-21/debate/dbsect_11",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-21/debate/mul@/dbsect_11.xml"
+          }
+        }
+      },
+      "by": {
+        "memberCode": "Peadar-Tóibín.D.2011-03-09",
+        "showAs": "Peadar Tóibín",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Peadar-Tóibín.D.2011-03-09"
+      },
+      "showAs": " 12. Deputy Peadar Tóibín asked the Taoiseach when the Cabinet committee on infrastructure will next meet. [56962/25] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-21/pq_12"
+    }
+  },
+  {
+    "contextDate": "2025-10-21",
+    "question": {
+      "house": {
+        "houseCode": "dail",
+        "houseNo": "34",
+        "chamberType": "house",
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "questionType": "oral",
+      "to": {
+        "roleCode": null,
+        "roleType": null,
+        "showAs": "Taoiseach",
+        "uri": null
+      },
+      "questionNumber": 13,
+      "date": "2025-10-21",
+      "debateSection": {
+        "debateSectionId": "dbsect_11",
+        "showAs": "Cabinet Committees",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-21/debate/dbsect_11",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-21/debate/mul@/dbsect_11.xml"
+          }
+        }
+      },
+      "by": {
+        "memberCode": "Pádraig-O'Sullivan.D.2019-11-29",
+        "showAs": "Pádraig O'Sullivan",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Pádraig-O'Sullivan.D.2019-11-29"
+      },
+      "showAs": " 13. Deputy Pádraig O'Sullivan asked the Taoiseach when the Cabinet committee on infrastructure will next meet. [56982/25] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-21/pq_13"
+    }
+  },
+  {
+    "contextDate": "2025-10-21",
+    "question": {
+      "house": {
+        "houseCode": "dail",
+        "houseNo": "34",
+        "chamberType": "house",
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "questionType": "oral",
+      "to": {
+        "roleCode": null,
+        "roleType": null,
+        "showAs": "Taoiseach",
+        "uri": null
+      },
+      "questionNumber": 14,
+      "date": "2025-10-21",
+      "debateSection": {
+        "debateSectionId": "dbsect_11",
+        "showAs": "Cabinet Committees",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-21/debate/dbsect_11",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-21/debate/mul@/dbsect_11.xml"
+          }
+        }
+      },
+      "by": {
+        "memberCode": "Barry-Heneghan.D.2024-11-29",
+        "showAs": "Barry Heneghan",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Barry-Heneghan.D.2024-11-29"
+      },
+      "showAs": " 14. Deputy Barry Heneghan asked the Taoiseach when the Cabinet committee on infrastructure will next meet. [57152/25] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-21/pq_14"
+    }
+  },
+  {
+    "contextDate": "2025-10-21",
+    "question": {
+      "house": {
+        "houseCode": "dail",
+        "houseNo": "34",
+        "chamberType": "house",
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "questionType": "oral",
+      "to": {
+        "roleCode": null,
+        "roleType": null,
+        "showAs": "Taoiseach",
+        "uri": null
+      },
+      "questionNumber": 15,
+      "date": "2025-10-21",
+      "debateSection": {
+        "debateSectionId": "dbsect_12",
+        "showAs": "Ukraine War",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-21/debate/dbsect_12",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-21/debate/mul@/dbsect_12.xml"
+          }
+        }
+      },
+      "by": {
+        "memberCode": "Shay-Brennan.D.2024-11-29",
+        "showAs": "Shay Brennan",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Shay-Brennan.D.2024-11-29"
+      },
+      "showAs": " 15. Deputy Shay Brennan asked the Taoiseach if he will report on his recent telephone call with President Zelenskyy. [46841/25] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-21/pq_15"
+    }
+  },
+  {
+    "contextDate": "2025-10-21",
+    "question": {
+      "house": {
+        "houseCode": "dail",
+        "houseNo": "34",
+        "chamberType": "house",
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "questionType": "oral",
+      "to": {
+        "roleCode": null,
+        "roleType": null,
+        "showAs": "Taoiseach",
+        "uri": null
+      },
+      "questionNumber": 16,
+      "date": "2025-10-21",
+      "debateSection": {
+        "debateSectionId": "dbsect_12",
+        "showAs": "Ukraine War",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-21/debate/dbsect_12",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-21/debate/mul@/dbsect_12.xml"
+          }
+        }
+      },
+      "by": {
+        "memberCode": "Seán-Ó-Fearghaíl.S.2000-06-09",
+        "showAs": "Seán Ó Fearghaíl",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Seán-Ó-Fearghaíl.S.2000-06-09"
+      },
+      "showAs": " 16. Deputy Seán Ó Fearghaíl asked the Taoiseach if he will report on his participation in meetings of the coalition of the willing in support of Ukraine. [48521/25] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-21/pq_16"
+    }
+  },
+  {
+    "contextDate": "2025-10-21",
+    "question": {
+      "house": {
+        "houseCode": "dail",
+        "houseNo": "34",
+        "chamberType": "house",
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "questionType": "oral",
+      "to": {
+        "roleCode": null,
+        "roleType": null,
+        "showAs": "Taoiseach",
+        "uri": null
+      },
+      "questionNumber": 17,
+      "date": "2025-10-21",
+      "debateSection": {
+        "debateSectionId": "dbsect_12",
+        "showAs": "Ukraine War",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-21/debate/dbsect_12",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-21/debate/mul@/dbsect_12.xml"
+          }
+        }
+      },
+      "by": {
+        "memberCode": "John-Lahart.D.2016-10-03",
+        "showAs": "John Lahart",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/John-Lahart.D.2016-10-03"
+      },
+      "showAs": " 17. Deputy John Lahart asked the Taoiseach if he will report on his participation in meetings of the coalition of the willing in support of Ukraine. [48527/25] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-21/pq_17"
+    }
+  },
+  {
+    "contextDate": "2025-10-21",
+    "question": {
+      "house": {
+        "houseCode": "dail",
+        "houseNo": "34",
+        "chamberType": "house",
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "questionType": "oral",
+      "to": {
+        "roleCode": null,
+        "roleType": null,
+        "showAs": "Taoiseach",
+        "uri": null
+      },
+      "questionNumber": 18,
+      "date": "2025-10-21",
+      "debateSection": {
+        "debateSectionId": "dbsect_12",
+        "showAs": "Ukraine War",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-21/debate/dbsect_12",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-21/debate/mul@/dbsect_12.xml"
+          }
+        }
+      },
+      "by": {
+        "memberCode": "Malcolm-Byrne.D.2019-11-29",
+        "showAs": "Malcolm Byrne",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Malcolm-Byrne.D.2019-11-29"
+      },
+      "showAs": " 18. Deputy Malcolm Byrne asked the Taoiseach to report on his engagement with President Zelenskyy of Ukraine. [51122/25] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-21/pq_18"
+    }
+  },
+  {
+    "contextDate": "2025-10-21",
+    "question": {
+      "house": {
+        "houseCode": "dail",
+        "houseNo": "34",
+        "chamberType": "house",
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "questionType": "oral",
+      "to": {
+        "roleCode": null,
+        "roleType": null,
+        "showAs": "Taoiseach",
+        "uri": null
+      },
+      "questionNumber": 19,
+      "date": "2025-10-21",
+      "debateSection": {
+        "debateSectionId": "dbsect_12",
+        "showAs": "Ukraine War",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-21/debate/dbsect_12",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-21/debate/mul@/dbsect_12.xml"
+          }
+        }
+      },
+      "by": {
+        "memberCode": "Ruairí-Ó-Murchú.D.2020-02-08",
+        "showAs": "Ruairí Ó Murchú",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruairí-Ó-Murchú.D.2020-02-08"
+      },
+      "showAs": " 19. Deputy Ruairí Ó Murchú asked the Taoiseach if he will report on his participation in meetings of the coalition of the willing in support of Ukraine. [51664/25] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-21/pq_19"
+    }
+  },
+  {
+    "contextDate": "2025-10-21",
+    "question": {
+      "house": {
+        "houseCode": "dail",
+        "houseNo": "34",
+        "chamberType": "house",
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "questionType": "oral",
+      "to": {
+        "roleCode": null,
+        "roleType": null,
+        "showAs": "Taoiseach",
+        "uri": null
+      },
+      "questionNumber": 20,
+      "date": "2025-10-21",
+      "debateSection": {
+        "debateSectionId": "dbsect_12",
+        "showAs": "Ukraine War",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-21/debate/dbsect_12",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-21/debate/mul@/dbsect_12.xml"
+          }
+        }
+      },
+      "by": {
+        "memberCode": "Darren-O'Rourke.D.2020-02-08",
+        "showAs": "Darren O'Rourke",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Darren-O'Rourke.D.2020-02-08"
+      },
+      "showAs": " 20. Deputy Darren O'Rourke asked the Taoiseach if he will report on his participation in meetings of the coalition of the willing in support of Ukraine. [51669/25] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-21/pq_20"
+    }
+  },
+  {
+    "contextDate": "2025-10-21",
+    "question": {
+      "house": {
+        "houseCode": "dail",
+        "houseNo": "34",
+        "chamberType": "house",
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "questionType": "oral",
+      "to": {
+        "roleCode": null,
+        "roleType": null,
+        "showAs": "Taoiseach",
+        "uri": null
+      },
+      "questionNumber": 21,
+      "date": "2025-10-21",
+      "debateSection": {
+        "debateSectionId": "dbsect_12",
+        "showAs": "Ukraine War",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-21/debate/dbsect_12",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-21/debate/mul@/dbsect_12.xml"
+          }
+        }
+      },
+      "by": {
+        "memberCode": "Paul-Murphy.D.2014-10-10",
+        "showAs": "Paul Murphy",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Murphy.D.2014-10-10"
+      },
+      "showAs": " 21. Deputy Paul Murphy asked the Taoiseach to report on his engagement with President Zelenskyy. [53244/25] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-21/pq_21"
+    }
+  },
+  {
+    "contextDate": "2025-10-21",
+    "question": {
+      "house": {
+        "houseCode": "dail",
+        "houseNo": "34",
+        "chamberType": "house",
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "questionType": "oral",
+      "to": {
+        "roleCode": null,
+        "roleType": null,
+        "showAs": "Taoiseach",
+        "uri": null
+      },
+      "questionNumber": 22,
+      "date": "2025-10-21",
+      "debateSection": {
+        "debateSectionId": "dbsect_12",
+        "showAs": "Ukraine War",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-21/debate/dbsect_12",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-21/debate/mul@/dbsect_12.xml"
+          }
+        }
+      },
+      "by": {
+        "memberCode": "Liam-Quaide.D.2024-11-29",
+        "showAs": "Liam Quaide",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Liam-Quaide.D.2024-11-29"
+      },
+      "showAs": " 22. Deputy Liam Quaide asked the Taoiseach if he will report on his participation in meetings of the coalition of the willing in support of Ukraine. [55511/25] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-21/pq_22"
+    }
+  },
+  {
+    "contextDate": "2025-10-21",
+    "question": {
+      "house": {
+        "houseCode": "dail",
+        "houseNo": "34",
+        "chamberType": "house",
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "questionType": "oral",
+      "to": {
+        "roleCode": null,
+        "roleType": null,
+        "showAs": "Taoiseach",
+        "uri": null
+      },
+      "questionNumber": 23,
+      "date": "2025-10-21",
+      "debateSection": {
+        "debateSectionId": "dbsect_12",
+        "showAs": "Ukraine War",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-21/debate/dbsect_12",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-21/debate/mul@/dbsect_12.xml"
+          }
+        }
+      },
+      "by": {
+        "memberCode": "Shane-Moynihan.D.2024-11-29",
+        "showAs": "Shane Moynihan",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Shane-Moynihan.D.2024-11-29"
+      },
+      "showAs": " 23. Deputy Shane Moynihan asked the Taoiseach if he will report on his participation in meetings of the coalition of the willing in support of Ukraine. [56998/25] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-10-21/pq_23"
+    }
+  }
+]

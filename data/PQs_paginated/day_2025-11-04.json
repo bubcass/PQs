@@ -1,1 +1,282 @@
-[]
+[
+  {
+    "contextDate": "2025-11-04",
+    "question": {
+      "questionNumber": 1,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-04/pq_1",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "showAs": "34th Dáil"
+      },
+      "by": {
+        "memberCode": "Darren-O'Rourke.D.2020-02-08",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Darren-O'Rourke.D.2020-02-08",
+        "showAs": "Darren O'Rourke"
+      },
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-04/debate/dbsect_10",
+        "showAs": "Early Childhood Care and Education",
+        "debateSectionId": "dbsect_10",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-04/debate/mul@/dbsect_10.xml"
+          }
+        }
+      },
+      "date": "2025-11-04",
+      "questionType": "oral",
+      "to": {
+        "showAs": "Education",
+        "roleType": null,
+        "uri": null,
+        "roleCode": null
+      },
+      "showAs": " 1. Deputy Darren O'Rourke asked the Minister for Education and Youth the steps she will take to increase the number of early intervention classes to meet current and projected demand across the State; and if she will make a statement on the matter. [60168/25] "
+    }
+  },
+  {
+    "contextDate": "2025-11-04",
+    "question": {
+      "questionNumber": 2,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-04/pq_2",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "showAs": "34th Dáil"
+      },
+      "by": {
+        "memberCode": "Eoghan-Kenny.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Eoghan-Kenny.D.2024-11-29",
+        "showAs": "Eoghan Kenny"
+      },
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-04/debate/dbsect_11",
+        "showAs": "Educational Disadvantage",
+        "debateSectionId": "dbsect_11",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-04/debate/mul@/dbsect_11.xml"
+          }
+        }
+      },
+      "date": "2025-11-04",
+      "questionType": "oral",
+      "to": {
+        "showAs": "Education",
+        "roleType": null,
+        "uri": null,
+        "roleCode": null
+      },
+      "showAs": " 2. Deputy Eoghan Kenny asked the Minister for Education and Youth for an update on the roll out and funding of DEIS plus, as of November 2025; and if she will make a statement on the matter. [59395/25] "
+    }
+  },
+  {
+    "contextDate": "2025-11-04",
+    "question": {
+      "questionNumber": 3,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-04/pq_3",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "showAs": "34th Dáil"
+      },
+      "by": {
+        "memberCode": "Shónagh-Ní-Raghallaigh.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Shónagh-Ní-Raghallaigh.D.2024-11-29",
+        "showAs": "Shónagh Ní Raghallaigh"
+      },
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-04/debate/dbsect_12",
+        "showAs": "Irish Language",
+        "debateSectionId": "dbsect_12",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-04/debate/mul@/dbsect_12.xml"
+          }
+        }
+      },
+      "date": "2025-11-04",
+      "questionType": "oral",
+      "to": {
+        "showAs": "Education",
+        "roleType": null,
+        "uri": null,
+        "roleCode": null
+      },
+      "showAs": " 3. Deputy Shónagh Ní Raghallaigh asked the Minister for Education and Youth her position in relation to the exemptions system for the Irish language as it stands; her views on whether it is fit for purpose; her plans to combat the increasing number of students seeking exemptions; and if she will make a statement on the matter. [59852/25] "
+    }
+  },
+  {
+    "contextDate": "2025-11-04",
+    "question": {
+      "questionNumber": 4,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-04/pq_4",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "showAs": "34th Dáil"
+      },
+      "by": {
+        "memberCode": "Paul-Lawless.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Lawless.D.2024-11-29",
+        "showAs": "Paul Lawless"
+      },
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-04/debate/dbsect_13",
+        "showAs": "School Staff",
+        "debateSectionId": "dbsect_13",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-04/debate/mul@/dbsect_13.xml"
+          }
+        }
+      },
+      "date": "2025-11-04",
+      "questionType": "oral",
+      "to": {
+        "showAs": "Education",
+        "roleType": null,
+        "uri": null,
+        "roleCode": null
+      },
+      "showAs": " 4. Deputy Paul Lawless asked the Minister for Education and Youth if her Department has carried out an assessment of the impact that the current teacher shortages are having on students, particularly in rural schools and DEIS areas; and the measures being taken to recruit and retain teachers. [59851/25] "
+    }
+  },
+  {
+    "contextDate": "2025-11-04",
+    "question": {
+      "questionNumber": 5,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-04/pq_5",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "showAs": "34th Dáil"
+      },
+      "by": {
+        "memberCode": "Darren-O'Rourke.D.2020-02-08",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Darren-O'Rourke.D.2020-02-08",
+        "showAs": "Darren O'Rourke"
+      },
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-04/debate/dbsect_14",
+        "showAs": "Schools Building Projects",
+        "debateSectionId": "dbsect_14",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-04/debate/mul@/dbsect_14.xml"
+          }
+        }
+      },
+      "date": "2025-11-04",
+      "questionType": "oral",
+      "to": {
+        "showAs": "Education",
+        "roleType": null,
+        "uri": null,
+        "roleCode": null
+      },
+      "showAs": " 5. Deputy Darren O'Rourke asked the Minister for Education and Youth for an update on a new school building project (details supplied); if she is aware that planning permission was granted for these schools in November 2020; the reason for the delays in bringing this project to construction; the indicative timeline for construction, commencement and completion; and if she will make a statement on the matter. [60169/25] "
+    }
+  },
+  {
+    "contextDate": "2025-11-04",
+    "question": {
+      "questionNumber": 6,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-04/pq_6",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "showAs": "34th Dáil"
+      },
+      "by": {
+        "memberCode": "Emer-Currie.S.2020-06-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Emer-Currie.S.2020-06-29",
+        "showAs": "Emer Currie"
+      },
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-04/debate/dbsect_15",
+        "showAs": "Education Policy",
+        "debateSectionId": "dbsect_15",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-04/debate/mul@/dbsect_15.xml"
+          }
+        }
+      },
+      "date": "2025-11-04",
+      "questionType": "oral",
+      "to": {
+        "showAs": "Education",
+        "roleType": null,
+        "uri": null,
+        "roleCode": null
+      },
+      "showAs": " 6. Deputy Emer Currie asked the Minister for Education and Youth for an update on the survey of primary school parents and guardians and parents and guardians of children not yet in school on their preferences on important aspects of school provision and choice in their community, as committed to in the programme for Government. [59853/25] "
+    }
+  },
+  {
+    "contextDate": "2025-11-04",
+    "question": {
+      "questionNumber": 7,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-04/pq_7",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "showAs": "34th Dáil"
+      },
+      "by": {
+        "memberCode": "Barry-Ward.S.2020-03-30",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Barry-Ward.S.2020-03-30",
+        "showAs": "Barry Ward"
+      },
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-04/debate/dbsect_17",
+        "showAs": "School Facilities",
+        "debateSectionId": "dbsect_17",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-04/debate/mul@/dbsect_17.xml"
+          }
+        }
+      },
+      "date": "2025-11-04",
+      "questionType": "oral",
+      "to": {
+        "showAs": "Education",
+        "roleType": null,
+        "uri": null,
+        "roleCode": null
+      },
+      "showAs": " 7. Deputy Barry Ward asked the Minister for Education and Youth the position regarding funding opportunities for primary schools to provide new outdoor recreation facilities and upgrade existing outdoor spaces; and if she will make a statement on the matter. [59373/25] "
+    }
+  }
+]

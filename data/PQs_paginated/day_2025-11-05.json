@@ -1,402 +1,402 @@
 [
   {
-    "contextDate": "2025-11-05",
     "question": {
-      "by": {
-        "showAs": "Ged Nash",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Gerald-Nash.D.2011-03-09",
-        "memberCode": "Gerald-Nash.D.2011-03-09"
-      },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-05/pq_1",
-      "questionNumber": 1,
+      "showAs": " 1. Deputy Ged Nash asked the Minister for Public Expenditure, Infrastructure, Public Service Reform and Digitalisation the reforms he plans to introduce to improve the delivery of infrastructure and capital development outlined in the revised national development plan; and if he will make a statement on the matter. [60445/25] ",
       "to": {
+        "showAs": "Public Expenditure",
         "roleCode": null,
         "roleType": null,
-        "uri": null,
-        "showAs": "Public Expenditure"
+        "uri": null
       },
       "debateSection": {
-        "showAs": "National Development Plan",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-05/debate/dbsect_14",
         "debateSectionId": "dbsect_14",
         "formats": {
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-05/debate/mul@/dbsect_14.xml"
           },
           "pdf": null
-        }
+        },
+        "showAs": "National Development Plan",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-05/debate/dbsect_14"
       },
-      "house": {
-        "houseCode": "dail",
-        "chamberType": "house",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "committeeCode": "",
-        "showAs": "34th Dáil",
-        "houseNo": "34"
+      "questionType": "oral",
+      "by": {
+        "memberCode": "Gerald-Nash.D.2011-03-09",
+        "showAs": "Ged Nash",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Gerald-Nash.D.2011-03-09"
       },
-      "showAs": " 1. Deputy Ged Nash asked the Minister for Public Expenditure, Infrastructure, Public Service Reform and Digitalisation the reforms he plans to introduce to improve the delivery of infrastructure and capital development outlined in the revised national development plan; and if he will make a statement on the matter. [60445/25] ",
       "date": "2025-11-05",
-      "questionType": "oral"
-    }
+      "questionNumber": 1,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-05/pq_1",
+      "house": {
+        "committeeCode": "",
+        "chamberType": "house",
+        "houseNo": "34",
+        "houseCode": "dail",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      }
+    },
+    "contextDate": "2025-11-05"
   },
   {
-    "contextDate": "2025-11-05",
     "question": {
-      "by": {
-        "showAs": "Cian O'Callaghan",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Cian-O'Callaghan.D.2020-02-08",
-        "memberCode": "Cian-O'Callaghan.D.2020-02-08"
-      },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-05/pq_2",
-      "questionNumber": 2,
+      "showAs": " 2. Deputy Cian O'Callaghan asked the Minister for Public Expenditure, Infrastructure, Public Service Reform and Digitalisation if he will publish updated spending reviews for each Government Department; the reason for not publishing in advance of budget 2026; and if he will make a statement on the matter. [60444/25] ",
       "to": {
+        "showAs": "Public Expenditure",
         "roleCode": null,
         "roleType": null,
-        "uri": null,
-        "showAs": "Public Expenditure"
+        "uri": null
       },
       "debateSection": {
-        "showAs": "Public Expenditure Policy",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-05/debate/dbsect_15",
         "debateSectionId": "dbsect_15",
         "formats": {
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-05/debate/mul@/dbsect_15.xml"
           },
           "pdf": null
-        }
+        },
+        "showAs": "Public Expenditure Policy",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-05/debate/dbsect_15"
       },
-      "house": {
-        "houseCode": "dail",
-        "chamberType": "house",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "committeeCode": "",
-        "showAs": "34th Dáil",
-        "houseNo": "34"
+      "questionType": "oral",
+      "by": {
+        "memberCode": "Cian-O'Callaghan.D.2020-02-08",
+        "showAs": "Cian O'Callaghan",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Cian-O'Callaghan.D.2020-02-08"
       },
-      "showAs": " 2. Deputy Cian O'Callaghan asked the Minister for Public Expenditure, Infrastructure, Public Service Reform and Digitalisation if he will publish updated spending reviews for each Government Department; the reason for not publishing in advance of budget 2026; and if he will make a statement on the matter. [60444/25] ",
       "date": "2025-11-05",
-      "questionType": "oral"
-    }
+      "questionNumber": 2,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-05/pq_2",
+      "house": {
+        "committeeCode": "",
+        "chamberType": "house",
+        "houseNo": "34",
+        "houseCode": "dail",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      }
+    },
+    "contextDate": "2025-11-05"
   },
   {
-    "contextDate": "2025-11-05",
     "question": {
-      "by": {
-        "showAs": "Naoise Ó Muirí",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Naoise-Ó-Muirí.D.2024-11-29",
-        "memberCode": "Naoise-Ó-Muirí.D.2024-11-29"
-      },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-05/pq_3",
-      "questionNumber": 3,
+      "showAs": " 3. Deputy Naoise Ó Muirí asked the Minister for Public Expenditure, Infrastructure, Public Service Reform and Digitalisation when he expects the mission critical communications system to be fully operational; and if he will make a statement on the matter. [60174/25] ",
       "to": {
+        "showAs": "Public Expenditure",
         "roleCode": null,
         "roleType": null,
-        "uri": null,
-        "showAs": "Public Expenditure"
+        "uri": null
       },
       "debateSection": {
-        "showAs": "EU Programmes",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-05/debate/dbsect_16",
         "debateSectionId": "dbsect_16",
         "formats": {
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-05/debate/mul@/dbsect_16.xml"
           },
           "pdf": null
-        }
+        },
+        "showAs": "EU Programmes",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-05/debate/dbsect_16"
       },
-      "house": {
-        "houseCode": "dail",
-        "chamberType": "house",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "committeeCode": "",
-        "showAs": "34th Dáil",
-        "houseNo": "34"
+      "questionType": "oral",
+      "by": {
+        "memberCode": "Naoise-Ó-Muirí.D.2024-11-29",
+        "showAs": "Naoise Ó Muirí",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Naoise-Ó-Muirí.D.2024-11-29"
       },
-      "showAs": " 3. Deputy Naoise Ó Muirí asked the Minister for Public Expenditure, Infrastructure, Public Service Reform and Digitalisation when he expects the mission critical communications system to be fully operational; and if he will make a statement on the matter. [60174/25] ",
       "date": "2025-11-05",
-      "questionType": "oral"
-    }
+      "questionNumber": 3,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-05/pq_3",
+      "house": {
+        "committeeCode": "",
+        "chamberType": "house",
+        "houseNo": "34",
+        "houseCode": "dail",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      }
+    },
+    "contextDate": "2025-11-05"
   },
   {
-    "contextDate": "2025-11-05",
     "question": {
-      "by": {
-        "showAs": "Barry Ward",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Barry-Ward.S.2020-03-30",
-        "memberCode": "Barry-Ward.S.2020-03-30"
-      },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-05/pq_4",
-      "questionNumber": 4,
+      "showAs": " 4. Deputy Barry Ward asked the Minister for Public Expenditure, Infrastructure, Public Service Reform and Digitalisation the position regarding a departmental review into the way in which the OPW manages projects to ensure value for money for the taxpayer; and if he will make a statement on the matter. [59380/25] ",
       "to": {
+        "showAs": "Public Expenditure",
         "roleCode": null,
         "roleType": null,
-        "uri": null,
-        "showAs": "Public Expenditure"
+        "uri": null
       },
       "debateSection": {
-        "showAs": "Office of Public Works",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-05/debate/dbsect_18",
         "debateSectionId": "dbsect_18",
         "formats": {
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-05/debate/mul@/dbsect_18.xml"
           },
           "pdf": null
-        }
+        },
+        "showAs": "Office of Public Works",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-05/debate/dbsect_18"
       },
-      "house": {
-        "houseCode": "dail",
-        "chamberType": "house",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "committeeCode": "",
-        "showAs": "34th Dáil",
-        "houseNo": "34"
+      "questionType": "oral",
+      "by": {
+        "memberCode": "Barry-Ward.S.2020-03-30",
+        "showAs": "Barry Ward",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Barry-Ward.S.2020-03-30"
       },
-      "showAs": " 4. Deputy Barry Ward asked the Minister for Public Expenditure, Infrastructure, Public Service Reform and Digitalisation the position regarding a departmental review into the way in which the OPW manages projects to ensure value for money for the taxpayer; and if he will make a statement on the matter. [59380/25] ",
       "date": "2025-11-05",
-      "questionType": "oral"
-    }
+      "questionNumber": 4,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-05/pq_4",
+      "house": {
+        "committeeCode": "",
+        "chamberType": "house",
+        "houseNo": "34",
+        "houseCode": "dail",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      }
+    },
+    "contextDate": "2025-11-05"
   },
   {
-    "contextDate": "2025-11-05",
     "question": {
-      "by": {
-        "showAs": "Emer Currie",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Emer-Currie.S.2020-06-29",
-        "memberCode": "Emer-Currie.S.2020-06-29"
-      },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-05/pq_5",
-      "questionNumber": 5,
+      "showAs": " 5. Deputy Emer Currie asked the Minister for Public Expenditure, Infrastructure, Public Service Reform and Digitalisation the progress to date under national strategic outcome 10 of the National Development Plan 2021-2030; and if he will make a statement on the matter. [60155/25] ",
       "to": {
+        "showAs": "Public Expenditure",
         "roleCode": null,
         "roleType": null,
-        "uri": null,
-        "showAs": "Public Expenditure"
+        "uri": null
       },
       "debateSection": {
-        "showAs": "National Development Plan",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-05/debate/dbsect_19",
         "debateSectionId": "dbsect_19",
         "formats": {
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-05/debate/mul@/dbsect_19.xml"
           },
           "pdf": null
-        }
+        },
+        "showAs": "National Development Plan",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-05/debate/dbsect_19"
       },
-      "house": {
-        "houseCode": "dail",
-        "chamberType": "house",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "committeeCode": "",
-        "showAs": "34th Dáil",
-        "houseNo": "34"
+      "questionType": "oral",
+      "by": {
+        "memberCode": "Emer-Currie.S.2020-06-29",
+        "showAs": "Emer Currie",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Emer-Currie.S.2020-06-29"
       },
-      "showAs": " 5. Deputy Emer Currie asked the Minister for Public Expenditure, Infrastructure, Public Service Reform and Digitalisation the progress to date under national strategic outcome 10 of the National Development Plan 2021-2030; and if he will make a statement on the matter. [60155/25] ",
       "date": "2025-11-05",
-      "questionType": "oral"
-    }
+      "questionNumber": 5,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-05/pq_5",
+      "house": {
+        "committeeCode": "",
+        "chamberType": "house",
+        "houseNo": "34",
+        "houseCode": "dail",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      }
+    },
+    "contextDate": "2025-11-05"
   },
   {
-    "contextDate": "2025-11-05",
     "question": {
-      "by": {
-        "showAs": "Cathal Crowe",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Cathal-Crowe.D.2020-02-08",
-        "memberCode": "Cathal-Crowe.D.2020-02-08"
-      },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-05/pq_6",
-      "questionNumber": 6,
+      "showAs": " 6. Deputy Cathal Crowe asked the Minister for Public Expenditure, Infrastructure, Public Service Reform and Digitalisation the way in which he plans to address delays in delivering capital projects; and if he will make a statement on the matter.  [59855/25] ",
       "to": {
+        "showAs": "Public Expenditure",
         "roleCode": null,
         "roleType": null,
-        "uri": null,
-        "showAs": "Public Expenditure"
+        "uri": null
       },
       "debateSection": {
-        "showAs": "Capital Expenditure Programme",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-05/debate/dbsect_20",
         "debateSectionId": "dbsect_20",
         "formats": {
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-05/debate/mul@/dbsect_20.xml"
           },
           "pdf": null
-        }
+        },
+        "showAs": "Capital Expenditure Programme",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-05/debate/dbsect_20"
       },
-      "house": {
-        "houseCode": "dail",
-        "chamberType": "house",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "committeeCode": "",
-        "showAs": "34th Dáil",
-        "houseNo": "34"
+      "questionType": "oral",
+      "by": {
+        "memberCode": "Cathal-Crowe.D.2020-02-08",
+        "showAs": "Cathal Crowe",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Cathal-Crowe.D.2020-02-08"
       },
-      "showAs": " 6. Deputy Cathal Crowe asked the Minister for Public Expenditure, Infrastructure, Public Service Reform and Digitalisation the way in which he plans to address delays in delivering capital projects; and if he will make a statement on the matter.  [59855/25] ",
       "date": "2025-11-05",
-      "questionType": "oral"
-    }
+      "questionNumber": 6,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-05/pq_6",
+      "house": {
+        "committeeCode": "",
+        "chamberType": "house",
+        "houseNo": "34",
+        "houseCode": "dail",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      }
+    },
+    "contextDate": "2025-11-05"
   },
   {
-    "contextDate": "2025-11-05",
     "question": {
-      "by": {
-        "showAs": "Ruairí Ó Murchú",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruairí-Ó-Murchú.D.2020-02-08",
-        "memberCode": "Ruairí-Ó-Murchú.D.2020-02-08"
-      },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-05/pq_7",
-      "questionNumber": 7,
+      "showAs": " 7. Deputy Ruairí Ó Murchú asked the Minister for Public Expenditure, Infrastructure, Public Service Reform and Digitalisation the way in which the incorrectly spelled new sign outside his Department came to be put in place; the total cost of the sign; the estimated cost for the removal and a replacement sign; and if he will make a statement on the matter. [60171/25] ",
       "to": {
+        "showAs": "Public Expenditure",
         "roleCode": null,
         "roleType": null,
-        "uri": null,
-        "showAs": "Public Expenditure"
+        "uri": null
       },
       "debateSection": {
-        "showAs": "Public Procurement Contracts",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-05/debate/dbsect_21",
         "debateSectionId": "dbsect_21",
         "formats": {
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-05/debate/mul@/dbsect_21.xml"
           },
           "pdf": null
-        }
+        },
+        "showAs": "Public Procurement Contracts",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-05/debate/dbsect_21"
       },
-      "house": {
-        "houseCode": "dail",
-        "chamberType": "house",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "committeeCode": "",
-        "showAs": "34th Dáil",
-        "houseNo": "34"
+      "questionType": "oral",
+      "by": {
+        "memberCode": "Ruairí-Ó-Murchú.D.2020-02-08",
+        "showAs": "Ruairí Ó Murchú",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruairí-Ó-Murchú.D.2020-02-08"
       },
-      "showAs": " 7. Deputy Ruairí Ó Murchú asked the Minister for Public Expenditure, Infrastructure, Public Service Reform and Digitalisation the way in which the incorrectly spelled new sign outside his Department came to be put in place; the total cost of the sign; the estimated cost for the removal and a replacement sign; and if he will make a statement on the matter. [60171/25] ",
       "date": "2025-11-05",
-      "questionType": "oral"
-    }
+      "questionNumber": 7,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-05/pq_7",
+      "house": {
+        "committeeCode": "",
+        "chamberType": "house",
+        "houseNo": "34",
+        "houseCode": "dail",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      }
+    },
+    "contextDate": "2025-11-05"
   },
   {
-    "contextDate": "2025-11-05",
     "question": {
-      "by": {
-        "showAs": "Louis O'Hara",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Louis-O'Hara.D.2024-11-29",
-        "memberCode": "Louis-O'Hara.D.2024-11-29"
-      },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-05/pq_9",
-      "questionNumber": 9,
+      "showAs": " 9. Deputy Louis O'Hara asked the Minister for Public Expenditure, Infrastructure, Public Service Reform and Digitalisation his plans to improve the management of the River Shannon; his plans to tackle the issue of flooding in the Shannon Callows; and if he will make a statement on the matter. [59983/25] ",
       "to": {
+        "showAs": "Public Expenditure",
         "roleCode": null,
         "roleType": null,
-        "uri": null,
-        "showAs": "Public Expenditure"
+        "uri": null
       },
       "debateSection": {
-        "showAs": "Flood Risk Management",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-05/debate/dbsect_22",
         "debateSectionId": "dbsect_22",
         "formats": {
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-05/debate/mul@/dbsect_22.xml"
           },
           "pdf": null
-        }
+        },
+        "showAs": "Flood Risk Management",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-05/debate/dbsect_22"
       },
-      "house": {
-        "houseCode": "dail",
-        "chamberType": "house",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "committeeCode": "",
-        "showAs": "34th Dáil",
-        "houseNo": "34"
+      "questionType": "oral",
+      "by": {
+        "memberCode": "Louis-O'Hara.D.2024-11-29",
+        "showAs": "Louis O'Hara",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Louis-O'Hara.D.2024-11-29"
       },
-      "showAs": " 9. Deputy Louis O'Hara asked the Minister for Public Expenditure, Infrastructure, Public Service Reform and Digitalisation his plans to improve the management of the River Shannon; his plans to tackle the issue of flooding in the Shannon Callows; and if he will make a statement on the matter. [59983/25] ",
       "date": "2025-11-05",
-      "questionType": "oral"
-    }
+      "questionNumber": 9,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-05/pq_9",
+      "house": {
+        "committeeCode": "",
+        "chamberType": "house",
+        "houseNo": "34",
+        "houseCode": "dail",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      }
+    },
+    "contextDate": "2025-11-05"
   },
   {
-    "contextDate": "2025-11-05",
     "question": {
-      "by": {
-        "showAs": "Barry Ward",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Barry-Ward.S.2020-03-30",
-        "memberCode": "Barry-Ward.S.2020-03-30"
-      },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-05/pq_10",
-      "questionNumber": 10,
+      "showAs": " 10. Deputy Barry Ward asked the Minister for Public Expenditure, Infrastructure, Public Service Reform and Digitalisation the position regarding guidelines and instructions provided to all Departments to ensure strict and transparent control of capital spending budgets; if these guidelines will be made publicly available; and if he will make a statement on the matter. [59379/25] ",
       "to": {
+        "showAs": "Public Expenditure",
         "roleCode": null,
         "roleType": null,
-        "uri": null,
-        "showAs": "Public Expenditure"
+        "uri": null
       },
       "debateSection": {
-        "showAs": "Public Spending Code",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-05/debate/dbsect_23",
         "debateSectionId": "dbsect_23",
         "formats": {
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-05/debate/mul@/dbsect_23.xml"
           },
           "pdf": null
-        }
+        },
+        "showAs": "Public Spending Code",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-05/debate/dbsect_23"
       },
-      "house": {
-        "houseCode": "dail",
-        "chamberType": "house",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "committeeCode": "",
-        "showAs": "34th Dáil",
-        "houseNo": "34"
+      "questionType": "oral",
+      "by": {
+        "memberCode": "Barry-Ward.S.2020-03-30",
+        "showAs": "Barry Ward",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Barry-Ward.S.2020-03-30"
       },
-      "showAs": " 10. Deputy Barry Ward asked the Minister for Public Expenditure, Infrastructure, Public Service Reform and Digitalisation the position regarding guidelines and instructions provided to all Departments to ensure strict and transparent control of capital spending budgets; if these guidelines will be made publicly available; and if he will make a statement on the matter. [59379/25] ",
       "date": "2025-11-05",
-      "questionType": "oral"
-    }
+      "questionNumber": 10,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-05/pq_10",
+      "house": {
+        "committeeCode": "",
+        "chamberType": "house",
+        "houseNo": "34",
+        "houseCode": "dail",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      }
+    },
+    "contextDate": "2025-11-05"
   },
   {
-    "contextDate": "2025-11-05",
     "question": {
-      "by": {
-        "showAs": "Emer Currie",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Emer-Currie.S.2020-06-29",
-        "memberCode": "Emer-Currie.S.2020-06-29"
-      },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-05/pq_33",
-      "questionNumber": 33,
+      "showAs": " 33. Deputy Emer Currie asked the Minister for Public Expenditure, Infrastructure, Public Service Reform and Digitalisation the progress to date under national strategic outcome 4 of the National Development Plan 2021-2030; and if he will make a statement on the matter. [60154/25] ",
       "to": {
+        "showAs": "Public Expenditure",
         "roleCode": null,
         "roleType": null,
-        "uri": null,
-        "showAs": "Public Expenditure"
+        "uri": null
       },
       "debateSection": {
-        "showAs": "National Development Plan",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-05/debate/dbsect_19",
         "debateSectionId": "dbsect_19",
         "formats": {
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-05/debate/mul@/dbsect_19.xml"
           },
           "pdf": null
-        }
+        },
+        "showAs": "National Development Plan",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-05/debate/dbsect_19"
       },
-      "house": {
-        "houseCode": "dail",
-        "chamberType": "house",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "committeeCode": "",
-        "showAs": "34th Dáil",
-        "houseNo": "34"
+      "questionType": "oral",
+      "by": {
+        "memberCode": "Emer-Currie.S.2020-06-29",
+        "showAs": "Emer Currie",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Emer-Currie.S.2020-06-29"
       },
-      "showAs": " 33. Deputy Emer Currie asked the Minister for Public Expenditure, Infrastructure, Public Service Reform and Digitalisation the progress to date under national strategic outcome 4 of the National Development Plan 2021-2030; and if he will make a statement on the matter. [60154/25] ",
       "date": "2025-11-05",
-      "questionType": "oral"
-    }
+      "questionNumber": 33,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-05/pq_33",
+      "house": {
+        "committeeCode": "",
+        "chamberType": "house",
+        "houseNo": "34",
+        "houseCode": "dail",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      }
+    },
+    "contextDate": "2025-11-05"
   }
 ]

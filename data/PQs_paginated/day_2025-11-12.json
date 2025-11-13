@@ -1,1 +1,762 @@
-[]
+[
+  {
+    "contextDate": "2025-11-12",
+    "question": {
+      "debateSection": {
+        "debateSectionId": "dbsect_13",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-12/debate/dbsect_13",
+        "showAs": "Cabinet Committees",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-12/debate/mul@/dbsect_13.xml"
+          }
+        }
+      },
+      "house": {
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "houseCode": "dail",
+        "houseNo": "34",
+        "chamberType": "house"
+      },
+      "showAs": " 18. Deputy Aisling Dempsey asked the Taoiseach when the Cabinet committee on disability will next meet.  [46880/25] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-12/pq_18",
+      "questionNumber": 18,
+      "questionType": "oral",
+      "date": "2025-11-12",
+      "to": {
+        "roleType": null,
+        "uri": null,
+        "roleCode": null,
+        "showAs": "Taoiseach"
+      },
+      "by": {
+        "memberCode": "Aisling-Dempsey.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Aisling-Dempsey.D.2024-11-29",
+        "showAs": "Aisling Dempsey"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-12",
+    "question": {
+      "debateSection": {
+        "debateSectionId": "dbsect_13",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-12/debate/dbsect_13",
+        "showAs": "Cabinet Committees",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-12/debate/mul@/dbsect_13.xml"
+          }
+        }
+      },
+      "house": {
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "houseCode": "dail",
+        "houseNo": "34",
+        "chamberType": "house"
+      },
+      "showAs": " 19. Deputy Paul McAuliffe asked the Taoiseach when the Cabinet committee on disability will next meet.  [46881/25] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-12/pq_19",
+      "questionNumber": 19,
+      "questionType": "oral",
+      "date": "2025-11-12",
+      "to": {
+        "roleType": null,
+        "uri": null,
+        "roleCode": null,
+        "showAs": "Taoiseach"
+      },
+      "by": {
+        "memberCode": "Paul-McAuliffe.D.2020-02-08",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-McAuliffe.D.2020-02-08",
+        "showAs": "Paul McAuliffe"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-12",
+    "question": {
+      "debateSection": {
+        "debateSectionId": "dbsect_13",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-12/debate/dbsect_13",
+        "showAs": "Cabinet Committees",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-12/debate/mul@/dbsect_13.xml"
+          }
+        }
+      },
+      "house": {
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "houseCode": "dail",
+        "houseNo": "34",
+        "chamberType": "house"
+      },
+      "showAs": " 20. Deputy Catherine Ardagh asked the Taoiseach when the Cabinet committee on disability will next meet.  [46848/25] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-12/pq_20",
+      "questionNumber": 20,
+      "questionType": "oral",
+      "date": "2025-11-12",
+      "to": {
+        "roleType": null,
+        "uri": null,
+        "roleCode": null,
+        "showAs": "Taoiseach"
+      },
+      "by": {
+        "memberCode": "Catherine-Ardagh.S.2016-04-25",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Catherine-Ardagh.S.2016-04-25",
+        "showAs": "Catherine Ardagh"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-12",
+    "question": {
+      "debateSection": {
+        "debateSectionId": "dbsect_13",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-12/debate/dbsect_13",
+        "showAs": "Cabinet Committees",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-12/debate/mul@/dbsect_13.xml"
+          }
+        }
+      },
+      "house": {
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "houseCode": "dail",
+        "houseNo": "34",
+        "chamberType": "house"
+      },
+      "showAs": " 21. Deputy Martin Daly asked the Taoiseach when the Cabinet committee on disability will next meet.  [46853/25] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-12/pq_21",
+      "questionNumber": 21,
+      "questionType": "oral",
+      "date": "2025-11-12",
+      "to": {
+        "roleType": null,
+        "uri": null,
+        "roleCode": null,
+        "showAs": "Taoiseach"
+      },
+      "by": {
+        "memberCode": "Martin-Daly.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Martin-Daly.D.2024-11-29",
+        "showAs": "Martin Daly"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-12",
+    "question": {
+      "debateSection": {
+        "debateSectionId": "dbsect_13",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-12/debate/dbsect_13",
+        "showAs": "Cabinet Committees",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-12/debate/mul@/dbsect_13.xml"
+          }
+        }
+      },
+      "house": {
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "houseCode": "dail",
+        "houseNo": "34",
+        "chamberType": "house"
+      },
+      "showAs": " 22. Deputy Ruth Coppinger asked the Taoiseach when the Cabinet committee on disability will next meet.  [52040/25] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-12/pq_22",
+      "questionNumber": 22,
+      "questionType": "oral",
+      "date": "2025-11-12",
+      "to": {
+        "roleType": null,
+        "uri": null,
+        "roleCode": null,
+        "showAs": "Taoiseach"
+      },
+      "by": {
+        "memberCode": "Ruth-Coppinger.D.2014-05-23",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruth-Coppinger.D.2014-05-23",
+        "showAs": "Ruth Coppinger"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-12",
+    "question": {
+      "debateSection": {
+        "debateSectionId": "dbsect_13",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-12/debate/dbsect_13",
+        "showAs": "Cabinet Committees",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-12/debate/mul@/dbsect_13.xml"
+          }
+        }
+      },
+      "house": {
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "houseCode": "dail",
+        "houseNo": "34",
+        "chamberType": "house"
+      },
+      "showAs": " 23. Deputy Darren O'Rourke asked the Taoiseach when the Cabinet committee on disability will next meet.  [53072/25] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-12/pq_23",
+      "questionNumber": 23,
+      "questionType": "oral",
+      "date": "2025-11-12",
+      "to": {
+        "roleType": null,
+        "uri": null,
+        "roleCode": null,
+        "showAs": "Taoiseach"
+      },
+      "by": {
+        "memberCode": "Darren-O'Rourke.D.2020-02-08",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Darren-O'Rourke.D.2020-02-08",
+        "showAs": "Darren O'Rourke"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-12",
+    "question": {
+      "debateSection": {
+        "debateSectionId": "dbsect_13",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-12/debate/dbsect_13",
+        "showAs": "Cabinet Committees",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-12/debate/mul@/dbsect_13.xml"
+          }
+        }
+      },
+      "house": {
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "houseCode": "dail",
+        "houseNo": "34",
+        "chamberType": "house"
+      },
+      "showAs": " 24. Deputy Peadar Tóibín asked the Taoiseach when the Cabinet committee on disability will next meet.  [56964/25] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-12/pq_24",
+      "questionNumber": 24,
+      "questionType": "oral",
+      "date": "2025-11-12",
+      "to": {
+        "roleType": null,
+        "uri": null,
+        "roleCode": null,
+        "showAs": "Taoiseach"
+      },
+      "by": {
+        "memberCode": "Peadar-Tóibín.D.2011-03-09",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Peadar-Tóibín.D.2011-03-09",
+        "showAs": "Peadar Tóibín"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-12",
+    "question": {
+      "debateSection": {
+        "debateSectionId": "dbsect_13",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-12/debate/dbsect_13",
+        "showAs": "Cabinet Committees",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-12/debate/mul@/dbsect_13.xml"
+          }
+        }
+      },
+      "house": {
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "houseCode": "dail",
+        "houseNo": "34",
+        "chamberType": "house"
+      },
+      "showAs": " 25. Deputy Mark Ward asked the Taoiseach when the Cabinet committee on disability will next meet.  [56980/25] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-12/pq_25",
+      "questionNumber": 25,
+      "questionType": "oral",
+      "date": "2025-11-12",
+      "to": {
+        "roleType": null,
+        "uri": null,
+        "roleCode": null,
+        "showAs": "Taoiseach"
+      },
+      "by": {
+        "memberCode": "Mark-Ward.D.2019-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Mark-Ward.D.2019-11-29",
+        "showAs": "Mark Ward"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-12",
+    "question": {
+      "debateSection": {
+        "debateSectionId": "dbsect_13",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-12/debate/dbsect_13",
+        "showAs": "Cabinet Committees",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-12/debate/mul@/dbsect_13.xml"
+          }
+        }
+      },
+      "house": {
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "houseCode": "dail",
+        "houseNo": "34",
+        "chamberType": "house"
+      },
+      "showAs": " 26. Deputy Paul Murphy asked the Taoiseach when the Cabinet committee on disability will next meet.  [56995/25] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-12/pq_26",
+      "questionNumber": 26,
+      "questionType": "oral",
+      "date": "2025-11-12",
+      "to": {
+        "roleType": null,
+        "uri": null,
+        "roleCode": null,
+        "showAs": "Taoiseach"
+      },
+      "by": {
+        "memberCode": "Paul-Murphy.D.2014-10-10",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Murphy.D.2014-10-10",
+        "showAs": "Paul Murphy"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-12",
+    "question": {
+      "debateSection": {
+        "debateSectionId": "dbsect_13",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-12/debate/dbsect_13",
+        "showAs": "Cabinet Committees",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-12/debate/mul@/dbsect_13.xml"
+          }
+        }
+      },
+      "house": {
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "houseCode": "dail",
+        "houseNo": "34",
+        "chamberType": "house"
+      },
+      "showAs": " 27. Deputy Ruth Coppinger asked the Taoiseach when the Cabinet committee on disability will next meet.  [57001/25] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-12/pq_27",
+      "questionNumber": 27,
+      "questionType": "oral",
+      "date": "2025-11-12",
+      "to": {
+        "roleType": null,
+        "uri": null,
+        "roleCode": null,
+        "showAs": "Taoiseach"
+      },
+      "by": {
+        "memberCode": "Ruth-Coppinger.D.2014-05-23",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruth-Coppinger.D.2014-05-23",
+        "showAs": "Ruth Coppinger"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-12",
+    "question": {
+      "debateSection": {
+        "debateSectionId": "dbsect_13",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-12/debate/dbsect_13",
+        "showAs": "Cabinet Committees",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-12/debate/mul@/dbsect_13.xml"
+          }
+        }
+      },
+      "house": {
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "houseCode": "dail",
+        "houseNo": "34",
+        "chamberType": "house"
+      },
+      "showAs": " 28. Deputy Ruairí Ó Murchú asked the Taoiseach when the Cabinet committee on disability will next meet.  [57036/25] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-12/pq_28",
+      "questionNumber": 28,
+      "questionType": "oral",
+      "date": "2025-11-12",
+      "to": {
+        "roleType": null,
+        "uri": null,
+        "roleCode": null,
+        "showAs": "Taoiseach"
+      },
+      "by": {
+        "memberCode": "Ruairí-Ó-Murchú.D.2020-02-08",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruairí-Ó-Murchú.D.2020-02-08",
+        "showAs": "Ruairí Ó Murchú"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-12",
+    "question": {
+      "debateSection": {
+        "debateSectionId": "dbsect_13",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-12/debate/dbsect_13",
+        "showAs": "Cabinet Committees",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-12/debate/mul@/dbsect_13.xml"
+          }
+        }
+      },
+      "house": {
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "houseCode": "dail",
+        "houseNo": "34",
+        "chamberType": "house"
+      },
+      "showAs": " 29. Deputy Barry Heneghan asked the Taoiseach when the Cabinet committee on disability will next meet.  [57153/25] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-12/pq_29",
+      "questionNumber": 29,
+      "questionType": "oral",
+      "date": "2025-11-12",
+      "to": {
+        "roleType": null,
+        "uri": null,
+        "roleCode": null,
+        "showAs": "Taoiseach"
+      },
+      "by": {
+        "memberCode": "Barry-Heneghan.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Barry-Heneghan.D.2024-11-29",
+        "showAs": "Barry Heneghan"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-12",
+    "question": {
+      "debateSection": {
+        "debateSectionId": "dbsect_13",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-12/debate/dbsect_13",
+        "showAs": "Cabinet Committees",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-12/debate/mul@/dbsect_13.xml"
+          }
+        }
+      },
+      "house": {
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "houseCode": "dail",
+        "houseNo": "34",
+        "chamberType": "house"
+      },
+      "showAs": " 30. Deputy Conor D. McGuinness asked the Taoiseach when the Cabinet committee on disability will next meet.  [58033/25] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-12/pq_30",
+      "questionNumber": 30,
+      "questionType": "oral",
+      "date": "2025-11-12",
+      "to": {
+        "roleType": null,
+        "uri": null,
+        "roleCode": null,
+        "showAs": "Taoiseach"
+      },
+      "by": {
+        "memberCode": "Conor-D-McGuinness.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Conor-D-McGuinness.D.2024-11-29",
+        "showAs": "Conor D McGuinness"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-12",
+    "question": {
+      "debateSection": {
+        "debateSectionId": "dbsect_13",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-12/debate/dbsect_13",
+        "showAs": "Cabinet Committees",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-12/debate/mul@/dbsect_13.xml"
+          }
+        }
+      },
+      "house": {
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "houseCode": "dail",
+        "houseNo": "34",
+        "chamberType": "house"
+      },
+      "showAs": " 31. Deputy Liam Quaide asked the Taoiseach when the Cabinet committee on disability will next meet.  [58230/25] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-12/pq_31",
+      "questionNumber": 31,
+      "questionType": "oral",
+      "date": "2025-11-12",
+      "to": {
+        "roleType": null,
+        "uri": null,
+        "roleCode": null,
+        "showAs": "Taoiseach"
+      },
+      "by": {
+        "memberCode": "Liam-Quaide.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Liam-Quaide.D.2024-11-29",
+        "showAs": "Liam Quaide"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-12",
+    "question": {
+      "debateSection": {
+        "debateSectionId": "dbsect_13",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-12/debate/dbsect_13",
+        "showAs": "Cabinet Committees",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-12/debate/mul@/dbsect_13.xml"
+          }
+        }
+      },
+      "house": {
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "houseCode": "dail",
+        "houseNo": "34",
+        "chamberType": "house"
+      },
+      "showAs": " 32. Deputy Barry Heneghan asked the Taoiseach when the Cabinet committee on disability will meet next.  [59584/25] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-12/pq_32",
+      "questionNumber": 32,
+      "questionType": "oral",
+      "date": "2025-11-12",
+      "to": {
+        "roleType": null,
+        "uri": null,
+        "roleCode": null,
+        "showAs": "Taoiseach"
+      },
+      "by": {
+        "memberCode": "Barry-Heneghan.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Barry-Heneghan.D.2024-11-29",
+        "showAs": "Barry Heneghan"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-12",
+    "question": {
+      "debateSection": {
+        "debateSectionId": "dbsect_13",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-12/debate/dbsect_13",
+        "showAs": "Cabinet Committees",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-12/debate/mul@/dbsect_13.xml"
+          }
+        }
+      },
+      "house": {
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "houseCode": "dail",
+        "houseNo": "34",
+        "chamberType": "house"
+      },
+      "showAs": " 33. Deputy Rose Conway-Walsh asked the Taoiseach when the Cabinet committee on disability will next meet.  [59734/25] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-12/pq_33",
+      "questionNumber": 33,
+      "questionType": "oral",
+      "date": "2025-11-12",
+      "to": {
+        "roleType": null,
+        "uri": null,
+        "roleCode": null,
+        "showAs": "Taoiseach"
+      },
+      "by": {
+        "memberCode": "Rose-Conway-Walsh.S.2016-04-25",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Rose-Conway-Walsh.S.2016-04-25",
+        "showAs": "Rose Conway-Walsh"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-12",
+    "question": {
+      "debateSection": {
+        "debateSectionId": "dbsect_13",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-12/debate/dbsect_13",
+        "showAs": "Cabinet Committees",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-12/debate/mul@/dbsect_13.xml"
+          }
+        }
+      },
+      "house": {
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "houseCode": "dail",
+        "houseNo": "34",
+        "chamberType": "house"
+      },
+      "showAs": " 34. Deputy Cian O'Callaghan asked the Taoiseach when the Cabinet committee on disability will next meet.  [60924/25] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-12/pq_34",
+      "questionNumber": 34,
+      "questionType": "oral",
+      "date": "2025-11-12",
+      "to": {
+        "roleType": null,
+        "uri": null,
+        "roleCode": null,
+        "showAs": "Taoiseach"
+      },
+      "by": {
+        "memberCode": "Cian-O'Callaghan.D.2020-02-08",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Cian-O'Callaghan.D.2020-02-08",
+        "showAs": "Cian O'Callaghan"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-12",
+    "question": {
+      "debateSection": {
+        "debateSectionId": "dbsect_13",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-12/debate/dbsect_13",
+        "showAs": "Cabinet Committees",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-12/debate/mul@/dbsect_13.xml"
+          }
+        }
+      },
+      "house": {
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "houseCode": "dail",
+        "houseNo": "34",
+        "chamberType": "house"
+      },
+      "showAs": " 35. Deputy James Geoghegan asked the Taoiseach when the Cabinet committee on disability will next meet  [61553/25] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-12/pq_35",
+      "questionNumber": 35,
+      "questionType": "oral",
+      "date": "2025-11-12",
+      "to": {
+        "roleType": null,
+        "uri": null,
+        "roleCode": null,
+        "showAs": "Taoiseach"
+      },
+      "by": {
+        "memberCode": "James-Geoghegan.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/James-Geoghegan.D.2024-11-29",
+        "showAs": "James Geoghegan"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-12",
+    "question": {
+      "debateSection": {
+        "debateSectionId": "dbsect_13",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-12/debate/dbsect_13",
+        "showAs": "Cabinet Committees",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-12/debate/mul@/dbsect_13.xml"
+          }
+        }
+      },
+      "house": {
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "houseCode": "dail",
+        "houseNo": "34",
+        "chamberType": "house"
+      },
+      "showAs": " 36. Deputy Richard Boyd Barrett asked the Taoiseach when the Cabinet committee on disability will next meet.  [61676/25] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-12/pq_36",
+      "questionNumber": 36,
+      "questionType": "oral",
+      "date": "2025-11-12",
+      "to": {
+        "roleType": null,
+        "uri": null,
+        "roleCode": null,
+        "showAs": "Taoiseach"
+      },
+      "by": {
+        "memberCode": "Richard-Boyd-Barrett.D.2011-03-09",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Richard-Boyd-Barrett.D.2011-03-09",
+        "showAs": "Richard Boyd Barrett"
+      }
+    }
+  }
+]

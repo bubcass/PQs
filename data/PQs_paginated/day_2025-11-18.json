@@ -1,1 +1,4162 @@
-[]
+[
+  {
+    "contextDate": "2025-11-18",
+    "question": {
+      "house": {
+        "houseNo": "34",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Transport",
+        "roleType": null
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_18",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/debate/dbsect_18",
+        "showAs": "Transport Infrastructure Ireland",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/debate/mul@/dbsect_18.xml"
+          }
+        }
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-18/pq_71",
+      "questionType": "oral",
+      "questionNumber": 71,
+      "showAs": " 71. Deputy Pa Daly asked the Minister for Transport if he will defer the January 2026 toll increase; and if he will make a statement on the matter.  [63433/25] ",
+      "date": "2025-11-18",
+      "by": {
+        "showAs": "Pa Daly",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Pa-Daly.D.2020-02-08",
+        "memberCode": "Pa-Daly.D.2020-02-08"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-18",
+    "question": {
+      "house": {
+        "houseNo": "34",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Transport",
+        "roleType": null
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_19",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/debate/dbsect_19",
+        "showAs": "Transport Policy",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/debate/mul@/dbsect_19.xml"
+          }
+        }
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-18/pq_72",
+      "questionType": "oral",
+      "questionNumber": 72,
+      "showAs": " 72. Deputy Pa Daly asked the Minister for Transport if he will report on the scheme for free travel for five- to eight-year-olds; if he will report on the roll-out of the scheme; and if he will make a statement on the matter.  [63434/25] ",
+      "date": "2025-11-18",
+      "by": {
+        "showAs": "Pa Daly",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Pa-Daly.D.2020-02-08",
+        "memberCode": "Pa-Daly.D.2020-02-08"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-18",
+    "question": {
+      "house": {
+        "houseNo": "34",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Transport",
+        "roleType": null
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_20",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/debate/dbsect_20",
+        "showAs": "Electric Vehicles",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/debate/mul@/dbsect_20.xml"
+          }
+        }
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-18/pq_73",
+      "questionType": "oral",
+      "questionNumber": 73,
+      "showAs": " 73. Deputy Shane Moynihan asked the Minister for Transport if he will consider undertaking a review of the current regulatory regime in place for escooters; and if he will make a statement on the matter. [63600/25] ",
+      "date": "2025-11-18",
+      "by": {
+        "showAs": "Shane Moynihan",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Shane-Moynihan.D.2024-11-29",
+        "memberCode": "Shane-Moynihan.D.2024-11-29"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-18",
+    "question": {
+      "house": {
+        "houseNo": "34",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Transport",
+        "roleType": null
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_21",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/debate/dbsect_21",
+        "showAs": "National Development Plan",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/debate/mul@/dbsect_21.xml"
+          }
+        }
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-18/pq_74",
+      "questionType": "oral",
+      "questionNumber": 74,
+      "showAs": " 74. Deputy Louis O'Hara asked the Minister for Transport to provide an update on the development of his Department’s sectoral investment plan following the national development plan review; if there is a date for the publication of this sectoral investment plan; and if he will make a statement on the matter. [63319/25] ",
+      "date": "2025-11-18",
+      "by": {
+        "showAs": "Louis O'Hara",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Louis-O'Hara.D.2024-11-29",
+        "memberCode": "Louis-O'Hara.D.2024-11-29"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-18",
+    "question": {
+      "house": {
+        "houseNo": "34",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Transport",
+        "roleType": null
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_42",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/dbsect_42",
+        "showAs": "Public Transport",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/mul@/dbsect_42.xml"
+          }
+        }
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-18/pq_75",
+      "questionType": "written",
+      "questionNumber": 75,
+      "showAs": " 75. Deputy Shónagh Ní Raghallaigh asked the Minister for Transport if he will consider extending the short hop zone to Newbridge and surrounding areas to aid with the cost-of-living of commuters; and if he will make a statement on the matter. [62392/25] ",
+      "date": "2025-11-18",
+      "by": {
+        "showAs": "Shónagh Ní Raghallaigh",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Shónagh-Ní-Raghallaigh.D.2024-11-29",
+        "memberCode": "Shónagh-Ní-Raghallaigh.D.2024-11-29"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-18",
+    "question": {
+      "house": {
+        "houseNo": "34",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Transport",
+        "roleType": null
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_23",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/debate/dbsect_23",
+        "showAs": "Public Transport",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/debate/mul@/dbsect_23.xml"
+          }
+        }
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-18/pq_76",
+      "questionType": "oral",
+      "questionNumber": 76,
+      "showAs": " 76. Deputy Louis O'Hara asked the Minister for Transport the actions his Department is undertaking to deliver contactless payments on all public transport; the estimated timeline for the introduction of same; and if he will make a statement on the matter. [63320/25] ",
+      "date": "2025-11-18",
+      "by": {
+        "showAs": "Louis O'Hara",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Louis-O'Hara.D.2024-11-29",
+        "memberCode": "Louis-O'Hara.D.2024-11-29"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-18",
+    "question": {
+      "house": {
+        "houseNo": "34",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Transport",
+        "roleType": null
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_24",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/debate/dbsect_24",
+        "showAs": "Air Services",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/debate/mul@/dbsect_24.xml"
+          }
+        }
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-18/pq_77",
+      "questionType": "oral",
+      "questionNumber": 77,
+      "showAs": " 77. Deputy Pádraig Mac Lochlainn asked the Minister for Transport to provide an update with timelines for the restoration of the Derry to Dublin air link. [63485/25] ",
+      "date": "2025-11-18",
+      "by": {
+        "showAs": "Pádraig Mac Lochlainn",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Pádraig-MacLochlainn.D.2011-03-09",
+        "memberCode": "Pádraig-MacLochlainn.D.2011-03-09"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-18",
+    "question": {
+      "house": {
+        "houseNo": "34",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Transport",
+        "roleType": null
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_25",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/debate/dbsect_25",
+        "showAs": "Public Transport",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/debate/mul@/dbsect_25.xml"
+          }
+        }
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-18/pq_78",
+      "questionType": "oral",
+      "questionNumber": 78,
+      "showAs": " 78. Deputy Barry Ward asked the Minister for Transport his plans to ensure that public transport is fully accessible to all; and if he will make a statement on the matter. [62394/25] ",
+      "date": "2025-11-18",
+      "by": {
+        "showAs": "Barry Ward",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Barry-Ward.S.2020-03-30",
+        "memberCode": "Barry-Ward.S.2020-03-30"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-18",
+    "question": {
+      "house": {
+        "houseNo": "34",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Transport",
+        "roleType": null
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_26",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/debate/dbsect_26",
+        "showAs": "Bus Services",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/debate/mul@/dbsect_26.xml"
+          }
+        }
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-18/pq_79",
+      "questionType": "oral",
+      "questionNumber": 79,
+      "showAs": " 79. Deputy Emer Currie asked the Minister for Transport for an update on the upgrade of real-time tracking of Dublin Bus services; and if he will make a statement on the matter. [63502/25] ",
+      "date": "2025-11-18",
+      "by": {
+        "showAs": "Emer Currie",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Emer-Currie.S.2020-06-29",
+        "memberCode": "Emer-Currie.S.2020-06-29"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-18",
+    "question": {
+      "house": {
+        "houseNo": "34",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Transport",
+        "roleType": null
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_27",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/debate/dbsect_27",
+        "showAs": "Bus Services",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/debate/mul@/dbsect_27.xml"
+          }
+        }
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-18/pq_80",
+      "questionType": "oral",
+      "questionNumber": 80,
+      "showAs": " 80. Deputy Edward Timmins asked the Minister for Transport when the promised increase on bus route 132 will finally happen, given the increased traffic volumes; and if he will make a statement on the matter. [63503/25] ",
+      "date": "2025-11-18",
+      "by": {
+        "showAs": "Edward Timmins",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Edward-Timmins.D.2024-11-29",
+        "memberCode": "Edward-Timmins.D.2024-11-29"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-18",
+    "question": {
+      "house": {
+        "houseNo": "34",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Transport",
+        "roleType": null
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_28",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/debate/dbsect_28",
+        "showAs": "State Bodies",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/debate/mul@/dbsect_28.xml"
+          }
+        }
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-18/pq_81",
+      "questionType": "oral",
+      "questionNumber": 81,
+      "showAs": " 81. Deputy Pa Daly asked the Minister for Transport if he will report on the recent salary increases of CEOs of commercial State bodies under the aegis of his Department; if he has discussed these increases with the Minister for Public Expenditure, Infrastructure, Public Services, Reform and Digitalisation; and if he will make a statement on the matter. [63377/25] ",
+      "date": "2025-11-18",
+      "by": {
+        "showAs": "Pa Daly",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Pa-Daly.D.2020-02-08",
+        "memberCode": "Pa-Daly.D.2020-02-08"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-18",
+    "question": {
+      "house": {
+        "houseNo": "34",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Transport",
+        "roleType": null
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_29",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/debate/dbsect_29",
+        "showAs": "Transport Policy",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/debate/mul@/dbsect_29.xml"
+          }
+        }
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-18/pq_82",
+      "questionType": "oral",
+      "questionNumber": 82,
+      "showAs": " 82. Deputy Grace Boland asked the Minister for Transport if his Department has examined international best practice in public transport app design; if lessons from other jurisdictions are being considered in the digital strategy for TFI; and if he will make a statement on the matter. [63379/25] ",
+      "date": "2025-11-18",
+      "by": {
+        "showAs": "Grace Boland",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Grace-Boland.D.2024-11-29",
+        "memberCode": "Grace-Boland.D.2024-11-29"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-18",
+    "question": {
+      "house": {
+        "houseNo": "34",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Transport",
+        "roleType": null
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_30",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/debate/dbsect_30",
+        "showAs": "Rail Network",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/debate/mul@/dbsect_30.xml"
+          }
+        }
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-18/pq_83",
+      "questionType": "oral",
+      "questionNumber": 83,
+      "showAs": " 83. Deputy Barry Heneghan asked the Minister for Transport his views on the condition of DART and train stations across Dublin Bay North (details supplied); and if he will make a statement on the matter. [63444/25] ",
+      "date": "2025-11-18",
+      "by": {
+        "showAs": "Barry Heneghan",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Barry-Heneghan.D.2024-11-29",
+        "memberCode": "Barry-Heneghan.D.2024-11-29"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-18",
+    "question": {
+      "house": {
+        "houseNo": "34",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Transport",
+        "roleType": null
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_31",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/debate/dbsect_31",
+        "showAs": "Road Projects",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/debate/mul@/dbsect_31.xml"
+          }
+        }
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-18/pq_84",
+      "questionType": "oral",
+      "questionNumber": 84,
+      "showAs": " 84. Deputy Colm Burke asked the Minister for Transport the action his Department is taking to progress the Mallow relief road project; the current status of this project; and if he will make a statement on the matter. [63270/25] ",
+      "date": "2025-11-18",
+      "by": {
+        "showAs": "Colm Burke",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Colm-Burke.S.2011-05-25",
+        "memberCode": "Colm-Burke.S.2011-05-25"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-18",
+    "question": {
+      "house": {
+        "houseNo": "34",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Transport",
+        "roleType": null
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_32",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/debate/dbsect_32",
+        "showAs": "Transport Policy",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/debate/mul@/dbsect_32.xml"
+          }
+        }
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-18/pq_85",
+      "questionType": "oral",
+      "questionNumber": 85,
+      "showAs": " 85. Deputy Maeve O'Connell asked the Minister for Transport if analysis has been completed to study the way in which or if the completion of active travel projects have had a material effect on the carbon emissions of commuters in County Dublin, or across the country. [63312/25] ",
+      "date": "2025-11-18",
+      "by": {
+        "showAs": "Maeve O'Connell",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Maeve-O'Connell.D.2024-11-29",
+        "memberCode": "Maeve-O'Connell.D.2024-11-29"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-18",
+    "question": {
+      "house": {
+        "houseNo": "34",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Transport",
+        "roleType": null
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_33",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/debate/dbsect_33",
+        "showAs": "Rail Network",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/debate/mul@/dbsect_33.xml"
+          }
+        }
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-18/pq_86",
+      "questionType": "oral",
+      "questionNumber": 86,
+      "showAs": " 86. Deputy Cathy Bennett asked the Minister for Transport the projects identified in the strategic rail review with regard to Monaghan that he intends to progress; and the status of same. [63068/25] ",
+      "date": "2025-11-18",
+      "by": {
+        "showAs": "Cathy Bennett",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Cathy-Bennett.D.2024-11-29",
+        "memberCode": "Cathy-Bennett.D.2024-11-29"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-18",
+    "question": {
+      "house": {
+        "houseNo": "34",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Transport",
+        "roleType": null
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_43",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/dbsect_43",
+        "showAs": "Public Transport",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/mul@/dbsect_43.xml"
+          }
+        }
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-18/pq_87",
+      "questionType": "written",
+      "questionNumber": 87,
+      "showAs": " 87. Deputy Séamus McGrath asked the Minister for Transport to examine the transportation connectivity to Cork Airport, and the way in which this can be enhanced by sustainable investment, in view of the request from the airport for a 24-hour bus service to be introduced as soon as possible. [63383/25] ",
+      "date": "2025-11-18",
+      "by": {
+        "showAs": "Séamus McGrath",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Séamus-McGrath.D.2024-11-29",
+        "memberCode": "Séamus-McGrath.D.2024-11-29"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-18",
+    "question": {
+      "house": {
+        "houseNo": "34",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Transport",
+        "roleType": null
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_44",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/dbsect_44",
+        "showAs": "Taxi Regulations",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/mul@/dbsect_44.xml"
+          }
+        }
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-18/pq_88",
+      "questionType": "written",
+      "questionNumber": 88,
+      "showAs": " 88. Deputy Pa Daly asked the Minister for Transport if he is aware of the concerns regarding the introduction of a taxi fixed price; if he has conducted a review into whether it complies with the Taxi Regulation Act 2013 and the Taxi Regulation (Maximum Fares) Order 2024; and if he will make a statement on the matter. [63062/25] ",
+      "date": "2025-11-18",
+      "by": {
+        "showAs": "Pa Daly",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Pa-Daly.D.2020-02-08",
+        "memberCode": "Pa-Daly.D.2020-02-08"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-18",
+    "question": {
+      "house": {
+        "houseNo": "34",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Transport",
+        "roleType": null
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_45",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/dbsect_45",
+        "showAs": "Road Network",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/mul@/dbsect_45.xml"
+          }
+        }
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-18/pq_89",
+      "questionType": "written",
+      "questionNumber": 89,
+      "showAs": " 89. Deputy Pádraig Mac Lochlainn asked the Minister for Transport when he will meet with the elected members of the Letterkenny Municipal District, Donegal County Council to discuss the urgent need to fund a number of relief roads and by passes around the town of Letterkenny to address the serious traffic delays at certain times of the day, every day. [63484/25] ",
+      "date": "2025-11-18",
+      "by": {
+        "showAs": "Pádraig Mac Lochlainn",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Pádraig-MacLochlainn.D.2011-03-09",
+        "memberCode": "Pádraig-MacLochlainn.D.2011-03-09"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-18",
+    "question": {
+      "house": {
+        "houseNo": "34",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Transport",
+        "roleType": null
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_46",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/dbsect_46",
+        "showAs": "Coast Guard Service",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/mul@/dbsect_46.xml"
+          }
+        }
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-18/pq_90",
+      "questionType": "written",
+      "questionNumber": 90,
+      "showAs": " 90. Deputy Pa Daly asked the Minister for Transport the measures he is taking to address the concerns in relation to the unsafe working hours arrangements of Coast Guard helicopter crews; and if he will make a statement on the matter. [63061/25] ",
+      "date": "2025-11-18",
+      "by": {
+        "showAs": "Pa Daly",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Pa-Daly.D.2020-02-08",
+        "memberCode": "Pa-Daly.D.2020-02-08"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-18",
+    "question": {
+      "house": {
+        "houseNo": "34",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Transport",
+        "roleType": null
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_48",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/dbsect_48",
+        "showAs": "Road Signage",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/mul@/dbsect_48.xml"
+          }
+        }
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-18/pq_91",
+      "questionType": "written",
+      "questionNumber": 91,
+      "showAs": " 91. Deputy Alan Kelly asked the Minister for Transport if he will ensure that there is consistency in signage on motorways for tourist attractions for centres (details supplied). [54624/25] ",
+      "date": "2025-11-18",
+      "by": {
+        "showAs": "Alan Kelly",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Alan-Kelly.S.2007-07-23",
+        "memberCode": "Alan-Kelly.S.2007-07-23"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-18",
+    "question": {
+      "house": {
+        "houseNo": "34",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Transport",
+        "roleType": null
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_49",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/dbsect_49",
+        "showAs": "Road Tolls",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/mul@/dbsect_49.xml"
+          }
+        }
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-18/pq_92",
+      "questionType": "written",
+      "questionNumber": 92,
+      "showAs": " 92. Deputy Pádraig O'Sullivan asked the Minister for Transport when the current contract for the toll in Watergrasshill, County Cork is due to expire; the engagement that has taken place with regard to extending the contract; the amount raised via toll roads nationwide since 2020 to date; the way in which the income was allocated; if further information can be provided on expenditure, by year and, by road, in tabular form; and if he will make a statement on the matter. [63174/25] ",
+      "date": "2025-11-18",
+      "by": {
+        "showAs": "Pádraig O'Sullivan",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Pádraig-O'Sullivan.D.2019-11-29",
+        "memberCode": "Pádraig-O'Sullivan.D.2019-11-29"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-18",
+    "question": {
+      "house": {
+        "houseNo": "34",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Transport",
+        "roleType": null
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_50",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/dbsect_50",
+        "showAs": "Rail Network",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/mul@/dbsect_50.xml"
+          }
+        }
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-18/pq_93",
+      "questionType": "written",
+      "questionNumber": 93,
+      "showAs": " 93. Deputy James O'Connor asked the Minister for Transport if he will take urgent action on the lack of train carriages available for morning services from Midleton train station to Kent Station during rush hour; if his Department is aware of the volume of passengers who take those morning commuter trips each weekday morning; if his Department will ensure that extra carriages are added to this route expeditiously; and if he will make a statement on the matter. [63496/25] ",
+      "date": "2025-11-18",
+      "by": {
+        "showAs": "James O'Connor",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/James-O'Connor.D.2020-02-08",
+        "memberCode": "James-O'Connor.D.2020-02-08"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-18",
+    "question": {
+      "house": {
+        "houseNo": "34",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Transport",
+        "roleType": null
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_51",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/dbsect_51",
+        "showAs": "Greenways Provision",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/mul@/dbsect_51.xml"
+          }
+        }
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-18/pq_94",
+      "questionType": "written",
+      "questionNumber": 94,
+      "showAs": " 94. Deputy Rose Conway-Walsh asked the Minister for Transport if he will take CPOs off the table in relation to greenways; if he will engage in meaningful consultation with landowners; and if he will make a statement on the matter. [63515/25] ",
+      "date": "2025-11-18",
+      "by": {
+        "showAs": "Rose Conway-Walsh",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Rose-Conway-Walsh.S.2016-04-25",
+        "memberCode": "Rose-Conway-Walsh.S.2016-04-25"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-18",
+    "question": {
+      "house": {
+        "houseNo": "34",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Transport",
+        "roleType": null
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_52",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/dbsect_52",
+        "showAs": "Rail Network",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/mul@/dbsect_52.xml"
+          }
+        }
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-18/pq_95",
+      "questionType": "written",
+      "questionNumber": 95,
+      "showAs": " 95. Deputy Paul Donnelly asked the Minister for Transport if the issue of elevator services being regularly out-of-order at all stations will be examined (details supplied). [63558/25] ",
+      "date": "2025-11-18",
+      "by": {
+        "showAs": "Paul Donnelly",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Donnelly.D.2020-02-08",
+        "memberCode": "Paul-Donnelly.D.2020-02-08"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-18",
+    "question": {
+      "house": {
+        "houseNo": "34",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Transport",
+        "roleType": null
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_53",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/dbsect_53",
+        "showAs": "Public Transport",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/mul@/dbsect_53.xml"
+          }
+        }
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-18/pq_96",
+      "questionType": "written",
+      "questionNumber": 96,
+      "showAs": " 96. Deputy Naoise Ó Cearúil asked the Minister for Transport the timeline for the establishment and implementation of the proposed transport security force, given its importance in improving passenger safety; and if he will make a statement on the matter. [63500/25] ",
+      "date": "2025-11-18",
+      "by": {
+        "showAs": "Naoise Ó Cearúil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Naoise-Ó-Cearúil.D.2024-11-29",
+        "memberCode": "Naoise-Ó-Cearúil.D.2024-11-29"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-18",
+    "question": {
+      "house": {
+        "houseNo": "34",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Transport",
+        "roleType": null
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_54",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/dbsect_54",
+        "showAs": "Bus Services",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/mul@/dbsect_54.xml"
+          }
+        }
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-18/pq_97",
+      "questionType": "written",
+      "questionNumber": 97,
+      "showAs": " 97. Deputy Paul Murphy asked the Minister for Transport if he will review the new F-Spine routes and instruct the NTA to make the changes necessary in order that journeys are not more indirect and do not take much longer than the previous routes; and if he will make a statement on the matter. [63318/25] ",
+      "date": "2025-11-18",
+      "by": {
+        "showAs": "Paul Murphy",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Murphy.D.2014-10-10",
+        "memberCode": "Paul-Murphy.D.2014-10-10"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-18",
+    "question": {
+      "house": {
+        "houseNo": "34",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Transport",
+        "roleType": null
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_55",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/dbsect_55",
+        "showAs": "Road Projects",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/mul@/dbsect_55.xml"
+          }
+        }
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-18/pq_98",
+      "questionType": "written",
+      "questionNumber": 98,
+      "showAs": " 98. Deputy Aindrias Moynihan asked the Minister for Transport for urgent improvement and safety works to be carried out on the N22 road section east of Macroom to Ballincollig; if the high road incident figures on this stretch of road will be considered on advancing urgent improvement and safety works for this road; and if he will make a statement on the matter. [63447/25] ",
+      "date": "2025-11-18",
+      "by": {
+        "showAs": "Aindrias Moynihan",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Aindrias-Moynihan.D.2016-10-03",
+        "memberCode": "Aindrias-Moynihan.D.2016-10-03"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-18",
+    "question": {
+      "house": {
+        "houseNo": "34",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Transport",
+        "roleType": null
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_56",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/dbsect_56",
+        "showAs": "Bus Services",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/mul@/dbsect_56.xml"
+          }
+        }
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-18/pq_99",
+      "questionType": "written",
+      "questionNumber": 99,
+      "showAs": " 99. Deputy Mark Ward asked the Minister for Transport the amount in fines issued to a bus company (details supplied) and Dublin Bus in 20224 and 2025; the consequences of these fines on route allocation; and if he will make a statement on the matter. [63458/25] ",
+      "date": "2025-11-18",
+      "by": {
+        "showAs": "Mark Ward",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Mark-Ward.D.2019-11-29",
+        "memberCode": "Mark-Ward.D.2019-11-29"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-18",
+    "question": {
+      "house": {
+        "houseNo": "34",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Transport",
+        "roleType": null
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_57",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/dbsect_57",
+        "showAs": "Road Projects",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/mul@/dbsect_57.xml"
+          }
+        }
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-18/pq_100",
+      "questionType": "written",
+      "questionNumber": 100,
+      "showAs": " 100. Deputy James O'Connor asked the Minister for Transport the status of  the appointment of a design consultant for the N25 Midleton to Youghal scheme; the timeline for the appointment if not already appointed; if his Department has outlined the importance of this project to the southern region for persons who travel from Rosslare to Cork each day; and if he will make a statement on the matter. [63495/25] ",
+      "date": "2025-11-18",
+      "by": {
+        "showAs": "James O'Connor",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/James-O'Connor.D.2020-02-08",
+        "memberCode": "James-O'Connor.D.2020-02-08"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-18",
+    "question": {
+      "house": {
+        "houseNo": "34",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Transport",
+        "roleType": null
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_58",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/dbsect_58",
+        "showAs": "Bus Services",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/mul@/dbsect_58.xml"
+          }
+        }
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-18/pq_101",
+      "questionType": "written",
+      "questionNumber": 101,
+      "showAs": " 101. Deputy Aindrias Moynihan asked the Minister for Transport the-up-to-date position on the implementation of the changes to be rolled out to the current 233 bus service; the route and frequency for implementation under the new services 233N, 233C and 233S; and if he will make a statement on the matter. [63446/25] ",
+      "date": "2025-11-18",
+      "by": {
+        "showAs": "Aindrias Moynihan",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Aindrias-Moynihan.D.2016-10-03",
+        "memberCode": "Aindrias-Moynihan.D.2016-10-03"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-18",
+    "question": {
+      "house": {
+        "houseNo": "34",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Transport",
+        "roleType": null
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_59",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/dbsect_59",
+        "showAs": "Road Projects",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/mul@/dbsect_59.xml"
+          }
+        }
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-18/pq_102",
+      "questionType": "written",
+      "questionNumber": 102,
+      "showAs": " 102. Deputy Tony McCormack asked the Minister for Transport the current position regarding the development of the N52 Link Road in County Offaly; the way in which the project will improve connectivity and safety in the midlands region; and if he will make a statement on the matter. [63387/25] ",
+      "date": "2025-11-18",
+      "by": {
+        "showAs": "Tony McCormack",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tony-McCormack.D.2024-11-29",
+        "memberCode": "Tony-McCormack.D.2024-11-29"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-18",
+    "question": {
+      "house": {
+        "houseNo": "34",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Transport",
+        "roleType": null
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_60",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/dbsect_60",
+        "showAs": "Bus Services",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/mul@/dbsect_60.xml"
+          }
+        }
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-18/pq_103",
+      "questionType": "written",
+      "questionNumber": 103,
+      "showAs": " 103. Deputy Pa Daly asked the Minister for Transport if he has met with the NTA to address the 6,000 complaints submitted to the NTA in relation to cancelled, delayed or so called ghost buses; and if he will make a statement on the matter. [63063/25] ",
+      "date": "2025-11-18",
+      "by": {
+        "showAs": "Pa Daly",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Pa-Daly.D.2020-02-08",
+        "memberCode": "Pa-Daly.D.2020-02-08"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-18",
+    "question": {
+      "house": {
+        "houseNo": "34",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Transport",
+        "roleType": null
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_61",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/dbsect_61",
+        "showAs": "Bus Services",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/mul@/dbsect_61.xml"
+          }
+        }
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-18/pq_104",
+      "questionType": "written",
+      "questionNumber": 104,
+      "showAs": " 104. Deputy Ruairí Ó Murchú asked the Minister for Transport the way in which wheelchair users and others with limited mobility can be better accommodated at bus stops; the way in which the need for these stops can be highlighted to and facilitated by those responsible for their provision; and if he will make a statement on the matter. [63381/25] ",
+      "date": "2025-11-18",
+      "by": {
+        "showAs": "Ruairí Ó Murchú",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruairí-Ó-Murchú.D.2020-02-08",
+        "memberCode": "Ruairí-Ó-Murchú.D.2020-02-08"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-18",
+    "question": {
+      "house": {
+        "houseNo": "34",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Transport",
+        "roleType": null
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_62",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/dbsect_62",
+        "showAs": "Bus Services",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/mul@/dbsect_62.xml"
+          }
+        }
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-18/pq_105",
+      "questionType": "written",
+      "questionNumber": 105,
+      "showAs": " 105. Deputy Cathal Crowe asked the Minister for Transport for an update on the implementation of the Programme for Government commitment to expand bus services in cities and continue to strengthen local urban transport in towns. [63510/25] ",
+      "date": "2025-11-18",
+      "by": {
+        "showAs": "Cathal Crowe",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Cathal-Crowe.D.2020-02-08",
+        "memberCode": "Cathal-Crowe.D.2020-02-08"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-18",
+    "question": {
+      "house": {
+        "houseNo": "34",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Transport",
+        "roleType": null
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_63",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/dbsect_63",
+        "showAs": "Rail Network",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/mul@/dbsect_63.xml"
+          }
+        }
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-18/pq_106",
+      "questionType": "written",
+      "questionNumber": 106,
+      "showAs": " 106. Deputy Malcolm Byrne asked the Minister for Transport the action his Department is taking to address the growing problem of overcrowding and lack of services on the Dublin to Rosslare rail line; and if he will make a statement on the matter. [63265/25] ",
+      "date": "2025-11-18",
+      "by": {
+        "showAs": "Malcolm Byrne",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Malcolm-Byrne.D.2019-11-29",
+        "memberCode": "Malcolm-Byrne.D.2019-11-29"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-18",
+    "question": {
+      "house": {
+        "houseNo": "34",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Transport",
+        "roleType": null
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_64",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/dbsect_64",
+        "showAs": "Public Transport",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/mul@/dbsect_64.xml"
+          }
+        }
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-18/pq_107",
+      "questionType": "written",
+      "questionNumber": 107,
+      "showAs": " 107. Deputy Cathal Crowe asked the Minister for Transport for an update on the work his Department is carrying out to establish a dedicated transport policing force. [63509/25] ",
+      "date": "2025-11-18",
+      "by": {
+        "showAs": "Cathal Crowe",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Cathal-Crowe.D.2020-02-08",
+        "memberCode": "Cathal-Crowe.D.2020-02-08"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-18",
+    "question": {
+      "house": {
+        "houseNo": "34",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Transport",
+        "roleType": null
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_65",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/dbsect_65",
+        "showAs": "Driver Licences",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/mul@/dbsect_65.xml"
+          }
+        }
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-18/pq_108",
+      "questionType": "written",
+      "questionNumber": 108,
+      "showAs": " 108. Deputy Michael Murphy asked the Minister for Transport his  plans to address the current loophole in the licensing system which allows learner drivers to repeatedly renew their learner permits without ever sitting a driving test; if  he plans  to legislate to require learner drivers to sit a test after their third permit, as recommended by PARC road safety group, and raised before the Oireachtas Joint Committee on Transport and Communications on 8 October 2025; the timeline for the introduction of such legislation in order to close this loophole and strengthen road safety compliance; and if he will make a statement on the matter. [60927/25] ",
+      "date": "2025-11-18",
+      "by": {
+        "showAs": "Michael Murphy",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Michael-Murphy.D.2024-11-29",
+        "memberCode": "Michael-Murphy.D.2024-11-29"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-18",
+    "question": {
+      "house": {
+        "houseNo": "34",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Transport",
+        "roleType": null
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_66",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/dbsect_66",
+        "showAs": "Public Transport",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/mul@/dbsect_66.xml"
+          }
+        }
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-18/pq_109",
+      "questionType": "written",
+      "questionNumber": 109,
+      "showAs": " 109. Deputy Keira Keogh asked the Minister for Transport if there are plans to expand the frequency of Local Link and Bus Éireann services coming in and out of Mayo, particularly during mornings and weekends; and if he will make a statement on the matter. [63483/25] ",
+      "date": "2025-11-18",
+      "by": {
+        "showAs": "Keira Keogh",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Keira-Keogh.D.2024-11-29",
+        "memberCode": "Keira-Keogh.D.2024-11-29"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-18",
+    "question": {
+      "house": {
+        "houseNo": "34",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Transport",
+        "roleType": null
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_67",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/dbsect_67",
+        "showAs": "Road Projects",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/mul@/dbsect_67.xml"
+          }
+        }
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-18/pq_110",
+      "questionType": "written",
+      "questionNumber": 110,
+      "showAs": " 110. Deputy Noel McCarthy asked the Minister for Transport if he will report on the progression of the proposed upgrade of the R624 access road to Cobh and the Great Island in east Cork; and if he will make a statement on the matter. [63176/25] ",
+      "date": "2025-11-18",
+      "by": {
+        "showAs": "Noel McCarthy",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Noel-McCarthy.D.2024-11-29",
+        "memberCode": "Noel-McCarthy.D.2024-11-29"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-18",
+    "question": {
+      "house": {
+        "houseNo": "34",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Transport",
+        "roleType": null
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_69",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/dbsect_69",
+        "showAs": "Rail Network",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/mul@/dbsect_69.xml"
+          }
+        }
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-18/pq_111",
+      "questionType": "written",
+      "questionNumber": 111,
+      "showAs": " 111. Deputy Edward Timmins asked the Minister for Transport the breakdown of the planned investment on the skeleton train service from Rosslare to Dublin; and if he will make a statement on the matter. [63504/25] ",
+      "date": "2025-11-18",
+      "by": {
+        "showAs": "Edward Timmins",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Edward-Timmins.D.2024-11-29",
+        "memberCode": "Edward-Timmins.D.2024-11-29"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-18",
+    "question": {
+      "house": {
+        "houseNo": "34",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Transport",
+        "roleType": null
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_70",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/dbsect_70",
+        "showAs": "Public Transport",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/mul@/dbsect_70.xml"
+          }
+        }
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-18/pq_112",
+      "questionType": "written",
+      "questionNumber": 112,
+      "showAs": " 112. Deputy Barry Heneghan asked the Minister for Transport the communication and public engagement measures that have been undertaken by Iarnród Éireann in the Donaghmede area in relation to the DART+ Coastal North project, particularly around a station (details supplied), in view of reports from an organisation and local residents that no direct updates or correspondence have been received; and if he will make a statement on the matter. [63445/25] ",
+      "date": "2025-11-18",
+      "by": {
+        "showAs": "Barry Heneghan",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Barry-Heneghan.D.2024-11-29",
+        "memberCode": "Barry-Heneghan.D.2024-11-29"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-18",
+    "question": {
+      "house": {
+        "houseNo": "34",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Transport",
+        "roleType": null
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_71",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/dbsect_71",
+        "showAs": "Rail Network",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/mul@/dbsect_71.xml"
+          }
+        }
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-18/pq_113",
+      "questionType": "written",
+      "questionNumber": 113,
+      "showAs": " 113. Deputy Catherine Callaghan asked the Minister for Transport if he will acknowledge the need for additional return rail services from Dublin to Carlow and Kilkenny; if he plans to address the limitations of the current service for people living in Carlow and Kilkenny; and if he will make a statement on the matter. [63516/25] ",
+      "date": "2025-11-18",
+      "by": {
+        "showAs": "Catherine Callaghan",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Catherine-Callaghan.D.2024-11-29",
+        "memberCode": "Catherine-Callaghan.D.2024-11-29"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-18",
+    "question": {
+      "house": {
+        "houseNo": "34",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Transport",
+        "roleType": null
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_72",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/dbsect_72",
+        "showAs": "Rail Network",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/mul@/dbsect_72.xml"
+          }
+        }
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-18/pq_114",
+      "questionType": "written",
+      "questionNumber": 114,
+      "showAs": " 114. Deputy Liam Quaide asked the Minister for Transport his plans to reopen the Midleton to Youghal railway line; and if he will make a statement on the matter. [63272/25] ",
+      "date": "2025-11-18",
+      "by": {
+        "showAs": "Liam Quaide",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Liam-Quaide.D.2024-11-29",
+        "memberCode": "Liam-Quaide.D.2024-11-29"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-18",
+    "question": {
+      "house": {
+        "houseNo": "34",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Transport",
+        "roleType": null
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_73",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/dbsect_73",
+        "showAs": "Road Projects",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/mul@/dbsect_73.xml"
+          }
+        }
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-18/pq_115",
+      "questionType": "written",
+      "questionNumber": 115,
+      "showAs": " 115. Deputy Peter 'Chap' Cleere asked the Minister for Transport for an update on works on N24/N25, and on State investment in the project. [63290/25] ",
+      "date": "2025-11-18",
+      "by": {
+        "showAs": "Peter 'Chap' Cleere",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Peter-'Chap'-Cleere.D.2024-11-29",
+        "memberCode": "Peter-'Chap'-Cleere.D.2024-11-29"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-18",
+    "question": {
+      "house": {
+        "houseNo": "34",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Transport",
+        "roleType": null
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_74",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/dbsect_74",
+        "showAs": "Road Tolls",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/mul@/dbsect_74.xml"
+          }
+        }
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-18/pq_116",
+      "questionType": "written",
+      "questionNumber": 116,
+      "showAs": " 116. Deputy Peadar Tóibín asked the Minister for Transport the total number of toll bridges in the State; and if he will outline when each was built; and the cost to the State. [63521/25] ",
+      "date": "2025-11-18",
+      "by": {
+        "showAs": "Peadar Tóibín",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Peadar-Tóibín.D.2011-03-09",
+        "memberCode": "Peadar-Tóibín.D.2011-03-09"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-18",
+    "question": {
+      "house": {
+        "houseNo": "34",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Transport",
+        "roleType": null
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_75",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/dbsect_75",
+        "showAs": "Traffic Management",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/mul@/dbsect_75.xml"
+          }
+        }
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-18/pq_117",
+      "questionType": "written",
+      "questionNumber": 117,
+      "showAs": " 117. Deputy Malcolm Byrne asked the Minister for Transport the action his Department is taking to dealing with the increasing levels of traffic congestion on the M11/N11; and if he will make a statement on the matter. [63266/25] ",
+      "date": "2025-11-18",
+      "by": {
+        "showAs": "Malcolm Byrne",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Malcolm-Byrne.D.2019-11-29",
+        "memberCode": "Malcolm-Byrne.D.2019-11-29"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-18",
+    "question": {
+      "house": {
+        "houseNo": "34",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Transport",
+        "roleType": null
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_76",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/dbsect_76",
+        "showAs": "Bus Services",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/mul@/dbsect_76.xml"
+          }
+        }
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-18/pq_118",
+      "questionType": "written",
+      "questionNumber": 118,
+      "showAs": " 118. Deputy John Clendennen asked the Minister for Transport the total investment in bus services in each county in each of the years since 2016; and if he will make a statement on the matter. [63405/25] ",
+      "date": "2025-11-18",
+      "by": {
+        "showAs": "John Clendennen",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/John-Clendennen.D.2024-11-29",
+        "memberCode": "John-Clendennen.D.2024-11-29"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-18",
+    "question": {
+      "house": {
+        "houseNo": "34",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Transport",
+        "roleType": null
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_77",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/dbsect_77",
+        "showAs": "Bus Services",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/mul@/dbsect_77.xml"
+          }
+        }
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-18/pq_119",
+      "questionType": "written",
+      "questionNumber": 119,
+      "showAs": " 119. Deputy Paul Donnelly asked the Minister for Transport if provision will be made to extend early morning bus services   at weekends (details supplied). [63557/25] ",
+      "date": "2025-11-18",
+      "by": {
+        "showAs": "Paul Donnelly",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Donnelly.D.2020-02-08",
+        "memberCode": "Paul-Donnelly.D.2020-02-08"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-18",
+    "question": {
+      "house": {
+        "houseNo": "34",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Transport",
+        "roleType": null
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_78",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/dbsect_78",
+        "showAs": "Bus Services",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/mul@/dbsect_78.xml"
+          }
+        }
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-18/pq_120",
+      "questionType": "written",
+      "questionNumber": 120,
+      "showAs": " 120. Deputy Mark Ward asked the Minister for Transport his views on the number of cancellations by  a bus company (details supplied) and Dublin Bus buses in the Dublin mid-west constituency; the efforts his Department is taking to address this level of cancelation; and if he will make a statement on the matter. [63457/25] ",
+      "date": "2025-11-18",
+      "by": {
+        "showAs": "Mark Ward",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Mark-Ward.D.2019-11-29",
+        "memberCode": "Mark-Ward.D.2019-11-29"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-18",
+    "question": {
+      "house": {
+        "houseNo": "34",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Transport",
+        "roleType": null
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_79",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/dbsect_79",
+        "showAs": "Bus Services",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/mul@/dbsect_79.xml"
+          }
+        }
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-18/pq_121",
+      "questionType": "written",
+      "questionNumber": 121,
+      "showAs": " 121. Deputy Thomas Gould asked the Minister for Transport if he has been made aware of escalating issues with punctuality and reliability in Cork’s bus service. [63070/25] ",
+      "date": "2025-11-18",
+      "by": {
+        "showAs": "Thomas Gould",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Thomas-Gould.D.2020-02-08",
+        "memberCode": "Thomas-Gould.D.2020-02-08"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-18",
+    "question": {
+      "house": {
+        "houseNo": "34",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Transport",
+        "roleType": null
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_80",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/dbsect_80",
+        "showAs": "Public Transport",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/mul@/dbsect_80.xml"
+          }
+        }
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-18/pq_122",
+      "questionType": "written",
+      "questionNumber": 122,
+      "showAs": " 122. Deputy Keira Keogh asked the Minister for Transport the measures his Department is taking to ensure that disabled passengers in rural areas, such as Mayo, are provided with equitable access to transport services; and if he will make a statement on the matter. [63482/25] ",
+      "date": "2025-11-18",
+      "by": {
+        "showAs": "Keira Keogh",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Keira-Keogh.D.2024-11-29",
+        "memberCode": "Keira-Keogh.D.2024-11-29"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-18",
+    "question": {
+      "house": {
+        "houseNo": "34",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Transport",
+        "roleType": null
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_81",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/dbsect_81",
+        "showAs": "Taxi Regulations",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/mul@/dbsect_81.xml"
+          }
+        }
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-18/pq_123",
+      "questionType": "written",
+      "questionNumber": 123,
+      "showAs": " 123. Deputy Mairéad Farrell asked the Minister for Transport if his attention has been drawn to the move by a company (details supplied) to fixed price fares, which is being used as a tool to undermine competition in the taxi market; the way in which this will impact taxi drivers in Galway; and if he will make a statement on the matter. [63329/25] ",
+      "date": "2025-11-18",
+      "by": {
+        "showAs": "Mairéad Farrell",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Mairéad-Farrell.D.2020-02-08",
+        "memberCode": "Mairéad-Farrell.D.2020-02-08"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-18",
+    "question": {
+      "house": {
+        "houseNo": "34",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Transport",
+        "roleType": null
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_59",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/dbsect_59",
+        "showAs": "Road Projects",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/mul@/dbsect_59.xml"
+          }
+        }
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-18/pq_124",
+      "questionType": "written",
+      "questionNumber": 124,
+      "showAs": " 124. Deputy Tony McCormack asked the Minister for Transport the current status of the proposed N52 Link Road project in County Offaly; the stage the project is at within the Transport Infrastructure Ireland delivery pipeline; and if he will make a statement on the matter. [63386/25] ",
+      "date": "2025-11-18",
+      "by": {
+        "showAs": "Tony McCormack",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tony-McCormack.D.2024-11-29",
+        "memberCode": "Tony-McCormack.D.2024-11-29"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-18",
+    "question": {
+      "house": {
+        "houseNo": "34",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Transport",
+        "roleType": null
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_82",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/dbsect_82",
+        "showAs": "Road Projects",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/mul@/dbsect_82.xml"
+          }
+        }
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-18/pq_125",
+      "questionType": "written",
+      "questionNumber": 125,
+      "showAs": " 125. Deputy Noel McCarthy asked the Minister for Transport if his Department will  consider  providing funding for the upgrade of the N25 route between Carrigtwohill, Midleton and Youghal in Cork east; and if he will make a statement on the matter. [63175/25] ",
+      "date": "2025-11-18",
+      "by": {
+        "showAs": "Noel McCarthy",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Noel-McCarthy.D.2024-11-29",
+        "memberCode": "Noel-McCarthy.D.2024-11-29"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-18",
+    "question": {
+      "house": {
+        "houseNo": "34",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Transport",
+        "roleType": null
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_83",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/dbsect_83",
+        "showAs": "Public Transport",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/mul@/dbsect_83.xml"
+          }
+        }
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-18/pq_126",
+      "questionType": "written",
+      "questionNumber": 126,
+      "showAs": " 126. Deputy Paul McAuliffe asked the Minister for Transport to provide an update on the current phase of the Luas Finglas extension project; the projected funding amounts for 2026, 2027 and 2028; the indicative timeline on the commencement of construction given the recent planning approval by An Coimisiún Pleanála; and if he will make a statement on the matter. [63324/25] ",
+      "date": "2025-11-18",
+      "by": {
+        "showAs": "Paul McAuliffe",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-McAuliffe.D.2020-02-08",
+        "memberCode": "Paul-McAuliffe.D.2020-02-08"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-18",
+    "question": {
+      "house": {
+        "houseNo": "34",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Transport",
+        "roleType": null
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_84",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/dbsect_84",
+        "showAs": "Road Projects",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/mul@/dbsect_84.xml"
+          }
+        }
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-18/pq_127",
+      "questionType": "written",
+      "questionNumber": 127,
+      "showAs": " 127. Deputy William Aird asked the Minister for Transport to include as a priority, the Portlaoise Northern Orbital Route and the Mountmellick By-Pass in the revised National Development Plan; and if he will make a statement on the matter. [62688/25] ",
+      "date": "2025-11-18",
+      "by": {
+        "showAs": "William Aird",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/William-Aird.D.2024-11-29",
+        "memberCode": "William-Aird.D.2024-11-29"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-18",
+    "question": {
+      "house": {
+        "houseNo": "34",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Transport",
+        "roleType": null
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_85",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/dbsect_85",
+        "showAs": "Bus Services",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/mul@/dbsect_85.xml"
+          }
+        }
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-18/pq_128",
+      "questionType": "written",
+      "questionNumber": 128,
+      "showAs": " 128. Deputy Naoise Ó Cearúil asked the Minister for Transport his plans to address service reliability on bus routes in Kildare north, given repeated last-minute cancellations and ghost buses; and if he will make a statement on the matter. [63499/25] ",
+      "date": "2025-11-18",
+      "by": {
+        "showAs": "Naoise Ó Cearúil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Naoise-Ó-Cearúil.D.2024-11-29",
+        "memberCode": "Naoise-Ó-Cearúil.D.2024-11-29"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-18",
+    "question": {
+      "house": {
+        "houseNo": "34",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Transport",
+        "roleType": null
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_86",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/dbsect_86",
+        "showAs": "Public Transport",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/mul@/dbsect_86.xml"
+          }
+        }
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-18/pq_129",
+      "questionType": "written",
+      "questionNumber": 129,
+      "showAs": " 129. Deputy Darren O'Rourke asked the Minister for Transport for an update on the rollout of Connecting Ireland in County Meath; and if he will make a statement on the matter. [63322/25] ",
+      "date": "2025-11-18",
+      "by": {
+        "showAs": "Darren O'Rourke",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Darren-O'Rourke.D.2020-02-08",
+        "memberCode": "Darren-O'Rourke.D.2020-02-08"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-18",
+    "question": {
+      "house": {
+        "houseNo": "34",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Transport",
+        "roleType": null
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_87",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/dbsect_87",
+        "showAs": "Public Transport",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/mul@/dbsect_87.xml"
+          }
+        }
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-18/pq_130",
+      "questionType": "written",
+      "questionNumber": 130,
+      "showAs": " 130. Deputy Peadar Tóibín asked the Minister for Transport the steps his Department is taking to improve public transport systems in County Meath; and if he will make a statement on the matter. [63520/25] ",
+      "date": "2025-11-18",
+      "by": {
+        "showAs": "Peadar Tóibín",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Peadar-Tóibín.D.2011-03-09",
+        "memberCode": "Peadar-Tóibín.D.2011-03-09"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-18",
+    "question": {
+      "house": {
+        "houseNo": "34",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Transport",
+        "roleType": null
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_67",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/dbsect_67",
+        "showAs": "Road Projects",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/mul@/dbsect_67.xml"
+          }
+        }
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-18/pq_313",
+      "questionType": "written",
+      "questionNumber": 313,
+      "showAs": " 313. Deputy James O'Connor asked the Minister for Transport the status of the proposed R624 access road to connect Cobh and the Great Island to Cork following a meeting held with An Taoiseach and the Minister for Public Expenditure, National Development Plan Delivery and Reform and Minister for Transport in October 2021; and if he will make a statement on the matter. [63755/25] ",
+      "date": "2025-11-18",
+      "by": {
+        "showAs": "James O'Connor",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/James-O'Connor.D.2020-02-08",
+        "memberCode": "James-O'Connor.D.2020-02-08"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-18",
+    "question": {
+      "house": {
+        "houseNo": "34",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Education",
+        "roleType": null
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_89",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/dbsect_89",
+        "showAs": "Departmental Strategies",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/mul@/dbsect_89.xml"
+          }
+        }
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-18/pq_431",
+      "questionType": "written",
+      "questionNumber": 431,
+      "showAs": " 431. Deputy Erin McGreehan asked the Minister for Education and Youth if additional resourcing, financial and staffing, will be allocated to ensure that inclusive education measures are implemented within defined timelines under the National Human Rights Strategy for Disabled People. [62884/25] ",
+      "date": "2025-11-18",
+      "by": {
+        "showAs": "Erin McGreehan",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Erin-McGreehan.S.2020-06-29",
+        "memberCode": "Erin-McGreehan.S.2020-06-29"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-18",
+    "question": {
+      "house": {
+        "houseNo": "34",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Education",
+        "roleType": null
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_90",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/dbsect_90",
+        "showAs": "School Accommodation",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/mul@/dbsect_90.xml"
+          }
+        }
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-18/pq_432",
+      "questionType": "written",
+      "questionNumber": 432,
+      "showAs": " 432. Deputy Tom Brabazon asked the Minister for Education and Youth when an additional special class will be sanctioned at a school (details supplied); and if this sanction will be expedited given the school has identified the need for an additional special class. [62885/25] ",
+      "date": "2025-11-18",
+      "by": {
+        "showAs": "Tom Brabazon",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tom-Brabazon.D.2024-11-29",
+        "memberCode": "Tom-Brabazon.D.2024-11-29"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-18",
+    "question": {
+      "house": {
+        "houseNo": "34",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Education",
+        "roleType": null
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_91",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/dbsect_91",
+        "showAs": "School Staff",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/mul@/dbsect_91.xml"
+          }
+        }
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-18/pq_433",
+      "questionType": "written",
+      "questionNumber": 433,
+      "showAs": " 433. Deputy Matt Carthy asked the Minister for Education and Youth the reason a school (details supplied) has been unsuccessful in securing additional SNA allocation; if she will ensure that this decision is reviewed with a view to increasing the SNA allocation as a matter of urgency; and if she will make a statement on the matter. [62899/25] ",
+      "date": "2025-11-18",
+      "by": {
+        "showAs": "Matt Carthy",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Matt-Carthy.D.2020-02-08",
+        "memberCode": "Matt-Carthy.D.2020-02-08"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-18",
+    "question": {
+      "house": {
+        "houseNo": "34",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Education",
+        "roleType": null
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_91",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/dbsect_91",
+        "showAs": "School Staff",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/mul@/dbsect_91.xml"
+          }
+        }
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-18/pq_434",
+      "questionType": "written",
+      "questionNumber": 434,
+      "showAs": " 434. Deputy Matt Carthy asked the Minister for Education and Youth the status of the application from a school (details supplied) for emergency special classroom sanction considering the urgent need for a dedicated special classroom; if she will ensure approval for this request so that the additional classroom will be operational for the 2026-2027 academic year, or sooner; and if she will make a statement on the matter. [62900/25] ",
+      "date": "2025-11-18",
+      "by": {
+        "showAs": "Matt Carthy",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Matt-Carthy.D.2020-02-08",
+        "memberCode": "Matt-Carthy.D.2020-02-08"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-18",
+    "question": {
+      "house": {
+        "houseNo": "34",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Education",
+        "roleType": null
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_91",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/dbsect_91",
+        "showAs": "School Staff",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/mul@/dbsect_91.xml"
+          }
+        }
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-18/pq_435",
+      "questionType": "written",
+      "questionNumber": 435,
+      "showAs": " 435. Deputy Matt Carthy asked the Minister for Education and Youth the number of Church of Ireland schools in the diocese of Kilmore, Elphin and Ardagh; the number therein that currently have a special classroom; the number therein that have applied for a special classroom; if there are proposals to grant any remaining Church of Ireland schools in the same diocese a special classroom for 2026; and if she will make a statement on the matter. [62901/25] ",
+      "date": "2025-11-18",
+      "by": {
+        "showAs": "Matt Carthy",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Matt-Carthy.D.2020-02-08",
+        "memberCode": "Matt-Carthy.D.2020-02-08"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-18",
+    "question": {
+      "house": {
+        "houseNo": "34",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Education",
+        "roleType": null
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_89",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/dbsect_89",
+        "showAs": "Departmental Strategies",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/mul@/dbsect_89.xml"
+          }
+        }
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-18/pq_436",
+      "questionType": "written",
+      "questionNumber": 436,
+      "showAs": " 436. Deputy Erin McGreehan asked the Minister for Education and Youth to confirm whether additional resourcing, financial and staffing will be allocated to ensure that inclusive education measures are implemented within defined timelines under the National Human Rights Strategy for Disabled People. [62912/25] ",
+      "date": "2025-11-18",
+      "by": {
+        "showAs": "Erin McGreehan",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Erin-McGreehan.S.2020-06-29",
+        "memberCode": "Erin-McGreehan.S.2020-06-29"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-18",
+    "question": {
+      "house": {
+        "houseNo": "34",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Education",
+        "roleType": null
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_92",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/dbsect_92",
+        "showAs": "Youth Work Projects",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/mul@/dbsect_92.xml"
+          }
+        }
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-18/pq_437",
+      "questionType": "written",
+      "questionNumber": 437,
+      "showAs": " 437. Deputy Mark Ward asked the Minister for Education and Youth further to Parliamentary Question No. 626 of 14 November 2025, the correspondence her Department has had with DDLETB on the best way to support the young people in the Citywest and Saggart area; if the youth affairs unit has met with DDLETB on same; and if she will make a statement on the matter. [62954/25] ",
+      "date": "2025-11-18",
+      "by": {
+        "showAs": "Mark Ward",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Mark-Ward.D.2019-11-29",
+        "memberCode": "Mark-Ward.D.2019-11-29"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-18",
+    "question": {
+      "house": {
+        "houseNo": "34",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Education",
+        "roleType": null
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_92",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/dbsect_92",
+        "showAs": "Youth Work Projects",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/mul@/dbsect_92.xml"
+          }
+        }
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-18/pq_438",
+      "questionType": "written",
+      "questionNumber": 438,
+      "showAs": " 438. Deputy Mark Ward asked the Minister for Education and Youth further to Parliamentary Question No. 626 of 14 November 2025, if she will reconsider the UBU application that has been resubmitted to her officials in respect of the proposal for a new service in the Citywest, Saggart and Rathcoole area in light of the recent events; if Budget 2026 will ensure this service is delivered; and if she will make a statement on the matter. [62955/25] ",
+      "date": "2025-11-18",
+      "by": {
+        "showAs": "Mark Ward",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Mark-Ward.D.2019-11-29",
+        "memberCode": "Mark-Ward.D.2019-11-29"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-18",
+    "question": {
+      "house": {
+        "houseNo": "34",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Education",
+        "roleType": null
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_93",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/dbsect_93",
+        "showAs": "School Staff",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/mul@/dbsect_93.xml"
+          }
+        }
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-18/pq_439",
+      "questionType": "written",
+      "questionNumber": 439,
+      "showAs": " 439. Deputy Louis O'Hara asked the Minister for Education and Youth if an additional SNA will be provided to a school (details supplied); and if she will make a statement on the matter. [62963/25] ",
+      "date": "2025-11-18",
+      "by": {
+        "showAs": "Louis O'Hara",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Louis-O'Hara.D.2024-11-29",
+        "memberCode": "Louis-O'Hara.D.2024-11-29"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-18",
+    "question": {
+      "house": {
+        "houseNo": "34",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Education",
+        "roleType": null
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_94",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/dbsect_94",
+        "showAs": "Special Educational Needs",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/mul@/dbsect_94.xml"
+          }
+        }
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-18/pq_440",
+      "questionType": "written",
+      "questionNumber": 440,
+      "showAs": " 440. Deputy Seán Crowe asked the Minister for Education and Youth to examine the case of a person (details supplied) who is due to start senior cycle in a special school but is due to turn 18 this year and will be unable to finish senior cycle in that school; if an allowance can be made for this student to remain in the school. [62964/25] ",
+      "date": "2025-11-18",
+      "by": {
+        "showAs": "Seán Crowe",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Seán-Crowe.D.2002-06-06",
+        "memberCode": "Seán-Crowe.D.2002-06-06"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-18",
+    "question": {
+      "house": {
+        "houseNo": "34",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Education",
+        "roleType": null
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_95",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/dbsect_95",
+        "showAs": "Schools Building Projects",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/mul@/dbsect_95.xml"
+          }
+        }
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-18/pq_441",
+      "questionType": "written",
+      "questionNumber": 441,
+      "showAs": " 441. Deputy Albert Dolan asked the Minister for Education and Youth if she will provide an update on a proposed school building project (details supplied), which was initially granted approval in February 2020 under the additional school accommodation scheme, and for which a revised Stage 2(a) submission was completed and submitted in June 2025; the current status of the project, the expected next steps, and an indicative timeline for progression to tender and construction; and if she will make a statement on the matter. [62990/25] ",
+      "date": "2025-11-18",
+      "by": {
+        "showAs": "Albert Dolan",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Albert-Dolan.D.2024-11-29",
+        "memberCode": "Albert-Dolan.D.2024-11-29"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-18",
+    "question": {
+      "house": {
+        "houseNo": "34",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Education",
+        "roleType": null
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_96",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/dbsect_96",
+        "showAs": "School Accommodation",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/mul@/dbsect_96.xml"
+          }
+        }
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-18/pq_442",
+      "questionType": "written",
+      "questionNumber": 442,
+      "showAs": " 442. Deputy Seán Crowe asked the Minister for Education and Youth if her Department will support the opening of an additional ASD class at a school (details supplied). [62999/25] ",
+      "date": "2025-11-18",
+      "by": {
+        "showAs": "Seán Crowe",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Seán-Crowe.D.2002-06-06",
+        "memberCode": "Seán-Crowe.D.2002-06-06"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-18",
+    "question": {
+      "house": {
+        "houseNo": "34",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Education",
+        "roleType": null
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_97",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/dbsect_97",
+        "showAs": "Special Educational Needs",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/mul@/dbsect_97.xml"
+          }
+        }
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-18/pq_443",
+      "questionType": "written",
+      "questionNumber": 443,
+      "showAs": " 443. Deputy Michael Cahill asked the Minister for Education and Youth to assist a school (details supplied) in County Kerry in the purchase of additional autism equipment; and if she will make a statement on the matter. [63003/25] ",
+      "date": "2025-11-18",
+      "by": {
+        "showAs": "Michael Cahill",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Michael-Cahill.D.2024-11-29",
+        "memberCode": "Michael-Cahill.D.2024-11-29"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-18",
+    "question": {
+      "house": {
+        "houseNo": "34",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Education",
+        "roleType": null
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_98",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/dbsect_98",
+        "showAs": "Departmental Staff",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/mul@/dbsect_98.xml"
+          }
+        }
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-18/pq_444",
+      "questionType": "written",
+      "questionNumber": 444,
+      "showAs": " 444. Deputy George Lawlor asked the Minister for Education and Youth the number of vacancies which arose at principal officer level for the years 2022, 2023, 2024 and to date in 2025 in her Department and agencies under the aegis of her Department; the number of these vacancies filled between internal and external methods; the number of vacancies each year at principal officer level filled by mobility; the number of internal competitions for principal officer grade run by her Department since 2010; and if she will make a statement on the matter. [63022/25] ",
+      "date": "2025-11-18",
+      "by": {
+        "showAs": "George Lawlor",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/George-Lawlor.D.2024-11-29",
+        "memberCode": "George-Lawlor.D.2024-11-29"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-18",
+    "question": {
+      "house": {
+        "houseNo": "34",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Education",
+        "roleType": null
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_99",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/dbsect_99",
+        "showAs": "Schools Building Projects",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/mul@/dbsect_99.xml"
+          }
+        }
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-18/pq_445",
+      "questionType": "written",
+      "questionNumber": 445,
+      "showAs": " 445. Deputy Carol Nolan asked the Minister for Education and Youth the status of the delivery of a new school building for a school (details supplied) in County Offaly; and if she will make a statement on the matter. [63038/25] ",
+      "date": "2025-11-18",
+      "by": {
+        "showAs": "Carol Nolan",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Carol-Nolan.D.2016-10-03",
+        "memberCode": "Carol-Nolan.D.2016-10-03"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-18",
+    "question": {
+      "house": {
+        "houseNo": "34",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Education",
+        "roleType": null
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_100",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/dbsect_100",
+        "showAs": "Schools Building Projects",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/mul@/dbsect_100.xml"
+          }
+        }
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-18/pq_446",
+      "questionType": "written",
+      "questionNumber": 446,
+      "showAs": " 446. Deputy Denise Mitchell asked the Minister for Education and Youth the reason for the delay in the building works for a new ASD classroom (details supplied); if she will engage as a matter of urgency with the school and her Department to ensure the building works are completed as quickly as possible; the provision being made to ensure the children who were due to be in the ASD class in September 2025 are receiving an appropriate education; and if she will make a statement on the matter. [63079/25] ",
+      "date": "2025-11-18",
+      "by": {
+        "showAs": "Denise Mitchell",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Denise-Mitchell.D.2016-10-03",
+        "memberCode": "Denise-Mitchell.D.2016-10-03"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-18",
+    "question": {
+      "house": {
+        "houseNo": "34",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Education",
+        "roleType": null
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_101",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/dbsect_101",
+        "showAs": "School Transport",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/mul@/dbsect_101.xml"
+          }
+        }
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-18/pq_447",
+      "questionType": "written",
+      "questionNumber": 447,
+      "showAs": " 447. Deputy Colm Burke asked the Minister for Education and Youth if consideration will be given to extending a bus service to include an area (details supplied); and if she will make a statement on the matter. [63080/25] ",
+      "date": "2025-11-18",
+      "by": {
+        "showAs": "Colm Burke",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Colm-Burke.S.2011-05-25",
+        "memberCode": "Colm-Burke.S.2011-05-25"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-18",
+    "question": {
+      "house": {
+        "houseNo": "34",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Education",
+        "roleType": null
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_102",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/dbsect_102",
+        "showAs": "Departmental Funding",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/mul@/dbsect_102.xml"
+          }
+        }
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-18/pq_448",
+      "questionType": "written",
+      "questionNumber": 448,
+      "showAs": " 448. Deputy Tom Brabazon asked the Minister for Education and Youth the timeframe for the implementation of the new DEIS Plus Programme; and if she will ensure that DEIS Plus funding and resources will be made available to participating schools before the end of the 2025-2026 school year to allow for advance planning, staffing, and resource allocation. [63084/25] ",
+      "date": "2025-11-18",
+      "by": {
+        "showAs": "Tom Brabazon",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tom-Brabazon.D.2024-11-29",
+        "memberCode": "Tom-Brabazon.D.2024-11-29"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-18",
+    "question": {
+      "house": {
+        "houseNo": "34",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Education",
+        "roleType": null
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_102",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/dbsect_102",
+        "showAs": "Departmental Funding",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/mul@/dbsect_102.xml"
+          }
+        }
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-18/pq_449",
+      "questionType": "written",
+      "questionNumber": 449,
+      "showAs": " 449. Deputy Tom Brabazon asked the Minister for Education and Youth if all DEIS Plus funding will be directed primarily to schools, rather than intermediary agencies, to ensure that resources go directly to children and classroom supports; and if she will make a statement on the matter. [63085/25] ",
+      "date": "2025-11-18",
+      "by": {
+        "showAs": "Tom Brabazon",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tom-Brabazon.D.2024-11-29",
+        "memberCode": "Tom-Brabazon.D.2024-11-29"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-18",
+    "question": {
+      "house": {
+        "houseNo": "34",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Education",
+        "roleType": null
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_102",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/dbsect_102",
+        "showAs": "Departmental Funding",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/mul@/dbsect_102.xml"
+          }
+        }
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-18/pq_450",
+      "questionType": "written",
+      "questionNumber": 450,
+      "showAs": " 450. Deputy Tom Brabazon asked the Minister for Education and Youth if her Department will commit to giving schools autonomy in the way in which DEIS Plus resources are used locally, given the ability of school leaders and boards of management to best assess their own pupils’ needs. [63086/25] ",
+      "date": "2025-11-18",
+      "by": {
+        "showAs": "Tom Brabazon",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tom-Brabazon.D.2024-11-29",
+        "memberCode": "Tom-Brabazon.D.2024-11-29"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-18",
+    "question": {
+      "house": {
+        "houseNo": "34",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Education",
+        "roleType": null
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_102",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/dbsect_102",
+        "showAs": "Departmental Funding",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/mul@/dbsect_102.xml"
+          }
+        }
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-18/pq_452",
+      "questionType": "written",
+      "questionNumber": 452,
+      "showAs": " 452. Deputy Tom Brabazon asked the Minister for Education and Youth if DEIS Plus will include specific supports for trauma-informed education, including funding for nurture rooms, wellbeing spaces, and additional staffing to support children impacted by disadvantage and trauma. [63088/25] ",
+      "date": "2025-11-18",
+      "by": {
+        "showAs": "Tom Brabazon",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tom-Brabazon.D.2024-11-29",
+        "memberCode": "Tom-Brabazon.D.2024-11-29"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-18",
+    "question": {
+      "house": {
+        "houseNo": "34",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Education",
+        "roleType": null
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_102",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/dbsect_102",
+        "showAs": "Departmental Funding",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/mul@/dbsect_102.xml"
+          }
+        }
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-18/pq_453",
+      "questionType": "written",
+      "questionNumber": 453,
+      "showAs": " 453. Deputy Tom Brabazon asked the Minister for Education and Youth the way in which her Department will coordinate the work of DEIS Plus schools with agencies such as Tusla, TESS, NEPS, the NCSE and the School Completion Programme, while ensuring that DEIS Plus funding remains school and pupil centred. [63089/25] ",
+      "date": "2025-11-18",
+      "by": {
+        "showAs": "Tom Brabazon",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tom-Brabazon.D.2024-11-29",
+        "memberCode": "Tom-Brabazon.D.2024-11-29"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-18",
+    "question": {
+      "house": {
+        "houseNo": "34",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Education",
+        "roleType": null
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_102",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/dbsect_102",
+        "showAs": "Departmental Funding",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/mul@/dbsect_102.xml"
+          }
+        }
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-18/pq_454",
+      "questionType": "written",
+      "questionNumber": 454,
+      "showAs": " 454. Deputy Tom Brabazon asked the Minister for Education and Youth the way in which her Department will measure the impact of the DEIS Plus programme on educational outcomes, attendance, and wellbeing in participating schools. [63090/25] ",
+      "date": "2025-11-18",
+      "by": {
+        "showAs": "Tom Brabazon",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tom-Brabazon.D.2024-11-29",
+        "memberCode": "Tom-Brabazon.D.2024-11-29"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-18",
+    "question": {
+      "house": {
+        "houseNo": "34",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Education",
+        "roleType": null
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_96",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/dbsect_96",
+        "showAs": "School Accommodation",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/mul@/dbsect_96.xml"
+          }
+        }
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-18/pq_460",
+      "questionType": "written",
+      "questionNumber": 460,
+      "showAs": " 460. Deputy Ciarán Ahern asked the Minister for Education and Youth for an update on the application by a school (details supplied) to open a second autism class; if she will ensure that this application is promptly approved so that the class can open in the next school year without delay; and if she will make a statement on the matter. [63169/25] ",
+      "date": "2025-11-18",
+      "by": {
+        "showAs": "Ciarán Ahern",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ciarán-Ahern.D.2024-11-29",
+        "memberCode": "Ciarán-Ahern.D.2024-11-29"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-18",
+    "question": {
+      "house": {
+        "houseNo": "34",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Education",
+        "roleType": null
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_104",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/dbsect_104",
+        "showAs": "School Management",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/mul@/dbsect_104.xml"
+          }
+        }
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-18/pq_472",
+      "questionType": "written",
+      "questionNumber": 472,
+      "showAs": " 472. Deputy Seán Ó Fearghaíl asked the Minister for Education and Youth if she will address concerns regarding the preparedness of schools to treat medical emergencies, raised in correspondence (details supplied); and if she will make a statement on the matter. [63365/25] ",
+      "date": "2025-11-18",
+      "by": {
+        "showAs": "Seán Ó Fearghaíl",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Seán-Ó-Fearghaíl.S.2000-06-09",
+        "memberCode": "Seán-Ó-Fearghaíl.S.2000-06-09"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-18",
+    "question": {
+      "house": {
+        "houseNo": "34",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Education",
+        "roleType": null
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_105",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/dbsect_105",
+        "showAs": "School Accommodation",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/mul@/dbsect_105.xml"
+          }
+        }
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-18/pq_473",
+      "questionType": "written",
+      "questionNumber": 473,
+      "showAs": " 473. Deputy Roderic O'Gorman asked the Minister for Education and Youth her plans to increase the availability of school options in the Dublin 7 area; whether there are changes planned for the school planning area in that area so as to allow for greater options for parents; and if she will make a statement on the matter. [63408/25] ",
+      "date": "2025-11-18",
+      "by": {
+        "showAs": "Roderic O'Gorman",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Roderic-O'Gorman.D.2020-02-08",
+        "memberCode": "Roderic-O'Gorman.D.2020-02-08"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-18",
+    "question": {
+      "house": {
+        "houseNo": "34",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Education",
+        "roleType": null
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_106",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/dbsect_106",
+        "showAs": "Schools Building Projects",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/mul@/dbsect_106.xml"
+          }
+        }
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-18/pq_474",
+      "questionType": "written",
+      "questionNumber": 474,
+      "showAs": " 474. Deputy Roderic O'Gorman asked the Minister for Education and Youth for details and progress of upgrades on schools in the Dublin 7 area; and if she will make a statement on the matter. [63409/25] ",
+      "date": "2025-11-18",
+      "by": {
+        "showAs": "Roderic O'Gorman",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Roderic-O'Gorman.D.2020-02-08",
+        "memberCode": "Roderic-O'Gorman.D.2020-02-08"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-18",
+    "question": {
+      "house": {
+        "houseNo": "34",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Education",
+        "roleType": null
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_107",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/dbsect_107",
+        "showAs": "School Management",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/mul@/dbsect_107.xml"
+          }
+        }
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-18/pq_475",
+      "questionType": "written",
+      "questionNumber": 475,
+      "showAs": " 475. Deputy Roderic O'Gorman asked the Minister for Education and Youth the process for schools to change patronage; and if she will make a statement on the matter. [63410/25] ",
+      "date": "2025-11-18",
+      "by": {
+        "showAs": "Roderic O'Gorman",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Roderic-O'Gorman.D.2020-02-08",
+        "memberCode": "Roderic-O'Gorman.D.2020-02-08"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-18",
+    "question": {
+      "house": {
+        "houseNo": "34",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Education",
+        "roleType": null
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_108",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/dbsect_108",
+        "showAs": "Irish Language",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/mul@/dbsect_108.xml"
+          }
+        }
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-18/pq_476",
+      "questionType": "written",
+      "questionNumber": 476,
+      "showAs": " 476. Deputy Darren O'Rourke asked the Minister for Education and Youth if she will provide the most recent total number of teachers in Irish primary schools, by number, per category (details supplied). [63435/25] ",
+      "date": "2025-11-18",
+      "by": {
+        "showAs": "Darren O'Rourke",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Darren-O'Rourke.D.2020-02-08",
+        "memberCode": "Darren-O'Rourke.D.2020-02-08"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-18",
+    "question": {
+      "house": {
+        "houseNo": "34",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Education",
+        "roleType": null
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_109",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/dbsect_109",
+        "showAs": "Irish Language",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/mul@/dbsect_109.xml"
+          }
+        }
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-18/pq_477",
+      "questionType": "written",
+      "questionNumber": 477,
+      "showAs": " 477. Deputy Darren O'Rourke asked the Minister for Education and Youth the research undertaken on the role of Irish language youth workers and volunteers outside Gaeltacht communities, considering the new pilot on the role of Irish language youth workers in Gaeltacht communities; the research that will be taken; and if she will make a statement on the matter. [63468/25] ",
+      "date": "2025-11-18",
+      "by": {
+        "showAs": "Darren O'Rourke",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Darren-O'Rourke.D.2020-02-08",
+        "memberCode": "Darren-O'Rourke.D.2020-02-08"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-18",
+    "question": {
+      "house": {
+        "houseNo": "34",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Education",
+        "roleType": null
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_110",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/dbsect_110",
+        "showAs": "Irish Language",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/mul@/dbsect_110.xml"
+          }
+        }
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-18/pq_478",
+      "questionType": "written",
+      "questionNumber": 478,
+      "showAs": " 478. Deputy Darren O'Rourke asked the Minister for Education and Youth given the research pilot on the role of Irish language youth workers in Gaeltacht communities underway, if she will provide a timeline for this; when interim findings will be expected; when future Irish language policy and practice will be shaped by this; and if she will make a statement on the matter. [63469/25] ",
+      "date": "2025-11-18",
+      "by": {
+        "showAs": "Darren O'Rourke",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Darren-O'Rourke.D.2020-02-08",
+        "memberCode": "Darren-O'Rourke.D.2020-02-08"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-18",
+    "question": {
+      "house": {
+        "houseNo": "34",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Education",
+        "roleType": null
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_111",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/dbsect_111",
+        "showAs": "Irish Language",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/mul@/dbsect_111.xml"
+          }
+        }
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-18/pq_479",
+      "questionType": "written",
+      "questionNumber": 479,
+      "showAs": " 479. Deputy Darren O'Rourke asked the Minister for Education and Youth for an update on actions taken, or to be taken, to meet Action 2.6.2.3 of the Action Plan for Irish in English ­Medium Schools; the supports that will be provided to ensure that greater awareness of and encouragement of participation in existing Irish language youth clubs that is planned will be met; if there will be additional supports from Budget 2026 aside from any increases to the youth services grant scheme (YSGS) to meet this; and if she will make a statement on the matter. [63470/25] ",
+      "date": "2025-11-18",
+      "by": {
+        "showAs": "Darren O'Rourke",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Darren-O'Rourke.D.2020-02-08",
+        "memberCode": "Darren-O'Rourke.D.2020-02-08"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-18",
+    "question": {
+      "house": {
+        "houseNo": "34",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Education",
+        "roleType": null
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_111",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/dbsect_111",
+        "showAs": "Irish Language",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/mul@/dbsect_111.xml"
+          }
+        }
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-18/pq_480",
+      "questionType": "written",
+      "questionNumber": 480,
+      "showAs": " 480. Deputy Darren O'Rourke asked the Minister for Education and Youth if she can provide an update on actions taken, or to be taken, to meet Action 2.6.2.4 of the Action Plan for Irish in English ­Medium Schools; what supports will be made available to support the establishment of Irish language youth clubs and afterschool activities in areas where these are not currently available; if there will be additional supports from Budget 2026 aside from any increases to youth services grant scheme to meet this; and if she will make a statement on the matter. [63471/25] ",
+      "date": "2025-11-18",
+      "by": {
+        "showAs": "Darren O'Rourke",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Darren-O'Rourke.D.2020-02-08",
+        "memberCode": "Darren-O'Rourke.D.2020-02-08"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-18",
+    "question": {
+      "house": {
+        "houseNo": "34",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Education",
+        "roleType": null
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_111",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/dbsect_111",
+        "showAs": "Irish Language",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/mul@/dbsect_111.xml"
+          }
+        }
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-18/pq_481",
+      "questionType": "written",
+      "questionNumber": 481,
+      "showAs": " 481. Deputy Darren O'Rourke asked the Minister for Education and Youth if funding for Irish language youth clubs and afterschool activities will be supported outside of the Youth Affairs budget, or if funding for the implementation of the relevant actions of the Action Plan for Irish in English ­Medium Schools comes from Youth Affairs alone; and if she will make a statement on the matter. [63472/25] ",
+      "date": "2025-11-18",
+      "by": {
+        "showAs": "Darren O'Rourke",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Darren-O'Rourke.D.2020-02-08",
+        "memberCode": "Darren-O'Rourke.D.2020-02-08"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-18",
+    "question": {
+      "house": {
+        "houseNo": "34",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Education",
+        "roleType": null
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_112",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/dbsect_112",
+        "showAs": "Irish Language",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/mul@/dbsect_112.xml"
+          }
+        }
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-18/pq_482",
+      "questionType": "written",
+      "questionNumber": 482,
+      "showAs": " 482. Deputy Darren O'Rourke asked the Minister for Education and Youth the percentage of the current youth services grant scheme that is being spent on Irish language youth work; her plans to increase this; and if she will make a statement on the matter. [63473/25] ",
+      "date": "2025-11-18",
+      "by": {
+        "showAs": "Darren O'Rourke",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Darren-O'Rourke.D.2020-02-08",
+        "memberCode": "Darren-O'Rourke.D.2020-02-08"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-18",
+    "question": {
+      "house": {
+        "houseNo": "34",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Education",
+        "roleType": null
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_113",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/dbsect_113",
+        "showAs": "Irish Language",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/mul@/dbsect_113.xml"
+          }
+        }
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-18/pq_483",
+      "questionType": "written",
+      "questionNumber": 483,
+      "showAs": " 483. Deputy Darren O'Rourke asked the Minister for Education and Youth the engagement she has had with Irish language youth organisations as part of her engagement with relevant stakeholders as part of her broader work to promote inclusion and cultural participation among young people; and if she will make a statement on the matter. [63474/25] ",
+      "date": "2025-11-18",
+      "by": {
+        "showAs": "Darren O'Rourke",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Darren-O'Rourke.D.2020-02-08",
+        "memberCode": "Darren-O'Rourke.D.2020-02-08"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-18",
+    "question": {
+      "house": {
+        "houseNo": "34",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Education",
+        "roleType": null
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_114",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/dbsect_114",
+        "showAs": "Schools Building Projects",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/mul@/dbsect_114.xml"
+          }
+        }
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-18/pq_484",
+      "questionType": "written",
+      "questionNumber": 484,
+      "showAs": " 484. Deputy Robert Troy asked the Minister for Education and Youth if she will provide an update in relation to a school construction project (details supplied); when  this school will proceed to tender and construction; which project this school is part of; the other schools which are in this bundle; the stages the other schools are currently at; and if she will make a statement on the matter. [63548/25] ",
+      "date": "2025-11-18",
+      "by": {
+        "showAs": "Robert Troy",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Robert-Troy.D.2011-03-09",
+        "memberCode": "Robert-Troy.D.2011-03-09"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-18",
+    "question": {
+      "house": {
+        "houseNo": "34",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Education",
+        "roleType": null
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_115",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/dbsect_115",
+        "showAs": "Special Educational Needs",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/mul@/dbsect_115.xml"
+          }
+        }
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-18/pq_485",
+      "questionType": "written",
+      "questionNumber": 485,
+      "showAs": " 485. Deputy James O'Connor asked the Minister for Education and Youth if she will consider a request to establish a special class within a school (details supplied); and if she will make a statement on the matter. [63554/25] ",
+      "date": "2025-11-18",
+      "by": {
+        "showAs": "James O'Connor",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/James-O'Connor.D.2020-02-08",
+        "memberCode": "James-O'Connor.D.2020-02-08"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-18",
+    "question": {
+      "house": {
+        "houseNo": "34",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Education",
+        "roleType": null
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_116",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/dbsect_116",
+        "showAs": "Education Schemes",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/mul@/dbsect_116.xml"
+          }
+        }
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-18/pq_486",
+      "questionType": "written",
+      "questionNumber": 486,
+      "showAs": " 486. Deputy Pádraig O'Sullivan asked the Minister for Education and Youth the number of schools that have been awarded the active school flag post primary; the successful schools, by county; the schools that applied that were not successful; and if she will make a statement on the matter. [63571/25] ",
+      "date": "2025-11-18",
+      "by": {
+        "showAs": "Pádraig O'Sullivan",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Pádraig-O'Sullivan.D.2019-11-29",
+        "memberCode": "Pádraig-O'Sullivan.D.2019-11-29"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-18",
+    "question": {
+      "house": {
+        "houseNo": "34",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Education",
+        "roleType": null
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_117",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/dbsect_117",
+        "showAs": "Education Schemes",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/mul@/dbsect_117.xml"
+          }
+        }
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-18/pq_487",
+      "questionType": "written",
+      "questionNumber": 487,
+      "showAs": " 487. Deputy Mairéad Farrell asked the Minister for Education and Youth if her attention has been drawn to the means by which the use of recording devices and voice activated computers under the scheme of reasonable accommodations at certificate examinations is validated and verified; and if she will make a statement on the matter. [63573/25] ",
+      "date": "2025-11-18",
+      "by": {
+        "showAs": "Mairéad Farrell",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Mairéad-Farrell.D.2020-02-08",
+        "memberCode": "Mairéad-Farrell.D.2020-02-08"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-18",
+    "question": {
+      "house": {
+        "houseNo": "34",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Education",
+        "roleType": null
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_117",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/dbsect_117",
+        "showAs": "Education Schemes",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/mul@/dbsect_117.xml"
+          }
+        }
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-18/pq_488",
+      "questionType": "written",
+      "questionNumber": 488,
+      "showAs": " 488. Deputy Mairéad Farrell asked the Minister for Education and Youth if her attention has been drawn to the means by which the use of recording devices and voice activated computers under the scheme of reasonable accommodations at certificate examinations is quality assured; and if she will make a statement on the matter. [63574/25] ",
+      "date": "2025-11-18",
+      "by": {
+        "showAs": "Mairéad Farrell",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Mairéad-Farrell.D.2020-02-08",
+        "memberCode": "Mairéad-Farrell.D.2020-02-08"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-18",
+    "question": {
+      "house": {
+        "houseNo": "34",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Education",
+        "roleType": null
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_118",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/dbsect_118",
+        "showAs": "Special Educational Needs",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/mul@/dbsect_118.xml"
+          }
+        }
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-18/pq_489",
+      "questionType": "written",
+      "questionNumber": 489,
+      "showAs": " 489. Deputy Darren O'Rourke asked the Minister for Education and Youth further to Parliamentary Question No. 194 of 7 October 2025, when the review of the assistive technology scheme will be completed; and the timeframe recommended changes from this review will come into effect. [63577/25] ",
+      "date": "2025-11-18",
+      "by": {
+        "showAs": "Darren O'Rourke",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Darren-O'Rourke.D.2020-02-08",
+        "memberCode": "Darren-O'Rourke.D.2020-02-08"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-18",
+    "question": {
+      "house": {
+        "houseNo": "34",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
+      "to": {
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Education",
+        "roleType": null
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_119",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/dbsect_119",
+        "showAs": "Special Educational Needs",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/writtens/mul@/dbsect_119.xml"
+          }
+        }
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-18/pq_490",
+      "questionType": "written",
+      "questionNumber": 490,
+      "showAs": " 490. Deputy Robert Troy asked the Minister for Education and Youth for an urgent update on special educational needs provisions for a school (details supplied). [63591/25] ",
+      "date": "2025-11-18",
+      "by": {
+        "showAs": "Robert Troy",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Robert-Troy.D.2011-03-09",
+        "memberCode": "Robert-Troy.D.2011-03-09"
+      }
+    }
+  }
+]

@@ -1,1242 +1,1242 @@
 [
   {
-    "contextDate": "2025-11-19",
     "question": {
+      "to": {
+        "roleType": null,
+        "uri": null,
+        "roleCode": null,
+        "showAs": "Taoiseach"
+      },
+      "questionType": "oral",
+      "date": "2025-11-19",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-19/pq_1",
+      "questionNumber": 1,
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-19/debate/dbsect_17",
+        "showAs": "Cabinet Committees",
+        "debateSectionId": "dbsect_17",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-19/debate/mul@/dbsect_17.xml"
+          }
+        }
+      },
       "showAs": " 1. Deputy Peter 'Chap' Cleere asked the Taoiseach when the Cabinet Committee on water quality will next meet. [46873/25] ",
       "house": {
-        "showAs": "34th Dáil",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "chamberType": "house",
+        "houseCode": "dail",
         "committeeCode": "",
         "houseNo": "34",
-        "houseCode": "dail"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "chamberType": "house"
       },
       "by": {
-        "showAs": "Peter 'Chap' Cleere",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Peter-'Chap'-Cleere.D.2024-11-29",
-        "memberCode": "Peter-'Chap'-Cleere.D.2024-11-29"
+        "memberCode": "Peter-'Chap'-Cleere.D.2024-11-29",
+        "showAs": "Peter 'Chap' Cleere"
+      }
+    },
+    "contextDate": "2025-11-19"
+  },
+  {
+    "question": {
+      "to": {
+        "roleType": null,
+        "uri": null,
+        "roleCode": null,
+        "showAs": "Taoiseach"
       },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-19/pq_1",
       "questionType": "oral",
-      "questionNumber": 1,
       "date": "2025-11-19",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-19/pq_2",
+      "questionNumber": 2,
       "debateSection": {
-        "showAs": "Cabinet Committees",
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-19/debate/dbsect_17",
+        "showAs": "Cabinet Committees",
+        "debateSectionId": "dbsect_17",
         "formats": {
           "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-19/debate/mul@/dbsect_17.xml"
           }
-        },
-        "debateSectionId": "dbsect_17"
+        }
       },
-      "to": {
-        "showAs": "Taoiseach",
-        "uri": null,
-        "roleCode": null,
-        "roleType": null
-      }
-    }
-  },
-  {
-    "contextDate": "2025-11-19",
-    "question": {
       "showAs": " 2. Deputy Aindrias Moynihan asked the Taoiseach when the Cabinet Committee on water quality will next meet. [48529/25] ",
       "house": {
-        "showAs": "34th Dáil",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "chamberType": "house",
+        "houseCode": "dail",
         "committeeCode": "",
         "houseNo": "34",
-        "houseCode": "dail"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "chamberType": "house"
       },
       "by": {
-        "showAs": "Aindrias Moynihan",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Aindrias-Moynihan.D.2016-10-03",
-        "memberCode": "Aindrias-Moynihan.D.2016-10-03"
+        "memberCode": "Aindrias-Moynihan.D.2016-10-03",
+        "showAs": "Aindrias Moynihan"
+      }
+    },
+    "contextDate": "2025-11-19"
+  },
+  {
+    "question": {
+      "to": {
+        "roleType": null,
+        "uri": null,
+        "roleCode": null,
+        "showAs": "Taoiseach"
       },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-19/pq_2",
       "questionType": "oral",
-      "questionNumber": 2,
       "date": "2025-11-19",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-19/pq_3",
+      "questionNumber": 3,
       "debateSection": {
-        "showAs": "Cabinet Committees",
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-19/debate/dbsect_17",
+        "showAs": "Cabinet Committees",
+        "debateSectionId": "dbsect_17",
         "formats": {
           "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-19/debate/mul@/dbsect_17.xml"
           }
-        },
-        "debateSectionId": "dbsect_17"
+        }
       },
-      "to": {
-        "showAs": "Taoiseach",
-        "uri": null,
-        "roleCode": null,
-        "roleType": null
-      }
-    }
-  },
-  {
-    "contextDate": "2025-11-19",
-    "question": {
       "showAs": " 3. Deputy Ivana Bacik asked the Taoiseach when the Cabinet Committee on water quality will next meet. [56902/25] ",
       "house": {
-        "showAs": "34th Dáil",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "chamberType": "house",
+        "houseCode": "dail",
         "committeeCode": "",
         "houseNo": "34",
-        "houseCode": "dail"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "chamberType": "house"
       },
       "by": {
-        "showAs": "Ivana Bacik",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ivana-Bacik.S.2007-07-23",
-        "memberCode": "Ivana-Bacik.S.2007-07-23"
+        "memberCode": "Ivana-Bacik.S.2007-07-23",
+        "showAs": "Ivana Bacik"
+      }
+    },
+    "contextDate": "2025-11-19"
+  },
+  {
+    "question": {
+      "to": {
+        "roleType": null,
+        "uri": null,
+        "roleCode": null,
+        "showAs": "Taoiseach"
       },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-19/pq_3",
       "questionType": "oral",
-      "questionNumber": 3,
       "date": "2025-11-19",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-19/pq_4",
+      "questionNumber": 4,
       "debateSection": {
-        "showAs": "Cabinet Committees",
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-19/debate/dbsect_17",
+        "showAs": "Cabinet Committees",
+        "debateSectionId": "dbsect_17",
         "formats": {
           "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-19/debate/mul@/dbsect_17.xml"
           }
-        },
-        "debateSectionId": "dbsect_17"
+        }
       },
-      "to": {
-        "showAs": "Taoiseach",
-        "uri": null,
-        "roleCode": null,
-        "roleType": null
-      }
-    }
-  },
-  {
-    "contextDate": "2025-11-19",
-    "question": {
       "showAs": " 4. Deputy Paul Murphy asked the Taoiseach when the Cabinet Committee on water quality will next meet. [56996/25] ",
       "house": {
-        "showAs": "34th Dáil",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "chamberType": "house",
+        "houseCode": "dail",
         "committeeCode": "",
         "houseNo": "34",
-        "houseCode": "dail"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "chamberType": "house"
       },
       "by": {
-        "showAs": "Paul Murphy",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Murphy.D.2014-10-10",
-        "memberCode": "Paul-Murphy.D.2014-10-10"
+        "memberCode": "Paul-Murphy.D.2014-10-10",
+        "showAs": "Paul Murphy"
+      }
+    },
+    "contextDate": "2025-11-19"
+  },
+  {
+    "question": {
+      "to": {
+        "roleType": null,
+        "uri": null,
+        "roleCode": null,
+        "showAs": "Taoiseach"
       },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-19/pq_4",
       "questionType": "oral",
-      "questionNumber": 4,
       "date": "2025-11-19",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-19/pq_5",
+      "questionNumber": 5,
       "debateSection": {
-        "showAs": "Cabinet Committees",
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-19/debate/dbsect_17",
+        "showAs": "Cabinet Committees",
+        "debateSectionId": "dbsect_17",
         "formats": {
           "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-19/debate/mul@/dbsect_17.xml"
           }
-        },
-        "debateSectionId": "dbsect_17"
+        }
       },
-      "to": {
-        "showAs": "Taoiseach",
-        "uri": null,
-        "roleCode": null,
-        "roleType": null
-      }
-    }
-  },
-  {
-    "contextDate": "2025-11-19",
-    "question": {
       "showAs": " 5. Deputy Ruth Coppinger asked the Taoiseach when the Cabinet Committee on water quality will next meet. [57002/25] ",
       "house": {
-        "showAs": "34th Dáil",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "chamberType": "house",
+        "houseCode": "dail",
         "committeeCode": "",
         "houseNo": "34",
-        "houseCode": "dail"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "chamberType": "house"
       },
       "by": {
-        "showAs": "Ruth Coppinger",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruth-Coppinger.D.2014-05-23",
-        "memberCode": "Ruth-Coppinger.D.2014-05-23"
+        "memberCode": "Ruth-Coppinger.D.2014-05-23",
+        "showAs": "Ruth Coppinger"
+      }
+    },
+    "contextDate": "2025-11-19"
+  },
+  {
+    "question": {
+      "to": {
+        "roleType": null,
+        "uri": null,
+        "roleCode": null,
+        "showAs": "Taoiseach"
       },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-19/pq_5",
       "questionType": "oral",
-      "questionNumber": 5,
       "date": "2025-11-19",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-19/pq_6",
+      "questionNumber": 6,
       "debateSection": {
-        "showAs": "Cabinet Committees",
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-19/debate/dbsect_17",
+        "showAs": "Cabinet Committees",
+        "debateSectionId": "dbsect_17",
         "formats": {
           "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-19/debate/mul@/dbsect_17.xml"
           }
-        },
-        "debateSectionId": "dbsect_17"
+        }
       },
-      "to": {
-        "showAs": "Taoiseach",
-        "uri": null,
-        "roleCode": null,
-        "roleType": null
-      }
-    }
-  },
-  {
-    "contextDate": "2025-11-19",
-    "question": {
       "showAs": " 6. Deputy Ruairí Ó Murchú asked the Taoiseach when the Cabinet Committee on water quality will next meet. [57037/25] ",
       "house": {
-        "showAs": "34th Dáil",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "chamberType": "house",
+        "houseCode": "dail",
         "committeeCode": "",
         "houseNo": "34",
-        "houseCode": "dail"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "chamberType": "house"
       },
       "by": {
-        "showAs": "Ruairí Ó Murchú",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruairí-Ó-Murchú.D.2020-02-08",
-        "memberCode": "Ruairí-Ó-Murchú.D.2020-02-08"
+        "memberCode": "Ruairí-Ó-Murchú.D.2020-02-08",
+        "showAs": "Ruairí Ó Murchú"
+      }
+    },
+    "contextDate": "2025-11-19"
+  },
+  {
+    "question": {
+      "to": {
+        "roleType": null,
+        "uri": null,
+        "roleCode": null,
+        "showAs": "Taoiseach"
       },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-19/pq_6",
       "questionType": "oral",
-      "questionNumber": 6,
       "date": "2025-11-19",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-19/pq_7",
+      "questionNumber": 7,
       "debateSection": {
-        "showAs": "Cabinet Committees",
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-19/debate/dbsect_17",
+        "showAs": "Cabinet Committees",
+        "debateSectionId": "dbsect_17",
         "formats": {
           "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-19/debate/mul@/dbsect_17.xml"
           }
-        },
-        "debateSectionId": "dbsect_17"
+        }
       },
-      "to": {
-        "showAs": "Taoiseach",
-        "uri": null,
-        "roleCode": null,
-        "roleType": null
-      }
-    }
-  },
-  {
-    "contextDate": "2025-11-19",
-    "question": {
       "showAs": " 7. Deputy Conor D. McGuinness asked the Taoiseach when the Cabinet Committee on water quality will next meet. [58034/25] ",
       "house": {
-        "showAs": "34th Dáil",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "chamberType": "house",
+        "houseCode": "dail",
         "committeeCode": "",
         "houseNo": "34",
-        "houseCode": "dail"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "chamberType": "house"
       },
       "by": {
-        "showAs": "Conor D McGuinness",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Conor-D-McGuinness.D.2024-11-29",
-        "memberCode": "Conor-D-McGuinness.D.2024-11-29"
+        "memberCode": "Conor-D-McGuinness.D.2024-11-29",
+        "showAs": "Conor D McGuinness"
+      }
+    },
+    "contextDate": "2025-11-19"
+  },
+  {
+    "question": {
+      "to": {
+        "roleType": null,
+        "uri": null,
+        "roleCode": null,
+        "showAs": "Taoiseach"
       },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-19/pq_7",
       "questionType": "oral",
-      "questionNumber": 7,
       "date": "2025-11-19",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-19/pq_8",
+      "questionNumber": 8,
       "debateSection": {
-        "showAs": "Cabinet Committees",
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-19/debate/dbsect_17",
+        "showAs": "Cabinet Committees",
+        "debateSectionId": "dbsect_17",
         "formats": {
           "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-19/debate/mul@/dbsect_17.xml"
           }
-        },
-        "debateSectionId": "dbsect_17"
+        }
       },
-      "to": {
-        "showAs": "Taoiseach",
-        "uri": null,
-        "roleCode": null,
-        "roleType": null
-      }
-    }
-  },
-  {
-    "contextDate": "2025-11-19",
-    "question": {
       "showAs": " 8. Deputy Brendan Smith asked the Taoiseach when the Cabinet Committee on water quality will next meet. [58231/25] ",
       "house": {
-        "showAs": "34th Dáil",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "chamberType": "house",
+        "houseCode": "dail",
         "committeeCode": "",
         "houseNo": "34",
-        "houseCode": "dail"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "chamberType": "house"
       },
       "by": {
-        "showAs": "Brendan Smith",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Brendan-Smith.D.1992-12-14",
-        "memberCode": "Brendan-Smith.D.1992-12-14"
+        "memberCode": "Brendan-Smith.D.1992-12-14",
+        "showAs": "Brendan Smith"
+      }
+    },
+    "contextDate": "2025-11-19"
+  },
+  {
+    "question": {
+      "to": {
+        "roleType": null,
+        "uri": null,
+        "roleCode": null,
+        "showAs": "Taoiseach"
       },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-19/pq_8",
       "questionType": "oral",
-      "questionNumber": 8,
       "date": "2025-11-19",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-19/pq_9",
+      "questionNumber": 9,
       "debateSection": {
-        "showAs": "Cabinet Committees",
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-19/debate/dbsect_17",
+        "showAs": "Cabinet Committees",
+        "debateSectionId": "dbsect_17",
         "formats": {
           "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-19/debate/mul@/dbsect_17.xml"
           }
-        },
-        "debateSectionId": "dbsect_17"
+        }
       },
-      "to": {
-        "showAs": "Taoiseach",
-        "uri": null,
-        "roleCode": null,
-        "roleType": null
-      }
-    }
-  },
-  {
-    "contextDate": "2025-11-19",
-    "question": {
       "showAs": " 9. Deputy Barry Heneghan asked the Taoiseach when the Cabinet Committee on water quality will meet next. [59583/25] ",
       "house": {
-        "showAs": "34th Dáil",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "chamberType": "house",
+        "houseCode": "dail",
         "committeeCode": "",
         "houseNo": "34",
-        "houseCode": "dail"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "chamberType": "house"
       },
       "by": {
-        "showAs": "Barry Heneghan",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Barry-Heneghan.D.2024-11-29",
-        "memberCode": "Barry-Heneghan.D.2024-11-29"
+        "memberCode": "Barry-Heneghan.D.2024-11-29",
+        "showAs": "Barry Heneghan"
+      }
+    },
+    "contextDate": "2025-11-19"
+  },
+  {
+    "question": {
+      "to": {
+        "roleType": null,
+        "uri": null,
+        "roleCode": null,
+        "showAs": "Taoiseach"
       },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-19/pq_9",
       "questionType": "oral",
-      "questionNumber": 9,
       "date": "2025-11-19",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-19/pq_10",
+      "questionNumber": 10,
       "debateSection": {
-        "showAs": "Cabinet Committees",
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-19/debate/dbsect_17",
+        "showAs": "Cabinet Committees",
+        "debateSectionId": "dbsect_17",
         "formats": {
           "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-19/debate/mul@/dbsect_17.xml"
           }
-        },
-        "debateSectionId": "dbsect_17"
+        }
       },
-      "to": {
-        "showAs": "Taoiseach",
-        "uri": null,
-        "roleCode": null,
-        "roleType": null
-      }
-    }
-  },
-  {
-    "contextDate": "2025-11-19",
-    "question": {
       "showAs": " 10. Deputy Rose Conway-Walsh asked the Taoiseach when the Cabinet Committee on water quality will next meet. [59735/25] ",
       "house": {
-        "showAs": "34th Dáil",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "chamberType": "house",
+        "houseCode": "dail",
         "committeeCode": "",
         "houseNo": "34",
-        "houseCode": "dail"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "chamberType": "house"
       },
       "by": {
-        "showAs": "Rose Conway-Walsh",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Rose-Conway-Walsh.S.2016-04-25",
-        "memberCode": "Rose-Conway-Walsh.S.2016-04-25"
+        "memberCode": "Rose-Conway-Walsh.S.2016-04-25",
+        "showAs": "Rose Conway-Walsh"
+      }
+    },
+    "contextDate": "2025-11-19"
+  },
+  {
+    "question": {
+      "to": {
+        "roleType": null,
+        "uri": null,
+        "roleCode": null,
+        "showAs": "Taoiseach"
       },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-19/pq_10",
       "questionType": "oral",
-      "questionNumber": 10,
       "date": "2025-11-19",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-19/pq_11",
+      "questionNumber": 11,
       "debateSection": {
-        "showAs": "Cabinet Committees",
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-19/debate/dbsect_17",
+        "showAs": "Cabinet Committees",
+        "debateSectionId": "dbsect_17",
         "formats": {
           "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-19/debate/mul@/dbsect_17.xml"
           }
-        },
-        "debateSectionId": "dbsect_17"
+        }
       },
-      "to": {
-        "showAs": "Taoiseach",
-        "uri": null,
-        "roleCode": null,
-        "roleType": null
-      }
-    }
-  },
-  {
-    "contextDate": "2025-11-19",
-    "question": {
       "showAs": " 11. Deputy Richard Boyd Barrett asked the Taoiseach when the Cabinet Committee on water quality will next meet. [61677/25] ",
       "house": {
-        "showAs": "34th Dáil",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "chamberType": "house",
+        "houseCode": "dail",
         "committeeCode": "",
         "houseNo": "34",
-        "houseCode": "dail"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "chamberType": "house"
       },
       "by": {
-        "showAs": "Richard Boyd Barrett",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Richard-Boyd-Barrett.D.2011-03-09",
-        "memberCode": "Richard-Boyd-Barrett.D.2011-03-09"
+        "memberCode": "Richard-Boyd-Barrett.D.2011-03-09",
+        "showAs": "Richard Boyd Barrett"
+      }
+    },
+    "contextDate": "2025-11-19"
+  },
+  {
+    "question": {
+      "to": {
+        "roleType": null,
+        "uri": null,
+        "roleCode": null,
+        "showAs": "Taoiseach"
       },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-19/pq_11",
       "questionType": "oral",
-      "questionNumber": 11,
       "date": "2025-11-19",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-19/pq_12",
+      "questionNumber": 12,
       "debateSection": {
-        "showAs": "Cabinet Committees",
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-19/debate/dbsect_17",
+        "showAs": "Cabinet Committees",
+        "debateSectionId": "dbsect_17",
         "formats": {
           "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-19/debate/mul@/dbsect_17.xml"
           }
-        },
-        "debateSectionId": "dbsect_17"
+        }
       },
-      "to": {
-        "showAs": "Taoiseach",
-        "uri": null,
-        "roleCode": null,
-        "roleType": null
-      }
-    }
-  },
-  {
-    "contextDate": "2025-11-19",
-    "question": {
       "showAs": " 12. Deputy Liam Quaide asked the Taoiseach when the Cabinet Committee on water quality will next meet. [63177/25] ",
       "house": {
-        "showAs": "34th Dáil",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "chamberType": "house",
+        "houseCode": "dail",
         "committeeCode": "",
         "houseNo": "34",
-        "houseCode": "dail"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "chamberType": "house"
       },
       "by": {
-        "showAs": "Liam Quaide",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Liam-Quaide.D.2024-11-29",
-        "memberCode": "Liam-Quaide.D.2024-11-29"
+        "memberCode": "Liam-Quaide.D.2024-11-29",
+        "showAs": "Liam Quaide"
+      }
+    },
+    "contextDate": "2025-11-19"
+  },
+  {
+    "question": {
+      "to": {
+        "roleType": null,
+        "uri": null,
+        "roleCode": null,
+        "showAs": "Taoiseach"
       },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-19/pq_12",
       "questionType": "oral",
-      "questionNumber": 12,
       "date": "2025-11-19",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-19/pq_13",
+      "questionNumber": 13,
       "debateSection": {
-        "showAs": "Cabinet Committees",
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-19/debate/dbsect_17",
+        "showAs": "Cabinet Committees",
+        "debateSectionId": "dbsect_17",
         "formats": {
           "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-19/debate/mul@/dbsect_17.xml"
           }
-        },
-        "debateSectionId": "dbsect_17"
+        }
       },
-      "to": {
-        "showAs": "Taoiseach",
-        "uri": null,
-        "roleCode": null,
-        "roleType": null
-      }
-    }
-  },
-  {
-    "contextDate": "2025-11-19",
-    "question": {
       "showAs": " 13. Deputy Erin McGreehan asked the Taoiseach when the Cabinet Committee on water quality will next meet. [63428/25] ",
       "house": {
-        "showAs": "34th Dáil",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "chamberType": "house",
+        "houseCode": "dail",
         "committeeCode": "",
         "houseNo": "34",
-        "houseCode": "dail"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "chamberType": "house"
       },
       "by": {
-        "showAs": "Erin McGreehan",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Erin-McGreehan.S.2020-06-29",
-        "memberCode": "Erin-McGreehan.S.2020-06-29"
+        "memberCode": "Erin-McGreehan.S.2020-06-29",
+        "showAs": "Erin McGreehan"
+      }
+    },
+    "contextDate": "2025-11-19"
+  },
+  {
+    "question": {
+      "to": {
+        "roleType": null,
+        "uri": null,
+        "roleCode": null,
+        "showAs": "Taoiseach"
       },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-19/pq_13",
       "questionType": "oral",
-      "questionNumber": 13,
       "date": "2025-11-19",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-19/pq_14",
+      "questionNumber": 14,
       "debateSection": {
-        "showAs": "Cabinet Committees",
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-19/debate/dbsect_17",
+        "showAs": "Cabinet Committees",
+        "debateSectionId": "dbsect_17",
         "formats": {
           "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-19/debate/mul@/dbsect_17.xml"
           }
-        },
-        "debateSectionId": "dbsect_17"
+        }
       },
-      "to": {
-        "showAs": "Taoiseach",
-        "uri": null,
-        "roleCode": null,
-        "roleType": null
-      }
-    }
-  },
-  {
-    "contextDate": "2025-11-19",
-    "question": {
       "showAs": " 14. Deputy Malcolm Byrne asked the Taoiseach when the Cabinet Committee on water quality will next meet. [63480/25] ",
       "house": {
-        "showAs": "34th Dáil",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "chamberType": "house",
+        "houseCode": "dail",
         "committeeCode": "",
         "houseNo": "34",
-        "houseCode": "dail"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "chamberType": "house"
       },
       "by": {
-        "showAs": "Malcolm Byrne",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Malcolm-Byrne.D.2019-11-29",
-        "memberCode": "Malcolm-Byrne.D.2019-11-29"
+        "memberCode": "Malcolm-Byrne.D.2019-11-29",
+        "showAs": "Malcolm Byrne"
+      }
+    },
+    "contextDate": "2025-11-19"
+  },
+  {
+    "question": {
+      "to": {
+        "roleType": null,
+        "uri": null,
+        "roleCode": null,
+        "showAs": "Taoiseach"
       },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-19/pq_14",
       "questionType": "oral",
-      "questionNumber": 14,
       "date": "2025-11-19",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-19/pq_15",
+      "questionNumber": 15,
       "debateSection": {
-        "showAs": "Cabinet Committees",
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-19/debate/dbsect_17",
+        "showAs": "Cabinet Committees",
+        "debateSectionId": "dbsect_17",
         "formats": {
           "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-19/debate/mul@/dbsect_17.xml"
           }
-        },
-        "debateSectionId": "dbsect_17"
+        }
       },
-      "to": {
-        "showAs": "Taoiseach",
-        "uri": null,
-        "roleCode": null,
-        "roleType": null
-      }
-    }
-  },
-  {
-    "contextDate": "2025-11-19",
-    "question": {
       "showAs": " 15. Deputy Peadar Tóibín asked the Taoiseach when the Cabinet Committee on water quality will next meet. [63511/25] ",
       "house": {
-        "showAs": "34th Dáil",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "chamberType": "house",
+        "houseCode": "dail",
         "committeeCode": "",
         "houseNo": "34",
-        "houseCode": "dail"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "chamberType": "house"
       },
       "by": {
-        "showAs": "Peadar Tóibín",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Peadar-Tóibín.D.2011-03-09",
-        "memberCode": "Peadar-Tóibín.D.2011-03-09"
+        "memberCode": "Peadar-Tóibín.D.2011-03-09",
+        "showAs": "Peadar Tóibín"
+      }
+    },
+    "contextDate": "2025-11-19"
+  },
+  {
+    "question": {
+      "to": {
+        "roleType": null,
+        "uri": null,
+        "roleCode": null,
+        "showAs": "Taoiseach"
       },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-19/pq_15",
       "questionType": "oral",
-      "questionNumber": 15,
       "date": "2025-11-19",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-19/pq_16",
+      "questionNumber": 16,
       "debateSection": {
-        "showAs": "Cabinet Committees",
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-19/debate/dbsect_17",
+        "showAs": "Cabinet Committees",
+        "debateSectionId": "dbsect_17",
         "formats": {
           "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-19/debate/mul@/dbsect_17.xml"
           }
-        },
-        "debateSectionId": "dbsect_17"
+        }
       },
-      "to": {
-        "showAs": "Taoiseach",
-        "uri": null,
-        "roleCode": null,
-        "roleType": null
-      }
-    }
-  },
-  {
-    "contextDate": "2025-11-19",
-    "question": {
       "showAs": " 16. Deputy Paul Lawless asked the Taoiseach when the Cabinet Committee on water quality will next meet. [63527/25] ",
       "house": {
-        "showAs": "34th Dáil",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "chamberType": "house",
+        "houseCode": "dail",
         "committeeCode": "",
         "houseNo": "34",
-        "houseCode": "dail"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "chamberType": "house"
       },
       "by": {
-        "showAs": "Paul Lawless",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Lawless.D.2024-11-29",
-        "memberCode": "Paul-Lawless.D.2024-11-29"
+        "memberCode": "Paul-Lawless.D.2024-11-29",
+        "showAs": "Paul Lawless"
+      }
+    },
+    "contextDate": "2025-11-19"
+  },
+  {
+    "question": {
+      "to": {
+        "roleType": null,
+        "uri": null,
+        "roleCode": null,
+        "showAs": "Taoiseach"
       },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-19/pq_16",
       "questionType": "oral",
-      "questionNumber": 16,
       "date": "2025-11-19",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-19/pq_17",
+      "questionNumber": 17,
       "debateSection": {
-        "showAs": "Cabinet Committees",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-19/debate/dbsect_17",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-19/debate/dbsect_18",
+        "showAs": "Cross-Border Co-operation",
+        "debateSectionId": "dbsect_18",
         "formats": {
           "pdf": null,
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-19/debate/mul@/dbsect_17.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-19/debate/mul@/dbsect_18.xml"
           }
-        },
-        "debateSectionId": "dbsect_17"
+        }
       },
-      "to": {
-        "showAs": "Taoiseach",
-        "uri": null,
-        "roleCode": null,
-        "roleType": null
-      }
-    }
-  },
-  {
-    "contextDate": "2025-11-19",
-    "question": {
       "showAs": " 17. Deputy Brendan Smith asked the Taoiseach for a report on the work of the shared island unit.  [48516/25] ",
       "house": {
-        "showAs": "34th Dáil",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "chamberType": "house",
+        "houseCode": "dail",
         "committeeCode": "",
         "houseNo": "34",
-        "houseCode": "dail"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "chamberType": "house"
       },
       "by": {
-        "showAs": "Brendan Smith",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Brendan-Smith.D.1992-12-14",
-        "memberCode": "Brendan-Smith.D.1992-12-14"
+        "memberCode": "Brendan-Smith.D.1992-12-14",
+        "showAs": "Brendan Smith"
+      }
+    },
+    "contextDate": "2025-11-19"
+  },
+  {
+    "question": {
+      "to": {
+        "roleType": null,
+        "uri": null,
+        "roleCode": null,
+        "showAs": "Taoiseach"
       },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-19/pq_17",
       "questionType": "oral",
-      "questionNumber": 17,
       "date": "2025-11-19",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-19/pq_18",
+      "questionNumber": 18,
       "debateSection": {
-        "showAs": "Cross-Border Co-operation",
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-19/debate/dbsect_18",
+        "showAs": "Cross-Border Co-operation",
+        "debateSectionId": "dbsect_18",
         "formats": {
           "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-19/debate/mul@/dbsect_18.xml"
           }
-        },
-        "debateSectionId": "dbsect_18"
+        }
       },
-      "to": {
-        "showAs": "Taoiseach",
-        "uri": null,
-        "roleCode": null,
-        "roleType": null
-      }
-    }
-  },
-  {
-    "contextDate": "2025-11-19",
-    "question": {
       "showAs": " 18. Deputy Erin McGreehan asked the Taoiseach for a report on the work of the shared island unit.  [48519/25] ",
       "house": {
-        "showAs": "34th Dáil",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "chamberType": "house",
+        "houseCode": "dail",
         "committeeCode": "",
         "houseNo": "34",
-        "houseCode": "dail"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "chamberType": "house"
       },
       "by": {
-        "showAs": "Erin McGreehan",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Erin-McGreehan.S.2020-06-29",
-        "memberCode": "Erin-McGreehan.S.2020-06-29"
+        "memberCode": "Erin-McGreehan.S.2020-06-29",
+        "showAs": "Erin McGreehan"
+      }
+    },
+    "contextDate": "2025-11-19"
+  },
+  {
+    "question": {
+      "to": {
+        "roleType": null,
+        "uri": null,
+        "roleCode": null,
+        "showAs": "Taoiseach"
       },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-19/pq_18",
       "questionType": "oral",
-      "questionNumber": 18,
       "date": "2025-11-19",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-19/pq_19",
+      "questionNumber": 19,
       "debateSection": {
-        "showAs": "Cross-Border Co-operation",
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-19/debate/dbsect_18",
+        "showAs": "Cross-Border Co-operation",
+        "debateSectionId": "dbsect_18",
         "formats": {
           "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-19/debate/mul@/dbsect_18.xml"
           }
-        },
-        "debateSectionId": "dbsect_18"
+        }
       },
-      "to": {
-        "showAs": "Taoiseach",
-        "uri": null,
-        "roleCode": null,
-        "roleType": null
-      }
-    }
-  },
-  {
-    "contextDate": "2025-11-19",
-    "question": {
       "showAs": " 19. Deputy Cormac Devlin asked the Taoiseach for a report on the work of the shared island unit.  [50000/25] ",
       "house": {
-        "showAs": "34th Dáil",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "chamberType": "house",
+        "houseCode": "dail",
         "committeeCode": "",
         "houseNo": "34",
-        "houseCode": "dail"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "chamberType": "house"
       },
       "by": {
-        "showAs": "Cormac Devlin",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Cormac-Devlin.D.2020-02-08",
-        "memberCode": "Cormac-Devlin.D.2020-02-08"
+        "memberCode": "Cormac-Devlin.D.2020-02-08",
+        "showAs": "Cormac Devlin"
+      }
+    },
+    "contextDate": "2025-11-19"
+  },
+  {
+    "question": {
+      "to": {
+        "roleType": null,
+        "uri": null,
+        "roleCode": null,
+        "showAs": "Taoiseach"
       },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-19/pq_19",
       "questionType": "oral",
-      "questionNumber": 19,
       "date": "2025-11-19",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-19/pq_20",
+      "questionNumber": 20,
       "debateSection": {
-        "showAs": "Cross-Border Co-operation",
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-19/debate/dbsect_18",
+        "showAs": "Cross-Border Co-operation",
+        "debateSectionId": "dbsect_18",
         "formats": {
           "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-19/debate/mul@/dbsect_18.xml"
           }
-        },
-        "debateSectionId": "dbsect_18"
+        }
       },
-      "to": {
-        "showAs": "Taoiseach",
-        "uri": null,
-        "roleCode": null,
-        "roleType": null
-      }
-    }
-  },
-  {
-    "contextDate": "2025-11-19",
-    "question": {
       "showAs": " 20. Deputy Darren O'Rourke asked the Taoiseach for a report on the work of the shared island unit.  [56576/25] ",
       "house": {
-        "showAs": "34th Dáil",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "chamberType": "house",
+        "houseCode": "dail",
         "committeeCode": "",
         "houseNo": "34",
-        "houseCode": "dail"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "chamberType": "house"
       },
       "by": {
-        "showAs": "Darren O'Rourke",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Darren-O'Rourke.D.2020-02-08",
-        "memberCode": "Darren-O'Rourke.D.2020-02-08"
+        "memberCode": "Darren-O'Rourke.D.2020-02-08",
+        "showAs": "Darren O'Rourke"
+      }
+    },
+    "contextDate": "2025-11-19"
+  },
+  {
+    "question": {
+      "to": {
+        "roleType": null,
+        "uri": null,
+        "roleCode": null,
+        "showAs": "Taoiseach"
       },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-19/pq_20",
       "questionType": "oral",
-      "questionNumber": 20,
       "date": "2025-11-19",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-19/pq_21",
+      "questionNumber": 21,
       "debateSection": {
-        "showAs": "Cross-Border Co-operation",
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-19/debate/dbsect_18",
+        "showAs": "Cross-Border Co-operation",
+        "debateSectionId": "dbsect_18",
         "formats": {
           "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-19/debate/mul@/dbsect_18.xml"
           }
-        },
-        "debateSectionId": "dbsect_18"
+        }
       },
-      "to": {
-        "showAs": "Taoiseach",
-        "uri": null,
-        "roleCode": null,
-        "roleType": null
-      }
-    }
-  },
-  {
-    "contextDate": "2025-11-19",
-    "question": {
       "showAs": " 21. Deputy Ivana Bacik asked the Taoiseach for a report on the work of the shared island unit.  [56979/25] ",
       "house": {
-        "showAs": "34th Dáil",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "chamberType": "house",
+        "houseCode": "dail",
         "committeeCode": "",
         "houseNo": "34",
-        "houseCode": "dail"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "chamberType": "house"
       },
       "by": {
-        "showAs": "Ivana Bacik",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ivana-Bacik.S.2007-07-23",
-        "memberCode": "Ivana-Bacik.S.2007-07-23"
+        "memberCode": "Ivana-Bacik.S.2007-07-23",
+        "showAs": "Ivana Bacik"
+      }
+    },
+    "contextDate": "2025-11-19"
+  },
+  {
+    "question": {
+      "to": {
+        "roleType": null,
+        "uri": null,
+        "roleCode": null,
+        "showAs": "Taoiseach"
       },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-19/pq_21",
       "questionType": "oral",
-      "questionNumber": 21,
       "date": "2025-11-19",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-19/pq_22",
+      "questionNumber": 22,
       "debateSection": {
-        "showAs": "Cross-Border Co-operation",
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-19/debate/dbsect_18",
+        "showAs": "Cross-Border Co-operation",
+        "debateSectionId": "dbsect_18",
         "formats": {
           "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-19/debate/mul@/dbsect_18.xml"
           }
-        },
-        "debateSectionId": "dbsect_18"
+        }
       },
-      "to": {
-        "showAs": "Taoiseach",
-        "uri": null,
-        "roleCode": null,
-        "roleType": null
-      }
-    }
-  },
-  {
-    "contextDate": "2025-11-19",
-    "question": {
       "showAs": " 22. Deputy Paul Murphy asked the Taoiseach for a report on the work of the shared island unit.  [56997/25] ",
       "house": {
-        "showAs": "34th Dáil",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "chamberType": "house",
+        "houseCode": "dail",
         "committeeCode": "",
         "houseNo": "34",
-        "houseCode": "dail"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "chamberType": "house"
       },
       "by": {
-        "showAs": "Paul Murphy",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Murphy.D.2014-10-10",
-        "memberCode": "Paul-Murphy.D.2014-10-10"
+        "memberCode": "Paul-Murphy.D.2014-10-10",
+        "showAs": "Paul Murphy"
+      }
+    },
+    "contextDate": "2025-11-19"
+  },
+  {
+    "question": {
+      "to": {
+        "roleType": null,
+        "uri": null,
+        "roleCode": null,
+        "showAs": "Taoiseach"
       },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-19/pq_22",
       "questionType": "oral",
-      "questionNumber": 22,
       "date": "2025-11-19",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-19/pq_23",
+      "questionNumber": 23,
       "debateSection": {
-        "showAs": "Cross-Border Co-operation",
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-19/debate/dbsect_18",
+        "showAs": "Cross-Border Co-operation",
+        "debateSectionId": "dbsect_18",
         "formats": {
           "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-19/debate/mul@/dbsect_18.xml"
           }
-        },
-        "debateSectionId": "dbsect_18"
+        }
       },
-      "to": {
-        "showAs": "Taoiseach",
-        "uri": null,
-        "roleCode": null,
-        "roleType": null
-      }
-    }
-  },
-  {
-    "contextDate": "2025-11-19",
-    "question": {
       "showAs": " 23. Deputy Ruth Coppinger asked the Taoiseach for a report on the work of the shared island unit.  [57003/25] ",
       "house": {
-        "showAs": "34th Dáil",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "chamberType": "house",
+        "houseCode": "dail",
         "committeeCode": "",
         "houseNo": "34",
-        "houseCode": "dail"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "chamberType": "house"
       },
       "by": {
-        "showAs": "Ruth Coppinger",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruth-Coppinger.D.2014-05-23",
-        "memberCode": "Ruth-Coppinger.D.2014-05-23"
+        "memberCode": "Ruth-Coppinger.D.2014-05-23",
+        "showAs": "Ruth Coppinger"
+      }
+    },
+    "contextDate": "2025-11-19"
+  },
+  {
+    "question": {
+      "to": {
+        "roleType": null,
+        "uri": null,
+        "roleCode": null,
+        "showAs": "Taoiseach"
       },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-19/pq_23",
       "questionType": "oral",
-      "questionNumber": 23,
       "date": "2025-11-19",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-19/pq_24",
+      "questionNumber": 24,
       "debateSection": {
-        "showAs": "Cross-Border Co-operation",
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-19/debate/dbsect_18",
+        "showAs": "Cross-Border Co-operation",
+        "debateSectionId": "dbsect_18",
         "formats": {
           "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-19/debate/mul@/dbsect_18.xml"
           }
-        },
-        "debateSectionId": "dbsect_18"
+        }
       },
-      "to": {
-        "showAs": "Taoiseach",
-        "uri": null,
-        "roleCode": null,
-        "roleType": null
-      }
-    }
-  },
-  {
-    "contextDate": "2025-11-19",
-    "question": {
       "showAs": " 24. Deputy Ruairí Ó Murchú asked the Taoiseach for a report on the work of the shared island Unit.  [61452/25] ",
       "house": {
-        "showAs": "34th Dáil",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "chamberType": "house",
+        "houseCode": "dail",
         "committeeCode": "",
         "houseNo": "34",
-        "houseCode": "dail"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "chamberType": "house"
       },
       "by": {
-        "showAs": "Ruairí Ó Murchú",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruairí-Ó-Murchú.D.2020-02-08",
-        "memberCode": "Ruairí-Ó-Murchú.D.2020-02-08"
+        "memberCode": "Ruairí-Ó-Murchú.D.2020-02-08",
+        "showAs": "Ruairí Ó Murchú"
+      }
+    },
+    "contextDate": "2025-11-19"
+  },
+  {
+    "question": {
+      "to": {
+        "roleType": null,
+        "uri": null,
+        "roleCode": null,
+        "showAs": "Taoiseach"
       },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-19/pq_24",
       "questionType": "oral",
-      "questionNumber": 24,
       "date": "2025-11-19",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-19/pq_25",
+      "questionNumber": 25,
       "debateSection": {
-        "showAs": "Cross-Border Co-operation",
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-19/debate/dbsect_18",
+        "showAs": "Cross-Border Co-operation",
+        "debateSectionId": "dbsect_18",
         "formats": {
           "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-19/debate/mul@/dbsect_18.xml"
           }
-        },
-        "debateSectionId": "dbsect_18"
+        }
       },
-      "to": {
-        "showAs": "Taoiseach",
-        "uri": null,
-        "roleCode": null,
-        "roleType": null
-      }
-    }
-  },
-  {
-    "contextDate": "2025-11-19",
-    "question": {
       "showAs": " 25. Deputy Michael Murphy asked the Taoiseach if he will report on the work of the shared island unit in quantifying the economic and social dimensions of greater North-South integration (details supplied).  [62809/25] ",
       "house": {
-        "showAs": "34th Dáil",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "chamberType": "house",
+        "houseCode": "dail",
         "committeeCode": "",
         "houseNo": "34",
-        "houseCode": "dail"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "chamberType": "house"
       },
       "by": {
-        "showAs": "Michael Murphy",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Michael-Murphy.D.2024-11-29",
-        "memberCode": "Michael-Murphy.D.2024-11-29"
+        "memberCode": "Michael-Murphy.D.2024-11-29",
+        "showAs": "Michael Murphy"
+      }
+    },
+    "contextDate": "2025-11-19"
+  },
+  {
+    "question": {
+      "to": {
+        "roleType": null,
+        "uri": null,
+        "roleCode": null,
+        "showAs": "Taoiseach"
       },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-19/pq_25",
       "questionType": "oral",
-      "questionNumber": 25,
       "date": "2025-11-19",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-19/pq_26",
+      "questionNumber": 26,
       "debateSection": {
-        "showAs": "Cross-Border Co-operation",
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-19/debate/dbsect_18",
+        "showAs": "Cross-Border Co-operation",
+        "debateSectionId": "dbsect_18",
         "formats": {
           "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-19/debate/mul@/dbsect_18.xml"
           }
-        },
-        "debateSectionId": "dbsect_18"
+        }
       },
-      "to": {
-        "showAs": "Taoiseach",
-        "uri": null,
-        "roleCode": null,
-        "roleType": null
-      }
-    }
-  },
-  {
-    "contextDate": "2025-11-19",
-    "question": {
       "showAs": " 26. Deputy Liam Quaide asked the Taoiseach for a report on the work of the shared island unit.  [63178/25] ",
       "house": {
-        "showAs": "34th Dáil",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "chamberType": "house",
+        "houseCode": "dail",
         "committeeCode": "",
         "houseNo": "34",
-        "houseCode": "dail"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "chamberType": "house"
       },
       "by": {
-        "showAs": "Liam Quaide",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Liam-Quaide.D.2024-11-29",
-        "memberCode": "Liam-Quaide.D.2024-11-29"
+        "memberCode": "Liam-Quaide.D.2024-11-29",
+        "showAs": "Liam Quaide"
+      }
+    },
+    "contextDate": "2025-11-19"
+  },
+  {
+    "question": {
+      "to": {
+        "roleType": null,
+        "uri": null,
+        "roleCode": null,
+        "showAs": "Taoiseach"
       },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-19/pq_26",
       "questionType": "oral",
-      "questionNumber": 26,
       "date": "2025-11-19",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-19/pq_27",
+      "questionNumber": 27,
       "debateSection": {
-        "showAs": "Cross-Border Co-operation",
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-19/debate/dbsect_18",
+        "showAs": "Cross-Border Co-operation",
+        "debateSectionId": "dbsect_18",
         "formats": {
           "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-19/debate/mul@/dbsect_18.xml"
           }
-        },
-        "debateSectionId": "dbsect_18"
+        }
       },
-      "to": {
-        "showAs": "Taoiseach",
-        "uri": null,
-        "roleCode": null,
-        "roleType": null
-      }
-    }
-  },
-  {
-    "contextDate": "2025-11-19",
-    "question": {
       "showAs": " 27. Deputy Shane Moynihan asked the Taoiseach for a report on the work of the shared island unit.  [63180/25] ",
       "house": {
-        "showAs": "34th Dáil",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "chamberType": "house",
+        "houseCode": "dail",
         "committeeCode": "",
         "houseNo": "34",
-        "houseCode": "dail"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "chamberType": "house"
       },
       "by": {
-        "showAs": "Shane Moynihan",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Shane-Moynihan.D.2024-11-29",
-        "memberCode": "Shane-Moynihan.D.2024-11-29"
+        "memberCode": "Shane-Moynihan.D.2024-11-29",
+        "showAs": "Shane Moynihan"
+      }
+    },
+    "contextDate": "2025-11-19"
+  },
+  {
+    "question": {
+      "to": {
+        "roleType": null,
+        "uri": null,
+        "roleCode": null,
+        "showAs": "Taoiseach"
       },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-19/pq_27",
       "questionType": "oral",
-      "questionNumber": 27,
       "date": "2025-11-19",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-19/pq_28",
+      "questionNumber": 28,
       "debateSection": {
-        "showAs": "Cross-Border Co-operation",
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-19/debate/dbsect_18",
+        "showAs": "Cross-Border Co-operation",
+        "debateSectionId": "dbsect_18",
         "formats": {
           "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-19/debate/mul@/dbsect_18.xml"
           }
-        },
-        "debateSectionId": "dbsect_18"
+        }
       },
-      "to": {
-        "showAs": "Taoiseach",
-        "uri": null,
-        "roleCode": null,
-        "roleType": null
-      }
-    }
-  },
-  {
-    "contextDate": "2025-11-19",
-    "question": {
       "showAs": " 28. Deputy Mary Lou McDonald asked the Taoiseach for a report on the work of the shared island unit.  [63429/25] ",
       "house": {
-        "showAs": "34th Dáil",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "chamberType": "house",
+        "houseCode": "dail",
         "committeeCode": "",
         "houseNo": "34",
-        "houseCode": "dail"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "chamberType": "house"
       },
       "by": {
-        "showAs": "Mary Lou McDonald",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Mary-Lou-McDonald.D.2011-03-09",
-        "memberCode": "Mary-Lou-McDonald.D.2011-03-09"
+        "memberCode": "Mary-Lou-McDonald.D.2011-03-09",
+        "showAs": "Mary Lou McDonald"
+      }
+    },
+    "contextDate": "2025-11-19"
+  },
+  {
+    "question": {
+      "to": {
+        "roleType": null,
+        "uri": null,
+        "roleCode": null,
+        "showAs": "Taoiseach"
       },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-19/pq_28",
       "questionType": "oral",
-      "questionNumber": 28,
       "date": "2025-11-19",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-19/pq_29",
+      "questionNumber": 29,
       "debateSection": {
-        "showAs": "Cross-Border Co-operation",
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-19/debate/dbsect_18",
+        "showAs": "Cross-Border Co-operation",
+        "debateSectionId": "dbsect_18",
         "formats": {
           "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-19/debate/mul@/dbsect_18.xml"
           }
-        },
-        "debateSectionId": "dbsect_18"
+        }
       },
-      "to": {
-        "showAs": "Taoiseach",
-        "uri": null,
-        "roleCode": null,
-        "roleType": null
-      }
-    }
-  },
-  {
-    "contextDate": "2025-11-19",
-    "question": {
       "showAs": " 29. Deputy Richard Boyd Barrett asked the Taoiseach for a report on the work of the shared island unit.  [63463/25] ",
       "house": {
-        "showAs": "34th Dáil",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "chamberType": "house",
+        "houseCode": "dail",
         "committeeCode": "",
         "houseNo": "34",
-        "houseCode": "dail"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "chamberType": "house"
       },
       "by": {
-        "showAs": "Richard Boyd Barrett",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Richard-Boyd-Barrett.D.2011-03-09",
-        "memberCode": "Richard-Boyd-Barrett.D.2011-03-09"
+        "memberCode": "Richard-Boyd-Barrett.D.2011-03-09",
+        "showAs": "Richard Boyd Barrett"
+      }
+    },
+    "contextDate": "2025-11-19"
+  },
+  {
+    "question": {
+      "to": {
+        "roleType": null,
+        "uri": null,
+        "roleCode": null,
+        "showAs": "Taoiseach"
       },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-19/pq_29",
       "questionType": "oral",
-      "questionNumber": 29,
       "date": "2025-11-19",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-19/pq_30",
+      "questionNumber": 30,
       "debateSection": {
-        "showAs": "Cross-Border Co-operation",
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-19/debate/dbsect_18",
+        "showAs": "Cross-Border Co-operation",
+        "debateSectionId": "dbsect_18",
         "formats": {
           "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-19/debate/mul@/dbsect_18.xml"
           }
-        },
-        "debateSectionId": "dbsect_18"
+        }
       },
-      "to": {
-        "showAs": "Taoiseach",
-        "uri": null,
-        "roleCode": null,
-        "roleType": null
-      }
-    }
-  },
-  {
-    "contextDate": "2025-11-19",
-    "question": {
       "showAs": " 30. Deputy Peadar Tóibín asked the Taoiseach if he will report on the work of the shared island unit.  [63512/25] ",
       "house": {
-        "showAs": "34th Dáil",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "chamberType": "house",
+        "houseCode": "dail",
         "committeeCode": "",
         "houseNo": "34",
-        "houseCode": "dail"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "chamberType": "house"
       },
       "by": {
-        "showAs": "Peadar Tóibín",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Peadar-Tóibín.D.2011-03-09",
-        "memberCode": "Peadar-Tóibín.D.2011-03-09"
-      },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-19/pq_30",
-      "questionType": "oral",
-      "questionNumber": 30,
-      "date": "2025-11-19",
-      "debateSection": {
-        "showAs": "Cross-Border Co-operation",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-19/debate/dbsect_18",
-        "formats": {
-          "pdf": null,
-          "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-19/debate/mul@/dbsect_18.xml"
-          }
-        },
-        "debateSectionId": "dbsect_18"
-      },
-      "to": {
-        "showAs": "Taoiseach",
-        "uri": null,
-        "roleCode": null,
-        "roleType": null
+        "memberCode": "Peadar-Tóibín.D.2011-03-09",
+        "showAs": "Peadar Tóibín"
       }
-    }
+    },
+    "contextDate": "2025-11-19"
   },
   {
-    "contextDate": "2025-11-19",
     "question": {
-      "showAs": " 31. Deputy Paul Lawless asked the Taoiseach if he will report on the work of the shared island unit.  [63528/25] ",
-      "house": {
-        "showAs": "34th Dáil",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "chamberType": "house",
-        "committeeCode": "",
-        "houseNo": "34",
-        "houseCode": "dail"
+      "to": {
+        "roleType": null,
+        "uri": null,
+        "roleCode": null,
+        "showAs": "Taoiseach"
       },
-      "by": {
-        "showAs": "Paul Lawless",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Lawless.D.2024-11-29",
-        "memberCode": "Paul-Lawless.D.2024-11-29"
-      },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-19/pq_31",
       "questionType": "oral",
-      "questionNumber": 31,
       "date": "2025-11-19",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-19/pq_31",
+      "questionNumber": 31,
       "debateSection": {
-        "showAs": "Cross-Border Co-operation",
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-19/debate/dbsect_18",
+        "showAs": "Cross-Border Co-operation",
+        "debateSectionId": "dbsect_18",
         "formats": {
           "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-19/debate/mul@/dbsect_18.xml"
           }
-        },
-        "debateSectionId": "dbsect_18"
+        }
       },
-      "to": {
-        "showAs": "Taoiseach",
-        "uri": null,
-        "roleCode": null,
-        "roleType": null
+      "showAs": " 31. Deputy Paul Lawless asked the Taoiseach if he will report on the work of the shared island unit.  [63528/25] ",
+      "house": {
+        "houseCode": "dail",
+        "committeeCode": "",
+        "houseNo": "34",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "chamberType": "house"
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Lawless.D.2024-11-29",
+        "memberCode": "Paul-Lawless.D.2024-11-29",
+        "showAs": "Paul Lawless"
       }
-    }
+    },
+    "contextDate": "2025-11-19"
   }
 ]

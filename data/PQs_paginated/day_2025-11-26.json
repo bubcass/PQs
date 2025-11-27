@@ -1,1 +1,1402 @@
-[]
+[
+  {
+    "contextDate": "2025-11-26",
+    "question": {
+      "to": {
+        "roleCode": null,
+        "showAs": "Taoiseach",
+        "uri": null,
+        "roleType": null
+      },
+      "questionType": "oral",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-26/pq_1",
+      "house": {
+        "houseCode": "dail",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_16",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-26/debate/dbsect_16",
+        "showAs": "Cabinet Committees",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-26/debate/mul@/dbsect_16.xml"
+          }
+        }
+      },
+      "showAs": " 1. Deputy Brendan Smith asked the Taoiseach when the Cabinet committee on Northern Ireland will next meet. [48517/25] ",
+      "date": "2025-11-26",
+      "questionNumber": 1,
+      "by": {
+        "memberCode": "Brendan-Smith.D.1992-12-14",
+        "showAs": "Brendan Smith",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Brendan-Smith.D.1992-12-14"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-26",
+    "question": {
+      "to": {
+        "roleCode": null,
+        "showAs": "Taoiseach",
+        "uri": null,
+        "roleType": null
+      },
+      "questionType": "oral",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-26/pq_2",
+      "house": {
+        "houseCode": "dail",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_16",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-26/debate/dbsect_16",
+        "showAs": "Cabinet Committees",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-26/debate/mul@/dbsect_16.xml"
+          }
+        }
+      },
+      "showAs": " 2. Deputy Erin McGreehan asked the Taoiseach when the Cabinet committee on Northern Ireland will next meet. [48520/25] ",
+      "date": "2025-11-26",
+      "questionNumber": 2,
+      "by": {
+        "memberCode": "Erin-McGreehan.S.2020-06-29",
+        "showAs": "Erin McGreehan",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Erin-McGreehan.S.2020-06-29"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-26",
+    "question": {
+      "to": {
+        "roleCode": null,
+        "showAs": "Taoiseach",
+        "uri": null,
+        "roleType": null
+      },
+      "questionType": "oral",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-26/pq_3",
+      "house": {
+        "houseCode": "dail",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_16",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-26/debate/dbsect_16",
+        "showAs": "Cabinet Committees",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-26/debate/mul@/dbsect_16.xml"
+          }
+        }
+      },
+      "showAs": " 3. Deputy Cormac Devlin asked the Taoiseach when the Cabinet committee on Northern Ireland will next meet. [50001/25] ",
+      "date": "2025-11-26",
+      "questionNumber": 3,
+      "by": {
+        "memberCode": "Cormac-Devlin.D.2020-02-08",
+        "showAs": "Cormac Devlin",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Cormac-Devlin.D.2020-02-08"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-26",
+    "question": {
+      "to": {
+        "roleCode": null,
+        "showAs": "Taoiseach",
+        "uri": null,
+        "roleType": null
+      },
+      "questionType": "oral",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-26/pq_4",
+      "house": {
+        "houseCode": "dail",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_16",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-26/debate/dbsect_16",
+        "showAs": "Cabinet Committees",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-26/debate/mul@/dbsect_16.xml"
+          }
+        }
+      },
+      "showAs": " 4. Deputy Barry Heneghan asked the Taoiseach when the Cabinet committee on Northern Ireland will next meet. [63404/25] ",
+      "date": "2025-11-26",
+      "questionNumber": 4,
+      "by": {
+        "memberCode": "Barry-Heneghan.D.2024-11-29",
+        "showAs": "Barry Heneghan",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Barry-Heneghan.D.2024-11-29"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-26",
+    "question": {
+      "to": {
+        "roleCode": null,
+        "showAs": "Taoiseach",
+        "uri": null,
+        "roleType": null
+      },
+      "questionType": "oral",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-26/pq_5",
+      "house": {
+        "houseCode": "dail",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_16",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-26/debate/dbsect_16",
+        "showAs": "Cabinet Committees",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-26/debate/mul@/dbsect_16.xml"
+          }
+        }
+      },
+      "showAs": " 5. Deputy Mary Lou McDonald asked the Taoiseach when the Cabinet committee on Northern Ireland will next meet. [63430/25] ",
+      "date": "2025-11-26",
+      "questionNumber": 5,
+      "by": {
+        "memberCode": "Mary-Lou-McDonald.D.2011-03-09",
+        "showAs": "Mary Lou McDonald",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Mary-Lou-McDonald.D.2011-03-09"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-26",
+    "question": {
+      "to": {
+        "roleCode": null,
+        "showAs": "Taoiseach",
+        "uri": null,
+        "roleType": null
+      },
+      "questionType": "oral",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-26/pq_6",
+      "house": {
+        "houseCode": "dail",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_16",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-26/debate/dbsect_16",
+        "showAs": "Cabinet Committees",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-26/debate/mul@/dbsect_16.xml"
+          }
+        }
+      },
+      "showAs": " 6. Deputy Richard Boyd Barrett asked the Taoiseach when the Cabinet committee on Northern Ireland will next meet. [63464/25] ",
+      "date": "2025-11-26",
+      "questionNumber": 6,
+      "by": {
+        "memberCode": "Richard-Boyd-Barrett.D.2011-03-09",
+        "showAs": "Richard Boyd Barrett",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Richard-Boyd-Barrett.D.2011-03-09"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-26",
+    "question": {
+      "to": {
+        "roleCode": null,
+        "showAs": "Taoiseach",
+        "uri": null,
+        "roleType": null
+      },
+      "questionType": "oral",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-26/pq_7",
+      "house": {
+        "houseCode": "dail",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_16",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-26/debate/dbsect_16",
+        "showAs": "Cabinet Committees",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-26/debate/mul@/dbsect_16.xml"
+          }
+        }
+      },
+      "showAs": " 7. Deputy Paul Murphy asked the Taoiseach when the Cabinet committee on Northern Ireland will next meet. [63466/25] ",
+      "date": "2025-11-26",
+      "questionNumber": 7,
+      "by": {
+        "memberCode": "Paul-Murphy.D.2014-10-10",
+        "showAs": "Paul Murphy",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Murphy.D.2014-10-10"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-26",
+    "question": {
+      "to": {
+        "roleCode": null,
+        "showAs": "Taoiseach",
+        "uri": null,
+        "roleType": null
+      },
+      "questionType": "oral",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-26/pq_8",
+      "house": {
+        "houseCode": "dail",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_16",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-26/debate/dbsect_16",
+        "showAs": "Cabinet Committees",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-26/debate/mul@/dbsect_16.xml"
+          }
+        }
+      },
+      "showAs": " 8. Deputy Ivana Bacik asked the Taoiseach when the Cabinet committee on Northern Ireland will next meet. [65262/25] ",
+      "date": "2025-11-26",
+      "questionNumber": 8,
+      "by": {
+        "memberCode": "Ivana-Bacik.S.2007-07-23",
+        "showAs": "Ivana Bacik",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ivana-Bacik.S.2007-07-23"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-26",
+    "question": {
+      "to": {
+        "roleCode": null,
+        "showAs": "Taoiseach",
+        "uri": null,
+        "roleType": null
+      },
+      "questionType": "oral",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-26/pq_9",
+      "house": {
+        "houseCode": "dail",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_16",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-26/debate/dbsect_16",
+        "showAs": "Cabinet Committees",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-26/debate/mul@/dbsect_16.xml"
+          }
+        }
+      },
+      "showAs": " 9. Deputy Rose Conway-Walsh asked the Taoiseach when the Cabinet committee on Northern Ireland will next meet. [65414/25] ",
+      "date": "2025-11-26",
+      "questionNumber": 9,
+      "by": {
+        "memberCode": "Rose-Conway-Walsh.S.2016-04-25",
+        "showAs": "Rose Conway-Walsh",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Rose-Conway-Walsh.S.2016-04-25"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-26",
+    "question": {
+      "to": {
+        "roleCode": null,
+        "showAs": "Taoiseach",
+        "uri": null,
+        "roleType": null
+      },
+      "questionType": "oral",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-26/pq_10",
+      "house": {
+        "houseCode": "dail",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_16",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-26/debate/dbsect_16",
+        "showAs": "Cabinet Committees",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-26/debate/mul@/dbsect_16.xml"
+          }
+        }
+      },
+      "showAs": " 10. Deputy Liam Quaide asked the Taoiseach when the Cabinet committee on Northern Ireland will next meet. [65438/25] ",
+      "date": "2025-11-26",
+      "questionNumber": 10,
+      "by": {
+        "memberCode": "Liam-Quaide.D.2024-11-29",
+        "showAs": "Liam Quaide",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Liam-Quaide.D.2024-11-29"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-26",
+    "question": {
+      "to": {
+        "roleCode": null,
+        "showAs": "Taoiseach",
+        "uri": null,
+        "roleType": null
+      },
+      "questionType": "oral",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-26/pq_11",
+      "house": {
+        "houseCode": "dail",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_16",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-26/debate/dbsect_16",
+        "showAs": "Cabinet Committees",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-26/debate/mul@/dbsect_16.xml"
+          }
+        }
+      },
+      "showAs": " 11. Deputy Cathal Crowe asked the Taoiseach when the Cabinet committee on Northern Ireland will next meet. [65549/25] ",
+      "date": "2025-11-26",
+      "questionNumber": 11,
+      "by": {
+        "memberCode": "Cathal-Crowe.D.2020-02-08",
+        "showAs": "Cathal Crowe",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Cathal-Crowe.D.2020-02-08"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-26",
+    "question": {
+      "to": {
+        "roleCode": null,
+        "showAs": "Taoiseach",
+        "uri": null,
+        "roleType": null
+      },
+      "questionType": "oral",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-26/pq_12",
+      "house": {
+        "houseCode": "dail",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_16",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-26/debate/dbsect_16",
+        "showAs": "Cabinet Committees",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-26/debate/mul@/dbsect_16.xml"
+          }
+        }
+      },
+      "showAs": " 12. Deputy Peadar Tóibín asked the Taoiseach when the Cabinet committee on Northern Ireland will next meet. [65831/25] ",
+      "date": "2025-11-26",
+      "questionNumber": 12,
+      "by": {
+        "memberCode": "Peadar-Tóibín.D.2011-03-09",
+        "showAs": "Peadar Tóibín",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Peadar-Tóibín.D.2011-03-09"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-26",
+    "question": {
+      "to": {
+        "roleCode": null,
+        "showAs": "Taoiseach",
+        "uri": null,
+        "roleType": null
+      },
+      "questionType": "oral",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-26/pq_13",
+      "house": {
+        "houseCode": "dail",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_16",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-26/debate/dbsect_16",
+        "showAs": "Cabinet Committees",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-26/debate/mul@/dbsect_16.xml"
+          }
+        }
+      },
+      "showAs": " 13. Deputy Conor D. McGuinness asked the Taoiseach when the Cabinet committee on Northern Ireland will next meet. [65861/25] ",
+      "date": "2025-11-26",
+      "questionNumber": 13,
+      "by": {
+        "memberCode": "Conor-D-McGuinness.D.2024-11-29",
+        "showAs": "Conor D McGuinness",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Conor-D-McGuinness.D.2024-11-29"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-26",
+    "question": {
+      "to": {
+        "roleCode": null,
+        "showAs": "Taoiseach",
+        "uri": null,
+        "roleType": null
+      },
+      "questionType": "oral",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-26/pq_14",
+      "house": {
+        "houseCode": "dail",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_17",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-26/debate/dbsect_17",
+        "showAs": "Departmental Programmes",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-26/debate/mul@/dbsect_17.xml"
+          }
+        }
+      },
+      "showAs": " 14. Deputy Pádraig O'Sullivan asked the Taoiseach if he will report on the programme plan for his Department’s new disability unit for 2025-2027. [48526/25] ",
+      "date": "2025-11-26",
+      "questionNumber": 14,
+      "by": {
+        "memberCode": "Pádraig-O'Sullivan.D.2019-11-29",
+        "showAs": "Pádraig O'Sullivan",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Pádraig-O'Sullivan.D.2019-11-29"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-26",
+    "question": {
+      "to": {
+        "roleCode": null,
+        "showAs": "Taoiseach",
+        "uri": null,
+        "roleType": null
+      },
+      "questionType": "oral",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-26/pq_15",
+      "house": {
+        "houseCode": "dail",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_17",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-26/debate/dbsect_17",
+        "showAs": "Departmental Programmes",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-26/debate/mul@/dbsect_17.xml"
+          }
+        }
+      },
+      "showAs": " 15. Deputy Ruairí Ó Murchú asked the Taoiseach if he will report on the programme plan for his Department's new disability unit for 2025-2027. [61453/25] ",
+      "date": "2025-11-26",
+      "questionNumber": 15,
+      "by": {
+        "memberCode": "Ruairí-Ó-Murchú.D.2020-02-08",
+        "showAs": "Ruairí Ó Murchú",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruairí-Ó-Murchú.D.2020-02-08"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-26",
+    "question": {
+      "to": {
+        "roleCode": null,
+        "showAs": "Taoiseach",
+        "uri": null,
+        "roleType": null
+      },
+      "questionType": "oral",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-26/pq_16",
+      "house": {
+        "houseCode": "dail",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_17",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-26/debate/dbsect_17",
+        "showAs": "Departmental Programmes",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-26/debate/mul@/dbsect_17.xml"
+          }
+        }
+      },
+      "showAs": " 16. Deputy Cian O'Callaghan asked the Taoiseach if he will report on the programme plan for his Department's new disability unit for 2025-2027. [61464/25] ",
+      "date": "2025-11-26",
+      "questionNumber": 16,
+      "by": {
+        "memberCode": "Cian-O'Callaghan.D.2020-02-08",
+        "showAs": "Cian O'Callaghan",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Cian-O'Callaghan.D.2020-02-08"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-26",
+    "question": {
+      "to": {
+        "roleCode": null,
+        "showAs": "Taoiseach",
+        "uri": null,
+        "roleType": null
+      },
+      "questionType": "oral",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-26/pq_17",
+      "house": {
+        "houseCode": "dail",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_17",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-26/debate/dbsect_17",
+        "showAs": "Departmental Programmes",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-26/debate/mul@/dbsect_17.xml"
+          }
+        }
+      },
+      "showAs": " 17. Deputy Ruth Coppinger asked the Taoiseach if he will report on the programme plan for his Department's new disability unit for 2025-2027. [63181/25] ",
+      "date": "2025-11-26",
+      "questionNumber": 17,
+      "by": {
+        "memberCode": "Ruth-Coppinger.D.2014-05-23",
+        "showAs": "Ruth Coppinger",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruth-Coppinger.D.2014-05-23"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-26",
+    "question": {
+      "to": {
+        "roleCode": null,
+        "showAs": "Taoiseach",
+        "uri": null,
+        "roleType": null
+      },
+      "questionType": "oral",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-26/pq_18",
+      "house": {
+        "houseCode": "dail",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_17",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-26/debate/dbsect_17",
+        "showAs": "Departmental Programmes",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-26/debate/mul@/dbsect_17.xml"
+          }
+        }
+      },
+      "showAs": " 18. Deputy Barry Heneghan asked the Taoiseach if he will report on the programme plan for his Department’s new disability unit for 2025-2027. [63403/25] ",
+      "date": "2025-11-26",
+      "questionNumber": 18,
+      "by": {
+        "memberCode": "Barry-Heneghan.D.2024-11-29",
+        "showAs": "Barry Heneghan",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Barry-Heneghan.D.2024-11-29"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-26",
+    "question": {
+      "to": {
+        "roleCode": null,
+        "showAs": "Taoiseach",
+        "uri": null,
+        "roleType": null
+      },
+      "questionType": "oral",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-26/pq_19",
+      "house": {
+        "houseCode": "dail",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_17",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-26/debate/dbsect_17",
+        "showAs": "Departmental Programmes",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-26/debate/mul@/dbsect_17.xml"
+          }
+        }
+      },
+      "showAs": " 19. Deputy Martin Daly asked the Taoiseach if he will report on the programme plan for his Department’s new disability unit for 2025-2027. [63424/25] ",
+      "date": "2025-11-26",
+      "questionNumber": 19,
+      "by": {
+        "memberCode": "Martin-Daly.D.2024-11-29",
+        "showAs": "Martin Daly",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Martin-Daly.D.2024-11-29"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-26",
+    "question": {
+      "to": {
+        "roleCode": null,
+        "showAs": "Taoiseach",
+        "uri": null,
+        "roleType": null
+      },
+      "questionType": "oral",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-26/pq_20",
+      "house": {
+        "houseCode": "dail",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_17",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-26/debate/dbsect_17",
+        "showAs": "Departmental Programmes",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-26/debate/mul@/dbsect_17.xml"
+          }
+        }
+      },
+      "showAs": " 20. Deputy Richard Boyd Barrett asked the Taoiseach if he will report on the programme plan for his Department’s new disability unit for 2025-2027. [63465/25] ",
+      "date": "2025-11-26",
+      "questionNumber": 20,
+      "by": {
+        "memberCode": "Richard-Boyd-Barrett.D.2011-03-09",
+        "showAs": "Richard Boyd Barrett",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Richard-Boyd-Barrett.D.2011-03-09"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-26",
+    "question": {
+      "to": {
+        "roleCode": null,
+        "showAs": "Taoiseach",
+        "uri": null,
+        "roleType": null
+      },
+      "questionType": "oral",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-26/pq_21",
+      "house": {
+        "houseCode": "dail",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_17",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-26/debate/dbsect_17",
+        "showAs": "Departmental Programmes",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-26/debate/mul@/dbsect_17.xml"
+          }
+        }
+      },
+      "showAs": " 21. Deputy Paul Murphy asked the Taoiseach if he will report on the programme plan for his Department’s new disability unit for 2025-2027. [63467/25] ",
+      "date": "2025-11-26",
+      "questionNumber": 21,
+      "by": {
+        "memberCode": "Paul-Murphy.D.2014-10-10",
+        "showAs": "Paul Murphy",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Murphy.D.2014-10-10"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-26",
+    "question": {
+      "to": {
+        "roleCode": null,
+        "showAs": "Taoiseach",
+        "uri": null,
+        "roleType": null
+      },
+      "questionType": "oral",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-26/pq_22",
+      "house": {
+        "houseCode": "dail",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_17",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-26/debate/dbsect_17",
+        "showAs": "Departmental Programmes",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-26/debate/mul@/dbsect_17.xml"
+          }
+        }
+      },
+      "showAs": " 22. Deputy Peadar Tóibín asked the Taoiseach if he will report on the plan for a new disability unit in his Department. [63513/25] ",
+      "date": "2025-11-26",
+      "questionNumber": 22,
+      "by": {
+        "memberCode": "Peadar-Tóibín.D.2011-03-09",
+        "showAs": "Peadar Tóibín",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Peadar-Tóibín.D.2011-03-09"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-26",
+    "question": {
+      "to": {
+        "roleCode": null,
+        "showAs": "Taoiseach",
+        "uri": null,
+        "roleType": null
+      },
+      "questionType": "oral",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-26/pq_23",
+      "house": {
+        "houseCode": "dail",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_17",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-26/debate/dbsect_17",
+        "showAs": "Departmental Programmes",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-26/debate/mul@/dbsect_17.xml"
+          }
+        }
+      },
+      "showAs": " 23. Deputy Paul Lawless asked the Taoiseach if he will report on the plan for a new disability unit in his Department. [63529/25] ",
+      "date": "2025-11-26",
+      "questionNumber": 23,
+      "by": {
+        "memberCode": "Paul-Lawless.D.2024-11-29",
+        "showAs": "Paul Lawless",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Lawless.D.2024-11-29"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-26",
+    "question": {
+      "to": {
+        "roleCode": null,
+        "showAs": "Taoiseach",
+        "uri": null,
+        "roleType": null
+      },
+      "questionType": "oral",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-26/pq_24",
+      "house": {
+        "houseCode": "dail",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_17",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-26/debate/dbsect_17",
+        "showAs": "Departmental Programmes",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-26/debate/mul@/dbsect_17.xml"
+          }
+        }
+      },
+      "showAs": " 24. Deputy Ivana Bacik asked the Taoiseach if he will report on the programme plan for his Department's new disability unit for 2025-2027. [65263/25] ",
+      "date": "2025-11-26",
+      "questionNumber": 24,
+      "by": {
+        "memberCode": "Ivana-Bacik.S.2007-07-23",
+        "showAs": "Ivana Bacik",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ivana-Bacik.S.2007-07-23"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-26",
+    "question": {
+      "to": {
+        "roleCode": null,
+        "showAs": "Taoiseach",
+        "uri": null,
+        "roleType": null
+      },
+      "questionType": "oral",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-26/pq_25",
+      "house": {
+        "houseCode": "dail",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_17",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-26/debate/dbsect_17",
+        "showAs": "Departmental Programmes",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-26/debate/mul@/dbsect_17.xml"
+          }
+        }
+      },
+      "showAs": " 25. Deputy Rose Conway-Walsh asked the Taoiseach if he will report on the programme plan for his Department’s new disability unit for 2025-2027. [65415/25] ",
+      "date": "2025-11-26",
+      "questionNumber": 25,
+      "by": {
+        "memberCode": "Rose-Conway-Walsh.S.2016-04-25",
+        "showAs": "Rose Conway-Walsh",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Rose-Conway-Walsh.S.2016-04-25"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-26",
+    "question": {
+      "to": {
+        "roleCode": null,
+        "showAs": "Taoiseach",
+        "uri": null,
+        "roleType": null
+      },
+      "questionType": "oral",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-26/pq_26",
+      "house": {
+        "houseCode": "dail",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_17",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-26/debate/dbsect_17",
+        "showAs": "Departmental Programmes",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-26/debate/mul@/dbsect_17.xml"
+          }
+        }
+      },
+      "showAs": " 26. Deputy Mark Ward asked the Taoiseach if he will report on the programme plan for his Department’s new disability unit for 2025 to 2027. [65416/25] ",
+      "date": "2025-11-26",
+      "questionNumber": 26,
+      "by": {
+        "memberCode": "Mark-Ward.D.2019-11-29",
+        "showAs": "Mark Ward",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Mark-Ward.D.2019-11-29"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-26",
+    "question": {
+      "to": {
+        "roleCode": null,
+        "showAs": "Taoiseach",
+        "uri": null,
+        "roleType": null
+      },
+      "questionType": "oral",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-26/pq_27",
+      "house": {
+        "houseCode": "dail",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_17",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-26/debate/dbsect_17",
+        "showAs": "Departmental Programmes",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-26/debate/mul@/dbsect_17.xml"
+          }
+        }
+      },
+      "showAs": " 27. Deputy Liam Quaide asked the Taoiseach if he will report on the programme plan for his Department’s new disability unit for 2025-2027. [65439/25] ",
+      "date": "2025-11-26",
+      "questionNumber": 27,
+      "by": {
+        "memberCode": "Liam-Quaide.D.2024-11-29",
+        "showAs": "Liam Quaide",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Liam-Quaide.D.2024-11-29"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-26",
+    "question": {
+      "to": {
+        "roleCode": null,
+        "showAs": "Taoiseach",
+        "uri": null,
+        "roleType": null
+      },
+      "questionType": "oral",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-26/pq_28",
+      "house": {
+        "houseCode": "dail",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_17",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-26/debate/dbsect_17",
+        "showAs": "Departmental Programmes",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-26/debate/mul@/dbsect_17.xml"
+          }
+        }
+      },
+      "showAs": " 28. Deputy Erin McGreehan asked the Taoiseach if he will report on the programme plan for his Department's new disability unit for 2025-2027. [65548/25] ",
+      "date": "2025-11-26",
+      "questionNumber": 28,
+      "by": {
+        "memberCode": "Erin-McGreehan.S.2020-06-29",
+        "showAs": "Erin McGreehan",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Erin-McGreehan.S.2020-06-29"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-26",
+    "question": {
+      "to": {
+        "roleCode": null,
+        "showAs": "Taoiseach",
+        "uri": null,
+        "roleType": null
+      },
+      "questionType": "oral",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-26/pq_29",
+      "house": {
+        "houseCode": "dail",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_17",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-26/debate/dbsect_17",
+        "showAs": "Departmental Programmes",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-26/debate/mul@/dbsect_17.xml"
+          }
+        }
+      },
+      "showAs": " 29. Deputy Cathal Crowe asked the Taoiseach if he will report on the programme plan for his Department's new disability unit for 2025-2027. [65550/25] ",
+      "date": "2025-11-26",
+      "questionNumber": 29,
+      "by": {
+        "memberCode": "Cathal-Crowe.D.2020-02-08",
+        "showAs": "Cathal Crowe",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Cathal-Crowe.D.2020-02-08"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-26",
+    "question": {
+      "to": {
+        "roleCode": null,
+        "showAs": "Taoiseach",
+        "uri": null,
+        "roleType": null
+      },
+      "questionType": "oral",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-26/pq_30",
+      "house": {
+        "houseCode": "dail",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_17",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-26/debate/dbsect_17",
+        "showAs": "Departmental Programmes",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-26/debate/mul@/dbsect_17.xml"
+          }
+        }
+      },
+      "showAs": " 30. Deputy David Cullinane asked the Taoiseach if he will report on the programme plan for his Department’s new disability unit for 2025-2027. [65604/25] ",
+      "date": "2025-11-26",
+      "questionNumber": 30,
+      "by": {
+        "memberCode": "David-Cullinane.S.2011-05-25",
+        "showAs": "David Cullinane",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/David-Cullinane.S.2011-05-25"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-26",
+    "question": {
+      "to": {
+        "roleCode": null,
+        "showAs": "Taoiseach",
+        "uri": null,
+        "roleType": null
+      },
+      "questionType": "oral",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-26/pq_31",
+      "house": {
+        "houseCode": "dail",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_17",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-26/debate/dbsect_17",
+        "showAs": "Departmental Programmes",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-26/debate/mul@/dbsect_17.xml"
+          }
+        }
+      },
+      "showAs": " 31. Deputy Darren O'Rourke asked the Taoiseach if he will report on the plan for a new disability unit in his Department. [65715/25] ",
+      "date": "2025-11-26",
+      "questionNumber": 31,
+      "by": {
+        "memberCode": "Darren-O'Rourke.D.2020-02-08",
+        "showAs": "Darren O'Rourke",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Darren-O'Rourke.D.2020-02-08"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-26",
+    "question": {
+      "to": {
+        "roleCode": null,
+        "showAs": "Taoiseach",
+        "uri": null,
+        "roleType": null
+      },
+      "questionType": "oral",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-26/pq_32",
+      "house": {
+        "houseCode": "dail",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_17",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-26/debate/dbsect_17",
+        "showAs": "Departmental Programmes",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-26/debate/mul@/dbsect_17.xml"
+          }
+        }
+      },
+      "showAs": " 32. Deputy Jennifer Whitmore asked the Taoiseach if he will report on the programme plan for his Department’s new disability unit for 2025-2027. [65784/25] ",
+      "date": "2025-11-26",
+      "questionNumber": 32,
+      "by": {
+        "memberCode": "Jennifer-Whitmore.D.2020-02-08",
+        "showAs": "Jennifer Whitmore",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Jennifer-Whitmore.D.2020-02-08"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-26",
+    "question": {
+      "to": {
+        "roleCode": null,
+        "showAs": "Taoiseach",
+        "uri": null,
+        "roleType": null
+      },
+      "questionType": "oral",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-26/pq_33",
+      "house": {
+        "houseCode": "dail",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_17",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-26/debate/dbsect_17",
+        "showAs": "Departmental Programmes",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-26/debate/mul@/dbsect_17.xml"
+          }
+        }
+      },
+      "showAs": " 33. Deputy Peadar Tóibín asked the Taoiseach if he will report on the plan for a new disability unit in his Department. [65832/25] ",
+      "date": "2025-11-26",
+      "questionNumber": 33,
+      "by": {
+        "memberCode": "Peadar-Tóibín.D.2011-03-09",
+        "showAs": "Peadar Tóibín",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Peadar-Tóibín.D.2011-03-09"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-26",
+    "question": {
+      "to": {
+        "roleCode": null,
+        "showAs": "Taoiseach",
+        "uri": null,
+        "roleType": null
+      },
+      "questionType": "oral",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-26/pq_34",
+      "house": {
+        "houseCode": "dail",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_17",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-26/debate/dbsect_17",
+        "showAs": "Departmental Programmes",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-26/debate/mul@/dbsect_17.xml"
+          }
+        }
+      },
+      "showAs": " 34. Deputy Cian O'Callaghan asked the Taoiseach if he will report on the programme plan for his Department’s new disability unit for 2025-2027. [65858/25] ",
+      "date": "2025-11-26",
+      "questionNumber": 34,
+      "by": {
+        "memberCode": "Cian-O'Callaghan.D.2020-02-08",
+        "showAs": "Cian O'Callaghan",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Cian-O'Callaghan.D.2020-02-08"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-11-26",
+    "question": {
+      "to": {
+        "roleCode": null,
+        "showAs": "Taoiseach",
+        "uri": null,
+        "roleType": null
+      },
+      "questionType": "oral",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-26/pq_35",
+      "house": {
+        "houseCode": "dail",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_17",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-26/debate/dbsect_17",
+        "showAs": "Departmental Programmes",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-26/debate/mul@/dbsect_17.xml"
+          }
+        }
+      },
+      "showAs": " 35. Deputy Conor D. McGuinness asked the Taoiseach if he will report on the programme plan for his Department’s new disability unit for 2025-2027. [65862/25] ",
+      "date": "2025-11-26",
+      "questionNumber": 35,
+      "by": {
+        "memberCode": "Conor-D-McGuinness.D.2024-11-29",
+        "showAs": "Conor D McGuinness",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Conor-D-McGuinness.D.2024-11-29"
+      }
+    }
+  }
+]

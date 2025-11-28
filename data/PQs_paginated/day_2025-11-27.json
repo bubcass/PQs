@@ -1,1 +1,1242 @@
-[]
+[
+  {
+    "question": {
+      "questionNumber": 1,
+      "showAs": " 1. Deputy Donnchadh Ó Laoghaire asked the Minister for Foreign Affairs and Trade for an update on her Department’s recent engagements with the government of Ukraine in relation to the ongoing conflict and efforts made to reach a ceasefire.  [66753/25] ",
+      "house": {
+        "houseNo": "34",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "showAs": "34th Dáil",
+        "chamberType": "house"
+      },
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-27/debate/mul@/dbsect_3.xml"
+          },
+          "pdf": null
+        },
+        "showAs": "Ukraine War",
+        "debateSectionId": "dbsect_3",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-27/debate/dbsect_3"
+      },
+      "by": {
+        "memberCode": "Donnchadh-Ó-Laoghaire.D.2016-10-03",
+        "showAs": "Donnchadh Ó Laoghaire",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Donnchadh-Ó-Laoghaire.D.2016-10-03"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-27/pq_1",
+      "date": "2025-11-27",
+      "questionType": "oral",
+      "to": {
+        "showAs": "Foreign",
+        "roleCode": null,
+        "roleType": null,
+        "uri": null
+      }
+    },
+    "contextDate": "2025-11-27"
+  },
+  {
+    "question": {
+      "questionNumber": 2,
+      "showAs": " 2. Deputy Duncan Smith asked the Minister for Foreign Affairs and Trade to provide an update on the Israeli settlements (prohibition of importation of goods) Bill; and if she will make a statement on the matter. [66299/25] ",
+      "house": {
+        "houseNo": "34",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "showAs": "34th Dáil",
+        "chamberType": "house"
+      },
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-27/debate/mul@/dbsect_4.xml"
+          },
+          "pdf": null
+        },
+        "showAs": "Middle East",
+        "debateSectionId": "dbsect_4",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-27/debate/dbsect_4"
+      },
+      "by": {
+        "memberCode": "Duncan-Smith.D.2020-02-08",
+        "showAs": "Duncan Smith",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Duncan-Smith.D.2020-02-08"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-27/pq_2",
+      "date": "2025-11-27",
+      "questionType": "oral",
+      "to": {
+        "showAs": "Foreign",
+        "roleCode": null,
+        "roleType": null,
+        "uri": null
+      }
+    },
+    "contextDate": "2025-11-27"
+  },
+  {
+    "question": {
+      "questionNumber": 3,
+      "showAs": " 3. Deputy Donnchadh Ó Laoghaire asked the Minister for Foreign Affairs and Trade her views on the situation in Sudan; her position on same and in particular the need to ensure access to appropriate aid; and her further position on the concerning flow of weapons into the country. [66754/25] ",
+      "house": {
+        "houseNo": "34",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "showAs": "34th Dáil",
+        "chamberType": "house"
+      },
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-27/debate/mul@/dbsect_5.xml"
+          },
+          "pdf": null
+        },
+        "showAs": "Conflict Resolution",
+        "debateSectionId": "dbsect_5",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-27/debate/dbsect_5"
+      },
+      "by": {
+        "memberCode": "Donnchadh-Ó-Laoghaire.D.2016-10-03",
+        "showAs": "Donnchadh Ó Laoghaire",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Donnchadh-Ó-Laoghaire.D.2016-10-03"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-27/pq_3",
+      "date": "2025-11-27",
+      "questionType": "oral",
+      "to": {
+        "showAs": "Foreign",
+        "roleCode": null,
+        "roleType": null,
+        "uri": null
+      }
+    },
+    "contextDate": "2025-11-27"
+  },
+  {
+    "question": {
+      "questionNumber": 4,
+      "showAs": " 4. Deputy Donnchadh Ó Laoghaire asked the Minister for Foreign Affairs and Trade the current progress of the drafting of the Israeli settlements (prohibition of importation of goods) Bill. [66755/25] ",
+      "house": {
+        "houseNo": "34",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "showAs": "34th Dáil",
+        "chamberType": "house"
+      },
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-27/debate/mul@/dbsect_4.xml"
+          },
+          "pdf": null
+        },
+        "showAs": "Middle East",
+        "debateSectionId": "dbsect_4",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-27/debate/dbsect_4"
+      },
+      "by": {
+        "memberCode": "Donnchadh-Ó-Laoghaire.D.2016-10-03",
+        "showAs": "Donnchadh Ó Laoghaire",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Donnchadh-Ó-Laoghaire.D.2016-10-03"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-27/pq_4",
+      "date": "2025-11-27",
+      "questionType": "oral",
+      "to": {
+        "showAs": "Foreign",
+        "roleCode": null,
+        "roleType": null,
+        "uri": null
+      }
+    },
+    "contextDate": "2025-11-27"
+  },
+  {
+    "question": {
+      "questionNumber": 5,
+      "showAs": " 5. Deputy Naoise Ó Muirí asked the Minister for Foreign Affairs and Trade if she will outline the preparations currently under way in her Department to meet the demands of Ireland’s Presidency of the European Union; and if she will make a statement on the matter. [66109/25] ",
+      "house": {
+        "houseNo": "34",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "showAs": "34th Dáil",
+        "chamberType": "house"
+      },
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-27/debate/mul@/dbsect_6.xml"
+          },
+          "pdf": null
+        },
+        "showAs": "European Union",
+        "debateSectionId": "dbsect_6",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-27/debate/dbsect_6"
+      },
+      "by": {
+        "memberCode": "Naoise-Ó-Muirí.D.2024-11-29",
+        "showAs": "Naoise Ó Muirí",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Naoise-Ó-Muirí.D.2024-11-29"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-27/pq_5",
+      "date": "2025-11-27",
+      "questionType": "oral",
+      "to": {
+        "showAs": "Foreign",
+        "roleCode": null,
+        "roleType": null,
+        "uri": null
+      }
+    },
+    "contextDate": "2025-11-27"
+  },
+  {
+    "question": {
+      "questionNumber": 6,
+      "showAs": " 6. Deputy Tony McCormack asked the Minister for Foreign Affairs and Trade if she will provide an update on Ireland’s current diplomatic priorities in light of recent international developments, with particular reference to Ireland’s role in promoting peace, security, and the protection of human rights abroad; and if she will make a statement on the matter. [66633/25] ",
+      "house": {
+        "houseNo": "34",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "showAs": "34th Dáil",
+        "chamberType": "house"
+      },
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-27/debate/mul@/dbsect_8.xml"
+          },
+          "pdf": null
+        },
+        "showAs": "Foreign Policy",
+        "debateSectionId": "dbsect_8",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-27/debate/dbsect_8"
+      },
+      "by": {
+        "memberCode": "Tony-McCormack.D.2024-11-29",
+        "showAs": "Tony McCormack",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tony-McCormack.D.2024-11-29"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-27/pq_6",
+      "date": "2025-11-27",
+      "questionType": "oral",
+      "to": {
+        "showAs": "Foreign",
+        "roleCode": null,
+        "roleType": null,
+        "uri": null
+      }
+    },
+    "contextDate": "2025-11-27"
+  },
+  {
+    "question": {
+      "questionNumber": 7,
+      "showAs": " 7. Deputy Liam Quaide asked the Minister for Foreign Affairs and Trade if she has engaged, or plans to engage, with the UK authorities regarding the treatment and prosecution of members of Palestine Action and those who have expressed solidarity with the group; if she will raise concerns about the protection of the rights to peaceful protest, fair trial and humane conditions of detention; and if she will make a statement on the matter. [66238/25] ",
+      "house": {
+        "houseNo": "34",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "showAs": "34th Dáil",
+        "chamberType": "house"
+      },
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-27/debate/mul@/dbsect_9.xml"
+          },
+          "pdf": null
+        },
+        "showAs": "International Relations",
+        "debateSectionId": "dbsect_9",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-27/debate/dbsect_9"
+      },
+      "by": {
+        "memberCode": "Liam-Quaide.D.2024-11-29",
+        "showAs": "Liam Quaide",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Liam-Quaide.D.2024-11-29"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-27/pq_7",
+      "date": "2025-11-27",
+      "questionType": "oral",
+      "to": {
+        "showAs": "Foreign",
+        "roleCode": null,
+        "roleType": null,
+        "uri": null
+      }
+    },
+    "contextDate": "2025-11-27"
+  },
+  {
+    "question": {
+      "questionNumber": 8,
+      "showAs": " 8. Deputy Seán Ó Fearghaíl asked the Minister for Foreign Affairs and Trade if she has had any recent discussions with her EU counterparts about the situation in Afghanistan; and if she will make a statement on the matter. [66240/25] ",
+      "house": {
+        "houseNo": "34",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "showAs": "34th Dáil",
+        "chamberType": "house"
+      },
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-27/debate/mul@/dbsect_10.xml"
+          },
+          "pdf": null
+        },
+        "showAs": "International Relations",
+        "debateSectionId": "dbsect_10",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-27/debate/dbsect_10"
+      },
+      "by": {
+        "memberCode": "Seán-Ó-Fearghaíl.S.2000-06-09",
+        "showAs": "Seán Ó Fearghaíl",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Seán-Ó-Fearghaíl.S.2000-06-09"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-27/pq_8",
+      "date": "2025-11-27",
+      "questionType": "oral",
+      "to": {
+        "showAs": "Foreign",
+        "roleCode": null,
+        "roleType": null,
+        "uri": null
+      }
+    },
+    "contextDate": "2025-11-27"
+  },
+  {
+    "question": {
+      "questionNumber": 10,
+      "showAs": " 10. Deputy Ruairí Ó Murchú asked the Minister for Foreign Affairs and Trade to provide an update on the recent engagement at EU level on the EU-Israel agreement and the Israeli Settlements (Prohibition of Importation of Goods) Bill 2025; and if she will make a statement on the matter. [66658/25] ",
+      "house": {
+        "houseNo": "34",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "showAs": "34th Dáil",
+        "chamberType": "house"
+      },
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-27/debate/mul@/dbsect_13.xml"
+          },
+          "pdf": null
+        },
+        "showAs": "EU Agreements",
+        "debateSectionId": "dbsect_13",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-27/debate/dbsect_13"
+      },
+      "by": {
+        "memberCode": "Ruairí-Ó-Murchú.D.2020-02-08",
+        "showAs": "Ruairí Ó Murchú",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruairí-Ó-Murchú.D.2020-02-08"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-27/pq_10",
+      "date": "2025-11-27",
+      "questionType": "oral",
+      "to": {
+        "showAs": "Foreign",
+        "roleCode": null,
+        "roleType": null,
+        "uri": null
+      }
+    },
+    "contextDate": "2025-11-27"
+  },
+  {
+    "question": {
+      "questionNumber": 11,
+      "showAs": " 11. Deputy Tom Brabazon asked the Minister for Foreign Affairs and Trade her views and those of other EU ministers for foreign affairs in relation to post-ceasefire attacks in Gaza. [66462/25] ",
+      "house": {
+        "houseNo": "34",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "showAs": "34th Dáil",
+        "chamberType": "house"
+      },
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-27/debate/mul@/dbsect_11.xml"
+          },
+          "pdf": null
+        },
+        "showAs": "Middle East",
+        "debateSectionId": "dbsect_11",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-27/debate/dbsect_11"
+      },
+      "by": {
+        "memberCode": "Tom-Brabazon.D.2024-11-29",
+        "showAs": "Tom Brabazon",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tom-Brabazon.D.2024-11-29"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-27/pq_11",
+      "date": "2025-11-27",
+      "questionType": "oral",
+      "to": {
+        "showAs": "Foreign",
+        "roleCode": null,
+        "roleType": null,
+        "uri": null
+      }
+    },
+    "contextDate": "2025-11-27"
+  },
+  {
+    "question": {
+      "questionNumber": 12,
+      "showAs": " 12. Deputy Cormac Devlin asked the Minister for Foreign Affairs and Trade her views on whether there can be no peace agreement imposed on Ukraine without its support and the support of the European Union; and if she will make a statement on the matter. [66597/25] ",
+      "house": {
+        "houseNo": "34",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "showAs": "34th Dáil",
+        "chamberType": "house"
+      },
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-27/debate/mul@/dbsect_12.xml"
+          },
+          "pdf": null
+        },
+        "showAs": "Ukraine War",
+        "debateSectionId": "dbsect_12",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-27/debate/dbsect_12"
+      },
+      "by": {
+        "memberCode": "Cormac-Devlin.D.2020-02-08",
+        "showAs": "Cormac Devlin",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Cormac-Devlin.D.2020-02-08"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-27/pq_12",
+      "date": "2025-11-27",
+      "questionType": "oral",
+      "to": {
+        "showAs": "Foreign",
+        "roleCode": null,
+        "roleType": null,
+        "uri": null
+      }
+    },
+    "contextDate": "2025-11-27"
+  },
+  {
+    "question": {
+      "questionNumber": 13,
+      "showAs": " 13. Deputy Peadar Tóibín asked the Minister for Foreign Affairs and Trade the steps Ireland is taking to seek to bring about an end to the conflict in Sudan; and if she will make a statement on the matter. [65828/25] ",
+      "house": {
+        "houseNo": "34",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "showAs": "34th Dáil",
+        "chamberType": "house"
+      },
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-27/debate/mul@/dbsect_14.xml"
+          },
+          "pdf": null
+        },
+        "showAs": "Conflict Resolution",
+        "debateSectionId": "dbsect_14",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-27/debate/dbsect_14"
+      },
+      "by": {
+        "memberCode": "Peadar-Tóibín.D.2011-03-09",
+        "showAs": "Peadar Tóibín",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Peadar-Tóibín.D.2011-03-09"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-27/pq_13",
+      "date": "2025-11-27",
+      "questionType": "oral",
+      "to": {
+        "showAs": "Foreign",
+        "roleCode": null,
+        "roleType": null,
+        "uri": null
+      }
+    },
+    "contextDate": "2025-11-27"
+  },
+  {
+    "question": {
+      "questionNumber": 14,
+      "showAs": " 14. Deputy Pearse Doherty asked the Minister for Foreign Affairs and Trade if she has further plans to engage with the British Government over the Northern Ireland Troubles (Legacy and Reconciliation) Act 2023 and the request for a fresh inquest into the 1973 killing of a person (details supplied), given that a fresh inquest was approved, only for the Act becoming law a few hours later; the support being provided to their family; and if she will make a statement on the matter. [66282/25] ",
+      "house": {
+        "houseNo": "34",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "showAs": "34th Dáil",
+        "chamberType": "house"
+      },
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-27/debate/mul@/dbsect_15.xml"
+          },
+          "pdf": null
+        },
+        "showAs": "Northern Ireland",
+        "debateSectionId": "dbsect_15",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-27/debate/dbsect_15"
+      },
+      "by": {
+        "memberCode": "Pearse-Doherty.S.2007-07-23",
+        "showAs": "Pearse Doherty",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Pearse-Doherty.S.2007-07-23"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-27/pq_14",
+      "date": "2025-11-27",
+      "questionType": "oral",
+      "to": {
+        "showAs": "Foreign",
+        "roleCode": null,
+        "roleType": null,
+        "uri": null
+      }
+    },
+    "contextDate": "2025-11-27"
+  },
+  {
+    "question": {
+      "questionNumber": 35,
+      "showAs": " 35. Deputy Barry Heneghan asked the Minister for Foreign Affairs and Trade if she will provide an update on the ongoing conflict in Sudan, including the humanitarian impact on civilians, the status of diplomatic efforts to secure a ceasefire, and the supports Ireland is providing through humanitarian and development channels; and if she will make a statement on the matter. [66720/25] ",
+      "house": {
+        "houseNo": "34",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "showAs": "34th Dáil",
+        "chamberType": "house"
+      },
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-27/debate/mul@/dbsect_14.xml"
+          },
+          "pdf": null
+        },
+        "showAs": "Conflict Resolution",
+        "debateSectionId": "dbsect_14",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-27/debate/dbsect_14"
+      },
+      "by": {
+        "memberCode": "Barry-Heneghan.D.2024-11-29",
+        "showAs": "Barry Heneghan",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Barry-Heneghan.D.2024-11-29"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-27/pq_35",
+      "date": "2025-11-27",
+      "questionType": "oral",
+      "to": {
+        "showAs": "Foreign",
+        "roleCode": null,
+        "roleType": null,
+        "uri": null
+      }
+    },
+    "contextDate": "2025-11-27"
+  },
+  {
+    "question": {
+      "questionNumber": 97,
+      "showAs": " 97. Deputy Duncan Smith asked the Minister for Foreign Affairs and Trade to provide an update on the situation in Sudan; her engagement with allies on the conflict; if Ireland will be providing increased levels of aid; and if she will make a statement on the matter. [66301/25] ",
+      "house": {
+        "houseNo": "34",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "showAs": "34th Dáil",
+        "chamberType": "house"
+      },
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-27/debate/mul@/dbsect_14.xml"
+          },
+          "pdf": null
+        },
+        "showAs": "Conflict Resolution",
+        "debateSectionId": "dbsect_14",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-27/debate/dbsect_14"
+      },
+      "by": {
+        "memberCode": "Duncan-Smith.D.2020-02-08",
+        "showAs": "Duncan Smith",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Duncan-Smith.D.2020-02-08"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-27/pq_97",
+      "date": "2025-11-27",
+      "questionType": "oral",
+      "to": {
+        "showAs": "Foreign",
+        "roleCode": null,
+        "roleType": null,
+        "uri": null
+      }
+    },
+    "contextDate": "2025-11-27"
+  },
+  {
+    "question": {
+      "questionNumber": 98,
+      "showAs": " 98. Deputy Pádraig Mac Lochlainn asked the Minister for Agriculture, Food and the Marine his plans for the December EU Fisheries Council to mitigate further losses in fish quota to Ireland's fishing fleet; his engagements over recent weeks with his counterparts in other member states to defend our interests; and if he will make a statement on the matter. [66298/25] ",
+      "house": {
+        "houseNo": "34",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "showAs": "34th Dáil",
+        "chamberType": "house"
+      },
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-27/debate/mul@/dbsect_19.xml"
+          },
+          "pdf": null
+        },
+        "showAs": "Fisheries Protection",
+        "debateSectionId": "dbsect_19",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-27/debate/dbsect_19"
+      },
+      "by": {
+        "memberCode": "Pádraig-MacLochlainn.D.2011-03-09",
+        "showAs": "Pádraig Mac Lochlainn",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Pádraig-MacLochlainn.D.2011-03-09"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-27/pq_98",
+      "date": "2025-11-27",
+      "questionType": "oral",
+      "to": {
+        "showAs": "Agriculture",
+        "roleCode": null,
+        "roleType": null,
+        "uri": null
+      }
+    },
+    "contextDate": "2025-11-27"
+  },
+  {
+    "question": {
+      "questionNumber": 99,
+      "showAs": " 99. Deputy Robert O'Donoghue asked the Minister for Agriculture, Food and the Marine his plans to introduce a dedicated support scheme to address the significant and ongoing losses experienced by the forestry sector as a result of recent storms; the expected timeline for the development and implementation of such a scheme; and if he will make a statement on the matter. [66951/25] ",
+      "house": {
+        "houseNo": "34",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "showAs": "34th Dáil",
+        "chamberType": "house"
+      },
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-27/debate/mul@/dbsect_18.xml"
+          },
+          "pdf": null
+        },
+        "showAs": "Forestry Sector",
+        "debateSectionId": "dbsect_18",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-27/debate/dbsect_18"
+      },
+      "by": {
+        "memberCode": "Robert-O'Donoghue.D.2024-11-29",
+        "showAs": "Robert O'Donoghue",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Robert-O'Donoghue.D.2024-11-29"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-27/pq_99",
+      "date": "2025-11-27",
+      "questionType": "oral",
+      "to": {
+        "showAs": "Agriculture",
+        "roleCode": null,
+        "roleType": null,
+        "uri": null
+      }
+    },
+    "contextDate": "2025-11-27"
+  },
+  {
+    "question": {
+      "questionNumber": 100,
+      "showAs": " 100. Deputy Martin Kenny asked the Minister for Agriculture, Food and the Marine if he is aware of any Brazilian or South American beef being imported into Ireland that is produced using hormones and antibiotics that are banned in Ireland under food safety standards; and if he will make a statement on the matter. [66303/25] ",
+      "house": {
+        "houseNo": "34",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "showAs": "34th Dáil",
+        "chamberType": "house"
+      },
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-27/debate/mul@/dbsect_20.xml"
+          },
+          "pdf": null
+        },
+        "showAs": "Food Safety",
+        "debateSectionId": "dbsect_20",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-27/debate/dbsect_20"
+      },
+      "by": {
+        "memberCode": "Martin-Kenny.D.2016-10-03",
+        "showAs": "Martin Kenny",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Martin-Kenny.D.2016-10-03"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-27/pq_100",
+      "date": "2025-11-27",
+      "questionType": "oral",
+      "to": {
+        "showAs": "Agriculture",
+        "roleCode": null,
+        "roleType": null,
+        "uri": null
+      }
+    },
+    "contextDate": "2025-11-27"
+  },
+  {
+    "question": {
+      "questionNumber": 101,
+      "showAs": " 101. Deputy Jennifer Whitmore asked the Minister for Agriculture, Food and the Marine if his Department has developed a contingency or plan B in the event that Ireland is not granted a further extension of the nitrates derogation; and if he will make a statement on the matter. [65973/25] ",
+      "house": {
+        "houseNo": "34",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "showAs": "34th Dáil",
+        "chamberType": "house"
+      },
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-27/debate/mul@/dbsect_21.xml"
+          },
+          "pdf": null
+        },
+        "showAs": "Nitrates Usage",
+        "debateSectionId": "dbsect_21",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-27/debate/dbsect_21"
+      },
+      "by": {
+        "memberCode": "Jennifer-Whitmore.D.2020-02-08",
+        "showAs": "Jennifer Whitmore",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Jennifer-Whitmore.D.2020-02-08"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-27/pq_101",
+      "date": "2025-11-27",
+      "questionType": "oral",
+      "to": {
+        "showAs": "Agriculture",
+        "roleCode": null,
+        "roleType": null,
+        "uri": null
+      }
+    },
+    "contextDate": "2025-11-27"
+  },
+  {
+    "question": {
+      "questionNumber": 102,
+      "showAs": " 102. Deputy Roderic O'Gorman asked the Minister for Agriculture, Food and the Marine if he is aware of the report undertaken by the Joint Committee on Climate, Environment and Energy regarding pollution in Lady's Island Lake; the measures his Department or agencies related to his Department are undertaking to respond to the report; and if he will make a statement on the matter. [66952/25] ",
+      "house": {
+        "houseNo": "34",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "showAs": "34th Dáil",
+        "chamberType": "house"
+      },
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-27/debate/mul@/dbsect_22.xml"
+          },
+          "pdf": null
+        },
+        "showAs": "Water Pollution",
+        "debateSectionId": "dbsect_22",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-27/debate/dbsect_22"
+      },
+      "by": {
+        "memberCode": "Roderic-O'Gorman.D.2020-02-08",
+        "showAs": "Roderic O'Gorman",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Roderic-O'Gorman.D.2020-02-08"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-27/pq_102",
+      "date": "2025-11-27",
+      "questionType": "oral",
+      "to": {
+        "showAs": "Agriculture",
+        "roleCode": null,
+        "roleType": null,
+        "uri": null
+      }
+    },
+    "contextDate": "2025-11-27"
+  },
+  {
+    "question": {
+      "questionNumber": 103,
+      "showAs": " 103. Deputy Colm Burke asked the Minister for Agriculture, Food and the Marine to provide an update on his recent meeting at the European Agriculture and Fisheries Council, AGRIFISH, in Brussels; and if he will make a statement on the matter. [67158/25] ",
+      "house": {
+        "houseNo": "34",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "showAs": "34th Dáil",
+        "chamberType": "house"
+      },
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-27/debate/mul@/dbsect_23.xml"
+          },
+          "pdf": null
+        },
+        "showAs": "EU Meetings",
+        "debateSectionId": "dbsect_23",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-27/debate/dbsect_23"
+      },
+      "by": {
+        "memberCode": "Colm-Burke.S.2011-05-25",
+        "showAs": "Colm Burke",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Colm-Burke.S.2011-05-25"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-27/pq_103",
+      "date": "2025-11-27",
+      "questionType": "oral",
+      "to": {
+        "showAs": "Agriculture",
+        "roleCode": null,
+        "roleType": null,
+        "uri": null
+      }
+    },
+    "contextDate": "2025-11-27"
+  },
+  {
+    "question": {
+      "questionNumber": 104,
+      "showAs": " 104. Deputy Malcolm Byrne asked the Minister for Agriculture, Food and the Marine if he will consider introducing an insurance scheme or a guarantee of a basic income for the tillage sector; and if he will make a statement on the matter. [66245/25] ",
+      "house": {
+        "houseNo": "34",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "showAs": "34th Dáil",
+        "chamberType": "house"
+      },
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-27/debate/mul@/dbsect_25.xml"
+          },
+          "pdf": null
+        },
+        "showAs": "Tillage Sector",
+        "debateSectionId": "dbsect_25",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-27/debate/dbsect_25"
+      },
+      "by": {
+        "memberCode": "Malcolm-Byrne.D.2019-11-29",
+        "showAs": "Malcolm Byrne",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Malcolm-Byrne.D.2019-11-29"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-27/pq_104",
+      "date": "2025-11-27",
+      "questionType": "oral",
+      "to": {
+        "showAs": "Agriculture",
+        "roleCode": null,
+        "roleType": null,
+        "uri": null
+      }
+    },
+    "contextDate": "2025-11-27"
+  },
+  {
+    "question": {
+      "questionNumber": 105,
+      "showAs": " 105. Deputy Séamus McGrath asked the Minister for Agriculture, Food and the Marine the number of tests his Department’s laboratories have carried out for suspected HPAI H5N1 since 1 September 2025; and, of these tests, the number that were positive for HPAI H5N1; and if he will make a statement on the matter. [66460/25] ",
+      "house": {
+        "houseNo": "34",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "showAs": "34th Dáil",
+        "chamberType": "house"
+      },
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-27/debate/mul@/dbsect_26.xml"
+          },
+          "pdf": null
+        },
+        "showAs": "Animal Diseases",
+        "debateSectionId": "dbsect_26",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-27/debate/dbsect_26"
+      },
+      "by": {
+        "memberCode": "Séamus-McGrath.D.2024-11-29",
+        "showAs": "Séamus McGrath",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Séamus-McGrath.D.2024-11-29"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-27/pq_105",
+      "date": "2025-11-27",
+      "questionType": "oral",
+      "to": {
+        "showAs": "Agriculture",
+        "roleCode": null,
+        "roleType": null,
+        "uri": null
+      }
+    },
+    "contextDate": "2025-11-27"
+  },
+  {
+    "question": {
+      "questionNumber": 106,
+      "showAs": " 106. Deputy Edward Timmins asked the Minister for Agriculture, Food and the Marine if there is a strategy for succession planning for farmers; and if he will make a statement on the matter. [66716/25] ",
+      "house": {
+        "houseNo": "34",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "showAs": "34th Dáil",
+        "chamberType": "house"
+      },
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-27/debate/mul@/dbsect_27.xml"
+          },
+          "pdf": null
+        },
+        "showAs": "Agriculture Industry",
+        "debateSectionId": "dbsect_27",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-27/debate/dbsect_27"
+      },
+      "by": {
+        "memberCode": "Edward-Timmins.D.2024-11-29",
+        "showAs": "Edward Timmins",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Edward-Timmins.D.2024-11-29"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-27/pq_106",
+      "date": "2025-11-27",
+      "questionType": "oral",
+      "to": {
+        "showAs": "Agriculture",
+        "roleCode": null,
+        "roleType": null,
+        "uri": null
+      }
+    },
+    "contextDate": "2025-11-27"
+  },
+  {
+    "question": {
+      "questionNumber": 107,
+      "showAs": " 107. Deputy Matt Carthy asked the Minister for Agriculture, Food and the Marine if he will report on his engagements with his European counterparts regarding food safety and public health. [66730/25] ",
+      "house": {
+        "houseNo": "34",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "showAs": "34th Dáil",
+        "chamberType": "house"
+      },
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-27/debate/mul@/dbsect_28.xml"
+          },
+          "pdf": null
+        },
+        "showAs": "Food Safety",
+        "debateSectionId": "dbsect_28",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-27/debate/dbsect_28"
+      },
+      "by": {
+        "memberCode": "Matt-Carthy.D.2020-02-08",
+        "showAs": "Matt Carthy",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Matt-Carthy.D.2020-02-08"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-27/pq_107",
+      "date": "2025-11-27",
+      "questionType": "oral",
+      "to": {
+        "showAs": "Agriculture",
+        "roleCode": null,
+        "roleType": null,
+        "uri": null
+      }
+    },
+    "contextDate": "2025-11-27"
+  },
+  {
+    "question": {
+      "questionNumber": 108,
+      "showAs": " 108. Deputy Tom Brabazon asked the Minister for Agriculture, Food and the Marine if his Department has received applications for compensation for the loss of animals, or animal products and animal feed, in relation to the current strain of avian flu circulating in Ireland; and if he will make a statement on the matter. [66456/25] ",
+      "house": {
+        "houseNo": "34",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "showAs": "34th Dáil",
+        "chamberType": "house"
+      },
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-27/debate/mul@/dbsect_29.xml"
+          },
+          "pdf": null
+        },
+        "showAs": "Animal Diseases",
+        "debateSectionId": "dbsect_29",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-27/debate/dbsect_29"
+      },
+      "by": {
+        "memberCode": "Tom-Brabazon.D.2024-11-29",
+        "showAs": "Tom Brabazon",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tom-Brabazon.D.2024-11-29"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-27/pq_108",
+      "date": "2025-11-27",
+      "questionType": "oral",
+      "to": {
+        "showAs": "Agriculture",
+        "roleCode": null,
+        "roleType": null,
+        "uri": null
+      }
+    },
+    "contextDate": "2025-11-27"
+  },
+  {
+    "question": {
+      "questionNumber": 109,
+      "showAs": " 109. Deputy John Paul O'Shea asked the Minister for Agriculture, Food and the Marine when outstanding farm payment issues under the ACRES scheme will be resolved; the steps being taken to ensure timely payments in future cycles; and if he will make a statement on the matter. [65229/25] ",
+      "house": {
+        "houseNo": "34",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "showAs": "34th Dáil",
+        "chamberType": "house"
+      },
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-27/debate/mul@/dbsect_30.xml"
+          },
+          "pdf": null
+        },
+        "showAs": "Environmental Schemes",
+        "debateSectionId": "dbsect_30",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-27/debate/dbsect_30"
+      },
+      "by": {
+        "memberCode": "John-Paul-O'Shea.D.2024-11-29",
+        "showAs": "John Paul O'Shea",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/John-Paul-O'Shea.D.2024-11-29"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-27/pq_109",
+      "date": "2025-11-27",
+      "questionType": "oral",
+      "to": {
+        "showAs": "Agriculture",
+        "roleCode": null,
+        "roleType": null,
+        "uri": null
+      }
+    },
+    "contextDate": "2025-11-27"
+  },
+  {
+    "question": {
+      "questionNumber": 110,
+      "showAs": " 110. Deputy Cathy Bennett asked the Minister for Agriculture, Food and the Marine if he will report on his engagements regarding the Common Agricultural Policy post 2027.  [66741/25] ",
+      "house": {
+        "houseNo": "34",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "showAs": "34th Dáil",
+        "chamberType": "house"
+      },
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-27/debate/mul@/dbsect_31.xml"
+          },
+          "pdf": null
+        },
+        "showAs": "Common Agricultural Policy",
+        "debateSectionId": "dbsect_31",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-27/debate/dbsect_31"
+      },
+      "by": {
+        "memberCode": "Cathy-Bennett.D.2024-11-29",
+        "showAs": "Cathy Bennett",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Cathy-Bennett.D.2024-11-29"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-27/pq_110",
+      "date": "2025-11-27",
+      "questionType": "oral",
+      "to": {
+        "showAs": "Agriculture",
+        "roleCode": null,
+        "roleType": null,
+        "uri": null
+      }
+    },
+    "contextDate": "2025-11-27"
+  },
+  {
+    "question": {
+      "questionNumber": 130,
+      "showAs": " 130. Deputy Séamus McGrath asked the Minister for Agriculture, Food and the Marine for an update on his work in relation to the negotiations for the Common Agricultural Policy post 2027; if he has had meetings with his ministerial counter parts in other EU member states on the matter; if he has had meetings with the European Commission; and if he will make a statement on the matter.  [66461/25] ",
+      "house": {
+        "houseNo": "34",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "showAs": "34th Dáil",
+        "chamberType": "house"
+      },
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-27/debate/mul@/dbsect_31.xml"
+          },
+          "pdf": null
+        },
+        "showAs": "Common Agricultural Policy",
+        "debateSectionId": "dbsect_31",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-27/debate/dbsect_31"
+      },
+      "by": {
+        "memberCode": "Séamus-McGrath.D.2024-11-29",
+        "showAs": "Séamus McGrath",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Séamus-McGrath.D.2024-11-29"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-27/pq_130",
+      "date": "2025-11-27",
+      "questionType": "oral",
+      "to": {
+        "showAs": "Agriculture",
+        "roleCode": null,
+        "roleType": null,
+        "uri": null
+      }
+    },
+    "contextDate": "2025-11-27"
+  },
+  {
+    "question": {
+      "questionNumber": 146,
+      "showAs": " 146. Deputy Colm Burke asked the Minister for Agriculture, Food and the Marine to provide an update on his recent meeting at the European Agriculture and Fisheries Council (AGRIFISH) in Brussels; and if he will make a statement on the matter.  [66669/25] ",
+      "house": {
+        "houseNo": "34",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "showAs": "34th Dáil",
+        "chamberType": "house"
+      },
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-27/debate/mul@/dbsect_31.xml"
+          },
+          "pdf": null
+        },
+        "showAs": "Common Agricultural Policy",
+        "debateSectionId": "dbsect_31",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-27/debate/dbsect_31"
+      },
+      "by": {
+        "memberCode": "Colm-Burke.S.2011-05-25",
+        "showAs": "Colm Burke",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Colm-Burke.S.2011-05-25"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-27/pq_146",
+      "date": "2025-11-27",
+      "questionType": "oral",
+      "to": {
+        "showAs": "Agriculture",
+        "roleCode": null,
+        "roleType": null,
+        "uri": null
+      }
+    },
+    "contextDate": "2025-11-27"
+  },
+  {
+    "question": {
+      "questionNumber": 164,
+      "showAs": " 164. Deputy Brendan Smith asked the Minister for Agriculture, Food and the Marine the progress to date at EU Council discussions in relation to the need to ensure that adequate funding is provided for CAP in the next Multiannual Financial Framework; and if he will make a statement on the matter. [66609/25] ",
+      "house": {
+        "houseNo": "34",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "showAs": "34th Dáil",
+        "chamberType": "house"
+      },
+      "debateSection": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-27/debate/mul@/dbsect_31.xml"
+          },
+          "pdf": null
+        },
+        "showAs": "Common Agricultural Policy",
+        "debateSectionId": "dbsect_31",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-27/debate/dbsect_31"
+      },
+      "by": {
+        "memberCode": "Brendan-Smith.D.1992-12-14",
+        "showAs": "Brendan Smith",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Brendan-Smith.D.1992-12-14"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-11-27/pq_164",
+      "date": "2025-11-27",
+      "questionType": "oral",
+      "to": {
+        "showAs": "Agriculture",
+        "roleCode": null,
+        "roleType": null,
+        "uri": null
+      }
+    },
+    "contextDate": "2025-11-27"
+  }
+]

@@ -1,1 +1,922 @@
-[]
+[
+  {
+    "contextDate": "2025-12-03",
+    "question": {
+      "to": {
+        "uri": null,
+        "showAs": "Taoiseach",
+        "roleCode": null,
+        "roleType": null
+      },
+      "date": "2025-12-03",
+      "questionType": "oral",
+      "by": {
+        "memberCode": "Brendan-Smith.D.1992-12-14",
+        "showAs": "Brendan Smith",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Brendan-Smith.D.1992-12-14"
+      },
+      "showAs": " 1. Deputy Brendan Smith asked the Taoiseach for a report on his recent meeting with Prime Minister Keir Starmer. [49999/25] ",
+      "house": {
+        "committeeCode": "",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "chamberType": "house"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-12-03/pq_1",
+      "questionNumber": 1,
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-03/debate/dbsect_15",
+        "showAs": "Official Engagements",
+        "debateSectionId": "dbsect_15",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-03/debate/mul@/dbsect_15.xml"
+          },
+          "pdf": null
+        }
+      }
+    }
+  },
+  {
+    "contextDate": "2025-12-03",
+    "question": {
+      "to": {
+        "uri": null,
+        "showAs": "Taoiseach",
+        "roleCode": null,
+        "roleType": null
+      },
+      "date": "2025-12-03",
+      "questionType": "oral",
+      "by": {
+        "memberCode": "Cormac-Devlin.D.2020-02-08",
+        "showAs": "Cormac Devlin",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Cormac-Devlin.D.2020-02-08"
+      },
+      "showAs": " 2. Deputy Cormac Devlin asked the Taoiseach for a report on his recent meeting with the UK Prime Minister.  [50002/25] ",
+      "house": {
+        "committeeCode": "",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "chamberType": "house"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-12-03/pq_2",
+      "questionNumber": 2,
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-03/debate/dbsect_15",
+        "showAs": "Official Engagements",
+        "debateSectionId": "dbsect_15",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-03/debate/mul@/dbsect_15.xml"
+          },
+          "pdf": null
+        }
+      }
+    }
+  },
+  {
+    "contextDate": "2025-12-03",
+    "question": {
+      "to": {
+        "uri": null,
+        "showAs": "Taoiseach",
+        "roleCode": null,
+        "roleType": null
+      },
+      "date": "2025-12-03",
+      "questionType": "oral",
+      "by": {
+        "memberCode": "Ruth-Coppinger.D.2014-05-23",
+        "showAs": "Ruth Coppinger",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruth-Coppinger.D.2014-05-23"
+      },
+      "showAs": " 3. Deputy Ruth Coppinger asked the Taoiseach if he will report on his recent meeting with Prime Minister Keir Starmer. [63183/25] ",
+      "house": {
+        "committeeCode": "",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "chamberType": "house"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-12-03/pq_3",
+      "questionNumber": 3,
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-03/debate/dbsect_15",
+        "showAs": "Official Engagements",
+        "debateSectionId": "dbsect_15",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-03/debate/mul@/dbsect_15.xml"
+          },
+          "pdf": null
+        }
+      }
+    }
+  },
+  {
+    "contextDate": "2025-12-03",
+    "question": {
+      "to": {
+        "uri": null,
+        "showAs": "Taoiseach",
+        "roleCode": null,
+        "roleType": null
+      },
+      "date": "2025-12-03",
+      "questionType": "oral",
+      "by": {
+        "memberCode": "Ruairí-Ó-Murchú.D.2020-02-08",
+        "showAs": "Ruairí Ó Murchú",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruairí-Ó-Murchú.D.2020-02-08"
+      },
+      "showAs": " 4. Deputy Ruairí Ó Murchú asked the Taoiseach for a report on his recent meeting with the British Prime Minister.  [63259/25] ",
+      "house": {
+        "committeeCode": "",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "chamberType": "house"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-12-03/pq_4",
+      "questionNumber": 4,
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-03/debate/dbsect_15",
+        "showAs": "Official Engagements",
+        "debateSectionId": "dbsect_15",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-03/debate/mul@/dbsect_15.xml"
+          },
+          "pdf": null
+        }
+      }
+    }
+  },
+  {
+    "contextDate": "2025-12-03",
+    "question": {
+      "to": {
+        "uri": null,
+        "showAs": "Taoiseach",
+        "roleCode": null,
+        "roleType": null
+      },
+      "date": "2025-12-03",
+      "questionType": "oral",
+      "by": {
+        "memberCode": "Darren-O'Rourke.D.2020-02-08",
+        "showAs": "Darren O'Rourke",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Darren-O'Rourke.D.2020-02-08"
+      },
+      "showAs": " 5. Deputy Darren O'Rourke asked the Taoiseach for a report on his recent meeting with the British Prime Minister.  [63268/25] ",
+      "house": {
+        "committeeCode": "",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "chamberType": "house"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-12-03/pq_5",
+      "questionNumber": 5,
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-03/debate/dbsect_15",
+        "showAs": "Official Engagements",
+        "debateSectionId": "dbsect_15",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-03/debate/mul@/dbsect_15.xml"
+          },
+          "pdf": null
+        }
+      }
+    }
+  },
+  {
+    "contextDate": "2025-12-03",
+    "question": {
+      "to": {
+        "uri": null,
+        "showAs": "Taoiseach",
+        "roleCode": null,
+        "roleType": null
+      },
+      "date": "2025-12-03",
+      "questionType": "oral",
+      "by": {
+        "memberCode": "Richard-Boyd-Barrett.D.2011-03-09",
+        "showAs": "Richard Boyd Barrett",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Richard-Boyd-Barrett.D.2011-03-09"
+      },
+      "showAs": " 6. Deputy Richard Boyd Barrett asked the Taoiseach for a report on his recent meeting with the UK Prime Minister.  [65778/25] ",
+      "house": {
+        "committeeCode": "",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "chamberType": "house"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-12-03/pq_6",
+      "questionNumber": 6,
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-03/debate/dbsect_15",
+        "showAs": "Official Engagements",
+        "debateSectionId": "dbsect_15",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-03/debate/mul@/dbsect_15.xml"
+          },
+          "pdf": null
+        }
+      }
+    }
+  },
+  {
+    "contextDate": "2025-12-03",
+    "question": {
+      "to": {
+        "uri": null,
+        "showAs": "Taoiseach",
+        "roleCode": null,
+        "roleType": null
+      },
+      "date": "2025-12-03",
+      "questionType": "oral",
+      "by": {
+        "memberCode": "Peadar-Tóibín.D.2011-03-09",
+        "showAs": "Peadar Tóibín",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Peadar-Tóibín.D.2011-03-09"
+      },
+      "showAs": " 7. Deputy Peadar Tóibín asked the Taoiseach if he will report on his recent meeting with the British Prime Minister.  [65833/25] ",
+      "house": {
+        "committeeCode": "",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "chamberType": "house"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-12-03/pq_7",
+      "questionNumber": 7,
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-03/debate/dbsect_15",
+        "showAs": "Official Engagements",
+        "debateSectionId": "dbsect_15",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-03/debate/mul@/dbsect_15.xml"
+          },
+          "pdf": null
+        }
+      }
+    }
+  },
+  {
+    "contextDate": "2025-12-03",
+    "question": {
+      "to": {
+        "uri": null,
+        "showAs": "Taoiseach",
+        "roleCode": null,
+        "roleType": null
+      },
+      "date": "2025-12-03",
+      "questionType": "oral",
+      "by": {
+        "memberCode": "Liam-Quaide.D.2024-11-29",
+        "showAs": "Liam Quaide",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Liam-Quaide.D.2024-11-29"
+      },
+      "showAs": " 8. Deputy Liam Quaide asked the Taoiseach for a report on his recent meeting with the British Prime Minister.  [67526/25] ",
+      "house": {
+        "committeeCode": "",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "chamberType": "house"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-12-03/pq_8",
+      "questionNumber": 8,
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-03/debate/dbsect_15",
+        "showAs": "Official Engagements",
+        "debateSectionId": "dbsect_15",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-03/debate/mul@/dbsect_15.xml"
+          },
+          "pdf": null
+        }
+      }
+    }
+  },
+  {
+    "contextDate": "2025-12-03",
+    "question": {
+      "to": {
+        "uri": null,
+        "showAs": "Taoiseach",
+        "roleCode": null,
+        "roleType": null
+      },
+      "date": "2025-12-03",
+      "questionType": "oral",
+      "by": {
+        "memberCode": "Shane-Moynihan.D.2024-11-29",
+        "showAs": "Shane Moynihan",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Shane-Moynihan.D.2024-11-29"
+      },
+      "showAs": " 9. Deputy Shane Moynihan asked the Taoiseach for a report on his recent meeting with Prime Minister Keir Starmer. [67573/25] ",
+      "house": {
+        "committeeCode": "",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "chamberType": "house"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-12-03/pq_9",
+      "questionNumber": 9,
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-03/debate/dbsect_15",
+        "showAs": "Official Engagements",
+        "debateSectionId": "dbsect_15",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-03/debate/mul@/dbsect_15.xml"
+          },
+          "pdf": null
+        }
+      }
+    }
+  },
+  {
+    "contextDate": "2025-12-03",
+    "question": {
+      "to": {
+        "uri": null,
+        "showAs": "Taoiseach",
+        "roleCode": null,
+        "roleType": null
+      },
+      "date": "2025-12-03",
+      "questionType": "oral",
+      "by": {
+        "memberCode": "Ivana-Bacik.S.2007-07-23",
+        "showAs": "Ivana Bacik",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ivana-Bacik.S.2007-07-23"
+      },
+      "showAs": " 10. Deputy Ivana Bacik asked the Taoiseach for a report on his recent meeting with the British Prime Minister.  [67607/25] ",
+      "house": {
+        "committeeCode": "",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "chamberType": "house"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-12-03/pq_10",
+      "questionNumber": 10,
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-03/debate/dbsect_15",
+        "showAs": "Official Engagements",
+        "debateSectionId": "dbsect_15",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-03/debate/mul@/dbsect_15.xml"
+          },
+          "pdf": null
+        }
+      }
+    }
+  },
+  {
+    "contextDate": "2025-12-03",
+    "question": {
+      "to": {
+        "uri": null,
+        "showAs": "Taoiseach",
+        "roleCode": null,
+        "roleType": null
+      },
+      "date": "2025-12-03",
+      "questionType": "oral",
+      "by": {
+        "memberCode": "Rose-Conway-Walsh.S.2016-04-25",
+        "showAs": "Rose Conway-Walsh",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Rose-Conway-Walsh.S.2016-04-25"
+      },
+      "showAs": " 11. Deputy Rose Conway-Walsh asked the Taoiseach to report on his recent meeting with British Prime Minister Keir Starmer. [67792/25] ",
+      "house": {
+        "committeeCode": "",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "chamberType": "house"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-12-03/pq_11",
+      "questionNumber": 11,
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-03/debate/dbsect_15",
+        "showAs": "Official Engagements",
+        "debateSectionId": "dbsect_15",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-03/debate/mul@/dbsect_15.xml"
+          },
+          "pdf": null
+        }
+      }
+    }
+  },
+  {
+    "contextDate": "2025-12-03",
+    "question": {
+      "to": {
+        "uri": null,
+        "showAs": "Taoiseach",
+        "roleCode": null,
+        "roleType": null
+      },
+      "date": "2025-12-03",
+      "questionType": "oral",
+      "by": {
+        "memberCode": "Peadar-Tóibín.D.2011-03-09",
+        "showAs": "Peadar Tóibín",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Peadar-Tóibín.D.2011-03-09"
+      },
+      "showAs": " 12. Deputy Peadar Tóibín asked the Taoiseach if he will report on his recent meeting with the British Prime Minister.  [67808/25] ",
+      "house": {
+        "committeeCode": "",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "chamberType": "house"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-12-03/pq_12",
+      "questionNumber": 12,
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-03/debate/dbsect_15",
+        "showAs": "Official Engagements",
+        "debateSectionId": "dbsect_15",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-03/debate/mul@/dbsect_15.xml"
+          },
+          "pdf": null
+        }
+      }
+    }
+  },
+  {
+    "contextDate": "2025-12-03",
+    "question": {
+      "to": {
+        "uri": null,
+        "showAs": "Taoiseach",
+        "roleCode": null,
+        "roleType": null
+      },
+      "date": "2025-12-03",
+      "questionType": "oral",
+      "by": {
+        "memberCode": "Tony-McCormack.D.2024-11-29",
+        "showAs": "Tony McCormack",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tony-McCormack.D.2024-11-29"
+      },
+      "showAs": " 13. Deputy Tony McCormack asked the Taoiseach for an update on his Department’s plans to co-ordinate a range of actions aimed at regulatory reform. [50582/25] ",
+      "house": {
+        "committeeCode": "",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "chamberType": "house"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-12-03/pq_13",
+      "questionNumber": 13,
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-03/debate/dbsect_16",
+        "showAs": "Regulatory Reform",
+        "debateSectionId": "dbsect_16",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-03/debate/mul@/dbsect_16.xml"
+          },
+          "pdf": null
+        }
+      }
+    }
+  },
+  {
+    "contextDate": "2025-12-03",
+    "question": {
+      "to": {
+        "uri": null,
+        "showAs": "Taoiseach",
+        "roleCode": null,
+        "roleType": null
+      },
+      "date": "2025-12-03",
+      "questionType": "oral",
+      "by": {
+        "memberCode": "Albert-Dolan.D.2024-11-29",
+        "showAs": "Albert Dolan",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Albert-Dolan.D.2024-11-29"
+      },
+      "showAs": " 14. Deputy Albert Dolan asked the Taoiseach for an update on his Department’s plans to co-ordinate a range of actions aimed at regulatory reform. [58232/25] ",
+      "house": {
+        "committeeCode": "",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "chamberType": "house"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-12-03/pq_14",
+      "questionNumber": 14,
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-03/debate/dbsect_16",
+        "showAs": "Regulatory Reform",
+        "debateSectionId": "dbsect_16",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-03/debate/mul@/dbsect_16.xml"
+          },
+          "pdf": null
+        }
+      }
+    }
+  },
+  {
+    "contextDate": "2025-12-03",
+    "question": {
+      "to": {
+        "uri": null,
+        "showAs": "Taoiseach",
+        "roleCode": null,
+        "roleType": null
+      },
+      "date": "2025-12-03",
+      "questionType": "oral",
+      "by": {
+        "memberCode": "Ruairí-Ó-Murchú.D.2020-02-08",
+        "showAs": "Ruairí Ó Murchú",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruairí-Ó-Murchú.D.2020-02-08"
+      },
+      "showAs": " 15. Deputy Ruairí Ó Murchú asked the Taoiseach for an update on his Department's plans to co-ordinate a range of actions aimed at regulatory reform. [63260/25] ",
+      "house": {
+        "committeeCode": "",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "chamberType": "house"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-12-03/pq_15",
+      "questionNumber": 15,
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-03/debate/dbsect_16",
+        "showAs": "Regulatory Reform",
+        "debateSectionId": "dbsect_16",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-03/debate/mul@/dbsect_16.xml"
+          },
+          "pdf": null
+        }
+      }
+    }
+  },
+  {
+    "contextDate": "2025-12-03",
+    "question": {
+      "to": {
+        "uri": null,
+        "showAs": "Taoiseach",
+        "roleCode": null,
+        "roleType": null
+      },
+      "date": "2025-12-03",
+      "questionType": "oral",
+      "by": {
+        "memberCode": "Darren-O'Rourke.D.2020-02-08",
+        "showAs": "Darren O'Rourke",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Darren-O'Rourke.D.2020-02-08"
+      },
+      "showAs": " 16. Deputy Darren O'Rourke asked the Taoiseach for an update on his Department's plans to co-ordinate a range of actions aimed at regulatory reform. [63269/25] ",
+      "house": {
+        "committeeCode": "",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "chamberType": "house"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-12-03/pq_16",
+      "questionNumber": 16,
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-03/debate/dbsect_16",
+        "showAs": "Regulatory Reform",
+        "debateSectionId": "dbsect_16",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-03/debate/mul@/dbsect_16.xml"
+          },
+          "pdf": null
+        }
+      }
+    }
+  },
+  {
+    "contextDate": "2025-12-03",
+    "question": {
+      "to": {
+        "uri": null,
+        "showAs": "Taoiseach",
+        "roleCode": null,
+        "roleType": null
+      },
+      "date": "2025-12-03",
+      "questionType": "oral",
+      "by": {
+        "memberCode": "Malcolm-Byrne.D.2019-11-29",
+        "showAs": "Malcolm Byrne",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Malcolm-Byrne.D.2019-11-29"
+      },
+      "showAs": " 17. Deputy Malcolm Byrne asked the Taoiseach for an update on his Department’s plans to co-ordinate a range of actions aimed at regulatory reform. [63479/25] ",
+      "house": {
+        "committeeCode": "",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "chamberType": "house"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-12-03/pq_17",
+      "questionNumber": 17,
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-03/debate/dbsect_16",
+        "showAs": "Regulatory Reform",
+        "debateSectionId": "dbsect_16",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-03/debate/mul@/dbsect_16.xml"
+          },
+          "pdf": null
+        }
+      }
+    }
+  },
+  {
+    "contextDate": "2025-12-03",
+    "question": {
+      "to": {
+        "uri": null,
+        "showAs": "Taoiseach",
+        "roleCode": null,
+        "roleType": null
+      },
+      "date": "2025-12-03",
+      "questionType": "oral",
+      "by": {
+        "memberCode": "Cian-O'Callaghan.D.2020-02-08",
+        "showAs": "Cian O'Callaghan",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Cian-O'Callaghan.D.2020-02-08"
+      },
+      "showAs": " 18. Deputy Cian O'Callaghan asked the Taoiseach for an update on his Department’s plans to co-ordinate a range of actions aimed at regulatory reform. [63906/25] ",
+      "house": {
+        "committeeCode": "",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "chamberType": "house"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-12-03/pq_18",
+      "questionNumber": 18,
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-03/debate/dbsect_16",
+        "showAs": "Regulatory Reform",
+        "debateSectionId": "dbsect_16",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-03/debate/mul@/dbsect_16.xml"
+          },
+          "pdf": null
+        }
+      }
+    }
+  },
+  {
+    "contextDate": "2025-12-03",
+    "question": {
+      "to": {
+        "uri": null,
+        "showAs": "Taoiseach",
+        "roleCode": null,
+        "roleType": null
+      },
+      "date": "2025-12-03",
+      "questionType": "oral",
+      "by": {
+        "memberCode": "James-O'Connor.D.2020-02-08",
+        "showAs": "James O'Connor",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/James-O'Connor.D.2020-02-08"
+      },
+      "showAs": " 19. Deputy James O'Connor asked the Taoiseach his Department's plans to co-ordinate a range of actions aimed at regulatory reform. [65261/25] ",
+      "house": {
+        "committeeCode": "",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "chamberType": "house"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-12-03/pq_19",
+      "questionNumber": 19,
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-03/debate/dbsect_16",
+        "showAs": "Regulatory Reform",
+        "debateSectionId": "dbsect_16",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-03/debate/mul@/dbsect_16.xml"
+          },
+          "pdf": null
+        }
+      }
+    }
+  },
+  {
+    "contextDate": "2025-12-03",
+    "question": {
+      "to": {
+        "uri": null,
+        "showAs": "Taoiseach",
+        "roleCode": null,
+        "roleType": null
+      },
+      "date": "2025-12-03",
+      "questionType": "oral",
+      "by": {
+        "memberCode": "Ruth-Coppinger.D.2014-05-23",
+        "showAs": "Ruth Coppinger",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruth-Coppinger.D.2014-05-23"
+      },
+      "showAs": " 20. Deputy Ruth Coppinger asked the Taoiseach for an update on his Department’s plans to co-ordinate a range of actions aimed at regulatory reform. [65601/25] ",
+      "house": {
+        "committeeCode": "",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "chamberType": "house"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-12-03/pq_20",
+      "questionNumber": 20,
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-03/debate/dbsect_16",
+        "showAs": "Regulatory Reform",
+        "debateSectionId": "dbsect_16",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-03/debate/mul@/dbsect_16.xml"
+          },
+          "pdf": null
+        }
+      }
+    }
+  },
+  {
+    "contextDate": "2025-12-03",
+    "question": {
+      "to": {
+        "uri": null,
+        "showAs": "Taoiseach",
+        "roleCode": null,
+        "roleType": null
+      },
+      "date": "2025-12-03",
+      "questionType": "oral",
+      "by": {
+        "memberCode": "Paul-Murphy.D.2014-10-10",
+        "showAs": "Paul Murphy",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Murphy.D.2014-10-10"
+      },
+      "showAs": " 21. Deputy Paul Murphy asked the Taoiseach about his Department’s plans to co-ordinate a range of actions aimed at regulatory reform. [65781/25] ",
+      "house": {
+        "committeeCode": "",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "chamberType": "house"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-12-03/pq_21",
+      "questionNumber": 21,
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-03/debate/dbsect_16",
+        "showAs": "Regulatory Reform",
+        "debateSectionId": "dbsect_16",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-03/debate/mul@/dbsect_16.xml"
+          },
+          "pdf": null
+        }
+      }
+    }
+  },
+  {
+    "contextDate": "2025-12-03",
+    "question": {
+      "to": {
+        "uri": null,
+        "showAs": "Taoiseach",
+        "roleCode": null,
+        "roleType": null
+      },
+      "date": "2025-12-03",
+      "questionType": "oral",
+      "by": {
+        "memberCode": "Liam-Quaide.D.2024-11-29",
+        "showAs": "Liam Quaide",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Liam-Quaide.D.2024-11-29"
+      },
+      "showAs": " 22. Deputy Liam Quaide asked the Taoiseach for an update on his Department’s plans to co-ordinate a range of actions aimed at regulatory reform. [67527/25] ",
+      "house": {
+        "committeeCode": "",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "chamberType": "house"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-12-03/pq_22",
+      "questionNumber": 22,
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-03/debate/dbsect_16",
+        "showAs": "Regulatory Reform",
+        "debateSectionId": "dbsect_16",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-03/debate/mul@/dbsect_16.xml"
+          },
+          "pdf": null
+        }
+      }
+    }
+  },
+  {
+    "contextDate": "2025-12-03",
+    "question": {
+      "to": {
+        "uri": null,
+        "showAs": "Taoiseach",
+        "roleCode": null,
+        "roleType": null
+      },
+      "date": "2025-12-03",
+      "questionType": "oral",
+      "by": {
+        "memberCode": "Rose-Conway-Walsh.S.2016-04-25",
+        "showAs": "Rose Conway-Walsh",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Rose-Conway-Walsh.S.2016-04-25"
+      },
+      "showAs": " 23. Deputy Rose Conway-Walsh asked the Taoiseach his Department’s plans to co-ordinate a range of actions aimed at regulatory reform. [67793/25] ",
+      "house": {
+        "committeeCode": "",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "chamberType": "house"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-12-03/pq_23",
+      "questionNumber": 23,
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-03/debate/dbsect_16",
+        "showAs": "Regulatory Reform",
+        "debateSectionId": "dbsect_16",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-03/debate/mul@/dbsect_16.xml"
+          },
+          "pdf": null
+        }
+      }
+    }
+  }
+]

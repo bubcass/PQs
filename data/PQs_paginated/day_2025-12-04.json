@@ -1,1 +1,1042 @@
-[]
+[
+  {
+    "question": {
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Rural",
+        "uri": null
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-12-04/pq_1",
+      "questionType": "oral",
+      "date": "2025-12-04",
+      "showAs": " 1. D'fhiafraigh Deputy Conor D. McGuinness den Minister for Rural and Community Development and the Gaeltacht cén stádas atá ag na pleananna teanga i ngach Limistéar Pleanála Gaeltachta agus Baile Seirbhíse Gaeltachta; agus cén obair atá ar siúl chun an chéad ghlúin eile pleananna a fhorbairt; agus an ndéanfaidh sé ráiteas ina thaobh. [68522/25] ",
+      "house": {
+        "houseNo": "34",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "committeeCode": "",
+        "houseCode": "dail"
+      },
+      "questionNumber": 1,
+      "debateSection": {
+        "showAs": "Pleanáil Teanga",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-04/debate/dbsect_3",
+        "debateSectionId": "dbsect_3",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-04/debate/mul@/dbsect_3.xml"
+          },
+          "pdf": null
+        }
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Conor-D-McGuinness.D.2024-11-29",
+        "showAs": "Conor D McGuinness",
+        "memberCode": "Conor-D-McGuinness.D.2024-11-29"
+      }
+    },
+    "contextDate": "2025-12-04"
+  },
+  {
+    "question": {
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Rural",
+        "uri": null
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-12-04/pq_2",
+      "questionType": "oral",
+      "date": "2025-12-04",
+      "showAs": " 2. Deputy Mark Wall asked the Minister for Rural and Community Development and the Gaeltacht if budget 2026 allocated any additional funding to the senior alerts scheme; if so, if this includes an expanded list of equipment such as assistive technology; and if he will make a statement on the matter. [68382/25] ",
+      "house": {
+        "houseNo": "34",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "committeeCode": "",
+        "houseCode": "dail"
+      },
+      "questionNumber": 2,
+      "debateSection": {
+        "showAs": "Departmental Schemes",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-04/debate/dbsect_4",
+        "debateSectionId": "dbsect_4",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-04/debate/mul@/dbsect_4.xml"
+          },
+          "pdf": null
+        }
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Mark-Wall.S.2020-03-30",
+        "showAs": "Mark Wall",
+        "memberCode": "Mark-Wall.S.2020-03-30"
+      }
+    },
+    "contextDate": "2025-12-04"
+  },
+  {
+    "question": {
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Rural",
+        "uri": null
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-12-04/pq_3",
+      "questionType": "oral",
+      "date": "2025-12-04",
+      "showAs": " 3. D'fhiafraigh Deputy Aengus Ó Snodaigh den Minister for Rural and Community Development and the Gaeltacht an bhfuil sé i gceist aige aon deontais a chur ar fáil arís de réir Acht na dTithe (Gaeltacht) (Leasú), 2001 chun dul i ngleic leis an ngéarchéim tithíochta; agus an bhfuil sé tar éis an chumhacht seo a phlé leis an Aire Tithíochta, Rialtais Áitiúil agus Oidhreachta. [68523/25] ",
+      "house": {
+        "houseNo": "34",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "committeeCode": "",
+        "houseCode": "dail"
+      },
+      "questionNumber": 3,
+      "debateSection": {
+        "showAs": "Cúrsaí Tithíochta",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-04/debate/dbsect_5",
+        "debateSectionId": "dbsect_5",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-04/debate/mul@/dbsect_5.xml"
+          },
+          "pdf": null
+        }
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Aengus-Ó-Snodaigh.D.2002-06-06",
+        "showAs": "Aengus Ó Snodaigh",
+        "memberCode": "Aengus-Ó-Snodaigh.D.2002-06-06"
+      }
+    },
+    "contextDate": "2025-12-04"
+  },
+  {
+    "question": {
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Rural",
+        "uri": null
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-12-04/pq_4",
+      "questionType": "oral",
+      "date": "2025-12-04",
+      "showAs": " 4. Deputy Brian Stanley asked the Minister for Rural and Community Development and the Gaeltacht if he will consider granting funding to homecoming festivals in various locations in the country in the interest of promoting tourism and increasing investment in rural areas; and if he will make a statement on the matter. [67914/25] ",
+      "house": {
+        "houseNo": "34",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "committeeCode": "",
+        "houseCode": "dail"
+      },
+      "questionNumber": 4,
+      "debateSection": {
+        "showAs": "Rural Schemes",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-04/debate/dbsect_6",
+        "debateSectionId": "dbsect_6",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-04/debate/mul@/dbsect_6.xml"
+          },
+          "pdf": null
+        }
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Brian-Stanley.D.2011-03-09",
+        "showAs": "Brian Stanley",
+        "memberCode": "Brian-Stanley.D.2011-03-09"
+      }
+    },
+    "contextDate": "2025-12-04"
+  },
+  {
+    "question": {
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Rural",
+        "uri": null
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-12-04/pq_6",
+      "questionType": "oral",
+      "date": "2025-12-04",
+      "showAs": " 6. D'fhiafraigh Deputy Barry Heneghan den Minister for Rural and Community Development and the Gaeltacht , cé go bhfuil sé le moladh as an ardú suntasach a baineadh amach i mBuiséad 2026 don Ghaeilge agus don Ghaeltacht, an bhfuil socrú déanta i dtaobh an €2 mhilliúin a gealladh a thabhairt d’Fhoras na Gaeilge ón 1 Eanáir 2026; agus mura bhfuil, i bhfianaise na bhfadhbanna struchtúrtha a bhaineann le maoiniú an Fhorais, an bhfuil réiteach eile socraithe aige maidir leis an airgead sin a dháileadh ar ghrúpaí pobail ón 1 Eanáir 2026; agus an ndéanfaidh sé ráiteas ina thaobh. [68856/25] ",
+      "house": {
+        "houseNo": "34",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "committeeCode": "",
+        "houseCode": "dail"
+      },
+      "questionNumber": 6,
+      "debateSection": {
+        "showAs": "Foras na Gaeilge",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-04/debate/dbsect_7",
+        "debateSectionId": "dbsect_7",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-04/debate/mul@/dbsect_7.xml"
+          },
+          "pdf": null
+        }
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Barry-Heneghan.D.2024-11-29",
+        "showAs": "Barry Heneghan",
+        "memberCode": "Barry-Heneghan.D.2024-11-29"
+      }
+    },
+    "contextDate": "2025-12-04"
+  },
+  {
+    "question": {
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Rural",
+        "uri": null
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-12-04/pq_7",
+      "questionType": "oral",
+      "date": "2025-12-04",
+      "showAs": " 7. Deputy Cathy Bennett asked the Minister for Rural and Community Development and the Gaeltacht if he will report on his engagements regarding the LEADER programme under the next EU budgetary cycle. [68487/25] ",
+      "house": {
+        "houseNo": "34",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "committeeCode": "",
+        "houseCode": "dail"
+      },
+      "questionNumber": 7,
+      "debateSection": {
+        "showAs": "EU Funding",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-04/debate/dbsect_9",
+        "debateSectionId": "dbsect_9",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-04/debate/mul@/dbsect_9.xml"
+          },
+          "pdf": null
+        }
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Cathy-Bennett.D.2024-11-29",
+        "showAs": "Cathy Bennett",
+        "memberCode": "Cathy-Bennett.D.2024-11-29"
+      }
+    },
+    "contextDate": "2025-12-04"
+  },
+  {
+    "question": {
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Rural",
+        "uri": null
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-12-04/pq_10",
+      "questionType": "oral",
+      "date": "2025-12-04",
+      "showAs": " 10. Deputy John Paul O'Shea asked the Minister for Rural and Community Development and the Gaeltacht if he plans to increase the funding allocation for the local improvement scheme for County Cork in 2026 given the large number of unfunded applications, particularly in rural parts of Cork North-West; and if he will make a statement on the matter.  [67265/25] ",
+      "house": {
+        "houseNo": "34",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "committeeCode": "",
+        "houseCode": "dail"
+      },
+      "questionNumber": 10,
+      "debateSection": {
+        "showAs": "Departmental Schemes",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-04/debate/dbsect_11",
+        "debateSectionId": "dbsect_11",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-04/debate/mul@/dbsect_11.xml"
+          },
+          "pdf": null
+        }
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/John-Paul-O'Shea.D.2024-11-29",
+        "showAs": "John Paul O'Shea",
+        "memberCode": "John-Paul-O'Shea.D.2024-11-29"
+      }
+    },
+    "contextDate": "2025-12-04"
+  },
+  {
+    "question": {
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Rural",
+        "uri": null
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-12-04/pq_12",
+      "questionType": "oral",
+      "date": "2025-12-04",
+      "showAs": " 12. Deputy Barry Heneghan asked the Minister for Rural and Community Development and the Gaeltacht the indicators his Department will use to measure progress on the Clondalkin Irish Language Network and the Gaeilge 365 initiative from 2025 to 2028; the specific annual targets for the number of innovative projects to be developed each year; the number to be mainstreamed; the number to be scaled within the four Dublin local authorities; and if he will make a statement on the matter. [68507/25] ",
+      "house": {
+        "houseNo": "34",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "committeeCode": "",
+        "houseCode": "dail"
+      },
+      "questionNumber": 12,
+      "debateSection": {
+        "showAs": "Irish Language",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-04/debate/dbsect_10",
+        "debateSectionId": "dbsect_10",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-04/debate/mul@/dbsect_10.xml"
+          },
+          "pdf": null
+        }
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Barry-Heneghan.D.2024-11-29",
+        "showAs": "Barry Heneghan",
+        "memberCode": "Barry-Heneghan.D.2024-11-29"
+      }
+    },
+    "contextDate": "2025-12-04"
+  },
+  {
+    "question": {
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Rural",
+        "uri": null
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-12-04/pq_13",
+      "questionType": "oral",
+      "date": "2025-12-04",
+      "showAs": " 13. Deputy Naoise Ó Muirí asked the Minister for Rural and Community Development and the Gaeltacht if he will outline the projects developed by Gaois in DCU; and if he will make a statement on the matter. [68148/25] ",
+      "house": {
+        "houseNo": "34",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "committeeCode": "",
+        "houseCode": "dail"
+      },
+      "questionNumber": 13,
+      "debateSection": {
+        "showAs": "Irish Language",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-04/debate/dbsect_12",
+        "debateSectionId": "dbsect_12",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-04/debate/mul@/dbsect_12.xml"
+          },
+          "pdf": null
+        }
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Naoise-Ó-Muirí.D.2024-11-29",
+        "showAs": "Naoise Ó Muirí",
+        "memberCode": "Naoise-Ó-Muirí.D.2024-11-29"
+      }
+    },
+    "contextDate": "2025-12-04"
+  },
+  {
+    "question": {
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Rural",
+        "uri": null
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-12-04/pq_14",
+      "questionType": "oral",
+      "date": "2025-12-04",
+      "showAs": " 14. Deputy Naoise Ó Cearúil asked the Minister for Rural and Community Development and the Gaeltacht when the facilitator’s work plan with women’s sheds representatives will be completed; the way in which his Department will support its implementation; and if he will make a statement on the matter.  [68388/25] ",
+      "house": {
+        "houseNo": "34",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "committeeCode": "",
+        "houseCode": "dail"
+      },
+      "questionNumber": 14,
+      "debateSection": {
+        "showAs": "Women's Sheds",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-04/debate/dbsect_14",
+        "debateSectionId": "dbsect_14",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-04/debate/mul@/dbsect_14.xml"
+          },
+          "pdf": null
+        }
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Naoise-Ó-Cearúil.D.2024-11-29",
+        "showAs": "Naoise Ó Cearúil",
+        "memberCode": "Naoise-Ó-Cearúil.D.2024-11-29"
+      }
+    },
+    "contextDate": "2025-12-04"
+  },
+  {
+    "question": {
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Rural",
+        "uri": null
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-12-04/pq_15",
+      "questionType": "oral",
+      "date": "2025-12-04",
+      "showAs": " 15. Deputy Michael Cahill asked the Minister for Rural and Community Development and the Gaeltacht to give a detailed report in regard to the CLÁR funding approval process (details supplied); if further funding will be provided; and if he will make a statement on the matter. [68477/25] ",
+      "house": {
+        "houseNo": "34",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "committeeCode": "",
+        "houseCode": "dail"
+      },
+      "questionNumber": 15,
+      "debateSection": {
+        "showAs": "Rural Schemes",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-04/debate/dbsect_13",
+        "debateSectionId": "dbsect_13",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-04/debate/mul@/dbsect_13.xml"
+          },
+          "pdf": null
+        }
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Michael-Cahill.D.2024-11-29",
+        "showAs": "Michael Cahill",
+        "memberCode": "Michael-Cahill.D.2024-11-29"
+      }
+    },
+    "contextDate": "2025-12-04"
+  },
+  {
+    "question": {
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Rural",
+        "uri": null
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-12-04/pq_16",
+      "questionType": "oral",
+      "date": "2025-12-04",
+      "showAs": " 16. Deputy Keira Keogh asked the Minister for Rural and Community Development and the Gaeltacht the current and planned supports for Mayo’s offshore islands, including Inishturk, Clare Island, and Achill Island; and if he will make a statement on the matter. [68006/25] ",
+      "house": {
+        "houseNo": "34",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "committeeCode": "",
+        "houseCode": "dail"
+      },
+      "questionNumber": 16,
+      "debateSection": {
+        "showAs": "Offshore Islands",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-04/debate/dbsect_15",
+        "debateSectionId": "dbsect_15",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-04/debate/mul@/dbsect_15.xml"
+          },
+          "pdf": null
+        }
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Keira-Keogh.D.2024-11-29",
+        "showAs": "Keira Keogh",
+        "memberCode": "Keira-Keogh.D.2024-11-29"
+      }
+    },
+    "contextDate": "2025-12-04"
+  },
+  {
+    "question": {
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Rural",
+        "uri": null
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-12-04/pq_17",
+      "questionType": "oral",
+      "date": "2025-12-04",
+      "showAs": " 17. D'fhiafraigh Deputy John Connolly den Minister for Rural and Community Development and the Gaeltacht cé na féidearthachtaí atá ann d'Údarás na Gaeltachta obair le hUisce Éireann agus le húdaráis áitiúla chun tacú le tógáil tithíochta do phobail Ghaeilge mar atá curtha san áireamh sa phlean Tithe a Sheachadadh, Pobail a Thógáil 2025-2030; agus an ndéanfaidh sé ráiteas ina thaobh. [68405/25] ",
+      "house": {
+        "houseNo": "34",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "committeeCode": "",
+        "houseCode": "dail"
+      },
+      "questionNumber": 17,
+      "debateSection": {
+        "showAs": "Cúrsaí Tithíochta",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-04/debate/dbsect_16",
+        "debateSectionId": "dbsect_16",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-04/debate/mul@/dbsect_16.xml"
+          },
+          "pdf": null
+        }
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/John-Connolly.D.2024-11-29",
+        "showAs": "John Connolly",
+        "memberCode": "John-Connolly.D.2024-11-29"
+      }
+    },
+    "contextDate": "2025-12-04"
+  },
+  {
+    "question": {
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Rural",
+        "uri": null
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-12-04/pq_18",
+      "questionType": "oral",
+      "date": "2025-12-04",
+      "showAs": " 18. Deputy Eamon Scanlon asked the Minister for Rural and Community Development and the Gaeltacht the projects under way in Counties Sligo and Leitrim that are receiving funding under different schemes with financial support from his Department; the other projects that his Department has committed funding to; and if he will make a statement on the matter.  [68271/25] ",
+      "house": {
+        "houseNo": "34",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "committeeCode": "",
+        "houseCode": "dail"
+      },
+      "questionNumber": 18,
+      "debateSection": {
+        "showAs": "Community Development Projects",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-04/debate/dbsect_17",
+        "debateSectionId": "dbsect_17",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-04/debate/mul@/dbsect_17.xml"
+          },
+          "pdf": null
+        }
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Eamon-Scanlon.S.2002-09-12",
+        "showAs": "Eamon Scanlon",
+        "memberCode": "Eamon-Scanlon.S.2002-09-12"
+      }
+    },
+    "contextDate": "2025-12-04"
+  },
+  {
+    "question": {
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Justice",
+        "uri": null
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-12-04/pq_73",
+      "questionType": "oral",
+      "date": "2025-12-04",
+      "showAs": " 73. Deputy Matt Carthy asked the Minister for Justice, Home Affairs and Migration the progress that has been made to secure a bilateral agreement with Britain to ensure those international protection applicants who should be processed in Britain can be returned there in a timely manner; and if he will make a statement on the matter. [68314/25] ",
+      "house": {
+        "houseNo": "34",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "committeeCode": "",
+        "houseCode": "dail"
+      },
+      "questionNumber": 73,
+      "debateSection": {
+        "showAs": "International Protection",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-04/debate/dbsect_19",
+        "debateSectionId": "dbsect_19",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-04/debate/mul@/dbsect_19.xml"
+          },
+          "pdf": null
+        }
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Matt-Carthy.D.2020-02-08",
+        "showAs": "Matt Carthy",
+        "memberCode": "Matt-Carthy.D.2020-02-08"
+      }
+    },
+    "contextDate": "2025-12-04"
+  },
+  {
+    "question": {
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Justice",
+        "uri": null
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-12-04/pq_74",
+      "questionType": "oral",
+      "date": "2025-12-04",
+      "showAs": " 74. Deputy Alan Kelly asked the Minister for Justice, Home Affairs and Migration the full details of the remuneration packages and any other financial costs to the State related to the appointments and terms served of the current Garda Commissioner and the previous Garda Commissioner.  [68764/25] ",
+      "house": {
+        "houseNo": "34",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "committeeCode": "",
+        "houseCode": "dail"
+      },
+      "questionNumber": 74,
+      "debateSection": {
+        "showAs": "An Garda Síochána",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-04/debate/dbsect_20",
+        "debateSectionId": "dbsect_20",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-04/debate/mul@/dbsect_20.xml"
+          },
+          "pdf": null
+        }
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Alan-Kelly.S.2007-07-23",
+        "showAs": "Alan Kelly",
+        "memberCode": "Alan-Kelly.S.2007-07-23"
+      }
+    },
+    "contextDate": "2025-12-04"
+  },
+  {
+    "question": {
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Justice",
+        "uri": null
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-12-04/pq_75",
+      "questionType": "oral",
+      "date": "2025-12-04",
+      "showAs": " 75. Deputy Richard Boyd Barrett asked the Minister for Justice, Home Affairs and Migration to provide an update on pathways to resettlement for Palestinians in Gaza who wish to come to Ireland. [68957/25] ",
+      "house": {
+        "houseNo": "34",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "committeeCode": "",
+        "houseCode": "dail"
+      },
+      "questionNumber": 75,
+      "debateSection": {
+        "showAs": "Refugee Resettlement Programme",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-04/debate/dbsect_21",
+        "debateSectionId": "dbsect_21",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-04/debate/mul@/dbsect_21.xml"
+          },
+          "pdf": null
+        }
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Richard-Boyd-Barrett.D.2011-03-09",
+        "showAs": "Richard Boyd Barrett",
+        "memberCode": "Richard-Boyd-Barrett.D.2011-03-09"
+      }
+    },
+    "contextDate": "2025-12-04"
+  },
+  {
+    "question": {
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Justice",
+        "uri": null
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-12-04/pq_76",
+      "questionType": "oral",
+      "date": "2025-12-04",
+      "showAs": " 76. Deputy Michael Murphy asked the Minister for Justice, Home Affairs and Migration if he will provide an update on the urgent discussions referenced in his written reply of 22 October 2025 regarding the planned discontinuation of coronial post mortems at University Hospital Waterford from 1 January 2026; the interim arrangements that have now been agreed for counties Waterford, Wexford, Kilkenny, Tipperary and Carlow; and the way in which his Department intends to ensure that bereaved families in the south east are not subjected to further delays or distress as a result of these changes. [68836/25] ",
+      "house": {
+        "houseNo": "34",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "committeeCode": "",
+        "houseCode": "dail"
+      },
+      "questionNumber": 76,
+      "debateSection": {
+        "showAs": "Coroners Service",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-04/debate/dbsect_22",
+        "debateSectionId": "dbsect_22",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-04/debate/mul@/dbsect_22.xml"
+          },
+          "pdf": null
+        }
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Michael-Murphy.D.2024-11-29",
+        "showAs": "Michael Murphy",
+        "memberCode": "Michael-Murphy.D.2024-11-29"
+      }
+    },
+    "contextDate": "2025-12-04"
+  },
+  {
+    "question": {
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Justice",
+        "uri": null
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-12-04/pq_77",
+      "questionType": "oral",
+      "date": "2025-12-04",
+      "showAs": " 77. Deputy Matt Carthy asked the Minister for Justice, Home Affairs and Migration if he has initiated an immediate review of the Legal Aid Board’s capacity to administer the current civil legal aid scheme, as recommended by the review of civil legal aid; when he expects this review to be completed; and if he will make a statement on the matter. [68322/25] ",
+      "house": {
+        "houseNo": "34",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "committeeCode": "",
+        "houseCode": "dail"
+      },
+      "questionNumber": 77,
+      "debateSection": {
+        "showAs": "Legal Aid",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-04/debate/dbsect_23",
+        "debateSectionId": "dbsect_23",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-04/debate/mul@/dbsect_23.xml"
+          },
+          "pdf": null
+        }
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Matt-Carthy.D.2020-02-08",
+        "showAs": "Matt Carthy",
+        "memberCode": "Matt-Carthy.D.2020-02-08"
+      }
+    },
+    "contextDate": "2025-12-04"
+  },
+  {
+    "question": {
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Justice",
+        "uri": null
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-12-04/pq_80",
+      "questionType": "oral",
+      "date": "2025-12-04",
+      "showAs": " 80. Deputy Willie O'Dea asked the Minister for Justice, Home Affairs and Migration the number of Garda recruits that have entered Templemore in 2025; and if he will make a statement on the matter. [68340/25] ",
+      "house": {
+        "houseNo": "34",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "committeeCode": "",
+        "houseCode": "dail"
+      },
+      "questionNumber": 80,
+      "debateSection": {
+        "showAs": "An Garda Síochána",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-04/debate/dbsect_25",
+        "debateSectionId": "dbsect_25",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-04/debate/mul@/dbsect_25.xml"
+          },
+          "pdf": null
+        }
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Willie-O'Dea.D.1982-03-09",
+        "showAs": "Willie O'Dea",
+        "memberCode": "Willie-O'Dea.D.1982-03-09"
+      }
+    },
+    "contextDate": "2025-12-04"
+  },
+  {
+    "question": {
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Justice",
+        "uri": null
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-12-04/pq_82",
+      "questionType": "oral",
+      "date": "2025-12-04",
+      "showAs": " 82. Deputy Noel McCarthy asked the Minister for Justice, Home Affairs and Migration the number of naturalisation applications received, rejected, and approved from 2021 to 2024 inclusive, and to date in 2025, in tabular form; and if he will make a statement on the matter. [68265/25] ",
+      "house": {
+        "houseNo": "34",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "committeeCode": "",
+        "houseCode": "dail"
+      },
+      "questionNumber": 82,
+      "debateSection": {
+        "showAs": "Naturalisation Applications",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-04/debate/dbsect_26",
+        "debateSectionId": "dbsect_26",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-04/debate/mul@/dbsect_26.xml"
+          },
+          "pdf": null
+        }
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Noel-McCarthy.D.2024-11-29",
+        "showAs": "Noel McCarthy",
+        "memberCode": "Noel-McCarthy.D.2024-11-29"
+      }
+    },
+    "contextDate": "2025-12-04"
+  },
+  {
+    "question": {
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Justice",
+        "uri": null
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-12-04/pq_86",
+      "questionType": "oral",
+      "date": "2025-12-04",
+      "showAs": " 86. Deputy Eamon Scanlon asked the Minister for Justice, Home Affairs and Migration the actions he is taking in response to increased incidents and thefts in the north west; the way in which his Department is supporting An Garda Síochána, who do excellent work locally, in providing increased visibility and resources to respond to these incidents; his views on whether the Sligo-Leitrim division is not receiving enough gardaí, given no new gardaí have been allocated to the division from the latest round of training in Templemore; and if he will make a statement on the matter.  [68267/25] ",
+      "house": {
+        "houseNo": "34",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "committeeCode": "",
+        "houseCode": "dail"
+      },
+      "questionNumber": 86,
+      "debateSection": {
+        "showAs": "An Garda Síochána",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-04/debate/dbsect_27",
+        "debateSectionId": "dbsect_27",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-04/debate/mul@/dbsect_27.xml"
+          },
+          "pdf": null
+        }
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Eamon-Scanlon.S.2002-09-12",
+        "showAs": "Eamon Scanlon",
+        "memberCode": "Eamon-Scanlon.S.2002-09-12"
+      }
+    },
+    "contextDate": "2025-12-04"
+  },
+  {
+    "question": {
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Justice",
+        "uri": null
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-12-04/pq_87",
+      "questionType": "oral",
+      "date": "2025-12-04",
+      "showAs": " 87. Deputy Edward Timmins asked the Minister for Justice, Home Affairs and Migration if there is a strategy to spread the location of IPAS accommodation and avoid having large clusters in one area; and if he will make a statement on the matter.  [66709/25] ",
+      "house": {
+        "houseNo": "34",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "committeeCode": "",
+        "houseCode": "dail"
+      },
+      "questionNumber": 87,
+      "debateSection": {
+        "showAs": "International Protection",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-04/debate/dbsect_28",
+        "debateSectionId": "dbsect_28",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-04/debate/mul@/dbsect_28.xml"
+          },
+          "pdf": null
+        }
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Edward-Timmins.D.2024-11-29",
+        "showAs": "Edward Timmins",
+        "memberCode": "Edward-Timmins.D.2024-11-29"
+      }
+    },
+    "contextDate": "2025-12-04"
+  },
+  {
+    "question": {
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Justice",
+        "uri": null
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-12-04/pq_89",
+      "questionType": "oral",
+      "date": "2025-12-04",
+      "showAs": " 89. Deputy Michael Cahill asked the Minister for Justice, Home Affairs and Migration the measures in place to ensure timely Garda statements and preservation of evidence where a victim is incapacitated; the measures in place in Garda stations to ensure suspected spiking incidents are treated as crimes, investigated promptly, and supported by appropriate policing protocols; and if he will make a statement on the matter. [68475/25] ",
+      "house": {
+        "houseNo": "34",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "committeeCode": "",
+        "houseCode": "dail"
+      },
+      "questionNumber": 89,
+      "debateSection": {
+        "showAs": "An Garda Síochána",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-04/debate/dbsect_29",
+        "debateSectionId": "dbsect_29",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-04/debate/mul@/dbsect_29.xml"
+          },
+          "pdf": null
+        }
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Michael-Cahill.D.2024-11-29",
+        "showAs": "Michael Cahill",
+        "memberCode": "Michael-Cahill.D.2024-11-29"
+      }
+    },
+    "contextDate": "2025-12-04"
+  },
+  {
+    "question": {
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Justice",
+        "uri": null
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-12-04/pq_90",
+      "questionType": "oral",
+      "date": "2025-12-04",
+      "showAs": " 90. Deputy Claire Kerrane asked the Minister for Justice, Home Affairs and Migration if he will seek greater supports for counties where there are difficulties in acquiring domestic violence refuges; and if he will make a statement on the matter. [67257/25] ",
+      "house": {
+        "houseNo": "34",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "committeeCode": "",
+        "houseCode": "dail"
+      },
+      "questionNumber": 90,
+      "debateSection": {
+        "showAs": "Domestic Violence",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-04/debate/dbsect_30",
+        "debateSectionId": "dbsect_30",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-04/debate/mul@/dbsect_30.xml"
+          },
+          "pdf": null
+        }
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Claire-Kerrane.D.2020-02-08",
+        "showAs": "Claire Kerrane",
+        "memberCode": "Claire-Kerrane.D.2020-02-08"
+      }
+    },
+    "contextDate": "2025-12-04"
+  },
+  {
+    "question": {
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Justice",
+        "uri": null
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-12-04/pq_91",
+      "questionType": "oral",
+      "date": "2025-12-04",
+      "showAs": " 91. Deputy Matt Carthy asked the Minister for Justice, Home Affairs and Migration when he will introduce changes to the accommodation recognition scheme in the light of its impact on the private rental market and the fact that landlords are using this scheme to avoid tenancy obligations; and if he will make a statement on the matter. [68324/25] ",
+      "house": {
+        "houseNo": "34",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "committeeCode": "",
+        "houseCode": "dail"
+      },
+      "questionNumber": 91,
+      "debateSection": {
+        "showAs": "Housing Schemes",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-04/debate/dbsect_31",
+        "debateSectionId": "dbsect_31",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-04/debate/mul@/dbsect_31.xml"
+          },
+          "pdf": null
+        }
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Matt-Carthy.D.2020-02-08",
+        "showAs": "Matt Carthy",
+        "memberCode": "Matt-Carthy.D.2020-02-08"
+      }
+    },
+    "contextDate": "2025-12-04"
+  }
+]

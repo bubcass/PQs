@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "question": {
+      "date": "2025-12-09",
+      "by": {
+        "memberCode": "Pearse-Doherty.S.2007-07-23",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Pearse-Doherty.S.2007-07-23",
+        "showAs": "Pearse Doherty"
+      },
+      "questionNumber": 1,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-12-09/pq_1",
+      "house": {
+        "houseNo": "34",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil"
+      },
+      "questionType": "oral",
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Finance"
+      },
+      "showAs": " 1. Deputy Pearse Doherty asked the Tánaiste and Minister for Finance the level of inflation that was projected by his Department as it prepared budget 2026, including the decision not to provide an income tax adjustment for workers; and if he will make a statement on the matter. [64572/25] ",
+      "debateSection": {
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-09/debate/mul@/dbsect_13.xml"
+          }
+        },
+        "debateSectionId": "dbsect_13",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-09/debate/dbsect_13",
+        "showAs": "Inflation Rate"
+      }
+    },
+    "contextDate": "2025-12-09"
+  }
+]

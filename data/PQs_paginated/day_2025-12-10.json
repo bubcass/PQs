@@ -1,1121 +1,1121 @@
 [
   {
     "question": {
+      "debateSection": {
+        "showAs": "National Security",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-10/debate/dbsect_14",
+        "debateSectionId": "dbsect_14",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-10/debate/mul@/dbsect_14.xml"
+          },
+          "pdf": null
+        }
+      },
+      "showAs": " 1. Deputy Tom Brabazon asked the Taoiseach for a report on the national security strategy. [58233/25] ",
+      "to": {
+        "showAs": "Taoiseach",
+        "uri": null,
+        "roleCode": null,
+        "roleType": null
+      },
+      "date": "2025-12-10",
+      "house": {
+        "showAs": "34th Dáil",
+        "houseNo": "34",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "committeeCode": ""
+      },
+      "questionType": "oral",
       "by": {
-        "showAs": "Tom Brabazon",
         "memberCode": "Tom-Brabazon.D.2024-11-29",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tom-Brabazon.D.2024-11-29"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tom-Brabazon.D.2024-11-29",
+        "showAs": "Tom Brabazon"
       },
-      "house": {
-        "committeeCode": "",
-        "houseCode": "dail",
-        "showAs": "34th Dáil",
-        "chamberType": "house",
-        "houseNo": "34",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
-      },
-      "to": {
-        "showAs": "Taoiseach",
-        "roleCode": null,
-        "roleType": null,
-        "uri": null
-      },
-      "debateSection": {
-        "formats": {
-          "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-10/debate/mul@/dbsect_14.xml"
-          },
-          "pdf": null
-        },
-        "showAs": "National Security",
-        "debateSectionId": "dbsect_14",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-10/debate/dbsect_14"
-      },
-      "date": "2025-12-10",
-      "questionType": "oral",
-      "questionNumber": 1,
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-12-10/pq_1",
-      "showAs": " 1. Deputy Tom Brabazon asked the Taoiseach for a report on the national security strategy. [58233/25] "
+      "questionNumber": 1
     },
     "contextDate": "2025-12-10"
   },
   {
     "question": {
-      "by": {
-        "showAs": "Ruairí Ó Murchú",
-        "memberCode": "Ruairí-Ó-Murchú.D.2020-02-08",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruairí-Ó-Murchú.D.2020-02-08"
-      },
-      "house": {
-        "committeeCode": "",
-        "houseCode": "dail",
-        "showAs": "34th Dáil",
-        "chamberType": "house",
-        "houseNo": "34",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
-      },
-      "to": {
-        "showAs": "Taoiseach",
-        "roleCode": null,
-        "roleType": null,
-        "uri": null
-      },
       "debateSection": {
+        "showAs": "National Security",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-10/debate/dbsect_14",
+        "debateSectionId": "dbsect_14",
         "formats": {
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-10/debate/mul@/dbsect_14.xml"
           },
           "pdf": null
-        },
-        "showAs": "National Security",
-        "debateSectionId": "dbsect_14",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-10/debate/dbsect_14"
+        }
+      },
+      "showAs": " 2. Deputy Ruairí Ó Murchú asked the Taoiseach if he will report on the national security strategy. [65331/25] ",
+      "to": {
+        "showAs": "Taoiseach",
+        "uri": null,
+        "roleCode": null,
+        "roleType": null
       },
       "date": "2025-12-10",
+      "house": {
+        "showAs": "34th Dáil",
+        "houseNo": "34",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "committeeCode": ""
+      },
       "questionType": "oral",
-      "questionNumber": 2,
+      "by": {
+        "memberCode": "Ruairí-Ó-Murchú.D.2020-02-08",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruairí-Ó-Murchú.D.2020-02-08",
+        "showAs": "Ruairí Ó Murchú"
+      },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-12-10/pq_2",
-      "showAs": " 2. Deputy Ruairí Ó Murchú asked the Taoiseach if he will report on the national security strategy. [65331/25] "
+      "questionNumber": 2
     },
     "contextDate": "2025-12-10"
   },
   {
     "question": {
-      "by": {
-        "showAs": "Ruth Coppinger",
-        "memberCode": "Ruth-Coppinger.D.2014-05-23",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruth-Coppinger.D.2014-05-23"
-      },
-      "house": {
-        "committeeCode": "",
-        "houseCode": "dail",
-        "showAs": "34th Dáil",
-        "chamberType": "house",
-        "houseNo": "34",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
-      },
-      "to": {
-        "showAs": "Taoiseach",
-        "roleCode": null,
-        "roleType": null,
-        "uri": null
-      },
       "debateSection": {
+        "showAs": "National Security",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-10/debate/dbsect_14",
+        "debateSectionId": "dbsect_14",
         "formats": {
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-10/debate/mul@/dbsect_14.xml"
           },
           "pdf": null
-        },
-        "showAs": "National Security",
-        "debateSectionId": "dbsect_14",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-10/debate/dbsect_14"
+        }
+      },
+      "showAs": " 3. Deputy Ruth Coppinger asked the Taoiseach for a report on the national security strategy. [65603/25] ",
+      "to": {
+        "showAs": "Taoiseach",
+        "uri": null,
+        "roleCode": null,
+        "roleType": null
       },
       "date": "2025-12-10",
+      "house": {
+        "showAs": "34th Dáil",
+        "houseNo": "34",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "committeeCode": ""
+      },
       "questionType": "oral",
-      "questionNumber": 3,
+      "by": {
+        "memberCode": "Ruth-Coppinger.D.2014-05-23",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruth-Coppinger.D.2014-05-23",
+        "showAs": "Ruth Coppinger"
+      },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-12-10/pq_3",
-      "showAs": " 3. Deputy Ruth Coppinger asked the Taoiseach for a report on the national security strategy. [65603/25] "
+      "questionNumber": 3
     },
     "contextDate": "2025-12-10"
   },
   {
     "question": {
-      "by": {
-        "showAs": "Albert Dolan",
-        "memberCode": "Albert-Dolan.D.2024-11-29",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Albert-Dolan.D.2024-11-29"
-      },
-      "house": {
-        "committeeCode": "",
-        "houseCode": "dail",
-        "showAs": "34th Dáil",
-        "chamberType": "house",
-        "houseNo": "34",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
-      },
-      "to": {
-        "showAs": "Taoiseach",
-        "roleCode": null,
-        "roleType": null,
-        "uri": null
-      },
       "debateSection": {
+        "showAs": "National Security",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-10/debate/dbsect_14",
+        "debateSectionId": "dbsect_14",
         "formats": {
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-10/debate/mul@/dbsect_14.xml"
           },
           "pdf": null
-        },
-        "showAs": "National Security",
-        "debateSectionId": "dbsect_14",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-10/debate/dbsect_14"
+        }
+      },
+      "showAs": " 4. Deputy Albert Dolan asked the Taoiseach for a report on the national security strategy. [65712/25] ",
+      "to": {
+        "showAs": "Taoiseach",
+        "uri": null,
+        "roleCode": null,
+        "roleType": null
       },
       "date": "2025-12-10",
+      "house": {
+        "showAs": "34th Dáil",
+        "houseNo": "34",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "committeeCode": ""
+      },
       "questionType": "oral",
-      "questionNumber": 4,
+      "by": {
+        "memberCode": "Albert-Dolan.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Albert-Dolan.D.2024-11-29",
+        "showAs": "Albert Dolan"
+      },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-12-10/pq_4",
-      "showAs": " 4. Deputy Albert Dolan asked the Taoiseach for a report on the national security strategy. [65712/25] "
+      "questionNumber": 4
     },
     "contextDate": "2025-12-10"
   },
   {
     "question": {
-      "by": {
-        "showAs": "Darren O'Rourke",
-        "memberCode": "Darren-O'Rourke.D.2020-02-08",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Darren-O'Rourke.D.2020-02-08"
-      },
-      "house": {
-        "committeeCode": "",
-        "houseCode": "dail",
-        "showAs": "34th Dáil",
-        "chamberType": "house",
-        "houseNo": "34",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
-      },
-      "to": {
-        "showAs": "Taoiseach",
-        "roleCode": null,
-        "roleType": null,
-        "uri": null
-      },
       "debateSection": {
+        "showAs": "National Security",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-10/debate/dbsect_14",
+        "debateSectionId": "dbsect_14",
         "formats": {
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-10/debate/mul@/dbsect_14.xml"
           },
           "pdf": null
-        },
-        "showAs": "National Security",
-        "debateSectionId": "dbsect_14",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-10/debate/dbsect_14"
+        }
+      },
+      "showAs": " 5. Deputy Darren O'Rourke asked the Taoiseach for a report on the national security strategy. [65716/25] ",
+      "to": {
+        "showAs": "Taoiseach",
+        "uri": null,
+        "roleCode": null,
+        "roleType": null
       },
       "date": "2025-12-10",
+      "house": {
+        "showAs": "34th Dáil",
+        "houseNo": "34",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "committeeCode": ""
+      },
       "questionType": "oral",
-      "questionNumber": 5,
+      "by": {
+        "memberCode": "Darren-O'Rourke.D.2020-02-08",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Darren-O'Rourke.D.2020-02-08",
+        "showAs": "Darren O'Rourke"
+      },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-12-10/pq_5",
-      "showAs": " 5. Deputy Darren O'Rourke asked the Taoiseach for a report on the national security strategy. [65716/25] "
+      "questionNumber": 5
     },
     "contextDate": "2025-12-10"
   },
   {
     "question": {
-      "by": {
-        "showAs": "Paul Murphy",
-        "memberCode": "Paul-Murphy.D.2014-10-10",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Murphy.D.2014-10-10"
-      },
-      "house": {
-        "committeeCode": "",
-        "houseCode": "dail",
-        "showAs": "34th Dáil",
-        "chamberType": "house",
-        "houseNo": "34",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
-      },
-      "to": {
-        "showAs": "Taoiseach",
-        "roleCode": null,
-        "roleType": null,
-        "uri": null
-      },
       "debateSection": {
+        "showAs": "National Security",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-10/debate/dbsect_14",
+        "debateSectionId": "dbsect_14",
         "formats": {
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-10/debate/mul@/dbsect_14.xml"
           },
           "pdf": null
-        },
-        "showAs": "National Security",
-        "debateSectionId": "dbsect_14",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-10/debate/dbsect_14"
+        }
+      },
+      "showAs": " 6. Deputy Paul Murphy asked the Taoiseach for a report on the national security strategy. [65782/25] ",
+      "to": {
+        "showAs": "Taoiseach",
+        "uri": null,
+        "roleCode": null,
+        "roleType": null
       },
       "date": "2025-12-10",
+      "house": {
+        "showAs": "34th Dáil",
+        "houseNo": "34",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "committeeCode": ""
+      },
       "questionType": "oral",
-      "questionNumber": 6,
+      "by": {
+        "memberCode": "Paul-Murphy.D.2014-10-10",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Murphy.D.2014-10-10",
+        "showAs": "Paul Murphy"
+      },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-12-10/pq_6",
-      "showAs": " 6. Deputy Paul Murphy asked the Taoiseach for a report on the national security strategy. [65782/25] "
+      "questionNumber": 6
     },
     "contextDate": "2025-12-10"
   },
   {
     "question": {
+      "debateSection": {
+        "showAs": "National Security",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-10/debate/dbsect_14",
+        "debateSectionId": "dbsect_14",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-10/debate/mul@/dbsect_14.xml"
+          },
+          "pdf": null
+        }
+      },
+      "showAs": " 7. Deputy Ryan O'Meara asked the Taoiseach for an update on progress of the national security strategy. [65888/25] ",
+      "to": {
+        "showAs": "Taoiseach",
+        "uri": null,
+        "roleCode": null,
+        "roleType": null
+      },
+      "date": "2025-12-10",
+      "house": {
+        "showAs": "34th Dáil",
+        "houseNo": "34",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "committeeCode": ""
+      },
+      "questionType": "oral",
       "by": {
-        "showAs": "Ryan O'Meara",
         "memberCode": "Ryan-O'Meara.D.2024-11-29",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ryan-O'Meara.D.2024-11-29"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ryan-O'Meara.D.2024-11-29",
+        "showAs": "Ryan O'Meara"
       },
-      "house": {
-        "committeeCode": "",
-        "houseCode": "dail",
-        "showAs": "34th Dáil",
-        "chamberType": "house",
-        "houseNo": "34",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
-      },
-      "to": {
-        "showAs": "Taoiseach",
-        "roleCode": null,
-        "roleType": null,
-        "uri": null
-      },
-      "debateSection": {
-        "formats": {
-          "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-10/debate/mul@/dbsect_14.xml"
-          },
-          "pdf": null
-        },
-        "showAs": "National Security",
-        "debateSectionId": "dbsect_14",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-10/debate/dbsect_14"
-      },
-      "date": "2025-12-10",
-      "questionType": "oral",
-      "questionNumber": 7,
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-12-10/pq_7",
-      "showAs": " 7. Deputy Ryan O'Meara asked the Taoiseach for an update on progress of the national security strategy. [65888/25] "
+      "questionNumber": 7
     },
     "contextDate": "2025-12-10"
   },
   {
     "question": {
-      "by": {
-        "showAs": "Ivana Bacik",
-        "memberCode": "Ivana-Bacik.S.2007-07-23",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ivana-Bacik.S.2007-07-23"
-      },
-      "house": {
-        "committeeCode": "",
-        "houseCode": "dail",
-        "showAs": "34th Dáil",
-        "chamberType": "house",
-        "houseNo": "34",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
-      },
-      "to": {
-        "showAs": "Taoiseach",
-        "roleCode": null,
-        "roleType": null,
-        "uri": null
-      },
       "debateSection": {
+        "showAs": "National Security",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-10/debate/dbsect_14",
+        "debateSectionId": "dbsect_14",
         "formats": {
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-10/debate/mul@/dbsect_14.xml"
           },
           "pdf": null
-        },
-        "showAs": "National Security",
-        "debateSectionId": "dbsect_14",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-10/debate/dbsect_14"
+        }
+      },
+      "showAs": " 8. Deputy Ivana Bacik asked the Taoiseach for a report on the national security strategy. [67608/25] ",
+      "to": {
+        "showAs": "Taoiseach",
+        "uri": null,
+        "roleCode": null,
+        "roleType": null
       },
       "date": "2025-12-10",
+      "house": {
+        "showAs": "34th Dáil",
+        "houseNo": "34",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "committeeCode": ""
+      },
       "questionType": "oral",
-      "questionNumber": 8,
+      "by": {
+        "memberCode": "Ivana-Bacik.S.2007-07-23",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ivana-Bacik.S.2007-07-23",
+        "showAs": "Ivana Bacik"
+      },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-12-10/pq_8",
-      "showAs": " 8. Deputy Ivana Bacik asked the Taoiseach for a report on the national security strategy. [67608/25] "
+      "questionNumber": 8
     },
     "contextDate": "2025-12-10"
   },
   {
     "question": {
-      "by": {
-        "showAs": "Rose Conway-Walsh",
-        "memberCode": "Rose-Conway-Walsh.S.2016-04-25",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Rose-Conway-Walsh.S.2016-04-25"
-      },
-      "house": {
-        "committeeCode": "",
-        "houseCode": "dail",
-        "showAs": "34th Dáil",
-        "chamberType": "house",
-        "houseNo": "34",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
-      },
-      "to": {
-        "showAs": "Taoiseach",
-        "roleCode": null,
-        "roleType": null,
-        "uri": null
-      },
       "debateSection": {
+        "showAs": "National Security",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-10/debate/dbsect_14",
+        "debateSectionId": "dbsect_14",
         "formats": {
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-10/debate/mul@/dbsect_14.xml"
           },
           "pdf": null
-        },
-        "showAs": "National Security",
-        "debateSectionId": "dbsect_14",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-10/debate/dbsect_14"
+        }
+      },
+      "showAs": " 9. Deputy Rose Conway-Walsh asked the Taoiseach for a report on the national security strategy. [67794/25] ",
+      "to": {
+        "showAs": "Taoiseach",
+        "uri": null,
+        "roleCode": null,
+        "roleType": null
       },
       "date": "2025-12-10",
+      "house": {
+        "showAs": "34th Dáil",
+        "houseNo": "34",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "committeeCode": ""
+      },
       "questionType": "oral",
-      "questionNumber": 9,
+      "by": {
+        "memberCode": "Rose-Conway-Walsh.S.2016-04-25",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Rose-Conway-Walsh.S.2016-04-25",
+        "showAs": "Rose Conway-Walsh"
+      },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-12-10/pq_9",
-      "showAs": " 9. Deputy Rose Conway-Walsh asked the Taoiseach for a report on the national security strategy. [67794/25] "
+      "questionNumber": 9
     },
     "contextDate": "2025-12-10"
   },
   {
     "question": {
-      "by": {
-        "showAs": "Peadar Tóibín",
-        "memberCode": "Peadar-Tóibín.D.2011-03-09",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Peadar-Tóibín.D.2011-03-09"
-      },
-      "house": {
-        "committeeCode": "",
-        "houseCode": "dail",
-        "showAs": "34th Dáil",
-        "chamberType": "house",
-        "houseNo": "34",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
-      },
-      "to": {
-        "showAs": "Taoiseach",
-        "roleCode": null,
-        "roleType": null,
-        "uri": null
-      },
       "debateSection": {
+        "showAs": "National Security",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-10/debate/dbsect_14",
+        "debateSectionId": "dbsect_14",
         "formats": {
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-10/debate/mul@/dbsect_14.xml"
           },
           "pdf": null
-        },
-        "showAs": "National Security",
-        "debateSectionId": "dbsect_14",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-10/debate/dbsect_14"
+        }
+      },
+      "showAs": " 10. Deputy Peadar Tóibín asked the Taoiseach if he will report on the national security strategy. [67809/25] ",
+      "to": {
+        "showAs": "Taoiseach",
+        "uri": null,
+        "roleCode": null,
+        "roleType": null
       },
       "date": "2025-12-10",
+      "house": {
+        "showAs": "34th Dáil",
+        "houseNo": "34",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "committeeCode": ""
+      },
       "questionType": "oral",
-      "questionNumber": 10,
+      "by": {
+        "memberCode": "Peadar-Tóibín.D.2011-03-09",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Peadar-Tóibín.D.2011-03-09",
+        "showAs": "Peadar Tóibín"
+      },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-12-10/pq_10",
-      "showAs": " 10. Deputy Peadar Tóibín asked the Taoiseach if he will report on the national security strategy. [67809/25] "
+      "questionNumber": 10
     },
     "contextDate": "2025-12-10"
   },
   {
     "question": {
-      "by": {
-        "showAs": "Paul Lawless",
-        "memberCode": "Paul-Lawless.D.2024-11-29",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Lawless.D.2024-11-29"
-      },
-      "house": {
-        "committeeCode": "",
-        "houseCode": "dail",
-        "showAs": "34th Dáil",
-        "chamberType": "house",
-        "houseNo": "34",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
-      },
-      "to": {
-        "showAs": "Taoiseach",
-        "roleCode": null,
-        "roleType": null,
-        "uri": null
-      },
       "debateSection": {
+        "showAs": "National Security",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-10/debate/dbsect_14",
+        "debateSectionId": "dbsect_14",
         "formats": {
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-10/debate/mul@/dbsect_14.xml"
           },
           "pdf": null
-        },
-        "showAs": "National Security",
-        "debateSectionId": "dbsect_14",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-10/debate/dbsect_14"
+        }
       },
-      "date": "2025-12-10",
-      "questionType": "oral",
-      "questionNumber": 11,
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-12-10/pq_11",
-      "showAs": " 11. Deputy Paul Lawless asked the Taoiseach if he will report on the national security strategy. [67916/25] "
-    },
-    "contextDate": "2025-12-10"
-  },
-  {
-    "question": {
-      "by": {
-        "showAs": "Aindrias Moynihan",
-        "memberCode": "Aindrias-Moynihan.D.2016-10-03",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Aindrias-Moynihan.D.2016-10-03"
-      },
-      "house": {
-        "committeeCode": "",
-        "houseCode": "dail",
-        "showAs": "34th Dáil",
-        "chamberType": "house",
-        "houseNo": "34",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
-      },
+      "showAs": " 11. Deputy Paul Lawless asked the Taoiseach if he will report on the national security strategy. [67916/25] ",
       "to": {
         "showAs": "Taoiseach",
+        "uri": null,
         "roleCode": null,
-        "roleType": null,
-        "uri": null
-      },
-      "debateSection": {
-        "formats": {
-          "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-10/debate/mul@/dbsect_15.xml"
-          },
-          "pdf": null
-        },
-        "showAs": "Cabinet Committees",
-        "debateSectionId": "dbsect_15",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-10/debate/dbsect_15"
+        "roleType": null
       },
       "date": "2025-12-10",
-      "questionType": "oral",
-      "questionNumber": 12,
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-12-10/pq_12",
-      "showAs": " 12. Deputy Aindrias Moynihan asked the Taoiseach when the Cabinet committee on infrastructure will next meet. [63425/25] "
-    },
-    "contextDate": "2025-12-10"
-  },
-  {
-    "question": {
-      "by": {
-        "showAs": "Ruairí Ó Murchú",
-        "memberCode": "Ruairí-Ó-Murchú.D.2020-02-08",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruairí-Ó-Murchú.D.2020-02-08"
-      },
       "house": {
-        "committeeCode": "",
-        "houseCode": "dail",
         "showAs": "34th Dáil",
-        "chamberType": "house",
         "houseNo": "34",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
-      },
-      "to": {
-        "showAs": "Taoiseach",
-        "roleCode": null,
-        "roleType": null,
-        "uri": null
-      },
-      "debateSection": {
-        "formats": {
-          "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-10/debate/mul@/dbsect_15.xml"
-          },
-          "pdf": null
-        },
-        "showAs": "Cabinet Committees",
-        "debateSectionId": "dbsect_15",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-10/debate/dbsect_15"
-      },
-      "date": "2025-12-10",
-      "questionType": "oral",
-      "questionNumber": 13,
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-12-10/pq_13",
-      "showAs": " 13. Deputy Ruairí Ó Murchú asked the Taoiseach when the Cabinet committee on infrastructure will next meet. [65332/25] "
-    },
-    "contextDate": "2025-12-10"
-  },
-  {
-    "question": {
-      "by": {
-        "showAs": "David Cullinane",
-        "memberCode": "David-Cullinane.S.2011-05-25",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/David-Cullinane.S.2011-05-25"
-      },
-      "house": {
-        "committeeCode": "",
         "houseCode": "dail",
-        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
         "chamberType": "house",
-        "houseNo": "34",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+        "committeeCode": ""
       },
-      "to": {
-        "showAs": "Taoiseach",
-        "roleCode": null,
-        "roleType": null,
-        "uri": null
-      },
-      "debateSection": {
-        "formats": {
-          "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-10/debate/mul@/dbsect_15.xml"
-          },
-          "pdf": null
-        },
-        "showAs": "Cabinet Committees",
-        "debateSectionId": "dbsect_15",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-10/debate/dbsect_15"
-      },
-      "date": "2025-12-10",
       "questionType": "oral",
-      "questionNumber": 14,
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-12-10/pq_14",
-      "showAs": " 14. Deputy David Cullinane asked the Taoiseach when the Cabinet committee on infrastructure will next meet. [65605/25] "
-    },
-    "contextDate": "2025-12-10"
-  },
-  {
-    "question": {
       "by": {
-        "showAs": "Albert Dolan",
-        "memberCode": "Albert-Dolan.D.2024-11-29",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Albert-Dolan.D.2024-11-29"
-      },
-      "house": {
-        "committeeCode": "",
-        "houseCode": "dail",
-        "showAs": "34th Dáil",
-        "chamberType": "house",
-        "houseNo": "34",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
-      },
-      "to": {
-        "showAs": "Taoiseach",
-        "roleCode": null,
-        "roleType": null,
-        "uri": null
-      },
-      "debateSection": {
-        "formats": {
-          "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-10/debate/mul@/dbsect_15.xml"
-          },
-          "pdf": null
-        },
-        "showAs": "Cabinet Committees",
-        "debateSectionId": "dbsect_15",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-10/debate/dbsect_15"
-      },
-      "date": "2025-12-10",
-      "questionType": "oral",
-      "questionNumber": 15,
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-12-10/pq_15",
-      "showAs": " 15. Deputy Albert Dolan asked the Taoiseach when the Cabinet committee on infrastructure will next meet. [65711/25] "
-    },
-    "contextDate": "2025-12-10"
-  },
-  {
-    "question": {
-      "by": {
-        "showAs": "Darren O'Rourke",
-        "memberCode": "Darren-O'Rourke.D.2020-02-08",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Darren-O'Rourke.D.2020-02-08"
-      },
-      "house": {
-        "committeeCode": "",
-        "houseCode": "dail",
-        "showAs": "34th Dáil",
-        "chamberType": "house",
-        "houseNo": "34",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
-      },
-      "to": {
-        "showAs": "Taoiseach",
-        "roleCode": null,
-        "roleType": null,
-        "uri": null
-      },
-      "debateSection": {
-        "formats": {
-          "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-10/debate/mul@/dbsect_15.xml"
-          },
-          "pdf": null
-        },
-        "showAs": "Cabinet Committees",
-        "debateSectionId": "dbsect_15",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-10/debate/dbsect_15"
-      },
-      "date": "2025-12-10",
-      "questionType": "oral",
-      "questionNumber": 16,
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-12-10/pq_16",
-      "showAs": " 16. Deputy Darren O'Rourke asked the Taoiseach when the Cabinet committee on infrastructure will next meet. [65717/25] "
-    },
-    "contextDate": "2025-12-10"
-  },
-  {
-    "question": {
-      "by": {
-        "showAs": "Paul Murphy",
-        "memberCode": "Paul-Murphy.D.2014-10-10",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Murphy.D.2014-10-10"
-      },
-      "house": {
-        "committeeCode": "",
-        "houseCode": "dail",
-        "showAs": "34th Dáil",
-        "chamberType": "house",
-        "houseNo": "34",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
-      },
-      "to": {
-        "showAs": "Taoiseach",
-        "roleCode": null,
-        "roleType": null,
-        "uri": null
-      },
-      "debateSection": {
-        "formats": {
-          "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-10/debate/mul@/dbsect_15.xml"
-          },
-          "pdf": null
-        },
-        "showAs": "Cabinet Committees",
-        "debateSectionId": "dbsect_15",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-10/debate/dbsect_15"
-      },
-      "date": "2025-12-10",
-      "questionType": "oral",
-      "questionNumber": 17,
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-12-10/pq_17",
-      "showAs": " 17. Deputy Paul Murphy asked the Taoiseach when the Cabinet committee on infrastructure will next meet. [65783/25] "
-    },
-    "contextDate": "2025-12-10"
-  },
-  {
-    "question": {
-      "by": {
-        "showAs": "Cian O'Callaghan",
-        "memberCode": "Cian-O'Callaghan.D.2020-02-08",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Cian-O'Callaghan.D.2020-02-08"
-      },
-      "house": {
-        "committeeCode": "",
-        "houseCode": "dail",
-        "showAs": "34th Dáil",
-        "chamberType": "house",
-        "houseNo": "34",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
-      },
-      "to": {
-        "showAs": "Taoiseach",
-        "roleCode": null,
-        "roleType": null,
-        "uri": null
-      },
-      "debateSection": {
-        "formats": {
-          "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-10/debate/mul@/dbsect_15.xml"
-          },
-          "pdf": null
-        },
-        "showAs": "Cabinet Committees",
-        "debateSectionId": "dbsect_15",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-10/debate/dbsect_15"
-      },
-      "date": "2025-12-10",
-      "questionType": "oral",
-      "questionNumber": 18,
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-12-10/pq_18",
-      "showAs": " 18. Deputy Cian O'Callaghan asked the Taoiseach when the Cabinet committee on infrastructure will next meet. [65859/25] "
-    },
-    "contextDate": "2025-12-10"
-  },
-  {
-    "question": {
-      "by": {
-        "showAs": "Séamus McGrath",
-        "memberCode": "Séamus-McGrath.D.2024-11-29",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Séamus-McGrath.D.2024-11-29"
-      },
-      "house": {
-        "committeeCode": "",
-        "houseCode": "dail",
-        "showAs": "34th Dáil",
-        "chamberType": "house",
-        "houseNo": "34",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
-      },
-      "to": {
-        "showAs": "Taoiseach",
-        "roleCode": null,
-        "roleType": null,
-        "uri": null
-      },
-      "debateSection": {
-        "formats": {
-          "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-10/debate/mul@/dbsect_15.xml"
-          },
-          "pdf": null
-        },
-        "showAs": "Cabinet Committees",
-        "debateSectionId": "dbsect_15",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-10/debate/dbsect_15"
-      },
-      "date": "2025-12-10",
-      "questionType": "oral",
-      "questionNumber": 19,
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-12-10/pq_19",
-      "showAs": " 19. Deputy Séamus McGrath asked the Taoiseach when the Cabinet committee on infrastructure will meet next. [65887/25] "
-    },
-    "contextDate": "2025-12-10"
-  },
-  {
-    "question": {
-      "by": {
-        "showAs": "James O'Connor",
-        "memberCode": "James-O'Connor.D.2020-02-08",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/James-O'Connor.D.2020-02-08"
-      },
-      "house": {
-        "committeeCode": "",
-        "houseCode": "dail",
-        "showAs": "34th Dáil",
-        "chamberType": "house",
-        "houseNo": "34",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
-      },
-      "to": {
-        "showAs": "Taoiseach",
-        "roleCode": null,
-        "roleType": null,
-        "uri": null
-      },
-      "debateSection": {
-        "formats": {
-          "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-10/debate/mul@/dbsect_15.xml"
-          },
-          "pdf": null
-        },
-        "showAs": "Cabinet Committees",
-        "debateSectionId": "dbsect_15",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-10/debate/dbsect_15"
-      },
-      "date": "2025-12-10",
-      "questionType": "oral",
-      "questionNumber": 20,
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-12-10/pq_20",
-      "showAs": " 20. Deputy James O'Connor asked the Taoiseach when the Cabinet committee on infrastructure will meet next. [67601/25] "
-    },
-    "contextDate": "2025-12-10"
-  },
-  {
-    "question": {
-      "by": {
-        "showAs": "Ivana Bacik",
-        "memberCode": "Ivana-Bacik.S.2007-07-23",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ivana-Bacik.S.2007-07-23"
-      },
-      "house": {
-        "committeeCode": "",
-        "houseCode": "dail",
-        "showAs": "34th Dáil",
-        "chamberType": "house",
-        "houseNo": "34",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
-      },
-      "to": {
-        "showAs": "Taoiseach",
-        "roleCode": null,
-        "roleType": null,
-        "uri": null
-      },
-      "debateSection": {
-        "formats": {
-          "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-10/debate/mul@/dbsect_15.xml"
-          },
-          "pdf": null
-        },
-        "showAs": "Cabinet Committees",
-        "debateSectionId": "dbsect_15",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-10/debate/dbsect_15"
-      },
-      "date": "2025-12-10",
-      "questionType": "oral",
-      "questionNumber": 21,
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-12-10/pq_21",
-      "showAs": " 21. Deputy Ivana Bacik asked the Taoiseach when the Cabinet committee on infrastructure will next meet. [67609/25] "
-    },
-    "contextDate": "2025-12-10"
-  },
-  {
-    "question": {
-      "by": {
-        "showAs": "Peadar Tóibín",
-        "memberCode": "Peadar-Tóibín.D.2011-03-09",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Peadar-Tóibín.D.2011-03-09"
-      },
-      "house": {
-        "committeeCode": "",
-        "houseCode": "dail",
-        "showAs": "34th Dáil",
-        "chamberType": "house",
-        "houseNo": "34",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
-      },
-      "to": {
-        "showAs": "Taoiseach",
-        "roleCode": null,
-        "roleType": null,
-        "uri": null
-      },
-      "debateSection": {
-        "formats": {
-          "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-10/debate/mul@/dbsect_15.xml"
-          },
-          "pdf": null
-        },
-        "showAs": "Cabinet Committees",
-        "debateSectionId": "dbsect_15",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-10/debate/dbsect_15"
-      },
-      "date": "2025-12-10",
-      "questionType": "oral",
-      "questionNumber": 22,
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-12-10/pq_22",
-      "showAs": " 22. Deputy Peadar Tóibín asked the Taoiseach when the Cabinet committee on infrastructure will next meet. [67810/25] "
-    },
-    "contextDate": "2025-12-10"
-  },
-  {
-    "question": {
-      "by": {
-        "showAs": "Paul Lawless",
         "memberCode": "Paul-Lawless.D.2024-11-29",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Lawless.D.2024-11-29"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Lawless.D.2024-11-29",
+        "showAs": "Paul Lawless"
       },
-      "house": {
-        "committeeCode": "",
-        "houseCode": "dail",
-        "showAs": "34th Dáil",
-        "chamberType": "house",
-        "houseNo": "34",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
-      },
-      "to": {
-        "showAs": "Taoiseach",
-        "roleCode": null,
-        "roleType": null,
-        "uri": null
-      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-12-10/pq_11",
+      "questionNumber": 11
+    },
+    "contextDate": "2025-12-10"
+  },
+  {
+    "question": {
       "debateSection": {
+        "showAs": "Cabinet Committees",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-10/debate/dbsect_15",
+        "debateSectionId": "dbsect_15",
         "formats": {
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-10/debate/mul@/dbsect_15.xml"
           },
           "pdf": null
-        },
-        "showAs": "Cabinet Committees",
-        "debateSectionId": "dbsect_15",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-10/debate/dbsect_15"
+        }
+      },
+      "showAs": " 12. Deputy Aindrias Moynihan asked the Taoiseach when the Cabinet committee on infrastructure will next meet. [63425/25] ",
+      "to": {
+        "showAs": "Taoiseach",
+        "uri": null,
+        "roleCode": null,
+        "roleType": null
       },
       "date": "2025-12-10",
+      "house": {
+        "showAs": "34th Dáil",
+        "houseNo": "34",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "committeeCode": ""
+      },
       "questionType": "oral",
-      "questionNumber": 23,
+      "by": {
+        "memberCode": "Aindrias-Moynihan.D.2016-10-03",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Aindrias-Moynihan.D.2016-10-03",
+        "showAs": "Aindrias Moynihan"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-12-10/pq_12",
+      "questionNumber": 12
+    },
+    "contextDate": "2025-12-10"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "showAs": "Cabinet Committees",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-10/debate/dbsect_15",
+        "debateSectionId": "dbsect_15",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-10/debate/mul@/dbsect_15.xml"
+          },
+          "pdf": null
+        }
+      },
+      "showAs": " 13. Deputy Ruairí Ó Murchú asked the Taoiseach when the Cabinet committee on infrastructure will next meet. [65332/25] ",
+      "to": {
+        "showAs": "Taoiseach",
+        "uri": null,
+        "roleCode": null,
+        "roleType": null
+      },
+      "date": "2025-12-10",
+      "house": {
+        "showAs": "34th Dáil",
+        "houseNo": "34",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "committeeCode": ""
+      },
+      "questionType": "oral",
+      "by": {
+        "memberCode": "Ruairí-Ó-Murchú.D.2020-02-08",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruairí-Ó-Murchú.D.2020-02-08",
+        "showAs": "Ruairí Ó Murchú"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-12-10/pq_13",
+      "questionNumber": 13
+    },
+    "contextDate": "2025-12-10"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "showAs": "Cabinet Committees",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-10/debate/dbsect_15",
+        "debateSectionId": "dbsect_15",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-10/debate/mul@/dbsect_15.xml"
+          },
+          "pdf": null
+        }
+      },
+      "showAs": " 14. Deputy David Cullinane asked the Taoiseach when the Cabinet committee on infrastructure will next meet. [65605/25] ",
+      "to": {
+        "showAs": "Taoiseach",
+        "uri": null,
+        "roleCode": null,
+        "roleType": null
+      },
+      "date": "2025-12-10",
+      "house": {
+        "showAs": "34th Dáil",
+        "houseNo": "34",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "committeeCode": ""
+      },
+      "questionType": "oral",
+      "by": {
+        "memberCode": "David-Cullinane.S.2011-05-25",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/David-Cullinane.S.2011-05-25",
+        "showAs": "David Cullinane"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-12-10/pq_14",
+      "questionNumber": 14
+    },
+    "contextDate": "2025-12-10"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "showAs": "Cabinet Committees",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-10/debate/dbsect_15",
+        "debateSectionId": "dbsect_15",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-10/debate/mul@/dbsect_15.xml"
+          },
+          "pdf": null
+        }
+      },
+      "showAs": " 15. Deputy Albert Dolan asked the Taoiseach when the Cabinet committee on infrastructure will next meet. [65711/25] ",
+      "to": {
+        "showAs": "Taoiseach",
+        "uri": null,
+        "roleCode": null,
+        "roleType": null
+      },
+      "date": "2025-12-10",
+      "house": {
+        "showAs": "34th Dáil",
+        "houseNo": "34",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "committeeCode": ""
+      },
+      "questionType": "oral",
+      "by": {
+        "memberCode": "Albert-Dolan.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Albert-Dolan.D.2024-11-29",
+        "showAs": "Albert Dolan"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-12-10/pq_15",
+      "questionNumber": 15
+    },
+    "contextDate": "2025-12-10"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "showAs": "Cabinet Committees",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-10/debate/dbsect_15",
+        "debateSectionId": "dbsect_15",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-10/debate/mul@/dbsect_15.xml"
+          },
+          "pdf": null
+        }
+      },
+      "showAs": " 16. Deputy Darren O'Rourke asked the Taoiseach when the Cabinet committee on infrastructure will next meet. [65717/25] ",
+      "to": {
+        "showAs": "Taoiseach",
+        "uri": null,
+        "roleCode": null,
+        "roleType": null
+      },
+      "date": "2025-12-10",
+      "house": {
+        "showAs": "34th Dáil",
+        "houseNo": "34",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "committeeCode": ""
+      },
+      "questionType": "oral",
+      "by": {
+        "memberCode": "Darren-O'Rourke.D.2020-02-08",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Darren-O'Rourke.D.2020-02-08",
+        "showAs": "Darren O'Rourke"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-12-10/pq_16",
+      "questionNumber": 16
+    },
+    "contextDate": "2025-12-10"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "showAs": "Cabinet Committees",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-10/debate/dbsect_15",
+        "debateSectionId": "dbsect_15",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-10/debate/mul@/dbsect_15.xml"
+          },
+          "pdf": null
+        }
+      },
+      "showAs": " 17. Deputy Paul Murphy asked the Taoiseach when the Cabinet committee on infrastructure will next meet. [65783/25] ",
+      "to": {
+        "showAs": "Taoiseach",
+        "uri": null,
+        "roleCode": null,
+        "roleType": null
+      },
+      "date": "2025-12-10",
+      "house": {
+        "showAs": "34th Dáil",
+        "houseNo": "34",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "committeeCode": ""
+      },
+      "questionType": "oral",
+      "by": {
+        "memberCode": "Paul-Murphy.D.2014-10-10",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Murphy.D.2014-10-10",
+        "showAs": "Paul Murphy"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-12-10/pq_17",
+      "questionNumber": 17
+    },
+    "contextDate": "2025-12-10"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "showAs": "Cabinet Committees",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-10/debate/dbsect_15",
+        "debateSectionId": "dbsect_15",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-10/debate/mul@/dbsect_15.xml"
+          },
+          "pdf": null
+        }
+      },
+      "showAs": " 18. Deputy Cian O'Callaghan asked the Taoiseach when the Cabinet committee on infrastructure will next meet. [65859/25] ",
+      "to": {
+        "showAs": "Taoiseach",
+        "uri": null,
+        "roleCode": null,
+        "roleType": null
+      },
+      "date": "2025-12-10",
+      "house": {
+        "showAs": "34th Dáil",
+        "houseNo": "34",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "committeeCode": ""
+      },
+      "questionType": "oral",
+      "by": {
+        "memberCode": "Cian-O'Callaghan.D.2020-02-08",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Cian-O'Callaghan.D.2020-02-08",
+        "showAs": "Cian O'Callaghan"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-12-10/pq_18",
+      "questionNumber": 18
+    },
+    "contextDate": "2025-12-10"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "showAs": "Cabinet Committees",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-10/debate/dbsect_15",
+        "debateSectionId": "dbsect_15",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-10/debate/mul@/dbsect_15.xml"
+          },
+          "pdf": null
+        }
+      },
+      "showAs": " 19. Deputy Séamus McGrath asked the Taoiseach when the Cabinet committee on infrastructure will meet next. [65887/25] ",
+      "to": {
+        "showAs": "Taoiseach",
+        "uri": null,
+        "roleCode": null,
+        "roleType": null
+      },
+      "date": "2025-12-10",
+      "house": {
+        "showAs": "34th Dáil",
+        "houseNo": "34",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "committeeCode": ""
+      },
+      "questionType": "oral",
+      "by": {
+        "memberCode": "Séamus-McGrath.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Séamus-McGrath.D.2024-11-29",
+        "showAs": "Séamus McGrath"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-12-10/pq_19",
+      "questionNumber": 19
+    },
+    "contextDate": "2025-12-10"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "showAs": "Cabinet Committees",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-10/debate/dbsect_15",
+        "debateSectionId": "dbsect_15",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-10/debate/mul@/dbsect_15.xml"
+          },
+          "pdf": null
+        }
+      },
+      "showAs": " 20. Deputy James O'Connor asked the Taoiseach when the Cabinet committee on infrastructure will meet next. [67601/25] ",
+      "to": {
+        "showAs": "Taoiseach",
+        "uri": null,
+        "roleCode": null,
+        "roleType": null
+      },
+      "date": "2025-12-10",
+      "house": {
+        "showAs": "34th Dáil",
+        "houseNo": "34",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "committeeCode": ""
+      },
+      "questionType": "oral",
+      "by": {
+        "memberCode": "James-O'Connor.D.2020-02-08",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/James-O'Connor.D.2020-02-08",
+        "showAs": "James O'Connor"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-12-10/pq_20",
+      "questionNumber": 20
+    },
+    "contextDate": "2025-12-10"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "showAs": "Cabinet Committees",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-10/debate/dbsect_15",
+        "debateSectionId": "dbsect_15",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-10/debate/mul@/dbsect_15.xml"
+          },
+          "pdf": null
+        }
+      },
+      "showAs": " 21. Deputy Ivana Bacik asked the Taoiseach when the Cabinet committee on infrastructure will next meet. [67609/25] ",
+      "to": {
+        "showAs": "Taoiseach",
+        "uri": null,
+        "roleCode": null,
+        "roleType": null
+      },
+      "date": "2025-12-10",
+      "house": {
+        "showAs": "34th Dáil",
+        "houseNo": "34",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "committeeCode": ""
+      },
+      "questionType": "oral",
+      "by": {
+        "memberCode": "Ivana-Bacik.S.2007-07-23",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ivana-Bacik.S.2007-07-23",
+        "showAs": "Ivana Bacik"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-12-10/pq_21",
+      "questionNumber": 21
+    },
+    "contextDate": "2025-12-10"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "showAs": "Cabinet Committees",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-10/debate/dbsect_15",
+        "debateSectionId": "dbsect_15",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-10/debate/mul@/dbsect_15.xml"
+          },
+          "pdf": null
+        }
+      },
+      "showAs": " 22. Deputy Peadar Tóibín asked the Taoiseach when the Cabinet committee on infrastructure will next meet. [67810/25] ",
+      "to": {
+        "showAs": "Taoiseach",
+        "uri": null,
+        "roleCode": null,
+        "roleType": null
+      },
+      "date": "2025-12-10",
+      "house": {
+        "showAs": "34th Dáil",
+        "houseNo": "34",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "committeeCode": ""
+      },
+      "questionType": "oral",
+      "by": {
+        "memberCode": "Peadar-Tóibín.D.2011-03-09",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Peadar-Tóibín.D.2011-03-09",
+        "showAs": "Peadar Tóibín"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-12-10/pq_22",
+      "questionNumber": 22
+    },
+    "contextDate": "2025-12-10"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "showAs": "Cabinet Committees",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-10/debate/dbsect_15",
+        "debateSectionId": "dbsect_15",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-10/debate/mul@/dbsect_15.xml"
+          },
+          "pdf": null
+        }
+      },
+      "showAs": " 23. Deputy Paul Lawless asked the Taoiseach when the Cabinet committee on infrastructure will next meet. [67917/25] ",
+      "to": {
+        "showAs": "Taoiseach",
+        "uri": null,
+        "roleCode": null,
+        "roleType": null
+      },
+      "date": "2025-12-10",
+      "house": {
+        "showAs": "34th Dáil",
+        "houseNo": "34",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "committeeCode": ""
+      },
+      "questionType": "oral",
+      "by": {
+        "memberCode": "Paul-Lawless.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Lawless.D.2024-11-29",
+        "showAs": "Paul Lawless"
+      },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-12-10/pq_23",
-      "showAs": " 23. Deputy Paul Lawless asked the Taoiseach when the Cabinet committee on infrastructure will next meet. [67917/25] "
+      "questionNumber": 23
     },
     "contextDate": "2025-12-10"
   },
   {
     "question": {
+      "debateSection": {
+        "showAs": "Cabinet Committees",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-10/debate/dbsect_15",
+        "debateSectionId": "dbsect_15",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-10/debate/mul@/dbsect_15.xml"
+          },
+          "pdf": null
+        }
+      },
+      "showAs": " 24. Deputy Ruth Coppinger asked the Taoiseach when the Cabinet committee on infrastructure will next meet. [68212/25] ",
+      "to": {
+        "showAs": "Taoiseach",
+        "uri": null,
+        "roleCode": null,
+        "roleType": null
+      },
+      "date": "2025-12-10",
+      "house": {
+        "showAs": "34th Dáil",
+        "houseNo": "34",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "committeeCode": ""
+      },
+      "questionType": "oral",
       "by": {
-        "showAs": "Ruth Coppinger",
         "memberCode": "Ruth-Coppinger.D.2014-05-23",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruth-Coppinger.D.2014-05-23"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruth-Coppinger.D.2014-05-23",
+        "showAs": "Ruth Coppinger"
       },
-      "house": {
-        "committeeCode": "",
-        "houseCode": "dail",
-        "showAs": "34th Dáil",
-        "chamberType": "house",
-        "houseNo": "34",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
-      },
-      "to": {
-        "showAs": "Taoiseach",
-        "roleCode": null,
-        "roleType": null,
-        "uri": null
-      },
-      "debateSection": {
-        "formats": {
-          "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-10/debate/mul@/dbsect_15.xml"
-          },
-          "pdf": null
-        },
-        "showAs": "Cabinet Committees",
-        "debateSectionId": "dbsect_15",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-10/debate/dbsect_15"
-      },
-      "date": "2025-12-10",
-      "questionType": "oral",
-      "questionNumber": 24,
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-12-10/pq_24",
-      "showAs": " 24. Deputy Ruth Coppinger asked the Taoiseach when the Cabinet committee on infrastructure will next meet. [68212/25] "
+      "questionNumber": 24
     },
     "contextDate": "2025-12-10"
   },
   {
     "question": {
+      "debateSection": {
+        "showAs": "Cabinet Committees",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-10/debate/dbsect_15",
+        "debateSectionId": "dbsect_15",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-10/debate/mul@/dbsect_15.xml"
+          },
+          "pdf": null
+        }
+      },
+      "showAs": " 25. Deputy James Geoghegan asked the Taoiseach when the Cabinet committee on infrastructure will next meet. [69534/25] ",
+      "to": {
+        "showAs": "Taoiseach",
+        "uri": null,
+        "roleCode": null,
+        "roleType": null
+      },
+      "date": "2025-12-10",
+      "house": {
+        "showAs": "34th Dáil",
+        "houseNo": "34",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "committeeCode": ""
+      },
+      "questionType": "oral",
       "by": {
-        "showAs": "James Geoghegan",
         "memberCode": "James-Geoghegan.D.2024-11-29",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/James-Geoghegan.D.2024-11-29"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/James-Geoghegan.D.2024-11-29",
+        "showAs": "James Geoghegan"
       },
-      "house": {
-        "committeeCode": "",
-        "houseCode": "dail",
-        "showAs": "34th Dáil",
-        "chamberType": "house",
-        "houseNo": "34",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
-      },
-      "to": {
-        "showAs": "Taoiseach",
-        "roleCode": null,
-        "roleType": null,
-        "uri": null
-      },
-      "debateSection": {
-        "formats": {
-          "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-10/debate/mul@/dbsect_15.xml"
-          },
-          "pdf": null
-        },
-        "showAs": "Cabinet Committees",
-        "debateSectionId": "dbsect_15",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-10/debate/dbsect_15"
-      },
-      "date": "2025-12-10",
-      "questionType": "oral",
-      "questionNumber": 25,
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-12-10/pq_25",
-      "showAs": " 25. Deputy James Geoghegan asked the Taoiseach when the Cabinet committee on infrastructure will next meet. [69534/25] "
+      "questionNumber": 25
     },
     "contextDate": "2025-12-10"
   },
   {
     "question": {
+      "debateSection": {
+        "showAs": "Cabinet Committees",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-10/debate/dbsect_15",
+        "debateSectionId": "dbsect_15",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-10/debate/mul@/dbsect_15.xml"
+          },
+          "pdf": null
+        }
+      },
+      "showAs": " 26. Deputy Rose Conway-Walsh asked the Taoiseach when the Cabinet committee on infrastructure will next meet. [69659/25] ",
+      "to": {
+        "showAs": "Taoiseach",
+        "uri": null,
+        "roleCode": null,
+        "roleType": null
+      },
+      "date": "2025-12-10",
+      "house": {
+        "showAs": "34th Dáil",
+        "houseNo": "34",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "committeeCode": ""
+      },
+      "questionType": "oral",
       "by": {
-        "showAs": "Rose Conway-Walsh",
         "memberCode": "Rose-Conway-Walsh.S.2016-04-25",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Rose-Conway-Walsh.S.2016-04-25"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Rose-Conway-Walsh.S.2016-04-25",
+        "showAs": "Rose Conway-Walsh"
       },
-      "house": {
-        "committeeCode": "",
-        "houseCode": "dail",
-        "showAs": "34th Dáil",
-        "chamberType": "house",
-        "houseNo": "34",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
-      },
-      "to": {
-        "showAs": "Taoiseach",
-        "roleCode": null,
-        "roleType": null,
-        "uri": null
-      },
-      "debateSection": {
-        "formats": {
-          "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-10/debate/mul@/dbsect_15.xml"
-          },
-          "pdf": null
-        },
-        "showAs": "Cabinet Committees",
-        "debateSectionId": "dbsect_15",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-10/debate/dbsect_15"
-      },
-      "date": "2025-12-10",
-      "questionType": "oral",
-      "questionNumber": 26,
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-12-10/pq_26",
-      "showAs": " 26. Deputy Rose Conway-Walsh asked the Taoiseach when the Cabinet committee on infrastructure will next meet. [69659/25] "
+      "questionNumber": 26
     },
     "contextDate": "2025-12-10"
   },
   {
     "question": {
+      "debateSection": {
+        "showAs": "Cabinet Committees",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-10/debate/dbsect_15",
+        "debateSectionId": "dbsect_15",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-10/debate/mul@/dbsect_15.xml"
+          },
+          "pdf": null
+        }
+      },
+      "showAs": " 27. Deputy Barry Heneghan asked the Taoiseach when the Cabinet committee on infrastructure will meet next. [69690/25] ",
+      "to": {
+        "showAs": "Taoiseach",
+        "uri": null,
+        "roleCode": null,
+        "roleType": null
+      },
+      "date": "2025-12-10",
+      "house": {
+        "showAs": "34th Dáil",
+        "houseNo": "34",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "committeeCode": ""
+      },
+      "questionType": "oral",
       "by": {
-        "showAs": "Barry Heneghan",
         "memberCode": "Barry-Heneghan.D.2024-11-29",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Barry-Heneghan.D.2024-11-29"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Barry-Heneghan.D.2024-11-29",
+        "showAs": "Barry Heneghan"
       },
-      "house": {
-        "committeeCode": "",
-        "houseCode": "dail",
-        "showAs": "34th Dáil",
-        "chamberType": "house",
-        "houseNo": "34",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
-      },
-      "to": {
-        "showAs": "Taoiseach",
-        "roleCode": null,
-        "roleType": null,
-        "uri": null
-      },
-      "debateSection": {
-        "formats": {
-          "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-10/debate/mul@/dbsect_15.xml"
-          },
-          "pdf": null
-        },
-        "showAs": "Cabinet Committees",
-        "debateSectionId": "dbsect_15",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-10/debate/dbsect_15"
-      },
-      "date": "2025-12-10",
-      "questionType": "oral",
-      "questionNumber": 27,
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-12-10/pq_27",
-      "showAs": " 27. Deputy Barry Heneghan asked the Taoiseach when the Cabinet committee on infrastructure will meet next. [69690/25] "
+      "questionNumber": 27
     },
     "contextDate": "2025-12-10"
   },
   {
     "question": {
-      "by": {
-        "showAs": "Conor D McGuinness",
-        "memberCode": "Conor-D-McGuinness.D.2024-11-29",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Conor-D-McGuinness.D.2024-11-29"
-      },
-      "house": {
-        "committeeCode": "",
-        "houseCode": "dail",
-        "showAs": "34th Dáil",
-        "chamberType": "house",
-        "houseNo": "34",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
-      },
-      "to": {
-        "showAs": "Taoiseach",
-        "roleCode": null,
-        "roleType": null,
-        "uri": null
-      },
       "debateSection": {
+        "showAs": "Cabinet Committees",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-10/debate/dbsect_15",
+        "debateSectionId": "dbsect_15",
         "formats": {
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-10/debate/mul@/dbsect_15.xml"
           },
           "pdf": null
-        },
-        "showAs": "Cabinet Committees",
-        "debateSectionId": "dbsect_15",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-10/debate/dbsect_15"
+        }
+      },
+      "showAs": " 28. Deputy Conor D. McGuinness asked the Taoiseach when the Cabinet committee on infrastructure will next meet. [69835/25] ",
+      "to": {
+        "showAs": "Taoiseach",
+        "uri": null,
+        "roleCode": null,
+        "roleType": null
       },
       "date": "2025-12-10",
+      "house": {
+        "showAs": "34th Dáil",
+        "houseNo": "34",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "committeeCode": ""
+      },
       "questionType": "oral",
-      "questionNumber": 28,
+      "by": {
+        "memberCode": "Conor-D-McGuinness.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Conor-D-McGuinness.D.2024-11-29",
+        "showAs": "Conor D McGuinness"
+      },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-12-10/pq_28",
-      "showAs": " 28. Deputy Conor D. McGuinness asked the Taoiseach when the Cabinet committee on infrastructure will next meet. [69835/25] "
+      "questionNumber": 28
     },
     "contextDate": "2025-12-10"
   }

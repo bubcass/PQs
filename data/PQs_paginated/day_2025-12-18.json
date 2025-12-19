@@ -1,1 +1,1602 @@
-[]
+[
+  {
+    "contextDate": "2025-12-18",
+    "question": {
+      "debateSection": {
+        "debateSectionId": "dbsect_3",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-18/debate/mul@/dbsect_3.xml"
+          },
+          "pdf": null
+        },
+        "showAs": "Childcare Services",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-18/debate/dbsect_3"
+      },
+      "showAs": " 1. Deputy Claire Kerrane asked the Minister for Children, Disability and Equality if she will carry out a review of the regulations for childminders in Q1 of 2026; and if she will make a statement on the matter. [71885/25] ",
+      "date": "2025-12-18",
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Children",
+        "uri": null
+      },
+      "questionType": "oral",
+      "questionNumber": 1,
+      "house": {
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-12-18/pq_1",
+      "by": {
+        "memberCode": "Claire-Kerrane.D.2020-02-08",
+        "showAs": "Claire Kerrane",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Claire-Kerrane.D.2020-02-08"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-12-18",
+    "question": {
+      "debateSection": {
+        "debateSectionId": "dbsect_4",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-18/debate/mul@/dbsect_4.xml"
+          },
+          "pdf": null
+        },
+        "showAs": "Family Resource Centres",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-18/debate/dbsect_4"
+      },
+      "showAs": " 2. Deputy Mark Wall asked the Minister for Children, Disability and Equality if her Department will provide additional and multiannual funding for therapeutic and counselling supports, such as play therapy, currently provided in family resource centres; and if she will make a statement on the matter. [73394/25] ",
+      "date": "2025-12-18",
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Children",
+        "uri": null
+      },
+      "questionType": "oral",
+      "questionNumber": 2,
+      "house": {
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-12-18/pq_2",
+      "by": {
+        "memberCode": "Mark-Wall.S.2020-03-30",
+        "showAs": "Mark Wall",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Mark-Wall.S.2020-03-30"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-12-18",
+    "question": {
+      "debateSection": {
+        "debateSectionId": "dbsect_5",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-18/debate/mul@/dbsect_5.xml"
+          },
+          "pdf": null
+        },
+        "showAs": "Homeless Persons Supports",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-18/debate/dbsect_5"
+      },
+      "showAs": " 3. Deputy Thomas Gould asked the Minister for Children, Disability and Equality whether she will intervene to prevent the closure of homeless prevention services in an organisation (details supplied) in Cork in mid-January; and to ensure the service does not cease in providing vital community support to homeless young people through social care and work [73584/25] ",
+      "date": "2025-12-18",
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Children",
+        "uri": null
+      },
+      "questionType": "oral",
+      "questionNumber": 3,
+      "house": {
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-12-18/pq_3",
+      "by": {
+        "memberCode": "Thomas-Gould.D.2020-02-08",
+        "showAs": "Thomas Gould",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Thomas-Gould.D.2020-02-08"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-12-18",
+    "question": {
+      "debateSection": {
+        "debateSectionId": "dbsect_6",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-18/debate/mul@/dbsect_6.xml"
+          },
+          "pdf": null
+        },
+        "showAs": "Residential Institutions",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-18/debate/dbsect_6"
+      },
+      "showAs": " 4. Deputy Liam Quaide asked the Minister for Children, Disability and Equality if she has completed an equality and human rights impact assessment of her Department's practice of locating people with intellectual and other disabilities in excess of 100 km from home in residential services for prolonged periods of time, and of her Department's failure to maintain statistics on these distances given their clear breach of the UN Convention on the Rights of People with Disabilities; and if she will make a statement on the matter.  [72512/25] ",
+      "date": "2025-12-18",
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Children",
+        "uri": null
+      },
+      "questionType": "oral",
+      "questionNumber": 4,
+      "house": {
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-12-18/pq_4",
+      "by": {
+        "memberCode": "Liam-Quaide.D.2024-11-29",
+        "showAs": "Liam Quaide",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Liam-Quaide.D.2024-11-29"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-12-18",
+    "question": {
+      "debateSection": {
+        "debateSectionId": "dbsect_8",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-18/debate/mul@/dbsect_8.xml"
+          },
+          "pdf": null
+        },
+        "showAs": "Childcare Services",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-18/debate/dbsect_8"
+      },
+      "showAs": " 7. Deputy Joe Cooney asked the Minister for Children, Disability and Equality if she is satisfied that the number of childminding services registered with Tusla, and the numbers of childminders undertaking the pre-registration training, will be sufficient to meet the future demand in Clare; and if she will make a statement on the matter. [73088/25] ",
+      "date": "2025-12-18",
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Children",
+        "uri": null
+      },
+      "questionType": "oral",
+      "questionNumber": 7,
+      "house": {
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-12-18/pq_7",
+      "by": {
+        "memberCode": "Joe-Cooney.D.2024-11-29",
+        "showAs": "Joe Cooney",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Joe-Cooney.D.2024-11-29"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-12-18",
+    "question": {
+      "debateSection": {
+        "debateSectionId": "dbsect_9",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-18/debate/mul@/dbsect_9.xml"
+          },
+          "pdf": null
+        },
+        "showAs": "Disability Services",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-18/debate/dbsect_9"
+      },
+      "showAs": " 9. Deputy Maurice Quinlivan asked the Minister for Children, Disability and Equality her plans to address the waiting time for assessments of needs, considering there are in excess of 18,000 children waiting for such an assessment; and if she will make a statement on the matter. [73106/25] ",
+      "date": "2025-12-18",
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Children",
+        "uri": null
+      },
+      "questionType": "oral",
+      "questionNumber": 9,
+      "house": {
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-12-18/pq_9",
+      "by": {
+        "memberCode": "Maurice-Quinlivan.D.2016-10-03",
+        "showAs": "Maurice Quinlivan",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Maurice-Quinlivan.D.2016-10-03"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-12-18",
+    "question": {
+      "debateSection": {
+        "debateSectionId": "dbsect_10",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-18/debate/mul@/dbsect_10.xml"
+          },
+          "pdf": null
+        },
+        "showAs": "Disability Services",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-18/debate/dbsect_10"
+      },
+      "showAs": " 12. Deputy Pa Daly asked the Minister for Children, Disability and Equality the measures she is taking to improve disability services in Kerry. [72874/25] ",
+      "date": "2025-12-18",
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Children",
+        "uri": null
+      },
+      "questionType": "oral",
+      "questionNumber": 12,
+      "house": {
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-12-18/pq_12",
+      "by": {
+        "memberCode": "Pa-Daly.D.2020-02-08",
+        "showAs": "Pa Daly",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Pa-Daly.D.2020-02-08"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-12-18",
+    "question": {
+      "debateSection": {
+        "debateSectionId": "dbsect_11",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-18/debate/mul@/dbsect_11.xml"
+          },
+          "pdf": null
+        },
+        "showAs": "Disability Services",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-18/debate/dbsect_11"
+      },
+      "showAs": " 14. Deputy Matt Carthy asked the Minister for Children, Disability and Equality her proposals to provide additional respite capacity for adults and children with disabilities in County Monaghan. [72976/25] ",
+      "date": "2025-12-18",
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Children",
+        "uri": null
+      },
+      "questionType": "oral",
+      "questionNumber": 14,
+      "house": {
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-12-18/pq_14",
+      "by": {
+        "memberCode": "Matt-Carthy.D.2020-02-08",
+        "showAs": "Matt Carthy",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Matt-Carthy.D.2020-02-08"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-12-18",
+    "question": {
+      "debateSection": {
+        "debateSectionId": "dbsect_12",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-18/debate/mul@/dbsect_12.xml"
+          },
+          "pdf": null
+        },
+        "showAs": "Child and Family Agency",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-18/debate/dbsect_12"
+      },
+      "showAs": " 15. Deputy Claire Kerrane asked the Minister for Children, Disability and Equality if she will respond to a HIQA report published following an inspection of Tusla services in Dublin north city; and if she will make a statement on the matter. [71909/25] ",
+      "date": "2025-12-18",
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Children",
+        "uri": null
+      },
+      "questionType": "oral",
+      "questionNumber": 15,
+      "house": {
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-12-18/pq_15",
+      "by": {
+        "memberCode": "Claire-Kerrane.D.2020-02-08",
+        "showAs": "Claire Kerrane",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Claire-Kerrane.D.2020-02-08"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-12-18",
+    "question": {
+      "debateSection": {
+        "debateSectionId": "dbsect_13",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-18/debate/mul@/dbsect_13.xml"
+          },
+          "pdf": null
+        },
+        "showAs": "Child Protection",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-18/debate/dbsect_13"
+      },
+      "showAs": " 18. Deputy Claire Kerrane asked the Minister for Children, Disability and Equality when a report by the special rapporteur on child protection will be published; if part of the annual report has been furnished to her; and if she will make a statement on the matter. [71911/25] ",
+      "date": "2025-12-18",
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Children",
+        "uri": null
+      },
+      "questionType": "oral",
+      "questionNumber": 18,
+      "house": {
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-12-18/pq_18",
+      "by": {
+        "memberCode": "Claire-Kerrane.D.2020-02-08",
+        "showAs": "Claire Kerrane",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Claire-Kerrane.D.2020-02-08"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-12-18",
+    "question": {
+      "debateSection": {
+        "debateSectionId": "dbsect_14",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-18/debate/mul@/dbsect_14.xml"
+          },
+          "pdf": null
+        },
+        "showAs": "Child Protection",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-18/debate/dbsect_14"
+      },
+      "showAs": " 25. Deputy Ruairí Ó Murchú asked the Minister for Children, Disability and Equality the engagement there has been with relevant Departments and agencies, including Tusla, following the publication of recommendations from the national review panel report on the case of a person (details supplied); the projected timeline and cost of this implementation; and if she will make a statement on the matter.  [72979/25] ",
+      "date": "2025-12-18",
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Children",
+        "uri": null
+      },
+      "questionType": "oral",
+      "questionNumber": 25,
+      "house": {
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-12-18/pq_25",
+      "by": {
+        "memberCode": "Ruairí-Ó-Murchú.D.2020-02-08",
+        "showAs": "Ruairí Ó Murchú",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruairí-Ó-Murchú.D.2020-02-08"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-12-18",
+    "question": {
+      "debateSection": {
+        "debateSectionId": "dbsect_15",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-18/debate/mul@/dbsect_15.xml"
+          },
+          "pdf": null
+        },
+        "showAs": "Child Protection",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-18/debate/dbsect_15"
+      },
+      "showAs": " 32. Deputy Claire Kerrane asked the Minister for Children, Disability and Equality the timeframe for implementation for each of the recommendations made by the national review panel following its examination of the case of a child (details supplied); and if she will make a statement on the matter.  [71912/25] ",
+      "date": "2025-12-18",
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Children",
+        "uri": null
+      },
+      "questionType": "oral",
+      "questionNumber": 32,
+      "house": {
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-12-18/pq_32",
+      "by": {
+        "memberCode": "Claire-Kerrane.D.2020-02-08",
+        "showAs": "Claire Kerrane",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Claire-Kerrane.D.2020-02-08"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-12-18",
+    "question": {
+      "debateSection": {
+        "debateSectionId": "dbsect_16",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-18/debate/mul@/dbsect_16.xml"
+          },
+          "pdf": null
+        },
+        "showAs": "Disabilities Assessments",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-18/debate/dbsect_16"
+      },
+      "showAs": " 96. Deputy Ruairí Ó Murchú asked the Minister for Children, Disability and Equality the engagement there has been with the Department of Education and Youth on the autism protocol to ensure that assessments of need are not required for school places; and if she will make a statement on the matter. [72980/25] ",
+      "date": "2025-12-18",
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Children",
+        "uri": null
+      },
+      "questionType": "oral",
+      "questionNumber": 96,
+      "house": {
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-12-18/pq_96",
+      "by": {
+        "memberCode": "Ruairí-Ó-Murchú.D.2020-02-08",
+        "showAs": "Ruairí Ó Murchú",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruairí-Ó-Murchú.D.2020-02-08"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-12-18",
+    "question": {
+      "debateSection": {
+        "debateSectionId": "dbsect_18",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-18/debate/mul@/dbsect_18.xml"
+          },
+          "pdf": null
+        },
+        "showAs": "Energy Prices",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-18/debate/dbsect_18"
+      },
+      "showAs": " 100. Deputy Pa Daly asked the Minister for Climate, Energy and the Environment the measures he is taking to enhance the power of the regulator to increase transparency in relation to the retail price of energy here; the steps he is taking to investigate and prevent price gouging, as the Taoiseach alleged is taking place (details supplied); and if he will make a statement on the matter. [72871/25] ",
+      "date": "2025-12-18",
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Climate",
+        "uri": null
+      },
+      "questionType": "oral",
+      "questionNumber": 100,
+      "house": {
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-12-18/pq_100",
+      "by": {
+        "memberCode": "Pa-Daly.D.2020-02-08",
+        "showAs": "Pa Daly",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Pa-Daly.D.2020-02-08"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-12-18",
+    "question": {
+      "debateSection": {
+        "debateSectionId": "dbsect_18",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-18/debate/mul@/dbsect_18.xml"
+          },
+          "pdf": null
+        },
+        "showAs": "Energy Prices",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-18/debate/dbsect_18"
+      },
+      "showAs": " 101. Deputy Jennifer Whitmore asked the Minister for Climate, Energy and the Environment if he will direct the CRU to launch an investigation into price gouging by energy retailers; and if he will make a statement on the matter. [71566/25] ",
+      "date": "2025-12-18",
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Climate",
+        "uri": null
+      },
+      "questionType": "oral",
+      "questionNumber": 101,
+      "house": {
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-12-18/pq_101",
+      "by": {
+        "memberCode": "Jennifer-Whitmore.D.2020-02-08",
+        "showAs": "Jennifer Whitmore",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Jennifer-Whitmore.D.2020-02-08"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-12-18",
+    "question": {
+      "debateSection": {
+        "debateSectionId": "dbsect_19",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-18/debate/mul@/dbsect_19.xml"
+          },
+          "pdf": null
+        },
+        "showAs": "Energy Policy",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-18/debate/dbsect_19"
+      },
+      "showAs": " 102. Deputy Pa Daly asked the Minister for Climate, Energy and the Environment if he will report on the commitment in the programme for Government to “explore if legislation could be enacted to divert surplus renewable energy, that would otherwise be wasted, to homes in fuel poverty”; the progress that has been made on this; and if he will make a statement on the matter.  [72872/25] ",
+      "date": "2025-12-18",
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Climate",
+        "uri": null
+      },
+      "questionType": "oral",
+      "questionNumber": 102,
+      "house": {
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-12-18/pq_102",
+      "by": {
+        "memberCode": "Pa-Daly.D.2020-02-08",
+        "showAs": "Pa Daly",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Pa-Daly.D.2020-02-08"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-12-18",
+    "question": {
+      "debateSection": {
+        "debateSectionId": "dbsect_20",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-18/debate/mul@/dbsect_20.xml"
+          },
+          "pdf": null
+        },
+        "showAs": "Data Centres",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-18/debate/dbsect_20"
+      },
+      "showAs": " 103. Deputy Paul Murphy asked the Minister for Climate, Energy and the Environment the action he will take to reduce energy demand and carbon emissions from data centres in view of our legal obligations to reduce both energy usage and carbon emissions; his views on whether the new CRU policy is compatible with those obligations; and if he will make a statement on the matter. [73592/25] ",
+      "date": "2025-12-18",
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Climate",
+        "uri": null
+      },
+      "questionType": "oral",
+      "questionNumber": 103,
+      "house": {
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-12-18/pq_103",
+      "by": {
+        "memberCode": "Paul-Murphy.D.2014-10-10",
+        "showAs": "Paul Murphy",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Murphy.D.2014-10-10"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-12-18",
+    "question": {
+      "debateSection": {
+        "debateSectionId": "dbsect_21",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-18/debate/mul@/dbsect_21.xml"
+          },
+          "pdf": null
+        },
+        "showAs": "Wind Energy Generation",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-18/debate/dbsect_21"
+      },
+      "showAs": " 104. Deputy Barry Ward asked the Minister for Climate, Energy and the Environment the position regarding initiatives within his Department that seek to prioritise the fast tracking of offshore wind energy infrastructure; and if he will make a statement on the matter. [73598/25] ",
+      "date": "2025-12-18",
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Climate",
+        "uri": null
+      },
+      "questionType": "oral",
+      "questionNumber": 104,
+      "house": {
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-12-18/pq_104",
+      "by": {
+        "memberCode": "Barry-Ward.S.2020-03-30",
+        "showAs": "Barry Ward",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Barry-Ward.S.2020-03-30"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-12-18",
+    "question": {
+      "debateSection": {
+        "debateSectionId": "dbsect_23",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-18/debate/mul@/dbsect_23.xml"
+          },
+          "pdf": null
+        },
+        "showAs": "Renewable Energy Generation",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-18/debate/dbsect_23"
+      },
+      "showAs": " 105. Deputy Paula Butterly asked the Minister for Climate, Energy and the Environment to provide an update on capital investment allocations for electricity grid upgrades under the national development plan; and the way in which decisions support Ireland’s renewable energy targets and security of supply [69909/25] ",
+      "date": "2025-12-18",
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Climate",
+        "uri": null
+      },
+      "questionType": "oral",
+      "questionNumber": 105,
+      "house": {
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-12-18/pq_105",
+      "by": {
+        "memberCode": "Paula-Butterly.D.2024-11-29",
+        "showAs": "Paula Butterly",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paula-Butterly.D.2024-11-29"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-12-18",
+    "question": {
+      "debateSection": {
+        "debateSectionId": "dbsect_24",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-18/debate/mul@/dbsect_24.xml"
+          },
+          "pdf": null
+        },
+        "showAs": "Recycling Policy",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-18/debate/dbsect_24"
+      },
+      "showAs": " 106. Deputy Matt Carthy asked the Minister for Climate, Energy and the Environment the number of rPET pellets produced in the State; the amount of this product utilised within the State and the amount exported. [72997/25] ",
+      "date": "2025-12-18",
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Climate",
+        "uri": null
+      },
+      "questionType": "oral",
+      "questionNumber": 106,
+      "house": {
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-12-18/pq_106",
+      "by": {
+        "memberCode": "Matt-Carthy.D.2020-02-08",
+        "showAs": "Matt Carthy",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Matt-Carthy.D.2020-02-08"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-12-18",
+    "question": {
+      "debateSection": {
+        "debateSectionId": "dbsect_25",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-18/debate/mul@/dbsect_25.xml"
+          },
+          "pdf": null
+        },
+        "showAs": "Energy Conservation",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-18/debate/dbsect_25"
+      },
+      "showAs": " 107. Deputy Paul McAuliffe asked the Minister for Climate, Energy and the Environment if he or his Department plan to make changes to the warmer homes scheme to allow alternative sources of home heating for older homes that require extensive home energy upgrading work and whereby a heat pump might not be suitable; if he plans to extend the scheme to allow for more targeted home energy upgrades whereby following a home energy upgrade inspection, the primary suggestion is only for home insulation as the current central heating system is obsolete; and if he will make a statement on the matter. [73206/25] ",
+      "date": "2025-12-18",
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Climate",
+        "uri": null
+      },
+      "questionType": "oral",
+      "questionNumber": 107,
+      "house": {
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-12-18/pq_107",
+      "by": {
+        "memberCode": "Paul-McAuliffe.D.2020-02-08",
+        "showAs": "Paul McAuliffe",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-McAuliffe.D.2020-02-08"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-12-18",
+    "question": {
+      "debateSection": {
+        "debateSectionId": "dbsect_26",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-18/debate/mul@/dbsect_26.xml"
+          },
+          "pdf": null
+        },
+        "showAs": "Just Transition",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-18/debate/dbsect_26"
+      },
+      "showAs": " 108. Deputy Louise O'Reilly asked the Minister for Climate, Energy and the Environment if he intends to implement a socially-just phase out action plan for the replacement of fossil fuels by sustainable energy sources; and if he will make a statement on the matter. [73018/25] ",
+      "date": "2025-12-18",
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Climate",
+        "uri": null
+      },
+      "questionType": "oral",
+      "questionNumber": 108,
+      "house": {
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-12-18/pq_108",
+      "by": {
+        "memberCode": "Louise-O'Reilly.D.2016-10-03",
+        "showAs": "Louise O'Reilly",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Louise-O'Reilly.D.2016-10-03"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-12-18",
+    "question": {
+      "debateSection": {
+        "debateSectionId": "dbsect_27",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-18/debate/mul@/dbsect_27.xml"
+          },
+          "pdf": null
+        },
+        "showAs": "Energy Infrastructure",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-18/debate/dbsect_27"
+      },
+      "showAs": " 110. Deputy Pa Daly asked the Minister for Climate, Energy and the Environment the steps he is taking to make critical energy infrastructure more resilient to extreme weather events; and if he will make a statement on the matter. [72818/25] ",
+      "date": "2025-12-18",
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Climate",
+        "uri": null
+      },
+      "questionType": "oral",
+      "questionNumber": 110,
+      "house": {
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-12-18/pq_110",
+      "by": {
+        "memberCode": "Pa-Daly.D.2020-02-08",
+        "showAs": "Pa Daly",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Pa-Daly.D.2020-02-08"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-12-18",
+    "question": {
+      "debateSection": {
+        "debateSectionId": "dbsect_26",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-18/debate/mul@/dbsect_26.xml"
+          },
+          "pdf": null
+        },
+        "showAs": "Just Transition",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-18/debate/dbsect_26"
+      },
+      "showAs": " 112. Deputy Séamus McGrath asked the Minister for Climate, Energy and the Environment his plans to reform the home energy grants. [73000/25] ",
+      "date": "2025-12-18",
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Climate",
+        "uri": null
+      },
+      "questionType": "oral",
+      "questionNumber": 112,
+      "house": {
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-12-18/pq_112",
+      "by": {
+        "memberCode": "Séamus-McGrath.D.2024-11-29",
+        "showAs": "Séamus McGrath",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Séamus-McGrath.D.2024-11-29"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-12-18",
+    "question": {
+      "debateSection": {
+        "debateSectionId": "dbsect_28",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-18/debate/mul@/dbsect_28.xml"
+          },
+          "pdf": null
+        },
+        "showAs": "Energy Prices",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-18/debate/dbsect_28"
+      },
+      "showAs": " 113. Deputy Pa Daly asked the Minister for Climate, Energy and the Environment if he has conducted an analysis on the introduction of CBAM on the price of energy; and if he will make a statement on the matter. [72821/25] ",
+      "date": "2025-12-18",
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Climate",
+        "uri": null
+      },
+      "questionType": "oral",
+      "questionNumber": 113,
+      "house": {
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-12-18/pq_113",
+      "by": {
+        "memberCode": "Pa-Daly.D.2020-02-08",
+        "showAs": "Pa Daly",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Pa-Daly.D.2020-02-08"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-12-18",
+    "question": {
+      "debateSection": {
+        "debateSectionId": "dbsect_26",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-18/debate/mul@/dbsect_26.xml"
+          },
+          "pdf": null
+        },
+        "showAs": "Just Transition",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-18/debate/dbsect_26"
+      },
+      "showAs": " 119. Deputy Joe Neville asked the Minister for Climate, Energy and the Environment the steps his Department will take to widen the number of people who have access to the SEAI grants for home improvement; and if he will make a statement on the matter. [73234/25] ",
+      "date": "2025-12-18",
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Climate",
+        "uri": null
+      },
+      "questionType": "oral",
+      "questionNumber": 119,
+      "house": {
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-12-18/pq_119",
+      "by": {
+        "memberCode": "Joe-Neville.D.2024-11-29",
+        "showAs": "Joe Neville",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Joe-Neville.D.2024-11-29"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-12-18",
+    "question": {
+      "debateSection": {
+        "debateSectionId": "dbsect_34",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-18/debate/mul@/dbsect_34.xml"
+          },
+          "pdf": null
+        },
+        "showAs": "Insurance Industry",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-18/debate/dbsect_34"
+      },
+      "showAs": " 168. Deputy Pearse Doherty asked the Tánaiste and Minister for Finance the operating profits of motor insurance companies and public and employer liability insurance using a standard definition of operating profits, that is, after paying all business expenses but before tax and interest deductions from 2020 to 2025, by year; and if he will make a statement on the matter. [73162/25] ",
+      "date": "2025-12-18",
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Finance",
+        "uri": null
+      },
+      "questionType": "oral",
+      "questionNumber": 168,
+      "house": {
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-12-18/pq_168",
+      "by": {
+        "memberCode": "Pearse-Doherty.S.2007-07-23",
+        "showAs": "Pearse Doherty",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Pearse-Doherty.S.2007-07-23"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-12-18",
+    "question": {
+      "debateSection": {
+        "debateSectionId": "dbsect_35",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-18/debate/mul@/dbsect_35.xml"
+          },
+          "pdf": null
+        },
+        "showAs": "Economic Policy",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-18/debate/dbsect_35"
+      },
+      "showAs": " 169. Deputy Ged Nash asked the Tánaiste and Minister for Finance the contents of the Government’s medium-term economic framework; the reasons for the delay in producing the plan; and if he will make a statement on the matter.  [73642/25] ",
+      "date": "2025-12-18",
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Finance",
+        "uri": null
+      },
+      "questionType": "oral",
+      "questionNumber": 169,
+      "house": {
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-12-18/pq_169",
+      "by": {
+        "memberCode": "Gerald-Nash.D.2011-03-09",
+        "showAs": "Ged Nash",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Gerald-Nash.D.2011-03-09"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-12-18",
+    "question": {
+      "debateSection": {
+        "debateSectionId": "dbsect_36",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-18/debate/mul@/dbsect_36.xml"
+          },
+          "pdf": null
+        },
+        "showAs": "Inflation Rate",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-18/debate/dbsect_36"
+      },
+      "showAs": " 170. Deputy Pearse Doherty asked the Tánaiste and Minister for Finance the updated projections from his Department in the wake of recent CSO inflation figures; and if he will make a statement on the matter. [73720/25] ",
+      "date": "2025-12-18",
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Finance",
+        "uri": null
+      },
+      "questionType": "oral",
+      "questionNumber": 170,
+      "house": {
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-12-18/pq_170",
+      "by": {
+        "memberCode": "Pearse-Doherty.S.2007-07-23",
+        "showAs": "Pearse Doherty",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Pearse-Doherty.S.2007-07-23"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-12-18",
+    "question": {
+      "debateSection": {
+        "debateSectionId": "dbsect_37",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-18/debate/mul@/dbsect_37.xml"
+          },
+          "pdf": null
+        },
+        "showAs": "Mortgage Interest Rates",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-18/debate/dbsect_37"
+      },
+      "showAs": " 171. Deputy Cian O'Callaghan asked the Tánaiste and Minister for Finance the action he is taking to address the banking sector using high mortgage interest rates in order to maintain high profits; and if he will make a statement on the matter. [73718/25] ",
+      "date": "2025-12-18",
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Finance",
+        "uri": null
+      },
+      "questionType": "oral",
+      "questionNumber": 171,
+      "house": {
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-12-18/pq_171",
+      "by": {
+        "memberCode": "Cian-O'Callaghan.D.2020-02-08",
+        "showAs": "Cian O'Callaghan",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Cian-O'Callaghan.D.2020-02-08"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-12-18",
+    "question": {
+      "debateSection": {
+        "debateSectionId": "dbsect_37",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-18/debate/mul@/dbsect_37.xml"
+          },
+          "pdf": null
+        },
+        "showAs": "Mortgage Interest Rates",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-18/debate/dbsect_37"
+      },
+      "showAs": " 172. Deputy Pearse Doherty asked the Tánaiste and Minister for Finance the steps being taken to address the situation where banks are maintaining high mortgage interest rates in order to maintain high profits; and if he will make a statement on the matter. [73721/25] ",
+      "date": "2025-12-18",
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Finance",
+        "uri": null
+      },
+      "questionType": "oral",
+      "questionNumber": 172,
+      "house": {
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-12-18/pq_172",
+      "by": {
+        "memberCode": "Pearse-Doherty.S.2007-07-23",
+        "showAs": "Pearse Doherty",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Pearse-Doherty.S.2007-07-23"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-12-18",
+    "question": {
+      "debateSection": {
+        "debateSectionId": "dbsect_38",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-18/debate/mul@/dbsect_38.xml"
+          },
+          "pdf": null
+        },
+        "showAs": "National Asset Management Agency",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-18/debate/dbsect_38"
+      },
+      "showAs": " 173. Deputy Mattie McGrath asked the Tánaiste and Minister for Finance given that the National Asset Management Agency, NAMA, is due to conclude its affairs and wind down operations by the end of 2025, to outline the arrangements in place to ensure that any unresolved investigations or litigation, particularly those involving significant public funds, are fully pursued; the person or body that will be responsible for ongoing investigations into alleged fraud or irregularities in current cases where matters are still arising, in particular two cases (details supplied); the person or body which will take responsibility for these investigations; if he will commit to a full and thorough investigation into both matters; and if he will make a statement on the matter. [71751/25] ",
+      "date": "2025-12-18",
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Finance",
+        "uri": null
+      },
+      "questionType": "oral",
+      "questionNumber": 173,
+      "house": {
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-12-18/pq_173",
+      "by": {
+        "memberCode": "Mattie-McGrath.D.2007-06-14",
+        "showAs": "Mattie McGrath",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Mattie-McGrath.D.2007-06-14"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-12-18",
+    "question": {
+      "debateSection": {
+        "debateSectionId": "dbsect_40",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-18/debate/mul@/dbsect_40.xml"
+          },
+          "pdf": null
+        },
+        "showAs": "Departmental Reports",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-18/debate/dbsect_40"
+      },
+      "showAs": " 174. Deputy John Clendennen asked the Tánaiste and Minister for Finance his long-term strategy for ensuring the sustainability of public finances given the demographic pressures outlined in the Department of Finance's Future Forty: Ireland's Demographic Outlook, which projects an increase in the old-age dependency ratio from 23.1% in 2022 to 55.2% by 2065; and if he will make a statement on the matter. [69735/25] ",
+      "date": "2025-12-18",
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Finance",
+        "uri": null
+      },
+      "questionType": "oral",
+      "questionNumber": 174,
+      "house": {
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-12-18/pq_174",
+      "by": {
+        "memberCode": "John-Clendennen.D.2024-11-29",
+        "showAs": "John Clendennen",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/John-Clendennen.D.2024-11-29"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-12-18",
+    "question": {
+      "debateSection": {
+        "debateSectionId": "dbsect_41",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-18/debate/mul@/dbsect_41.xml"
+          },
+          "pdf": null
+        },
+        "showAs": "Film Industry",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-18/debate/dbsect_41"
+      },
+      "showAs": " 175. Deputy Richard Boyd Barrett asked the Tánaiste and Minister for Finance if he is satisfied that film producer companies in receipt of the section 481 film tax credit or meeting the test for quality employment and fully vindicating the employment and copyright rights of those working in the film industry; and if he will make a statement on the matter. [69915/25] ",
+      "date": "2025-12-18",
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Finance",
+        "uri": null
+      },
+      "questionType": "oral",
+      "questionNumber": 175,
+      "house": {
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-12-18/pq_175",
+      "by": {
+        "memberCode": "Richard-Boyd-Barrett.D.2011-03-09",
+        "showAs": "Richard Boyd Barrett",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Richard-Boyd-Barrett.D.2011-03-09"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-12-18",
+    "question": {
+      "debateSection": {
+        "debateSectionId": "dbsect_42",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-18/debate/mul@/dbsect_42.xml"
+          },
+          "pdf": null
+        },
+        "showAs": "Defective Building Materials",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-18/debate/dbsect_42"
+      },
+      "showAs": " 176. Deputy Pearse Doherty asked the Tánaiste and Minister for Finance the engagement he has had with other members of the Government in relation to defective concrete block scheme since taking office, including to ensure that all victims of the defective concrete products scandal are treated as equal citizens and are able to access financial products and services on the same basis as everyone else; and if he will make a statement on the matter. [73164/25] ",
+      "date": "2025-12-18",
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Finance",
+        "uri": null
+      },
+      "questionType": "oral",
+      "questionNumber": 176,
+      "house": {
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-12-18/pq_176",
+      "by": {
+        "memberCode": "Pearse-Doherty.S.2007-07-23",
+        "showAs": "Pearse Doherty",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Pearse-Doherty.S.2007-07-23"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-12-18",
+    "question": {
+      "debateSection": {
+        "debateSectionId": "dbsect_43",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-18/debate/mul@/dbsect_43.xml"
+          },
+          "pdf": null
+        },
+        "showAs": "Tax Reliefs",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-18/debate/dbsect_43"
+      },
+      "showAs": " 177. Deputy Cian O'Callaghan asked the Tánaiste and Minister for Finance the research carried out by his Department into the potential fiscal and housing market impacts of the new tax reliefs for property developers announced as part of budget 2026; and if he will make a statement on the matter.  [73179/25] ",
+      "date": "2025-12-18",
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Finance",
+        "uri": null
+      },
+      "questionType": "oral",
+      "questionNumber": 177,
+      "house": {
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-12-18/pq_177",
+      "by": {
+        "memberCode": "Cian-O'Callaghan.D.2020-02-08",
+        "showAs": "Cian O'Callaghan",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Cian-O'Callaghan.D.2020-02-08"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-12-18",
+    "question": {
+      "debateSection": {
+        "debateSectionId": "dbsect_44",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-18/debate/mul@/dbsect_44.xml"
+          },
+          "pdf": null
+        },
+        "showAs": "Cost of Living Issues",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-18/debate/dbsect_44"
+      },
+      "showAs": " 178. Deputy Peter Roche asked the Tánaiste and Minister for Finance whether his Department has assessed the cumulative impact of rising energy, childcare and housing costs on households that do not qualify for means-tested supports; whether targeted tax credit adjustments are under consideration in future budget preparations; and if he will make a statement on the matter.  [73232/25] ",
+      "date": "2025-12-18",
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Finance",
+        "uri": null
+      },
+      "questionType": "oral",
+      "questionNumber": 178,
+      "house": {
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-12-18/pq_178",
+      "by": {
+        "memberCode": "Peter-Roche.D.2024-11-29",
+        "showAs": "Peter Roche",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Peter-Roche.D.2024-11-29"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-12-18",
+    "question": {
+      "debateSection": {
+        "debateSectionId": "dbsect_45",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-18/debate/mul@/dbsect_45.xml"
+          },
+          "pdf": null
+        },
+        "showAs": "Cost of Living Issues",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-18/debate/dbsect_45"
+      },
+      "showAs": " 180. Deputy Paul Murphy asked the Tánaiste and Minister for Finance whether, in view of higher inflation than his predecessor predicted prior to the budget, he will bring in an emergency supplementary budget before Christmas to reinstate cost-of-living payments; and if he will make a statement on the matter. [69658/25] ",
+      "date": "2025-12-18",
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Finance",
+        "uri": null
+      },
+      "questionType": "oral",
+      "questionNumber": 180,
+      "house": {
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-12-18/pq_180",
+      "by": {
+        "memberCode": "Paul-Murphy.D.2014-10-10",
+        "showAs": "Paul Murphy",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Murphy.D.2014-10-10"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-12-18",
+    "question": {
+      "debateSection": {
+        "debateSectionId": "dbsect_40",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-18/debate/mul@/dbsect_40.xml"
+          },
+          "pdf": null
+        },
+        "showAs": "Departmental Reports",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-18/debate/dbsect_40"
+      },
+      "showAs": " 184. Deputy Malcolm Byrne asked the Tánaiste and Minister for Finance the implications of aging demographics as set out in the Future Forty report; and the actions his Department will take as a result. [69523/25] ",
+      "date": "2025-12-18",
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Finance",
+        "uri": null
+      },
+      "questionType": "oral",
+      "questionNumber": 184,
+      "house": {
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-12-18/pq_184",
+      "by": {
+        "memberCode": "Malcolm-Byrne.D.2019-11-29",
+        "showAs": "Malcolm Byrne",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Malcolm-Byrne.D.2019-11-29"
+      }
+    }
+  },
+  {
+    "contextDate": "2025-12-18",
+    "question": {
+      "debateSection": {
+        "debateSectionId": "dbsect_43",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-18/debate/mul@/dbsect_43.xml"
+          },
+          "pdf": null
+        },
+        "showAs": "Tax Reliefs",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-18/debate/dbsect_43"
+      },
+      "showAs": " 364. Deputy Cian O'Callaghan asked the Tánaiste and Minister for Finance the research carried out by his Department into the potential fiscal and housing market impacts of the new tax reliefs for property developers announced as part of budget 2026; and if he will make a statement on the matter.  [69732/25] ",
+      "date": "2025-12-18",
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Finance",
+        "uri": null
+      },
+      "questionType": "oral",
+      "questionNumber": 364,
+      "house": {
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2025-12-18/pq_364",
+      "by": {
+        "memberCode": "Cian-O'Callaghan.D.2020-02-08",
+        "showAs": "Cian O'Callaghan",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Cian-O'Callaghan.D.2020-02-08"
+      }
+    }
+  }
+]

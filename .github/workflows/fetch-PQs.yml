@@ -18,16 +18,31 @@ jobs:
       - name: Install jq
         run: sudo apt-get update && sudo apt-get install -y jq
 
-      - name: Fetch daily PQ data with pagination
+      - name: Fetch rolling-window PQ data with pagination (year-aware)
         run: |
+          set -euo pipefail
+
+          # Refresh window (≈ 6 months). Adjust if you want.
+          WINDOW_DAYS=183
+
+          TODAY=$(date -u +%F)
+          WINDOW_START=$(date -u -d "$TODAY -$WINDOW_DAYS days" +%F)
+
           mkdir -p data/PQs_paginated
           touch fetch-log.txt
-          echo "🕓 Daily fetch started at $(date -u)" > fetch-log.txt
+          echo "🕓 Rolling fetch started at $(date -u)" > fetch-log.txt
+          echo "Today: $TODAY | Window start: $WINDOW_START | Window days: $WINDOW_DAYS" | tee -a fetch-log.txt
 
-          for day in $(seq -w 0 364); do
-            DATE=$(date -d "2025-01-01 +${day} days" +%F)
-            FILE="data/PQs_paginated/day_${DATE}.json"
-            echo "📅 Day $day: $DATE" | tee -a fetch-log.txt
+          fetch_one_day () {
+            local DATE="$1"
+            local YEAR
+            YEAR=$(date -u -d "$DATE" +%Y)
+
+            local DIR="data/PQs_paginated/$YEAR"
+            local FILE="$DIR/day_${DATE}.json"
+            mkdir -p "$DIR"
+
+            echo "📅 Fetching: $DATE (year $YEAR)" | tee -a fetch-log.txt
 
             PAGE=0
             ALL_RESULTS="[]"
@@ -46,6 +61,7 @@ jobs:
                   echo "⚠️ API error on page $PAGE — retrying..." | tee -a fetch-log.txt
                 elif jq -e '.results' "$TEMPFILE" >/dev/null 2>&1; then
                   COUNT=$(jq '.results | length' "$TEMPFILE")
+
                   if [ "$COUNT" -eq 0 ]; then
                     echo "✅ $DATE complete — no more results after page $PAGE" | tee -a fetch-log.txt
                     success=true
@@ -67,6 +83,7 @@ jobs:
 
             if [ "$success" = true ]; then
               echo "$ALL_RESULTS" > "$FILE"
+              echo "💾 Wrote $FILE" | tee -a fetch-log.txt
             else
               if [ -f "$FILE" ]; then
                 echo "🛑 Failed to fully fetch $DATE — using existing file" | tee -a fetch-log.txt
@@ -75,56 +92,71 @@ jobs:
               fi
             fi
 
-            echo "🕒 Sleeping 10s before next day..." | tee -a fetch-log.txt
-            sleep 10
+            echo "🕒 Sleeping 3s..." | tee -a fetch-log.txt
+            sleep 3
+          }
+
+          d="$WINDOW_START"
+          while [ "$(date -u -d "$d" +%s)" -le "$(date -u -d "$TODAY" +%s)" ]; do
+            fetch_one_day "$d" || true
+            d=$(date -u -d "$d +1 day" +%F)
           done
 
           rm -f tmp_day_page.json curl_status.txt
-          echo "✅ Daily fetch completed at $(date -u)" >> fetch-log.txt
+          echo "✅ Rolling fetch completed at $(date -u)" >> fetch-log.txt
 
       - name: Ensure package.json for ES modules
         run: |
           echo '{ "type": "module" }' > package.json
 
-      - name: Merge daily files into PQs_2025_paginated.json
+      - name: Merge affected year files into PQs_<year>_paginated.json
         run: |
           echo "📁 Listing contents of scripts"
           ls -l scripts
-
           echo "📁 Listing contents of data/PQs_paginated"
-          ls -l data/PQs_paginated | head -n 10
+          ls -l data/PQs_paginated | head -n 50
 
-          echo "🚀 Running merge-days-paginated.js"
-          node scripts/merge-days-paginated.js
+          YEAR=$(date -u +%Y)
+
+          echo "🚀 Merging current year: $YEAR"
+          node scripts/merge-days-paginated.js "$YEAR"
+
+          # If the rolling window reaches into the previous year, merge that too
+          WINDOW_DAYS=183
+          TODAY=$(date -u +%F)
+          WINDOW_START=$(date -u -d "$TODAY -$WINDOW_DAYS days" +%F)
+          WINDOW_START_YEAR=$(date -u -d "$WINDOW_START" +%Y)
+
+          if [ "$WINDOW_START_YEAR" -lt "$YEAR" ]; then
+            PREV_YEAR=$((YEAR - 1))
+            echo "🚀 Window crosses year boundary — merging previous year: $PREV_YEAR"
+            node scripts/merge-days-paginated.js "$PREV_YEAR"
+          else
+            echo "ℹ️ Window does not cross into previous year — skipping previous-year merge"
+          fi
 
       - name: Commit daily and merged files to repo
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-
           git add -A
-
           echo "🔍 Changed files:"
           git diff --name-only
-
           echo "📦 Files staged for commit:"
           git diff --cached --name-only
-
           if git diff --cached --quiet; then
             echo "⚠️ Nothing to commit — skipping push"
           else
             echo "📝 Committing changes..."
-            git commit -m "Automated daily fetch with pagination to PQs_paginated and merged PQs_2025_paginated.json" || {
+            git commit -m "Automated rolling fetch (paginated) and yearly merges" || {
               echo "❌ Git commit failed"
               exit 2
             }
-
             echo "🔄 Pulling with rebase to avoid conflicts..."
             git pull --rebase origin main || {
               echo "❌ Git pull with rebase failed"
               exit 2
             }
-
             echo "🚀 Pushing to origin..."
             git push origin HEAD || {
               echo "❌ Git push failed"

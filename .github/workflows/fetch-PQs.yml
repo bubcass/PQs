@@ -4,13 +4,13 @@ on:
   workflow_dispatch:
     inputs:
       mode:
-        description: "daily (fetch one day) or backfill_2025 (fetch full year 2025)"
+        description: "daily (rolling refresh window) or backfill_2025 (fetch full year 2025)"
         required: true
         default: "daily"
-      day:
-        description: "For mode=daily only. Date to fetch (YYYY-MM-DD). Leave blank to use yesterday (UTC)."
+      window_days:
+        description: "For mode=daily: how many days back to refresh (e.g. 14, 30, 183)."
         required: false
-        default: ""
+        default: "30"
   schedule:
     - cron: '0 2 * * *'  # Run daily at 2 a.m. GMT/UTC
 
@@ -31,21 +31,29 @@ jobs:
         run: |
           echo '{ "type": "module" }' > package.json
 
-      - name: Fetch PQ data with pagination (daily or 2025 backfill)
+      - name: Fetch PQ data with pagination (rolling refresh or 2025 backfill)
         run: |
           set -euo pipefail
 
-          # Scheduled runs always behave like daily runs.
-          # workflow_dispatch runs use the selected "mode".
+          # Scheduled runs always do "daily" rolling refresh
           if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
             MODE="${{ inputs.mode }}"
+            WINDOW_DAYS="${{ inputs.window_days }}"
           else
             MODE="daily"
+            WINDOW_DAYS="30"
           fi
+
+          # Refresh ends at yesterday (UTC) to avoid partial "today" data
+          END_DATE=$(date -u -d "yesterday" +%F)
 
           touch fetch-log.txt
           echo "🕓 PQ fetch started at $(date -u)" > fetch-log.txt
           echo "Mode: $MODE" | tee -a fetch-log.txt
+          echo "End date (UTC): $END_DATE" | tee -a fetch-log.txt
+          if [ "$MODE" = "daily" ]; then
+            echo "Rolling window days: $WINDOW_DAYS" | tee -a fetch-log.txt
+          fi
 
           fetch_one_day () {
             local DATE="$1"
@@ -124,19 +132,30 @@ jobs:
             node scripts/merge-days-paginated.js 2025
 
           else
-            # Daily mode:
-            # Prefer user-provided date (workflow_dispatch input), else default to yesterday (UTC)
-            if [ "${{ github.event_name }}" = "workflow_dispatch" ] && [ -n "${{ inputs.day }}" ]; then
-              DATE="${{ inputs.day }}"
-            else
-              DATE=$(date -u -d "yesterday" +%F)
+            # Rolling refresh window ending at END_DATE
+            # Start date is END_DATE - (WINDOW_DAYS - 1)
+            START_DATE=$(date -u -d "$END_DATE -$((WINDOW_DAYS - 1)) days" +%F)
+            echo "Refreshing range: $START_DATE → $END_DATE" | tee -a fetch-log.txt
+
+            d="$START_DATE"
+            while [ "$(date -u -d "$d" +%s)" -le "$(date -u -d "$END_DATE" +%s)" ]; do
+              fetch_one_day "$d" || true
+              echo "🕒 Sleeping 3s..." | tee -a fetch-log.txt
+              sleep 3
+              d=$(date -u -d "$d +1 day" +%F)
+            done
+
+            # Merge current year, and previous year if the window crosses Jan 1
+            YEAR_END=$(date -u -d "$END_DATE" +%Y)
+            YEAR_START=$(date -u -d "$START_DATE" +%Y)
+
+            echo "🚀 Merging year $YEAR_END..." | tee -a fetch-log.txt
+            node scripts/merge-days-paginated.js "$YEAR_END"
+
+            if [ "$YEAR_START" -lt "$YEAR_END" ]; then
+              echo "🚀 Window crosses year boundary — merging year $YEAR_START..." | tee -a fetch-log.txt
+              node scripts/merge-days-paginated.js "$YEAR_START"
             fi
-
-            fetch_one_day "$DATE" || true
-
-            YEAR=$(date -u -d "$DATE" +%Y)
-            echo "🚀 Merging year $YEAR..." | tee -a fetch-log.txt
-            node scripts/merge-days-paginated.js "$YEAR"
           fi
 
           rm -f tmp_day_page.json curl_status.txt
@@ -147,7 +166,6 @@ jobs:
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
 
-          # Stage only what we expect to change (safer than git add -A)
           git add data/PQs_paginated PQs_*_paginated.json fetch-log.txt scripts/merge-days-paginated.js package.json
 
           echo "🔍 Changed files:"

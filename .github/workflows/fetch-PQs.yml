@@ -10,7 +10,7 @@ on:
       window_days:
         description: "For mode=daily: how many days back to refresh (e.g. 14, 30, 183)."
         required: false
-        default: "30"
+        default: "60"
   schedule:
     - cron: '0 2 * * *'  # Run daily at 2 a.m. GMT/UTC
 

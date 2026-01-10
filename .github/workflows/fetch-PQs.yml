@@ -35,7 +35,13 @@ jobs:
         run: |
           set -euo pipefail
 
-          MODE="${{ github.event_name == 'workflow_dispatch' && inputs.mode || 'daily' }}"
+          # Scheduled runs always behave like daily runs.
+          # workflow_dispatch runs use the selected "mode".
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            MODE="${{ inputs.mode }}"
+          else
+            MODE="daily"
+          fi
 
           touch fetch-log.txt
           echo "🕓 PQ fetch started at $(date -u)" > fetch-log.txt
@@ -152,12 +158,6 @@ jobs:
           if git diff --cached --quiet; then
             echo "⚠️ Nothing to commit — skipping push"
           else
-            if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
-              MSG="Automated PQ fetch (${ { inputs.mode } }) and yearly merge"
-            else
-              MSG="Automated daily PQ fetch and yearly merge"
-            fi
-
             echo "📝 Committing changes..."
             git commit -m "Automated PQ fetch and yearly merge" || {
               echo "❌ Git commit failed"

@@ -1,11 +1,5 @@
-🕓 Rolling fetch started at Fri Jan  9 03:25:39 UTC 2026
-Today: 2026-01-09 | Window start: 2025-07-10 | Window days: 183
-📅 Fetching: 2025-07-10 (year 2025)
-✅ Page 0 for 2025-07-10 OK — 300 results
-✅ Page 1 for 2025-07-10 OK — 110 results
-✅ 2025-07-10 complete — no more results after page 2
-💾 Wrote data/PQs_paginated/2025/day_2025-07-10.json
-🕒 Sleeping 3s...
+🕓 Rolling fetch started at Sat Jan 10 03:19:26 UTC 2026
+Today: 2026-01-10 | Window start: 2025-07-11 | Window days: 183
 📅 Fetching: 2025-07-11 (year 2025)
 ✅ 2025-07-11 complete — no more results after page 0
 💾 Wrote data/PQs_paginated/2025/day_2025-07-11.json
@@ -866,4 +860,8 @@ Today: 2026-01-09 | Window start: 2025-07-10 | Window days: 183
 ✅ 2026-01-09 complete — no more results after page 0
 💾 Wrote data/PQs_paginated/2026/day_2026-01-09.json
 🕒 Sleeping 3s...
-✅ Rolling fetch completed at Fri Jan  9 03:48:15 UTC 2026
+📅 Fetching: 2026-01-10 (year 2026)
+✅ 2026-01-10 complete — no more results after page 0
+💾 Wrote data/PQs_paginated/2026/day_2026-01-10.json
+🕒 Sleeping 3s...
+✅ Rolling fetch completed at Sat Jan 10 03:41:54 UTC 2026

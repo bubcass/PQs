@@ -1,0 +1,922 @@
+[
+  {
+    "contextDate": "2026-01-27",
+    "question": {
+      "debateSection": {
+        "debateSectionId": "dbsect_12",
+        "showAs": "Taoiseach's Meetings and Engagements",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-01-27/debate/mul@/dbsect_12.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-01-27/debate/dbsect_12"
+      },
+      "by": {
+        "showAs": "Naoise Ó Cearúil",
+        "memberCode": "Naoise-Ó-Cearúil.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Naoise-Ó-Cearúil.D.2024-11-29"
+      },
+      "showAs": " 1. Deputy Naoise Ó Cearúil asked the Taoiseach if he will report on his attendance at the G20 in South Africa. [66790/25] ",
+      "questionType": "oral",
+      "questionNumber": 1,
+      "to": {
+        "roleCode": null,
+        "showAs": "Taoiseach",
+        "uri": null,
+        "roleType": null
+      },
+      "house": {
+        "showAs": "34th Dáil",
+        "houseNo": "34",
+        "chamberType": "house",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-01-27/pq_1",
+      "date": "2026-01-27"
+    }
+  },
+  {
+    "contextDate": "2026-01-27",
+    "question": {
+      "debateSection": {
+        "debateSectionId": "dbsect_12",
+        "showAs": "Taoiseach's Meetings and Engagements",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-01-27/debate/mul@/dbsect_12.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-01-27/debate/dbsect_12"
+      },
+      "by": {
+        "showAs": "Ruairí Ó Murchú",
+        "memberCode": "Ruairí-Ó-Murchú.D.2020-02-08",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruairí-Ó-Murchú.D.2020-02-08"
+      },
+      "showAs": " 2. Deputy Ruairí Ó Murchú asked the Taoiseach if he will report on his attendance at the G20 in South Africa. [1833/26] ",
+      "questionType": "oral",
+      "questionNumber": 2,
+      "to": {
+        "roleCode": null,
+        "showAs": "Taoiseach",
+        "uri": null,
+        "roleType": null
+      },
+      "house": {
+        "showAs": "34th Dáil",
+        "houseNo": "34",
+        "chamberType": "house",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-01-27/pq_2",
+      "date": "2026-01-27"
+    }
+  },
+  {
+    "contextDate": "2026-01-27",
+    "question": {
+      "debateSection": {
+        "debateSectionId": "dbsect_12",
+        "showAs": "Taoiseach's Meetings and Engagements",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-01-27/debate/mul@/dbsect_12.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-01-27/debate/dbsect_12"
+      },
+      "by": {
+        "showAs": "Ruth Coppinger",
+        "memberCode": "Ruth-Coppinger.D.2014-05-23",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruth-Coppinger.D.2014-05-23"
+      },
+      "showAs": " 3. Deputy Ruth Coppinger asked the Taoiseach if he will report on his attendance at the G20 in South Africa. [3747/26] ",
+      "questionType": "oral",
+      "questionNumber": 3,
+      "to": {
+        "roleCode": null,
+        "showAs": "Taoiseach",
+        "uri": null,
+        "roleType": null
+      },
+      "house": {
+        "showAs": "34th Dáil",
+        "houseNo": "34",
+        "chamberType": "house",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-01-27/pq_3",
+      "date": "2026-01-27"
+    }
+  },
+  {
+    "contextDate": "2026-01-27",
+    "question": {
+      "debateSection": {
+        "debateSectionId": "dbsect_12",
+        "showAs": "Taoiseach's Meetings and Engagements",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-01-27/debate/mul@/dbsect_12.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-01-27/debate/dbsect_12"
+      },
+      "by": {
+        "showAs": "Richard Boyd Barrett",
+        "memberCode": "Richard-Boyd-Barrett.D.2011-03-09",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Richard-Boyd-Barrett.D.2011-03-09"
+      },
+      "showAs": " 4. Deputy Richard Boyd Barrett asked the Taoiseach if he will report on his attendance at the G20 in South Africa. [3922/26] ",
+      "questionType": "oral",
+      "questionNumber": 4,
+      "to": {
+        "roleCode": null,
+        "showAs": "Taoiseach",
+        "uri": null,
+        "roleType": null
+      },
+      "house": {
+        "showAs": "34th Dáil",
+        "houseNo": "34",
+        "chamberType": "house",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-01-27/pq_4",
+      "date": "2026-01-27"
+    }
+  },
+  {
+    "contextDate": "2026-01-27",
+    "question": {
+      "debateSection": {
+        "debateSectionId": "dbsect_12",
+        "showAs": "Taoiseach's Meetings and Engagements",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-01-27/debate/mul@/dbsect_12.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-01-27/debate/dbsect_12"
+      },
+      "by": {
+        "showAs": "Paul Murphy",
+        "memberCode": "Paul-Murphy.D.2014-10-10",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Murphy.D.2014-10-10"
+      },
+      "showAs": " 5. Deputy Paul Murphy asked the Taoiseach if he will report on his attendance at the G20 in South Africa. [3925/26] ",
+      "questionType": "oral",
+      "questionNumber": 5,
+      "to": {
+        "roleCode": null,
+        "showAs": "Taoiseach",
+        "uri": null,
+        "roleType": null
+      },
+      "house": {
+        "showAs": "34th Dáil",
+        "houseNo": "34",
+        "chamberType": "house",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-01-27/pq_5",
+      "date": "2026-01-27"
+    }
+  },
+  {
+    "contextDate": "2026-01-27",
+    "question": {
+      "debateSection": {
+        "debateSectionId": "dbsect_12",
+        "showAs": "Taoiseach's Meetings and Engagements",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-01-27/debate/mul@/dbsect_12.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-01-27/debate/dbsect_12"
+      },
+      "by": {
+        "showAs": "Duncan Smith",
+        "memberCode": "Duncan-Smith.D.2020-02-08",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Duncan-Smith.D.2020-02-08"
+      },
+      "showAs": " 6. Deputy Duncan Smith asked the Taoiseach for a report on his attendance at the G20 in South Africa. [4037/26] ",
+      "questionType": "oral",
+      "questionNumber": 6,
+      "to": {
+        "roleCode": null,
+        "showAs": "Taoiseach",
+        "uri": null,
+        "roleType": null
+      },
+      "house": {
+        "showAs": "34th Dáil",
+        "houseNo": "34",
+        "chamberType": "house",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-01-27/pq_6",
+      "date": "2026-01-27"
+    }
+  },
+  {
+    "contextDate": "2026-01-27",
+    "question": {
+      "debateSection": {
+        "debateSectionId": "dbsect_12",
+        "showAs": "Taoiseach's Meetings and Engagements",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-01-27/debate/mul@/dbsect_12.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-01-27/debate/dbsect_12"
+      },
+      "by": {
+        "showAs": "Rose Conway-Walsh",
+        "memberCode": "Rose-Conway-Walsh.S.2016-04-25",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Rose-Conway-Walsh.S.2016-04-25"
+      },
+      "showAs": " 7. Deputy Rose Conway-Walsh asked the Taoiseach if he will report on his attendance at the G20 in South Africa; and if he will make a statement on the matter. [4087/26] ",
+      "questionType": "oral",
+      "questionNumber": 7,
+      "to": {
+        "roleCode": null,
+        "showAs": "Taoiseach",
+        "uri": null,
+        "roleType": null
+      },
+      "house": {
+        "showAs": "34th Dáil",
+        "houseNo": "34",
+        "chamberType": "house",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-01-27/pq_7",
+      "date": "2026-01-27"
+    }
+  },
+  {
+    "contextDate": "2026-01-27",
+    "question": {
+      "debateSection": {
+        "debateSectionId": "dbsect_12",
+        "showAs": "Taoiseach's Meetings and Engagements",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-01-27/debate/mul@/dbsect_12.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-01-27/debate/dbsect_12"
+      },
+      "by": {
+        "showAs": "Liam Quaide",
+        "memberCode": "Liam-Quaide.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Liam-Quaide.D.2024-11-29"
+      },
+      "showAs": " 8. Deputy Liam Quaide asked the Taoiseach if he will report on his attendance at the G20 in South Africa. [5585/26] ",
+      "questionType": "oral",
+      "questionNumber": 8,
+      "to": {
+        "roleCode": null,
+        "showAs": "Taoiseach",
+        "uri": null,
+        "roleType": null
+      },
+      "house": {
+        "showAs": "34th Dáil",
+        "houseNo": "34",
+        "chamberType": "house",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-01-27/pq_8",
+      "date": "2026-01-27"
+    }
+  },
+  {
+    "contextDate": "2026-01-27",
+    "question": {
+      "debateSection": {
+        "debateSectionId": "dbsect_12",
+        "showAs": "Taoiseach's Meetings and Engagements",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-01-27/debate/mul@/dbsect_12.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-01-27/debate/dbsect_12"
+      },
+      "by": {
+        "showAs": "Darren O'Rourke",
+        "memberCode": "Darren-O'Rourke.D.2020-02-08",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Darren-O'Rourke.D.2020-02-08"
+      },
+      "showAs": " 9. Deputy Darren O'Rourke asked the Taoiseach if he will report on his attendance at the G20 in South Africa. [5795/26] ",
+      "questionType": "oral",
+      "questionNumber": 9,
+      "to": {
+        "roleCode": null,
+        "showAs": "Taoiseach",
+        "uri": null,
+        "roleType": null
+      },
+      "house": {
+        "showAs": "34th Dáil",
+        "houseNo": "34",
+        "chamberType": "house",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-01-27/pq_9",
+      "date": "2026-01-27"
+    }
+  },
+  {
+    "contextDate": "2026-01-27",
+    "question": {
+      "debateSection": {
+        "debateSectionId": "dbsect_12",
+        "showAs": "Taoiseach's Meetings and Engagements",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-01-27/debate/mul@/dbsect_12.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-01-27/debate/dbsect_12"
+      },
+      "by": {
+        "showAs": "Malcolm Byrne",
+        "memberCode": "Malcolm-Byrne.D.2019-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Malcolm-Byrne.D.2019-11-29"
+      },
+      "showAs": " 10. Deputy Malcolm Byrne asked the Taoiseach for a report on his attendance at the G20 in South Africa.  [5810/26] ",
+      "questionType": "oral",
+      "questionNumber": 10,
+      "to": {
+        "roleCode": null,
+        "showAs": "Taoiseach",
+        "uri": null,
+        "roleType": null
+      },
+      "house": {
+        "showAs": "34th Dáil",
+        "houseNo": "34",
+        "chamberType": "house",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-01-27/pq_10",
+      "date": "2026-01-27"
+    }
+  },
+  {
+    "contextDate": "2026-01-27",
+    "question": {
+      "debateSection": {
+        "debateSectionId": "dbsect_12",
+        "showAs": "Taoiseach's Meetings and Engagements",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-01-27/debate/mul@/dbsect_12.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-01-27/debate/dbsect_12"
+      },
+      "by": {
+        "showAs": "Shane Moynihan",
+        "memberCode": "Shane-Moynihan.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Shane-Moynihan.D.2024-11-29"
+      },
+      "showAs": " 11. Deputy Shane Moynihan asked the Taoiseach if he will report on his attendance at the G20 in South Africa. [5811/26] ",
+      "questionType": "oral",
+      "questionNumber": 11,
+      "to": {
+        "roleCode": null,
+        "showAs": "Taoiseach",
+        "uri": null,
+        "roleType": null
+      },
+      "house": {
+        "showAs": "34th Dáil",
+        "houseNo": "34",
+        "chamberType": "house",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-01-27/pq_11",
+      "date": "2026-01-27"
+    }
+  },
+  {
+    "contextDate": "2026-01-27",
+    "question": {
+      "debateSection": {
+        "debateSectionId": "dbsect_12",
+        "showAs": "Taoiseach's Meetings and Engagements",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-01-27/debate/mul@/dbsect_12.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-01-27/debate/dbsect_12"
+      },
+      "by": {
+        "showAs": "Pádraig O'Sullivan",
+        "memberCode": "Pádraig-O'Sullivan.D.2019-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Pádraig-O'Sullivan.D.2019-11-29"
+      },
+      "showAs": " 12. Deputy Pádraig O'Sullivan asked the Taoiseach if he will report on his attendance at the G20 in South Africa. [5814/26] ",
+      "questionType": "oral",
+      "questionNumber": 12,
+      "to": {
+        "roleCode": null,
+        "showAs": "Taoiseach",
+        "uri": null,
+        "roleType": null
+      },
+      "house": {
+        "showAs": "34th Dáil",
+        "houseNo": "34",
+        "chamberType": "house",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-01-27/pq_12",
+      "date": "2026-01-27"
+    }
+  },
+  {
+    "contextDate": "2026-01-27",
+    "question": {
+      "debateSection": {
+        "debateSectionId": "dbsect_13",
+        "showAs": "EU Summits",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-01-27/debate/mul@/dbsect_13.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-01-27/debate/dbsect_13"
+      },
+      "by": {
+        "showAs": "Malcolm Byrne",
+        "memberCode": "Malcolm-Byrne.D.2019-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Malcolm-Byrne.D.2019-11-29"
+      },
+      "showAs": " 13. Deputy Malcolm Byrne asked the Taoiseach for a report on his attendance at the EU-African Union summit. [68211/25] ",
+      "questionType": "oral",
+      "questionNumber": 13,
+      "to": {
+        "roleCode": null,
+        "showAs": "Taoiseach",
+        "uri": null,
+        "roleType": null
+      },
+      "house": {
+        "showAs": "34th Dáil",
+        "houseNo": "34",
+        "chamberType": "house",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-01-27/pq_13",
+      "date": "2026-01-27"
+    }
+  },
+  {
+    "contextDate": "2026-01-27",
+    "question": {
+      "debateSection": {
+        "debateSectionId": "dbsect_13",
+        "showAs": "EU Summits",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-01-27/debate/mul@/dbsect_13.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-01-27/debate/dbsect_13"
+      },
+      "by": {
+        "showAs": "Ruairí Ó Murchú",
+        "memberCode": "Ruairí-Ó-Murchú.D.2020-02-08",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruairí-Ó-Murchú.D.2020-02-08"
+      },
+      "showAs": " 14. Deputy Ruairí Ó Murchú asked the Taoiseach for a report on his attendance at the EU-African Union summit. [1834/26] ",
+      "questionType": "oral",
+      "questionNumber": 14,
+      "to": {
+        "roleCode": null,
+        "showAs": "Taoiseach",
+        "uri": null,
+        "roleType": null
+      },
+      "house": {
+        "showAs": "34th Dáil",
+        "houseNo": "34",
+        "chamberType": "house",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-01-27/pq_14",
+      "date": "2026-01-27"
+    }
+  },
+  {
+    "contextDate": "2026-01-27",
+    "question": {
+      "debateSection": {
+        "debateSectionId": "dbsect_13",
+        "showAs": "EU Summits",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-01-27/debate/mul@/dbsect_13.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-01-27/debate/dbsect_13"
+      },
+      "by": {
+        "showAs": "Ruth Coppinger",
+        "memberCode": "Ruth-Coppinger.D.2014-05-23",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruth-Coppinger.D.2014-05-23"
+      },
+      "showAs": " 15. Deputy Ruth Coppinger asked the Taoiseach for a report on his attendance at the EU-African Union summit. [3748/26] ",
+      "questionType": "oral",
+      "questionNumber": 15,
+      "to": {
+        "roleCode": null,
+        "showAs": "Taoiseach",
+        "uri": null,
+        "roleType": null
+      },
+      "house": {
+        "showAs": "34th Dáil",
+        "houseNo": "34",
+        "chamberType": "house",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-01-27/pq_15",
+      "date": "2026-01-27"
+    }
+  },
+  {
+    "contextDate": "2026-01-27",
+    "question": {
+      "debateSection": {
+        "debateSectionId": "dbsect_13",
+        "showAs": "EU Summits",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-01-27/debate/mul@/dbsect_13.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-01-27/debate/dbsect_13"
+      },
+      "by": {
+        "showAs": "Duncan Smith",
+        "memberCode": "Duncan-Smith.D.2020-02-08",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Duncan-Smith.D.2020-02-08"
+      },
+      "showAs": " 16. Deputy Duncan Smith asked the Taoiseach for a report on his attendance at the EU-African Union summit. [4038/26] ",
+      "questionType": "oral",
+      "questionNumber": 16,
+      "to": {
+        "roleCode": null,
+        "showAs": "Taoiseach",
+        "uri": null,
+        "roleType": null
+      },
+      "house": {
+        "showAs": "34th Dáil",
+        "houseNo": "34",
+        "chamberType": "house",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-01-27/pq_16",
+      "date": "2026-01-27"
+    }
+  },
+  {
+    "contextDate": "2026-01-27",
+    "question": {
+      "debateSection": {
+        "debateSectionId": "dbsect_13",
+        "showAs": "EU Summits",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-01-27/debate/mul@/dbsect_13.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-01-27/debate/dbsect_13"
+      },
+      "by": {
+        "showAs": "Liam Quaide",
+        "memberCode": "Liam-Quaide.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Liam-Quaide.D.2024-11-29"
+      },
+      "showAs": " 17. Deputy Liam Quaide asked the Taoiseach for a report on his attendance at the EU-African Union summit. [5586/26] ",
+      "questionType": "oral",
+      "questionNumber": 17,
+      "to": {
+        "roleCode": null,
+        "showAs": "Taoiseach",
+        "uri": null,
+        "roleType": null
+      },
+      "house": {
+        "showAs": "34th Dáil",
+        "houseNo": "34",
+        "chamberType": "house",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-01-27/pq_17",
+      "date": "2026-01-27"
+    }
+  },
+  {
+    "contextDate": "2026-01-27",
+    "question": {
+      "debateSection": {
+        "debateSectionId": "dbsect_13",
+        "showAs": "EU Summits",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-01-27/debate/mul@/dbsect_13.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-01-27/debate/dbsect_13"
+      },
+      "by": {
+        "showAs": "Darren O'Rourke",
+        "memberCode": "Darren-O'Rourke.D.2020-02-08",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Darren-O'Rourke.D.2020-02-08"
+      },
+      "showAs": " 18. Deputy Darren O'Rourke asked the Taoiseach for a report on his attendance at the EU-African Union summit. [5796/26] ",
+      "questionType": "oral",
+      "questionNumber": 18,
+      "to": {
+        "roleCode": null,
+        "showAs": "Taoiseach",
+        "uri": null,
+        "roleType": null
+      },
+      "house": {
+        "showAs": "34th Dáil",
+        "houseNo": "34",
+        "chamberType": "house",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-01-27/pq_18",
+      "date": "2026-01-27"
+    }
+  },
+  {
+    "contextDate": "2026-01-27",
+    "question": {
+      "debateSection": {
+        "debateSectionId": "dbsect_13",
+        "showAs": "EU Summits",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-01-27/debate/mul@/dbsect_13.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-01-27/debate/dbsect_13"
+      },
+      "by": {
+        "showAs": "Shane Moynihan",
+        "memberCode": "Shane-Moynihan.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Shane-Moynihan.D.2024-11-29"
+      },
+      "showAs": " 19. Deputy Shane Moynihan asked the Taoiseach for a report on his attendance at the EU-African Union summit. [5812/26] ",
+      "questionType": "oral",
+      "questionNumber": 19,
+      "to": {
+        "roleCode": null,
+        "showAs": "Taoiseach",
+        "uri": null,
+        "roleType": null
+      },
+      "house": {
+        "showAs": "34th Dáil",
+        "houseNo": "34",
+        "chamberType": "house",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-01-27/pq_19",
+      "date": "2026-01-27"
+    }
+  },
+  {
+    "contextDate": "2026-01-27",
+    "question": {
+      "debateSection": {
+        "debateSectionId": "dbsect_13",
+        "showAs": "EU Summits",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-01-27/debate/mul@/dbsect_13.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-01-27/debate/dbsect_13"
+      },
+      "by": {
+        "showAs": "Naoise Ó Cearúil",
+        "memberCode": "Naoise-Ó-Cearúil.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Naoise-Ó-Cearúil.D.2024-11-29"
+      },
+      "showAs": " 20. Deputy Naoise Ó Cearúil asked the Taoiseach for a report on his attendance at the EU-African Union summit. [5813/26] ",
+      "questionType": "oral",
+      "questionNumber": 20,
+      "to": {
+        "roleCode": null,
+        "showAs": "Taoiseach",
+        "uri": null,
+        "roleType": null
+      },
+      "house": {
+        "showAs": "34th Dáil",
+        "houseNo": "34",
+        "chamberType": "house",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-01-27/pq_20",
+      "date": "2026-01-27"
+    }
+  },
+  {
+    "contextDate": "2026-01-27",
+    "question": {
+      "debateSection": {
+        "debateSectionId": "dbsect_13",
+        "showAs": "EU Summits",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-01-27/debate/mul@/dbsect_13.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-01-27/debate/dbsect_13"
+      },
+      "by": {
+        "showAs": "Pádraig O'Sullivan",
+        "memberCode": "Pádraig-O'Sullivan.D.2019-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Pádraig-O'Sullivan.D.2019-11-29"
+      },
+      "showAs": " 21. Deputy Pádraig O'Sullivan asked the Taoiseach for a report on his attendance at the EU-African Union summit. [5815/26] ",
+      "questionType": "oral",
+      "questionNumber": 21,
+      "to": {
+        "roleCode": null,
+        "showAs": "Taoiseach",
+        "uri": null,
+        "roleType": null
+      },
+      "house": {
+        "showAs": "34th Dáil",
+        "houseNo": "34",
+        "chamberType": "house",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-01-27/pq_21",
+      "date": "2026-01-27"
+    }
+  },
+  {
+    "contextDate": "2026-01-27",
+    "question": {
+      "debateSection": {
+        "debateSectionId": "dbsect_13",
+        "showAs": "EU Summits",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-01-27/debate/mul@/dbsect_13.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-01-27/debate/dbsect_13"
+      },
+      "by": {
+        "showAs": "Richard Boyd Barrett",
+        "memberCode": "Richard-Boyd-Barrett.D.2011-03-09",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Richard-Boyd-Barrett.D.2011-03-09"
+      },
+      "showAs": " 22. Deputy Richard Boyd Barrett asked the Taoiseach if he will report on his attendance at the EU-African Union summit. [6012/26] ",
+      "questionType": "oral",
+      "questionNumber": 22,
+      "to": {
+        "roleCode": null,
+        "showAs": "Taoiseach",
+        "uri": null,
+        "roleType": null
+      },
+      "house": {
+        "showAs": "34th Dáil",
+        "houseNo": "34",
+        "chamberType": "house",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-01-27/pq_22",
+      "date": "2026-01-27"
+    }
+  },
+  {
+    "contextDate": "2026-01-27",
+    "question": {
+      "debateSection": {
+        "debateSectionId": "dbsect_13",
+        "showAs": "EU Summits",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-01-27/debate/mul@/dbsect_13.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-01-27/debate/dbsect_13"
+      },
+      "by": {
+        "showAs": "Paul Murphy",
+        "memberCode": "Paul-Murphy.D.2014-10-10",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Murphy.D.2014-10-10"
+      },
+      "showAs": " 23. Deputy Paul Murphy asked the Taoiseach if he will report on his attendance at the EU-African Union summit. [6015/26] ",
+      "questionType": "oral",
+      "questionNumber": 23,
+      "to": {
+        "roleCode": null,
+        "showAs": "Taoiseach",
+        "uri": null,
+        "roleType": null
+      },
+      "house": {
+        "showAs": "34th Dáil",
+        "houseNo": "34",
+        "chamberType": "house",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-01-27/pq_23",
+      "date": "2026-01-27"
+    }
+  }
+]

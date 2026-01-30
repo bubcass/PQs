@@ -1,0 +1,1042 @@
+[
+  {
+    "contextDate": "2026-01-29",
+    "question": {
+      "questionNumber": 1,
+      "showAs": " 1. Deputy Pádraig Mac Lochlainn asked the Minister for Agriculture, Food and the Marine if he will engage with an organisation (details supplied) to progress its proposal for an inshore fisheries income stabilisation and climate compensation scheme; and if he will make a statement on the matter. [6545/26] ",
+      "to": {
+        "uri": null,
+        "roleCode": null,
+        "showAs": "Agriculture",
+        "roleType": null
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-01-29/pq_1",
+      "house": {
+        "chamberType": "house",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "houseNo": "34"
+      },
+      "date": "2026-01-29",
+      "questionType": "oral",
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Pádraig-MacLochlainn.D.2011-03-09",
+        "showAs": "Pádraig Mac Lochlainn",
+        "memberCode": "Pádraig-MacLochlainn.D.2011-03-09"
+      },
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-01-29/debate/dbsect_3",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-01-29/debate/mul@/dbsect_3.xml"
+          },
+          "pdf": null
+        },
+        "debateSectionId": "dbsect_3",
+        "showAs": "Inshore Fisheries"
+      }
+    }
+  },
+  {
+    "contextDate": "2026-01-29",
+    "question": {
+      "questionNumber": 2,
+      "showAs": " 2. Deputy Robert O'Donoghue asked the Minister for Agriculture, Food and the Marine his response to a recent fatal farm incident in County Limerick involving a farmer in his 90s; and, in light of provisional Health and Safety Authority figures showing that 23 people died in the agriculture sector in 2025, accounting for 40% of all workplace fatalities despite the sector employing approximately 4% of the workforce, the urgent actions his Department is taking to improve farm safety and prevent further loss of life. [6544/26] ",
+      "to": {
+        "uri": null,
+        "roleCode": null,
+        "showAs": "Agriculture",
+        "roleType": null
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-01-29/pq_2",
+      "house": {
+        "chamberType": "house",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "houseNo": "34"
+      },
+      "date": "2026-01-29",
+      "questionType": "oral",
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Robert-O'Donoghue.D.2024-11-29",
+        "showAs": "Robert O'Donoghue",
+        "memberCode": "Robert-O'Donoghue.D.2024-11-29"
+      },
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-01-29/debate/dbsect_4",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-01-29/debate/mul@/dbsect_4.xml"
+          },
+          "pdf": null
+        },
+        "debateSectionId": "dbsect_4",
+        "showAs": "Farm Safety"
+      }
+    }
+  },
+  {
+    "contextDate": "2026-01-29",
+    "question": {
+      "questionNumber": 3,
+      "showAs": " 3. Deputy Martin Kenny asked the Minister for Agriculture, Food and the Marine if he will provide increased powers and resources for the Agri-Food regulator; and if he will make a statement on the matter. [6709/26] ",
+      "to": {
+        "uri": null,
+        "roleCode": null,
+        "showAs": "Agriculture",
+        "roleType": null
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-01-29/pq_3",
+      "house": {
+        "chamberType": "house",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "houseNo": "34"
+      },
+      "date": "2026-01-29",
+      "questionType": "oral",
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Martin-Kenny.D.2016-10-03",
+        "showAs": "Martin Kenny",
+        "memberCode": "Martin-Kenny.D.2016-10-03"
+      },
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-01-29/debate/dbsect_5",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-01-29/debate/mul@/dbsect_5.xml"
+          },
+          "pdf": null
+        },
+        "debateSectionId": "dbsect_5",
+        "showAs": "Agriculture Industry"
+      }
+    }
+  },
+  {
+    "contextDate": "2026-01-29",
+    "question": {
+      "questionNumber": 5,
+      "showAs": " 5. Deputy Martin Kenny asked the Minister for Agriculture, Food and the Marine if he will ensure that increased funding of the Common Agricultural Policy is a key objective during Ireland's Presidency of the EU; and if he will make a statement on the matter. [6780/26] ",
+      "to": {
+        "uri": null,
+        "roleCode": null,
+        "showAs": "Agriculture",
+        "roleType": null
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-01-29/pq_5",
+      "house": {
+        "chamberType": "house",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "houseNo": "34"
+      },
+      "date": "2026-01-29",
+      "questionType": "oral",
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Martin-Kenny.D.2016-10-03",
+        "showAs": "Martin Kenny",
+        "memberCode": "Martin-Kenny.D.2016-10-03"
+      },
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-01-29/debate/dbsect_6",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-01-29/debate/mul@/dbsect_6.xml"
+          },
+          "pdf": null
+        },
+        "debateSectionId": "dbsect_6",
+        "showAs": "Common Agricultural Policy"
+      }
+    }
+  },
+  {
+    "contextDate": "2026-01-29",
+    "question": {
+      "questionNumber": 8,
+      "showAs": " 8. Deputy Paul Murphy asked the Minister for Agriculture, Food and the Marine if his Department has contingency planning in place to protect the future of Irish farming if the Atlantic Meridional Overturning Circulation, AMOC, collapses; and if he will make a statement on the matter. [6975/26] ",
+      "to": {
+        "uri": null,
+        "roleCode": null,
+        "showAs": "Agriculture",
+        "roleType": null
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-01-29/pq_8",
+      "house": {
+        "chamberType": "house",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "houseNo": "34"
+      },
+      "date": "2026-01-29",
+      "questionType": "oral",
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Murphy.D.2014-10-10",
+        "showAs": "Paul Murphy",
+        "memberCode": "Paul-Murphy.D.2014-10-10"
+      },
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-01-29/debate/dbsect_9",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-01-29/debate/mul@/dbsect_9.xml"
+          },
+          "pdf": null
+        },
+        "debateSectionId": "dbsect_9",
+        "showAs": "Climate Action Plan"
+      }
+    }
+  },
+  {
+    "contextDate": "2026-01-29",
+    "question": {
+      "questionNumber": 9,
+      "showAs": " 9. Deputy Ruairí Ó Murchú asked the Minister for Agriculture, Food and the Marine the uptake of the latest solar capital investment scheme; whether his Department is working on proposals to improve or streamline the scheme; and if he will make a statement on the matter. [6877/26] ",
+      "to": {
+        "uri": null,
+        "roleCode": null,
+        "showAs": "Agriculture",
+        "roleType": null
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-01-29/pq_9",
+      "house": {
+        "chamberType": "house",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "houseNo": "34"
+      },
+      "date": "2026-01-29",
+      "questionType": "oral",
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruairí-Ó-Murchú.D.2020-02-08",
+        "showAs": "Ruairí Ó Murchú",
+        "memberCode": "Ruairí-Ó-Murchú.D.2020-02-08"
+      },
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-01-29/debate/dbsect_11",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-01-29/debate/mul@/dbsect_11.xml"
+          },
+          "pdf": null
+        },
+        "debateSectionId": "dbsect_11",
+        "showAs": "Renewable Energy Generation"
+      }
+    }
+  },
+  {
+    "contextDate": "2026-01-29",
+    "question": {
+      "questionNumber": 11,
+      "showAs": " 11. Deputy Erin McGreehan asked the Minister for Agriculture, Food and the Marine if he has considered the potential use of AI to develop a carbon map for a national audit of carbon sequestration on farmland; and if he will make a statement on the matter. [6848/26] ",
+      "to": {
+        "uri": null,
+        "roleCode": null,
+        "showAs": "Agriculture",
+        "roleType": null
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-01-29/pq_11",
+      "house": {
+        "chamberType": "house",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "houseNo": "34"
+      },
+      "date": "2026-01-29",
+      "questionType": "oral",
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Erin-McGreehan.S.2020-06-29",
+        "showAs": "Erin McGreehan",
+        "memberCode": "Erin-McGreehan.S.2020-06-29"
+      },
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-01-29/debate/dbsect_10",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-01-29/debate/mul@/dbsect_10.xml"
+          },
+          "pdf": null
+        },
+        "debateSectionId": "dbsect_10",
+        "showAs": "Artificial Intelligence"
+      }
+    }
+  },
+  {
+    "contextDate": "2026-01-29",
+    "question": {
+      "questionNumber": 12,
+      "showAs": " 12. Deputy David Maxwell asked the Minister for Agriculture, Food and the Marine if the current compensation paid to farmers who have to cull animals under a notifiable disease order, such as TB and bird flu, will be reviewed so that a fair compensation is paid, over and above the market value of the animals, to include a proportion of consequential loss; and if he will make a statement on the matter.  [70152/25] ",
+      "to": {
+        "uri": null,
+        "roleCode": null,
+        "showAs": "Agriculture",
+        "roleType": null
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-01-29/pq_12",
+      "house": {
+        "chamberType": "house",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "houseNo": "34"
+      },
+      "date": "2026-01-29",
+      "questionType": "oral",
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/David-Maxwell.D.2024-11-29",
+        "showAs": "David Maxwell",
+        "memberCode": "David-Maxwell.D.2024-11-29"
+      },
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-01-29/debate/dbsect_12",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-01-29/debate/mul@/dbsect_12.xml"
+          },
+          "pdf": null
+        },
+        "debateSectionId": "dbsect_12",
+        "showAs": "Agriculture Schemes"
+      }
+    }
+  },
+  {
+    "contextDate": "2026-01-29",
+    "question": {
+      "questionNumber": 13,
+      "showAs": " 13. Deputy Peadar Tóibín asked the Minister for Agriculture, Food and the Marine if his Department has undertaken any analysis on the scope of potential job losses or profit losses which may be faced by farmers in Ireland as a result of the Mercosur trade deal; and if he will make a statement on the matter. [5981/26] ",
+      "to": {
+        "uri": null,
+        "roleCode": null,
+        "showAs": "Agriculture",
+        "roleType": null
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-01-29/pq_13",
+      "house": {
+        "chamberType": "house",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "houseNo": "34"
+      },
+      "date": "2026-01-29",
+      "questionType": "oral",
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Peadar-Tóibín.D.2011-03-09",
+        "showAs": "Peadar Tóibín",
+        "memberCode": "Peadar-Tóibín.D.2011-03-09"
+      },
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-01-29/debate/dbsect_14",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-01-29/debate/mul@/dbsect_14.xml"
+          },
+          "pdf": null
+        },
+        "debateSectionId": "dbsect_14",
+        "showAs": "Trade Agreements"
+      }
+    }
+  },
+  {
+    "contextDate": "2026-01-29",
+    "question": {
+      "questionNumber": 14,
+      "showAs": " 14. Deputy Barry Ward asked the Minister for Agriculture, Food and the Marine the position regarding the increase in funding for animal welfare groups as committed to in the programme for Government; if multi-annual funding can be considered to allow for longer-term planning by these groups; and if he will make a statement on the matter.  [6000/26] ",
+      "to": {
+        "uri": null,
+        "roleCode": null,
+        "showAs": "Agriculture",
+        "roleType": null
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-01-29/pq_14",
+      "house": {
+        "chamberType": "house",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "houseNo": "34"
+      },
+      "date": "2026-01-29",
+      "questionType": "oral",
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Barry-Ward.S.2020-03-30",
+        "showAs": "Barry Ward",
+        "memberCode": "Barry-Ward.S.2020-03-30"
+      },
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-01-29/debate/dbsect_15",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-01-29/debate/mul@/dbsect_15.xml"
+          },
+          "pdf": null
+        },
+        "debateSectionId": "dbsect_15",
+        "showAs": "Animal Welfare"
+      }
+    }
+  },
+  {
+    "contextDate": "2026-01-29",
+    "question": {
+      "questionNumber": 15,
+      "showAs": " 15. Deputy Michael Collins asked the Minister for Agriculture, Food and the Marine the urgent actions he is taking, at EU and Council level, to reverse or challenge the severe loss of approximately 57,000 tonnes of Irish fishing quota for 2026, representing an estimated €94 million blow to the Irish fishing sector; whether he plans to initiate or support legal action at the European Court of Justice to defend Ireland’s interests given the collapse of Hague Preferences at the recent EU Agriculture and Fisheries Council; and if he will make a statement on the matter. [6850/26] ",
+      "to": {
+        "uri": null,
+        "roleCode": null,
+        "showAs": "Agriculture",
+        "roleType": null
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-01-29/pq_15",
+      "house": {
+        "chamberType": "house",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "houseNo": "34"
+      },
+      "date": "2026-01-29",
+      "questionType": "oral",
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Michael-Collins.D.2016-10-03",
+        "showAs": "Michael Collins",
+        "memberCode": "Michael-Collins.D.2016-10-03"
+      },
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-01-29/debate/dbsect_16",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-01-29/debate/mul@/dbsect_16.xml"
+          },
+          "pdf": null
+        },
+        "debateSectionId": "dbsect_16",
+        "showAs": "Fishing Industry"
+      }
+    }
+  },
+  {
+    "contextDate": "2026-01-29",
+    "question": {
+      "questionNumber": 16,
+      "showAs": " 16. Deputy Darren O'Rourke asked the Minister for Agriculture, Food and the Marine the assessment which has taken place of the potential impact of the Mercosur trade deal on the Irish beef industry; the measures he will take to mitigate this; and if he will make a statement on the matter. [5369/26] ",
+      "to": {
+        "uri": null,
+        "roleCode": null,
+        "showAs": "Agriculture",
+        "roleType": null
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-01-29/pq_16",
+      "house": {
+        "chamberType": "house",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "houseNo": "34"
+      },
+      "date": "2026-01-29",
+      "questionType": "oral",
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Darren-O'Rourke.D.2020-02-08",
+        "showAs": "Darren O'Rourke",
+        "memberCode": "Darren-O'Rourke.D.2020-02-08"
+      },
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-01-29/debate/dbsect_13",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-01-29/debate/mul@/dbsect_13.xml"
+          },
+          "pdf": null
+        },
+        "debateSectionId": "dbsect_13",
+        "showAs": "Trade Agreements"
+      }
+    }
+  },
+  {
+    "contextDate": "2026-01-29",
+    "question": {
+      "questionNumber": 25,
+      "showAs": " 25. Deputy Martin Kenny asked the Minister for Agriculture, Food and the Marine if there are adequate amounts of bluetongue vaccine here to carry out a vaccine programme in the spring, if needed; and if he will make a statement on the matter. [6708/26] ",
+      "to": {
+        "uri": null,
+        "roleCode": null,
+        "showAs": "Agriculture",
+        "roleType": null
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-01-29/pq_25",
+      "house": {
+        "chamberType": "house",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "houseNo": "34"
+      },
+      "date": "2026-01-29",
+      "questionType": "oral",
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Martin-Kenny.D.2016-10-03",
+        "showAs": "Martin Kenny",
+        "memberCode": "Martin-Kenny.D.2016-10-03"
+      },
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-01-29/debate/dbsect_8",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-01-29/debate/mul@/dbsect_8.xml"
+          },
+          "pdf": null
+        },
+        "debateSectionId": "dbsect_8",
+        "showAs": "Animal Diseases"
+      }
+    }
+  },
+  {
+    "contextDate": "2026-01-29",
+    "question": {
+      "questionNumber": 82,
+      "showAs": " 82. Deputy Donna McGettigan asked the Minister for Further and Higher Education, Research, Innovation and Science when the student accommodation strategy will be released, and whether it will contain proposals to allow the providers of private student accommodation to hike rents more often than for those in purpose-built student accommodation; and if he will make a statement on the matter. [7343/26] ",
+      "to": {
+        "uri": null,
+        "roleCode": null,
+        "showAs": "Further and Higher Education",
+        "roleType": null
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-01-29/pq_82",
+      "house": {
+        "chamberType": "house",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "houseNo": "34"
+      },
+      "date": "2026-01-29",
+      "questionType": "oral",
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Donna-McGettigan.D.2024-11-29",
+        "showAs": "Donna McGettigan",
+        "memberCode": "Donna-McGettigan.D.2024-11-29"
+      },
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-01-29/debate/dbsect_19",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-01-29/debate/mul@/dbsect_19.xml"
+          },
+          "pdf": null
+        },
+        "debateSectionId": "dbsect_19",
+        "showAs": "Student Accommodation"
+      }
+    }
+  },
+  {
+    "contextDate": "2026-01-29",
+    "question": {
+      "questionNumber": 83,
+      "showAs": " 83. Deputy Eoghan Kenny asked the Minister for Further and Higher Education, Research, Innovation and Science the steps his Department is taking to investigate the significant overspend on the new SUSI IT system; and if he will make a statement on the matter. [6842/26] ",
+      "to": {
+        "uri": null,
+        "roleCode": null,
+        "showAs": "Further and Higher Education",
+        "roleType": null
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-01-29/pq_83",
+      "house": {
+        "chamberType": "house",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "houseNo": "34"
+      },
+      "date": "2026-01-29",
+      "questionType": "oral",
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Eoghan-Kenny.D.2024-11-29",
+        "showAs": "Eoghan Kenny",
+        "memberCode": "Eoghan-Kenny.D.2024-11-29"
+      },
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-01-29/debate/dbsect_20",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-01-29/debate/mul@/dbsect_20.xml"
+          },
+          "pdf": null
+        },
+        "debateSectionId": "dbsect_20",
+        "showAs": "Expenditure Reviews"
+      }
+    }
+  },
+  {
+    "contextDate": "2026-01-29",
+    "question": {
+      "questionNumber": 84,
+      "showAs": " 84. Deputy Donna McGettigan asked the Minister for Further and Higher Education, Research, Innovation and Science the number of applicants who applied for SUSI grants in each of the years between 2020 and 2025; the number that were unsuccessful in their applications; the measures he will enact to the appeals process to maximise the number of applicants who are successful; and if he will make a statement on the matter. [7344/26] ",
+      "to": {
+        "uri": null,
+        "roleCode": null,
+        "showAs": "Further and Higher Education",
+        "roleType": null
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-01-29/pq_84",
+      "house": {
+        "chamberType": "house",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "houseNo": "34"
+      },
+      "date": "2026-01-29",
+      "questionType": "oral",
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Donna-McGettigan.D.2024-11-29",
+        "showAs": "Donna McGettigan",
+        "memberCode": "Donna-McGettigan.D.2024-11-29"
+      },
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-01-29/debate/dbsect_21",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-01-29/debate/mul@/dbsect_21.xml"
+          },
+          "pdf": null
+        },
+        "debateSectionId": "dbsect_21",
+        "showAs": "Grant Payments"
+      }
+    }
+  },
+  {
+    "contextDate": "2026-01-29",
+    "question": {
+      "questionNumber": 85,
+      "showAs": " 85. Deputy Jen Cummins asked the Minister for Further and Higher Education, Research, Innovation and Science his plans to support students that are estranged from family, to access SUSI and other supports on campuses. [7275/26] ",
+      "to": {
+        "uri": null,
+        "roleCode": null,
+        "showAs": "Further and Higher Education",
+        "roleType": null
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-01-29/pq_85",
+      "house": {
+        "chamberType": "house",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "houseNo": "34"
+      },
+      "date": "2026-01-29",
+      "questionType": "oral",
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Jen-Cummins.D.2024-11-29",
+        "showAs": "Jen Cummins",
+        "memberCode": "Jen-Cummins.D.2024-11-29"
+      },
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-01-29/debate/dbsect_22",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-01-29/debate/mul@/dbsect_22.xml"
+          },
+          "pdf": null
+        },
+        "debateSectionId": "dbsect_22",
+        "showAs": "Grant Payments"
+      }
+    }
+  },
+  {
+    "contextDate": "2026-01-29",
+    "question": {
+      "questionNumber": 86,
+      "showAs": " 86. Deputy Charles Ward asked the Minister for Further and Higher Education, Research, Innovation and Science if he will review the means test for SUSI grants for households impacted by the defective concrete crisis, in order that essential outgoings such as mortgages and rent are taken into consideration; and if he will make a statement on the matter. [7279/26] ",
+      "to": {
+        "uri": null,
+        "roleCode": null,
+        "showAs": "Further and Higher Education",
+        "roleType": null
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-01-29/pq_86",
+      "house": {
+        "chamberType": "house",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "houseNo": "34"
+      },
+      "date": "2026-01-29",
+      "questionType": "oral",
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Charles-Ward.D.2024-11-29",
+        "showAs": "Charles Ward",
+        "memberCode": "Charles-Ward.D.2024-11-29"
+      },
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-01-29/debate/dbsect_23",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-01-29/debate/mul@/dbsect_23.xml"
+          },
+          "pdf": null
+        },
+        "debateSectionId": "dbsect_23",
+        "showAs": "Third Level Education"
+      }
+    }
+  },
+  {
+    "contextDate": "2026-01-29",
+    "question": {
+      "questionNumber": 87,
+      "showAs": " 87. Deputy Catherine Callaghan asked the Minister for Further and Higher Education, Research, Innovation and Science the number of extra college places being created in September 2026 and September 2027 to ensure adequate supply of new speech and language therapists and occupational therapists, to meet the increasing demands of the care system; and if he will make a statement on the matter. [7277/26] ",
+      "to": {
+        "uri": null,
+        "roleCode": null,
+        "showAs": "Further and Higher Education",
+        "roleType": null
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-01-29/pq_87",
+      "house": {
+        "chamberType": "house",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "houseNo": "34"
+      },
+      "date": "2026-01-29",
+      "questionType": "oral",
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Catherine-Callaghan.D.2024-11-29",
+        "showAs": "Catherine Callaghan",
+        "memberCode": "Catherine-Callaghan.D.2024-11-29"
+      },
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-01-29/debate/dbsect_24",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-01-29/debate/mul@/dbsect_24.xml"
+          },
+          "pdf": null
+        },
+        "debateSectionId": "dbsect_24",
+        "showAs": "Third Level Admissions"
+      }
+    }
+  },
+  {
+    "contextDate": "2026-01-29",
+    "question": {
+      "questionNumber": 88,
+      "showAs": " 88. Deputy John Connolly asked the Minister for Further and Higher Education, Research, Innovation and Science the plans within his Department to develop a further and expanded phase of programme for access to higher education, PATH, 4 funding; and if he will make a statement on the matter.  [6868/26] ",
+      "to": {
+        "uri": null,
+        "roleCode": null,
+        "showAs": "Further and Higher Education",
+        "roleType": null
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-01-29/pq_88",
+      "house": {
+        "chamberType": "house",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "houseNo": "34"
+      },
+      "date": "2026-01-29",
+      "questionType": "oral",
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/John-Connolly.D.2024-11-29",
+        "showAs": "John Connolly",
+        "memberCode": "John-Connolly.D.2024-11-29"
+      },
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-01-29/debate/dbsect_26",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-01-29/debate/mul@/dbsect_26.xml"
+          },
+          "pdf": null
+        },
+        "debateSectionId": "dbsect_26",
+        "showAs": "Further and Higher Education"
+      }
+    }
+  },
+  {
+    "contextDate": "2026-01-29",
+    "question": {
+      "questionNumber": 89,
+      "showAs": " 89. Deputy Naoise Ó Cearúil asked the Minister for Further and Higher Education, Research, Innovation and Science the measures being considered for 2026 to support students with accommodation and living costs, including any planned adjustments to SUSI thresholds; and if he will make a statement on the matter. [6882/26] ",
+      "to": {
+        "uri": null,
+        "roleCode": null,
+        "showAs": "Further and Higher Education",
+        "roleType": null
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-01-29/pq_89",
+      "house": {
+        "chamberType": "house",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "houseNo": "34"
+      },
+      "date": "2026-01-29",
+      "questionType": "oral",
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Naoise-Ó-Cearúil.D.2024-11-29",
+        "showAs": "Naoise Ó Cearúil",
+        "memberCode": "Naoise-Ó-Cearúil.D.2024-11-29"
+      },
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-01-29/debate/dbsect_27",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-01-29/debate/mul@/dbsect_27.xml"
+          },
+          "pdf": null
+        },
+        "debateSectionId": "dbsect_27",
+        "showAs": "Third Level Costs"
+      }
+    }
+  },
+  {
+    "contextDate": "2026-01-29",
+    "question": {
+      "questionNumber": 90,
+      "showAs": " 90. Deputy Tony McCormack asked the Minister for Further and Higher Education, Research, Innovation and Science the progress made in expanding apprenticeship and traineeship opportunities; whether additional measures are planned to increase participation and completion rates; and if he will make a statement on the matter. [6757/26] ",
+      "to": {
+        "uri": null,
+        "roleCode": null,
+        "showAs": "Further and Higher Education",
+        "roleType": null
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-01-29/pq_90",
+      "house": {
+        "chamberType": "house",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "houseNo": "34"
+      },
+      "date": "2026-01-29",
+      "questionType": "oral",
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tony-McCormack.D.2024-11-29",
+        "showAs": "Tony McCormack",
+        "memberCode": "Tony-McCormack.D.2024-11-29"
+      },
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-01-29/debate/dbsect_28",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-01-29/debate/mul@/dbsect_28.xml"
+          },
+          "pdf": null
+        },
+        "debateSectionId": "dbsect_28",
+        "showAs": "Apprenticeship Programmes"
+      }
+    }
+  },
+  {
+    "contextDate": "2026-01-29",
+    "question": {
+      "questionNumber": 91,
+      "showAs": " 91. Deputy Peter Roche asked the Minister for Further and Higher Education, Research, Innovation and Science if he has examined the impact of the current means-testing arrangements for the SUSI grant on adult and mature applicants who, due to the lack of available or affordable housing, continue to reside in the family home and are therefore assessed on parental income; his plans to review the SUSI means test to address this issue, particularly in respect of independent or mature students; whether his Department is engaging with the Department of Social Protection regarding potential reforms to these arrangements; and if he will make a statement on the matter. [6932/26] ",
+      "to": {
+        "uri": null,
+        "roleCode": null,
+        "showAs": "Further and Higher Education",
+        "roleType": null
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-01-29/pq_91",
+      "house": {
+        "chamberType": "house",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "houseNo": "34"
+      },
+      "date": "2026-01-29",
+      "questionType": "oral",
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Peter-Roche.D.2024-11-29",
+        "showAs": "Peter Roche",
+        "memberCode": "Peter-Roche.D.2024-11-29"
+      },
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-01-29/debate/dbsect_29",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-01-29/debate/mul@/dbsect_29.xml"
+          },
+          "pdf": null
+        },
+        "debateSectionId": "dbsect_29",
+        "showAs": "Grant Payments"
+      }
+    }
+  },
+  {
+    "contextDate": "2026-01-29",
+    "question": {
+      "questionNumber": 94,
+      "showAs": " 94. Deputy Mark Ward asked the Minister for Further and Higher Education, Research, Innovation and Science his plans to reduce university fees; if the Government is committed to fully abolishing university fees; when this will be realised; and if he will make a statement on the matter. [6908/26] ",
+      "to": {
+        "uri": null,
+        "roleCode": null,
+        "showAs": "Further and Higher Education",
+        "roleType": null
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-01-29/pq_94",
+      "house": {
+        "chamberType": "house",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "houseNo": "34"
+      },
+      "date": "2026-01-29",
+      "questionType": "oral",
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Mark-Ward.D.2019-11-29",
+        "showAs": "Mark Ward",
+        "memberCode": "Mark-Ward.D.2019-11-29"
+      },
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-01-29/debate/dbsect_30",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-01-29/debate/mul@/dbsect_30.xml"
+          },
+          "pdf": null
+        },
+        "debateSectionId": "dbsect_30",
+        "showAs": "Third Level Fees"
+      }
+    }
+  },
+  {
+    "contextDate": "2026-01-29",
+    "question": {
+      "questionNumber": 95,
+      "showAs": " 95. Deputy Brendan Smith asked the Minister for Further and Higher Education, Research, Innovation and Science the capital funding available to his Department for developments in the further education sector in 2026; and if he will make a statement on the matter. [6900/26] ",
+      "to": {
+        "uri": null,
+        "roleCode": null,
+        "showAs": "Further and Higher Education",
+        "roleType": null
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-01-29/pq_95",
+      "house": {
+        "chamberType": "house",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "houseNo": "34"
+      },
+      "date": "2026-01-29",
+      "questionType": "oral",
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Brendan-Smith.D.1992-12-14",
+        "showAs": "Brendan Smith",
+        "memberCode": "Brendan-Smith.D.1992-12-14"
+      },
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-01-29/debate/dbsect_31",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-01-29/debate/mul@/dbsect_31.xml"
+          },
+          "pdf": null
+        },
+        "debateSectionId": "dbsect_31",
+        "showAs": "Departmental Funding"
+      }
+    }
+  },
+  {
+    "contextDate": "2026-01-29",
+    "question": {
+      "questionNumber": 96,
+      "showAs": " 96. Deputy Shónagh Ní Raghallaigh asked the Minister for Further and Higher Education, Research, Innovation and Science the work being undertaken by his Department to secure pathways to further and higher education for people with disabilities; and if he will make a statement on the matter. [5970/26] ",
+      "to": {
+        "uri": null,
+        "roleCode": null,
+        "showAs": "Further and Higher Education",
+        "roleType": null
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-01-29/pq_96",
+      "house": {
+        "chamberType": "house",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "houseNo": "34"
+      },
+      "date": "2026-01-29",
+      "questionType": "oral",
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Shónagh-Ní-Raghallaigh.D.2024-11-29",
+        "showAs": "Shónagh Ní Raghallaigh",
+        "memberCode": "Shónagh-Ní-Raghallaigh.D.2024-11-29"
+      },
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-01-29/debate/dbsect_32",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-01-29/debate/mul@/dbsect_32.xml"
+          },
+          "pdf": null
+        },
+        "debateSectionId": "dbsect_32",
+        "showAs": "Further and Higher Education"
+      }
+    }
+  }
+]

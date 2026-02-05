@@ -1,0 +1,882 @@
+[
+  {
+    "contextDate": "2026-02-04",
+    "question": {
+      "questionType": "oral",
+      "questionNumber": 1,
+      "date": "2026-02-04",
+      "by": {
+        "showAs": "John Connolly",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/John-Connolly.D.2024-11-29",
+        "memberCode": "John-Connolly.D.2024-11-29"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-04/pq_1",
+      "showAs": " 1. Deputy John Connolly asked the Taoiseach for an update on the programme for Government. [67574/25] ",
+      "house": {
+        "houseCode": "dail",
+        "chamberType": "house",
+        "houseNo": "34",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil"
+      },
+      "to": {
+        "showAs": "Taoiseach",
+        "uri": null,
+        "roleCode": null,
+        "roleType": null
+      },
+      "debateSection": {
+        "showAs": "Programme for Government",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-04/debate/dbsect_17",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-04/debate/mul@/dbsect_17.xml"
+          }
+        },
+        "debateSectionId": "dbsect_17"
+      }
+    }
+  },
+  {
+    "contextDate": "2026-02-04",
+    "question": {
+      "questionType": "oral",
+      "questionNumber": 2,
+      "date": "2026-02-04",
+      "by": {
+        "showAs": "Michael Cahill",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Michael-Cahill.D.2024-11-29",
+        "memberCode": "Michael-Cahill.D.2024-11-29"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-04/pq_2",
+      "showAs": " 2. Deputy Michael Cahill asked the Taoiseach for an update regarding the programme for Government. [71592/25] ",
+      "house": {
+        "houseCode": "dail",
+        "chamberType": "house",
+        "houseNo": "34",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil"
+      },
+      "to": {
+        "showAs": "Taoiseach",
+        "uri": null,
+        "roleCode": null,
+        "roleType": null
+      },
+      "debateSection": {
+        "showAs": "Programme for Government",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-04/debate/dbsect_17",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-04/debate/mul@/dbsect_17.xml"
+          }
+        },
+        "debateSectionId": "dbsect_17"
+      }
+    }
+  },
+  {
+    "contextDate": "2026-02-04",
+    "question": {
+      "questionType": "oral",
+      "questionNumber": 3,
+      "date": "2026-02-04",
+      "by": {
+        "showAs": "Séamus McGrath",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Séamus-McGrath.D.2024-11-29",
+        "memberCode": "Séamus-McGrath.D.2024-11-29"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-04/pq_3",
+      "showAs": " 3. Deputy Séamus McGrath asked the Taoiseach for an update regarding the programme for Government. [71593/25] ",
+      "house": {
+        "houseCode": "dail",
+        "chamberType": "house",
+        "houseNo": "34",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil"
+      },
+      "to": {
+        "showAs": "Taoiseach",
+        "uri": null,
+        "roleCode": null,
+        "roleType": null
+      },
+      "debateSection": {
+        "showAs": "Programme for Government",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-04/debate/dbsect_17",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-04/debate/mul@/dbsect_17.xml"
+          }
+        },
+        "debateSectionId": "dbsect_17"
+      }
+    }
+  },
+  {
+    "contextDate": "2026-02-04",
+    "question": {
+      "questionType": "oral",
+      "questionNumber": 4,
+      "date": "2026-02-04",
+      "by": {
+        "showAs": "Brendan Smith",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Brendan-Smith.D.1992-12-14",
+        "memberCode": "Brendan-Smith.D.1992-12-14"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-04/pq_4",
+      "showAs": " 4. Deputy Brendan Smith asked the Taoiseach for an update regarding the programme for Government. [74525/25] ",
+      "house": {
+        "houseCode": "dail",
+        "chamberType": "house",
+        "houseNo": "34",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil"
+      },
+      "to": {
+        "showAs": "Taoiseach",
+        "uri": null,
+        "roleCode": null,
+        "roleType": null
+      },
+      "debateSection": {
+        "showAs": "Programme for Government",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-04/debate/dbsect_17",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-04/debate/mul@/dbsect_17.xml"
+          }
+        },
+        "debateSectionId": "dbsect_17"
+      }
+    }
+  },
+  {
+    "contextDate": "2026-02-04",
+    "question": {
+      "questionType": "oral",
+      "questionNumber": 5,
+      "date": "2026-02-04",
+      "by": {
+        "showAs": "Malcolm Byrne",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Malcolm-Byrne.D.2019-11-29",
+        "memberCode": "Malcolm-Byrne.D.2019-11-29"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-04/pq_5",
+      "showAs": " 5. Deputy Malcolm Byrne asked the Taoiseach for an update on the programme for Government. [3638/26] ",
+      "house": {
+        "houseCode": "dail",
+        "chamberType": "house",
+        "houseNo": "34",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil"
+      },
+      "to": {
+        "showAs": "Taoiseach",
+        "uri": null,
+        "roleCode": null,
+        "roleType": null
+      },
+      "debateSection": {
+        "showAs": "Programme for Government",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-04/debate/dbsect_17",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-04/debate/mul@/dbsect_17.xml"
+          }
+        },
+        "debateSectionId": "dbsect_17"
+      }
+    }
+  },
+  {
+    "contextDate": "2026-02-04",
+    "question": {
+      "questionType": "oral",
+      "questionNumber": 6,
+      "date": "2026-02-04",
+      "by": {
+        "showAs": "Ruairí Ó Murchú",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruairí-Ó-Murchú.D.2020-02-08",
+        "memberCode": "Ruairí-Ó-Murchú.D.2020-02-08"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-04/pq_6",
+      "showAs": " 6. Deputy Ruairí Ó Murchú asked the Taoiseach for an update on the programme for Government. [3639/26] ",
+      "house": {
+        "houseCode": "dail",
+        "chamberType": "house",
+        "houseNo": "34",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil"
+      },
+      "to": {
+        "showAs": "Taoiseach",
+        "uri": null,
+        "roleCode": null,
+        "roleType": null
+      },
+      "debateSection": {
+        "showAs": "Programme for Government",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-04/debate/dbsect_17",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-04/debate/mul@/dbsect_17.xml"
+          }
+        },
+        "debateSectionId": "dbsect_17"
+      }
+    }
+  },
+  {
+    "contextDate": "2026-02-04",
+    "question": {
+      "questionType": "oral",
+      "questionNumber": 7,
+      "date": "2026-02-04",
+      "by": {
+        "showAs": "Mark Ward",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Mark-Ward.D.2019-11-29",
+        "memberCode": "Mark-Ward.D.2019-11-29"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-04/pq_7",
+      "showAs": " 7. Deputy Mark Ward asked the Taoiseach for an update on the programme for Government. [3646/26] ",
+      "house": {
+        "houseCode": "dail",
+        "chamberType": "house",
+        "houseNo": "34",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil"
+      },
+      "to": {
+        "showAs": "Taoiseach",
+        "uri": null,
+        "roleCode": null,
+        "roleType": null
+      },
+      "debateSection": {
+        "showAs": "Programme for Government",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-04/debate/dbsect_17",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-04/debate/mul@/dbsect_17.xml"
+          }
+        },
+        "debateSectionId": "dbsect_17"
+      }
+    }
+  },
+  {
+    "contextDate": "2026-02-04",
+    "question": {
+      "questionType": "oral",
+      "questionNumber": 8,
+      "date": "2026-02-04",
+      "by": {
+        "showAs": "Darren O'Rourke",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Darren-O'Rourke.D.2020-02-08",
+        "memberCode": "Darren-O'Rourke.D.2020-02-08"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-04/pq_8",
+      "showAs": " 8. Deputy Darren O'Rourke asked the Taoiseach for an update on the programme for Government. [3648/26] ",
+      "house": {
+        "houseCode": "dail",
+        "chamberType": "house",
+        "houseNo": "34",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil"
+      },
+      "to": {
+        "showAs": "Taoiseach",
+        "uri": null,
+        "roleCode": null,
+        "roleType": null
+      },
+      "debateSection": {
+        "showAs": "Programme for Government",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-04/debate/dbsect_17",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-04/debate/mul@/dbsect_17.xml"
+          }
+        },
+        "debateSectionId": "dbsect_17"
+      }
+    }
+  },
+  {
+    "contextDate": "2026-02-04",
+    "question": {
+      "questionType": "oral",
+      "questionNumber": 9,
+      "date": "2026-02-04",
+      "by": {
+        "showAs": "Peadar Tóibín",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Peadar-Tóibín.D.2011-03-09",
+        "memberCode": "Peadar-Tóibín.D.2011-03-09"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-04/pq_9",
+      "showAs": " 9. Deputy Peadar Tóibín asked the Taoiseach p=for an update on the programme for Government. [3830/26] ",
+      "house": {
+        "houseCode": "dail",
+        "chamberType": "house",
+        "houseNo": "34",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil"
+      },
+      "to": {
+        "showAs": "Taoiseach",
+        "uri": null,
+        "roleCode": null,
+        "roleType": null
+      },
+      "debateSection": {
+        "showAs": "Programme for Government",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-04/debate/dbsect_17",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-04/debate/mul@/dbsect_17.xml"
+          }
+        },
+        "debateSectionId": "dbsect_17"
+      }
+    }
+  },
+  {
+    "contextDate": "2026-02-04",
+    "question": {
+      "questionType": "oral",
+      "questionNumber": 10,
+      "date": "2026-02-04",
+      "by": {
+        "showAs": "David Cullinane",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/David-Cullinane.S.2011-05-25",
+        "memberCode": "David-Cullinane.S.2011-05-25"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-04/pq_10",
+      "showAs": " 10. Deputy David Cullinane asked the Taoiseach for an update on the programme for Government. [4024/26] ",
+      "house": {
+        "houseCode": "dail",
+        "chamberType": "house",
+        "houseNo": "34",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil"
+      },
+      "to": {
+        "showAs": "Taoiseach",
+        "uri": null,
+        "roleCode": null,
+        "roleType": null
+      },
+      "debateSection": {
+        "showAs": "Programme for Government",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-04/debate/dbsect_17",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-04/debate/mul@/dbsect_17.xml"
+          }
+        },
+        "debateSectionId": "dbsect_17"
+      }
+    }
+  },
+  {
+    "contextDate": "2026-02-04",
+    "question": {
+      "questionType": "oral",
+      "questionNumber": 11,
+      "date": "2026-02-04",
+      "by": {
+        "showAs": "Rose Conway-Walsh",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Rose-Conway-Walsh.S.2016-04-25",
+        "memberCode": "Rose-Conway-Walsh.S.2016-04-25"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-04/pq_11",
+      "showAs": " 11. Deputy Rose Conway-Walsh asked the Taoiseach for an update on the programme for Government. [4088/26] ",
+      "house": {
+        "houseCode": "dail",
+        "chamberType": "house",
+        "houseNo": "34",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil"
+      },
+      "to": {
+        "showAs": "Taoiseach",
+        "uri": null,
+        "roleCode": null,
+        "roleType": null
+      },
+      "debateSection": {
+        "showAs": "Programme for Government",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-04/debate/dbsect_17",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-04/debate/mul@/dbsect_17.xml"
+          }
+        },
+        "debateSectionId": "dbsect_17"
+      }
+    }
+  },
+  {
+    "contextDate": "2026-02-04",
+    "question": {
+      "questionType": "oral",
+      "questionNumber": 12,
+      "date": "2026-02-04",
+      "by": {
+        "showAs": "Ruth Coppinger",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruth-Coppinger.D.2014-05-23",
+        "memberCode": "Ruth-Coppinger.D.2014-05-23"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-04/pq_12",
+      "showAs": " 12. Deputy Ruth Coppinger asked the Taoiseach for an update on the programme for Government. [5973/26] ",
+      "house": {
+        "houseCode": "dail",
+        "chamberType": "house",
+        "houseNo": "34",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil"
+      },
+      "to": {
+        "showAs": "Taoiseach",
+        "uri": null,
+        "roleCode": null,
+        "roleType": null
+      },
+      "debateSection": {
+        "showAs": "Programme for Government",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-04/debate/dbsect_17",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-04/debate/mul@/dbsect_17.xml"
+          }
+        },
+        "debateSectionId": "dbsect_17"
+      }
+    }
+  },
+  {
+    "contextDate": "2026-02-04",
+    "question": {
+      "questionType": "oral",
+      "questionNumber": 13,
+      "date": "2026-02-04",
+      "by": {
+        "showAs": "Paul Lawless",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Lawless.D.2024-11-29",
+        "memberCode": "Paul-Lawless.D.2024-11-29"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-04/pq_13",
+      "showAs": " 13. Deputy Paul Lawless asked the Taoiseach for an update on the programme for Government. [5990/26] ",
+      "house": {
+        "houseCode": "dail",
+        "chamberType": "house",
+        "houseNo": "34",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil"
+      },
+      "to": {
+        "showAs": "Taoiseach",
+        "uri": null,
+        "roleCode": null,
+        "roleType": null
+      },
+      "debateSection": {
+        "showAs": "Programme for Government",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-04/debate/dbsect_17",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-04/debate/mul@/dbsect_17.xml"
+          }
+        },
+        "debateSectionId": "dbsect_17"
+      }
+    }
+  },
+  {
+    "contextDate": "2026-02-04",
+    "question": {
+      "questionType": "oral",
+      "questionNumber": 14,
+      "date": "2026-02-04",
+      "by": {
+        "showAs": "Richard Boyd Barrett",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Richard-Boyd-Barrett.D.2011-03-09",
+        "memberCode": "Richard-Boyd-Barrett.D.2011-03-09"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-04/pq_14",
+      "showAs": " 14. Deputy Richard Boyd Barrett asked the Taoiseach if he will report on progress on implementation of the programme for Government. [6013/26] ",
+      "house": {
+        "houseCode": "dail",
+        "chamberType": "house",
+        "houseNo": "34",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil"
+      },
+      "to": {
+        "showAs": "Taoiseach",
+        "uri": null,
+        "roleCode": null,
+        "roleType": null
+      },
+      "debateSection": {
+        "showAs": "Programme for Government",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-04/debate/dbsect_17",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-04/debate/mul@/dbsect_17.xml"
+          }
+        },
+        "debateSectionId": "dbsect_17"
+      }
+    }
+  },
+  {
+    "contextDate": "2026-02-04",
+    "question": {
+      "questionType": "oral",
+      "questionNumber": 15,
+      "date": "2026-02-04",
+      "by": {
+        "showAs": "Paul Murphy",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Murphy.D.2014-10-10",
+        "memberCode": "Paul-Murphy.D.2014-10-10"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-04/pq_15",
+      "showAs": " 15. Deputy Paul Murphy asked the Taoiseach if he will report on progress on the implementation of the programme for Government. [6016/26] ",
+      "house": {
+        "houseCode": "dail",
+        "chamberType": "house",
+        "houseNo": "34",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil"
+      },
+      "to": {
+        "showAs": "Taoiseach",
+        "uri": null,
+        "roleCode": null,
+        "roleType": null
+      },
+      "debateSection": {
+        "showAs": "Programme for Government",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-04/debate/dbsect_17",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-04/debate/mul@/dbsect_17.xml"
+          }
+        },
+        "debateSectionId": "dbsect_17"
+      }
+    }
+  },
+  {
+    "contextDate": "2026-02-04",
+    "question": {
+      "questionType": "oral",
+      "questionNumber": 16,
+      "date": "2026-02-04",
+      "by": {
+        "showAs": "Cian O'Callaghan",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Cian-O'Callaghan.D.2020-02-08",
+        "memberCode": "Cian-O'Callaghan.D.2020-02-08"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-04/pq_16",
+      "showAs": " 16. Deputy Cian O'Callaghan asked the Taoiseach for an update on the programme for Government. [6067/26] ",
+      "house": {
+        "houseCode": "dail",
+        "chamberType": "house",
+        "houseNo": "34",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil"
+      },
+      "to": {
+        "showAs": "Taoiseach",
+        "uri": null,
+        "roleCode": null,
+        "roleType": null
+      },
+      "debateSection": {
+        "showAs": "Programme for Government",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-04/debate/dbsect_17",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-04/debate/mul@/dbsect_17.xml"
+          }
+        },
+        "debateSectionId": "dbsect_17"
+      }
+    }
+  },
+  {
+    "contextDate": "2026-02-04",
+    "question": {
+      "questionType": "oral",
+      "questionNumber": 17,
+      "date": "2026-02-04",
+      "by": {
+        "showAs": "Jennifer Whitmore",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Jennifer-Whitmore.D.2020-02-08",
+        "memberCode": "Jennifer-Whitmore.D.2020-02-08"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-04/pq_17",
+      "showAs": " 17. Deputy Jennifer Whitmore asked the Taoiseach for an update on the programme for Government. [6093/26] ",
+      "house": {
+        "houseCode": "dail",
+        "chamberType": "house",
+        "houseNo": "34",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil"
+      },
+      "to": {
+        "showAs": "Taoiseach",
+        "uri": null,
+        "roleCode": null,
+        "roleType": null
+      },
+      "debateSection": {
+        "showAs": "Programme for Government",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-04/debate/dbsect_17",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-04/debate/mul@/dbsect_17.xml"
+          }
+        },
+        "debateSectionId": "dbsect_17"
+      }
+    }
+  },
+  {
+    "contextDate": "2026-02-04",
+    "question": {
+      "questionType": "oral",
+      "questionNumber": 18,
+      "date": "2026-02-04",
+      "by": {
+        "showAs": "Rory Hearne",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Rory-Hearne.D.2024-11-29",
+        "memberCode": "Rory-Hearne.D.2024-11-29"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-04/pq_18",
+      "showAs": " 18. Deputy Rory Hearne asked the Taoiseach for an update regarding the programme for Government. [6125/26] ",
+      "house": {
+        "houseCode": "dail",
+        "chamberType": "house",
+        "houseNo": "34",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil"
+      },
+      "to": {
+        "showAs": "Taoiseach",
+        "uri": null,
+        "roleCode": null,
+        "roleType": null
+      },
+      "debateSection": {
+        "showAs": "Programme for Government",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-04/debate/dbsect_17",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-04/debate/mul@/dbsect_17.xml"
+          }
+        },
+        "debateSectionId": "dbsect_17"
+      }
+    }
+  },
+  {
+    "contextDate": "2026-02-04",
+    "question": {
+      "questionType": "oral",
+      "questionNumber": 19,
+      "date": "2026-02-04",
+      "by": {
+        "showAs": "Liam Quaide",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Liam-Quaide.D.2024-11-29",
+        "memberCode": "Liam-Quaide.D.2024-11-29"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-04/pq_19",
+      "showAs": " 19. Deputy Liam Quaide asked the Taoiseach for an update on the programme for Government. [7328/26] ",
+      "house": {
+        "houseCode": "dail",
+        "chamberType": "house",
+        "houseNo": "34",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil"
+      },
+      "to": {
+        "showAs": "Taoiseach",
+        "uri": null,
+        "roleCode": null,
+        "roleType": null
+      },
+      "debateSection": {
+        "showAs": "Programme for Government",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-04/debate/dbsect_17",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-04/debate/mul@/dbsect_17.xml"
+          }
+        },
+        "debateSectionId": "dbsect_17"
+      }
+    }
+  },
+  {
+    "contextDate": "2026-02-04",
+    "question": {
+      "questionType": "oral",
+      "questionNumber": 20,
+      "date": "2026-02-04",
+      "by": {
+        "showAs": "Peter 'Chap' Cleere",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Peter-'Chap'-Cleere.D.2024-11-29",
+        "memberCode": "Peter-'Chap'-Cleere.D.2024-11-29"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-04/pq_20",
+      "showAs": " 20. Deputy Peter 'Chap' Cleere asked the Taoiseach for an update on the programme for Government. [7692/26] ",
+      "house": {
+        "houseCode": "dail",
+        "chamberType": "house",
+        "houseNo": "34",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil"
+      },
+      "to": {
+        "showAs": "Taoiseach",
+        "uri": null,
+        "roleCode": null,
+        "roleType": null
+      },
+      "debateSection": {
+        "showAs": "Programme for Government",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-04/debate/dbsect_17",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-04/debate/mul@/dbsect_17.xml"
+          }
+        },
+        "debateSectionId": "dbsect_17"
+      }
+    }
+  },
+  {
+    "contextDate": "2026-02-04",
+    "question": {
+      "questionType": "oral",
+      "questionNumber": 21,
+      "date": "2026-02-04",
+      "by": {
+        "showAs": "Jennifer Whitmore",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Jennifer-Whitmore.D.2020-02-08",
+        "memberCode": "Jennifer-Whitmore.D.2020-02-08"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-04/pq_21",
+      "showAs": " 21. Deputy Jennifer Whitmore asked the Taoiseach for an update regarding theprogramme for Government. [8090/26] ",
+      "house": {
+        "houseCode": "dail",
+        "chamberType": "house",
+        "houseNo": "34",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil"
+      },
+      "to": {
+        "showAs": "Taoiseach",
+        "uri": null,
+        "roleCode": null,
+        "roleType": null
+      },
+      "debateSection": {
+        "showAs": "Programme for Government",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-04/debate/dbsect_17",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-04/debate/mul@/dbsect_17.xml"
+          }
+        },
+        "debateSectionId": "dbsect_17"
+      }
+    }
+  },
+  {
+    "contextDate": "2026-02-04",
+    "question": {
+      "questionType": "oral",
+      "questionNumber": 22,
+      "date": "2026-02-04",
+      "by": {
+        "showAs": "Conor D McGuinness",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Conor-D-McGuinness.D.2024-11-29",
+        "memberCode": "Conor-D-McGuinness.D.2024-11-29"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-04/pq_22",
+      "showAs": " 22. Deputy Conor D. McGuinness asked the Taoiseach for an update regarding the programme for Government. [8196/26] ",
+      "house": {
+        "houseCode": "dail",
+        "chamberType": "house",
+        "houseNo": "34",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil"
+      },
+      "to": {
+        "showAs": "Taoiseach",
+        "uri": null,
+        "roleCode": null,
+        "roleType": null
+      },
+      "debateSection": {
+        "showAs": "Programme for Government",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-04/debate/dbsect_17",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-04/debate/mul@/dbsect_17.xml"
+          }
+        },
+        "debateSectionId": "dbsect_17"
+      }
+    }
+  }
+]

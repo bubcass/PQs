@@ -1,1 +1,3362 @@
-[]
+[
+  {
+    "question": {
+      "debateSection": {
+        "showAs": "Disability Issues",
+        "debateSectionId": "dbsect_63",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/mul@/dbsect_63.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/dbsect_63"
+      },
+      "date": "2026-02-11",
+      "questionNumber": 1,
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Taoiseach",
+        "uri": null
+      },
+      "questionType": "written",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-11/pq_1",
+      "showAs": " 1. Deputy David Cullinane asked the Taoiseach the progress made by the sub-group convened to progress the National Disability Inclusion Strategy and the NDIS Transport Working Group proposals for an improved disabled drivers and disabled passengers scheme; his views on the report submitted to him for consideration; if this will or has been published; when a new scheme will be implemented; and the Minister to which he has assigned responsibility for this. [10735/26] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "by": {
+        "showAs": "David Cullinane",
+        "memberCode": "David-Cullinane.S.2011-05-25",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/David-Cullinane.S.2011-05-25"
+      }
+    },
+    "contextDate": "2026-02-11"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "showAs": "Undocumented Irish in the USA",
+        "debateSectionId": "dbsect_64",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/mul@/dbsect_64.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/dbsect_64"
+      },
+      "date": "2026-02-11",
+      "questionNumber": 2,
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Foreign",
+        "uri": null
+      },
+      "questionType": "written",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-11/pq_2",
+      "showAs": " 2. Deputy Michael Cahill asked the Minister for Foreign Affairs and Trade the steps being taken to assist the undocumented Irish in the United States; and if she will make a statement on the matter. [10911/26] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "by": {
+        "showAs": "Michael Cahill",
+        "memberCode": "Michael-Cahill.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Michael-Cahill.D.2024-11-29"
+      }
+    },
+    "contextDate": "2026-02-11"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "showAs": "Waste Management",
+        "debateSectionId": "dbsect_66",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/mul@/dbsect_66.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/dbsect_66"
+      },
+      "date": "2026-02-11",
+      "questionNumber": 3,
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Climate",
+        "uri": null
+      },
+      "questionType": "written",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-11/pq_3",
+      "showAs": " 3. Deputy Liam Quaide asked the Minister for Climate, Energy and the Environment his plans to introduce a waste regulator for the re-municipalisation of domestic waste collection; and if he will make a statement on the matter. [10519/26] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "by": {
+        "showAs": "Liam Quaide",
+        "memberCode": "Liam-Quaide.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Liam-Quaide.D.2024-11-29"
+      }
+    },
+    "contextDate": "2026-02-11"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "showAs": "Waste Management",
+        "debateSectionId": "dbsect_67",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/mul@/dbsect_67.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/dbsect_67"
+      },
+      "date": "2026-02-11",
+      "questionNumber": 4,
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Climate",
+        "uri": null
+      },
+      "questionType": "written",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-11/pq_4",
+      "showAs": " 4. Deputy Richard Boyd Barrett asked the Minister for Climate, Energy and the Environment whether his Department is aware of reports that many ostensibly recycled plastics go to landfill or are incinerated (details supplied), and in light of this the data he has available regarding the volume of plastics that are actually recycled after collection through the deposit return scheme; and the monitoring systems which are in place to ensure that this data is accurate. [10535/26] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "by": {
+        "showAs": "Richard Boyd Barrett",
+        "memberCode": "Richard-Boyd-Barrett.D.2011-03-09",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Richard-Boyd-Barrett.D.2011-03-09"
+      }
+    },
+    "contextDate": "2026-02-11"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "showAs": "Seaweed Harvesting",
+        "debateSectionId": "dbsect_68",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/mul@/dbsect_68.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/dbsect_68"
+      },
+      "date": "2026-02-11",
+      "questionNumber": 5,
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Climate",
+        "uri": null
+      },
+      "questionType": "written",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-11/pq_5",
+      "showAs": " 5. Deputy Pádraig Mac Lochlainn asked the Minister for Climate, Energy and the Environment to outline the Government’s policy approach to sustainable seaweed harvesting as it arises under the Marine Planning Policy Statement and the National Marine Planning Framework; the way in which this policy approach is intended to guide decision-making across relevant departments and agencies; and if he will make a statement on the matter. [10676/26] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "by": {
+        "showAs": "Pádraig Mac Lochlainn",
+        "memberCode": "Pádraig-MacLochlainn.D.2011-03-09",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Pádraig-MacLochlainn.D.2011-03-09"
+      }
+    },
+    "contextDate": "2026-02-11"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "showAs": "Biotechnology Industry",
+        "debateSectionId": "dbsect_69",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/mul@/dbsect_69.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/dbsect_69"
+      },
+      "date": "2026-02-11",
+      "questionNumber": 6,
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Climate",
+        "uri": null
+      },
+      "questionType": "written",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-11/pq_6",
+      "showAs": " 6. Deputy John Paul O'Shea asked the Minister for Climate, Energy and the Environment when the biomethane sustainability charter will be published; and if he will make a statement on the matter. [10916/26] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "by": {
+        "showAs": "John Paul O'Shea",
+        "memberCode": "John-Paul-O'Shea.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/John-Paul-O'Shea.D.2024-11-29"
+      }
+    },
+    "contextDate": "2026-02-11"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "showAs": "Biotechnology Industry",
+        "debateSectionId": "dbsect_69",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/mul@/dbsect_69.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/dbsect_69"
+      },
+      "date": "2026-02-11",
+      "questionNumber": 7,
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Climate",
+        "uri": null
+      },
+      "questionType": "written",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-11/pq_7",
+      "showAs": " 7. Deputy John Paul O'Shea asked the Minister for Climate, Energy and the Environment when the communications strategy as part of the National Biomethane Strategy will be published; and if he will make a statement on the matter. [10917/26] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "by": {
+        "showAs": "John Paul O'Shea",
+        "memberCode": "John-Paul-O'Shea.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/John-Paul-O'Shea.D.2024-11-29"
+      }
+    },
+    "contextDate": "2026-02-11"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "showAs": "Biotechnology Industry",
+        "debateSectionId": "dbsect_69",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/mul@/dbsect_69.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/dbsect_69"
+      },
+      "date": "2026-02-11",
+      "questionNumber": 8,
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Climate",
+        "uri": null
+      },
+      "questionType": "written",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-11/pq_8",
+      "showAs": " 8. Deputy John Paul O'Shea asked the Minister for Climate, Energy and the Environment when the online information hub as part of the National Biomethane Strategy will be made available to the public; and if he will make a statement on the matter. [10918/26] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "by": {
+        "showAs": "John Paul O'Shea",
+        "memberCode": "John-Paul-O'Shea.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/John-Paul-O'Shea.D.2024-11-29"
+      }
+    },
+    "contextDate": "2026-02-11"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "showAs": "Energy Policy",
+        "debateSectionId": "dbsect_70",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/mul@/dbsect_70.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/dbsect_70"
+      },
+      "date": "2026-02-11",
+      "questionNumber": 9,
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Climate",
+        "uri": null
+      },
+      "questionType": "written",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-11/pq_9",
+      "showAs": " 9. Deputy Pearse Doherty asked the Minister for Climate, Energy and the Environment the estimated cost of providing a €50 energy credit to all households; and if he will make a statement on the matter. [11056/26] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "by": {
+        "showAs": "Pearse Doherty",
+        "memberCode": "Pearse-Doherty.S.2007-07-23",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Pearse-Doherty.S.2007-07-23"
+      }
+    },
+    "contextDate": "2026-02-11"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "showAs": "Departmental Data",
+        "debateSectionId": "dbsect_71",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/mul@/dbsect_71.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/dbsect_71"
+      },
+      "date": "2026-02-11",
+      "questionNumber": 10,
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Transport",
+        "uri": null
+      },
+      "questionType": "written",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-11/pq_10",
+      "showAs": " 10. Deputy Peadar Tóibín asked the Minister for Transport the number of drivers who have been disqualified from driving in each of the past seven years; the number of those disqualified who did not hold a licence for each of those years; of the number of persons who did hold a licence, the number each year who surrendered their licence within the two weeks required by law; the number of disqualifications been given to those who are already disqualified in each year; and if any drivers have received two disqualifications, three disqualifications or more. [10750/26] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "by": {
+        "showAs": "Peadar Tóibín",
+        "memberCode": "Peadar-Tóibín.D.2011-03-09",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Peadar-Tóibín.D.2011-03-09"
+      }
+    },
+    "contextDate": "2026-02-11"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "showAs": "Cycling Policy",
+        "debateSectionId": "dbsect_72",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/mul@/dbsect_72.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/dbsect_72"
+      },
+      "date": "2026-02-11",
+      "questionNumber": 11,
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Transport",
+        "uri": null
+      },
+      "questionType": "written",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-11/pq_11",
+      "showAs": " 11. Deputy Ken O'Flynn asked the Minister for Transport whether he has received formal proposals from the Minister for Transport regarding the prohibition or restriction of scrambler bikes in public places; when these proposals will be published; and the expected commencement date of any resulting regulations. [10846/26] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "by": {
+        "showAs": "Ken O'Flynn",
+        "memberCode": "Ken-O'Flynn.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ken-O'Flynn.D.2024-11-29"
+      }
+    },
+    "contextDate": "2026-02-11"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "showAs": "Departmental Funding",
+        "debateSectionId": "dbsect_73",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/mul@/dbsect_73.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/dbsect_73"
+      },
+      "date": "2026-02-11",
+      "questionNumber": 12,
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Transport",
+        "uri": null
+      },
+      "questionType": "written",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-11/pq_12",
+      "showAs": " 12. Deputy Shónagh Ní Raghallaigh asked the Minister for Transport if any funding has been formally approved for the second Newbridge bridge; and if he will make a statement on the matter. [10969/26] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "by": {
+        "showAs": "Shónagh Ní Raghallaigh",
+        "memberCode": "Shónagh-Ní-Raghallaigh.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Shónagh-Ní-Raghallaigh.D.2024-11-29"
+      }
+    },
+    "contextDate": "2026-02-11"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "showAs": "Departmental Funding",
+        "debateSectionId": "dbsect_73",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/mul@/dbsect_73.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/dbsect_73"
+      },
+      "date": "2026-02-11",
+      "questionNumber": 13,
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Transport",
+        "uri": null
+      },
+      "questionType": "written",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-11/pq_13",
+      "showAs": " 13. Deputy Shónagh Ní Raghallaigh asked the Minister for Transport the position regarding the second Newbridge bridge project; and if he will make a statement on the matter. [10970/26] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "by": {
+        "showAs": "Shónagh Ní Raghallaigh",
+        "memberCode": "Shónagh-Ní-Raghallaigh.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Shónagh-Ní-Raghallaigh.D.2024-11-29"
+      }
+    },
+    "contextDate": "2026-02-11"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "showAs": "Tax Yield",
+        "debateSectionId": "dbsect_74",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/mul@/dbsect_74.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/dbsect_74"
+      },
+      "date": "2026-02-11",
+      "questionNumber": 14,
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Transport",
+        "uri": null
+      },
+      "questionType": "written",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-11/pq_14",
+      "showAs": " 14. Deputy Pearse Doherty asked the Minister for Transport the estimated cost of scrapping the unfair surcharge on people paying motor tax in instalments; and if he will make a statement on the matter. [11059/26] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "by": {
+        "showAs": "Pearse Doherty",
+        "memberCode": "Pearse-Doherty.S.2007-07-23",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Pearse-Doherty.S.2007-07-23"
+      }
+    },
+    "contextDate": "2026-02-11"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "showAs": "Cycling Policy",
+        "debateSectionId": "dbsect_72",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/mul@/dbsect_72.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/dbsect_72"
+      },
+      "date": "2026-02-11",
+      "questionNumber": 15,
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Transport",
+        "uri": null
+      },
+      "questionType": "written",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-11/pq_15",
+      "showAs": " 15. Deputy Ken O'Flynn asked the Minister for Transport whether his Department has reviewed the adequacy of existing statutory powers available under current legislation to address the illegal use of scrambler bikes and quad bikes in residential and urban areas; whether any legislative gaps or limitations have been identified; and whether proposals for legislative amendment or consolidation are under development. [11447/26] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "by": {
+        "showAs": "Ken O'Flynn",
+        "memberCode": "Ken-O'Flynn.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ken-O'Flynn.D.2024-11-29"
+      }
+    },
+    "contextDate": "2026-02-11"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "showAs": "Transport Infrastructure Ireland",
+        "debateSectionId": "dbsect_75",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/mul@/dbsect_75.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/dbsect_75"
+      },
+      "date": "2026-02-11",
+      "questionNumber": 16,
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Transport",
+        "uri": null
+      },
+      "questionType": "written",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-11/pq_16",
+      "showAs": " 16. Deputy David Cullinane asked the Minister for Transport the total funding delivered through Transport Infrastructure Ireland for major capital works, by project, by county in each of the years 2021 to 2025, inclusive, in tabular form; the total for each county for each year and across the five year period. [10545/26] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "by": {
+        "showAs": "David Cullinane",
+        "memberCode": "David-Cullinane.S.2011-05-25",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/David-Cullinane.S.2011-05-25"
+      }
+    },
+    "contextDate": "2026-02-11"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "showAs": "Departmental Data",
+        "debateSectionId": "dbsect_76",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/mul@/dbsect_76.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/dbsect_76"
+      },
+      "date": "2026-02-11",
+      "questionNumber": 17,
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Transport",
+        "uri": null
+      },
+      "questionType": "written",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-11/pq_17",
+      "showAs": " 17. Deputy Mark Ward asked the Minister for Transport the number of accidents recorded at each junction of the M50, northbound and southbound in 2025; and if he will make a statement on the matter. [10550/26] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "by": {
+        "showAs": "Mark Ward",
+        "memberCode": "Mark-Ward.D.2019-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Mark-Ward.D.2019-11-29"
+      }
+    },
+    "contextDate": "2026-02-11"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "showAs": "Bus Services",
+        "debateSectionId": "dbsect_77",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/mul@/dbsect_77.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/dbsect_77"
+      },
+      "date": "2026-02-11",
+      "questionNumber": 18,
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Transport",
+        "uri": null
+      },
+      "questionType": "written",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-11/pq_18",
+      "showAs": " 18. Deputy Joe Neville asked the Minister for Transport if his Department will provide a timeline of when the new bus corridor on the M4 will be deemed road safe and be used; and if he will make a statement on the matter. [10554/26] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "by": {
+        "showAs": "Joe Neville",
+        "memberCode": "Joe-Neville.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Joe-Neville.D.2024-11-29"
+      }
+    },
+    "contextDate": "2026-02-11"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "showAs": "Road Safety",
+        "debateSectionId": "dbsect_78",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/mul@/dbsect_78.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/dbsect_78"
+      },
+      "date": "2026-02-11",
+      "questionNumber": 19,
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Transport",
+        "uri": null
+      },
+      "questionType": "written",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-11/pq_19",
+      "showAs": " 19. Deputy Barry Ward asked the Minister for Transport the position regarding plans to make helmets mandatory for all cyclists on public roads; and if he will make a statement on the matter. [10624/26] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "by": {
+        "showAs": "Barry Ward",
+        "memberCode": "Barry-Ward.S.2020-03-30",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Barry-Ward.S.2020-03-30"
+      }
+    },
+    "contextDate": "2026-02-11"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "showAs": "Road Safety",
+        "debateSectionId": "dbsect_78",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/mul@/dbsect_78.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/dbsect_78"
+      },
+      "date": "2026-02-11",
+      "questionNumber": 20,
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Transport",
+        "uri": null
+      },
+      "questionType": "written",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-11/pq_20",
+      "showAs": " 20. Deputy Barry Ward asked the Minister for Transport the position regarding plans to make his-vis jackets mandatory for all cyclists on public roads; and if he will make a statement on the matter. [10625/26] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "by": {
+        "showAs": "Barry Ward",
+        "memberCode": "Barry-Ward.S.2020-03-30",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Barry-Ward.S.2020-03-30"
+      }
+    },
+    "contextDate": "2026-02-11"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "showAs": "Road Safety",
+        "debateSectionId": "dbsect_78",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/mul@/dbsect_78.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/dbsect_78"
+      },
+      "date": "2026-02-11",
+      "questionNumber": 21,
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Transport",
+        "uri": null
+      },
+      "questionType": "written",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-11/pq_21",
+      "showAs": " 21. Deputy Barry Ward asked the Minister for Transport if his attention has been drawn to the experience in Australia whereby the introduction of mandatory helmets and hi-vis jackets for cyclists led to an overall reduction in the number of cyclists; the actions he will take to ensure this is not the case if that policy is replicated in Ireland; and if he will make a statement on the matter. [10626/26] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "by": {
+        "showAs": "Barry Ward",
+        "memberCode": "Barry-Ward.S.2020-03-30",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Barry-Ward.S.2020-03-30"
+      }
+    },
+    "contextDate": "2026-02-11"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "showAs": "Road Safety",
+        "debateSectionId": "dbsect_78",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/mul@/dbsect_78.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/dbsect_78"
+      },
+      "date": "2026-02-11",
+      "questionNumber": 22,
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Transport",
+        "uri": null
+      },
+      "questionType": "written",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-11/pq_22",
+      "showAs": " 22. Deputy Barry Ward asked the Minister for Transport if his attention has been drawn to concerns of cycling groups in relation to the potential unintended consequences of the introduction of mandatory helmets and hi-vis jackets for cyclists; and if he will make a statement on the matter. [10627/26] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "by": {
+        "showAs": "Barry Ward",
+        "memberCode": "Barry-Ward.S.2020-03-30",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Barry-Ward.S.2020-03-30"
+      }
+    },
+    "contextDate": "2026-02-11"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "showAs": "Road Safety",
+        "debateSectionId": "dbsect_78",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/mul@/dbsect_78.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/dbsect_78"
+      },
+      "date": "2026-02-11",
+      "questionNumber": 23,
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Transport",
+        "uri": null
+      },
+      "questionType": "written",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-11/pq_23",
+      "showAs": " 23. Deputy Barry Ward asked the Minister for Transport if he will meet with cycling advocacy groups as part of the review of the implementing of mandatory helmets and hi-vis jackets for cyclists; and if he will make a statement on the matter. [10628/26] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "by": {
+        "showAs": "Barry Ward",
+        "memberCode": "Barry-Ward.S.2020-03-30",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Barry-Ward.S.2020-03-30"
+      }
+    },
+    "contextDate": "2026-02-11"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "showAs": "Road Safety",
+        "debateSectionId": "dbsect_78",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/mul@/dbsect_78.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/dbsect_78"
+      },
+      "date": "2026-02-11",
+      "questionNumber": 24,
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Transport",
+        "uri": null
+      },
+      "questionType": "written",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-11/pq_24",
+      "showAs": " 24. Deputy Barry Ward asked the Minister for Transport if his attention has been drawn to claims that the introduction of mandatory helmets and hi-vis jackets for cyclists will shift the blame for the cause of road accidents away from dangerous drivers; and if he will make a statement on the matter. [10629/26] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "by": {
+        "showAs": "Barry Ward",
+        "memberCode": "Barry-Ward.S.2020-03-30",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Barry-Ward.S.2020-03-30"
+      }
+    },
+    "contextDate": "2026-02-11"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "showAs": "Road Safety",
+        "debateSectionId": "dbsect_78",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/mul@/dbsect_78.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/dbsect_78"
+      },
+      "date": "2026-02-11",
+      "questionNumber": 25,
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Transport",
+        "uri": null
+      },
+      "questionType": "written",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-11/pq_25",
+      "showAs": " 25. Deputy Barry Ward asked the Minister for Transport if he has considered international comparisons in relation to the review of implementing of mandatory helmets and hi-vis jackets for cyclists; and if he will make a statement on the matter. [10630/26] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "by": {
+        "showAs": "Barry Ward",
+        "memberCode": "Barry-Ward.S.2020-03-30",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Barry-Ward.S.2020-03-30"
+      }
+    },
+    "contextDate": "2026-02-11"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "showAs": "Road Safety",
+        "debateSectionId": "dbsect_78",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/mul@/dbsect_78.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/dbsect_78"
+      },
+      "date": "2026-02-11",
+      "questionNumber": 26,
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Transport",
+        "uri": null
+      },
+      "questionType": "written",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-11/pq_26",
+      "showAs": " 26. Deputy Barry Ward asked the Minister for Transport the criteria under review as part of his consideration in relation to implementing mandatory helmets and hi-vis jackets for cyclists; and if he will make a statement on the matter. [10631/26] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "by": {
+        "showAs": "Barry Ward",
+        "memberCode": "Barry-Ward.S.2020-03-30",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Barry-Ward.S.2020-03-30"
+      }
+    },
+    "contextDate": "2026-02-11"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "showAs": "Departmental Inquiries",
+        "debateSectionId": "dbsect_80",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/mul@/dbsect_80.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/dbsect_80"
+      },
+      "date": "2026-02-11",
+      "questionNumber": 27,
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Transport",
+        "uri": null
+      },
+      "questionType": "written",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-11/pq_27",
+      "showAs": " 27. Deputy Ciarán Ahern asked the Minister for Transport the details of the settlement in a dispute between an individual and their former employer (details supplied); and if he will make a statement on the matter. [10642/26] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "by": {
+        "showAs": "Ciarán Ahern",
+        "memberCode": "Ciarán-Ahern.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ciarán-Ahern.D.2024-11-29"
+      }
+    },
+    "contextDate": "2026-02-11"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "showAs": "Road Safety",
+        "debateSectionId": "dbsect_78",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/mul@/dbsect_78.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/dbsect_78"
+      },
+      "date": "2026-02-11",
+      "questionNumber": 28,
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Transport",
+        "uri": null
+      },
+      "questionType": "written",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-11/pq_28",
+      "showAs": " 28. Deputy Naoise Ó Cearúil asked the Minister for Transport whether his Department is considering the introduction of mandatory helmet or high-visibility clothing requirements for users of e-bikes or e-scooters; if an assessment has been carried out on the potential safety, enforcement or behavioural impacts of such measures; and if he will make a statement on the matter. [10645/26] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "by": {
+        "showAs": "Naoise Ó Cearúil",
+        "memberCode": "Naoise-Ó-Cearúil.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Naoise-Ó-Cearúil.D.2024-11-29"
+      }
+    },
+    "contextDate": "2026-02-11"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "showAs": "Departmental Inquiries",
+        "debateSectionId": "dbsect_80",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/mul@/dbsect_80.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/dbsect_80"
+      },
+      "date": "2026-02-11",
+      "questionNumber": 29,
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Transport",
+        "uri": null
+      },
+      "questionType": "written",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-11/pq_29",
+      "showAs": " 29. Deputy Ken O'Flynn asked the Minister for Transport further to Parliamentary Questions Nos. 249 and 250 of 4 February 2026, the exact date on which he intends to bring the heads of the Bill addressing the Dublin Airport passenger cap to Government for approval; the Cabinet meeting at which approval of the general scheme is expected to be sought; the month and year in which publication of the Bill is expected; the earliest date on which the legislation is expected to be enacted, based on the current drafting and legislative timetable; and if the proposed legislation will expressly override or disapply the existing passenger cap planning condition and set out the statutory position regarding the consideration of that condition by the Irish Aviation Authority in future slot allocation decisions.  [10683/26] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "by": {
+        "showAs": "Ken O'Flynn",
+        "memberCode": "Ken-O'Flynn.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ken-O'Flynn.D.2024-11-29"
+      }
+    },
+    "contextDate": "2026-02-11"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "showAs": "Departmental Policies",
+        "debateSectionId": "dbsect_81",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/mul@/dbsect_81.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/dbsect_81"
+      },
+      "date": "2026-02-11",
+      "questionNumber": 30,
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Transport",
+        "uri": null
+      },
+      "questionType": "written",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-11/pq_30",
+      "showAs": " 30. Deputy Tom Brabazon asked the Minister for Transport the actions his Department is taking to prevent illegal sulky racing; and if his attention has been drawn to a recent sulky race in north Dublin which resulted in the death of a horse. [10687/26] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "by": {
+        "showAs": "Tom Brabazon",
+        "memberCode": "Tom-Brabazon.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tom-Brabazon.D.2024-11-29"
+      }
+    },
+    "contextDate": "2026-02-11"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "showAs": "National Transport Authority",
+        "debateSectionId": "dbsect_82",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/mul@/dbsect_82.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/dbsect_82"
+      },
+      "date": "2026-02-11",
+      "questionNumber": 31,
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Transport",
+        "uri": null
+      },
+      "questionType": "written",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-11/pq_31",
+      "showAs": " 31. Deputy Tom Brabazon asked the Minister for Transport if the NTA have plans to move the H1 bus terminal to Hawkins Street, Dublin 2. [10803/26] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "by": {
+        "showAs": "Tom Brabazon",
+        "memberCode": "Tom-Brabazon.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tom-Brabazon.D.2024-11-29"
+      }
+    },
+    "contextDate": "2026-02-11"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "showAs": "Road Safety",
+        "debateSectionId": "dbsect_78",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/mul@/dbsect_78.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/dbsect_78"
+      },
+      "date": "2026-02-11",
+      "questionNumber": 32,
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Transport",
+        "uri": null
+      },
+      "questionType": "written",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-11/pq_32",
+      "showAs": " 32. Deputy Barry Heneghan asked the Minister for Transport whether he has considered the potential negative impact on everyday cycling, particularly for children and families, of any proposal to make the wearing of high visibility clothing and helmets mandatory for all cyclists; whether any assessment has been carried out on the likely effect such measures could have on cycling participation and uptake; and if he will make a statement on the matter. [10806/26] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "by": {
+        "showAs": "Barry Heneghan",
+        "memberCode": "Barry-Heneghan.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Barry-Heneghan.D.2024-11-29"
+      }
+    },
+    "contextDate": "2026-02-11"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "showAs": "Dublin Bus",
+        "debateSectionId": "dbsect_83",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/mul@/dbsect_83.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/dbsect_83"
+      },
+      "date": "2026-02-11",
+      "questionNumber": 33,
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Transport",
+        "uri": null
+      },
+      "questionType": "written",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-11/pq_33",
+      "showAs": " 33. Deputy Barry Heneghan asked the Minister for Transport if he will outline the immediate measures being taken to address the ongoing reliability issues on Dublin Bus Route 15, particularly on the Clongriffin–city centre section during morning peak; if he will provide a clear timeframe for improvements ahead of the BusConnects Clongriffin to city centre scheme expected to go to procurement in 2026; and if he will make a statement on the matter. [10807/26] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "by": {
+        "showAs": "Barry Heneghan",
+        "memberCode": "Barry-Heneghan.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Barry-Heneghan.D.2024-11-29"
+      }
+    },
+    "contextDate": "2026-02-11"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "showAs": "Insurance Levy",
+        "debateSectionId": "dbsect_84",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/mul@/dbsect_84.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/dbsect_84"
+      },
+      "date": "2026-02-11",
+      "questionNumber": 34,
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Transport",
+        "uri": null
+      },
+      "questionType": "written",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-11/pq_34",
+      "showAs": " 34. Deputy Paul Lawless asked the Minister for Transport if he is aware of the difficulties faced by 18–20-year-old licence holders, including fully qualified rigid truck drivers and apprentices, in obtaining insurance cover for commercial or recovery vehicles despite holding all required driving qualifications and certificates; if he will engage with the insurance industry to remove age-based barriers that prevent young people from entering trades and transport-related apprenticeships; and if he will make a statement on the matter. [10865/26] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "by": {
+        "showAs": "Paul Lawless",
+        "memberCode": "Paul-Lawless.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Lawless.D.2024-11-29"
+      }
+    },
+    "contextDate": "2026-02-11"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "showAs": "Departmental Communications",
+        "debateSectionId": "dbsect_85",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/mul@/dbsect_85.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/dbsect_85"
+      },
+      "date": "2026-02-11",
+      "questionNumber": 35,
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Transport",
+        "uri": null
+      },
+      "questionType": "written",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-11/pq_35",
+      "showAs": " 35. Deputy Sinéad Gibney asked the Minister for Transport whether his Department received any communication from the US government, or was aware of flights (details supplied) deporting Palestinians from the US to the West Bank which refuelled at Shannon Airport in January 2026; and if he will make a statement on the matter. [10866/26] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "by": {
+        "showAs": "Sinéad Gibney",
+        "memberCode": "Sinéad-Gibney.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Sinéad-Gibney.D.2024-11-29"
+      }
+    },
+    "contextDate": "2026-02-11"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "showAs": "Departmental Contracts",
+        "debateSectionId": "dbsect_86",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/mul@/dbsect_86.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/dbsect_86"
+      },
+      "date": "2026-02-11",
+      "questionNumber": 36,
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Transport",
+        "uri": null
+      },
+      "questionType": "written",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-11/pq_36",
+      "showAs": " 36. Deputy Pa Daly asked the Minister for Transport the number of separate bids there were for the contract for contactless payments; the dates on which these bids were received in, tabular form; and if he will make a statement on the matter. [10875/26] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "by": {
+        "showAs": "Pa Daly",
+        "memberCode": "Pa-Daly.D.2020-02-08",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Pa-Daly.D.2020-02-08"
+      }
+    },
+    "contextDate": "2026-02-11"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "showAs": "Departmental Projects",
+        "debateSectionId": "dbsect_87",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/mul@/dbsect_87.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/dbsect_87"
+      },
+      "date": "2026-02-11",
+      "questionNumber": 37,
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Transport",
+        "uri": null
+      },
+      "questionType": "written",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-11/pq_37",
+      "showAs": " 37. Deputy Pa Daly asked the Minister for Transport the timeline for contactless payments outside of Dublin; and if he will make a statement on the matter. [10876/26] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "by": {
+        "showAs": "Pa Daly",
+        "memberCode": "Pa-Daly.D.2020-02-08",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Pa-Daly.D.2020-02-08"
+      }
+    },
+    "contextDate": "2026-02-11"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "showAs": "Departmental Inquiries",
+        "debateSectionId": "dbsect_80",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/mul@/dbsect_80.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/dbsect_80"
+      },
+      "date": "2026-02-11",
+      "questionNumber": 38,
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Transport",
+        "uri": null
+      },
+      "questionType": "written",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-11/pq_38",
+      "showAs": " 38. Deputy Louis O'Hara asked the Minister for Transport the information his Department was provided during the process of forming a settlement deal for the outgoing CEO of the State-owned Dublin Airport Authority, which he is the sole official shareholder of; and if he will make a statement on the matter. [10879/26] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "by": {
+        "showAs": "Louis O'Hara",
+        "memberCode": "Louis-O'Hara.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Louis-O'Hara.D.2024-11-29"
+      }
+    },
+    "contextDate": "2026-02-11"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "showAs": "Departmental Inquiries",
+        "debateSectionId": "dbsect_80",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/mul@/dbsect_80.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/dbsect_80"
+      },
+      "date": "2026-02-11",
+      "questionNumber": 39,
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Transport",
+        "uri": null
+      },
+      "questionType": "written",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-11/pq_39",
+      "showAs": " 39. Deputy Louis O'Hara asked the Minister for Transport given his role as the sole official shareholder of the State-owned Dublin Airport Authority, to confirm the amount of the exit payment to the outgoing CEO of the Dublin Airport Authority as part of the DAA’s recent settlement deal; and if he will make a statement on the matter. [10880/26] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "by": {
+        "showAs": "Louis O'Hara",
+        "memberCode": "Louis-O'Hara.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Louis-O'Hara.D.2024-11-29"
+      }
+    },
+    "contextDate": "2026-02-11"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "showAs": "Departmental Inquiries",
+        "debateSectionId": "dbsect_80",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/mul@/dbsect_80.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/dbsect_80"
+      },
+      "date": "2026-02-11",
+      "questionNumber": 40,
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Transport",
+        "uri": null
+      },
+      "questionType": "written",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-11/pq_40",
+      "showAs": " 40. Deputy Louis O'Hara asked the Minister for Transport given his role as the sole official shareholder of the State-owned Dublin Airport Authority, whether he had to approve or sanction the exit payment to the outgoing CEO of the Dublin Airport Authority as part of the DAA’s recent settlement deal; if not, the rationale for same; and if he will make a statement on the matter. [10881/26] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "by": {
+        "showAs": "Louis O'Hara",
+        "memberCode": "Louis-O'Hara.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Louis-O'Hara.D.2024-11-29"
+      }
+    },
+    "contextDate": "2026-02-11"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "showAs": "Departmental Inquiries",
+        "debateSectionId": "dbsect_80",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/mul@/dbsect_80.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/dbsect_80"
+      },
+      "date": "2026-02-11",
+      "questionNumber": 41,
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Transport",
+        "uri": null
+      },
+      "questionType": "written",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-11/pq_41",
+      "showAs": " 41. Deputy Louis O'Hara asked the Minister for Transport given his role as the sole official shareholder of the State-owned Dublin Airport Authority, whether he will publish the terms and details of the recent settlement deal with the outgoing CEO; if not, the rationale for not providing this information; and if he will make a statement on the matter. [10882/26] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "by": {
+        "showAs": "Louis O'Hara",
+        "memberCode": "Louis-O'Hara.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Louis-O'Hara.D.2024-11-29"
+      }
+    },
+    "contextDate": "2026-02-11"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "showAs": "Departmental Inquiries",
+        "debateSectionId": "dbsect_80",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/mul@/dbsect_80.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/dbsect_80"
+      },
+      "date": "2026-02-11",
+      "questionNumber": 42,
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Transport",
+        "uri": null
+      },
+      "questionType": "written",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-11/pq_42",
+      "showAs": " 42. Deputy Louis O'Hara asked the Minister for Transport given his role as the sole official shareholder of the State-owned Dublin Airport Authority, whether the Department of Public Expenditure; Infrastructure; Public Service Reform, and Digitalisation, Code of Practice for the Governance of State Bodies (details supplied) applies to the recent settlement deal with the outgoing DAA CEO; if not, the rationale for not providing this information; and if he will make a statement on the matter. [10883/26] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "by": {
+        "showAs": "Louis O'Hara",
+        "memberCode": "Louis-O'Hara.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Louis-O'Hara.D.2024-11-29"
+      }
+    },
+    "contextDate": "2026-02-11"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "showAs": "Departmental Funding",
+        "debateSectionId": "dbsect_88",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/mul@/dbsect_88.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/dbsect_88"
+      },
+      "date": "2026-02-11",
+      "questionNumber": 43,
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Transport",
+        "uri": null
+      },
+      "questionType": "written",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-11/pq_43",
+      "showAs": " 43. Deputy Cathal Crowe asked the Minister for Transport the developments undertaken in his Department to progress the implementation of a needs-based, grant-aided, modern vehicle adaptation supports to replace the disabled drivers and disabled passengers scheme; his engagement with the Department of Finance in relation to this; and if he will make a statement on the matter. [10884/26] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "by": {
+        "showAs": "Cathal Crowe",
+        "memberCode": "Cathal-Crowe.D.2020-02-08",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Cathal-Crowe.D.2020-02-08"
+      }
+    },
+    "contextDate": "2026-02-11"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "showAs": "Road Network",
+        "debateSectionId": "dbsect_89",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/mul@/dbsect_89.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/dbsect_89"
+      },
+      "date": "2026-02-11",
+      "questionNumber": 44,
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Transport",
+        "uri": null
+      },
+      "questionType": "written",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-11/pq_44",
+      "showAs": " 44. Deputy Michael Cahill asked the Minister for Transport to replace the low level bridge at Mountain Stage, Glenbeigh, on the N70 Ring of Kerry road, as a matter of urgency, this will keep heavy vehicles off a section of the South Kerry Greenway; and if he will make a statement on the matter. [10895/26] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "by": {
+        "showAs": "Michael Cahill",
+        "memberCode": "Michael-Cahill.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Michael-Cahill.D.2024-11-29"
+      }
+    },
+    "contextDate": "2026-02-11"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "showAs": "Road Network",
+        "debateSectionId": "dbsect_91",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/mul@/dbsect_91.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/dbsect_91"
+      },
+      "date": "2026-02-11",
+      "questionNumber": 45,
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Transport",
+        "uri": null
+      },
+      "questionType": "written",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-11/pq_45",
+      "showAs": " 45. Deputy Michael Cahill asked the Minister for Transport to provide funding as a matter of priority for the N70 Ring of Kerry road, from Cahersiveen to Oghermong; and if he will make a statement on the matter. [10896/26] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "by": {
+        "showAs": "Michael Cahill",
+        "memberCode": "Michael-Cahill.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Michael-Cahill.D.2024-11-29"
+      }
+    },
+    "contextDate": "2026-02-11"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "showAs": "Road Network",
+        "debateSectionId": "dbsect_91",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/mul@/dbsect_91.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/dbsect_91"
+      },
+      "date": "2026-02-11",
+      "questionNumber": 46,
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Transport",
+        "uri": null
+      },
+      "questionType": "written",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-11/pq_46",
+      "showAs": " 46. Deputy Michael Cahill asked the Minister for Transport to provide emergency funding to address the road and footpaths in Cahersiveen town on the N70 Ring of Kerry road; and if he will make a statement on the matter. [10897/26] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "by": {
+        "showAs": "Michael Cahill",
+        "memberCode": "Michael-Cahill.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Michael-Cahill.D.2024-11-29"
+      }
+    },
+    "contextDate": "2026-02-11"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "showAs": "Road Network",
+        "debateSectionId": "dbsect_91",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/mul@/dbsect_91.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/dbsect_91"
+      },
+      "date": "2026-02-11",
+      "questionNumber": 47,
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Transport",
+        "uri": null
+      },
+      "questionType": "written",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-11/pq_47",
+      "showAs": " 47. Deputy Michael Cahill asked the Minister for Transport to provide a significant increase in funding for the N70 Ring of Kerry that is 70% substandard; and if he will make a statement on the matter. [10898/26] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "by": {
+        "showAs": "Michael Cahill",
+        "memberCode": "Michael-Cahill.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Michael-Cahill.D.2024-11-29"
+      }
+    },
+    "contextDate": "2026-02-11"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "showAs": "Road Network",
+        "debateSectionId": "dbsect_92",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/mul@/dbsect_92.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/dbsect_92"
+      },
+      "date": "2026-02-11",
+      "questionNumber": 48,
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Transport",
+        "uri": null
+      },
+      "questionType": "written",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-11/pq_48",
+      "showAs": " 48. Deputy Michael Cahill asked the Minister for Transport to provide funding for the N71 Kenmare to Bonane road in County Kerry as a matter of priority; and if he will make a statement on the matter. [10899/26] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "by": {
+        "showAs": "Michael Cahill",
+        "memberCode": "Michael-Cahill.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Michael-Cahill.D.2024-11-29"
+      }
+    },
+    "contextDate": "2026-02-11"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "showAs": "Road Network",
+        "debateSectionId": "dbsect_93",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/mul@/dbsect_93.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/dbsect_93"
+      },
+      "date": "2026-02-11",
+      "questionNumber": 49,
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Transport",
+        "uri": null
+      },
+      "questionType": "written",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-11/pq_49",
+      "showAs": " 49. Deputy Michael Cahill asked the Minister for Transport to provide funding to upgrade the N71 Muckross road in County Kerry as a matter of priority; and if he will make a statement on the matter. [10900/26] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "by": {
+        "showAs": "Michael Cahill",
+        "memberCode": "Michael-Cahill.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Michael-Cahill.D.2024-11-29"
+      }
+    },
+    "contextDate": "2026-02-11"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "showAs": "Road Network",
+        "debateSectionId": "dbsect_94",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/mul@/dbsect_94.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/dbsect_94"
+      },
+      "date": "2026-02-11",
+      "questionNumber": 50,
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Transport",
+        "uri": null
+      },
+      "questionType": "written",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-11/pq_50",
+      "showAs": " 50. Deputy Michael Cahill asked the Minister for Transport to provide urgent funding to upgrade the N86 Tralee to Camp to Dingle road in County Kerry, and take into consideration that this road is substandard for a very busy tourist route; and if he will make a statement on the matter. [10901/26] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "by": {
+        "showAs": "Michael Cahill",
+        "memberCode": "Michael-Cahill.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Michael-Cahill.D.2024-11-29"
+      }
+    },
+    "contextDate": "2026-02-11"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "showAs": "Road Network",
+        "debateSectionId": "dbsect_91",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/mul@/dbsect_91.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/dbsect_91"
+      },
+      "date": "2026-02-11",
+      "questionNumber": 51,
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Transport",
+        "uri": null
+      },
+      "questionType": "written",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-11/pq_51",
+      "showAs": " 51. Deputy Michael Cahill asked the Minister for Transport to provide funding to commence the long overdue road realignment and footpath project from Laune Bridge in Killorglin, County Kerry to (details supplied); and if he will make a statement on the matter. [10902/26] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "by": {
+        "showAs": "Michael Cahill",
+        "memberCode": "Michael-Cahill.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Michael-Cahill.D.2024-11-29"
+      }
+    },
+    "contextDate": "2026-02-11"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "showAs": "Departmental Inquiries",
+        "debateSectionId": "dbsect_80",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/mul@/dbsect_80.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/dbsect_80"
+      },
+      "date": "2026-02-11",
+      "questionNumber": 52,
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Transport",
+        "uri": null
+      },
+      "questionType": "written",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-11/pq_52",
+      "showAs": " 52. Deputy Gillian Toole asked the Minister for Transport the reasons for the resignation of the chief executive of Dublin Airport Authority; the cost of any settlement/severance package as applicable to the semi-State corporate; and if he will make a statement on the matter. [10909/26] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "by": {
+        "showAs": "Gillian Toole",
+        "memberCode": "Gillian-Toole.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Gillian-Toole.D.2024-11-29"
+      }
+    },
+    "contextDate": "2026-02-11"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "showAs": "Departmental Schemes",
+        "debateSectionId": "dbsect_95",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/mul@/dbsect_95.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/dbsect_95"
+      },
+      "date": "2026-02-11",
+      "questionNumber": 53,
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Transport",
+        "uri": null
+      },
+      "questionType": "written",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-11/pq_53",
+      "showAs": " 53. Deputy Séamus McGrath asked the Minister for Transport to reform the application system under the electric small public service vehicle (eSPSV25) grant scheme; and to prioritise applications based on the age of the vehicle being replaced. [10912/26] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "by": {
+        "showAs": "Séamus McGrath",
+        "memberCode": "Séamus-McGrath.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Séamus-McGrath.D.2024-11-29"
+      }
+    },
+    "contextDate": "2026-02-11"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "showAs": "Departmental Inquiries",
+        "debateSectionId": "dbsect_96",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/mul@/dbsect_96.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/dbsect_96"
+      },
+      "date": "2026-02-11",
+      "questionNumber": 54,
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Transport",
+        "uri": null
+      },
+      "questionType": "written",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-11/pq_54",
+      "showAs": " 54. Deputy Seán Ó Fearghaíl asked the Minister for Transport if he will address concerns raised in correspondence (details supplied) regarding the proposed second river Liffey bridge for Newbridge, County Kildare; and if he will make a statement on the matter. [10921/26] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "by": {
+        "showAs": "Seán Ó Fearghaíl",
+        "memberCode": "Seán-Ó-Fearghaíl.S.2000-06-09",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Seán-Ó-Fearghaíl.S.2000-06-09"
+      }
+    },
+    "contextDate": "2026-02-11"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "showAs": "Bus Services",
+        "debateSectionId": "dbsect_97",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/mul@/dbsect_97.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/dbsect_97"
+      },
+      "date": "2026-02-11",
+      "questionNumber": 55,
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Transport",
+        "uri": null
+      },
+      "questionType": "written",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-11/pq_55",
+      "showAs": " 55. Deputy John Connolly asked the Minister for Transport to detail the efforts his Department are taking to develop bus priority measures in Galway City; and if he will make a statement on the matter. [10930/26] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "by": {
+        "showAs": "John Connolly",
+        "memberCode": "John-Connolly.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/John-Connolly.D.2024-11-29"
+      }
+    },
+    "contextDate": "2026-02-11"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "showAs": "Departmental Inquiries",
+        "debateSectionId": "dbsect_98",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/mul@/dbsect_98.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/dbsect_98"
+      },
+      "date": "2026-02-11",
+      "questionNumber": 56,
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Transport",
+        "uri": null
+      },
+      "questionType": "written",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-11/pq_56",
+      "showAs": " 56. Deputy Roderic O'Gorman asked the Minister for Transport when the Dublin Transport Authority (Amendment) Bill 2025 will be published; when he expects it to come to the Dail for second stage; if it requires pre-legislative scrutiny; and if he will make a statement on the matter. [10940/26] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "by": {
+        "showAs": "Roderic O'Gorman",
+        "memberCode": "Roderic-O'Gorman.D.2020-02-08",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Roderic-O'Gorman.D.2020-02-08"
+      }
+    },
+    "contextDate": "2026-02-11"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "showAs": "Dublin Bus",
+        "debateSectionId": "dbsect_99",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/mul@/dbsect_99.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/dbsect_99"
+      },
+      "date": "2026-02-11",
+      "questionNumber": 57,
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Transport",
+        "uri": null
+      },
+      "questionType": "written",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-11/pq_57",
+      "showAs": " 57. Deputy Barry Heneghan asked the Minister for Transport the number of new buses added to the Dublin Bus fleet during 2025; the number of buses that were withdrawn from the Dublin Bus fleet during 2025; the number of new buses expected to be added to the Dublin Bus fleet this year; and if he will make a statement on the matter. [10946/26] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "by": {
+        "showAs": "Barry Heneghan",
+        "memberCode": "Barry-Heneghan.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Barry-Heneghan.D.2024-11-29"
+      }
+    },
+    "contextDate": "2026-02-11"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "showAs": "Departmental Funding",
+        "debateSectionId": "dbsect_88",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/mul@/dbsect_88.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/dbsect_88"
+      },
+      "date": "2026-02-11",
+      "questionNumber": 58,
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Transport",
+        "uri": null
+      },
+      "questionType": "written",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-11/pq_58",
+      "showAs": " 58. Deputy Cathal Crowe asked the Minister for Transport to outline developments undertaken in his Department to progress the implementation of a needs-based, grant-aided, modern vehicle adaptation supports to replace the disabled drivers and disabled passengers scheme; how he is engaging with the Department of Finance in relation to this; and if he will make a statement on the matter. [10954/26] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "by": {
+        "showAs": "Cathal Crowe",
+        "memberCode": "Cathal-Crowe.D.2020-02-08",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Cathal-Crowe.D.2020-02-08"
+      }
+    },
+    "contextDate": "2026-02-11"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "showAs": "Driver Licences",
+        "debateSectionId": "dbsect_100",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/mul@/dbsect_100.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/dbsect_100"
+      },
+      "date": "2026-02-11",
+      "questionNumber": 59,
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Transport",
+        "uri": null
+      },
+      "questionType": "written",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-11/pq_59",
+      "showAs": " 59. Deputy Barry Ward asked the Minister for Transport the specific measures currently in place, and those planned, to eliminate the incidence of unaccompanied driving among learner permit holders; and if he will make a statement on the matter. [11038/26] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "by": {
+        "showAs": "Barry Ward",
+        "memberCode": "Barry-Ward.S.2020-03-30",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Barry-Ward.S.2020-03-30"
+      }
+    },
+    "contextDate": "2026-02-11"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "showAs": "Driver Licences",
+        "debateSectionId": "dbsect_100",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/mul@/dbsect_100.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/dbsect_100"
+      },
+      "date": "2026-02-11",
+      "questionNumber": 60,
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Transport",
+        "uri": null
+      },
+      "questionType": "written",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-11/pq_60",
+      "showAs": " 60. Deputy Barry Ward asked the Minister for Transport the research carried out by his Department to identify the reasons learner drivers continue to drive unaccompanied; and if he will make a statement on the matter. [11039/26] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "by": {
+        "showAs": "Barry Ward",
+        "memberCode": "Barry-Ward.S.2020-03-30",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Barry-Ward.S.2020-03-30"
+      }
+    },
+    "contextDate": "2026-02-11"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "showAs": "Driver Licences",
+        "debateSectionId": "dbsect_100",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/mul@/dbsect_100.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/dbsect_100"
+      },
+      "date": "2026-02-11",
+      "questionNumber": 61,
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Transport",
+        "uri": null
+      },
+      "questionType": "written",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-11/pq_61",
+      "showAs": " 61. Deputy Barry Ward asked the Minister for Transport the supports being provided by the RSA to assist learner drivers in accessing adequate accompanied driving practice; and if he will make a statement on the matter. [11040/26] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "by": {
+        "showAs": "Barry Ward",
+        "memberCode": "Barry-Ward.S.2020-03-30",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Barry-Ward.S.2020-03-30"
+      }
+    },
+    "contextDate": "2026-02-11"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "showAs": "Driver Licences",
+        "debateSectionId": "dbsect_100",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/mul@/dbsect_100.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/dbsect_100"
+      },
+      "date": "2026-02-11",
+      "questionNumber": 62,
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Transport",
+        "uri": null
+      },
+      "questionType": "written",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-11/pq_62",
+      "showAs": " 62. Deputy Barry Ward asked the Minister for Transport the position regarding any engagement he has had with the RSA that sought to address the issue of learner drivers that drive unaccompanied; and if he will make a statement on the matter. [11041/26] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "by": {
+        "showAs": "Barry Ward",
+        "memberCode": "Barry-Ward.S.2020-03-30",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Barry-Ward.S.2020-03-30"
+      }
+    },
+    "contextDate": "2026-02-11"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "showAs": "Driver Licences",
+        "debateSectionId": "dbsect_101",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/mul@/dbsect_101.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/dbsect_101"
+      },
+      "date": "2026-02-11",
+      "questionNumber": 63,
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Transport",
+        "uri": null
+      },
+      "questionType": "written",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-11/pq_63",
+      "showAs": " 63. Deputy Barry Ward asked the Minister for Transport the work ongoing to remove an access barrier to driving, for people without the required support networks to assist with unaccompanied driving requirement; his views on whether that acts as a barrier to obtaining a full driving license; and if he will make a statement on the matter. [11042/26] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "by": {
+        "showAs": "Barry Ward",
+        "memberCode": "Barry-Ward.S.2020-03-30",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Barry-Ward.S.2020-03-30"
+      }
+    },
+    "contextDate": "2026-02-11"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "showAs": "Airport Security",
+        "debateSectionId": "dbsect_102",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/mul@/dbsect_102.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/dbsect_102"
+      },
+      "date": "2026-02-11",
+      "questionNumber": 64,
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Finance",
+        "uri": null
+      },
+      "questionType": "written",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-11/pq_64",
+      "showAs": " 64. Deputy Peter Roche asked the Tánaiste and Minister for Finance the date on which the drug-detector dog previously assigned to customs operations at Ireland West Airport retired; and if he will make a statement on the matter. [10637/26] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "by": {
+        "showAs": "Peter Roche",
+        "memberCode": "Peter-Roche.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Peter-Roche.D.2024-11-29"
+      }
+    },
+    "contextDate": "2026-02-11"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "showAs": "Airport Security",
+        "debateSectionId": "dbsect_102",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/mul@/dbsect_102.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/dbsect_102"
+      },
+      "date": "2026-02-11",
+      "questionNumber": 65,
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Finance",
+        "uri": null
+      },
+      "questionType": "written",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-11/pq_65",
+      "showAs": " 65. Deputy Peter Roche asked the Tánaiste and Minister for Finance the date on which the cash and tobacco detector dog commenced duty at Ireland West Airport, Knock; and if he will make a statement on the matter. [10638/26] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "by": {
+        "showAs": "Peter Roche",
+        "memberCode": "Peter-Roche.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Peter-Roche.D.2024-11-29"
+      }
+    },
+    "contextDate": "2026-02-11"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "showAs": "Airport Security",
+        "debateSectionId": "dbsect_102",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/mul@/dbsect_102.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/dbsect_102"
+      },
+      "date": "2026-02-11",
+      "questionNumber": 66,
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Finance",
+        "uri": null
+      },
+      "questionType": "written",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-11/pq_66",
+      "showAs": " 66. Deputy Peter Roche asked the Tánaiste and Minister for Finance the date on which the cash and tobacco detector dog was replaced by the drug-detector dog at Ireland West Airport; and if he will make a statement on the matter. [10639/26] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "by": {
+        "showAs": "Peter Roche",
+        "memberCode": "Peter-Roche.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Peter-Roche.D.2024-11-29"
+      }
+    },
+    "contextDate": "2026-02-11"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "showAs": "Departmental Reports",
+        "debateSectionId": "dbsect_104",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/mul@/dbsect_104.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/dbsect_104"
+      },
+      "date": "2026-02-11",
+      "questionNumber": 67,
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Finance",
+        "uri": null
+      },
+      "questionType": "written",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-11/pq_67",
+      "showAs": " 67. Deputy Emer Currie asked the Tánaiste and Minister for Finance if his Department has conducted an economic assessment or is planning any strategic initiatives to protect Ireland’s Funds sector in light of increased international competition. [10520/26] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "by": {
+        "showAs": "Emer Currie",
+        "memberCode": "Emer-Currie.S.2020-06-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Emer-Currie.S.2020-06-29"
+      }
+    },
+    "contextDate": "2026-02-11"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "showAs": "Tax Avoidance",
+        "debateSectionId": "dbsect_105",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/mul@/dbsect_105.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/dbsect_105"
+      },
+      "date": "2026-02-11",
+      "questionNumber": 68,
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Finance",
+        "uri": null
+      },
+      "questionType": "written",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-11/pq_68",
+      "showAs": " 68. Deputy Emer Currie asked the Tánaiste and Minister for Finance to outline in detail his Department’s concerns over possible tax avoidance in the context of the consideration of measures to increase retail investment in Ireland. [10521/26] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "by": {
+        "showAs": "Emer Currie",
+        "memberCode": "Emer-Currie.S.2020-06-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Emer-Currie.S.2020-06-29"
+      }
+    },
+    "contextDate": "2026-02-11"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "showAs": "Tax Data",
+        "debateSectionId": "dbsect_106",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/mul@/dbsect_106.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/dbsect_106"
+      },
+      "date": "2026-02-11",
+      "questionNumber": 69,
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Finance",
+        "uri": null
+      },
+      "questionType": "written",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-11/pq_69",
+      "showAs": " 69. Deputy Emer Currie asked the Tánaiste and Minister for Finance the details of the number of businesses who registered and provided returns for the first accounting period for the tax E-liquid products tax (EPT) which were due to be submitted by 31 January 2026 and which covered the period from 1 November until 31 December 2025; to further provide details on the volumes and values of supplies of e-liquid products subject to the EPT in that period, the total tax collected, and any breakdown by geography or size and type of business making the return; and if he will make a statement on the matter. [10526/26] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "by": {
+        "showAs": "Emer Currie",
+        "memberCode": "Emer-Currie.S.2020-06-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Emer-Currie.S.2020-06-29"
+      }
+    },
+    "contextDate": "2026-02-11"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "showAs": "Tax Data",
+        "debateSectionId": "dbsect_106",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/mul@/dbsect_106.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/dbsect_106"
+      },
+      "date": "2026-02-11",
+      "questionNumber": 70,
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Finance",
+        "uri": null
+      },
+      "questionType": "written",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-11/pq_70",
+      "showAs": " 70. Deputy Emer Currie asked the Tánaiste and Minister for Finance the measures being put in place to monitor compliance rates with the requirements of the E-liquid products tax following the passing of the deadline for the returns for the first accounting period. [10527/26] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "by": {
+        "showAs": "Emer Currie",
+        "memberCode": "Emer-Currie.S.2020-06-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Emer-Currie.S.2020-06-29"
+      }
+    },
+    "contextDate": "2026-02-11"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "showAs": "Departmental Schemes",
+        "debateSectionId": "dbsect_107",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/mul@/dbsect_107.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/dbsect_107"
+      },
+      "date": "2026-02-11",
+      "questionNumber": 71,
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Finance",
+        "uri": null
+      },
+      "questionType": "written",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-11/pq_71",
+      "showAs": " 71. Deputy Michael Healy-Rae asked the Tánaiste and Minister for Finance if there is any grant assistance available for electric cars under the disabled person's scheme (details supplied); and if he will make a statement on the matter. [10549/26] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "by": {
+        "showAs": "Michael Healy-Rae",
+        "memberCode": "Michael-Healy-Rae.D.2011-03-09",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Michael-Healy-Rae.D.2011-03-09"
+      }
+    },
+    "contextDate": "2026-02-11"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "showAs": "Central Bank of Ireland",
+        "debateSectionId": "dbsect_108",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/mul@/dbsect_108.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/dbsect_108"
+      },
+      "date": "2026-02-11",
+      "questionNumber": 72,
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Finance",
+        "uri": null
+      },
+      "questionType": "written",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-11/pq_72",
+      "showAs": " 72. Deputy Barry Heneghan asked the Tánaiste and Minister for Finance his views on the Central Bank’s decision to proceed with the Israeli Bonds Programme (details supplied); his views on the Central Bank’s role in facilitating the transfer of bond approval to the Commission de Secteur du Financier (CSSF) in Luxembourg to ensure Israel’s continued funding of genocide; the specific steps he will take to ensure the Central Bank  is upholding its international legal obligations including those under the Genocide Convention; and if he will make a statement on the matter. [10677/26] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "by": {
+        "showAs": "Barry Heneghan",
+        "memberCode": "Barry-Heneghan.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Barry-Heneghan.D.2024-11-29"
+      }
+    },
+    "contextDate": "2026-02-11"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "showAs": "Departmental Reviews",
+        "debateSectionId": "dbsect_109",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/mul@/dbsect_109.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/dbsect_109"
+      },
+      "date": "2026-02-11",
+      "questionNumber": 73,
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Finance",
+        "uri": null
+      },
+      "questionType": "written",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-11/pq_73",
+      "showAs": " 73. Deputy Ken O'Flynn asked the Tánaiste and Minister for Finance whether his Department has commissioned, requested, or plans to commission a stand-alone socio-economic analysis of consumers who access high-cost credit in the State, including analysis of income levels, employment status, welfare dependency, and exclusion from mainstream banking; and if not, the rationale for relying on regulatory reviews that do not include such borrower profiling when forming policy in this area. [10701/26] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "by": {
+        "showAs": "Ken O'Flynn",
+        "memberCode": "Ken-O'Flynn.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ken-O'Flynn.D.2024-11-29"
+      }
+    },
+    "contextDate": "2026-02-11"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "showAs": "Enterprise Policy",
+        "debateSectionId": "dbsect_110",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/mul@/dbsect_110.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/dbsect_110"
+      },
+      "date": "2026-02-11",
+      "questionNumber": 74,
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Finance",
+        "uri": null
+      },
+      "questionType": "written",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-11/pq_74",
+      "showAs": " 74. Deputy Ken O'Flynn asked the Tánaiste and Minister for Finance whether his Department or the Revenue Commissioners have undertaken, commissioned, or estimated any compliance cost, systems-integration cost, or administrative burden for small and medium-sized enterprises arising from proposals discussed in the public consultation on the modernisation of withholding taxes, including any move toward real-time or near-real-time reporting; and if not, whether such analysis will be completed before any policy decision is taken. [10702/26] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "by": {
+        "showAs": "Ken O'Flynn",
+        "memberCode": "Ken-O'Flynn.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ken-O'Flynn.D.2024-11-29"
+      }
+    },
+    "contextDate": "2026-02-11"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "showAs": "Disability Services",
+        "debateSectionId": "dbsect_111",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/mul@/dbsect_111.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/dbsect_111"
+      },
+      "date": "2026-02-11",
+      "questionNumber": 75,
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Finance",
+        "uri": null
+      },
+      "questionType": "written",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-11/pq_75",
+      "showAs": " 75. Deputy David Cullinane asked the Tánaiste and Minister for Finance the number of primary medical certificate appeals to the Disabled Drivers Medical Board of Appeal, by county, for each of the years 2021 to 2025, in tabular form; and if he will make a statement on the matter. [10730/26] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "by": {
+        "showAs": "David Cullinane",
+        "memberCode": "David-Cullinane.S.2011-05-25",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/David-Cullinane.S.2011-05-25"
+      }
+    },
+    "contextDate": "2026-02-11"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "showAs": "Disability Services",
+        "debateSectionId": "dbsect_111",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/mul@/dbsect_111.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/dbsect_111"
+      },
+      "date": "2026-02-11",
+      "questionNumber": 76,
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Finance",
+        "uri": null
+      },
+      "questionType": "written",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-11/pq_76",
+      "showAs": " 76. Deputy David Cullinane asked the Tánaiste and Minister for Finance the number of applications received for the disabled drivers scheme by county in each of the years 2021 to 2025; and the number of unsuccessful and successful appeals; in tabular form. [10731/26] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "by": {
+        "showAs": "David Cullinane",
+        "memberCode": "David-Cullinane.S.2011-05-25",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/David-Cullinane.S.2011-05-25"
+      }
+    },
+    "contextDate": "2026-02-11"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "showAs": "Departmental Data",
+        "debateSectionId": "dbsect_112",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/mul@/dbsect_112.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/dbsect_112"
+      },
+      "date": "2026-02-11",
+      "questionNumber": 77,
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Finance",
+        "uri": null
+      },
+      "questionType": "written",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-11/pq_77",
+      "showAs": " 77. Deputy David Cullinane asked the Tánaiste and Minister for Finance the data collected by his Department relating to the disabled driver scheme and primary medical certificates. [10732/26] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "by": {
+        "showAs": "David Cullinane",
+        "memberCode": "David-Cullinane.S.2011-05-25",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/David-Cullinane.S.2011-05-25"
+      }
+    },
+    "contextDate": "2026-02-11"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "showAs": "Departmental Data",
+        "debateSectionId": "dbsect_112",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/mul@/dbsect_112.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/dbsect_112"
+      },
+      "date": "2026-02-11",
+      "questionNumber": 78,
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Finance",
+        "uri": null
+      },
+      "questionType": "written",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-11/pq_78",
+      "showAs": " 78. Deputy David Cullinane asked the Tánaiste and Minister for Finance to provide an update on the review of the disabled drivers scheme and guidelines for primary medical certificates; the timeframe for completion; when a new scheme will be in place; and if he will make a statement on the matter. [10733/26] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "by": {
+        "showAs": "David Cullinane",
+        "memberCode": "David-Cullinane.S.2011-05-25",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/David-Cullinane.S.2011-05-25"
+      }
+    },
+    "contextDate": "2026-02-11"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "showAs": "Insurance Coverage",
+        "debateSectionId": "dbsect_113",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/mul@/dbsect_113.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/dbsect_113"
+      },
+      "date": "2026-02-11",
+      "questionNumber": 79,
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Finance",
+        "uri": null
+      },
+      "questionType": "written",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-11/pq_79",
+      "showAs": " 79. Deputy Paul Lawless asked the Tánaiste and Minister for Finance if he will address the ongoing discrimination young drivers face in accessing private motor insurance and commercial motor insurance, particularly those under 21 years-of-age who hold all necessary licences and qualifications; the steps his Department is taking to ensure that qualified young people can obtain affordable insurance in their own name, including for commercial vehicles such as recovery trucks; and if he will make a statement on the matter. [10864/26] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "by": {
+        "showAs": "Paul Lawless",
+        "memberCode": "Paul-Lawless.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Lawless.D.2024-11-29"
+      }
+    },
+    "contextDate": "2026-02-11"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "showAs": "Departmental Inquiries",
+        "debateSectionId": "dbsect_114",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/mul@/dbsect_114.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/dbsect_114"
+      },
+      "date": "2026-02-11",
+      "questionNumber": 80,
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Finance",
+        "uri": null
+      },
+      "questionType": "written",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-11/pq_80",
+      "showAs": " 80. Deputy Emer Currie asked the Tánaiste and Minister for Finance to provide an update on the establishment of the proposed new Savings and Investments Forum, and an annual savings and investment industry roundtable. [10867/26] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "by": {
+        "showAs": "Emer Currie",
+        "memberCode": "Emer-Currie.S.2020-06-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Emer-Currie.S.2020-06-29"
+      }
+    },
+    "contextDate": "2026-02-11"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "showAs": "Financial Instruments",
+        "debateSectionId": "dbsect_115",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/mul@/dbsect_115.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/dbsect_115"
+      },
+      "date": "2026-02-11",
+      "questionNumber": 81,
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Finance",
+        "uri": null
+      },
+      "questionType": "written",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-11/pq_81",
+      "showAs": " 81. Deputy Emer Currie asked the Tánaiste and Minister for Finance for an update on plans for legislation to support the establishment of tokenised funds in Ireland. [10869/26] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "by": {
+        "showAs": "Emer Currie",
+        "memberCode": "Emer-Currie.S.2020-06-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Emer-Currie.S.2020-06-29"
+      }
+    },
+    "contextDate": "2026-02-11"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "showAs": "Financial Instruments",
+        "debateSectionId": "dbsect_116",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/mul@/dbsect_116.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/dbsect_116"
+      },
+      "date": "2026-02-11",
+      "questionNumber": 82,
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Finance",
+        "uri": null
+      },
+      "questionType": "written",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-11/pq_82",
+      "showAs": " 82. Deputy Emer Currie asked the Tánaiste and Minister for Finance for an update on Ireland’s transposition of Directive (EU) 2024/927. [10870/26] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "by": {
+        "showAs": "Emer Currie",
+        "memberCode": "Emer-Currie.S.2020-06-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Emer-Currie.S.2020-06-29"
+      }
+    },
+    "contextDate": "2026-02-11"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "showAs": "Financial Instruments",
+        "debateSectionId": "dbsect_117",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/mul@/dbsect_117.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/dbsect_117"
+      },
+      "date": "2026-02-11",
+      "questionNumber": 83,
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Finance",
+        "uri": null
+      },
+      "questionType": "written",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-11/pq_83",
+      "showAs": " 83. Deputy Emer Currie asked the Tánaiste and Minister for Finance for a detailed update on Ireland’s consideration of the establishment of a incentivised Savings and Investment Account for Ireland. [10871/26] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "by": {
+        "showAs": "Emer Currie",
+        "memberCode": "Emer-Currie.S.2020-06-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Emer-Currie.S.2020-06-29"
+      }
+    },
+    "contextDate": "2026-02-11"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "showAs": "EU Presidency",
+        "debateSectionId": "dbsect_118",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/mul@/dbsect_118.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-11/writtens/dbsect_118"
+      },
+      "date": "2026-02-11",
+      "questionNumber": 84,
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Finance",
+        "uri": null
+      },
+      "questionType": "written",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-11/pq_84",
+      "showAs": " 84. Deputy Emer Currie asked the Tánaiste and Minister for Finance for an update on his Department’s priorities for Ireland’s EU Council Presidency. [10872/26] ",
+      "house": {
+        "chamberType": "house",
+        "houseNo": "34",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "by": {
+        "showAs": "Emer Currie",
+        "memberCode": "Emer-Currie.S.2020-06-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Emer-Currie.S.2020-06-29"
+      }
+    },
+    "contextDate": "2026-02-11"
+  }
+]

@@ -1,21 +1,8 @@
-🕓 PQ fetch started at Thu Feb 12 04:18:40 UTC 2026
+🕓 PQ fetch started at Fri Feb 13 04:14:21 UTC 2026
 Mode: daily
-End date (UTC): 2026-02-11
+End date (UTC): 2026-02-12
 Rolling window days: 30
-Refreshing range: 2026-01-13 → 2026-02-11
-📅 Fetching: 2026-01-13 (year 2026)
-✅ Page 0 for 2026-01-13 OK — 300 results
-✅ Page 1 for 2026-01-13 OK — 300 results
-✅ Page 2 for 2026-01-13 OK — 300 results
-✅ Page 3 for 2026-01-13 OK — 300 results
-✅ Page 4 for 2026-01-13 OK — 300 results
-✅ Page 5 for 2026-01-13 OK — 300 results
-✅ Page 6 for 2026-01-13 OK — 300 results
-✅ Page 7 for 2026-01-13 OK — 300 results
-✅ Page 8 for 2026-01-13 OK — 195 results
-✅ 2026-01-13 complete — no more results after page 9
-💾 Wrote data/PQs_paginated/2026/day_2026-01-13.json
-🕒 Sleeping 3s...
+Refreshing range: 2026-01-14 → 2026-02-12
 📅 Fetching: 2026-01-14 (year 2026)
 ✅ Page 0 for 2026-01-14 OK — 198 results
 ✅ 2026-01-14 complete — no more results after page 1
@@ -151,13 +138,20 @@ Refreshing range: 2026-01-13 → 2026-02-11
 📅 Fetching: 2026-02-10 (year 2026)
 ✅ Page 0 for 2026-02-10 OK — 300 results
 ✅ Page 1 for 2026-02-10 OK — 300 results
-✅ Page 2 for 2026-02-10 OK — 80 results
-✅ 2026-02-10 complete — no more results after page 3
+✅ Page 2 for 2026-02-10 OK — 300 results
+✅ Page 3 for 2026-02-10 OK — 120 results
+✅ 2026-02-10 complete — no more results after page 4
 💾 Wrote data/PQs_paginated/2026/day_2026-02-10.json
 🕒 Sleeping 3s...
 📅 Fetching: 2026-02-11 (year 2026)
-✅ 2026-02-11 complete — no more results after page 0
+✅ Page 0 for 2026-02-11 OK — 84 results
+✅ 2026-02-11 complete — no more results after page 1
 💾 Wrote data/PQs_paginated/2026/day_2026-02-11.json
 🕒 Sleeping 3s...
+📅 Fetching: 2026-02-12 (year 2026)
+✅ Page 0 for 2026-02-12 OK — 28 results
+✅ 2026-02-12 complete — no more results after page 1
+💾 Wrote data/PQs_paginated/2026/day_2026-02-12.json
+🕒 Sleeping 3s...
 🚀 Merging year 2026...
-✅ PQ fetch completed at Thu Feb 12 04:23:53 UTC 2026
+✅ PQ fetch completed at Fri Feb 13 04:18:56 UTC 2026

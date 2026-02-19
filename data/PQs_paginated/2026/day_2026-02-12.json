@@ -41,480 +41,480 @@
   },
   {
     "question": {
-      "by": {
-        "showAs": "Ged Nash",
-        "memberCode": "Gerald-Nash.D.2011-03-09",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Gerald-Nash.D.2011-03-09"
-      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-12/pq_2",
+      "questionType": "oral",
+      "showAs": " 2. Deputy Ged Nash asked the Minister for Public Expenditure, Infrastructure, Public Service Reform and Digitalisation to outline the accountability measures in the accelerating infrastructure action plan; the way he intends to implement and enforce them; and if he will make a statement on the matter. [11340/26] ",
       "to": {
         "uri": null,
-        "showAs": "Public Expenditure",
+        "roleCode": null,
         "roleType": null,
-        "roleCode": null
-      },
-      "questionType": "oral",
-      "questionNumber": 2,
-      "house": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseNo": "34",
-        "committeeCode": "",
-        "showAs": "34th Dáil",
-        "chamberType": "house",
-        "houseCode": "dail"
+        "showAs": "Public Expenditure"
       },
       "date": "2026-02-12",
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-12/pq_2",
-      "showAs": " 2. Deputy Ged Nash asked the Minister for Public Expenditure, Infrastructure, Public Service Reform and Digitalisation to outline the accountability measures in the accelerating infrastructure action plan; the way he intends to implement and enforce them; and if he will make a statement on the matter. [11340/26] ",
       "debateSection": {
-        "showAs": "Public Expenditure Policy",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-12/debate/dbsect_4",
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-12/debate/mul@/dbsect_4.xml"
-          },
-          "pdf": null
+          }
         },
         "debateSectionId": "dbsect_4",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-12/debate/dbsect_4"
+        "showAs": "Public Expenditure Policy"
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Gerald-Nash.D.2011-03-09",
+        "memberCode": "Gerald-Nash.D.2011-03-09",
+        "showAs": "Ged Nash"
+      },
+      "questionNumber": 2,
+      "house": {
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "committeeCode": ""
       }
     },
     "contextDate": "2026-02-12"
   },
   {
     "question": {
-      "by": {
-        "showAs": "Mairéad Farrell",
-        "memberCode": "Mairéad-Farrell.D.2020-02-08",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Mairéad-Farrell.D.2020-02-08"
-      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-12/pq_3",
+      "questionType": "oral",
+      "showAs": " 3. Deputy Mairéad Farrell asked the Minister for Public Expenditure, Infrastructure, Public Service Reform and Digitalisation to give an update on flood relief schemes; and on the underspend within the allocation to the National Flood Forecasting Warning Service; and if he will make a statement on the matter. [11569/26] ",
       "to": {
         "uri": null,
-        "showAs": "Public Expenditure",
+        "roleCode": null,
         "roleType": null,
-        "roleCode": null
-      },
-      "questionType": "oral",
-      "questionNumber": 3,
-      "house": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseNo": "34",
-        "committeeCode": "",
-        "showAs": "34th Dáil",
-        "chamberType": "house",
-        "houseCode": "dail"
+        "showAs": "Public Expenditure"
       },
       "date": "2026-02-12",
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-12/pq_3",
-      "showAs": " 3. Deputy Mairéad Farrell asked the Minister for Public Expenditure, Infrastructure, Public Service Reform and Digitalisation to give an update on flood relief schemes; and on the underspend within the allocation to the National Flood Forecasting Warning Service; and if he will make a statement on the matter. [11569/26] ",
       "debateSection": {
-        "showAs": "Flood Relief Schemes",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-12/debate/dbsect_5",
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-12/debate/mul@/dbsect_5.xml"
-          },
-          "pdf": null
+          }
         },
         "debateSectionId": "dbsect_5",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-12/debate/dbsect_5"
+        "showAs": "Flood Relief Schemes"
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Mairéad-Farrell.D.2020-02-08",
+        "memberCode": "Mairéad-Farrell.D.2020-02-08",
+        "showAs": "Mairéad Farrell"
+      },
+      "questionNumber": 3,
+      "house": {
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "committeeCode": ""
       }
     },
     "contextDate": "2026-02-12"
   },
   {
     "question": {
-      "by": {
-        "showAs": "Ruth Coppinger",
-        "memberCode": "Ruth-Coppinger.D.2014-05-23",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruth-Coppinger.D.2014-05-23"
-      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-12/pq_4",
+      "questionType": "oral",
+      "showAs": " 4. Deputy Ruth Coppinger asked the Minister for Public Expenditure, Infrastructure, Public Service Reform and Digitalisation for a progress report on the capital grant funding provided to Dublin Zoo in 2025; and if he will make a statement on the matter. [10737/26] ",
       "to": {
         "uri": null,
-        "showAs": "Public Expenditure",
+        "roleCode": null,
         "roleType": null,
-        "roleCode": null
-      },
-      "questionType": "oral",
-      "questionNumber": 4,
-      "house": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseNo": "34",
-        "committeeCode": "",
-        "showAs": "34th Dáil",
-        "chamberType": "house",
-        "houseCode": "dail"
+        "showAs": "Public Expenditure"
       },
       "date": "2026-02-12",
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-12/pq_4",
-      "showAs": " 4. Deputy Ruth Coppinger asked the Minister for Public Expenditure, Infrastructure, Public Service Reform and Digitalisation for a progress report on the capital grant funding provided to Dublin Zoo in 2025; and if he will make a statement on the matter. [10737/26] ",
       "debateSection": {
-        "showAs": "Departmental Funding",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-12/debate/dbsect_6",
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-12/debate/mul@/dbsect_6.xml"
-          },
-          "pdf": null
+          }
         },
         "debateSectionId": "dbsect_6",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-12/debate/dbsect_6"
+        "showAs": "Departmental Funding"
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruth-Coppinger.D.2014-05-23",
+        "memberCode": "Ruth-Coppinger.D.2014-05-23",
+        "showAs": "Ruth Coppinger"
+      },
+      "questionNumber": 4,
+      "house": {
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "committeeCode": ""
       }
     },
     "contextDate": "2026-02-12"
   },
   {
     "question": {
-      "by": {
-        "showAs": "Richard O'Donoghue",
-        "memberCode": "Richard-O'Donoghue.D.2020-02-08",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Richard-O'Donoghue.D.2020-02-08"
-      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-12/pq_5",
+      "questionType": "oral",
+      "showAs": " 5. Deputy Richard O'Donoghue asked the Minister for Public Expenditure, Infrastructure, Public Service Reform and Digitalisation the reason figures for existing levels of service, ELS, were not included in the budget 2026 documentation; the plans for these to be provided in detail in budgetary documentation going forward, considering recommendations from the Oireachtas Committee on Budgetary Oversight; and if he will make a statement on the matter.  [11621/26] ",
       "to": {
         "uri": null,
-        "showAs": "Public Expenditure",
+        "roleCode": null,
         "roleType": null,
-        "roleCode": null
-      },
-      "questionType": "oral",
-      "questionNumber": 5,
-      "house": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseNo": "34",
-        "committeeCode": "",
-        "showAs": "34th Dáil",
-        "chamberType": "house",
-        "houseCode": "dail"
+        "showAs": "Public Expenditure"
       },
       "date": "2026-02-12",
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-12/pq_5",
-      "showAs": " 5. Deputy Richard O'Donoghue asked the Minister for Public Expenditure, Infrastructure, Public Service Reform and Digitalisation the reason figures for existing levels of service, ELS, were not included in the budget 2026 documentation; the plans for these to be provided in detail in budgetary documentation going forward, considering recommendations from the Oireachtas Committee on Budgetary Oversight; and if he will make a statement on the matter.  [11621/26] ",
       "debateSection": {
-        "showAs": "Budget 2026",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-12/debate/dbsect_7",
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-12/debate/mul@/dbsect_7.xml"
-          },
-          "pdf": null
+          }
         },
         "debateSectionId": "dbsect_7",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-12/debate/dbsect_7"
+        "showAs": "Budget 2026"
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Richard-O'Donoghue.D.2020-02-08",
+        "memberCode": "Richard-O'Donoghue.D.2020-02-08",
+        "showAs": "Richard O'Donoghue"
+      },
+      "questionNumber": 5,
+      "house": {
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "committeeCode": ""
       }
     },
     "contextDate": "2026-02-12"
   },
   {
     "question": {
-      "by": {
-        "showAs": "Barry Heneghan",
-        "memberCode": "Barry-Heneghan.D.2024-11-29",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Barry-Heneghan.D.2024-11-29"
-      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-12/pq_6",
+      "questionType": "oral",
+      "showAs": " 6. Deputy Barry Heneghan asked the Minister for Public Expenditure, Infrastructure, Public Service Reform and Digitalisation the extent of any engagement his Department and the Office of Public Works have had with Dublin City Council in relation to flood risk, coastal overtopping and storm surge impacts in Clontarf following recent flooding incidents; whether the Office of Public Works has carried out or plans to carry out assessments of existing coastal defences and flood mitigation measures in the area; the interim or longer term flood defence measures under consideration; the way in which such works would be funded and prioritised within the national flood relief programme; and if he will make a statement on the matter. [11103/26] ",
       "to": {
         "uri": null,
-        "showAs": "Public Expenditure",
+        "roleCode": null,
         "roleType": null,
-        "roleCode": null
-      },
-      "questionType": "oral",
-      "questionNumber": 6,
-      "house": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseNo": "34",
-        "committeeCode": "",
-        "showAs": "34th Dáil",
-        "chamberType": "house",
-        "houseCode": "dail"
+        "showAs": "Public Expenditure"
       },
       "date": "2026-02-12",
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-12/pq_6",
-      "showAs": " 6. Deputy Barry Heneghan asked the Minister for Public Expenditure, Infrastructure, Public Service Reform and Digitalisation the extent of any engagement his Department and the Office of Public Works have had with Dublin City Council in relation to flood risk, coastal overtopping and storm surge impacts in Clontarf following recent flooding incidents; whether the Office of Public Works has carried out or plans to carry out assessments of existing coastal defences and flood mitigation measures in the area; the interim or longer term flood defence measures under consideration; the way in which such works would be funded and prioritised within the national flood relief programme; and if he will make a statement on the matter. [11103/26] ",
       "debateSection": {
-        "showAs": "Flood Risk Management",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-12/debate/dbsect_8",
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-12/debate/mul@/dbsect_8.xml"
-          },
-          "pdf": null
+          }
         },
         "debateSectionId": "dbsect_8",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-12/debate/dbsect_8"
+        "showAs": "Flood Risk Management"
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Barry-Heneghan.D.2024-11-29",
+        "memberCode": "Barry-Heneghan.D.2024-11-29",
+        "showAs": "Barry Heneghan"
+      },
+      "questionNumber": 6,
+      "house": {
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "committeeCode": ""
       }
     },
     "contextDate": "2026-02-12"
   },
   {
     "question": {
-      "by": {
-        "showAs": "Ruth Coppinger",
-        "memberCode": "Ruth-Coppinger.D.2014-05-23",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruth-Coppinger.D.2014-05-23"
-      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-12/pq_7",
+      "questionType": "oral",
+      "showAs": " 7. Deputy Ruth Coppinger asked the Minister for Public Expenditure, Infrastructure, Public Service Reform and Digitalisation for an update on the infrastructure projects currently being undertaken in Dublin West; and if he will make a statement on the matter. [10742/26] ",
       "to": {
         "uri": null,
-        "showAs": "Public Expenditure",
+        "roleCode": null,
         "roleType": null,
-        "roleCode": null
-      },
-      "questionType": "oral",
-      "questionNumber": 7,
-      "house": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseNo": "34",
-        "committeeCode": "",
-        "showAs": "34th Dáil",
-        "chamberType": "house",
-        "houseCode": "dail"
+        "showAs": "Public Expenditure"
       },
       "date": "2026-02-12",
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-12/pq_7",
-      "showAs": " 7. Deputy Ruth Coppinger asked the Minister for Public Expenditure, Infrastructure, Public Service Reform and Digitalisation for an update on the infrastructure projects currently being undertaken in Dublin West; and if he will make a statement on the matter. [10742/26] ",
       "debateSection": {
-        "showAs": "Public Transport",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-12/debate/dbsect_10",
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-12/debate/mul@/dbsect_10.xml"
-          },
-          "pdf": null
+          }
         },
         "debateSectionId": "dbsect_10",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-12/debate/dbsect_10"
+        "showAs": "Public Transport"
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruth-Coppinger.D.2014-05-23",
+        "memberCode": "Ruth-Coppinger.D.2014-05-23",
+        "showAs": "Ruth Coppinger"
+      },
+      "questionNumber": 7,
+      "house": {
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "committeeCode": ""
       }
     },
     "contextDate": "2026-02-12"
   },
   {
     "question": {
-      "by": {
-        "showAs": "Cian O'Callaghan",
-        "memberCode": "Cian-O'Callaghan.D.2020-02-08",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Cian-O'Callaghan.D.2020-02-08"
-      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-12/pq_8",
+      "questionType": "oral",
+      "showAs": " 8. Deputy Cian O'Callaghan asked the Minister for Public Expenditure, Infrastructure, Public Service Reform and Digitalisation the status of the proposed new Garda station for Northern Cross in Dublin; and if he will make a statement on the matter. [10080/26] ",
       "to": {
         "uri": null,
-        "showAs": "Public Expenditure",
+        "roleCode": null,
         "roleType": null,
-        "roleCode": null
-      },
-      "questionType": "oral",
-      "questionNumber": 8,
-      "house": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseNo": "34",
-        "committeeCode": "",
-        "showAs": "34th Dáil",
-        "chamberType": "house",
-        "houseCode": "dail"
+        "showAs": "Public Expenditure"
       },
       "date": "2026-02-12",
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-12/pq_8",
-      "showAs": " 8. Deputy Cian O'Callaghan asked the Minister for Public Expenditure, Infrastructure, Public Service Reform and Digitalisation the status of the proposed new Garda station for Northern Cross in Dublin; and if he will make a statement on the matter. [10080/26] ",
       "debateSection": {
-        "showAs": "Stáisiúin Gharda",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-12/debate/dbsect_11",
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-12/debate/mul@/dbsect_11.xml"
-          },
-          "pdf": null
+          }
         },
         "debateSectionId": "dbsect_11",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-12/debate/dbsect_11"
+        "showAs": "Stáisiúin Gharda"
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Cian-O'Callaghan.D.2020-02-08",
+        "memberCode": "Cian-O'Callaghan.D.2020-02-08",
+        "showAs": "Cian O'Callaghan"
+      },
+      "questionNumber": 8,
+      "house": {
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "committeeCode": ""
       }
     },
     "contextDate": "2026-02-12"
   },
   {
     "question": {
-      "by": {
-        "showAs": "Catherine Ardagh",
-        "memberCode": "Catherine-Ardagh.S.2016-04-25",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Catherine-Ardagh.S.2016-04-25"
-      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-12/pq_9",
+      "questionType": "oral",
+      "showAs": " 9. Deputy Catherine Ardagh asked the Minister for Public Expenditure, Infrastructure, Public Service Reform and Digitalisation if, in view of the impact of flooding in Dublin, he will expedite the Camac river flood alleviation scheme; and if he will make a statement on the matter. [10563/26] ",
       "to": {
         "uri": null,
-        "showAs": "Public Expenditure",
+        "roleCode": null,
         "roleType": null,
-        "roleCode": null
-      },
-      "questionType": "oral",
-      "questionNumber": 9,
-      "house": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseNo": "34",
-        "committeeCode": "",
-        "showAs": "34th Dáil",
-        "chamberType": "house",
-        "houseCode": "dail"
+        "showAs": "Public Expenditure"
       },
       "date": "2026-02-12",
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-12/pq_9",
-      "showAs": " 9. Deputy Catherine Ardagh asked the Minister for Public Expenditure, Infrastructure, Public Service Reform and Digitalisation if, in view of the impact of flooding in Dublin, he will expedite the Camac river flood alleviation scheme; and if he will make a statement on the matter. [10563/26] ",
       "debateSection": {
-        "showAs": "Flood Relief Schemes",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-12/debate/dbsect_12",
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-12/debate/mul@/dbsect_12.xml"
-          },
-          "pdf": null
+          }
         },
         "debateSectionId": "dbsect_12",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-12/debate/dbsect_12"
+        "showAs": "Flood Relief Schemes"
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Catherine-Ardagh.S.2016-04-25",
+        "memberCode": "Catherine-Ardagh.S.2016-04-25",
+        "showAs": "Catherine Ardagh"
+      },
+      "questionNumber": 9,
+      "house": {
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "committeeCode": ""
       }
     },
     "contextDate": "2026-02-12"
   },
   {
     "question": {
-      "by": {
-        "showAs": "Michael Cahill",
-        "memberCode": "Michael-Cahill.D.2024-11-29",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Michael-Cahill.D.2024-11-29"
-      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-12/pq_10",
+      "questionType": "oral",
+      "showAs": " 10. Deputy Michael Cahill asked the Minister for Public Expenditure, Infrastructure, Public Service Reform and Digitalisation if funding will be provided to tackle costal erosion and flooding in Rossbeigh, Waterville, Kenmare, Tralee, Listowel, Glenbeigh, Dooks, Cromane Lower, Killorglin and Glosha; and if he will make a statement on the matter. [10966/26] ",
       "to": {
         "uri": null,
-        "showAs": "Public Expenditure",
+        "roleCode": null,
         "roleType": null,
-        "roleCode": null
-      },
-      "questionType": "oral",
-      "questionNumber": 10,
-      "house": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseNo": "34",
-        "committeeCode": "",
-        "showAs": "34th Dáil",
-        "chamberType": "house",
-        "houseCode": "dail"
+        "showAs": "Public Expenditure"
       },
       "date": "2026-02-12",
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-12/pq_10",
-      "showAs": " 10. Deputy Michael Cahill asked the Minister for Public Expenditure, Infrastructure, Public Service Reform and Digitalisation if funding will be provided to tackle costal erosion and flooding in Rossbeigh, Waterville, Kenmare, Tralee, Listowel, Glenbeigh, Dooks, Cromane Lower, Killorglin and Glosha; and if he will make a statement on the matter. [10966/26] ",
       "debateSection": {
-        "showAs": "Coastal Erosion",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-12/debate/dbsect_13",
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-12/debate/mul@/dbsect_13.xml"
-          },
-          "pdf": null
+          }
         },
         "debateSectionId": "dbsect_13",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-12/debate/dbsect_13"
+        "showAs": "Coastal Erosion"
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Michael-Cahill.D.2024-11-29",
+        "memberCode": "Michael-Cahill.D.2024-11-29",
+        "showAs": "Michael Cahill"
+      },
+      "questionNumber": 10,
+      "house": {
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "committeeCode": ""
       }
     },
     "contextDate": "2026-02-12"
   },
   {
     "question": {
-      "by": {
-        "showAs": "Joe Neville",
-        "memberCode": "Joe-Neville.D.2024-11-29",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Joe-Neville.D.2024-11-29"
-      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-12/pq_11",
+      "questionType": "oral",
+      "showAs": " 11. Deputy Joe Neville asked the Minister for Public Expenditure, Infrastructure, Public Service Reform and Digitalisation the way in which his Department plans to implement a risk scorecard to enable the acceleration of key infrastructure delivery in the next few decades; and if he will make a statement on the matter. [11083/26] ",
       "to": {
         "uri": null,
-        "showAs": "Public Expenditure",
+        "roleCode": null,
         "roleType": null,
-        "roleCode": null
-      },
-      "questionType": "oral",
-      "questionNumber": 11,
-      "house": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseNo": "34",
-        "committeeCode": "",
-        "showAs": "34th Dáil",
-        "chamberType": "house",
-        "houseCode": "dail"
+        "showAs": "Public Expenditure"
       },
       "date": "2026-02-12",
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-12/pq_11",
-      "showAs": " 11. Deputy Joe Neville asked the Minister for Public Expenditure, Infrastructure, Public Service Reform and Digitalisation the way in which his Department plans to implement a risk scorecard to enable the acceleration of key infrastructure delivery in the next few decades; and if he will make a statement on the matter. [11083/26] ",
       "debateSection": {
-        "showAs": "Departmental Strategies",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-12/debate/dbsect_14",
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-12/debate/mul@/dbsect_14.xml"
-          },
-          "pdf": null
+          }
         },
         "debateSectionId": "dbsect_14",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-12/debate/dbsect_14"
+        "showAs": "Departmental Strategies"
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Joe-Neville.D.2024-11-29",
+        "memberCode": "Joe-Neville.D.2024-11-29",
+        "showAs": "Joe Neville"
+      },
+      "questionNumber": 11,
+      "house": {
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "committeeCode": ""
       }
     },
     "contextDate": "2026-02-12"
   },
   {
     "question": {
-      "by": {
-        "showAs": "John Connolly",
-        "memberCode": "John-Connolly.D.2024-11-29",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/John-Connolly.D.2024-11-29"
-      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-12/pq_12",
+      "questionType": "oral",
+      "showAs": " 12. Deputy John Connolly asked the Minister for Public Expenditure, Infrastructure, Public Service Reform and Digitalisation if the infrastructure guidelines have been amended as per action 23 of the Accelerating Infrastructure Report and Action Plan, including for increased project expenditure thresholds; the removal of the external assurance process and enhanced timelines for the preparation of the preliminary business case; when infrastructure projects can expect to benefit from the new guidelines; and if he will make a statement on the matter. [10933/26] ",
       "to": {
         "uri": null,
-        "showAs": "Public Expenditure",
+        "roleCode": null,
         "roleType": null,
-        "roleCode": null
-      },
-      "questionType": "oral",
-      "questionNumber": 12,
-      "house": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseNo": "34",
-        "committeeCode": "",
-        "showAs": "34th Dáil",
-        "chamberType": "house",
-        "houseCode": "dail"
+        "showAs": "Public Expenditure"
       },
       "date": "2026-02-12",
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-12/pq_12",
-      "showAs": " 12. Deputy John Connolly asked the Minister for Public Expenditure, Infrastructure, Public Service Reform and Digitalisation if the infrastructure guidelines have been amended as per action 23 of the Accelerating Infrastructure Report and Action Plan, including for increased project expenditure thresholds; the removal of the external assurance process and enhanced timelines for the preparation of the preliminary business case; when infrastructure projects can expect to benefit from the new guidelines; and if he will make a statement on the matter. [10933/26] ",
       "debateSection": {
-        "showAs": "Capital Expenditure Programme",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-12/debate/dbsect_15",
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-12/debate/mul@/dbsect_15.xml"
-          },
-          "pdf": null
+          }
         },
         "debateSectionId": "dbsect_15",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-12/debate/dbsect_15"
+        "showAs": "Capital Expenditure Programme"
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/John-Connolly.D.2024-11-29",
+        "memberCode": "John-Connolly.D.2024-11-29",
+        "showAs": "John Connolly"
+      },
+      "questionNumber": 12,
+      "house": {
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "committeeCode": ""
       }
     },
     "contextDate": "2026-02-12"
   },
   {
     "question": {
-      "by": {
-        "showAs": "Paula Butterly",
-        "memberCode": "Paula-Butterly.D.2024-11-29",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paula-Butterly.D.2024-11-29"
-      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-12/pq_13",
+      "questionType": "oral",
+      "showAs": " 13. Deputy Paula Butterly asked the Minister for Public Expenditure, Infrastructure, Public Service Reform and Digitalisation to provide an update on the legislative and non-legislative progress being made to implement the measures recommended in the accelerating infrastructure action plan. [9939/26] ",
       "to": {
         "uri": null,
-        "showAs": "Public Expenditure",
+        "roleCode": null,
         "roleType": null,
-        "roleCode": null
-      },
-      "questionType": "oral",
-      "questionNumber": 13,
-      "house": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseNo": "34",
-        "committeeCode": "",
-        "showAs": "34th Dáil",
-        "chamberType": "house",
-        "houseCode": "dail"
+        "showAs": "Public Expenditure"
       },
       "date": "2026-02-12",
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-12/pq_13",
-      "showAs": " 13. Deputy Paula Butterly asked the Minister for Public Expenditure, Infrastructure, Public Service Reform and Digitalisation to provide an update on the legislative and non-legislative progress being made to implement the measures recommended in the accelerating infrastructure action plan. [9939/26] ",
       "debateSection": {
-        "showAs": "Strategic Infrastructure",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-12/debate/dbsect_16",
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-12/debate/mul@/dbsect_16.xml"
-          },
-          "pdf": null
+          }
         },
         "debateSectionId": "dbsect_16",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-12/debate/dbsect_16"
+        "showAs": "Strategic Infrastructure"
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paula-Butterly.D.2024-11-29",
+        "memberCode": "Paula-Butterly.D.2024-11-29",
+        "showAs": "Paula Butterly"
+      },
+      "questionNumber": 13,
+      "house": {
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "committeeCode": ""
       }
     },
     "contextDate": "2026-02-12"
@@ -1081,40 +1081,40 @@
   },
   {
     "question": {
-      "by": {
-        "showAs": "Colm Burke",
-        "memberCode": "Colm-Burke.S.2011-05-25",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Colm-Burke.S.2011-05-25"
-      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-12/pq_28",
+      "questionType": "oral",
+      "showAs": " 28. Deputy Colm Burke asked the Minister for Public Expenditure, Infrastructure, Public Service Reform and Digitalisation the initiatives his Department is undertaking to speed up the delivery of infrastructure projects; and if he will make a statement on the matter. [11082/26] ",
       "to": {
         "uri": null,
-        "showAs": "Public Expenditure",
+        "roleCode": null,
         "roleType": null,
-        "roleCode": null
-      },
-      "questionType": "oral",
-      "questionNumber": 28,
-      "house": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseNo": "34",
-        "committeeCode": "",
-        "showAs": "34th Dáil",
-        "chamberType": "house",
-        "houseCode": "dail"
+        "showAs": "Public Expenditure"
       },
       "date": "2026-02-12",
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-12/pq_28",
-      "showAs": " 28. Deputy Colm Burke asked the Minister for Public Expenditure, Infrastructure, Public Service Reform and Digitalisation the initiatives his Department is undertaking to speed up the delivery of infrastructure projects; and if he will make a statement on the matter. [11082/26] ",
       "debateSection": {
-        "showAs": "Strategic Infrastructure",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-12/debate/dbsect_16",
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-12/debate/mul@/dbsect_16.xml"
-          },
-          "pdf": null
+          }
         },
         "debateSectionId": "dbsect_16",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-12/debate/dbsect_16"
+        "showAs": "Strategic Infrastructure"
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Colm-Burke.S.2011-05-25",
+        "memberCode": "Colm-Burke.S.2011-05-25",
+        "showAs": "Colm Burke"
+      },
+      "questionNumber": 28,
+      "house": {
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "committeeCode": ""
       }
     },
     "contextDate": "2026-02-12"
@@ -2401,40 +2401,40 @@
   },
   {
     "question": {
-      "by": {
-        "showAs": "Richard Boyd Barrett",
-        "memberCode": "Richard-Boyd-Barrett.D.2011-03-09",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Richard-Boyd-Barrett.D.2011-03-09"
-      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-12/pq_61",
+      "questionType": "oral",
+      "showAs": " 61. Deputy Richard Boyd Barrett asked the Minister for Public Expenditure, Infrastructure, Public Service Reform and Digitalisation the immediate actions that will be taken by his Department to accelerate delivery of critical infrastructure outlined in the accelerating infrastructure action plan; and if he will make a statement on the matter. [10694/26] ",
       "to": {
         "uri": null,
-        "showAs": "Public Expenditure",
+        "roleCode": null,
         "roleType": null,
-        "roleCode": null
-      },
-      "questionType": "oral",
-      "questionNumber": 61,
-      "house": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseNo": "34",
-        "committeeCode": "",
-        "showAs": "34th Dáil",
-        "chamberType": "house",
-        "houseCode": "dail"
+        "showAs": "Public Expenditure"
       },
       "date": "2026-02-12",
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-12/pq_61",
-      "showAs": " 61. Deputy Richard Boyd Barrett asked the Minister for Public Expenditure, Infrastructure, Public Service Reform and Digitalisation the immediate actions that will be taken by his Department to accelerate delivery of critical infrastructure outlined in the accelerating infrastructure action plan; and if he will make a statement on the matter. [10694/26] ",
       "debateSection": {
-        "showAs": "Strategic Infrastructure",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-12/debate/dbsect_16",
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-12/debate/mul@/dbsect_16.xml"
-          },
-          "pdf": null
+          }
         },
         "debateSectionId": "dbsect_16",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-12/debate/dbsect_16"
+        "showAs": "Strategic Infrastructure"
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Richard-Boyd-Barrett.D.2011-03-09",
+        "memberCode": "Richard-Boyd-Barrett.D.2011-03-09",
+        "showAs": "Richard Boyd Barrett"
+      },
+      "questionNumber": 61,
+      "house": {
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "committeeCode": ""
       }
     },
     "contextDate": "2026-02-12"
@@ -3041,40 +3041,40 @@
   },
   {
     "question": {
-      "by": {
-        "showAs": "Naoise Ó Cearúil",
-        "memberCode": "Naoise-Ó-Cearúil.D.2024-11-29",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Naoise-Ó-Cearúil.D.2024-11-29"
-      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-12/pq_77",
+      "questionType": "oral",
+      "showAs": " 77. Deputy Naoise Ó Cearúil asked the Minister for Public Expenditure, Infrastructure, Public Service Reform and Digitalisation whether performance indicators or delivery targets have been established for the infrastructure division and the accelerating infrastructure task force; if these metrics will be published; and if he will make a statement on the matter. [10997/26] ",
       "to": {
         "uri": null,
-        "showAs": "Public Expenditure",
+        "roleCode": null,
         "roleType": null,
-        "roleCode": null
-      },
-      "questionType": "oral",
-      "questionNumber": 77,
-      "house": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseNo": "34",
-        "committeeCode": "",
-        "showAs": "34th Dáil",
-        "chamberType": "house",
-        "houseCode": "dail"
+        "showAs": "Public Expenditure"
       },
       "date": "2026-02-12",
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-12/pq_77",
-      "showAs": " 77. Deputy Naoise Ó Cearúil asked the Minister for Public Expenditure, Infrastructure, Public Service Reform and Digitalisation whether performance indicators or delivery targets have been established for the infrastructure division and the accelerating infrastructure task force; if these metrics will be published; and if he will make a statement on the matter. [10997/26] ",
       "debateSection": {
-        "showAs": "Strategic Infrastructure",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-12/debate/dbsect_16",
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-12/debate/mul@/dbsect_16.xml"
-          },
-          "pdf": null
+          }
         },
         "debateSectionId": "dbsect_16",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-12/debate/dbsect_16"
+        "showAs": "Strategic Infrastructure"
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Naoise-Ó-Cearúil.D.2024-11-29",
+        "memberCode": "Naoise-Ó-Cearúil.D.2024-11-29",
+        "showAs": "Naoise Ó Cearúil"
+      },
+      "questionNumber": 77,
+      "house": {
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "committeeCode": ""
       }
     },
     "contextDate": "2026-02-12"
@@ -3281,40 +3281,40 @@
   },
   {
     "question": {
-      "by": {
-        "showAs": "Richard Boyd Barrett",
-        "memberCode": "Richard-Boyd-Barrett.D.2011-03-09",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Richard-Boyd-Barrett.D.2011-03-09"
-      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-12/pq_83",
+      "questionType": "oral",
+      "showAs": " 83. Deputy Richard Boyd Barrett asked the Minister for Public Expenditure, Infrastructure, Public Service Reform and Digitalisation the reforms that will be introduced in his Department to deliver on infrastructure promises made in the accelerating infrastructure action plan; and if he will make a statement on the matter. [10693/26] ",
       "to": {
         "uri": null,
-        "showAs": "Public Expenditure",
+        "roleCode": null,
         "roleType": null,
-        "roleCode": null
-      },
-      "questionType": "oral",
-      "questionNumber": 83,
-      "house": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseNo": "34",
-        "committeeCode": "",
-        "showAs": "34th Dáil",
-        "chamberType": "house",
-        "houseCode": "dail"
+        "showAs": "Public Expenditure"
       },
       "date": "2026-02-12",
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-12/pq_83",
-      "showAs": " 83. Deputy Richard Boyd Barrett asked the Minister for Public Expenditure, Infrastructure, Public Service Reform and Digitalisation the reforms that will be introduced in his Department to deliver on infrastructure promises made in the accelerating infrastructure action plan; and if he will make a statement on the matter. [10693/26] ",
       "debateSection": {
-        "showAs": "Strategic Infrastructure",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-12/debate/dbsect_16",
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-12/debate/mul@/dbsect_16.xml"
-          },
-          "pdf": null
+          }
         },
         "debateSectionId": "dbsect_16",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-12/debate/dbsect_16"
+        "showAs": "Strategic Infrastructure"
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Richard-Boyd-Barrett.D.2011-03-09",
+        "memberCode": "Richard-Boyd-Barrett.D.2011-03-09",
+        "showAs": "Richard Boyd Barrett"
+      },
+      "questionNumber": 83,
+      "house": {
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "committeeCode": ""
       }
     },
     "contextDate": "2026-02-12"
@@ -3641,200 +3641,200 @@
   },
   {
     "question": {
-      "by": {
-        "showAs": "Darren O'Rourke",
-        "memberCode": "Darren-O'Rourke.D.2020-02-08",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Darren-O'Rourke.D.2020-02-08"
-      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-12/pq_92",
+      "questionType": "oral",
+      "showAs": " 92. Deputy Darren O'Rourke asked the Minister for Education and Youth the number of children notified to the NCSE before the October parent notification deadline; the number of children notified to the NCSE after the October deadline; the number of those children currently without an offer of a school place for September 2026; the measures she is taking to address this to ensure every child has an appropriate school place; and if she will make a statement on the matter. [11341/26] ",
       "to": {
         "uri": null,
-        "showAs": "Education",
+        "roleCode": null,
         "roleType": null,
-        "roleCode": null
-      },
-      "questionType": "oral",
-      "questionNumber": 92,
-      "house": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseNo": "34",
-        "committeeCode": "",
-        "showAs": "34th Dáil",
-        "chamberType": "house",
-        "houseCode": "dail"
+        "showAs": "Education"
       },
       "date": "2026-02-12",
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-12/pq_92",
-      "showAs": " 92. Deputy Darren O'Rourke asked the Minister for Education and Youth the number of children notified to the NCSE before the October parent notification deadline; the number of children notified to the NCSE after the October deadline; the number of those children currently without an offer of a school place for September 2026; the measures she is taking to address this to ensure every child has an appropriate school place; and if she will make a statement on the matter. [11341/26] ",
       "debateSection": {
-        "showAs": "Special Educational Needs",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-12/debate/dbsect_18",
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-12/debate/mul@/dbsect_18.xml"
-          },
-          "pdf": null
+          }
         },
         "debateSectionId": "dbsect_18",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-12/debate/dbsect_18"
+        "showAs": "Special Educational Needs"
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Darren-O'Rourke.D.2020-02-08",
+        "memberCode": "Darren-O'Rourke.D.2020-02-08",
+        "showAs": "Darren O'Rourke"
+      },
+      "questionNumber": 92,
+      "house": {
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "committeeCode": ""
       }
     },
     "contextDate": "2026-02-12"
   },
   {
     "question": {
-      "by": {
-        "showAs": "Jen Cummins",
-        "memberCode": "Jen-Cummins.D.2024-11-29",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Jen-Cummins.D.2024-11-29"
-      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-12/pq_93",
+      "questionType": "oral",
+      "showAs": " 93. Deputy Jen Cummins asked the Minister for Education and Youth her plans to ensure the survivors of institutional abuse who recently ended their hunger strike receive their HAA card and full contributory pension. [11582/26] ",
       "to": {
         "uri": null,
-        "showAs": "Education",
+        "roleCode": null,
         "roleType": null,
-        "roleCode": null
-      },
-      "questionType": "oral",
-      "questionNumber": 93,
-      "house": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseNo": "34",
-        "committeeCode": "",
-        "showAs": "34th Dáil",
-        "chamberType": "house",
-        "houseCode": "dail"
+        "showAs": "Education"
       },
       "date": "2026-02-12",
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-12/pq_93",
-      "showAs": " 93. Deputy Jen Cummins asked the Minister for Education and Youth her plans to ensure the survivors of institutional abuse who recently ended their hunger strike receive their HAA card and full contributory pension. [11582/26] ",
       "debateSection": {
-        "showAs": "Residential Institutions",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-12/debate/dbsect_19",
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-12/debate/mul@/dbsect_19.xml"
-          },
-          "pdf": null
+          }
         },
         "debateSectionId": "dbsect_19",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-12/debate/dbsect_19"
+        "showAs": "Residential Institutions"
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Jen-Cummins.D.2024-11-29",
+        "memberCode": "Jen-Cummins.D.2024-11-29",
+        "showAs": "Jen Cummins"
+      },
+      "questionNumber": 93,
+      "house": {
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "committeeCode": ""
       }
     },
     "contextDate": "2026-02-12"
   },
   {
     "question": {
-      "by": {
-        "showAs": "Darren O'Rourke",
-        "memberCode": "Darren-O'Rourke.D.2020-02-08",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Darren-O'Rourke.D.2020-02-08"
-      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-12/pq_94",
+      "questionType": "oral",
+      "showAs": " 94. Deputy Darren O'Rourke asked the Minister for Education and Youth the position regarding the work of the inter-departmental group considering the recommendation for a redress scheme arising from the scoping inquiry into historical sexual abuse in schools run by religious orders; the way in which this will be incorporated into the work of the Commission of Investigation into the Handling of Historical Child Sexual Abuse in Schools; and if she will make a statement on the matter. [11342/26] ",
       "to": {
         "uri": null,
-        "showAs": "Education",
+        "roleCode": null,
         "roleType": null,
-        "roleCode": null
-      },
-      "questionType": "oral",
-      "questionNumber": 94,
-      "house": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseNo": "34",
-        "committeeCode": "",
-        "showAs": "34th Dáil",
-        "chamberType": "house",
-        "houseCode": "dail"
+        "showAs": "Education"
       },
       "date": "2026-02-12",
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-12/pq_94",
-      "showAs": " 94. Deputy Darren O'Rourke asked the Minister for Education and Youth the position regarding the work of the inter-departmental group considering the recommendation for a redress scheme arising from the scoping inquiry into historical sexual abuse in schools run by religious orders; the way in which this will be incorporated into the work of the Commission of Investigation into the Handling of Historical Child Sexual Abuse in Schools; and if she will make a statement on the matter. [11342/26] ",
       "debateSection": {
-        "showAs": "Commissions of Investigation",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-12/debate/dbsect_20",
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-12/debate/mul@/dbsect_20.xml"
-          },
-          "pdf": null
+          }
         },
         "debateSectionId": "dbsect_20",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-12/debate/dbsect_20"
+        "showAs": "Commissions of Investigation"
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Darren-O'Rourke.D.2020-02-08",
+        "memberCode": "Darren-O'Rourke.D.2020-02-08",
+        "showAs": "Darren O'Rourke"
+      },
+      "questionNumber": 94,
+      "house": {
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "committeeCode": ""
       }
     },
     "contextDate": "2026-02-12"
   },
   {
     "question": {
-      "by": {
-        "showAs": "Eoghan Kenny",
-        "memberCode": "Eoghan-Kenny.D.2024-11-29",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Eoghan-Kenny.D.2024-11-29"
-      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-12/pq_95",
+      "questionType": "oral",
+      "showAs": " 95. Deputy Eoghan Kenny asked the Minister for Education and Youth to outline the Government’s decision-making processes for assisting children in State examinations with specific learning difficulties; and if she will make a statement on the matter. [10098/26] ",
       "to": {
         "uri": null,
-        "showAs": "Education",
+        "roleCode": null,
         "roleType": null,
-        "roleCode": null
-      },
-      "questionType": "oral",
-      "questionNumber": 95,
-      "house": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseNo": "34",
-        "committeeCode": "",
-        "showAs": "34th Dáil",
-        "chamberType": "house",
-        "houseCode": "dail"
+        "showAs": "Education"
       },
       "date": "2026-02-12",
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-12/pq_95",
-      "showAs": " 95. Deputy Eoghan Kenny asked the Minister for Education and Youth to outline the Government’s decision-making processes for assisting children in State examinations with specific learning difficulties; and if she will make a statement on the matter. [10098/26] ",
       "debateSection": {
-        "showAs": "Special Educational Needs",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-12/debate/dbsect_21",
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-12/debate/mul@/dbsect_21.xml"
-          },
-          "pdf": null
+          }
         },
         "debateSectionId": "dbsect_21",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-12/debate/dbsect_21"
+        "showAs": "Special Educational Needs"
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Eoghan-Kenny.D.2024-11-29",
+        "memberCode": "Eoghan-Kenny.D.2024-11-29",
+        "showAs": "Eoghan Kenny"
+      },
+      "questionNumber": 95,
+      "house": {
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "committeeCode": ""
       }
     },
     "contextDate": "2026-02-12"
   },
   {
     "question": {
-      "by": {
-        "showAs": "Paul Murphy",
-        "memberCode": "Paul-Murphy.D.2014-10-10",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Murphy.D.2014-10-10"
-      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-12/pq_96",
+      "questionType": "oral",
+      "showAs": " 96. Deputy Paul Murphy asked the Minister for Education and Youth the school building and refurbishment projects in Dublin 24 that will be included in the NDP sectoral investment plan; when they will be included; and if she will make a statement on the matter. [11024/26] ",
       "to": {
         "uri": null,
-        "showAs": "Education",
+        "roleCode": null,
         "roleType": null,
-        "roleCode": null
-      },
-      "questionType": "oral",
-      "questionNumber": 96,
-      "house": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseNo": "34",
-        "committeeCode": "",
-        "showAs": "34th Dáil",
-        "chamberType": "house",
-        "houseCode": "dail"
+        "showAs": "Education"
       },
       "date": "2026-02-12",
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-12/pq_96",
-      "showAs": " 96. Deputy Paul Murphy asked the Minister for Education and Youth the school building and refurbishment projects in Dublin 24 that will be included in the NDP sectoral investment plan; when they will be included; and if she will make a statement on the matter. [11024/26] ",
       "debateSection": {
-        "showAs": "Schools Building Projects",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-12/debate/dbsect_22",
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-12/debate/mul@/dbsect_22.xml"
-          },
-          "pdf": null
+          }
         },
         "debateSectionId": "dbsect_22",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-12/debate/dbsect_22"
+        "showAs": "Schools Building Projects"
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Murphy.D.2014-10-10",
+        "memberCode": "Paul-Murphy.D.2014-10-10",
+        "showAs": "Paul Murphy"
+      },
+      "questionNumber": 96,
+      "house": {
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "committeeCode": ""
       }
     },
     "contextDate": "2026-02-12"
@@ -3881,280 +3881,280 @@
   },
   {
     "question": {
-      "by": {
-        "showAs": "Naoise Ó Muirí",
-        "memberCode": "Naoise-Ó-Muirí.D.2024-11-29",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Naoise-Ó-Muirí.D.2024-11-29"
-      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-12/pq_98",
+      "questionType": "oral",
+      "showAs": " 98. Deputy Naoise Ó Muirí asked the Minister for Education and Youth for an update on the pilot single application system for post-primary school admissions; and if she will make a statement on the matter. [10773/26] ",
       "to": {
         "uri": null,
-        "showAs": "Education",
+        "roleCode": null,
         "roleType": null,
-        "roleCode": null
-      },
-      "questionType": "oral",
-      "questionNumber": 98,
-      "house": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseNo": "34",
-        "committeeCode": "",
-        "showAs": "34th Dáil",
-        "chamberType": "house",
-        "houseCode": "dail"
+        "showAs": "Education"
       },
       "date": "2026-02-12",
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-12/pq_98",
-      "showAs": " 98. Deputy Naoise Ó Muirí asked the Minister for Education and Youth for an update on the pilot single application system for post-primary school admissions; and if she will make a statement on the matter. [10773/26] ",
       "debateSection": {
-        "showAs": "School Admissions",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-12/debate/dbsect_24",
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-12/debate/mul@/dbsect_24.xml"
-          },
-          "pdf": null
+          }
         },
         "debateSectionId": "dbsect_24",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-12/debate/dbsect_24"
+        "showAs": "School Admissions"
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Naoise-Ó-Muirí.D.2024-11-29",
+        "memberCode": "Naoise-Ó-Muirí.D.2024-11-29",
+        "showAs": "Naoise Ó Muirí"
+      },
+      "questionNumber": 98,
+      "house": {
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "committeeCode": ""
       }
     },
     "contextDate": "2026-02-12"
   },
   {
     "question": {
-      "by": {
-        "showAs": "Brendan Smith",
-        "memberCode": "Brendan-Smith.D.1992-12-14",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Brendan-Smith.D.1992-12-14"
-      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-12/pq_99",
+      "questionType": "oral",
+      "showAs": " 99. Deputy Brendan Smith asked the Minister for Education and Youth when a much-needed building project will proceed to the next stage (details supplied); and if she will make a statement on the matter. [10770/26] ",
       "to": {
         "uri": null,
-        "showAs": "Education",
+        "roleCode": null,
         "roleType": null,
-        "roleCode": null
-      },
-      "questionType": "oral",
-      "questionNumber": 99,
-      "house": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseNo": "34",
-        "committeeCode": "",
-        "showAs": "34th Dáil",
-        "chamberType": "house",
-        "houseCode": "dail"
+        "showAs": "Education"
       },
       "date": "2026-02-12",
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-12/pq_99",
-      "showAs": " 99. Deputy Brendan Smith asked the Minister for Education and Youth when a much-needed building project will proceed to the next stage (details supplied); and if she will make a statement on the matter. [10770/26] ",
       "debateSection": {
-        "showAs": "Schools Building Projects",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-12/debate/dbsect_25",
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-12/debate/mul@/dbsect_25.xml"
-          },
-          "pdf": null
+          }
         },
         "debateSectionId": "dbsect_25",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-12/debate/dbsect_25"
+        "showAs": "Schools Building Projects"
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Brendan-Smith.D.1992-12-14",
+        "memberCode": "Brendan-Smith.D.1992-12-14",
+        "showAs": "Brendan Smith"
+      },
+      "questionNumber": 99,
+      "house": {
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "committeeCode": ""
       }
     },
     "contextDate": "2026-02-12"
   },
   {
     "question": {
-      "by": {
-        "showAs": "Louis O'Hara",
-        "memberCode": "Louis-O'Hara.D.2024-11-29",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Louis-O'Hara.D.2024-11-29"
-      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-12/pq_100",
+      "questionType": "oral",
+      "showAs": " 100. Deputy Louis O'Hara asked the Minister for Education and Youth the measures being taken to ensure that schools in County Galway have appropriate SET and SNA allocations; and if she will make a statement on the matter. [9696/26] ",
       "to": {
         "uri": null,
-        "showAs": "Education",
+        "roleCode": null,
         "roleType": null,
-        "roleCode": null
-      },
-      "questionType": "oral",
-      "questionNumber": 100,
-      "house": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseNo": "34",
-        "committeeCode": "",
-        "showAs": "34th Dáil",
-        "chamberType": "house",
-        "houseCode": "dail"
+        "showAs": "Education"
       },
       "date": "2026-02-12",
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-12/pq_100",
-      "showAs": " 100. Deputy Louis O'Hara asked the Minister for Education and Youth the measures being taken to ensure that schools in County Galway have appropriate SET and SNA allocations; and if she will make a statement on the matter. [9696/26] ",
       "debateSection": {
-        "showAs": "Special Educational Needs",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-12/debate/dbsect_26",
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-12/debate/mul@/dbsect_26.xml"
-          },
-          "pdf": null
+          }
         },
         "debateSectionId": "dbsect_26",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-12/debate/dbsect_26"
+        "showAs": "Special Educational Needs"
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Louis-O'Hara.D.2024-11-29",
+        "memberCode": "Louis-O'Hara.D.2024-11-29",
+        "showAs": "Louis O'Hara"
+      },
+      "questionNumber": 100,
+      "house": {
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "committeeCode": ""
       }
     },
     "contextDate": "2026-02-12"
   },
   {
     "question": {
-      "by": {
-        "showAs": "Paul Lawless",
-        "memberCode": "Paul-Lawless.D.2024-11-29",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Lawless.D.2024-11-29"
-      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-12/pq_101",
+      "questionType": "oral",
+      "showAs": " 101. Deputy Paul Lawless asked the Minister for Education and Youth the projected timeline for the roll-out of the 1,717 additional SNAs and 860 additional SETs announced as part of budget 2026; the regional allocation model; and the measures in place to ensure timely recruitment.  [11013/26] ",
       "to": {
         "uri": null,
-        "showAs": "Education",
+        "roleCode": null,
         "roleType": null,
-        "roleCode": null
-      },
-      "questionType": "oral",
-      "questionNumber": 101,
-      "house": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseNo": "34",
-        "committeeCode": "",
-        "showAs": "34th Dáil",
-        "chamberType": "house",
-        "houseCode": "dail"
+        "showAs": "Education"
       },
       "date": "2026-02-12",
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-12/pq_101",
-      "showAs": " 101. Deputy Paul Lawless asked the Minister for Education and Youth the projected timeline for the roll-out of the 1,717 additional SNAs and 860 additional SETs announced as part of budget 2026; the regional allocation model; and the measures in place to ensure timely recruitment.  [11013/26] ",
       "debateSection": {
-        "showAs": "Special Educational Needs",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-12/debate/dbsect_27",
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-12/debate/mul@/dbsect_27.xml"
-          },
-          "pdf": null
+          }
         },
         "debateSectionId": "dbsect_27",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-12/debate/dbsect_27"
+        "showAs": "Special Educational Needs"
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Lawless.D.2024-11-29",
+        "memberCode": "Paul-Lawless.D.2024-11-29",
+        "showAs": "Paul Lawless"
+      },
+      "questionNumber": 101,
+      "house": {
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "committeeCode": ""
       }
     },
     "contextDate": "2026-02-12"
   },
   {
     "question": {
-      "by": {
-        "showAs": "Naoise Ó Muirí",
-        "memberCode": "Naoise-Ó-Muirí.D.2024-11-29",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Naoise-Ó-Muirí.D.2024-11-29"
-      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-12/pq_102",
+      "questionType": "oral",
+      "showAs": " 102. Deputy Naoise Ó Muirí asked the Minister for Education and Youth for an update on the establishment of a new DEIS plus scheme; and if she will make a statement on the matter.  [10774/26] ",
       "to": {
         "uri": null,
-        "showAs": "Education",
+        "roleCode": null,
         "roleType": null,
-        "roleCode": null
-      },
-      "questionType": "oral",
-      "questionNumber": 102,
-      "house": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseNo": "34",
-        "committeeCode": "",
-        "showAs": "34th Dáil",
-        "chamberType": "house",
-        "houseCode": "dail"
+        "showAs": "Education"
       },
       "date": "2026-02-12",
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-12/pq_102",
-      "showAs": " 102. Deputy Naoise Ó Muirí asked the Minister for Education and Youth for an update on the establishment of a new DEIS plus scheme; and if she will make a statement on the matter.  [10774/26] ",
       "debateSection": {
-        "showAs": "Education Schemes",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-12/debate/dbsect_28",
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-12/debate/mul@/dbsect_28.xml"
-          },
-          "pdf": null
+          }
         },
         "debateSectionId": "dbsect_28",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-12/debate/dbsect_28"
+        "showAs": "Education Schemes"
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Naoise-Ó-Muirí.D.2024-11-29",
+        "memberCode": "Naoise-Ó-Muirí.D.2024-11-29",
+        "showAs": "Naoise Ó Muirí"
+      },
+      "questionNumber": 102,
+      "house": {
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "committeeCode": ""
       }
     },
     "contextDate": "2026-02-12"
   },
   {
     "question": {
-      "by": {
-        "showAs": "Aengus Ó Snodaigh",
-        "memberCode": "Aengus-Ó-Snodaigh.D.2002-06-06",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Aengus-Ó-Snodaigh.D.2002-06-06"
-      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-12/pq_103",
+      "questionType": "oral",
+      "showAs": " 103. D'fhiafraigh Deputy Aengus Ó Snodaigh den Aire Oideachais agus Óige na ceantair pleanála scoile sa Stát nach bhfuil meánscoil lánGhaeilge iontu a ainmniú, agus cad iad na bearta i ngach cás acu atá déanta ag a Roinn chun an bearna sin a líonadh [10906/26] ",
       "to": {
         "uri": null,
-        "showAs": "Education",
+        "roleCode": null,
         "roleType": null,
-        "roleCode": null
-      },
-      "questionType": "oral",
-      "questionNumber": 103,
-      "house": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseNo": "34",
-        "committeeCode": "",
-        "showAs": "34th Dáil",
-        "chamberType": "house",
-        "houseCode": "dail"
+        "showAs": "Education"
       },
       "date": "2026-02-12",
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-12/pq_103",
-      "showAs": " 103. D'fhiafraigh Deputy Aengus Ó Snodaigh den Aire Oideachais agus Óige na ceantair pleanála scoile sa Stát nach bhfuil meánscoil lánGhaeilge iontu a ainmniú, agus cad iad na bearta i ngach cás acu atá déanta ag a Roinn chun an bearna sin a líonadh [10906/26] ",
       "debateSection": {
-        "showAs": "Education Policy",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-12/debate/dbsect_29",
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-12/debate/mul@/dbsect_29.xml"
-          },
-          "pdf": null
+          }
         },
         "debateSectionId": "dbsect_29",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-12/debate/dbsect_29"
+        "showAs": "Education Policy"
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Aengus-Ó-Snodaigh.D.2002-06-06",
+        "memberCode": "Aengus-Ó-Snodaigh.D.2002-06-06",
+        "showAs": "Aengus Ó Snodaigh"
+      },
+      "questionNumber": 103,
+      "house": {
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "committeeCode": ""
       }
     },
     "contextDate": "2026-02-12"
   },
   {
     "question": {
-      "by": {
-        "showAs": "Joanna Byrne",
-        "memberCode": "Joanna-Byrne.D.2024-11-29",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Joanna-Byrne.D.2024-11-29"
-      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-12/pq_104",
+      "questionType": "oral",
+      "showAs": " 104. Deputy Joanna Byrne asked the Minister for Education and Youth the way in which children with additional needs in Drogheda without a school place will be accommodated for the upcoming school year; and if she will make a statement on the matter. [11023/26] ",
       "to": {
         "uri": null,
-        "showAs": "Education",
+        "roleCode": null,
         "roleType": null,
-        "roleCode": null
-      },
-      "questionType": "oral",
-      "questionNumber": 104,
-      "house": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseNo": "34",
-        "committeeCode": "",
-        "showAs": "34th Dáil",
-        "chamberType": "house",
-        "houseCode": "dail"
+        "showAs": "Education"
       },
       "date": "2026-02-12",
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-12/pq_104",
-      "showAs": " 104. Deputy Joanna Byrne asked the Minister for Education and Youth the way in which children with additional needs in Drogheda without a school place will be accommodated for the upcoming school year; and if she will make a statement on the matter. [11023/26] ",
       "debateSection": {
-        "showAs": "Special Educational Needs",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-12/debate/dbsect_30",
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-12/debate/mul@/dbsect_30.xml"
-          },
-          "pdf": null
+          }
         },
         "debateSectionId": "dbsect_30",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-12/debate/dbsect_30"
+        "showAs": "Special Educational Needs"
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Joanna-Byrne.D.2024-11-29",
+        "memberCode": "Joanna-Byrne.D.2024-11-29",
+        "showAs": "Joanna Byrne"
+      },
+      "questionNumber": 104,
+      "house": {
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "committeeCode": ""
       }
     },
     "contextDate": "2026-02-12"

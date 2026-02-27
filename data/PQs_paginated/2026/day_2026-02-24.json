@@ -1,1241 +1,1241 @@
 [
   {
     "question": {
-      "debateSection": {
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-24/debate/dbsect_10",
-        "showAs": "Cabinet Committees",
-        "formats": {
-          "pdf": null,
-          "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-24/debate/mul@/dbsect_10.xml"
-          }
-        },
-        "debateSectionId": "dbsect_10"
+      "house": {
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34",
+        "chamberType": "house"
       },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-24/pq_1",
       "date": "2026-02-24",
       "questionNumber": 1,
+      "questionType": "oral",
       "by": {
+        "memberCode": "Richard-Boyd-Barrett.D.2011-03-09",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Richard-Boyd-Barrett.D.2011-03-09",
-        "showAs": "Richard Boyd Barrett",
-        "memberCode": "Richard-Boyd-Barrett.D.2011-03-09"
-      },
-      "to": {
-        "roleCode": null,
-        "uri": null,
-        "showAs": "Taoiseach",
-        "roleType": null
+        "showAs": "Richard Boyd Barrett"
       },
       "showAs": " 1. Deputy Richard Boyd Barrett asked the Taoiseach when the Cabinet committee on health will next meet. [10452/26] ",
-      "questionType": "oral",
-      "house": {
-        "committeeCode": "",
-        "showAs": "34th Dáil",
-        "houseCode": "dail",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "chamberType": "house",
-        "houseNo": "34"
-      }
-    },
-    "contextDate": "2026-02-24"
-  },
-  {
-    "question": {
       "debateSection": {
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-24/debate/dbsect_10",
-        "showAs": "Cabinet Committees",
+        "debateSectionId": "dbsect_10",
         "formats": {
           "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-24/debate/mul@/dbsect_10.xml"
           }
         },
-        "debateSectionId": "dbsect_10"
+        "showAs": "Cabinet Committees"
       },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-24/pq_2",
+      "to": {
+        "uri": null,
+        "showAs": "Taoiseach",
+        "roleType": null,
+        "roleCode": null
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-24/pq_1"
+    },
+    "contextDate": "2026-02-24"
+  },
+  {
+    "question": {
+      "house": {
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34",
+        "chamberType": "house"
+      },
       "date": "2026-02-24",
       "questionNumber": 2,
+      "questionType": "oral",
       "by": {
+        "memberCode": "Paul-Murphy.D.2014-10-10",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Murphy.D.2014-10-10",
-        "showAs": "Paul Murphy",
-        "memberCode": "Paul-Murphy.D.2014-10-10"
-      },
-      "to": {
-        "roleCode": null,
-        "uri": null,
-        "showAs": "Taoiseach",
-        "roleType": null
+        "showAs": "Paul Murphy"
       },
       "showAs": " 2. Deputy Paul Murphy asked the Taoiseach when the Cabinet committee on health will next meet. [10454/26] ",
-      "questionType": "oral",
-      "house": {
-        "committeeCode": "",
-        "showAs": "34th Dáil",
-        "houseCode": "dail",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "chamberType": "house",
-        "houseNo": "34"
-      }
-    },
-    "contextDate": "2026-02-24"
-  },
-  {
-    "question": {
       "debateSection": {
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-24/debate/dbsect_10",
-        "showAs": "Cabinet Committees",
+        "debateSectionId": "dbsect_10",
         "formats": {
           "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-24/debate/mul@/dbsect_10.xml"
           }
         },
-        "debateSectionId": "dbsect_10"
+        "showAs": "Cabinet Committees"
       },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-24/pq_3",
+      "to": {
+        "uri": null,
+        "showAs": "Taoiseach",
+        "roleType": null,
+        "roleCode": null
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-24/pq_2"
+    },
+    "contextDate": "2026-02-24"
+  },
+  {
+    "question": {
+      "house": {
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34",
+        "chamberType": "house"
+      },
       "date": "2026-02-24",
       "questionNumber": 3,
+      "questionType": "oral",
       "by": {
+        "memberCode": "Liam-Quaide.D.2024-11-29",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Liam-Quaide.D.2024-11-29",
-        "showAs": "Liam Quaide",
-        "memberCode": "Liam-Quaide.D.2024-11-29"
-      },
-      "to": {
-        "roleCode": null,
-        "uri": null,
-        "showAs": "Taoiseach",
-        "roleType": null
+        "showAs": "Liam Quaide"
       },
       "showAs": " 3. Deputy Liam Quaide asked the Taoiseach when the abinet committee on health will next meet. [11618/26] ",
-      "questionType": "oral",
-      "house": {
-        "committeeCode": "",
-        "showAs": "34th Dáil",
-        "houseCode": "dail",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "chamberType": "house",
-        "houseNo": "34"
-      }
-    },
-    "contextDate": "2026-02-24"
-  },
-  {
-    "question": {
       "debateSection": {
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-24/debate/dbsect_10",
-        "showAs": "Cabinet Committees",
+        "debateSectionId": "dbsect_10",
         "formats": {
           "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-24/debate/mul@/dbsect_10.xml"
           }
         },
-        "debateSectionId": "dbsect_10"
+        "showAs": "Cabinet Committees"
       },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-24/pq_4",
+      "to": {
+        "uri": null,
+        "showAs": "Taoiseach",
+        "roleType": null,
+        "roleCode": null
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-24/pq_3"
+    },
+    "contextDate": "2026-02-24"
+  },
+  {
+    "question": {
+      "house": {
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34",
+        "chamberType": "house"
+      },
       "date": "2026-02-24",
       "questionNumber": 4,
+      "questionType": "oral",
       "by": {
+        "memberCode": "Darren-O'Rourke.D.2020-02-08",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Darren-O'Rourke.D.2020-02-08",
-        "showAs": "Darren O'Rourke",
-        "memberCode": "Darren-O'Rourke.D.2020-02-08"
-      },
-      "to": {
-        "roleCode": null,
-        "uri": null,
-        "showAs": "Taoiseach",
-        "roleType": null
+        "showAs": "Darren O'Rourke"
       },
       "showAs": " 4. Deputy Darren O'Rourke asked the Taoiseach when the Cabinet committee on health will next meet. [11844/26] ",
-      "questionType": "oral",
-      "house": {
-        "committeeCode": "",
-        "showAs": "34th Dáil",
-        "houseCode": "dail",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "chamberType": "house",
-        "houseNo": "34"
-      }
-    },
-    "contextDate": "2026-02-24"
-  },
-  {
-    "question": {
       "debateSection": {
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-24/debate/dbsect_10",
-        "showAs": "Cabinet Committees",
+        "debateSectionId": "dbsect_10",
         "formats": {
           "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-24/debate/mul@/dbsect_10.xml"
           }
         },
-        "debateSectionId": "dbsect_10"
+        "showAs": "Cabinet Committees"
       },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-24/pq_5",
+      "to": {
+        "uri": null,
+        "showAs": "Taoiseach",
+        "roleType": null,
+        "roleCode": null
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-24/pq_4"
+    },
+    "contextDate": "2026-02-24"
+  },
+  {
+    "question": {
+      "house": {
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34",
+        "chamberType": "house"
+      },
       "date": "2026-02-24",
       "questionNumber": 5,
+      "questionType": "oral",
       "by": {
+        "memberCode": "Peter-'Chap'-Cleere.D.2024-11-29",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Peter-'Chap'-Cleere.D.2024-11-29",
-        "showAs": "Peter 'Chap' Cleere",
-        "memberCode": "Peter-'Chap'-Cleere.D.2024-11-29"
-      },
-      "to": {
-        "roleCode": null,
-        "uri": null,
-        "showAs": "Taoiseach",
-        "roleType": null
+        "showAs": "Peter 'Chap' Cleere"
       },
       "showAs": " 5. Deputy Peter 'Chap' Cleere asked the Taoiseach when the Cabinet committee on health will next meet. [11881/26] ",
-      "questionType": "oral",
-      "house": {
-        "committeeCode": "",
-        "showAs": "34th Dáil",
-        "houseCode": "dail",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "chamberType": "house",
-        "houseNo": "34"
-      }
-    },
-    "contextDate": "2026-02-24"
-  },
-  {
-    "question": {
       "debateSection": {
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-24/debate/dbsect_10",
-        "showAs": "Cabinet Committees",
+        "debateSectionId": "dbsect_10",
         "formats": {
           "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-24/debate/mul@/dbsect_10.xml"
           }
         },
-        "debateSectionId": "dbsect_10"
+        "showAs": "Cabinet Committees"
       },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-24/pq_6",
+      "to": {
+        "uri": null,
+        "showAs": "Taoiseach",
+        "roleType": null,
+        "roleCode": null
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-24/pq_5"
+    },
+    "contextDate": "2026-02-24"
+  },
+  {
+    "question": {
+      "house": {
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34",
+        "chamberType": "house"
+      },
       "date": "2026-02-24",
       "questionNumber": 6,
+      "questionType": "oral",
       "by": {
+        "memberCode": "Martin-Daly.D.2024-11-29",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Martin-Daly.D.2024-11-29",
-        "showAs": "Martin Daly",
-        "memberCode": "Martin-Daly.D.2024-11-29"
-      },
-      "to": {
-        "roleCode": null,
-        "uri": null,
-        "showAs": "Taoiseach",
-        "roleType": null
+        "showAs": "Martin Daly"
       },
       "showAs": " 6. Deputy Martin Daly asked the Taoiseach when the Cabinet committee on health will next meet. [69861/25] ",
-      "questionType": "oral",
-      "house": {
-        "committeeCode": "",
-        "showAs": "34th Dáil",
-        "houseCode": "dail",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "chamberType": "house",
-        "houseNo": "34"
-      }
-    },
-    "contextDate": "2026-02-24"
-  },
-  {
-    "question": {
       "debateSection": {
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-24/debate/dbsect_10",
-        "showAs": "Cabinet Committees",
+        "debateSectionId": "dbsect_10",
         "formats": {
           "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-24/debate/mul@/dbsect_10.xml"
           }
         },
-        "debateSectionId": "dbsect_10"
+        "showAs": "Cabinet Committees"
       },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-24/pq_7",
+      "to": {
+        "uri": null,
+        "showAs": "Taoiseach",
+        "roleType": null,
+        "roleCode": null
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-24/pq_6"
+    },
+    "contextDate": "2026-02-24"
+  },
+  {
+    "question": {
+      "house": {
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34",
+        "chamberType": "house"
+      },
       "date": "2026-02-24",
       "questionNumber": 7,
+      "questionType": "oral",
       "by": {
+        "memberCode": "Pádraig-O'Sullivan.D.2019-11-29",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Pádraig-O'Sullivan.D.2019-11-29",
-        "showAs": "Pádraig O'Sullivan",
-        "memberCode": "Pádraig-O'Sullivan.D.2019-11-29"
-      },
-      "to": {
-        "roleCode": null,
-        "uri": null,
-        "showAs": "Taoiseach",
-        "roleType": null
+        "showAs": "Pádraig O'Sullivan"
       },
       "showAs": " 7. Deputy Pádraig O'Sullivan asked the Taoiseach when the Cabinet committee on health will next meet. [69862/25] ",
-      "questionType": "oral",
-      "house": {
-        "committeeCode": "",
-        "showAs": "34th Dáil",
-        "houseCode": "dail",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "chamberType": "house",
-        "houseNo": "34"
-      }
-    },
-    "contextDate": "2026-02-24"
-  },
-  {
-    "question": {
       "debateSection": {
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-24/debate/dbsect_10",
-        "showAs": "Cabinet Committees",
+        "debateSectionId": "dbsect_10",
         "formats": {
           "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-24/debate/mul@/dbsect_10.xml"
           }
         },
-        "debateSectionId": "dbsect_10"
+        "showAs": "Cabinet Committees"
       },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-24/pq_8",
+      "to": {
+        "uri": null,
+        "showAs": "Taoiseach",
+        "roleType": null,
+        "roleCode": null
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-24/pq_7"
+    },
+    "contextDate": "2026-02-24"
+  },
+  {
+    "question": {
+      "house": {
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34",
+        "chamberType": "house"
+      },
       "date": "2026-02-24",
       "questionNumber": 8,
+      "questionType": "oral",
       "by": {
+        "memberCode": "Michael-Cahill.D.2024-11-29",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Michael-Cahill.D.2024-11-29",
-        "showAs": "Michael Cahill",
-        "memberCode": "Michael-Cahill.D.2024-11-29"
-      },
-      "to": {
-        "roleCode": null,
-        "uri": null,
-        "showAs": "Taoiseach",
-        "roleType": null
+        "showAs": "Michael Cahill"
       },
       "showAs": " 8. Deputy Michael Cahill asked the Taoiseach when the Cabinet committee on health will next meet. [69863/25] ",
-      "questionType": "oral",
-      "house": {
-        "committeeCode": "",
-        "showAs": "34th Dáil",
-        "houseCode": "dail",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "chamberType": "house",
-        "houseNo": "34"
-      }
-    },
-    "contextDate": "2026-02-24"
-  },
-  {
-    "question": {
       "debateSection": {
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-24/debate/dbsect_10",
-        "showAs": "Cabinet Committees",
+        "debateSectionId": "dbsect_10",
         "formats": {
           "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-24/debate/mul@/dbsect_10.xml"
           }
         },
-        "debateSectionId": "dbsect_10"
+        "showAs": "Cabinet Committees"
       },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-24/pq_9",
+      "to": {
+        "uri": null,
+        "showAs": "Taoiseach",
+        "roleType": null,
+        "roleCode": null
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-24/pq_8"
+    },
+    "contextDate": "2026-02-24"
+  },
+  {
+    "question": {
+      "house": {
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34",
+        "chamberType": "house"
+      },
       "date": "2026-02-24",
       "questionNumber": 9,
+      "questionType": "oral",
       "by": {
+        "memberCode": "Ruairí-Ó-Murchú.D.2020-02-08",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruairí-Ó-Murchú.D.2020-02-08",
-        "showAs": "Ruairí Ó Murchú",
-        "memberCode": "Ruairí-Ó-Murchú.D.2020-02-08"
-      },
-      "to": {
-        "roleCode": null,
-        "uri": null,
-        "showAs": "Taoiseach",
-        "roleType": null
+        "showAs": "Ruairí Ó Murchú"
       },
       "showAs": " 9. Deputy Ruairí Ó Murchú asked the Taoiseach when the Cabinet committee on health will next meet [7694/26] ",
-      "questionType": "oral",
-      "house": {
-        "committeeCode": "",
-        "showAs": "34th Dáil",
-        "houseCode": "dail",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "chamberType": "house",
-        "houseNo": "34"
-      }
-    },
-    "contextDate": "2026-02-24"
-  },
-  {
-    "question": {
       "debateSection": {
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-24/debate/dbsect_10",
-        "showAs": "Cabinet Committees",
+        "debateSectionId": "dbsect_10",
         "formats": {
           "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-24/debate/mul@/dbsect_10.xml"
           }
         },
-        "debateSectionId": "dbsect_10"
+        "showAs": "Cabinet Committees"
       },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-24/pq_10",
+      "to": {
+        "uri": null,
+        "showAs": "Taoiseach",
+        "roleType": null,
+        "roleCode": null
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-24/pq_9"
+    },
+    "contextDate": "2026-02-24"
+  },
+  {
+    "question": {
+      "house": {
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34",
+        "chamberType": "house"
+      },
       "date": "2026-02-24",
       "questionNumber": 10,
+      "questionType": "oral",
       "by": {
+        "memberCode": "Paul-Lawless.D.2024-11-29",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Lawless.D.2024-11-29",
-        "showAs": "Paul Lawless",
-        "memberCode": "Paul-Lawless.D.2024-11-29"
-      },
-      "to": {
-        "roleCode": null,
-        "uri": null,
-        "showAs": "Taoiseach",
-        "roleType": null
+        "showAs": "Paul Lawless"
       },
       "showAs": " 10. Deputy Paul Lawless asked the Taoiseach when the Cabinet committee on health will next meet. [12129/26] ",
-      "questionType": "oral",
-      "house": {
-        "committeeCode": "",
-        "showAs": "34th Dáil",
-        "houseCode": "dail",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "chamberType": "house",
-        "houseNo": "34"
-      }
-    },
-    "contextDate": "2026-02-24"
-  },
-  {
-    "question": {
       "debateSection": {
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-24/debate/dbsect_10",
-        "showAs": "Cabinet Committees",
+        "debateSectionId": "dbsect_10",
         "formats": {
           "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-24/debate/mul@/dbsect_10.xml"
           }
         },
-        "debateSectionId": "dbsect_10"
+        "showAs": "Cabinet Committees"
       },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-24/pq_11",
+      "to": {
+        "uri": null,
+        "showAs": "Taoiseach",
+        "roleType": null,
+        "roleCode": null
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-24/pq_10"
+    },
+    "contextDate": "2026-02-24"
+  },
+  {
+    "question": {
+      "house": {
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34",
+        "chamberType": "house"
+      },
       "date": "2026-02-24",
       "questionNumber": 11,
+      "questionType": "oral",
       "by": {
+        "memberCode": "Peadar-Tóibín.D.2011-03-09",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Peadar-Tóibín.D.2011-03-09",
-        "showAs": "Peadar Tóibín",
-        "memberCode": "Peadar-Tóibín.D.2011-03-09"
-      },
-      "to": {
-        "roleCode": null,
-        "uri": null,
-        "showAs": "Taoiseach",
-        "roleType": null
+        "showAs": "Peadar Tóibín"
       },
       "showAs": " 11. Deputy Peadar Tóibín asked the Taoiseach when the Cabinet committee on health will next meet. [12131/26] ",
-      "questionType": "oral",
-      "house": {
-        "committeeCode": "",
-        "showAs": "34th Dáil",
-        "houseCode": "dail",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "chamberType": "house",
-        "houseNo": "34"
-      }
-    },
-    "contextDate": "2026-02-24"
-  },
-  {
-    "question": {
       "debateSection": {
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-24/debate/dbsect_10",
-        "showAs": "Cabinet Committees",
+        "debateSectionId": "dbsect_10",
         "formats": {
           "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-24/debate/mul@/dbsect_10.xml"
           }
         },
-        "debateSectionId": "dbsect_10"
+        "showAs": "Cabinet Committees"
       },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-24/pq_12",
+      "to": {
+        "uri": null,
+        "showAs": "Taoiseach",
+        "roleType": null,
+        "roleCode": null
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-24/pq_11"
+    },
+    "contextDate": "2026-02-24"
+  },
+  {
+    "question": {
+      "house": {
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34",
+        "chamberType": "house"
+      },
       "date": "2026-02-24",
       "questionNumber": 12,
+      "questionType": "oral",
       "by": {
+        "memberCode": "David-Cullinane.S.2011-05-25",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/David-Cullinane.S.2011-05-25",
-        "showAs": "David Cullinane",
-        "memberCode": "David-Cullinane.S.2011-05-25"
-      },
-      "to": {
-        "roleCode": null,
-        "uri": null,
-        "showAs": "Taoiseach",
-        "roleType": null
+        "showAs": "David Cullinane"
       },
       "showAs": " 12. Deputy David Cullinane asked the Taoiseach when the Cabinet committee on health will next meet. [9924/26] ",
-      "questionType": "oral",
-      "house": {
-        "committeeCode": "",
-        "showAs": "34th Dáil",
-        "houseCode": "dail",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "chamberType": "house",
-        "houseNo": "34"
-      }
-    },
-    "contextDate": "2026-02-24"
-  },
-  {
-    "question": {
       "debateSection": {
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-24/debate/dbsect_10",
-        "showAs": "Cabinet Committees",
+        "debateSectionId": "dbsect_10",
         "formats": {
           "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-24/debate/mul@/dbsect_10.xml"
           }
         },
-        "debateSectionId": "dbsect_10"
+        "showAs": "Cabinet Committees"
       },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-24/pq_13",
+      "to": {
+        "uri": null,
+        "showAs": "Taoiseach",
+        "roleType": null,
+        "roleCode": null
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-24/pq_12"
+    },
+    "contextDate": "2026-02-24"
+  },
+  {
+    "question": {
+      "house": {
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34",
+        "chamberType": "house"
+      },
       "date": "2026-02-24",
       "questionNumber": 13,
+      "questionType": "oral",
       "by": {
+        "memberCode": "Jennifer-Whitmore.D.2020-02-08",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Jennifer-Whitmore.D.2020-02-08",
-        "showAs": "Jennifer Whitmore",
-        "memberCode": "Jennifer-Whitmore.D.2020-02-08"
-      },
-      "to": {
-        "roleCode": null,
-        "uri": null,
-        "showAs": "Taoiseach",
-        "roleType": null
+        "showAs": "Jennifer Whitmore"
       },
       "showAs": " 13. Deputy Jennifer Whitmore asked the Taoiseach when the Cabinet committee on health will next meet. [9926/26] ",
-      "questionType": "oral",
-      "house": {
-        "committeeCode": "",
-        "showAs": "34th Dáil",
-        "houseCode": "dail",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "chamberType": "house",
-        "houseNo": "34"
-      }
-    },
-    "contextDate": "2026-02-24"
-  },
-  {
-    "question": {
       "debateSection": {
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-24/debate/dbsect_10",
-        "showAs": "Cabinet Committees",
+        "debateSectionId": "dbsect_10",
         "formats": {
           "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-24/debate/mul@/dbsect_10.xml"
           }
         },
-        "debateSectionId": "dbsect_10"
+        "showAs": "Cabinet Committees"
       },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-24/pq_14",
+      "to": {
+        "uri": null,
+        "showAs": "Taoiseach",
+        "roleType": null,
+        "roleCode": null
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-24/pq_13"
+    },
+    "contextDate": "2026-02-24"
+  },
+  {
+    "question": {
+      "house": {
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34",
+        "chamberType": "house"
+      },
       "date": "2026-02-24",
       "questionNumber": 14,
+      "questionType": "oral",
       "by": {
+        "memberCode": "Mark-Ward.D.2019-11-29",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Mark-Ward.D.2019-11-29",
-        "showAs": "Mark Ward",
-        "memberCode": "Mark-Ward.D.2019-11-29"
-      },
-      "to": {
-        "roleCode": null,
-        "uri": null,
-        "showAs": "Taoiseach",
-        "roleType": null
+        "showAs": "Mark Ward"
       },
       "showAs": " 14. Deputy Mark Ward asked the Taoiseach when the Cabinet committee on health will next meet. [10030/26] ",
-      "questionType": "oral",
-      "house": {
-        "committeeCode": "",
-        "showAs": "34th Dáil",
-        "houseCode": "dail",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "chamberType": "house",
-        "houseNo": "34"
-      }
-    },
-    "contextDate": "2026-02-24"
-  },
-  {
-    "question": {
       "debateSection": {
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-24/debate/dbsect_10",
-        "showAs": "Cabinet Committees",
+        "debateSectionId": "dbsect_10",
         "formats": {
           "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-24/debate/mul@/dbsect_10.xml"
           }
         },
-        "debateSectionId": "dbsect_10"
+        "showAs": "Cabinet Committees"
       },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-24/pq_15",
+      "to": {
+        "uri": null,
+        "showAs": "Taoiseach",
+        "roleType": null,
+        "roleCode": null
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-24/pq_14"
+    },
+    "contextDate": "2026-02-24"
+  },
+  {
+    "question": {
+      "house": {
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34",
+        "chamberType": "house"
+      },
       "date": "2026-02-24",
       "questionNumber": 15,
+      "questionType": "oral",
       "by": {
+        "memberCode": "James-Geoghegan.D.2024-11-29",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/James-Geoghegan.D.2024-11-29",
-        "showAs": "James Geoghegan",
-        "memberCode": "James-Geoghegan.D.2024-11-29"
-      },
-      "to": {
-        "roleCode": null,
-        "uri": null,
-        "showAs": "Taoiseach",
-        "roleType": null
+        "showAs": "James Geoghegan"
       },
       "showAs": " 15. Deputy James Geoghegan asked the Taoiseach when the Cabinet committee on health will next meet. [12503/26] ",
-      "questionType": "oral",
-      "house": {
-        "committeeCode": "",
-        "showAs": "34th Dáil",
-        "houseCode": "dail",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "chamberType": "house",
-        "houseNo": "34"
-      }
-    },
-    "contextDate": "2026-02-24"
-  },
-  {
-    "question": {
       "debateSection": {
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-24/debate/dbsect_10",
-        "showAs": "Cabinet Committees",
+        "debateSectionId": "dbsect_10",
         "formats": {
           "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-24/debate/mul@/dbsect_10.xml"
           }
         },
-        "debateSectionId": "dbsect_10"
+        "showAs": "Cabinet Committees"
       },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-24/pq_16",
+      "to": {
+        "uri": null,
+        "showAs": "Taoiseach",
+        "roleType": null,
+        "roleCode": null
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-24/pq_15"
+    },
+    "contextDate": "2026-02-24"
+  },
+  {
+    "question": {
+      "house": {
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34",
+        "chamberType": "house"
+      },
       "date": "2026-02-24",
       "questionNumber": 16,
+      "questionType": "oral",
       "by": {
+        "memberCode": "Louis-O'Hara.D.2024-11-29",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Louis-O'Hara.D.2024-11-29",
-        "showAs": "Louis O'Hara",
-        "memberCode": "Louis-O'Hara.D.2024-11-29"
-      },
-      "to": {
-        "roleCode": null,
-        "uri": null,
-        "showAs": "Taoiseach",
-        "roleType": null
+        "showAs": "Louis O'Hara"
       },
       "showAs": " 16. Deputy Louis O'Hara asked the Taoiseach when the Cabinet committee on health will next meet. [14749/26] ",
-      "questionType": "oral",
-      "house": {
-        "committeeCode": "",
-        "showAs": "34th Dáil",
-        "houseCode": "dail",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "chamberType": "house",
-        "houseNo": "34"
-      }
-    },
-    "contextDate": "2026-02-24"
-  },
-  {
-    "question": {
       "debateSection": {
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-24/debate/dbsect_10",
-        "showAs": "Cabinet Committees",
+        "debateSectionId": "dbsect_10",
         "formats": {
           "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-24/debate/mul@/dbsect_10.xml"
           }
         },
-        "debateSectionId": "dbsect_10"
+        "showAs": "Cabinet Committees"
       },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-24/pq_17",
+      "to": {
+        "uri": null,
+        "showAs": "Taoiseach",
+        "roleType": null,
+        "roleCode": null
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-24/pq_16"
+    },
+    "contextDate": "2026-02-24"
+  },
+  {
+    "question": {
+      "house": {
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34",
+        "chamberType": "house"
+      },
       "date": "2026-02-24",
       "questionNumber": 17,
+      "questionType": "oral",
       "by": {
+        "memberCode": "Barry-Heneghan.D.2024-11-29",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Barry-Heneghan.D.2024-11-29",
-        "showAs": "Barry Heneghan",
-        "memberCode": "Barry-Heneghan.D.2024-11-29"
-      },
-      "to": {
-        "roleCode": null,
-        "uri": null,
-        "showAs": "Taoiseach",
-        "roleType": null
+        "showAs": "Barry Heneghan"
       },
       "showAs": " 17. Deputy Barry Heneghan asked the Taoiseach when the Cabinet committee on health will next meet. [14761/26] ",
-      "questionType": "oral",
-      "house": {
-        "committeeCode": "",
-        "showAs": "34th Dáil",
-        "houseCode": "dail",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "chamberType": "house",
-        "houseNo": "34"
-      }
-    },
-    "contextDate": "2026-02-24"
-  },
-  {
-    "question": {
       "debateSection": {
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-24/debate/dbsect_10",
-        "showAs": "Cabinet Committees",
+        "debateSectionId": "dbsect_10",
         "formats": {
           "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-24/debate/mul@/dbsect_10.xml"
           }
         },
-        "debateSectionId": "dbsect_10"
+        "showAs": "Cabinet Committees"
       },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-24/pq_18",
+      "to": {
+        "uri": null,
+        "showAs": "Taoiseach",
+        "roleType": null,
+        "roleCode": null
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-24/pq_17"
+    },
+    "contextDate": "2026-02-24"
+  },
+  {
+    "question": {
+      "house": {
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34",
+        "chamberType": "house"
+      },
       "date": "2026-02-24",
       "questionNumber": 18,
+      "questionType": "oral",
       "by": {
+        "memberCode": "Rose-Conway-Walsh.S.2016-04-25",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Rose-Conway-Walsh.S.2016-04-25",
-        "showAs": "Rose Conway-Walsh",
-        "memberCode": "Rose-Conway-Walsh.S.2016-04-25"
-      },
-      "to": {
-        "roleCode": null,
-        "uri": null,
-        "showAs": "Taoiseach",
-        "roleType": null
+        "showAs": "Rose Conway-Walsh"
       },
       "showAs": " 18. Deputy Rose Conway-Walsh asked the Taoiseach when the Cabinet committee on health will next meet. [14820/26] ",
-      "questionType": "oral",
-      "house": {
-        "committeeCode": "",
-        "showAs": "34th Dáil",
-        "houseCode": "dail",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "chamberType": "house",
-        "houseNo": "34"
-      }
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-24/debate/dbsect_10",
+        "debateSectionId": "dbsect_10",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-24/debate/mul@/dbsect_10.xml"
+          }
+        },
+        "showAs": "Cabinet Committees"
+      },
+      "to": {
+        "uri": null,
+        "showAs": "Taoiseach",
+        "roleType": null,
+        "roleCode": null
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-24/pq_18"
     },
     "contextDate": "2026-02-24"
   },
   {
     "question": {
-      "debateSection": {
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-24/debate/dbsect_11",
-        "showAs": "British-Irish Co-operation",
-        "formats": {
-          "pdf": null,
-          "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-24/debate/mul@/dbsect_11.xml"
-          }
-        },
-        "debateSectionId": "dbsect_11"
+      "house": {
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34",
+        "chamberType": "house"
       },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-24/pq_19",
       "date": "2026-02-24",
       "questionNumber": 19,
+      "questionType": "oral",
       "by": {
+        "memberCode": "Ruth-Coppinger.D.2014-05-23",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruth-Coppinger.D.2014-05-23",
-        "showAs": "Ruth Coppinger",
-        "memberCode": "Ruth-Coppinger.D.2014-05-23"
-      },
-      "to": {
-        "roleCode": null,
-        "uri": null,
-        "showAs": "Taoiseach",
-        "roleType": null
+        "showAs": "Ruth Coppinger"
       },
       "showAs": " 19. Deputy Ruth Coppinger asked the Taoiseach if he will report on his attendance at the 44th British-Irish Council summit in Wales. [10446/26] ",
-      "questionType": "oral",
-      "house": {
-        "committeeCode": "",
-        "showAs": "34th Dáil",
-        "houseCode": "dail",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "chamberType": "house",
-        "houseNo": "34"
-      }
-    },
-    "contextDate": "2026-02-24"
-  },
-  {
-    "question": {
       "debateSection": {
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-24/debate/dbsect_11",
-        "showAs": "British-Irish Co-operation",
+        "debateSectionId": "dbsect_11",
         "formats": {
           "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-24/debate/mul@/dbsect_11.xml"
           }
         },
-        "debateSectionId": "dbsect_11"
+        "showAs": "British-Irish Co-operation"
       },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-24/pq_20",
+      "to": {
+        "uri": null,
+        "showAs": "Taoiseach",
+        "roleType": null,
+        "roleCode": null
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-24/pq_19"
+    },
+    "contextDate": "2026-02-24"
+  },
+  {
+    "question": {
+      "house": {
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34",
+        "chamberType": "house"
+      },
       "date": "2026-02-24",
       "questionNumber": 20,
+      "questionType": "oral",
       "by": {
+        "memberCode": "Paul-Murphy.D.2014-10-10",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Murphy.D.2014-10-10",
-        "showAs": "Paul Murphy",
-        "memberCode": "Paul-Murphy.D.2014-10-10"
-      },
-      "to": {
-        "roleCode": null,
-        "uri": null,
-        "showAs": "Taoiseach",
-        "roleType": null
+        "showAs": "Paul Murphy"
       },
       "showAs": " 20. Deputy Paul Murphy asked the Taoiseach to report on his attendance at the British-Irish Council summit. [10456/26] ",
-      "questionType": "oral",
-      "house": {
-        "committeeCode": "",
-        "showAs": "34th Dáil",
-        "houseCode": "dail",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "chamberType": "house",
-        "houseNo": "34"
-      }
-    },
-    "contextDate": "2026-02-24"
-  },
-  {
-    "question": {
       "debateSection": {
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-24/debate/dbsect_11",
-        "showAs": "British-Irish Co-operation",
+        "debateSectionId": "dbsect_11",
         "formats": {
           "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-24/debate/mul@/dbsect_11.xml"
           }
         },
-        "debateSectionId": "dbsect_11"
+        "showAs": "British-Irish Co-operation"
       },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-24/pq_21",
+      "to": {
+        "uri": null,
+        "showAs": "Taoiseach",
+        "roleType": null,
+        "roleCode": null
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-24/pq_20"
+    },
+    "contextDate": "2026-02-24"
+  },
+  {
+    "question": {
+      "house": {
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34",
+        "chamberType": "house"
+      },
       "date": "2026-02-24",
       "questionNumber": 21,
+      "questionType": "oral",
       "by": {
+        "memberCode": "Darren-O'Rourke.D.2020-02-08",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Darren-O'Rourke.D.2020-02-08",
-        "showAs": "Darren O'Rourke",
-        "memberCode": "Darren-O'Rourke.D.2020-02-08"
-      },
-      "to": {
-        "roleCode": null,
-        "uri": null,
-        "showAs": "Taoiseach",
-        "roleType": null
+        "showAs": "Darren O'Rourke"
       },
       "showAs": " 21. Deputy Darren O'Rourke asked the Taoiseach to report on his attendance at a meeting of the British-Irish Council. [11845/26] ",
-      "questionType": "oral",
-      "house": {
-        "committeeCode": "",
-        "showAs": "34th Dáil",
-        "houseCode": "dail",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "chamberType": "house",
-        "houseNo": "34"
-      }
-    },
-    "contextDate": "2026-02-24"
-  },
-  {
-    "question": {
       "debateSection": {
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-24/debate/dbsect_11",
-        "showAs": "British-Irish Co-operation",
+        "debateSectionId": "dbsect_11",
         "formats": {
           "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-24/debate/mul@/dbsect_11.xml"
           }
         },
-        "debateSectionId": "dbsect_11"
+        "showAs": "British-Irish Co-operation"
       },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-24/pq_22",
+      "to": {
+        "uri": null,
+        "showAs": "Taoiseach",
+        "roleType": null,
+        "roleCode": null
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-24/pq_21"
+    },
+    "contextDate": "2026-02-24"
+  },
+  {
+    "question": {
+      "house": {
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34",
+        "chamberType": "house"
+      },
       "date": "2026-02-24",
       "questionNumber": 22,
+      "questionType": "oral",
       "by": {
+        "memberCode": "Brendan-Smith.D.1992-12-14",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Brendan-Smith.D.1992-12-14",
-        "showAs": "Brendan Smith",
-        "memberCode": "Brendan-Smith.D.1992-12-14"
-      },
-      "to": {
-        "roleCode": null,
-        "uri": null,
-        "showAs": "Taoiseach",
-        "roleType": null
+        "showAs": "Brendan Smith"
       },
       "showAs": " 22. Deputy Brendan Smith asked the Taoiseach if he will report on his attendance at the 44th British-Irish Council summit in Wales. [70935/25] ",
-      "questionType": "oral",
-      "house": {
-        "committeeCode": "",
-        "showAs": "34th Dáil",
-        "houseCode": "dail",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "chamberType": "house",
-        "houseNo": "34"
-      }
-    },
-    "contextDate": "2026-02-24"
-  },
-  {
-    "question": {
       "debateSection": {
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-24/debate/dbsect_11",
-        "showAs": "British-Irish Co-operation",
+        "debateSectionId": "dbsect_11",
         "formats": {
           "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-24/debate/mul@/dbsect_11.xml"
           }
         },
-        "debateSectionId": "dbsect_11"
+        "showAs": "British-Irish Co-operation"
       },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-24/pq_23",
+      "to": {
+        "uri": null,
+        "showAs": "Taoiseach",
+        "roleType": null,
+        "roleCode": null
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-24/pq_22"
+    },
+    "contextDate": "2026-02-24"
+  },
+  {
+    "question": {
+      "house": {
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34",
+        "chamberType": "house"
+      },
       "date": "2026-02-24",
       "questionNumber": 23,
+      "questionType": "oral",
       "by": {
+        "memberCode": "Erin-McGreehan.S.2020-06-29",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Erin-McGreehan.S.2020-06-29",
-        "showAs": "Erin McGreehan",
-        "memberCode": "Erin-McGreehan.S.2020-06-29"
-      },
-      "to": {
-        "roleCode": null,
-        "uri": null,
-        "showAs": "Taoiseach",
-        "roleType": null
+        "showAs": "Erin McGreehan"
       },
       "showAs": " 23. Deputy Erin McGreehan asked the Taoiseach if he will report on his attendance at the 44th British-Irish Council summit in Wales. [70936/25] ",
-      "questionType": "oral",
-      "house": {
-        "committeeCode": "",
-        "showAs": "34th Dáil",
-        "houseCode": "dail",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "chamberType": "house",
-        "houseNo": "34"
-      }
-    },
-    "contextDate": "2026-02-24"
-  },
-  {
-    "question": {
       "debateSection": {
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-24/debate/dbsect_11",
-        "showAs": "British-Irish Co-operation",
+        "debateSectionId": "dbsect_11",
         "formats": {
           "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-24/debate/mul@/dbsect_11.xml"
           }
         },
-        "debateSectionId": "dbsect_11"
+        "showAs": "British-Irish Co-operation"
       },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-24/pq_24",
+      "to": {
+        "uri": null,
+        "showAs": "Taoiseach",
+        "roleType": null,
+        "roleCode": null
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-24/pq_23"
+    },
+    "contextDate": "2026-02-24"
+  },
+  {
+    "question": {
+      "house": {
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34",
+        "chamberType": "house"
+      },
       "date": "2026-02-24",
       "questionNumber": 24,
+      "questionType": "oral",
       "by": {
+        "memberCode": "Cormac-Devlin.D.2020-02-08",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Cormac-Devlin.D.2020-02-08",
-        "showAs": "Cormac Devlin",
-        "memberCode": "Cormac-Devlin.D.2020-02-08"
-      },
-      "to": {
-        "roleCode": null,
-        "uri": null,
-        "showAs": "Taoiseach",
-        "roleType": null
+        "showAs": "Cormac Devlin"
       },
       "showAs": " 24. Deputy Cormac Devlin asked the Taoiseach if he will report on his attendance at the 44th British-Irish Council summit in Wales. [70937/25] ",
-      "questionType": "oral",
-      "house": {
-        "committeeCode": "",
-        "showAs": "34th Dáil",
-        "houseCode": "dail",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "chamberType": "house",
-        "houseNo": "34"
-      }
-    },
-    "contextDate": "2026-02-24"
-  },
-  {
-    "question": {
       "debateSection": {
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-24/debate/dbsect_11",
-        "showAs": "British-Irish Co-operation",
+        "debateSectionId": "dbsect_11",
         "formats": {
           "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-24/debate/mul@/dbsect_11.xml"
           }
         },
-        "debateSectionId": "dbsect_11"
+        "showAs": "British-Irish Co-operation"
       },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-24/pq_25",
+      "to": {
+        "uri": null,
+        "showAs": "Taoiseach",
+        "roleType": null,
+        "roleCode": null
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-24/pq_24"
+    },
+    "contextDate": "2026-02-24"
+  },
+  {
+    "question": {
+      "house": {
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34",
+        "chamberType": "house"
+      },
       "date": "2026-02-24",
       "questionNumber": 25,
+      "questionType": "oral",
       "by": {
+        "memberCode": "Shane-Moynihan.D.2024-11-29",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Shane-Moynihan.D.2024-11-29",
-        "showAs": "Shane Moynihan",
-        "memberCode": "Shane-Moynihan.D.2024-11-29"
-      },
-      "to": {
-        "roleCode": null,
-        "uri": null,
-        "showAs": "Taoiseach",
-        "roleType": null
+        "showAs": "Shane Moynihan"
       },
       "showAs": " 25. Deputy Shane Moynihan asked the Taoiseach if he will report on his attendance at the 44th British-Irish Council summit in Wales. [70938/25] ",
-      "questionType": "oral",
-      "house": {
-        "committeeCode": "",
-        "showAs": "34th Dáil",
-        "houseCode": "dail",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "chamberType": "house",
-        "houseNo": "34"
-      }
-    },
-    "contextDate": "2026-02-24"
-  },
-  {
-    "question": {
       "debateSection": {
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-24/debate/dbsect_11",
-        "showAs": "British-Irish Co-operation",
+        "debateSectionId": "dbsect_11",
         "formats": {
           "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-24/debate/mul@/dbsect_11.xml"
           }
         },
-        "debateSectionId": "dbsect_11"
+        "showAs": "British-Irish Co-operation"
       },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-24/pq_26",
+      "to": {
+        "uri": null,
+        "showAs": "Taoiseach",
+        "roleType": null,
+        "roleCode": null
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-24/pq_25"
+    },
+    "contextDate": "2026-02-24"
+  },
+  {
+    "question": {
+      "house": {
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34",
+        "chamberType": "house"
+      },
       "date": "2026-02-24",
       "questionNumber": 26,
+      "questionType": "oral",
       "by": {
+        "memberCode": "Richard-Boyd-Barrett.D.2011-03-09",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Richard-Boyd-Barrett.D.2011-03-09",
-        "showAs": "Richard Boyd Barrett",
-        "memberCode": "Richard-Boyd-Barrett.D.2011-03-09"
-      },
-      "to": {
-        "roleCode": null,
-        "uri": null,
-        "showAs": "Taoiseach",
-        "roleType": null
+        "showAs": "Richard Boyd Barrett"
       },
       "showAs": " 26. Deputy Richard Boyd Barrett asked the Taoiseach to report on his attendance at a meeting of the British-Irish Council. [70963/25] ",
-      "questionType": "oral",
-      "house": {
-        "committeeCode": "",
-        "showAs": "34th Dáil",
-        "houseCode": "dail",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "chamberType": "house",
-        "houseNo": "34"
-      }
-    },
-    "contextDate": "2026-02-24"
-  },
-  {
-    "question": {
       "debateSection": {
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-24/debate/dbsect_11",
-        "showAs": "British-Irish Co-operation",
+        "debateSectionId": "dbsect_11",
         "formats": {
           "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-24/debate/mul@/dbsect_11.xml"
           }
         },
-        "debateSectionId": "dbsect_11"
+        "showAs": "British-Irish Co-operation"
       },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-24/pq_27",
+      "to": {
+        "uri": null,
+        "showAs": "Taoiseach",
+        "roleType": null,
+        "roleCode": null
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-24/pq_26"
+    },
+    "contextDate": "2026-02-24"
+  },
+  {
+    "question": {
+      "house": {
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34",
+        "chamberType": "house"
+      },
       "date": "2026-02-24",
       "questionNumber": 27,
+      "questionType": "oral",
       "by": {
+        "memberCode": "Ruairí-Ó-Murchú.D.2020-02-08",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruairí-Ó-Murchú.D.2020-02-08",
-        "showAs": "Ruairí Ó Murchú",
-        "memberCode": "Ruairí-Ó-Murchú.D.2020-02-08"
-      },
-      "to": {
-        "roleCode": null,
-        "uri": null,
-        "showAs": "Taoiseach",
-        "roleType": null
+        "showAs": "Ruairí Ó Murchú"
       },
       "showAs": " 27. Deputy Ruairí Ó Murchú asked the Taoiseach if he will report on his attendance at the 44th British-Irish Council summit in Wales. [7695/26] ",
-      "questionType": "oral",
-      "house": {
-        "committeeCode": "",
-        "showAs": "34th Dáil",
-        "houseCode": "dail",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "chamberType": "house",
-        "houseNo": "34"
-      }
-    },
-    "contextDate": "2026-02-24"
-  },
-  {
-    "question": {
       "debateSection": {
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-24/debate/dbsect_11",
-        "showAs": "British-Irish Co-operation",
+        "debateSectionId": "dbsect_11",
         "formats": {
           "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-24/debate/mul@/dbsect_11.xml"
           }
         },
-        "debateSectionId": "dbsect_11"
+        "showAs": "British-Irish Co-operation"
       },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-24/pq_28",
+      "to": {
+        "uri": null,
+        "showAs": "Taoiseach",
+        "roleType": null,
+        "roleCode": null
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-24/pq_27"
+    },
+    "contextDate": "2026-02-24"
+  },
+  {
+    "question": {
+      "house": {
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34",
+        "chamberType": "house"
+      },
       "date": "2026-02-24",
       "questionNumber": 28,
+      "questionType": "oral",
       "by": {
+        "memberCode": "Rose-Conway-Walsh.S.2016-04-25",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Rose-Conway-Walsh.S.2016-04-25",
-        "showAs": "Rose Conway-Walsh",
-        "memberCode": "Rose-Conway-Walsh.S.2016-04-25"
-      },
-      "to": {
-        "roleCode": null,
-        "uri": null,
-        "showAs": "Taoiseach",
-        "roleType": null
+        "showAs": "Rose Conway-Walsh"
       },
       "showAs": " 28. Deputy Rose Conway-Walsh asked the Taoiseach to report on his attendance at a meeting of the British-Irish Council. [9963/26] ",
-      "questionType": "oral",
-      "house": {
-        "committeeCode": "",
-        "showAs": "34th Dáil",
-        "houseCode": "dail",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "chamberType": "house",
-        "houseNo": "34"
-      }
-    },
-    "contextDate": "2026-02-24"
-  },
-  {
-    "question": {
       "debateSection": {
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-24/debate/dbsect_11",
-        "showAs": "British-Irish Co-operation",
+        "debateSectionId": "dbsect_11",
         "formats": {
           "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-24/debate/mul@/dbsect_11.xml"
           }
         },
-        "debateSectionId": "dbsect_11"
+        "showAs": "British-Irish Co-operation"
       },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-24/pq_29",
+      "to": {
+        "uri": null,
+        "showAs": "Taoiseach",
+        "roleType": null,
+        "roleCode": null
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-24/pq_28"
+    },
+    "contextDate": "2026-02-24"
+  },
+  {
+    "question": {
+      "house": {
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34",
+        "chamberType": "house"
+      },
       "date": "2026-02-24",
       "questionNumber": 29,
+      "questionType": "oral",
       "by": {
+        "memberCode": "Liam-Quaide.D.2024-11-29",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Liam-Quaide.D.2024-11-29",
-        "showAs": "Liam Quaide",
-        "memberCode": "Liam-Quaide.D.2024-11-29"
-      },
-      "to": {
-        "roleCode": null,
-        "uri": null,
-        "showAs": "Taoiseach",
-        "roleType": null
+        "showAs": "Liam Quaide"
       },
       "showAs": " 29. Deputy Liam Quaide asked the Taoiseach if he will report on his attendance at the 44th British-Irish Council summit. [13982/26] ",
-      "questionType": "oral",
-      "house": {
-        "committeeCode": "",
-        "showAs": "34th Dáil",
-        "houseCode": "dail",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "chamberType": "house",
-        "houseNo": "34"
-      }
-    },
-    "contextDate": "2026-02-24"
-  },
-  {
-    "question": {
       "debateSection": {
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-24/debate/dbsect_11",
-        "showAs": "British-Irish Co-operation",
+        "debateSectionId": "dbsect_11",
         "formats": {
           "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-24/debate/mul@/dbsect_11.xml"
           }
         },
-        "debateSectionId": "dbsect_11"
+        "showAs": "British-Irish Co-operation"
       },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-24/pq_30",
+      "to": {
+        "uri": null,
+        "showAs": "Taoiseach",
+        "roleType": null,
+        "roleCode": null
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-24/pq_29"
+    },
+    "contextDate": "2026-02-24"
+  },
+  {
+    "question": {
+      "house": {
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34",
+        "chamberType": "house"
+      },
       "date": "2026-02-24",
       "questionNumber": 30,
+      "questionType": "oral",
       "by": {
+        "memberCode": "Mary-Lou-McDonald.D.2011-03-09",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Mary-Lou-McDonald.D.2011-03-09",
-        "showAs": "Mary Lou McDonald",
-        "memberCode": "Mary-Lou-McDonald.D.2011-03-09"
-      },
-      "to": {
-        "roleCode": null,
-        "uri": null,
-        "showAs": "Taoiseach",
-        "roleType": null
+        "showAs": "Mary Lou McDonald"
       },
       "showAs": " 30. Deputy Mary Lou McDonald asked the Taoiseach to report on his attendance at a meeting of the British-Irish Council. [14300/26] ",
-      "questionType": "oral",
-      "house": {
-        "committeeCode": "",
-        "showAs": "34th Dáil",
-        "houseCode": "dail",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "chamberType": "house",
-        "houseNo": "34"
-      }
-    },
-    "contextDate": "2026-02-24"
-  },
-  {
-    "question": {
       "debateSection": {
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-24/debate/dbsect_11",
-        "showAs": "British-Irish Co-operation",
+        "debateSectionId": "dbsect_11",
         "formats": {
           "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-24/debate/mul@/dbsect_11.xml"
           }
         },
-        "debateSectionId": "dbsect_11"
-      },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-24/pq_31",
-      "date": "2026-02-24",
-      "questionNumber": 31,
-      "by": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Louis-O'Hara.D.2024-11-29",
-        "showAs": "Louis O'Hara",
-        "memberCode": "Louis-O'Hara.D.2024-11-29"
+        "showAs": "British-Irish Co-operation"
       },
       "to": {
-        "roleCode": null,
         "uri": null,
         "showAs": "Taoiseach",
-        "roleType": null
+        "roleType": null,
+        "roleCode": null
       },
-      "showAs": " 31. Deputy Louis O'Hara asked the Taoiseach to report on his attendance at the British-Irish Council summit. [14750/26] ",
-      "questionType": "oral",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-24/pq_30"
+    },
+    "contextDate": "2026-02-24"
+  },
+  {
+    "question": {
       "house": {
+        "houseCode": "dail",
         "committeeCode": "",
         "showAs": "34th Dáil",
-        "houseCode": "dail",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "chamberType": "house",
-        "houseNo": "34"
-      }
+        "houseNo": "34",
+        "chamberType": "house"
+      },
+      "date": "2026-02-24",
+      "questionNumber": 31,
+      "questionType": "oral",
+      "by": {
+        "memberCode": "Louis-O'Hara.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Louis-O'Hara.D.2024-11-29",
+        "showAs": "Louis O'Hara"
+      },
+      "showAs": " 31. Deputy Louis O'Hara asked the Taoiseach to report on his attendance at the British-Irish Council summit. [14750/26] ",
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-24/debate/dbsect_11",
+        "debateSectionId": "dbsect_11",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-24/debate/mul@/dbsect_11.xml"
+          }
+        },
+        "showAs": "British-Irish Co-operation"
+      },
+      "to": {
+        "uri": null,
+        "showAs": "Taoiseach",
+        "roleType": null,
+        "roleCode": null
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-24/pq_31"
     },
     "contextDate": "2026-02-24"
   },
@@ -1441,561 +1441,561 @@
   },
   {
     "question": {
+      "house": {
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34",
+        "chamberType": "house"
+      },
+      "date": "2026-02-24",
+      "questionNumber": 138,
+      "questionType": "oral",
+      "by": {
+        "memberCode": "Pa-Daly.D.2020-02-08",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Pa-Daly.D.2020-02-08",
+        "showAs": "Pa Daly"
+      },
+      "showAs": " 138. Deputy Pa Daly asked the Minister for Climate, Energy and the Environment the measures he is taking to reduce the price of energy; and if he will make a statement on the matter. [14765/26] ",
       "debateSection": {
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-24/debate/dbsect_15",
-        "showAs": "Energy Prices",
+        "debateSectionId": "dbsect_15",
         "formats": {
           "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-24/debate/mul@/dbsect_15.xml"
           }
         },
-        "debateSectionId": "dbsect_15"
-      },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-24/pq_138",
-      "date": "2026-02-24",
-      "questionNumber": 138,
-      "by": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Pa-Daly.D.2020-02-08",
-        "showAs": "Pa Daly",
-        "memberCode": "Pa-Daly.D.2020-02-08"
+        "showAs": "Energy Prices"
       },
       "to": {
-        "roleCode": null,
         "uri": null,
         "showAs": "Climate",
-        "roleType": null
+        "roleType": null,
+        "roleCode": null
       },
-      "showAs": " 138. Deputy Pa Daly asked the Minister for Climate, Energy and the Environment the measures he is taking to reduce the price of energy; and if he will make a statement on the matter. [14765/26] ",
-      "questionType": "oral",
-      "house": {
-        "committeeCode": "",
-        "showAs": "34th Dáil",
-        "houseCode": "dail",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "chamberType": "house",
-        "houseNo": "34"
-      }
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-24/pq_138"
     },
     "contextDate": "2026-02-24"
   },
   {
     "question": {
+      "house": {
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34",
+        "chamberType": "house"
+      },
+      "date": "2026-02-24",
+      "questionNumber": 139,
+      "questionType": "oral",
+      "by": {
+        "memberCode": "Pa-Daly.D.2020-02-08",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Pa-Daly.D.2020-02-08",
+        "showAs": "Pa Daly"
+      },
+      "showAs": " 139. Deputy Pa Daly asked the Minister for Climate, Energy and the Environment if he will consider bringing forward a prioritisation framework for grid connections; and if he will make a statement on the matter. [14766/26] ",
       "debateSection": {
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-24/debate/dbsect_16",
-        "showAs": "Electricity Grid",
+        "debateSectionId": "dbsect_16",
         "formats": {
           "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-24/debate/mul@/dbsect_16.xml"
           }
         },
-        "debateSectionId": "dbsect_16"
-      },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-24/pq_139",
-      "date": "2026-02-24",
-      "questionNumber": 139,
-      "by": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Pa-Daly.D.2020-02-08",
-        "showAs": "Pa Daly",
-        "memberCode": "Pa-Daly.D.2020-02-08"
+        "showAs": "Electricity Grid"
       },
       "to": {
-        "roleCode": null,
         "uri": null,
         "showAs": "Climate",
-        "roleType": null
+        "roleType": null,
+        "roleCode": null
       },
-      "showAs": " 139. Deputy Pa Daly asked the Minister for Climate, Energy and the Environment if he will consider bringing forward a prioritisation framework for grid connections; and if he will make a statement on the matter. [14766/26] ",
-      "questionType": "oral",
-      "house": {
-        "committeeCode": "",
-        "showAs": "34th Dáil",
-        "houseCode": "dail",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "chamberType": "house",
-        "houseNo": "34"
-      }
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-24/pq_139"
     },
     "contextDate": "2026-02-24"
   },
   {
     "question": {
+      "house": {
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34",
+        "chamberType": "house"
+      },
+      "date": "2026-02-24",
+      "questionNumber": 141,
+      "questionType": "oral",
+      "by": {
+        "memberCode": "Pa-Daly.D.2020-02-08",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Pa-Daly.D.2020-02-08",
+        "showAs": "Pa Daly"
+      },
+      "showAs": " 141. Deputy Pa Daly asked the Minister for Climate, Energy and the Environment in relation to private wires, the charging methodology that will be implemented; and the safeguards that will he introduce to ensure that all of the costs of providing the original grid connection will be recovered by the ESB Networks, and that these costs are not passed on to other customers. [14767/26] ",
       "debateSection": {
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-24/debate/dbsect_17",
-        "showAs": "Electricity Grid",
+        "debateSectionId": "dbsect_17",
         "formats": {
           "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-24/debate/mul@/dbsect_17.xml"
           }
         },
-        "debateSectionId": "dbsect_17"
-      },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-24/pq_141",
-      "date": "2026-02-24",
-      "questionNumber": 141,
-      "by": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Pa-Daly.D.2020-02-08",
-        "showAs": "Pa Daly",
-        "memberCode": "Pa-Daly.D.2020-02-08"
+        "showAs": "Electricity Grid"
       },
       "to": {
-        "roleCode": null,
         "uri": null,
         "showAs": "Climate",
-        "roleType": null
+        "roleType": null,
+        "roleCode": null
       },
-      "showAs": " 141. Deputy Pa Daly asked the Minister for Climate, Energy and the Environment in relation to private wires, the charging methodology that will be implemented; and the safeguards that will he introduce to ensure that all of the costs of providing the original grid connection will be recovered by the ESB Networks, and that these costs are not passed on to other customers. [14767/26] ",
-      "questionType": "oral",
-      "house": {
-        "committeeCode": "",
-        "showAs": "34th Dáil",
-        "houseCode": "dail",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "chamberType": "house",
-        "houseNo": "34"
-      }
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-24/pq_141"
     },
     "contextDate": "2026-02-24"
   },
   {
     "question": {
+      "house": {
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34",
+        "chamberType": "house"
+      },
+      "date": "2026-02-24",
+      "questionNumber": 142,
+      "questionType": "oral",
+      "by": {
+        "memberCode": "Carol-Nolan.D.2016-10-03",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Carol-Nolan.D.2016-10-03",
+        "showAs": "Carol Nolan"
+      },
+      "showAs": " 142. Deputy Carol Nolan asked the Minister for Climate, Energy and the Environment to provide an update on the work of the national energy affordability task force; and if he will make a statement on the matter. [14498/26] ",
       "debateSection": {
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-24/debate/dbsect_18",
-        "showAs": "Energy Policy",
+        "debateSectionId": "dbsect_18",
         "formats": {
           "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-24/debate/mul@/dbsect_18.xml"
           }
         },
-        "debateSectionId": "dbsect_18"
-      },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-24/pq_142",
-      "date": "2026-02-24",
-      "questionNumber": 142,
-      "by": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Carol-Nolan.D.2016-10-03",
-        "showAs": "Carol Nolan",
-        "memberCode": "Carol-Nolan.D.2016-10-03"
+        "showAs": "Energy Policy"
       },
       "to": {
-        "roleCode": null,
         "uri": null,
         "showAs": "Climate",
-        "roleType": null
+        "roleType": null,
+        "roleCode": null
       },
-      "showAs": " 142. Deputy Carol Nolan asked the Minister for Climate, Energy and the Environment to provide an update on the work of the national energy affordability task force; and if he will make a statement on the matter. [14498/26] ",
-      "questionType": "oral",
-      "house": {
-        "committeeCode": "",
-        "showAs": "34th Dáil",
-        "houseCode": "dail",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "chamberType": "house",
-        "houseNo": "34"
-      }
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-24/pq_142"
     },
     "contextDate": "2026-02-24"
   },
   {
     "question": {
+      "house": {
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34",
+        "chamberType": "house"
+      },
+      "date": "2026-02-24",
+      "questionNumber": 143,
+      "questionType": "oral",
+      "by": {
+        "memberCode": "Paul-Murphy.D.2014-10-10",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Murphy.D.2014-10-10",
+        "showAs": "Paul Murphy"
+      },
+      "showAs": " 143. Deputy Paul Murphy asked the Minister for Climate, Energy and the Environment if his Department has carried out an assessment of the climate impacts of AI; and if he will make a statement on the matter. [14504/26] ",
       "debateSection": {
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-24/debate/dbsect_20",
-        "showAs": "Artificial Intelligence",
+        "debateSectionId": "dbsect_20",
         "formats": {
           "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-24/debate/mul@/dbsect_20.xml"
           }
         },
-        "debateSectionId": "dbsect_20"
-      },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-24/pq_143",
-      "date": "2026-02-24",
-      "questionNumber": 143,
-      "by": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Murphy.D.2014-10-10",
-        "showAs": "Paul Murphy",
-        "memberCode": "Paul-Murphy.D.2014-10-10"
+        "showAs": "Artificial Intelligence"
       },
       "to": {
-        "roleCode": null,
         "uri": null,
         "showAs": "Climate",
-        "roleType": null
+        "roleType": null,
+        "roleCode": null
       },
-      "showAs": " 143. Deputy Paul Murphy asked the Minister for Climate, Energy and the Environment if his Department has carried out an assessment of the climate impacts of AI; and if he will make a statement on the matter. [14504/26] ",
-      "questionType": "oral",
-      "house": {
-        "committeeCode": "",
-        "showAs": "34th Dáil",
-        "houseCode": "dail",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "chamberType": "house",
-        "houseNo": "34"
-      }
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-24/pq_143"
     },
     "contextDate": "2026-02-24"
   },
   {
     "question": {
+      "house": {
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34",
+        "chamberType": "house"
+      },
+      "date": "2026-02-24",
+      "questionNumber": 144,
+      "questionType": "oral",
+      "by": {
+        "memberCode": "Joe-Neville.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Joe-Neville.D.2024-11-29",
+        "showAs": "Joe Neville"
+      },
+      "showAs": " 144. Deputy Joe Neville asked the Minister for Climate, Energy and the Environment the measures his Department is taking to acknowledge the increased energy cost pressures on businesses; and if he will make a statement on the matter. [14815/26] ",
       "debateSection": {
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-24/debate/dbsect_21",
-        "showAs": "Energy Prices",
+        "debateSectionId": "dbsect_21",
         "formats": {
           "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-24/debate/mul@/dbsect_21.xml"
           }
         },
-        "debateSectionId": "dbsect_21"
-      },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-24/pq_144",
-      "date": "2026-02-24",
-      "questionNumber": 144,
-      "by": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Joe-Neville.D.2024-11-29",
-        "showAs": "Joe Neville",
-        "memberCode": "Joe-Neville.D.2024-11-29"
+        "showAs": "Energy Prices"
       },
       "to": {
-        "roleCode": null,
         "uri": null,
         "showAs": "Climate",
-        "roleType": null
+        "roleType": null,
+        "roleCode": null
       },
-      "showAs": " 144. Deputy Joe Neville asked the Minister for Climate, Energy and the Environment the measures his Department is taking to acknowledge the increased energy cost pressures on businesses; and if he will make a statement on the matter. [14815/26] ",
-      "questionType": "oral",
-      "house": {
-        "committeeCode": "",
-        "showAs": "34th Dáil",
-        "houseCode": "dail",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "chamberType": "house",
-        "houseNo": "34"
-      }
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-24/pq_144"
     },
     "contextDate": "2026-02-24"
   },
   {
     "question": {
+      "house": {
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34",
+        "chamberType": "house"
+      },
+      "date": "2026-02-24",
+      "questionNumber": 145,
+      "questionType": "oral",
+      "by": {
+        "memberCode": "Louis-O'Hara.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Louis-O'Hara.D.2024-11-29",
+        "showAs": "Louis O'Hara"
+      },
+      "showAs": " 145. Deputy Louis O'Hara asked the Minister for Climate, Energy and the Environment the way in which revenue from collection of the carbon tax is used to support his Department’s climate initiatives; and if he will make a statement on the matter. [14619/26] ",
       "debateSection": {
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-24/debate/dbsect_22",
-        "showAs": "Tax Data",
+        "debateSectionId": "dbsect_22",
         "formats": {
           "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-24/debate/mul@/dbsect_22.xml"
           }
         },
-        "debateSectionId": "dbsect_22"
-      },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-24/pq_145",
-      "date": "2026-02-24",
-      "questionNumber": 145,
-      "by": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Louis-O'Hara.D.2024-11-29",
-        "showAs": "Louis O'Hara",
-        "memberCode": "Louis-O'Hara.D.2024-11-29"
+        "showAs": "Tax Data"
       },
       "to": {
-        "roleCode": null,
         "uri": null,
         "showAs": "Climate",
-        "roleType": null
+        "roleType": null,
+        "roleCode": null
       },
-      "showAs": " 145. Deputy Louis O'Hara asked the Minister for Climate, Energy and the Environment the way in which revenue from collection of the carbon tax is used to support his Department’s climate initiatives; and if he will make a statement on the matter. [14619/26] ",
-      "questionType": "oral",
-      "house": {
-        "committeeCode": "",
-        "showAs": "34th Dáil",
-        "houseCode": "dail",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "chamberType": "house",
-        "houseNo": "34"
-      }
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-24/pq_145"
     },
     "contextDate": "2026-02-24"
   },
   {
     "question": {
+      "house": {
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34",
+        "chamberType": "house"
+      },
+      "date": "2026-02-24",
+      "questionNumber": 146,
+      "questionType": "oral",
+      "by": {
+        "memberCode": "Ruairí-Ó-Murchú.D.2020-02-08",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruairí-Ó-Murchú.D.2020-02-08",
+        "showAs": "Ruairí Ó Murchú"
+      },
+      "showAs": " 146. Deputy Ruairí Ó Murchú asked the Minister for Climate, Energy and the Environment to provide an update on the provision of wind energy; the targets for its provision in 2026; whether there are sufficient resources in place to ensure that offshore wind energy can be on-shored; and if he will make a statement on the matter. [14751/26] ",
       "debateSection": {
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-24/debate/dbsect_23",
-        "showAs": "Wind Energy Generation",
+        "debateSectionId": "dbsect_23",
         "formats": {
           "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-24/debate/mul@/dbsect_23.xml"
           }
         },
-        "debateSectionId": "dbsect_23"
-      },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-24/pq_146",
-      "date": "2026-02-24",
-      "questionNumber": 146,
-      "by": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruairí-Ó-Murchú.D.2020-02-08",
-        "showAs": "Ruairí Ó Murchú",
-        "memberCode": "Ruairí-Ó-Murchú.D.2020-02-08"
+        "showAs": "Wind Energy Generation"
       },
       "to": {
-        "roleCode": null,
         "uri": null,
         "showAs": "Climate",
-        "roleType": null
+        "roleType": null,
+        "roleCode": null
       },
-      "showAs": " 146. Deputy Ruairí Ó Murchú asked the Minister for Climate, Energy and the Environment to provide an update on the provision of wind energy; the targets for its provision in 2026; whether there are sufficient resources in place to ensure that offshore wind energy can be on-shored; and if he will make a statement on the matter. [14751/26] ",
-      "questionType": "oral",
-      "house": {
-        "committeeCode": "",
-        "showAs": "34th Dáil",
-        "houseCode": "dail",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "chamberType": "house",
-        "houseNo": "34"
-      }
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-24/pq_146"
     },
     "contextDate": "2026-02-24"
   },
   {
     "question": {
+      "house": {
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34",
+        "chamberType": "house"
+      },
+      "date": "2026-02-24",
+      "questionNumber": 148,
+      "questionType": "oral",
+      "by": {
+        "memberCode": "Ruairí-Ó-Murchú.D.2020-02-08",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruairí-Ó-Murchú.D.2020-02-08",
+        "showAs": "Ruairí Ó Murchú"
+      },
+      "showAs": " 148. Deputy Ruairí Ó Murchú asked the Minister for Climate, Energy and the Environment whether funding schemes are available for communal heating schemes that wish to change from gas-fired to heat pumps in individual houses; and if he will make a statement on the matter. [14752/26] ",
       "debateSection": {
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-24/debate/dbsect_24",
-        "showAs": "Energy Conservation",
+        "debateSectionId": "dbsect_24",
         "formats": {
           "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-24/debate/mul@/dbsect_24.xml"
           }
         },
-        "debateSectionId": "dbsect_24"
-      },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-24/pq_148",
-      "date": "2026-02-24",
-      "questionNumber": 148,
-      "by": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruairí-Ó-Murchú.D.2020-02-08",
-        "showAs": "Ruairí Ó Murchú",
-        "memberCode": "Ruairí-Ó-Murchú.D.2020-02-08"
+        "showAs": "Energy Conservation"
       },
       "to": {
-        "roleCode": null,
         "uri": null,
         "showAs": "Climate",
-        "roleType": null
+        "roleType": null,
+        "roleCode": null
       },
-      "showAs": " 148. Deputy Ruairí Ó Murchú asked the Minister for Climate, Energy and the Environment whether funding schemes are available for communal heating schemes that wish to change from gas-fired to heat pumps in individual houses; and if he will make a statement on the matter. [14752/26] ",
-      "questionType": "oral",
-      "house": {
-        "committeeCode": "",
-        "showAs": "34th Dáil",
-        "houseCode": "dail",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "chamberType": "house",
-        "houseNo": "34"
-      }
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-24/pq_148"
     },
     "contextDate": "2026-02-24"
   },
   {
     "question": {
+      "house": {
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34",
+        "chamberType": "house"
+      },
+      "date": "2026-02-24",
+      "questionNumber": 149,
+      "questionType": "oral",
+      "by": {
+        "memberCode": "Barry-Ward.S.2020-03-30",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Barry-Ward.S.2020-03-30",
+        "showAs": "Barry Ward"
+      },
+      "showAs": " 149. Deputy Barry Ward asked the Minister for Climate, Energy and the Environment the position regarding any further initiatives proposed by his Department to increase the support for offshore wind infrastructure in coastal communities; and if he will make a statement on the matter. [13792/26] ",
       "debateSection": {
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-24/debate/dbsect_25",
-        "showAs": "Renewable Energy Generation",
+        "debateSectionId": "dbsect_25",
         "formats": {
           "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-24/debate/mul@/dbsect_25.xml"
           }
         },
-        "debateSectionId": "dbsect_25"
-      },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-24/pq_149",
-      "date": "2026-02-24",
-      "questionNumber": 149,
-      "by": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Barry-Ward.S.2020-03-30",
-        "showAs": "Barry Ward",
-        "memberCode": "Barry-Ward.S.2020-03-30"
+        "showAs": "Renewable Energy Generation"
       },
       "to": {
-        "roleCode": null,
         "uri": null,
         "showAs": "Climate",
-        "roleType": null
+        "roleType": null,
+        "roleCode": null
       },
-      "showAs": " 149. Deputy Barry Ward asked the Minister for Climate, Energy and the Environment the position regarding any further initiatives proposed by his Department to increase the support for offshore wind infrastructure in coastal communities; and if he will make a statement on the matter. [13792/26] ",
-      "questionType": "oral",
-      "house": {
-        "committeeCode": "",
-        "showAs": "34th Dáil",
-        "houseCode": "dail",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "chamberType": "house",
-        "houseNo": "34"
-      }
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-24/pq_149"
     },
     "contextDate": "2026-02-24"
   },
   {
     "question": {
+      "house": {
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34",
+        "chamberType": "house"
+      },
+      "date": "2026-02-24",
+      "questionNumber": 150,
+      "questionType": "oral",
+      "by": {
+        "memberCode": "Noel-McCarthy.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Noel-McCarthy.D.2024-11-29",
+        "showAs": "Noel McCarthy"
+      },
+      "showAs": " 150. Deputy Noel McCarthy asked the Minister for Climate, Energy and the Environment to outline if his Department is giving consideration to the introduction of a land classification system that would inform the suitability of any proposed solar developments; and if he will make a statement on the matter. [13391/26] ",
       "debateSection": {
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-24/debate/dbsect_26",
-        "showAs": "Renewable Energy Generation",
+        "debateSectionId": "dbsect_26",
         "formats": {
           "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-24/debate/mul@/dbsect_26.xml"
           }
         },
-        "debateSectionId": "dbsect_26"
-      },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-24/pq_150",
-      "date": "2026-02-24",
-      "questionNumber": 150,
-      "by": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Noel-McCarthy.D.2024-11-29",
-        "showAs": "Noel McCarthy",
-        "memberCode": "Noel-McCarthy.D.2024-11-29"
+        "showAs": "Renewable Energy Generation"
       },
       "to": {
-        "roleCode": null,
         "uri": null,
         "showAs": "Climate",
-        "roleType": null
+        "roleType": null,
+        "roleCode": null
       },
-      "showAs": " 150. Deputy Noel McCarthy asked the Minister for Climate, Energy and the Environment to outline if his Department is giving consideration to the introduction of a land classification system that would inform the suitability of any proposed solar developments; and if he will make a statement on the matter. [13391/26] ",
-      "questionType": "oral",
-      "house": {
-        "committeeCode": "",
-        "showAs": "34th Dáil",
-        "houseCode": "dail",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "chamberType": "house",
-        "houseNo": "34"
-      }
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-24/pq_150"
     },
     "contextDate": "2026-02-24"
   },
   {
     "question": {
-      "debateSection": {
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-24/debate/dbsect_27",
-        "showAs": "Grant Payments",
-        "formats": {
-          "pdf": null,
-          "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-24/debate/mul@/dbsect_27.xml"
-          }
-        },
-        "debateSectionId": "dbsect_27"
+      "house": {
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34",
+        "chamberType": "house"
       },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-24/pq_151",
       "date": "2026-02-24",
       "questionNumber": 151,
+      "questionType": "oral",
       "by": {
+        "memberCode": "Cathy-Bennett.D.2024-11-29",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Cathy-Bennett.D.2024-11-29",
-        "showAs": "Cathy Bennett",
-        "memberCode": "Cathy-Bennett.D.2024-11-29"
-      },
-      "to": {
-        "roleCode": null,
-        "uri": null,
-        "showAs": "Climate",
-        "roleType": null
+        "showAs": "Cathy Bennett"
       },
       "showAs": " 151. Deputy Cathy Bennett asked the Minister for Climate, Energy and the Environment if he will provide an update in relation to SEAI grants for windows and doors; the length of time the grant will open for; if applicants have to pay upfront; and if he will make a statement on the matter. [14361/26] ",
-      "questionType": "oral",
-      "house": {
-        "committeeCode": "",
-        "showAs": "34th Dáil",
-        "houseCode": "dail",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "chamberType": "house",
-        "houseNo": "34"
-      }
-    },
-    "contextDate": "2026-02-24"
-  },
-  {
-    "question": {
       "debateSection": {
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-24/debate/dbsect_27",
-        "showAs": "Grant Payments",
+        "debateSectionId": "dbsect_27",
         "formats": {
           "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-24/debate/mul@/dbsect_27.xml"
           }
         },
-        "debateSectionId": "dbsect_27"
-      },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-24/pq_157",
-      "date": "2026-02-24",
-      "questionNumber": 157,
-      "by": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Naoise-Ó-Cearúil.D.2024-11-29",
-        "showAs": "Naoise Ó Cearúil",
-        "memberCode": "Naoise-Ó-Cearúil.D.2024-11-29"
+        "showAs": "Grant Payments"
       },
       "to": {
-        "roleCode": null,
         "uri": null,
         "showAs": "Climate",
-        "roleType": null
+        "roleType": null,
+        "roleCode": null
       },
-      "showAs": " 157. Deputy Naoise Ó Cearúil asked the Minister for Climate, Energy and the Environment the way in which the redesigned SEAI grant structure will support homeowners in progressing from initial insulation measures to more advanced upgrades; the way this sequencing is expected to improve overall retrofit outcomes; and if he will make a statement on the matter. [14769/26] ",
-      "questionType": "oral",
-      "house": {
-        "committeeCode": "",
-        "showAs": "34th Dáil",
-        "houseCode": "dail",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "chamberType": "house",
-        "houseNo": "34"
-      }
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-24/pq_151"
     },
     "contextDate": "2026-02-24"
   },
   {
     "question": {
+      "house": {
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34",
+        "chamberType": "house"
+      },
+      "date": "2026-02-24",
+      "questionNumber": 157,
+      "questionType": "oral",
+      "by": {
+        "memberCode": "Naoise-Ó-Cearúil.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Naoise-Ó-Cearúil.D.2024-11-29",
+        "showAs": "Naoise Ó Cearúil"
+      },
+      "showAs": " 157. Deputy Naoise Ó Cearúil asked the Minister for Climate, Energy and the Environment the way in which the redesigned SEAI grant structure will support homeowners in progressing from initial insulation measures to more advanced upgrades; the way this sequencing is expected to improve overall retrofit outcomes; and if he will make a statement on the matter. [14769/26] ",
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-24/debate/dbsect_27",
+        "debateSectionId": "dbsect_27",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-24/debate/mul@/dbsect_27.xml"
+          }
+        },
+        "showAs": "Grant Payments"
+      },
+      "to": {
+        "uri": null,
+        "showAs": "Climate",
+        "roleType": null,
+        "roleCode": null
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-24/pq_157"
+    },
+    "contextDate": "2026-02-24"
+  },
+  {
+    "question": {
+      "house": {
+        "houseCode": "dail",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34",
+        "chamberType": "house"
+      },
+      "date": "2026-02-24",
+      "questionNumber": 158,
+      "questionType": "oral",
+      "by": {
+        "memberCode": "Pa-Daly.D.2020-02-08",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Pa-Daly.D.2020-02-08",
+        "showAs": "Pa Daly"
+      },
+      "showAs": " 158. Deputy Pa Daly asked the Minister for Climate, Energy and the Environment his views on Ireland’s resilience to extreme weather events caused by climate change; if consideration is being given to nature-based solutions to mitigate and provide resilience to the impacts of climate change; and if he will make a statement on the matter. [14622/26] ",
       "debateSection": {
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-24/debate/dbsect_28",
-        "showAs": "Climate Change Policy",
+        "debateSectionId": "dbsect_28",
         "formats": {
           "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-02-24/debate/mul@/dbsect_28.xml"
           }
         },
-        "debateSectionId": "dbsect_28"
-      },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-24/pq_158",
-      "date": "2026-02-24",
-      "questionNumber": 158,
-      "by": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Pa-Daly.D.2020-02-08",
-        "showAs": "Pa Daly",
-        "memberCode": "Pa-Daly.D.2020-02-08"
+        "showAs": "Climate Change Policy"
       },
       "to": {
-        "roleCode": null,
         "uri": null,
         "showAs": "Climate",
-        "roleType": null
+        "roleType": null,
+        "roleCode": null
       },
-      "showAs": " 158. Deputy Pa Daly asked the Minister for Climate, Energy and the Environment his views on Ireland’s resilience to extreme weather events caused by climate change; if consideration is being given to nature-based solutions to mitigate and provide resilience to the impacts of climate change; and if he will make a statement on the matter. [14622/26] ",
-      "questionType": "oral",
-      "house": {
-        "committeeCode": "",
-        "showAs": "34th Dáil",
-        "houseCode": "dail",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "chamberType": "house",
-        "houseNo": "34"
-      }
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-02-24/pq_158"
     },
     "contextDate": "2026-02-24"
   },

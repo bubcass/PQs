@@ -2,1440 +2,2320 @@
   {
     "contextDate": "2026-03-03",
     "question": {
+      "date": "2026-03-03",
       "questionType": "oral",
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-03-03/pq_1",
+      "by": {
+        "memberCode": "Ruth-Coppinger.D.2014-05-23",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruth-Coppinger.D.2014-05-23",
+        "showAs": "Ruth Coppinger"
+      },
       "showAs": " 1. Deputy Ruth Coppinger asked the Taoiseach if he will report on the first meeting of the delivery and monitoring committee for the National Human Rights Strategy for Disabled People 2025-2030, which he chaired on 8 December 2025. [10447/26] ",
       "debateSection": {
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-03/debate/dbsect_12",
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-03/debate/mul@/dbsect_12.xml"
-          },
-          "pdf": null
+          }
         },
         "debateSectionId": "dbsect_12",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-03/debate/dbsect_12",
         "showAs": "Disability Issues"
+      },
+      "house": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "houseNo": "34",
+        "committeeCode": "",
+        "chamberType": "house",
+        "houseCode": "dail"
       },
       "questionNumber": 1,
-      "date": "2026-03-03",
-      "house": {
-        "committeeCode": "",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseNo": "34",
-        "showAs": "34th Dáil",
-        "chamberType": "house",
-        "houseCode": "dail"
-      },
       "to": {
-        "roleCode": null,
         "uri": null,
         "roleType": null,
+        "roleCode": null,
         "showAs": "Taoiseach"
-      },
-      "by": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruth-Coppinger.D.2014-05-23",
-        "memberCode": "Ruth-Coppinger.D.2014-05-23",
-        "showAs": "Ruth Coppinger"
       }
     }
   },
   {
     "contextDate": "2026-03-03",
     "question": {
+      "date": "2026-03-03",
       "questionType": "oral",
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-03-03/pq_2",
+      "by": {
+        "memberCode": "Ruairí-Ó-Murchú.D.2020-02-08",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruairí-Ó-Murchú.D.2020-02-08",
+        "showAs": "Ruairí Ó Murchú"
+      },
       "showAs": " 2. Deputy Ruairí Ó Murchú asked the Taoiseach if he will report on the first meeting of the delivery and monitoring committee for the National Human Rights Strategy for Disabled People 2025-2030. [11871/26] ",
       "debateSection": {
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-03/debate/dbsect_12",
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-03/debate/mul@/dbsect_12.xml"
-          },
-          "pdf": null
+          }
         },
         "debateSectionId": "dbsect_12",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-03/debate/dbsect_12",
         "showAs": "Disability Issues"
+      },
+      "house": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "houseNo": "34",
+        "committeeCode": "",
+        "chamberType": "house",
+        "houseCode": "dail"
       },
       "questionNumber": 2,
-      "date": "2026-03-03",
-      "house": {
-        "committeeCode": "",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseNo": "34",
-        "showAs": "34th Dáil",
-        "chamberType": "house",
-        "houseCode": "dail"
-      },
       "to": {
-        "roleCode": null,
         "uri": null,
         "roleType": null,
+        "roleCode": null,
         "showAs": "Taoiseach"
-      },
-      "by": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruairí-Ó-Murchú.D.2020-02-08",
-        "memberCode": "Ruairí-Ó-Murchú.D.2020-02-08",
-        "showAs": "Ruairí Ó Murchú"
       }
     }
   },
   {
     "contextDate": "2026-03-03",
     "question": {
+      "date": "2026-03-03",
       "questionType": "oral",
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-03-03/pq_3",
+      "by": {
+        "memberCode": "Martin-Daly.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Martin-Daly.D.2024-11-29",
+        "showAs": "Martin Daly"
+      },
       "showAs": " 3. Deputy Martin Daly asked the Taoiseach if he will report on the first meeting of the delivery and monitoring committee for the National Human Rights Strategy for Disabled People 2025-2030, which he chaired on 8 December 2025. [71662/25] ",
       "debateSection": {
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-03/debate/dbsect_12",
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-03/debate/mul@/dbsect_12.xml"
-          },
-          "pdf": null
+          }
         },
         "debateSectionId": "dbsect_12",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-03/debate/dbsect_12",
         "showAs": "Disability Issues"
+      },
+      "house": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "houseNo": "34",
+        "committeeCode": "",
+        "chamberType": "house",
+        "houseCode": "dail"
       },
       "questionNumber": 3,
-      "date": "2026-03-03",
-      "house": {
-        "committeeCode": "",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseNo": "34",
-        "showAs": "34th Dáil",
-        "chamberType": "house",
-        "houseCode": "dail"
-      },
       "to": {
-        "roleCode": null,
         "uri": null,
         "roleType": null,
+        "roleCode": null,
         "showAs": "Taoiseach"
-      },
-      "by": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Martin-Daly.D.2024-11-29",
-        "memberCode": "Martin-Daly.D.2024-11-29",
-        "showAs": "Martin Daly"
       }
     }
   },
   {
     "contextDate": "2026-03-03",
     "question": {
+      "date": "2026-03-03",
       "questionType": "oral",
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-03-03/pq_4",
+      "by": {
+        "memberCode": "Pádraig-O'Sullivan.D.2019-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Pádraig-O'Sullivan.D.2019-11-29",
+        "showAs": "Pádraig O'Sullivan"
+      },
       "showAs": " 4. Deputy Pádraig O'Sullivan asked the Taoiseach if he will report on the first meeting of the delivery and monitoring committee for the National Human Rights Strategy for Disabled People 2025-2030, which he chaired on 8 December 2025. [71664/25] ",
       "debateSection": {
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-03/debate/dbsect_12",
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-03/debate/mul@/dbsect_12.xml"
-          },
-          "pdf": null
+          }
         },
         "debateSectionId": "dbsect_12",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-03/debate/dbsect_12",
         "showAs": "Disability Issues"
+      },
+      "house": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "houseNo": "34",
+        "committeeCode": "",
+        "chamberType": "house",
+        "houseCode": "dail"
       },
       "questionNumber": 4,
-      "date": "2026-03-03",
-      "house": {
-        "committeeCode": "",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseNo": "34",
-        "showAs": "34th Dáil",
-        "chamberType": "house",
-        "houseCode": "dail"
-      },
       "to": {
-        "roleCode": null,
         "uri": null,
         "roleType": null,
+        "roleCode": null,
         "showAs": "Taoiseach"
-      },
-      "by": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Pádraig-O'Sullivan.D.2019-11-29",
-        "memberCode": "Pádraig-O'Sullivan.D.2019-11-29",
-        "showAs": "Pádraig O'Sullivan"
       }
     }
   },
   {
     "contextDate": "2026-03-03",
     "question": {
+      "date": "2026-03-03",
       "questionType": "oral",
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-03-03/pq_5",
+      "by": {
+        "memberCode": "Erin-McGreehan.S.2020-06-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Erin-McGreehan.S.2020-06-29",
+        "showAs": "Erin McGreehan"
+      },
       "showAs": " 5. Deputy Erin McGreehan asked the Taoiseach if he will report on the first meeting of the delivery and monitoring committee for the National Human Rights Strategy for Disabled People 2025-2030, which he chaired on 8 December 2025. [71666/25] ",
       "debateSection": {
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-03/debate/dbsect_12",
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-03/debate/mul@/dbsect_12.xml"
-          },
-          "pdf": null
+          }
         },
         "debateSectionId": "dbsect_12",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-03/debate/dbsect_12",
         "showAs": "Disability Issues"
+      },
+      "house": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "houseNo": "34",
+        "committeeCode": "",
+        "chamberType": "house",
+        "houseCode": "dail"
       },
       "questionNumber": 5,
-      "date": "2026-03-03",
-      "house": {
-        "committeeCode": "",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseNo": "34",
-        "showAs": "34th Dáil",
-        "chamberType": "house",
-        "houseCode": "dail"
-      },
       "to": {
-        "roleCode": null,
         "uri": null,
         "roleType": null,
+        "roleCode": null,
         "showAs": "Taoiseach"
-      },
-      "by": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Erin-McGreehan.S.2020-06-29",
-        "memberCode": "Erin-McGreehan.S.2020-06-29",
-        "showAs": "Erin McGreehan"
       }
     }
   },
   {
     "contextDate": "2026-03-03",
     "question": {
+      "date": "2026-03-03",
       "questionType": "oral",
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-03-03/pq_6",
+      "by": {
+        "memberCode": "Mark-Wall.S.2020-03-30",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Mark-Wall.S.2020-03-30",
+        "showAs": "Mark Wall"
+      },
       "showAs": " 6. Deputy Mark Wall asked the Taoiseach if he will report on the first meeting of the delivery and monitoring committee for the National Human Rights Strategy for Disabled People 2025-2030, which he chaired on 8 December 2025. [4034/26] ",
       "debateSection": {
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-03/debate/dbsect_12",
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-03/debate/mul@/dbsect_12.xml"
-          },
-          "pdf": null
+          }
         },
         "debateSectionId": "dbsect_12",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-03/debate/dbsect_12",
         "showAs": "Disability Issues"
+      },
+      "house": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "houseNo": "34",
+        "committeeCode": "",
+        "chamberType": "house",
+        "houseCode": "dail"
       },
       "questionNumber": 6,
-      "date": "2026-03-03",
-      "house": {
-        "committeeCode": "",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseNo": "34",
-        "showAs": "34th Dáil",
-        "chamberType": "house",
-        "houseCode": "dail"
-      },
       "to": {
-        "roleCode": null,
         "uri": null,
         "roleType": null,
+        "roleCode": null,
         "showAs": "Taoiseach"
-      },
-      "by": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Mark-Wall.S.2020-03-30",
-        "memberCode": "Mark-Wall.S.2020-03-30",
-        "showAs": "Mark Wall"
       }
     }
   },
   {
     "contextDate": "2026-03-03",
     "question": {
+      "date": "2026-03-03",
       "questionType": "oral",
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-03-03/pq_7",
+      "by": {
+        "memberCode": "Cian-O'Callaghan.D.2020-02-08",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Cian-O'Callaghan.D.2020-02-08",
+        "showAs": "Cian O'Callaghan"
+      },
       "showAs": " 7. Deputy Cian O'Callaghan asked the Taoiseach if he will report on the first meeting of the delivery and monitoring committee for the National Human Rights Strategy for Disabled People 2025-2030, which he chaired on 8 December 2025. [12354/26] ",
       "debateSection": {
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-03/debate/dbsect_12",
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-03/debate/mul@/dbsect_12.xml"
-          },
-          "pdf": null
+          }
         },
         "debateSectionId": "dbsect_12",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-03/debate/dbsect_12",
         "showAs": "Disability Issues"
+      },
+      "house": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "houseNo": "34",
+        "committeeCode": "",
+        "chamberType": "house",
+        "houseCode": "dail"
       },
       "questionNumber": 7,
-      "date": "2026-03-03",
-      "house": {
-        "committeeCode": "",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseNo": "34",
-        "showAs": "34th Dáil",
-        "chamberType": "house",
-        "houseCode": "dail"
-      },
       "to": {
-        "roleCode": null,
         "uri": null,
         "roleType": null,
+        "roleCode": null,
         "showAs": "Taoiseach"
-      },
-      "by": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Cian-O'Callaghan.D.2020-02-08",
-        "memberCode": "Cian-O'Callaghan.D.2020-02-08",
-        "showAs": "Cian O'Callaghan"
       }
     }
   },
   {
     "contextDate": "2026-03-03",
     "question": {
+      "date": "2026-03-03",
       "questionType": "oral",
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-03-03/pq_8",
+      "by": {
+        "memberCode": "Liam-Quaide.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Liam-Quaide.D.2024-11-29",
+        "showAs": "Liam Quaide"
+      },
       "showAs": " 8. Deputy Liam Quaide asked the Taoiseach if he will report on the first meeting of the delivery and monitoring committee for the National Human Rights Strategy for Disabled People 2025-2030. [13983/26] ",
       "debateSection": {
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-03/debate/dbsect_12",
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-03/debate/mul@/dbsect_12.xml"
-          },
-          "pdf": null
+          }
         },
         "debateSectionId": "dbsect_12",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-03/debate/dbsect_12",
         "showAs": "Disability Issues"
+      },
+      "house": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "houseNo": "34",
+        "committeeCode": "",
+        "chamberType": "house",
+        "houseCode": "dail"
       },
       "questionNumber": 8,
-      "date": "2026-03-03",
-      "house": {
-        "committeeCode": "",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseNo": "34",
-        "showAs": "34th Dáil",
-        "chamberType": "house",
-        "houseCode": "dail"
-      },
       "to": {
-        "roleCode": null,
         "uri": null,
         "roleType": null,
+        "roleCode": null,
         "showAs": "Taoiseach"
-      },
-      "by": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Liam-Quaide.D.2024-11-29",
-        "memberCode": "Liam-Quaide.D.2024-11-29",
-        "showAs": "Liam Quaide"
       }
     }
   },
   {
     "contextDate": "2026-03-03",
     "question": {
+      "date": "2026-03-03",
       "questionType": "oral",
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-03-03/pq_9",
+      "by": {
+        "memberCode": "David-Cullinane.S.2011-05-25",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/David-Cullinane.S.2011-05-25",
+        "showAs": "David Cullinane"
+      },
       "showAs": " 9. Deputy David Cullinane asked the Taoiseach if he will report on the first meeting of the delivery and monitoring committee for the National Human Rights Strategy for Disabled People 2025-2030. [14261/26] ",
       "debateSection": {
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-03/debate/dbsect_12",
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-03/debate/mul@/dbsect_12.xml"
-          },
-          "pdf": null
+          }
         },
         "debateSectionId": "dbsect_12",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-03/debate/dbsect_12",
         "showAs": "Disability Issues"
+      },
+      "house": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "houseNo": "34",
+        "committeeCode": "",
+        "chamberType": "house",
+        "houseCode": "dail"
       },
       "questionNumber": 9,
-      "date": "2026-03-03",
-      "house": {
-        "committeeCode": "",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseNo": "34",
-        "showAs": "34th Dáil",
-        "chamberType": "house",
-        "houseCode": "dail"
-      },
       "to": {
-        "roleCode": null,
         "uri": null,
         "roleType": null,
+        "roleCode": null,
         "showAs": "Taoiseach"
-      },
-      "by": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/David-Cullinane.S.2011-05-25",
-        "memberCode": "David-Cullinane.S.2011-05-25",
-        "showAs": "David Cullinane"
       }
     }
   },
   {
     "contextDate": "2026-03-03",
     "question": {
+      "date": "2026-03-03",
       "questionType": "oral",
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-03-03/pq_10",
+      "by": {
+        "memberCode": "Darren-O'Rourke.D.2020-02-08",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Darren-O'Rourke.D.2020-02-08",
+        "showAs": "Darren O'Rourke"
+      },
       "showAs": " 10. Deputy Darren O'Rourke asked the Taoiseach if he will report on the first meeting of the delivery and monitoring committee for the National Human Rights Strategy for Disabled People 2025-2030, which he chaired on 8 December 2025. [14281/26] ",
       "debateSection": {
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-03/debate/dbsect_12",
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-03/debate/mul@/dbsect_12.xml"
-          },
-          "pdf": null
+          }
         },
         "debateSectionId": "dbsect_12",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-03/debate/dbsect_12",
         "showAs": "Disability Issues"
+      },
+      "house": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "houseNo": "34",
+        "committeeCode": "",
+        "chamberType": "house",
+        "houseCode": "dail"
       },
       "questionNumber": 10,
-      "date": "2026-03-03",
-      "house": {
-        "committeeCode": "",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseNo": "34",
-        "showAs": "34th Dáil",
-        "chamberType": "house",
-        "houseCode": "dail"
-      },
       "to": {
-        "roleCode": null,
         "uri": null,
         "roleType": null,
+        "roleCode": null,
         "showAs": "Taoiseach"
-      },
-      "by": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Darren-O'Rourke.D.2020-02-08",
-        "memberCode": "Darren-O'Rourke.D.2020-02-08",
-        "showAs": "Darren O'Rourke"
       }
     }
   },
   {
     "contextDate": "2026-03-03",
     "question": {
+      "date": "2026-03-03",
       "questionType": "oral",
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-03-03/pq_11",
+      "by": {
+        "memberCode": "Peadar-Tóibín.D.2011-03-09",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Peadar-Tóibín.D.2011-03-09",
+        "showAs": "Peadar Tóibín"
+      },
       "showAs": " 11. Deputy Peadar Tóibín asked the Taoiseach if he will report on the first meeting of the delivery and monitoring committee for the National Human Rights Strategy for Disabled People 2025-2030, which he chaired on 8 December 2025. [14303/26] ",
       "debateSection": {
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-03/debate/dbsect_12",
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-03/debate/mul@/dbsect_12.xml"
-          },
-          "pdf": null
+          }
         },
         "debateSectionId": "dbsect_12",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-03/debate/dbsect_12",
         "showAs": "Disability Issues"
+      },
+      "house": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "houseNo": "34",
+        "committeeCode": "",
+        "chamberType": "house",
+        "houseCode": "dail"
       },
       "questionNumber": 11,
-      "date": "2026-03-03",
-      "house": {
-        "committeeCode": "",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseNo": "34",
-        "showAs": "34th Dáil",
-        "chamberType": "house",
-        "houseCode": "dail"
-      },
       "to": {
-        "roleCode": null,
         "uri": null,
         "roleType": null,
+        "roleCode": null,
         "showAs": "Taoiseach"
-      },
-      "by": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Peadar-Tóibín.D.2011-03-09",
-        "memberCode": "Peadar-Tóibín.D.2011-03-09",
-        "showAs": "Peadar Tóibín"
       }
     }
   },
   {
     "contextDate": "2026-03-03",
     "question": {
+      "date": "2026-03-03",
       "questionType": "oral",
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-03-03/pq_12",
+      "by": {
+        "memberCode": "Paul-Lawless.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Lawless.D.2024-11-29",
+        "showAs": "Paul Lawless"
+      },
       "showAs": " 12. Deputy Paul Lawless asked the Taoiseach if he will report on the first meeting of the delivery and monitoring committee for the National Human Rights Strategy for Disabled People 2025-2030, which he chaired on 8 December 2025. [14305/26] ",
       "debateSection": {
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-03/debate/dbsect_12",
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-03/debate/mul@/dbsect_12.xml"
-          },
-          "pdf": null
+          }
         },
         "debateSectionId": "dbsect_12",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-03/debate/dbsect_12",
         "showAs": "Disability Issues"
+      },
+      "house": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "houseNo": "34",
+        "committeeCode": "",
+        "chamberType": "house",
+        "houseCode": "dail"
       },
       "questionNumber": 12,
-      "date": "2026-03-03",
-      "house": {
-        "committeeCode": "",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseNo": "34",
-        "showAs": "34th Dáil",
-        "chamberType": "house",
-        "houseCode": "dail"
-      },
       "to": {
-        "roleCode": null,
         "uri": null,
         "roleType": null,
+        "roleCode": null,
         "showAs": "Taoiseach"
-      },
-      "by": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Lawless.D.2024-11-29",
-        "memberCode": "Paul-Lawless.D.2024-11-29",
-        "showAs": "Paul Lawless"
       }
     }
   },
   {
     "contextDate": "2026-03-03",
     "question": {
+      "date": "2026-03-03",
       "questionType": "oral",
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-03-03/pq_13",
+      "by": {
+        "memberCode": "Richard-Boyd-Barrett.D.2011-03-09",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Richard-Boyd-Barrett.D.2011-03-09",
+        "showAs": "Richard Boyd Barrett"
+      },
       "showAs": " 13. Deputy Richard Boyd Barrett asked the Taoiseach if he will report on the first meeting of the delivery and monitoring committee for the National Human Rights Strategy for Disabled People 2025-2030. [14447/26] ",
       "debateSection": {
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-03/debate/dbsect_12",
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-03/debate/mul@/dbsect_12.xml"
-          },
-          "pdf": null
+          }
         },
         "debateSectionId": "dbsect_12",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-03/debate/dbsect_12",
         "showAs": "Disability Issues"
+      },
+      "house": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "houseNo": "34",
+        "committeeCode": "",
+        "chamberType": "house",
+        "houseCode": "dail"
       },
       "questionNumber": 13,
-      "date": "2026-03-03",
-      "house": {
-        "committeeCode": "",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseNo": "34",
-        "showAs": "34th Dáil",
-        "chamberType": "house",
-        "houseCode": "dail"
-      },
       "to": {
-        "roleCode": null,
         "uri": null,
         "roleType": null,
+        "roleCode": null,
         "showAs": "Taoiseach"
-      },
-      "by": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Richard-Boyd-Barrett.D.2011-03-09",
-        "memberCode": "Richard-Boyd-Barrett.D.2011-03-09",
-        "showAs": "Richard Boyd Barrett"
       }
     }
   },
   {
     "contextDate": "2026-03-03",
     "question": {
+      "date": "2026-03-03",
       "questionType": "oral",
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-03-03/pq_14",
+      "by": {
+        "memberCode": "Paul-Murphy.D.2014-10-10",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Murphy.D.2014-10-10",
+        "showAs": "Paul Murphy"
+      },
       "showAs": " 14. Deputy Paul Murphy asked the Taoiseach if he will report on the first meeting of the delivery and monitoring committee for the National Human Rights Strategy for Disabled People 2025-2030. [14450/26] ",
       "debateSection": {
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-03/debate/dbsect_12",
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-03/debate/mul@/dbsect_12.xml"
-          },
-          "pdf": null
+          }
         },
         "debateSectionId": "dbsect_12",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-03/debate/dbsect_12",
         "showAs": "Disability Issues"
+      },
+      "house": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "houseNo": "34",
+        "committeeCode": "",
+        "chamberType": "house",
+        "houseCode": "dail"
       },
       "questionNumber": 14,
-      "date": "2026-03-03",
-      "house": {
-        "committeeCode": "",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseNo": "34",
-        "showAs": "34th Dáil",
-        "chamberType": "house",
-        "houseCode": "dail"
-      },
       "to": {
-        "roleCode": null,
         "uri": null,
         "roleType": null,
+        "roleCode": null,
         "showAs": "Taoiseach"
-      },
-      "by": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Murphy.D.2014-10-10",
-        "memberCode": "Paul-Murphy.D.2014-10-10",
-        "showAs": "Paul Murphy"
       }
     }
   },
   {
     "contextDate": "2026-03-03",
     "question": {
+      "date": "2026-03-03",
       "questionType": "oral",
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-03-03/pq_15",
+      "by": {
+        "memberCode": "Barry-Heneghan.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Barry-Heneghan.D.2024-11-29",
+        "showAs": "Barry Heneghan"
+      },
       "showAs": " 15. Deputy Barry Heneghan asked the Taoiseach if he will report on the first meeting of the delivery and monitoring committee for the National Human Rights Strategy for Disabled People 2025-2030, which he chaired on 8 December 2025. [14762/26] ",
       "debateSection": {
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-03/debate/dbsect_12",
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-03/debate/mul@/dbsect_12.xml"
-          },
-          "pdf": null
+          }
         },
         "debateSectionId": "dbsect_12",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-03/debate/dbsect_12",
         "showAs": "Disability Issues"
+      },
+      "house": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "houseNo": "34",
+        "committeeCode": "",
+        "chamberType": "house",
+        "houseCode": "dail"
       },
       "questionNumber": 15,
-      "date": "2026-03-03",
-      "house": {
-        "committeeCode": "",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseNo": "34",
-        "showAs": "34th Dáil",
-        "chamberType": "house",
-        "houseCode": "dail"
-      },
       "to": {
-        "roleCode": null,
         "uri": null,
         "roleType": null,
+        "roleCode": null,
         "showAs": "Taoiseach"
-      },
-      "by": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Barry-Heneghan.D.2024-11-29",
-        "memberCode": "Barry-Heneghan.D.2024-11-29",
-        "showAs": "Barry Heneghan"
       }
     }
   },
   {
     "contextDate": "2026-03-03",
     "question": {
+      "date": "2026-03-03",
       "questionType": "oral",
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-03-03/pq_16",
+      "by": {
+        "memberCode": "Mary-Lou-McDonald.D.2011-03-09",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Mary-Lou-McDonald.D.2011-03-09",
+        "showAs": "Mary Lou McDonald"
+      },
       "showAs": " 16. Deputy Mary Lou McDonald asked the Taoiseach if he will report on the first meeting of the delivery and monitoring committee for the National Human Rights Strategy for Disabled People 2025-2030, which he chaired on 8 December 2025. [15023/26] ",
       "debateSection": {
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-03/debate/dbsect_12",
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-03/debate/mul@/dbsect_12.xml"
-          },
-          "pdf": null
+          }
         },
         "debateSectionId": "dbsect_12",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-03/debate/dbsect_12",
         "showAs": "Disability Issues"
+      },
+      "house": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "houseNo": "34",
+        "committeeCode": "",
+        "chamberType": "house",
+        "houseCode": "dail"
       },
       "questionNumber": 16,
-      "date": "2026-03-03",
-      "house": {
-        "committeeCode": "",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseNo": "34",
-        "showAs": "34th Dáil",
-        "chamberType": "house",
-        "houseCode": "dail"
-      },
       "to": {
-        "roleCode": null,
         "uri": null,
         "roleType": null,
+        "roleCode": null,
         "showAs": "Taoiseach"
-      },
-      "by": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Mary-Lou-McDonald.D.2011-03-09",
-        "memberCode": "Mary-Lou-McDonald.D.2011-03-09",
-        "showAs": "Mary Lou McDonald"
       }
     }
   },
   {
     "contextDate": "2026-03-03",
     "question": {
+      "date": "2026-03-03",
       "questionType": "oral",
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-03-03/pq_17",
+      "by": {
+        "memberCode": "Catherine-Ardagh.S.2016-04-25",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Catherine-Ardagh.S.2016-04-25",
+        "showAs": "Catherine Ardagh"
+      },
       "showAs": " 17. Deputy Catherine Ardagh asked the Taoiseach if he will report on the first meeting of the delivery and monitoring committee for the National Human Rights Strategy for Disabled People 2025-2030, which he chaired on 8 December 2025. [16741/26] ",
       "debateSection": {
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-03/debate/dbsect_12",
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-03/debate/mul@/dbsect_12.xml"
-          },
-          "pdf": null
+          }
         },
         "debateSectionId": "dbsect_12",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-03/debate/dbsect_12",
         "showAs": "Disability Issues"
+      },
+      "house": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "houseNo": "34",
+        "committeeCode": "",
+        "chamberType": "house",
+        "houseCode": "dail"
       },
       "questionNumber": 17,
-      "date": "2026-03-03",
-      "house": {
-        "committeeCode": "",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseNo": "34",
-        "showAs": "34th Dáil",
-        "chamberType": "house",
-        "houseCode": "dail"
-      },
       "to": {
-        "roleCode": null,
         "uri": null,
         "roleType": null,
+        "roleCode": null,
         "showAs": "Taoiseach"
-      },
-      "by": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Catherine-Ardagh.S.2016-04-25",
-        "memberCode": "Catherine-Ardagh.S.2016-04-25",
-        "showAs": "Catherine Ardagh"
       }
     }
   },
   {
     "contextDate": "2026-03-03",
     "question": {
+      "date": "2026-03-03",
       "questionType": "oral",
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-03-03/pq_18",
+      "by": {
+        "memberCode": "Conor-D-McGuinness.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Conor-D-McGuinness.D.2024-11-29",
+        "showAs": "Conor D McGuinness"
+      },
       "showAs": " 18. Deputy Conor D. McGuinness asked the Taoiseach if he will report on the first meeting of the delivery and monitoring committee for the National Human Rights Strategy for Disabled People 2025-2030, which he chaired on 8 December 2025. [16762/26] ",
       "debateSection": {
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-03/debate/dbsect_12",
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-03/debate/mul@/dbsect_12.xml"
-          },
-          "pdf": null
+          }
         },
         "debateSectionId": "dbsect_12",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-03/debate/dbsect_12",
         "showAs": "Disability Issues"
+      },
+      "house": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "houseNo": "34",
+        "committeeCode": "",
+        "chamberType": "house",
+        "houseCode": "dail"
       },
       "questionNumber": 18,
-      "date": "2026-03-03",
-      "house": {
-        "committeeCode": "",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseNo": "34",
-        "showAs": "34th Dáil",
-        "chamberType": "house",
-        "houseCode": "dail"
-      },
       "to": {
-        "roleCode": null,
         "uri": null,
         "roleType": null,
+        "roleCode": null,
         "showAs": "Taoiseach"
-      },
-      "by": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Conor-D-McGuinness.D.2024-11-29",
-        "memberCode": "Conor-D-McGuinness.D.2024-11-29",
-        "showAs": "Conor D McGuinness"
       }
     }
   },
   {
     "contextDate": "2026-03-03",
     "question": {
+      "date": "2026-03-03",
       "questionType": "oral",
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-03-03/pq_19",
+      "by": {
+        "memberCode": "Barry-Heneghan.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Barry-Heneghan.D.2024-11-29",
+        "showAs": "Barry Heneghan"
+      },
       "showAs": " 19. Deputy Barry Heneghan asked the Taoiseach if he will report on the first meeting of the delivery and monitoring committee for the National Human Rights Strategy for Disabled People 2025-2030. [16763/26] ",
       "debateSection": {
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-03/debate/dbsect_12",
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-03/debate/mul@/dbsect_12.xml"
-          },
-          "pdf": null
+          }
         },
         "debateSectionId": "dbsect_12",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-03/debate/dbsect_12",
         "showAs": "Disability Issues"
       },
-      "questionNumber": 19,
-      "date": "2026-03-03",
       "house": {
-        "committeeCode": "",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseNo": "34",
         "showAs": "34th Dáil",
+        "houseNo": "34",
+        "committeeCode": "",
         "chamberType": "house",
         "houseCode": "dail"
       },
+      "questionNumber": 19,
       "to": {
-        "roleCode": null,
         "uri": null,
         "roleType": null,
+        "roleCode": null,
         "showAs": "Taoiseach"
-      },
-      "by": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Barry-Heneghan.D.2024-11-29",
-        "memberCode": "Barry-Heneghan.D.2024-11-29",
-        "showAs": "Barry Heneghan"
       }
     }
   },
   {
     "contextDate": "2026-03-03",
     "question": {
+      "date": "2026-03-03",
       "questionType": "oral",
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-03-03/pq_20",
+      "by": {
+        "memberCode": "Ruth-Coppinger.D.2014-05-23",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruth-Coppinger.D.2014-05-23",
+        "showAs": "Ruth Coppinger"
+      },
       "showAs": " 20. Deputy Ruth Coppinger asked the Taoiseach if he will report on implementation of the well-being framework published by his Department. [10448/26] ",
       "debateSection": {
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-03/debate/dbsect_13",
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-03/debate/mul@/dbsect_13.xml"
-          },
-          "pdf": null
+          }
         },
         "debateSectionId": "dbsect_13",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-03/debate/dbsect_13",
         "showAs": "Departmental Strategies"
+      },
+      "house": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "houseNo": "34",
+        "committeeCode": "",
+        "chamberType": "house",
+        "houseCode": "dail"
       },
       "questionNumber": 20,
-      "date": "2026-03-03",
-      "house": {
-        "committeeCode": "",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseNo": "34",
-        "showAs": "34th Dáil",
-        "chamberType": "house",
-        "houseCode": "dail"
-      },
       "to": {
-        "roleCode": null,
         "uri": null,
         "roleType": null,
+        "roleCode": null,
         "showAs": "Taoiseach"
-      },
-      "by": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruth-Coppinger.D.2014-05-23",
-        "memberCode": "Ruth-Coppinger.D.2014-05-23",
-        "showAs": "Ruth Coppinger"
       }
     }
   },
   {
     "contextDate": "2026-03-03",
     "question": {
+      "date": "2026-03-03",
       "questionType": "oral",
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-03-03/pq_21",
+      "by": {
+        "memberCode": "Ruairí-Ó-Murchú.D.2020-02-08",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruairí-Ó-Murchú.D.2020-02-08",
+        "showAs": "Ruairí Ó Murchú"
+      },
       "showAs": " 21. Deputy Ruairí Ó Murchú asked the Taoiseach if he will report on implementation of the well-being framework published by his Department. [11872/26] ",
       "debateSection": {
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-03/debate/dbsect_13",
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-03/debate/mul@/dbsect_13.xml"
-          },
-          "pdf": null
+          }
         },
         "debateSectionId": "dbsect_13",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-03/debate/dbsect_13",
         "showAs": "Departmental Strategies"
+      },
+      "house": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "houseNo": "34",
+        "committeeCode": "",
+        "chamberType": "house",
+        "houseCode": "dail"
       },
       "questionNumber": 21,
-      "date": "2026-03-03",
-      "house": {
-        "committeeCode": "",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseNo": "34",
-        "showAs": "34th Dáil",
-        "chamberType": "house",
-        "houseCode": "dail"
-      },
       "to": {
-        "roleCode": null,
         "uri": null,
         "roleType": null,
+        "roleCode": null,
         "showAs": "Taoiseach"
-      },
-      "by": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruairí-Ó-Murchú.D.2020-02-08",
-        "memberCode": "Ruairí-Ó-Murchú.D.2020-02-08",
-        "showAs": "Ruairí Ó Murchú"
       }
     }
   },
   {
     "contextDate": "2026-03-03",
     "question": {
+      "date": "2026-03-03",
       "questionType": "oral",
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-03-03/pq_22",
+      "by": {
+        "memberCode": "Martin-Daly.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Martin-Daly.D.2024-11-29",
+        "showAs": "Martin Daly"
+      },
       "showAs": " 22. Deputy Martin Daly asked the Taoiseach if he will report on implementation of the well-being framework published by his Department. [71663/25] ",
       "debateSection": {
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-03/debate/dbsect_13",
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-03/debate/mul@/dbsect_13.xml"
-          },
-          "pdf": null
+          }
         },
         "debateSectionId": "dbsect_13",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-03/debate/dbsect_13",
         "showAs": "Departmental Strategies"
+      },
+      "house": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "houseNo": "34",
+        "committeeCode": "",
+        "chamberType": "house",
+        "houseCode": "dail"
       },
       "questionNumber": 22,
-      "date": "2026-03-03",
-      "house": {
-        "committeeCode": "",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseNo": "34",
-        "showAs": "34th Dáil",
-        "chamberType": "house",
-        "houseCode": "dail"
-      },
       "to": {
-        "roleCode": null,
         "uri": null,
         "roleType": null,
+        "roleCode": null,
         "showAs": "Taoiseach"
-      },
-      "by": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Martin-Daly.D.2024-11-29",
-        "memberCode": "Martin-Daly.D.2024-11-29",
-        "showAs": "Martin Daly"
       }
     }
   },
   {
     "contextDate": "2026-03-03",
     "question": {
+      "date": "2026-03-03",
       "questionType": "oral",
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-03-03/pq_23",
+      "by": {
+        "memberCode": "Pádraig-O'Sullivan.D.2019-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Pádraig-O'Sullivan.D.2019-11-29",
+        "showAs": "Pádraig O'Sullivan"
+      },
       "showAs": " 23. Deputy Pádraig O'Sullivan asked the Taoiseach if he will report on implementation of the well-being framework published by his Department. [71665/25] ",
       "debateSection": {
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-03/debate/dbsect_13",
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-03/debate/mul@/dbsect_13.xml"
-          },
-          "pdf": null
+          }
         },
         "debateSectionId": "dbsect_13",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-03/debate/dbsect_13",
         "showAs": "Departmental Strategies"
+      },
+      "house": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "houseNo": "34",
+        "committeeCode": "",
+        "chamberType": "house",
+        "houseCode": "dail"
       },
       "questionNumber": 23,
-      "date": "2026-03-03",
-      "house": {
-        "committeeCode": "",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseNo": "34",
-        "showAs": "34th Dáil",
-        "chamberType": "house",
-        "houseCode": "dail"
-      },
       "to": {
-        "roleCode": null,
         "uri": null,
         "roleType": null,
+        "roleCode": null,
         "showAs": "Taoiseach"
-      },
-      "by": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Pádraig-O'Sullivan.D.2019-11-29",
-        "memberCode": "Pádraig-O'Sullivan.D.2019-11-29",
-        "showAs": "Pádraig O'Sullivan"
       }
     }
   },
   {
     "contextDate": "2026-03-03",
     "question": {
+      "date": "2026-03-03",
       "questionType": "oral",
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-03-03/pq_24",
+      "by": {
+        "memberCode": "Erin-McGreehan.S.2020-06-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Erin-McGreehan.S.2020-06-29",
+        "showAs": "Erin McGreehan"
+      },
       "showAs": " 24. Deputy Erin McGreehan asked the Taoiseach if he will report on implementation of the well-being framework published by his Department. [71667/25] ",
       "debateSection": {
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-03/debate/dbsect_13",
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-03/debate/mul@/dbsect_13.xml"
-          },
-          "pdf": null
+          }
         },
         "debateSectionId": "dbsect_13",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-03/debate/dbsect_13",
         "showAs": "Departmental Strategies"
+      },
+      "house": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "houseNo": "34",
+        "committeeCode": "",
+        "chamberType": "house",
+        "houseCode": "dail"
       },
       "questionNumber": 24,
-      "date": "2026-03-03",
-      "house": {
-        "committeeCode": "",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseNo": "34",
-        "showAs": "34th Dáil",
-        "chamberType": "house",
-        "houseCode": "dail"
-      },
       "to": {
-        "roleCode": null,
         "uri": null,
         "roleType": null,
+        "roleCode": null,
         "showAs": "Taoiseach"
-      },
-      "by": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Erin-McGreehan.S.2020-06-29",
-        "memberCode": "Erin-McGreehan.S.2020-06-29",
-        "showAs": "Erin McGreehan"
       }
     }
   },
   {
     "contextDate": "2026-03-03",
     "question": {
+      "date": "2026-03-03",
       "questionType": "oral",
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-03-03/pq_25",
+      "by": {
+        "memberCode": "Cian-O'Callaghan.D.2020-02-08",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Cian-O'Callaghan.D.2020-02-08",
+        "showAs": "Cian O'Callaghan"
+      },
       "showAs": " 25. Deputy Cian O'Callaghan asked the Taoiseach if he will report on implementation of the well-being framework published by his Department. [12356/26] ",
       "debateSection": {
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-03/debate/dbsect_13",
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-03/debate/mul@/dbsect_13.xml"
-          },
-          "pdf": null
+          }
         },
         "debateSectionId": "dbsect_13",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-03/debate/dbsect_13",
         "showAs": "Departmental Strategies"
+      },
+      "house": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "houseNo": "34",
+        "committeeCode": "",
+        "chamberType": "house",
+        "houseCode": "dail"
       },
       "questionNumber": 25,
-      "date": "2026-03-03",
-      "house": {
-        "committeeCode": "",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseNo": "34",
-        "showAs": "34th Dáil",
-        "chamberType": "house",
-        "houseCode": "dail"
-      },
       "to": {
-        "roleCode": null,
         "uri": null,
         "roleType": null,
+        "roleCode": null,
         "showAs": "Taoiseach"
-      },
-      "by": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Cian-O'Callaghan.D.2020-02-08",
-        "memberCode": "Cian-O'Callaghan.D.2020-02-08",
-        "showAs": "Cian O'Callaghan"
       }
     }
   },
   {
     "contextDate": "2026-03-03",
     "question": {
+      "date": "2026-03-03",
       "questionType": "oral",
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-03-03/pq_26",
+      "by": {
+        "memberCode": "Darren-O'Rourke.D.2020-02-08",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Darren-O'Rourke.D.2020-02-08",
+        "showAs": "Darren O'Rourke"
+      },
       "showAs": " 26. Deputy Darren O'Rourke asked the Taoiseach if he will report on implementation of the well-being framework published by his Department. [14282/26] ",
       "debateSection": {
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-03/debate/dbsect_13",
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-03/debate/mul@/dbsect_13.xml"
-          },
-          "pdf": null
+          }
         },
         "debateSectionId": "dbsect_13",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-03/debate/dbsect_13",
         "showAs": "Departmental Strategies"
+      },
+      "house": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "houseNo": "34",
+        "committeeCode": "",
+        "chamberType": "house",
+        "houseCode": "dail"
       },
       "questionNumber": 26,
-      "date": "2026-03-03",
-      "house": {
-        "committeeCode": "",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseNo": "34",
-        "showAs": "34th Dáil",
-        "chamberType": "house",
-        "houseCode": "dail"
-      },
       "to": {
-        "roleCode": null,
         "uri": null,
         "roleType": null,
+        "roleCode": null,
         "showAs": "Taoiseach"
-      },
-      "by": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Darren-O'Rourke.D.2020-02-08",
-        "memberCode": "Darren-O'Rourke.D.2020-02-08",
-        "showAs": "Darren O'Rourke"
       }
     }
   },
   {
     "contextDate": "2026-03-03",
     "question": {
+      "date": "2026-03-03",
       "questionType": "oral",
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-03-03/pq_27",
+      "by": {
+        "memberCode": "Peadar-Tóibín.D.2011-03-09",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Peadar-Tóibín.D.2011-03-09",
+        "showAs": "Peadar Tóibín"
+      },
       "showAs": " 27. Deputy Peadar Tóibín asked the Taoiseach if he will report on the implementation of the well-being framework published by his Department. [14304/26] ",
       "debateSection": {
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-03/debate/dbsect_13",
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-03/debate/mul@/dbsect_13.xml"
-          },
-          "pdf": null
+          }
         },
         "debateSectionId": "dbsect_13",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-03/debate/dbsect_13",
         "showAs": "Departmental Strategies"
+      },
+      "house": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "houseNo": "34",
+        "committeeCode": "",
+        "chamberType": "house",
+        "houseCode": "dail"
       },
       "questionNumber": 27,
-      "date": "2026-03-03",
-      "house": {
-        "committeeCode": "",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseNo": "34",
-        "showAs": "34th Dáil",
-        "chamberType": "house",
-        "houseCode": "dail"
-      },
       "to": {
-        "roleCode": null,
         "uri": null,
         "roleType": null,
+        "roleCode": null,
         "showAs": "Taoiseach"
-      },
-      "by": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Peadar-Tóibín.D.2011-03-09",
-        "memberCode": "Peadar-Tóibín.D.2011-03-09",
-        "showAs": "Peadar Tóibín"
       }
     }
   },
   {
     "contextDate": "2026-03-03",
     "question": {
+      "date": "2026-03-03",
       "questionType": "oral",
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-03-03/pq_28",
+      "by": {
+        "memberCode": "Paul-Lawless.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Lawless.D.2024-11-29",
+        "showAs": "Paul Lawless"
+      },
       "showAs": " 28. Deputy Paul Lawless asked the Taoiseach if he will report on the implementation of the well-being framework published by his Department. [14306/26] ",
       "debateSection": {
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-03/debate/dbsect_13",
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-03/debate/mul@/dbsect_13.xml"
-          },
-          "pdf": null
+          }
         },
         "debateSectionId": "dbsect_13",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-03/debate/dbsect_13",
         "showAs": "Departmental Strategies"
+      },
+      "house": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "houseNo": "34",
+        "committeeCode": "",
+        "chamberType": "house",
+        "houseCode": "dail"
       },
       "questionNumber": 28,
-      "date": "2026-03-03",
-      "house": {
-        "committeeCode": "",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseNo": "34",
-        "showAs": "34th Dáil",
-        "chamberType": "house",
-        "houseCode": "dail"
-      },
       "to": {
-        "roleCode": null,
         "uri": null,
         "roleType": null,
+        "roleCode": null,
         "showAs": "Taoiseach"
-      },
-      "by": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Lawless.D.2024-11-29",
-        "memberCode": "Paul-Lawless.D.2024-11-29",
-        "showAs": "Paul Lawless"
       }
     }
   },
   {
     "contextDate": "2026-03-03",
     "question": {
+      "date": "2026-03-03",
       "questionType": "oral",
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-03-03/pq_29",
+      "by": {
+        "memberCode": "Richard-Boyd-Barrett.D.2011-03-09",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Richard-Boyd-Barrett.D.2011-03-09",
+        "showAs": "Richard Boyd Barrett"
+      },
       "showAs": " 29. Deputy Richard Boyd Barrett asked the Taoiseach if he will report on the implementation of the well-being framework published by his Department. [14448/26] ",
       "debateSection": {
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-03/debate/dbsect_13",
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-03/debate/mul@/dbsect_13.xml"
-          },
-          "pdf": null
+          }
         },
         "debateSectionId": "dbsect_13",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-03/debate/dbsect_13",
         "showAs": "Departmental Strategies"
+      },
+      "house": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "houseNo": "34",
+        "committeeCode": "",
+        "chamberType": "house",
+        "houseCode": "dail"
       },
       "questionNumber": 29,
-      "date": "2026-03-03",
-      "house": {
-        "committeeCode": "",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseNo": "34",
-        "showAs": "34th Dáil",
-        "chamberType": "house",
-        "houseCode": "dail"
-      },
       "to": {
-        "roleCode": null,
         "uri": null,
         "roleType": null,
+        "roleCode": null,
         "showAs": "Taoiseach"
-      },
-      "by": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Richard-Boyd-Barrett.D.2011-03-09",
-        "memberCode": "Richard-Boyd-Barrett.D.2011-03-09",
-        "showAs": "Richard Boyd Barrett"
       }
     }
   },
   {
     "contextDate": "2026-03-03",
     "question": {
+      "date": "2026-03-03",
       "questionType": "oral",
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-03-03/pq_30",
+      "by": {
+        "memberCode": "Paul-Murphy.D.2014-10-10",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Murphy.D.2014-10-10",
+        "showAs": "Paul Murphy"
+      },
       "showAs": " 30. Deputy Paul Murphy asked the Taoiseach if he will report on the implementation of the well-being framework published by his Department. [14451/26] ",
       "debateSection": {
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-03/debate/dbsect_13",
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-03/debate/mul@/dbsect_13.xml"
-          },
-          "pdf": null
+          }
         },
         "debateSectionId": "dbsect_13",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-03/debate/dbsect_13",
         "showAs": "Departmental Strategies"
+      },
+      "house": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "houseNo": "34",
+        "committeeCode": "",
+        "chamberType": "house",
+        "houseCode": "dail"
       },
       "questionNumber": 30,
-      "date": "2026-03-03",
-      "house": {
-        "committeeCode": "",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseNo": "34",
-        "showAs": "34th Dáil",
-        "chamberType": "house",
-        "houseCode": "dail"
-      },
       "to": {
-        "roleCode": null,
         "uri": null,
         "roleType": null,
+        "roleCode": null,
         "showAs": "Taoiseach"
-      },
-      "by": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Murphy.D.2014-10-10",
-        "memberCode": "Paul-Murphy.D.2014-10-10",
-        "showAs": "Paul Murphy"
       }
     }
   },
   {
     "contextDate": "2026-03-03",
     "question": {
+      "date": "2026-03-03",
       "questionType": "oral",
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-03-03/pq_31",
+      "by": {
+        "memberCode": "Liam-Quaide.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Liam-Quaide.D.2024-11-29",
+        "showAs": "Liam Quaide"
+      },
       "showAs": " 31. Deputy Liam Quaide asked the Taoiseach if he will report on implementation of the well-being framework published by his Department. [16304/26] ",
       "debateSection": {
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-03/debate/dbsect_13",
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-03/debate/mul@/dbsect_13.xml"
-          },
-          "pdf": null
+          }
         },
         "debateSectionId": "dbsect_13",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-03/debate/dbsect_13",
         "showAs": "Departmental Strategies"
+      },
+      "house": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "houseNo": "34",
+        "committeeCode": "",
+        "chamberType": "house",
+        "houseCode": "dail"
       },
       "questionNumber": 31,
-      "date": "2026-03-03",
-      "house": {
-        "committeeCode": "",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseNo": "34",
-        "showAs": "34th Dáil",
-        "chamberType": "house",
-        "houseCode": "dail"
-      },
       "to": {
-        "roleCode": null,
         "uri": null,
         "roleType": null,
+        "roleCode": null,
         "showAs": "Taoiseach"
-      },
-      "by": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Liam-Quaide.D.2024-11-29",
-        "memberCode": "Liam-Quaide.D.2024-11-29",
-        "showAs": "Liam Quaide"
       }
     }
   },
   {
     "contextDate": "2026-03-03",
     "question": {
+      "date": "2026-03-03",
       "questionType": "oral",
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-03-03/pq_32",
+      "by": {
+        "memberCode": "Barry-Heneghan.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Barry-Heneghan.D.2024-11-29",
+        "showAs": "Barry Heneghan"
+      },
       "showAs": " 32. Deputy Barry Heneghan asked the Taoiseach if he will report on implementation of the well-being framework published by his Department. [16764/26] ",
       "debateSection": {
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-03/debate/dbsect_13",
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-03/debate/mul@/dbsect_13.xml"
-          },
-          "pdf": null
+          }
         },
         "debateSectionId": "dbsect_13",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-03/debate/dbsect_13",
         "showAs": "Departmental Strategies"
       },
-      "questionNumber": 32,
-      "date": "2026-03-03",
       "house": {
-        "committeeCode": "",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseNo": "34",
         "showAs": "34th Dáil",
+        "houseNo": "34",
+        "committeeCode": "",
         "chamberType": "house",
         "houseCode": "dail"
       },
+      "questionNumber": 32,
       "to": {
-        "roleCode": null,
         "uri": null,
         "roleType": null,
+        "roleCode": null,
         "showAs": "Taoiseach"
-      },
-      "by": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Barry-Heneghan.D.2024-11-29",
-        "memberCode": "Barry-Heneghan.D.2024-11-29",
-        "showAs": "Barry Heneghan"
       }
     }
   },
   {
     "contextDate": "2026-03-03",
     "question": {
+      "date": "2026-03-03",
       "questionType": "oral",
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-03-03/pq_131",
+      "by": {
+        "memberCode": "Joanna-Byrne.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Joanna-Byrne.D.2024-11-29",
+        "showAs": "Joanna Byrne"
+      },
       "showAs": " 131. Deputy Joanna Byrne asked the Minister for Culture, Communications and Sport if the proposal to introduce a social media ban for under 16s has been abandoned; and if so, the reasons. [16790/26] ",
       "debateSection": {
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-03/debate/dbsect_19",
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-03/debate/mul@/dbsect_19.xml"
-          },
-          "pdf": null
+          }
         },
         "debateSectionId": "dbsect_19",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-03/debate/dbsect_19",
         "showAs": "Social Media"
       },
-      "questionNumber": 131,
-      "date": "2026-03-03",
       "house": {
-        "committeeCode": "",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseNo": "34",
         "showAs": "34th Dáil",
+        "houseNo": "34",
+        "committeeCode": "",
         "chamberType": "house",
         "houseCode": "dail"
       },
+      "questionNumber": 131,
       "to": {
-        "roleCode": null,
         "uri": null,
         "roleType": null,
+        "roleCode": null,
         "showAs": "Culture"
-      },
-      "by": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Joanna-Byrne.D.2024-11-29",
-        "memberCode": "Joanna-Byrne.D.2024-11-29",
-        "showAs": "Joanna Byrne"
       }
     }
   },
   {
     "contextDate": "2026-03-03",
     "question": {
+      "date": "2026-03-03",
       "questionType": "oral",
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-03-03/pq_132",
+      "by": {
+        "memberCode": "Robert-O'Donoghue.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Robert-O'Donoghue.D.2024-11-29",
+        "showAs": "Robert O'Donoghue"
+      },
       "showAs": " 132. Deputy Robert O'Donoghue asked the Minister for Culture, Communications and Sport the immediate measures he is taking to monitor, prevent, and address discriminatory online harassment and the alarming levels of online abuse directed at national sports representatives, particularly targeting those from ethnic minority backgrounds; the way in which he will ensure that perpetrators are held accountable to protect the dignity and safety of athletes; and if he will make a statement on the matter. [17066/26] ",
       "debateSection": {
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-03/debate/dbsect_20",
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-03/debate/mul@/dbsect_20.xml"
-          },
-          "pdf": null
+          }
         },
         "debateSectionId": "dbsect_20",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-03/debate/dbsect_20",
         "showAs": "Racism in Sport"
       },
-      "questionNumber": 132,
-      "date": "2026-03-03",
       "house": {
-        "committeeCode": "",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseNo": "34",
         "showAs": "34th Dáil",
+        "houseNo": "34",
+        "committeeCode": "",
         "chamberType": "house",
         "houseCode": "dail"
       },
+      "questionNumber": 132,
       "to": {
-        "roleCode": null,
         "uri": null,
         "roleType": null,
+        "roleCode": null,
         "showAs": "Culture"
-      },
-      "by": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Robert-O'Donoghue.D.2024-11-29",
-        "memberCode": "Robert-O'Donoghue.D.2024-11-29",
-        "showAs": "Robert O'Donoghue"
       }
     }
   },
   {
     "contextDate": "2026-03-03",
     "question": {
+      "date": "2026-03-03",
       "questionType": "oral",
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-03-03/pq_133",
+      "by": {
+        "memberCode": "Joanna-Byrne.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Joanna-Byrne.D.2024-11-29",
+        "showAs": "Joanna Byrne"
+      },
       "showAs": " 133. Deputy Joanna Byrne asked the Minister for Culture, Communications and Sport the details of the status of the delivery for use of the new ICT system to replace the existing sports capital programme grant management systems, OSCAR; the total spend on the project; and if he will make a statement on the matter. [16791/26] ",
       "debateSection": {
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-03/debate/dbsect_21",
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-03/debate/mul@/dbsect_21.xml"
-          },
-          "pdf": null
+          }
         },
         "debateSectionId": "dbsect_21",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-03/debate/dbsect_21",
         "showAs": "Information and Communications Technology"
       },
-      "questionNumber": 133,
-      "date": "2026-03-03",
       "house": {
-        "committeeCode": "",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseNo": "34",
         "showAs": "34th Dáil",
+        "houseNo": "34",
+        "committeeCode": "",
         "chamberType": "house",
         "houseCode": "dail"
       },
+      "questionNumber": 133,
       "to": {
-        "roleCode": null,
         "uri": null,
         "roleType": null,
+        "roleCode": null,
         "showAs": "Culture"
-      },
-      "by": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Joanna-Byrne.D.2024-11-29",
-        "memberCode": "Joanna-Byrne.D.2024-11-29",
-        "showAs": "Joanna Byrne"
       }
     }
   },
   {
     "contextDate": "2026-03-03",
     "question": {
+      "date": "2026-03-03",
       "questionType": "oral",
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-03-03/pq_134",
+      "by": {
+        "memberCode": "Sinéad-Gibney.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Sinéad-Gibney.D.2024-11-29",
+        "showAs": "Sinéad Gibney"
+      },
       "showAs": " 134. Deputy Sinéad Gibney asked the Minister for Culture, Communications and Sport the steps his Department is taking to update the codes of practice for live events, particularly live music events, to better facilitate live music performance; and if he will make a statement on the matter. [17202/26] ",
       "debateSection": {
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-03/debate/dbsect_22",
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-03/debate/mul@/dbsect_22.xml"
-          },
-          "pdf": null
+          }
         },
         "debateSectionId": "dbsect_22",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-03/debate/dbsect_22",
         "showAs": "Culture Policy"
       },
-      "questionNumber": 134,
-      "date": "2026-03-03",
       "house": {
-        "committeeCode": "",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseNo": "34",
         "showAs": "34th Dáil",
+        "houseNo": "34",
+        "committeeCode": "",
         "chamberType": "house",
         "houseCode": "dail"
       },
+      "questionNumber": 134,
       "to": {
-        "roleCode": null,
         "uri": null,
         "roleType": null,
+        "roleCode": null,
         "showAs": "Culture"
-      },
+      }
+    }
+  },
+  {
+    "contextDate": "2026-03-03",
+    "question": {
+      "date": "2026-03-03",
+      "questionType": "oral",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-03-03/pq_135",
       "by": {
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Sinéad-Gibney.D.2024-11-29",
+        "memberCode": "Aengus-Ó-Snodaigh.D.2002-06-06",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Aengus-Ó-Snodaigh.D.2002-06-06",
+        "showAs": "Aengus Ó Snodaigh"
+      },
+      "showAs": " 135. D'fhiafraigh Deputy Aengus Ó Snodaigh den Minister for Culture, Communications and Sport an bhfuil sé i gceist aige ciste caipitil ealaíon a bhunú ar mhúnla an chiste caipitil spóirt chun freastal ar riachtanais spáis d’ealaíontóirí agus taispeántais, agus an ndéanfaidh sé ráiteas ina thaobh [17092/26] ",
+      "debateSection": {
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-03/debate/mul@/dbsect_23.xml"
+          }
+        },
+        "debateSectionId": "dbsect_23",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-03/debate/dbsect_23",
+        "showAs": "Cistiúchán Roinne"
+      },
+      "house": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "houseNo": "34",
+        "committeeCode": "",
+        "chamberType": "house",
+        "houseCode": "dail"
+      },
+      "questionNumber": 135,
+      "to": {
+        "uri": null,
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Culture"
+      }
+    }
+  },
+  {
+    "contextDate": "2026-03-03",
+    "question": {
+      "date": "2026-03-03",
+      "questionType": "oral",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-03-03/pq_136",
+      "by": {
+        "memberCode": "Barry-Heneghan.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Barry-Heneghan.D.2024-11-29",
+        "showAs": "Barry Heneghan"
+      },
+      "showAs": " 136. Deputy Barry Heneghan asked the Minister for Culture, Communications and Sport to set out all funding provided by his Department or by Sport Ireland to a centre (details supplied) over the past five years; the amount provided each year; the purpose of the funding; any conditions attached, including requirements around community access or participation; whether those conditions have been reviewed for compliance, in tabular form; and if he will make a statement on the matter. [17225/26] ",
+      "debateSection": {
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-03/debate/mul@/dbsect_24.xml"
+          }
+        },
+        "debateSectionId": "dbsect_24",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-03/debate/dbsect_24",
+        "showAs": "Sports Facilities"
+      },
+      "house": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "houseNo": "34",
+        "committeeCode": "",
+        "chamberType": "house",
+        "houseCode": "dail"
+      },
+      "questionNumber": 136,
+      "to": {
+        "uri": null,
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Culture"
+      }
+    }
+  },
+  {
+    "contextDate": "2026-03-03",
+    "question": {
+      "date": "2026-03-03",
+      "questionType": "oral",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-03-03/pq_137",
+      "by": {
+        "memberCode": "Paula-Butterly.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paula-Butterly.D.2024-11-29",
+        "showAs": "Paula Butterly"
+      },
+      "showAs": " 137. Deputy Paula Butterly asked the Minister for Culture, Communications and Sport if he will consider establishing and funding a dedicated Irish town of culture programme to support local creative initiatives and community-based cultural development in Louth; and if he will make a statement on the matter. [16277/26] ",
+      "debateSection": {
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-03/debate/mul@/dbsect_26.xml"
+          }
+        },
+        "debateSectionId": "dbsect_26",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-03/debate/dbsect_26",
+        "showAs": "Culture Policy"
+      },
+      "house": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "houseNo": "34",
+        "committeeCode": "",
+        "chamberType": "house",
+        "houseCode": "dail"
+      },
+      "questionNumber": 137,
+      "to": {
+        "uri": null,
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Culture"
+      }
+    }
+  },
+  {
+    "contextDate": "2026-03-03",
+    "question": {
+      "date": "2026-03-03",
+      "questionType": "oral",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-03-03/pq_139",
+      "by": {
+        "memberCode": "Thomas-Gould.D.2020-02-08",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Thomas-Gould.D.2020-02-08",
+        "showAs": "Thomas Gould"
+      },
+      "showAs": " 139. Deputy Thomas Gould asked the Minister for Culture, Communications and Sport whether any specific funding is available for capital projects for women’s sports where the organisation does not currently own a playing pitch. [16724/26] ",
+      "debateSection": {
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-03/debate/mul@/dbsect_27.xml"
+          }
+        },
+        "debateSectionId": "dbsect_27",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-03/debate/dbsect_27",
+        "showAs": "Sports Funding"
+      },
+      "house": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "houseNo": "34",
+        "committeeCode": "",
+        "chamberType": "house",
+        "houseCode": "dail"
+      },
+      "questionNumber": 139,
+      "to": {
+        "uri": null,
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Culture"
+      }
+    }
+  },
+  {
+    "contextDate": "2026-03-03",
+    "question": {
+      "date": "2026-03-03",
+      "questionType": "oral",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-03-03/pq_140",
+      "by": {
+        "memberCode": "Séamus-McGrath.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Séamus-McGrath.D.2024-11-29",
+        "showAs": "Séamus McGrath"
+      },
+      "showAs": " 140. Deputy Séamus McGrath asked the Minister for Culture, Communications and Sport when the large-scale sports infrastructure fund, LSSIF, is likely to open for applications.  [16500/26] ",
+      "debateSection": {
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-03/debate/mul@/dbsect_29.xml"
+          }
+        },
+        "debateSectionId": "dbsect_29",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-03/debate/dbsect_29",
+        "showAs": "Departmental Funding"
+      },
+      "house": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "houseNo": "34",
+        "committeeCode": "",
+        "chamberType": "house",
+        "houseCode": "dail"
+      },
+      "questionNumber": 140,
+      "to": {
+        "uri": null,
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Culture"
+      }
+    }
+  },
+  {
+    "contextDate": "2026-03-03",
+    "question": {
+      "date": "2026-03-03",
+      "questionType": "oral",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-03-03/pq_141",
+      "by": {
+        "memberCode": "Darren-O'Rourke.D.2020-02-08",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Darren-O'Rourke.D.2020-02-08",
+        "showAs": "Darren O'Rourke"
+      },
+      "showAs": " 141. Deputy Darren O'Rourke asked the Minister for Culture, Communications and Sport when the next round of the community sport facilities fund will be open; if he will consider allowing clubs use this fund to buy land; and if he will make a statement on the matter. [16263/26] ",
+      "debateSection": {
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-03/debate/mul@/dbsect_28.xml"
+          }
+        },
+        "debateSectionId": "dbsect_28",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-03/debate/dbsect_28",
+        "showAs": "Sports Funding"
+      },
+      "house": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "houseNo": "34",
+        "committeeCode": "",
+        "chamberType": "house",
+        "houseCode": "dail"
+      },
+      "questionNumber": 141,
+      "to": {
+        "uri": null,
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Culture"
+      }
+    }
+  },
+  {
+    "contextDate": "2026-03-03",
+    "question": {
+      "date": "2026-03-03",
+      "questionType": "oral",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-03-03/pq_142",
+      "by": {
+        "memberCode": "Emer-Currie.S.2020-06-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Emer-Currie.S.2020-06-29",
+        "showAs": "Emer Currie"
+      },
+      "showAs": " 142. Deputy Emer Currie asked the Minister for Culture, Communications and Sport for an update on his efforts to support the League of Ireland; and if he will make a statement on the matter. [16822/26] ",
+      "debateSection": {
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-03/debate/mul@/dbsect_30.xml"
+          }
+        },
+        "debateSectionId": "dbsect_30",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-03/debate/dbsect_30",
+        "showAs": "Sport and Recreational Development"
+      },
+      "house": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "houseNo": "34",
+        "committeeCode": "",
+        "chamberType": "house",
+        "houseCode": "dail"
+      },
+      "questionNumber": 142,
+      "to": {
+        "uri": null,
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Culture"
+      }
+    }
+  },
+  {
+    "contextDate": "2026-03-03",
+    "question": {
+      "date": "2026-03-03",
+      "questionType": "oral",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-03-03/pq_143",
+      "by": {
+        "memberCode": "Erin-McGreehan.S.2020-06-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Erin-McGreehan.S.2020-06-29",
+        "showAs": "Erin McGreehan"
+      },
+      "showAs": " 143. Deputy Erin McGreehan asked the Minister for Culture, Communications and Sport for an update on the establishment of the academy system within the FAI for which funding was allocated in budget 2026.  [16779/26] ",
+      "debateSection": {
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-03/debate/mul@/dbsect_30.xml"
+          }
+        },
+        "debateSectionId": "dbsect_30",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-03/debate/dbsect_30",
+        "showAs": "Sport and Recreational Development"
+      },
+      "house": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "houseNo": "34",
+        "committeeCode": "",
+        "chamberType": "house",
+        "houseCode": "dail"
+      },
+      "questionNumber": 143,
+      "to": {
+        "uri": null,
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Culture"
+      }
+    }
+  },
+  {
+    "contextDate": "2026-03-03",
+    "question": {
+      "date": "2026-03-03",
+      "questionType": "oral",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-03-03/pq_144",
+      "by": {
+        "memberCode": "Aindrias-Moynihan.D.2016-10-03",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Aindrias-Moynihan.D.2016-10-03",
+        "showAs": "Aindrias Moynihan"
+      },
+      "showAs": " 144. Deputy Aindrias Moynihan asked the Minister for Culture, Communications and Sport for an update on Sport Ireland’s research in the area of adult safeguarding; when this research will be concluded; and if he will make a statement on the matter. [16777/26] ",
+      "debateSection": {
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-03/debate/mul@/dbsect_31.xml"
+          }
+        },
+        "debateSectionId": "dbsect_31",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-03/debate/dbsect_31",
+        "showAs": "Sports Organisations"
+      },
+      "house": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "houseNo": "34",
+        "committeeCode": "",
+        "chamberType": "house",
+        "houseCode": "dail"
+      },
+      "questionNumber": 144,
+      "to": {
+        "uri": null,
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Culture"
+      }
+    }
+  },
+  {
+    "contextDate": "2026-03-03",
+    "question": {
+      "date": "2026-03-03",
+      "questionType": "oral",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-03-03/pq_145",
+      "by": {
+        "memberCode": "Mairéad-Farrell.D.2020-02-08",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Mairéad-Farrell.D.2020-02-08",
+        "showAs": "Mairéad Farrell"
+      },
+      "showAs": " 145. Deputy Mairéad Farrell asked the Minister for Culture, Communications and Sport to provide an update on the possibility of derogation from the World Athletics 1934 political boundary rule that prohibits athletes from the North of Ireland from representing Ireland at European and world athletics competitions; and if he will make a statement on the matter. [16819/26] ",
+      "debateSection": {
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-03/debate/mul@/dbsect_32.xml"
+          }
+        },
+        "debateSectionId": "dbsect_32",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-03/debate/dbsect_32",
+        "showAs": "Sports Events"
+      },
+      "house": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "houseNo": "34",
+        "committeeCode": "",
+        "chamberType": "house",
+        "houseCode": "dail"
+      },
+      "questionNumber": 145,
+      "to": {
+        "uri": null,
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Culture"
+      }
+    }
+  },
+  {
+    "contextDate": "2026-03-03",
+    "question": {
+      "date": "2026-03-03",
+      "questionType": "oral",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-03-03/pq_150",
+      "by": {
+        "memberCode": "Shane-Moynihan.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Shane-Moynihan.D.2024-11-29",
+        "showAs": "Shane Moynihan"
+      },
+      "showAs": " 150. Deputy Shane Moynihan asked the Minister for Culture, Communications and Sport when the next round of the community sports facilities fund will open; the criteria that will be used to assess applications; and if he will make a statement on the matter. [16793/26] ",
+      "debateSection": {
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-03/debate/mul@/dbsect_28.xml"
+          }
+        },
+        "debateSectionId": "dbsect_28",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-03/debate/dbsect_28",
+        "showAs": "Sports Funding"
+      },
+      "house": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "houseNo": "34",
+        "committeeCode": "",
+        "chamberType": "house",
+        "houseCode": "dail"
+      },
+      "questionNumber": 150,
+      "to": {
+        "uri": null,
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Culture"
+      }
+    }
+  },
+  {
+    "contextDate": "2026-03-03",
+    "question": {
+      "date": "2026-03-03",
+      "questionType": "oral",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-03-03/pq_157",
+      "by": {
+        "memberCode": "Peter-'Chap'-Cleere.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Peter-'Chap'-Cleere.D.2024-11-29",
+        "showAs": "Peter 'Chap' Cleere"
+      },
+      "showAs": " 157. Deputy Peter 'Chap' Cleere asked the Minister for Culture, Communications and Sport if the sports capital and equipment fund will open for applications in 2026; and if he will make a statement on the matter. [16745/26] ",
+      "debateSection": {
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-03/debate/mul@/dbsect_28.xml"
+          }
+        },
+        "debateSectionId": "dbsect_28",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-03/debate/dbsect_28",
+        "showAs": "Sports Funding"
+      },
+      "house": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "houseNo": "34",
+        "committeeCode": "",
+        "chamberType": "house",
+        "houseCode": "dail"
+      },
+      "questionNumber": 157,
+      "to": {
+        "uri": null,
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Culture"
+      }
+    }
+  },
+  {
+    "contextDate": "2026-03-03",
+    "question": {
+      "date": "2026-03-03",
+      "questionType": "oral",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-03-03/pq_159",
+      "by": {
+        "memberCode": "Mark-Ward.D.2019-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Mark-Ward.D.2019-11-29",
+        "showAs": "Mark Ward"
+      },
+      "showAs": " 159. Deputy Mark Ward asked the Minister for Culture, Communications and Sport his plans for Government investment into the League of Ireland; the efforts of his Department to promote the league; and if he will make a statement on the matter. [16771/26] ",
+      "debateSection": {
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-03/debate/mul@/dbsect_30.xml"
+          }
+        },
+        "debateSectionId": "dbsect_30",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-03/debate/dbsect_30",
+        "showAs": "Sport and Recreational Development"
+      },
+      "house": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "houseNo": "34",
+        "committeeCode": "",
+        "chamberType": "house",
+        "houseCode": "dail"
+      },
+      "questionNumber": 159,
+      "to": {
+        "uri": null,
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Culture"
+      }
+    }
+  },
+  {
+    "contextDate": "2026-03-03",
+    "question": {
+      "date": "2026-03-03",
+      "questionType": "oral",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-03-03/pq_160",
+      "by": {
+        "memberCode": "Tony-McCormack.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tony-McCormack.D.2024-11-29",
+        "showAs": "Tony McCormack"
+      },
+      "showAs": " 160. Deputy Tony McCormack asked the Minister for Culture, Communications and Sport when the next round of the sports capital and equipment programme will be announced; the expected timeline for the opening of applications; and if he will make a statement on the matter. [16794/26] ",
+      "debateSection": {
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-03/debate/mul@/dbsect_28.xml"
+          }
+        },
+        "debateSectionId": "dbsect_28",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-03/debate/dbsect_28",
+        "showAs": "Sports Funding"
+      },
+      "house": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "houseNo": "34",
+        "committeeCode": "",
+        "chamberType": "house",
+        "houseCode": "dail"
+      },
+      "questionNumber": 160,
+      "to": {
+        "uri": null,
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Culture"
+      }
+    }
+  },
+  {
+    "contextDate": "2026-03-03",
+    "question": {
+      "date": "2026-03-03",
+      "questionType": "oral",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-03-03/pq_163",
+      "by": {
+        "memberCode": "James-O'Connor.D.2020-02-08",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/James-O'Connor.D.2020-02-08",
+        "showAs": "James O'Connor"
+      },
+      "showAs": " 163. Deputy James O'Connor asked the Minister for Culture, Communications and Sport if he has discussed the potential total funding that will be available for the next round of the community sports facilities fund; if his Department has completed the review of the last round of the same fund; the timeline for the next round of the scheme; and if he will make a statement on the matter. [16720/26] ",
+      "debateSection": {
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-03/debate/mul@/dbsect_28.xml"
+          }
+        },
+        "debateSectionId": "dbsect_28",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-03/debate/dbsect_28",
+        "showAs": "Sports Funding"
+      },
+      "house": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "houseNo": "34",
+        "committeeCode": "",
+        "chamberType": "house",
+        "houseCode": "dail"
+      },
+      "questionNumber": 163,
+      "to": {
+        "uri": null,
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Culture"
+      }
+    }
+  },
+  {
+    "contextDate": "2026-03-03",
+    "question": {
+      "date": "2026-03-03",
+      "questionType": "oral",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-03-03/pq_166",
+      "by": {
+        "memberCode": "Peter-'Chap'-Cleere.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Peter-'Chap'-Cleere.D.2024-11-29",
+        "showAs": "Peter 'Chap' Cleere"
+      },
+      "showAs": " 166. Deputy Peter 'Chap' Cleere asked the Minister for Culture, Communications and Sport if the community sports facilities fund will open for applications in 2026; and if he will make a statement on the matter. [16744/26] ",
+      "debateSection": {
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-03/debate/mul@/dbsect_28.xml"
+          }
+        },
+        "debateSectionId": "dbsect_28",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-03/debate/dbsect_28",
+        "showAs": "Sports Funding"
+      },
+      "house": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "houseNo": "34",
+        "committeeCode": "",
+        "chamberType": "house",
+        "houseCode": "dail"
+      },
+      "questionNumber": 166,
+      "to": {
+        "uri": null,
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Culture"
+      }
+    }
+  },
+  {
+    "contextDate": "2026-03-03",
+    "question": {
+      "date": "2026-03-03",
+      "questionType": "oral",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-03-03/pq_167",
+      "by": {
+        "memberCode": "Albert-Dolan.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Albert-Dolan.D.2024-11-29",
+        "showAs": "Albert Dolan"
+      },
+      "showAs": " 167. Deputy Albert Dolan asked the Minister for Culture, Communications and Sport when he intends to announce the next round of funding under the community sports facilities fund; if any amendments to the eligibility or assessment criteria are planned; and if he will make a statement on the matter. [16722/26] ",
+      "debateSection": {
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-03/debate/mul@/dbsect_28.xml"
+          }
+        },
+        "debateSectionId": "dbsect_28",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-03/debate/dbsect_28",
+        "showAs": "Sports Funding"
+      },
+      "house": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "houseNo": "34",
+        "committeeCode": "",
+        "chamberType": "house",
+        "houseCode": "dail"
+      },
+      "questionNumber": 167,
+      "to": {
+        "uri": null,
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Culture"
+      }
+    }
+  },
+  {
+    "contextDate": "2026-03-03",
+    "question": {
+      "date": "2026-03-03",
+      "questionType": "oral",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-03-03/pq_171",
+      "by": {
+        "memberCode": "Joanna-Byrne.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Joanna-Byrne.D.2024-11-29",
+        "showAs": "Joanna Byrne"
+      },
+      "showAs": " 171. Deputy Joanna Byrne asked the Minister for Culture, Communications and Sport when the new round of the community sports facilities fund grants will open; and if he will make a statement on the matter. [16807/26] ",
+      "debateSection": {
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-03/debate/mul@/dbsect_28.xml"
+          }
+        },
+        "debateSectionId": "dbsect_28",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-03/debate/dbsect_28",
+        "showAs": "Sports Funding"
+      },
+      "house": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "houseNo": "34",
+        "committeeCode": "",
+        "chamberType": "house",
+        "houseCode": "dail"
+      },
+      "questionNumber": 171,
+      "to": {
+        "uri": null,
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Culture"
+      }
+    }
+  },
+  {
+    "contextDate": "2026-03-03",
+    "question": {
+      "date": "2026-03-03",
+      "questionType": "oral",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-03-03/pq_179",
+      "by": {
         "memberCode": "Sinéad-Gibney.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Sinéad-Gibney.D.2024-11-29",
         "showAs": "Sinéad Gibney"
+      },
+      "showAs": " 179. Deputy Sinéad Gibney asked the Minister for Culture, Communications and Sport the effort his Department is making to support the League of Ireland men’s and women’s leagues, and domestic football, in light of vast growth in attendance and viewership over the last period; and if he will make a statement on the matter. [16800/26] ",
+      "debateSection": {
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-03/debate/mul@/dbsect_30.xml"
+          }
+        },
+        "debateSectionId": "dbsect_30",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-03/debate/dbsect_30",
+        "showAs": "Sport and Recreational Development"
+      },
+      "house": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "houseNo": "34",
+        "committeeCode": "",
+        "chamberType": "house",
+        "houseCode": "dail"
+      },
+      "questionNumber": 179,
+      "to": {
+        "uri": null,
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Culture"
+      }
+    }
+  },
+  {
+    "contextDate": "2026-03-03",
+    "question": {
+      "date": "2026-03-03",
+      "questionType": "oral",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-03-03/pq_180",
+      "by": {
+        "memberCode": "John-Connolly.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/John-Connolly.D.2024-11-29",
+        "showAs": "John Connolly"
+      },
+      "showAs": " 180. Deputy John Connolly asked the Minister for Culture, Communications and Sport whether a further opportunity to apply for large-scale sports infrastructure funding will be open to sporting organisations in 2026; if so, the level of funding that will be available; the criteria for applications; and if he will make a statement on the matter.  [16268/26] ",
+      "debateSection": {
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-03/debate/mul@/dbsect_29.xml"
+          }
+        },
+        "debateSectionId": "dbsect_29",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-03/debate/dbsect_29",
+        "showAs": "Departmental Funding"
+      },
+      "house": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "houseNo": "34",
+        "committeeCode": "",
+        "chamberType": "house",
+        "houseCode": "dail"
+      },
+      "questionNumber": 180,
+      "to": {
+        "uri": null,
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Culture"
+      }
+    }
+  },
+  {
+    "contextDate": "2026-03-03",
+    "question": {
+      "date": "2026-03-03",
+      "questionType": "oral",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-03-03/pq_188",
+      "by": {
+        "memberCode": "Colm-Burke.S.2011-05-25",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Colm-Burke.S.2011-05-25",
+        "showAs": "Colm Burke"
+      },
+      "showAs": " 188. Deputy Colm Burke asked the Minister for Culture, Communications and Sport when the new round of the community sports facilities fund will launch in 2026; and if he will make a statement on the matter. [16769/26] ",
+      "debateSection": {
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-03/debate/mul@/dbsect_28.xml"
+          }
+        },
+        "debateSectionId": "dbsect_28",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-03/debate/dbsect_28",
+        "showAs": "Sports Funding"
+      },
+      "house": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "houseNo": "34",
+        "committeeCode": "",
+        "chamberType": "house",
+        "houseCode": "dail"
+      },
+      "questionNumber": 188,
+      "to": {
+        "uri": null,
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Culture"
+      }
+    }
+  },
+  {
+    "contextDate": "2026-03-03",
+    "question": {
+      "date": "2026-03-03",
+      "questionType": "oral",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-03-03/pq_198",
+      "by": {
+        "memberCode": "Barry-Ward.S.2020-03-30",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Barry-Ward.S.2020-03-30",
+        "showAs": "Barry Ward"
+      },
+      "showAs": " 198. Deputy Barry Ward asked the Minister for Culture, Communications and Sport the position regarding the reopening of applications under the sports capital programme; and if he will make a statement on the matter. [16470/26] ",
+      "debateSection": {
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-03/debate/mul@/dbsect_28.xml"
+          }
+        },
+        "debateSectionId": "dbsect_28",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-03/debate/dbsect_28",
+        "showAs": "Sports Funding"
+      },
+      "house": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "houseNo": "34",
+        "committeeCode": "",
+        "chamberType": "house",
+        "houseCode": "dail"
+      },
+      "questionNumber": 198,
+      "to": {
+        "uri": null,
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Culture"
       }
     }
   }

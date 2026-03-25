@@ -1,0 +1,922 @@
+[
+  {
+    "question": {
+      "date": "2026-03-24",
+      "to": {
+        "uri": null,
+        "roleCode": null,
+        "roleType": null,
+        "showAs": "Taoiseach"
+      },
+      "house": {
+        "houseNo": "34",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "chamberType": "house"
+      },
+      "by": {
+        "memberCode": "Ruairí-Ó-Murchú.D.2020-02-08",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruairí-Ó-Murchú.D.2020-02-08",
+        "showAs": "Ruairí Ó Murchú"
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_14",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-24/debate/mul@/dbsect_14.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-24/debate/dbsect_14",
+        "showAs": "Ukraine War"
+      },
+      "questionType": "oral",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-03-24/pq_1",
+      "questionNumber": 1,
+      "showAs": " 1. Deputy Ruairí Ó Murchú asked the Taoiseach if he will report on his attendance at the most recent meeting of the coalition of the willing in support of Ukraine. [11873/26] "
+    },
+    "contextDate": "2026-03-24"
+  },
+  {
+    "question": {
+      "date": "2026-03-24",
+      "to": {
+        "uri": null,
+        "roleCode": null,
+        "roleType": null,
+        "showAs": "Taoiseach"
+      },
+      "house": {
+        "houseNo": "34",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "chamberType": "house"
+      },
+      "by": {
+        "memberCode": "Malcolm-Byrne.D.2019-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Malcolm-Byrne.D.2019-11-29",
+        "showAs": "Malcolm Byrne"
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_14",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-24/debate/mul@/dbsect_14.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-24/debate/dbsect_14",
+        "showAs": "Ukraine War"
+      },
+      "questionType": "oral",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-03-24/pq_2",
+      "questionNumber": 2,
+      "showAs": " 2. Deputy Malcolm Byrne asked the Taoiseach if he will report on his attendance at the most recent meeting of the coalition of the willing in support of Ukraine. [74069/25] "
+    },
+    "contextDate": "2026-03-24"
+  },
+  {
+    "question": {
+      "date": "2026-03-24",
+      "to": {
+        "uri": null,
+        "roleCode": null,
+        "roleType": null,
+        "showAs": "Taoiseach"
+      },
+      "house": {
+        "houseNo": "34",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "chamberType": "house"
+      },
+      "by": {
+        "memberCode": "Naoise-Ó-Cearúil.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Naoise-Ó-Cearúil.D.2024-11-29",
+        "showAs": "Naoise Ó Cearúil"
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_14",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-24/debate/mul@/dbsect_14.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-24/debate/dbsect_14",
+        "showAs": "Ukraine War"
+      },
+      "questionType": "oral",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-03-24/pq_3",
+      "questionNumber": 3,
+      "showAs": " 3. Deputy Naoise Ó Cearúil asked the Taoiseach if he will report on his attendance at the most recent meeting of the coalition of the willing in support of Ukraine. [74071/25] "
+    },
+    "contextDate": "2026-03-24"
+  },
+  {
+    "question": {
+      "date": "2026-03-24",
+      "to": {
+        "uri": null,
+        "roleCode": null,
+        "roleType": null,
+        "showAs": "Taoiseach"
+      },
+      "house": {
+        "houseNo": "34",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "chamberType": "house"
+      },
+      "by": {
+        "memberCode": "Shay-Brennan.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Shay-Brennan.D.2024-11-29",
+        "showAs": "Shay Brennan"
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_14",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-24/debate/mul@/dbsect_14.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-24/debate/dbsect_14",
+        "showAs": "Ukraine War"
+      },
+      "questionType": "oral",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-03-24/pq_4",
+      "questionNumber": 4,
+      "showAs": " 4. Deputy Shay Brennan asked the Taoiseach if he will report on his attendance at the most recent meeting of the coalition of the willing in support of Ukraine. [74073/25] "
+    },
+    "contextDate": "2026-03-24"
+  },
+  {
+    "question": {
+      "date": "2026-03-24",
+      "to": {
+        "uri": null,
+        "roleCode": null,
+        "roleType": null,
+        "showAs": "Taoiseach"
+      },
+      "house": {
+        "houseNo": "34",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "chamberType": "house"
+      },
+      "by": {
+        "memberCode": "Liam-Quaide.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Liam-Quaide.D.2024-11-29",
+        "showAs": "Liam Quaide"
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_14",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-24/debate/mul@/dbsect_14.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-24/debate/dbsect_14",
+        "showAs": "Ukraine War"
+      },
+      "questionType": "oral",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-03-24/pq_5",
+      "questionNumber": 5,
+      "showAs": " 5. Deputy Liam Quaide asked the Taoiseach if he will report on his attendance at the most recent meeting of the coalition of the willing in support of Ukraine. [16305/26] "
+    },
+    "contextDate": "2026-03-24"
+  },
+  {
+    "question": {
+      "date": "2026-03-24",
+      "to": {
+        "uri": null,
+        "roleCode": null,
+        "roleType": null,
+        "showAs": "Taoiseach"
+      },
+      "house": {
+        "houseNo": "34",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "chamberType": "house"
+      },
+      "by": {
+        "memberCode": "Richard-Boyd-Barrett.D.2011-03-09",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Richard-Boyd-Barrett.D.2011-03-09",
+        "showAs": "Richard Boyd Barrett"
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_14",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-24/debate/mul@/dbsect_14.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-24/debate/dbsect_14",
+        "showAs": "Ukraine War"
+      },
+      "questionType": "oral",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-03-24/pq_6",
+      "questionNumber": 6,
+      "showAs": " 6. Deputy Richard Boyd Barrett asked the Taoiseach if he will report on his attendance at the most recent meeting of the coalition of the willing in support of Ukraine. [18698/26] "
+    },
+    "contextDate": "2026-03-24"
+  },
+  {
+    "question": {
+      "date": "2026-03-24",
+      "to": {
+        "uri": null,
+        "roleCode": null,
+        "roleType": null,
+        "showAs": "Taoiseach"
+      },
+      "house": {
+        "houseNo": "34",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "chamberType": "house"
+      },
+      "by": {
+        "memberCode": "Paul-Murphy.D.2014-10-10",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Murphy.D.2014-10-10",
+        "showAs": "Paul Murphy"
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_14",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-24/debate/mul@/dbsect_14.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-24/debate/dbsect_14",
+        "showAs": "Ukraine War"
+      },
+      "questionType": "oral",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-03-24/pq_7",
+      "questionNumber": 7,
+      "showAs": " 7. Deputy Paul Murphy asked the Taoiseach if he will report on his attendance at the most recent meeting of the coalition of the willing in suport of Ukraine. [18701/26] "
+    },
+    "contextDate": "2026-03-24"
+  },
+  {
+    "question": {
+      "date": "2026-03-24",
+      "to": {
+        "uri": null,
+        "roleCode": null,
+        "roleType": null,
+        "showAs": "Taoiseach"
+      },
+      "house": {
+        "houseNo": "34",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "chamberType": "house"
+      },
+      "by": {
+        "memberCode": "Jennifer-Whitmore.D.2020-02-08",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Jennifer-Whitmore.D.2020-02-08",
+        "showAs": "Jennifer Whitmore"
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_14",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-24/debate/mul@/dbsect_14.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-24/debate/dbsect_14",
+        "showAs": "Ukraine War"
+      },
+      "questionType": "oral",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-03-24/pq_8",
+      "questionNumber": 8,
+      "showAs": " 8. Deputy Jennifer Whitmore asked the Taoiseach if he will report on his attendance at the most recent meeting of the coalition of the willing in support of Ukraine. [18942/26] "
+    },
+    "contextDate": "2026-03-24"
+  },
+  {
+    "question": {
+      "date": "2026-03-24",
+      "to": {
+        "uri": null,
+        "roleCode": null,
+        "roleType": null,
+        "showAs": "Taoiseach"
+      },
+      "house": {
+        "houseNo": "34",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "chamberType": "house"
+      },
+      "by": {
+        "memberCode": "Louis-O'Hara.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Louis-O'Hara.D.2024-11-29",
+        "showAs": "Louis O'Hara"
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_14",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-24/debate/mul@/dbsect_14.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-24/debate/dbsect_14",
+        "showAs": "Ukraine War"
+      },
+      "questionType": "oral",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-03-24/pq_9",
+      "questionNumber": 9,
+      "showAs": " 9. Deputy Louis O'Hara asked the Taoiseach if he will report on his attendance at the most recent meeting of the coalition of the willing in support of Ukraine. [20115/26] "
+    },
+    "contextDate": "2026-03-24"
+  },
+  {
+    "question": {
+      "date": "2026-03-24",
+      "to": {
+        "uri": null,
+        "roleCode": null,
+        "roleType": null,
+        "showAs": "Taoiseach"
+      },
+      "house": {
+        "houseNo": "34",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "chamberType": "house"
+      },
+      "by": {
+        "memberCode": "Rose-Conway-Walsh.S.2016-04-25",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Rose-Conway-Walsh.S.2016-04-25",
+        "showAs": "Rose Conway-Walsh"
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_14",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-24/debate/mul@/dbsect_14.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-24/debate/dbsect_14",
+        "showAs": "Ukraine War"
+      },
+      "questionType": "oral",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-03-24/pq_10",
+      "questionNumber": 10,
+      "showAs": " 10. Deputy Rose Conway-Walsh asked the Taoiseach if he will report on his attendance at the most recent meeting of the coalition of the willing in support of Ukraine. [22089/26] "
+    },
+    "contextDate": "2026-03-24"
+  },
+  {
+    "question": {
+      "date": "2026-03-24",
+      "to": {
+        "uri": null,
+        "roleCode": null,
+        "roleType": null,
+        "showAs": "Taoiseach"
+      },
+      "house": {
+        "houseNo": "34",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "chamberType": "house"
+      },
+      "by": {
+        "memberCode": "Cathal-Crowe.D.2020-02-08",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Cathal-Crowe.D.2020-02-08",
+        "showAs": "Cathal Crowe"
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_15",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-24/debate/mul@/dbsect_15.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-24/debate/dbsect_15",
+        "showAs": "Departmental Reports"
+      },
+      "questionType": "oral",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-03-24/pq_11",
+      "questionNumber": 11,
+      "showAs": " 11. Deputy Cathal Crowe asked the Taoiseach if he will report on his Department’s statement of strategy for 2025 to 2028. [74524/25] "
+    },
+    "contextDate": "2026-03-24"
+  },
+  {
+    "question": {
+      "date": "2026-03-24",
+      "to": {
+        "uri": null,
+        "roleCode": null,
+        "roleType": null,
+        "showAs": "Taoiseach"
+      },
+      "house": {
+        "houseNo": "34",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "chamberType": "house"
+      },
+      "by": {
+        "memberCode": "Brendan-Smith.D.1992-12-14",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Brendan-Smith.D.1992-12-14",
+        "showAs": "Brendan Smith"
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_15",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-24/debate/mul@/dbsect_15.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-24/debate/dbsect_15",
+        "showAs": "Departmental Reports"
+      },
+      "questionType": "oral",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-03-24/pq_12",
+      "questionNumber": 12,
+      "showAs": " 12. Deputy Brendan Smith asked the Taoiseach if he will report on his Department’s statement of strategy for 2025 to 2028. [74526/25] "
+    },
+    "contextDate": "2026-03-24"
+  },
+  {
+    "question": {
+      "date": "2026-03-24",
+      "to": {
+        "uri": null,
+        "roleCode": null,
+        "roleType": null,
+        "showAs": "Taoiseach"
+      },
+      "house": {
+        "houseNo": "34",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "chamberType": "house"
+      },
+      "by": {
+        "memberCode": "Ruairí-Ó-Murchú.D.2020-02-08",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruairí-Ó-Murchú.D.2020-02-08",
+        "showAs": "Ruairí Ó Murchú"
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_15",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-24/debate/mul@/dbsect_15.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-24/debate/dbsect_15",
+        "showAs": "Departmental Reports"
+      },
+      "questionType": "oral",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-03-24/pq_13",
+      "questionNumber": 13,
+      "showAs": " 13. Deputy Ruairí Ó Murchú asked the Taoiseach if he will report on his Department's statement of strategy for 2025 to 2028. [14259/26] "
+    },
+    "contextDate": "2026-03-24"
+  },
+  {
+    "question": {
+      "date": "2026-03-24",
+      "to": {
+        "uri": null,
+        "roleCode": null,
+        "roleType": null,
+        "showAs": "Taoiseach"
+      },
+      "house": {
+        "houseNo": "34",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "chamberType": "house"
+      },
+      "by": {
+        "memberCode": "Albert-Dolan.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Albert-Dolan.D.2024-11-29",
+        "showAs": "Albert Dolan"
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_15",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-24/debate/mul@/dbsect_15.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-24/debate/dbsect_15",
+        "showAs": "Departmental Reports"
+      },
+      "questionType": "oral",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-03-24/pq_14",
+      "questionNumber": 14,
+      "showAs": " 14. Deputy Albert Dolan asked the Taoiseach if he will report on his Department’s statement of strategy for 2025 to 2028. [16742/26] "
+    },
+    "contextDate": "2026-03-24"
+  },
+  {
+    "question": {
+      "date": "2026-03-24",
+      "to": {
+        "uri": null,
+        "roleCode": null,
+        "roleType": null,
+        "showAs": "Taoiseach"
+      },
+      "house": {
+        "houseNo": "34",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "chamberType": "house"
+      },
+      "by": {
+        "memberCode": "Ryan-O'Meara.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ryan-O'Meara.D.2024-11-29",
+        "showAs": "Ryan O'Meara"
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_15",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-24/debate/mul@/dbsect_15.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-24/debate/dbsect_15",
+        "showAs": "Departmental Reports"
+      },
+      "questionType": "oral",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-03-24/pq_15",
+      "questionNumber": 15,
+      "showAs": " 15. Deputy Ryan O'Meara asked the Taoiseach if he will report on his Department’s statement of strategy for 2025 to 2028. [16743/26] "
+    },
+    "contextDate": "2026-03-24"
+  },
+  {
+    "question": {
+      "date": "2026-03-24",
+      "to": {
+        "uri": null,
+        "roleCode": null,
+        "roleType": null,
+        "showAs": "Taoiseach"
+      },
+      "house": {
+        "houseNo": "34",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "chamberType": "house"
+      },
+      "by": {
+        "memberCode": "Jennifer-Whitmore.D.2020-02-08",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Jennifer-Whitmore.D.2020-02-08",
+        "showAs": "Jennifer Whitmore"
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_15",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-24/debate/mul@/dbsect_15.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-24/debate/dbsect_15",
+        "showAs": "Departmental Reports"
+      },
+      "questionType": "oral",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-03-24/pq_16",
+      "questionNumber": 16,
+      "showAs": " 16. Deputy Jennifer Whitmore asked the Taoiseach if he will report on his Department's statement of strategy for 2025 to 2028. [17330/26] "
+    },
+    "contextDate": "2026-03-24"
+  },
+  {
+    "question": {
+      "date": "2026-03-24",
+      "to": {
+        "uri": null,
+        "roleCode": null,
+        "roleType": null,
+        "showAs": "Taoiseach"
+      },
+      "house": {
+        "houseNo": "34",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "chamberType": "house"
+      },
+      "by": {
+        "memberCode": "Liam-Quaide.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Liam-Quaide.D.2024-11-29",
+        "showAs": "Liam Quaide"
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_15",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-24/debate/mul@/dbsect_15.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-24/debate/dbsect_15",
+        "showAs": "Departmental Reports"
+      },
+      "questionType": "oral",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-03-24/pq_17",
+      "questionNumber": 17,
+      "showAs": " 17. Deputy Liam Quaide asked the Taoiseach if he will report on his Department's statement of strategy for 2025 to 2028. [18160/26] "
+    },
+    "contextDate": "2026-03-24"
+  },
+  {
+    "question": {
+      "date": "2026-03-24",
+      "to": {
+        "uri": null,
+        "roleCode": null,
+        "roleType": null,
+        "showAs": "Taoiseach"
+      },
+      "house": {
+        "houseNo": "34",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "chamberType": "house"
+      },
+      "by": {
+        "memberCode": "Richard-Boyd-Barrett.D.2011-03-09",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Richard-Boyd-Barrett.D.2011-03-09",
+        "showAs": "Richard Boyd Barrett"
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_15",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-24/debate/mul@/dbsect_15.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-24/debate/dbsect_15",
+        "showAs": "Departmental Reports"
+      },
+      "questionType": "oral",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-03-24/pq_18",
+      "questionNumber": 18,
+      "showAs": " 18. Deputy Richard Boyd Barrett asked the Taoiseach if he will report on his Department's statement of strategy for 2025 to 2028. [18699/26] "
+    },
+    "contextDate": "2026-03-24"
+  },
+  {
+    "question": {
+      "date": "2026-03-24",
+      "to": {
+        "uri": null,
+        "roleCode": null,
+        "roleType": null,
+        "showAs": "Taoiseach"
+      },
+      "house": {
+        "houseNo": "34",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "chamberType": "house"
+      },
+      "by": {
+        "memberCode": "Paul-Murphy.D.2014-10-10",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Murphy.D.2014-10-10",
+        "showAs": "Paul Murphy"
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_15",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-24/debate/mul@/dbsect_15.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-24/debate/dbsect_15",
+        "showAs": "Departmental Reports"
+      },
+      "questionType": "oral",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-03-24/pq_19",
+      "questionNumber": 19,
+      "showAs": " 19. Deputy Paul Murphy asked the Taoiseach if he will report on his Department's statement of strategy for 2025 to 2028. [18702/26] "
+    },
+    "contextDate": "2026-03-24"
+  },
+  {
+    "question": {
+      "date": "2026-03-24",
+      "to": {
+        "uri": null,
+        "roleCode": null,
+        "roleType": null,
+        "showAs": "Taoiseach"
+      },
+      "house": {
+        "houseNo": "34",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "chamberType": "house"
+      },
+      "by": {
+        "memberCode": "Cian-O'Callaghan.D.2020-02-08",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Cian-O'Callaghan.D.2020-02-08",
+        "showAs": "Cian O'Callaghan"
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_15",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-24/debate/mul@/dbsect_15.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-24/debate/dbsect_15",
+        "showAs": "Departmental Reports"
+      },
+      "questionType": "oral",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-03-24/pq_20",
+      "questionNumber": 20,
+      "showAs": " 20. Deputy Cian O'Callaghan asked the Taoiseach if he will report on his Department's statement of strategy for 2025 to 2028. [18787/26] "
+    },
+    "contextDate": "2026-03-24"
+  },
+  {
+    "question": {
+      "date": "2026-03-24",
+      "to": {
+        "uri": null,
+        "roleCode": null,
+        "roleType": null,
+        "showAs": "Taoiseach"
+      },
+      "house": {
+        "houseNo": "34",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "chamberType": "house"
+      },
+      "by": {
+        "memberCode": "Darren-O'Rourke.D.2020-02-08",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Darren-O'Rourke.D.2020-02-08",
+        "showAs": "Darren O'Rourke"
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_15",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-24/debate/mul@/dbsect_15.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-24/debate/dbsect_15",
+        "showAs": "Departmental Reports"
+      },
+      "questionType": "oral",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-03-24/pq_21",
+      "questionNumber": 21,
+      "showAs": " 21. Deputy Darren O'Rourke asked the Taoiseach if he will report on his Department's statement of strategy for 2025 to 2028. [19725/26] "
+    },
+    "contextDate": "2026-03-24"
+  },
+  {
+    "question": {
+      "date": "2026-03-24",
+      "to": {
+        "uri": null,
+        "roleCode": null,
+        "roleType": null,
+        "showAs": "Taoiseach"
+      },
+      "house": {
+        "houseNo": "34",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "chamberType": "house"
+      },
+      "by": {
+        "memberCode": "Louis-O'Hara.D.2024-11-29",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Louis-O'Hara.D.2024-11-29",
+        "showAs": "Louis O'Hara"
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_15",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-24/debate/mul@/dbsect_15.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-24/debate/dbsect_15",
+        "showAs": "Departmental Reports"
+      },
+      "questionType": "oral",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-03-24/pq_22",
+      "questionNumber": 22,
+      "showAs": " 22. Deputy Louis O'Hara asked the Taoiseach if he will report on his Department's statement of strategy for 2025 to 2028. [20116/26] "
+    },
+    "contextDate": "2026-03-24"
+  },
+  {
+    "question": {
+      "date": "2026-03-24",
+      "to": {
+        "uri": null,
+        "roleCode": null,
+        "roleType": null,
+        "showAs": "Taoiseach"
+      },
+      "house": {
+        "houseNo": "34",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "houseCode": "dail",
+        "committeeCode": "",
+        "chamberType": "house"
+      },
+      "by": {
+        "memberCode": "Rose-Conway-Walsh.S.2016-04-25",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Rose-Conway-Walsh.S.2016-04-25",
+        "showAs": "Rose Conway-Walsh"
+      },
+      "debateSection": {
+        "debateSectionId": "dbsect_15",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-24/debate/mul@/dbsect_15.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-03-24/debate/dbsect_15",
+        "showAs": "Departmental Reports"
+      },
+      "questionType": "oral",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-03-24/pq_23",
+      "questionNumber": 23,
+      "showAs": " 23. Deputy Rose Conway-Walsh asked the Taoiseach if he will report on his Department’s statement of strategy for 2025 to 2028. [22090/26] "
+    },
+    "contextDate": "2026-03-24"
+  }
+]

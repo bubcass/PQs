@@ -1,1282 +1,1282 @@
 [
   {
-    "contextDate": "2026-04-15",
     "question": {
       "to": {
-        "roleType": null,
         "showAs": "Taoiseach",
+        "uri": null,
         "roleCode": null,
-        "uri": null
+        "roleType": null
+      },
+      "house": {
+        "houseCode": "dail",
+        "chamberType": "house",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34"
       },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-15/pq_1",
-      "house": {
-        "houseNo": "34",
-        "committeeCode": "",
-        "houseCode": "dail",
-        "chamberType": "house",
-        "showAs": "34th Dáil",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
-      },
+      "questionNumber": 1,
       "showAs": " 1. Deputy Richard Boyd Barrett asked the Taoiseach to report on his recent visit to China.  [1549/26] ",
       "date": "2026-04-15",
-      "questionNumber": 1,
       "by": {
-        "memberCode": "Richard-Boyd-Barrett.D.2011-03-09",
         "showAs": "Richard Boyd Barrett",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Richard-Boyd-Barrett.D.2011-03-09"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Richard-Boyd-Barrett.D.2011-03-09",
+        "memberCode": "Richard-Boyd-Barrett.D.2011-03-09"
       },
+      "questionType": "oral",
       "debateSection": {
-        "debateSectionId": "dbsect_14",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-15/debate/dbsect_14",
         "showAs": "Taoiseach's Meetings and Engagements",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-15/debate/dbsect_14",
         "formats": {
-          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-15/debate/mul@/dbsect_14.xml"
-          }
-        }
-      },
-      "questionType": "oral"
-    }
+          },
+          "pdf": null
+        },
+        "debateSectionId": "dbsect_14"
+      }
+    },
+    "contextDate": "2026-04-15"
   },
   {
-    "contextDate": "2026-04-15",
     "question": {
       "to": {
-        "roleType": null,
         "showAs": "Taoiseach",
+        "uri": null,
         "roleCode": null,
-        "uri": null
+        "roleType": null
+      },
+      "house": {
+        "houseCode": "dail",
+        "chamberType": "house",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34"
       },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-15/pq_2",
-      "house": {
-        "houseNo": "34",
-        "committeeCode": "",
-        "houseCode": "dail",
-        "chamberType": "house",
-        "showAs": "34th Dáil",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
-      },
+      "questionNumber": 2,
       "showAs": " 2. Deputy Paul Murphy asked the Taoiseach to report on his recent visit to China.  [1552/26] ",
       "date": "2026-04-15",
-      "questionNumber": 2,
       "by": {
-        "memberCode": "Paul-Murphy.D.2014-10-10",
         "showAs": "Paul Murphy",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Murphy.D.2014-10-10"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Murphy.D.2014-10-10",
+        "memberCode": "Paul-Murphy.D.2014-10-10"
       },
+      "questionType": "oral",
       "debateSection": {
-        "debateSectionId": "dbsect_14",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-15/debate/dbsect_14",
         "showAs": "Taoiseach's Meetings and Engagements",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-15/debate/dbsect_14",
         "formats": {
-          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-15/debate/mul@/dbsect_14.xml"
-          }
-        }
-      },
-      "questionType": "oral"
-    }
+          },
+          "pdf": null
+        },
+        "debateSectionId": "dbsect_14"
+      }
+    },
+    "contextDate": "2026-04-15"
   },
   {
-    "contextDate": "2026-04-15",
     "question": {
       "to": {
-        "roleType": null,
         "showAs": "Taoiseach",
+        "uri": null,
         "roleCode": null,
-        "uri": null
+        "roleType": null
+      },
+      "house": {
+        "houseCode": "dail",
+        "chamberType": "house",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34"
       },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-15/pq_3",
-      "house": {
-        "houseNo": "34",
-        "committeeCode": "",
-        "houseCode": "dail",
-        "chamberType": "house",
-        "showAs": "34th Dáil",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
-      },
+      "questionNumber": 3,
       "showAs": " 3. Deputy Martin Daly asked the Taoiseach if he will report on his recent visit to China.  [14276/26] ",
       "date": "2026-04-15",
-      "questionNumber": 3,
       "by": {
-        "memberCode": "Martin-Daly.D.2024-11-29",
         "showAs": "Martin Daly",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Martin-Daly.D.2024-11-29"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Martin-Daly.D.2024-11-29",
+        "memberCode": "Martin-Daly.D.2024-11-29"
       },
+      "questionType": "oral",
       "debateSection": {
-        "debateSectionId": "dbsect_14",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-15/debate/dbsect_14",
         "showAs": "Taoiseach's Meetings and Engagements",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-15/debate/dbsect_14",
         "formats": {
-          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-15/debate/mul@/dbsect_14.xml"
-          }
-        }
-      },
-      "questionType": "oral"
-    }
+          },
+          "pdf": null
+        },
+        "debateSectionId": "dbsect_14"
+      }
+    },
+    "contextDate": "2026-04-15"
   },
   {
-    "contextDate": "2026-04-15",
     "question": {
       "to": {
-        "roleType": null,
         "showAs": "Taoiseach",
+        "uri": null,
         "roleCode": null,
-        "uri": null
+        "roleType": null
+      },
+      "house": {
+        "houseCode": "dail",
+        "chamberType": "house",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34"
       },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-15/pq_4",
-      "house": {
-        "houseNo": "34",
-        "committeeCode": "",
-        "houseCode": "dail",
-        "chamberType": "house",
-        "showAs": "34th Dáil",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
-      },
+      "questionNumber": 4,
       "showAs": " 4. Deputy Malcolm Byrne asked the Taoiseach to report on his visit to China on 4 to 8 January 2026.  [14277/26] ",
       "date": "2026-04-15",
-      "questionNumber": 4,
       "by": {
-        "memberCode": "Malcolm-Byrne.D.2019-11-29",
         "showAs": "Malcolm Byrne",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Malcolm-Byrne.D.2019-11-29"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Malcolm-Byrne.D.2019-11-29",
+        "memberCode": "Malcolm-Byrne.D.2019-11-29"
       },
+      "questionType": "oral",
       "debateSection": {
-        "debateSectionId": "dbsect_14",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-15/debate/dbsect_14",
         "showAs": "Taoiseach's Meetings and Engagements",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-15/debate/dbsect_14",
         "formats": {
-          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-15/debate/mul@/dbsect_14.xml"
-          }
-        }
-      },
-      "questionType": "oral"
-    }
+          },
+          "pdf": null
+        },
+        "debateSectionId": "dbsect_14"
+      }
+    },
+    "contextDate": "2026-04-15"
   },
   {
-    "contextDate": "2026-04-15",
     "question": {
       "to": {
-        "roleType": null,
         "showAs": "Taoiseach",
+        "uri": null,
         "roleCode": null,
-        "uri": null
+        "roleType": null
+      },
+      "house": {
+        "houseCode": "dail",
+        "chamberType": "house",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34"
       },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-15/pq_5",
-      "house": {
-        "houseNo": "34",
-        "committeeCode": "",
-        "houseCode": "dail",
-        "chamberType": "house",
-        "showAs": "34th Dáil",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
-      },
+      "questionNumber": 5,
       "showAs": " 5. Deputy Ruairí Ó Murchú asked the Taoiseach to report on his recent visit to China.  [14464/26] ",
       "date": "2026-04-15",
-      "questionNumber": 5,
       "by": {
-        "memberCode": "Ruairí-Ó-Murchú.D.2020-02-08",
         "showAs": "Ruairí Ó Murchú",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruairí-Ó-Murchú.D.2020-02-08"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruairí-Ó-Murchú.D.2020-02-08",
+        "memberCode": "Ruairí-Ó-Murchú.D.2020-02-08"
       },
+      "questionType": "oral",
       "debateSection": {
-        "debateSectionId": "dbsect_14",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-15/debate/dbsect_14",
         "showAs": "Taoiseach's Meetings and Engagements",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-15/debate/dbsect_14",
         "formats": {
-          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-15/debate/mul@/dbsect_14.xml"
-          }
-        }
-      },
-      "questionType": "oral"
-    }
+          },
+          "pdf": null
+        },
+        "debateSectionId": "dbsect_14"
+      }
+    },
+    "contextDate": "2026-04-15"
   },
   {
-    "contextDate": "2026-04-15",
     "question": {
       "to": {
-        "roleType": null,
         "showAs": "Taoiseach",
+        "uri": null,
         "roleCode": null,
-        "uri": null
+        "roleType": null
+      },
+      "house": {
+        "houseCode": "dail",
+        "chamberType": "house",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34"
       },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-15/pq_6",
-      "house": {
-        "houseNo": "34",
-        "committeeCode": "",
-        "houseCode": "dail",
-        "chamberType": "house",
-        "showAs": "34th Dáil",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
-      },
+      "questionNumber": 6,
       "showAs": " 6. Deputy Liam Quaide asked the Taoiseach to report on his recent visit to China.  [18161/26] ",
       "date": "2026-04-15",
-      "questionNumber": 6,
       "by": {
-        "memberCode": "Liam-Quaide.D.2024-11-29",
         "showAs": "Liam Quaide",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Liam-Quaide.D.2024-11-29"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Liam-Quaide.D.2024-11-29",
+        "memberCode": "Liam-Quaide.D.2024-11-29"
       },
+      "questionType": "oral",
       "debateSection": {
-        "debateSectionId": "dbsect_14",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-15/debate/dbsect_14",
         "showAs": "Taoiseach's Meetings and Engagements",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-15/debate/dbsect_14",
         "formats": {
-          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-15/debate/mul@/dbsect_14.xml"
-          }
-        }
-      },
-      "questionType": "oral"
-    }
+          },
+          "pdf": null
+        },
+        "debateSectionId": "dbsect_14"
+      }
+    },
+    "contextDate": "2026-04-15"
   },
   {
-    "contextDate": "2026-04-15",
     "question": {
       "to": {
-        "roleType": null,
         "showAs": "Taoiseach",
+        "uri": null,
         "roleCode": null,
-        "uri": null
+        "roleType": null
+      },
+      "house": {
+        "houseCode": "dail",
+        "chamberType": "house",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34"
       },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-15/pq_7",
-      "house": {
-        "houseNo": "34",
-        "committeeCode": "",
-        "houseCode": "dail",
-        "chamberType": "house",
-        "showAs": "34th Dáil",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
-      },
+      "questionNumber": 7,
       "showAs": " 7. Deputy Darren O'Rourke asked the Taoiseach to report on his recent visit to China. [18508/26] ",
       "date": "2026-04-15",
-      "questionNumber": 7,
       "by": {
-        "memberCode": "Darren-O'Rourke.D.2020-02-08",
         "showAs": "Darren O'Rourke",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Darren-O'Rourke.D.2020-02-08"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Darren-O'Rourke.D.2020-02-08",
+        "memberCode": "Darren-O'Rourke.D.2020-02-08"
       },
+      "questionType": "oral",
       "debateSection": {
-        "debateSectionId": "dbsect_14",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-15/debate/dbsect_14",
         "showAs": "Taoiseach's Meetings and Engagements",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-15/debate/dbsect_14",
         "formats": {
-          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-15/debate/mul@/dbsect_14.xml"
-          }
-        }
-      },
-      "questionType": "oral"
-    }
+          },
+          "pdf": null
+        },
+        "debateSectionId": "dbsect_14"
+      }
+    },
+    "contextDate": "2026-04-15"
   },
   {
-    "contextDate": "2026-04-15",
     "question": {
       "to": {
-        "roleType": null,
         "showAs": "Taoiseach",
+        "uri": null,
         "roleCode": null,
-        "uri": null
+        "roleType": null
+      },
+      "house": {
+        "houseCode": "dail",
+        "chamberType": "house",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34"
       },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-15/pq_8",
-      "house": {
-        "houseNo": "34",
-        "committeeCode": "",
-        "houseCode": "dail",
-        "chamberType": "house",
-        "showAs": "34th Dáil",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
-      },
+      "questionNumber": 8,
       "showAs": " 8. Deputy Darren O'Rourke asked the Taoiseach if he will report on his recent visit to China.  [22078/26] ",
       "date": "2026-04-15",
-      "questionNumber": 8,
       "by": {
-        "memberCode": "Darren-O'Rourke.D.2020-02-08",
         "showAs": "Darren O'Rourke",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Darren-O'Rourke.D.2020-02-08"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Darren-O'Rourke.D.2020-02-08",
+        "memberCode": "Darren-O'Rourke.D.2020-02-08"
       },
+      "questionType": "oral",
       "debateSection": {
-        "debateSectionId": "dbsect_14",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-15/debate/dbsect_14",
         "showAs": "Taoiseach's Meetings and Engagements",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-15/debate/dbsect_14",
         "formats": {
-          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-15/debate/mul@/dbsect_14.xml"
-          }
-        }
-      },
-      "questionType": "oral"
-    }
+          },
+          "pdf": null
+        },
+        "debateSectionId": "dbsect_14"
+      }
+    },
+    "contextDate": "2026-04-15"
   },
   {
-    "contextDate": "2026-04-15",
     "question": {
       "to": {
-        "roleType": null,
         "showAs": "Taoiseach",
+        "uri": null,
         "roleCode": null,
-        "uri": null
+        "roleType": null
+      },
+      "house": {
+        "houseCode": "dail",
+        "chamberType": "house",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34"
       },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-15/pq_9",
-      "house": {
-        "houseNo": "34",
-        "committeeCode": "",
-        "houseCode": "dail",
-        "chamberType": "house",
-        "showAs": "34th Dáil",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
-      },
+      "questionNumber": 9,
       "showAs": " 9. Deputy Ruth Coppinger asked the Taoiseach if he will report on his recent visit to China.  [23833/26] ",
       "date": "2026-04-15",
-      "questionNumber": 9,
       "by": {
-        "memberCode": "Ruth-Coppinger.D.2014-05-23",
         "showAs": "Ruth Coppinger",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruth-Coppinger.D.2014-05-23"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruth-Coppinger.D.2014-05-23",
+        "memberCode": "Ruth-Coppinger.D.2014-05-23"
       },
+      "questionType": "oral",
       "debateSection": {
-        "debateSectionId": "dbsect_14",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-15/debate/dbsect_14",
         "showAs": "Taoiseach's Meetings and Engagements",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-15/debate/dbsect_14",
         "formats": {
-          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-15/debate/mul@/dbsect_14.xml"
-          }
-        }
-      },
-      "questionType": "oral"
-    }
+          },
+          "pdf": null
+        },
+        "debateSectionId": "dbsect_14"
+      }
+    },
+    "contextDate": "2026-04-15"
   },
   {
-    "contextDate": "2026-04-15",
     "question": {
       "to": {
-        "roleType": null,
         "showAs": "Taoiseach",
+        "uri": null,
         "roleCode": null,
-        "uri": null
+        "roleType": null
+      },
+      "house": {
+        "houseCode": "dail",
+        "chamberType": "house",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34"
       },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-15/pq_10",
-      "house": {
-        "houseNo": "34",
-        "committeeCode": "",
-        "houseCode": "dail",
-        "chamberType": "house",
-        "showAs": "34th Dáil",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
-      },
+      "questionNumber": 10,
       "showAs": " 10. Deputy Seán Ó Fearghaíl asked the Taoiseach to report on his recent visit to China.  [24951/26] ",
       "date": "2026-04-15",
-      "questionNumber": 10,
       "by": {
-        "memberCode": "Seán-Ó-Fearghaíl.S.2000-06-09",
         "showAs": "Seán Ó Fearghaíl",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Seán-Ó-Fearghaíl.S.2000-06-09"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Seán-Ó-Fearghaíl.S.2000-06-09",
+        "memberCode": "Seán-Ó-Fearghaíl.S.2000-06-09"
       },
+      "questionType": "oral",
       "debateSection": {
-        "debateSectionId": "dbsect_14",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-15/debate/dbsect_14",
         "showAs": "Taoiseach's Meetings and Engagements",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-15/debate/dbsect_14",
         "formats": {
-          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-15/debate/mul@/dbsect_14.xml"
-          }
-        }
-      },
-      "questionType": "oral"
-    }
+          },
+          "pdf": null
+        },
+        "debateSectionId": "dbsect_14"
+      }
+    },
+    "contextDate": "2026-04-15"
   },
   {
-    "contextDate": "2026-04-15",
     "question": {
       "to": {
-        "roleType": null,
         "showAs": "Taoiseach",
+        "uri": null,
         "roleCode": null,
-        "uri": null
+        "roleType": null
+      },
+      "house": {
+        "houseCode": "dail",
+        "chamberType": "house",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34"
       },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-15/pq_11",
-      "house": {
-        "houseNo": "34",
-        "committeeCode": "",
-        "houseCode": "dail",
-        "chamberType": "house",
-        "showAs": "34th Dáil",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
-      },
+      "questionNumber": 11,
       "showAs": " 11. Deputy Jennifer Whitmore asked the Taoiseach if he will report on his recent visit to China.  [26748/26] ",
       "date": "2026-04-15",
-      "questionNumber": 11,
       "by": {
-        "memberCode": "Jennifer-Whitmore.D.2020-02-08",
         "showAs": "Jennifer Whitmore",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Jennifer-Whitmore.D.2020-02-08"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Jennifer-Whitmore.D.2020-02-08",
+        "memberCode": "Jennifer-Whitmore.D.2020-02-08"
       },
+      "questionType": "oral",
       "debateSection": {
-        "debateSectionId": "dbsect_14",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-15/debate/dbsect_14",
         "showAs": "Taoiseach's Meetings and Engagements",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-15/debate/dbsect_14",
         "formats": {
-          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-15/debate/mul@/dbsect_14.xml"
-          }
-        }
-      },
-      "questionType": "oral"
-    }
+          },
+          "pdf": null
+        },
+        "debateSectionId": "dbsect_14"
+      }
+    },
+    "contextDate": "2026-04-15"
   },
   {
-    "contextDate": "2026-04-15",
     "question": {
       "to": {
-        "roleType": null,
         "showAs": "Taoiseach",
+        "uri": null,
         "roleCode": null,
-        "uri": null
+        "roleType": null
+      },
+      "house": {
+        "houseCode": "dail",
+        "chamberType": "house",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34"
       },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-15/pq_12",
-      "house": {
-        "houseNo": "34",
-        "committeeCode": "",
-        "houseCode": "dail",
-        "chamberType": "house",
-        "showAs": "34th Dáil",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
-      },
+      "questionNumber": 12,
       "showAs": " 12. Deputy Ruairí Ó Murchú asked the Taoiseach when the Cabinet committee on justice, migration and social affairs will next meet. [14260/26] ",
       "date": "2026-04-15",
-      "questionNumber": 12,
       "by": {
-        "memberCode": "Ruairí-Ó-Murchú.D.2020-02-08",
         "showAs": "Ruairí Ó Murchú",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruairí-Ó-Murchú.D.2020-02-08"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruairí-Ó-Murchú.D.2020-02-08",
+        "memberCode": "Ruairí-Ó-Murchú.D.2020-02-08"
       },
+      "questionType": "oral",
       "debateSection": {
-        "debateSectionId": "dbsect_15",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-15/debate/dbsect_15",
         "showAs": "Cabinet Committees",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-15/debate/dbsect_15",
         "formats": {
-          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-15/debate/mul@/dbsect_15.xml"
-          }
-        }
-      },
-      "questionType": "oral"
-    }
+          },
+          "pdf": null
+        },
+        "debateSectionId": "dbsect_15"
+      }
+    },
+    "contextDate": "2026-04-15"
   },
   {
-    "contextDate": "2026-04-15",
     "question": {
       "to": {
-        "roleType": null,
         "showAs": "Taoiseach",
+        "uri": null,
         "roleCode": null,
-        "uri": null
+        "roleType": null
+      },
+      "house": {
+        "houseCode": "dail",
+        "chamberType": "house",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34"
       },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-15/pq_13",
-      "house": {
-        "houseNo": "34",
-        "committeeCode": "",
-        "houseCode": "dail",
-        "chamberType": "house",
-        "showAs": "34th Dáil",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
-      },
+      "questionNumber": 13,
       "showAs": " 13. Deputy Pádraig O'Sullivan asked the Taoiseach when the Cabinet committee on justice, migration and social affairs will next meet. [14272/26] ",
       "date": "2026-04-15",
-      "questionNumber": 13,
       "by": {
-        "memberCode": "Pádraig-O'Sullivan.D.2019-11-29",
         "showAs": "Pádraig O'Sullivan",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Pádraig-O'Sullivan.D.2019-11-29"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Pádraig-O'Sullivan.D.2019-11-29",
+        "memberCode": "Pádraig-O'Sullivan.D.2019-11-29"
       },
+      "questionType": "oral",
       "debateSection": {
-        "debateSectionId": "dbsect_15",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-15/debate/dbsect_15",
         "showAs": "Cabinet Committees",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-15/debate/dbsect_15",
         "formats": {
-          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-15/debate/mul@/dbsect_15.xml"
-          }
-        }
-      },
-      "questionType": "oral"
-    }
+          },
+          "pdf": null
+        },
+        "debateSectionId": "dbsect_15"
+      }
+    },
+    "contextDate": "2026-04-15"
   },
   {
-    "contextDate": "2026-04-15",
     "question": {
       "to": {
-        "roleType": null,
         "showAs": "Taoiseach",
+        "uri": null,
         "roleCode": null,
-        "uri": null
+        "roleType": null
+      },
+      "house": {
+        "houseCode": "dail",
+        "chamberType": "house",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34"
       },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-15/pq_14",
-      "house": {
-        "houseNo": "34",
-        "committeeCode": "",
-        "houseCode": "dail",
-        "chamberType": "house",
-        "showAs": "34th Dáil",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
-      },
+      "questionNumber": 14,
       "showAs": " 14. Deputy Tom Brabazon asked the Taoiseach when the Cabinet committee on justice, migration and social affairs will next meet. [14273/26] ",
       "date": "2026-04-15",
-      "questionNumber": 14,
       "by": {
-        "memberCode": "Tom-Brabazon.D.2024-11-29",
         "showAs": "Tom Brabazon",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tom-Brabazon.D.2024-11-29"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tom-Brabazon.D.2024-11-29",
+        "memberCode": "Tom-Brabazon.D.2024-11-29"
       },
+      "questionType": "oral",
       "debateSection": {
-        "debateSectionId": "dbsect_15",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-15/debate/dbsect_15",
         "showAs": "Cabinet Committees",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-15/debate/dbsect_15",
         "formats": {
-          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-15/debate/mul@/dbsect_15.xml"
-          }
-        }
-      },
-      "questionType": "oral"
-    }
+          },
+          "pdf": null
+        },
+        "debateSectionId": "dbsect_15"
+      }
+    },
+    "contextDate": "2026-04-15"
   },
   {
-    "contextDate": "2026-04-15",
     "question": {
       "to": {
-        "roleType": null,
         "showAs": "Taoiseach",
+        "uri": null,
         "roleCode": null,
-        "uri": null
+        "roleType": null
+      },
+      "house": {
+        "houseCode": "dail",
+        "chamberType": "house",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34"
       },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-15/pq_15",
-      "house": {
-        "houseNo": "34",
-        "committeeCode": "",
-        "houseCode": "dail",
-        "chamberType": "house",
-        "showAs": "34th Dáil",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
-      },
+      "questionNumber": 15,
       "showAs": " 15. Deputy Paul McAuliffe asked the Taoiseach when the Cabinet committee on justice, migration and social affairs will next meet. [14274/26] ",
       "date": "2026-04-15",
-      "questionNumber": 15,
       "by": {
-        "memberCode": "Paul-McAuliffe.D.2020-02-08",
         "showAs": "Paul McAuliffe",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-McAuliffe.D.2020-02-08"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-McAuliffe.D.2020-02-08",
+        "memberCode": "Paul-McAuliffe.D.2020-02-08"
       },
+      "questionType": "oral",
       "debateSection": {
-        "debateSectionId": "dbsect_15",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-15/debate/dbsect_15",
         "showAs": "Cabinet Committees",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-15/debate/dbsect_15",
         "formats": {
-          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-15/debate/mul@/dbsect_15.xml"
-          }
-        }
-      },
-      "questionType": "oral"
-    }
+          },
+          "pdf": null
+        },
+        "debateSectionId": "dbsect_15"
+      }
+    },
+    "contextDate": "2026-04-15"
   },
   {
-    "contextDate": "2026-04-15",
     "question": {
       "to": {
-        "roleType": null,
         "showAs": "Taoiseach",
+        "uri": null,
         "roleCode": null,
-        "uri": null
+        "roleType": null
+      },
+      "house": {
+        "houseCode": "dail",
+        "chamberType": "house",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34"
       },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-15/pq_16",
-      "house": {
-        "houseNo": "34",
-        "committeeCode": "",
-        "houseCode": "dail",
-        "chamberType": "house",
-        "showAs": "34th Dáil",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
-      },
+      "questionNumber": 16,
       "showAs": " 16. Deputy Catherine Ardagh asked the Taoiseach when the Cabinet committee on justice, migration and social affairs will next meet. [14275/26] ",
       "date": "2026-04-15",
-      "questionNumber": 16,
       "by": {
-        "memberCode": "Catherine-Ardagh.S.2016-04-25",
         "showAs": "Catherine Ardagh",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Catherine-Ardagh.S.2016-04-25"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Catherine-Ardagh.S.2016-04-25",
+        "memberCode": "Catherine-Ardagh.S.2016-04-25"
       },
+      "questionType": "oral",
       "debateSection": {
-        "debateSectionId": "dbsect_15",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-15/debate/dbsect_15",
         "showAs": "Cabinet Committees",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-15/debate/dbsect_15",
         "formats": {
-          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-15/debate/mul@/dbsect_15.xml"
-          }
-        }
-      },
-      "questionType": "oral"
-    }
+          },
+          "pdf": null
+        },
+        "debateSectionId": "dbsect_15"
+      }
+    },
+    "contextDate": "2026-04-15"
   },
   {
-    "contextDate": "2026-04-15",
     "question": {
       "to": {
-        "roleType": null,
         "showAs": "Taoiseach",
+        "uri": null,
         "roleCode": null,
-        "uri": null
+        "roleType": null
+      },
+      "house": {
+        "houseCode": "dail",
+        "chamberType": "house",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34"
       },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-15/pq_17",
-      "house": {
-        "houseNo": "34",
-        "committeeCode": "",
-        "houseCode": "dail",
-        "chamberType": "house",
-        "showAs": "34th Dáil",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
-      },
+      "questionNumber": 17,
       "showAs": " 17. Deputy Peadar Tóibín asked the Taoiseach when the Cabinet committee on justice, migration and social affairs will next meet. [16841/26] ",
       "date": "2026-04-15",
-      "questionNumber": 17,
       "by": {
-        "memberCode": "Peadar-Tóibín.D.2011-03-09",
         "showAs": "Peadar Tóibín",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Peadar-Tóibín.D.2011-03-09"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Peadar-Tóibín.D.2011-03-09",
+        "memberCode": "Peadar-Tóibín.D.2011-03-09"
       },
+      "questionType": "oral",
       "debateSection": {
-        "debateSectionId": "dbsect_15",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-15/debate/dbsect_15",
         "showAs": "Cabinet Committees",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-15/debate/dbsect_15",
         "formats": {
-          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-15/debate/mul@/dbsect_15.xml"
-          }
-        }
-      },
-      "questionType": "oral"
-    }
+          },
+          "pdf": null
+        },
+        "debateSectionId": "dbsect_15"
+      }
+    },
+    "contextDate": "2026-04-15"
   },
   {
-    "contextDate": "2026-04-15",
     "question": {
       "to": {
-        "roleType": null,
         "showAs": "Taoiseach",
+        "uri": null,
         "roleCode": null,
-        "uri": null
+        "roleType": null
+      },
+      "house": {
+        "houseCode": "dail",
+        "chamberType": "house",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34"
       },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-15/pq_18",
-      "house": {
-        "houseNo": "34",
-        "committeeCode": "",
-        "houseCode": "dail",
-        "chamberType": "house",
-        "showAs": "34th Dáil",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
-      },
+      "questionNumber": 18,
       "showAs": " 18. Deputy Jennifer Whitmore asked the Taoiseach when the Cabinet committee on justice, migration and social affairs will next meet. [17331/26] ",
       "date": "2026-04-15",
-      "questionNumber": 18,
       "by": {
-        "memberCode": "Jennifer-Whitmore.D.2020-02-08",
         "showAs": "Jennifer Whitmore",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Jennifer-Whitmore.D.2020-02-08"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Jennifer-Whitmore.D.2020-02-08",
+        "memberCode": "Jennifer-Whitmore.D.2020-02-08"
       },
+      "questionType": "oral",
       "debateSection": {
-        "debateSectionId": "dbsect_15",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-15/debate/dbsect_15",
         "showAs": "Cabinet Committees",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-15/debate/dbsect_15",
         "formats": {
-          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-15/debate/mul@/dbsect_15.xml"
-          }
-        }
-      },
-      "questionType": "oral"
-    }
+          },
+          "pdf": null
+        },
+        "debateSectionId": "dbsect_15"
+      }
+    },
+    "contextDate": "2026-04-15"
   },
   {
-    "contextDate": "2026-04-15",
     "question": {
       "to": {
-        "roleType": null,
         "showAs": "Taoiseach",
+        "uri": null,
         "roleCode": null,
-        "uri": null
+        "roleType": null
+      },
+      "house": {
+        "houseCode": "dail",
+        "chamberType": "house",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34"
       },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-15/pq_19",
-      "house": {
-        "houseNo": "34",
-        "committeeCode": "",
-        "houseCode": "dail",
-        "chamberType": "house",
-        "showAs": "34th Dáil",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
-      },
+      "questionNumber": 19,
       "showAs": " 19. Deputy Darren O'Rourke asked the Taoiseach when the Cabinet committee on justice, migration and social affairs will next meet. [18507/26] ",
       "date": "2026-04-15",
-      "questionNumber": 19,
       "by": {
-        "memberCode": "Darren-O'Rourke.D.2020-02-08",
         "showAs": "Darren O'Rourke",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Darren-O'Rourke.D.2020-02-08"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Darren-O'Rourke.D.2020-02-08",
+        "memberCode": "Darren-O'Rourke.D.2020-02-08"
       },
+      "questionType": "oral",
       "debateSection": {
-        "debateSectionId": "dbsect_15",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-15/debate/dbsect_15",
         "showAs": "Cabinet Committees",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-15/debate/dbsect_15",
         "formats": {
-          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-15/debate/mul@/dbsect_15.xml"
-          }
-        }
-      },
-      "questionType": "oral"
-    }
+          },
+          "pdf": null
+        },
+        "debateSectionId": "dbsect_15"
+      }
+    },
+    "contextDate": "2026-04-15"
   },
   {
-    "contextDate": "2026-04-15",
     "question": {
       "to": {
-        "roleType": null,
         "showAs": "Taoiseach",
+        "uri": null,
         "roleCode": null,
-        "uri": null
+        "roleType": null
+      },
+      "house": {
+        "houseCode": "dail",
+        "chamberType": "house",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34"
       },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-15/pq_20",
-      "house": {
-        "houseNo": "34",
-        "committeeCode": "",
-        "houseCode": "dail",
-        "chamberType": "house",
-        "showAs": "34th Dáil",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
-      },
+      "questionNumber": 20,
       "showAs": " 20. Deputy Richard Boyd Barrett asked the Taoiseach when the Cabinet committee on justice, migration and social affairs will next meet. [18700/26] ",
       "date": "2026-04-15",
-      "questionNumber": 20,
       "by": {
-        "memberCode": "Richard-Boyd-Barrett.D.2011-03-09",
         "showAs": "Richard Boyd Barrett",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Richard-Boyd-Barrett.D.2011-03-09"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Richard-Boyd-Barrett.D.2011-03-09",
+        "memberCode": "Richard-Boyd-Barrett.D.2011-03-09"
       },
+      "questionType": "oral",
       "debateSection": {
-        "debateSectionId": "dbsect_15",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-15/debate/dbsect_15",
         "showAs": "Cabinet Committees",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-15/debate/dbsect_15",
         "formats": {
-          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-15/debate/mul@/dbsect_15.xml"
-          }
-        }
-      },
-      "questionType": "oral"
-    }
+          },
+          "pdf": null
+        },
+        "debateSectionId": "dbsect_15"
+      }
+    },
+    "contextDate": "2026-04-15"
   },
   {
-    "contextDate": "2026-04-15",
     "question": {
       "to": {
-        "roleType": null,
         "showAs": "Taoiseach",
+        "uri": null,
         "roleCode": null,
-        "uri": null
+        "roleType": null
+      },
+      "house": {
+        "houseCode": "dail",
+        "chamberType": "house",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34"
       },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-15/pq_21",
-      "house": {
-        "houseNo": "34",
-        "committeeCode": "",
-        "houseCode": "dail",
-        "chamberType": "house",
-        "showAs": "34th Dáil",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
-      },
+      "questionNumber": 21,
       "showAs": " 21. Deputy Paul Murphy asked the Taoiseach when the Cabinet committee on justice, migration and social affairs will next meet. [18703/26] ",
       "date": "2026-04-15",
-      "questionNumber": 21,
       "by": {
-        "memberCode": "Paul-Murphy.D.2014-10-10",
         "showAs": "Paul Murphy",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Murphy.D.2014-10-10"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Murphy.D.2014-10-10",
+        "memberCode": "Paul-Murphy.D.2014-10-10"
       },
+      "questionType": "oral",
       "debateSection": {
-        "debateSectionId": "dbsect_15",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-15/debate/dbsect_15",
         "showAs": "Cabinet Committees",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-15/debate/dbsect_15",
         "formats": {
-          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-15/debate/mul@/dbsect_15.xml"
-          }
-        }
-      },
-      "questionType": "oral"
-    }
+          },
+          "pdf": null
+        },
+        "debateSectionId": "dbsect_15"
+      }
+    },
+    "contextDate": "2026-04-15"
   },
   {
-    "contextDate": "2026-04-15",
     "question": {
       "to": {
-        "roleType": null,
         "showAs": "Taoiseach",
+        "uri": null,
         "roleCode": null,
-        "uri": null
+        "roleType": null
+      },
+      "house": {
+        "houseCode": "dail",
+        "chamberType": "house",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34"
       },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-15/pq_22",
-      "house": {
-        "houseNo": "34",
-        "committeeCode": "",
-        "houseCode": "dail",
-        "chamberType": "house",
-        "showAs": "34th Dáil",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
-      },
+      "questionNumber": 22,
       "showAs": " 22. Deputy Darren O'Rourke asked the Taoiseach when the Cabinet committee on justice, migration and social affairs will next meet. [22079/26] ",
       "date": "2026-04-15",
-      "questionNumber": 22,
       "by": {
-        "memberCode": "Darren-O'Rourke.D.2020-02-08",
         "showAs": "Darren O'Rourke",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Darren-O'Rourke.D.2020-02-08"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Darren-O'Rourke.D.2020-02-08",
+        "memberCode": "Darren-O'Rourke.D.2020-02-08"
       },
+      "questionType": "oral",
       "debateSection": {
-        "debateSectionId": "dbsect_15",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-15/debate/dbsect_15",
         "showAs": "Cabinet Committees",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-15/debate/dbsect_15",
         "formats": {
-          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-15/debate/mul@/dbsect_15.xml"
-          }
-        }
-      },
-      "questionType": "oral"
-    }
+          },
+          "pdf": null
+        },
+        "debateSectionId": "dbsect_15"
+      }
+    },
+    "contextDate": "2026-04-15"
   },
   {
-    "contextDate": "2026-04-15",
     "question": {
       "to": {
-        "roleType": null,
         "showAs": "Taoiseach",
+        "uri": null,
         "roleCode": null,
-        "uri": null
+        "roleType": null
+      },
+      "house": {
+        "houseCode": "dail",
+        "chamberType": "house",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34"
       },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-15/pq_23",
-      "house": {
-        "houseNo": "34",
-        "committeeCode": "",
-        "houseCode": "dail",
-        "chamberType": "house",
-        "showAs": "34th Dáil",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
-      },
+      "questionNumber": 23,
       "showAs": " 23. Deputy Rose Conway-Walsh asked the Taoiseach when the Cabinet committee on justice, migration and social affairs will next meet. [22091/26] ",
       "date": "2026-04-15",
-      "questionNumber": 23,
       "by": {
-        "memberCode": "Rose-Conway-Walsh.S.2016-04-25",
         "showAs": "Rose Conway-Walsh",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Rose-Conway-Walsh.S.2016-04-25"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Rose-Conway-Walsh.S.2016-04-25",
+        "memberCode": "Rose-Conway-Walsh.S.2016-04-25"
       },
+      "questionType": "oral",
       "debateSection": {
-        "debateSectionId": "dbsect_15",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-15/debate/dbsect_15",
         "showAs": "Cabinet Committees",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-15/debate/dbsect_15",
         "formats": {
-          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-15/debate/mul@/dbsect_15.xml"
-          }
-        }
-      },
-      "questionType": "oral"
-    }
+          },
+          "pdf": null
+        },
+        "debateSectionId": "dbsect_15"
+      }
+    },
+    "contextDate": "2026-04-15"
   },
   {
-    "contextDate": "2026-04-15",
     "question": {
       "to": {
-        "roleType": null,
         "showAs": "Taoiseach",
+        "uri": null,
         "roleCode": null,
-        "uri": null
+        "roleType": null
+      },
+      "house": {
+        "houseCode": "dail",
+        "chamberType": "house",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34"
       },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-15/pq_24",
-      "house": {
-        "houseNo": "34",
-        "committeeCode": "",
-        "houseCode": "dail",
-        "chamberType": "house",
-        "showAs": "34th Dáil",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
-      },
+      "questionNumber": 24,
       "showAs": " 24. Deputy Mary Lou McDonald asked the Taoiseach when the Cabinet committee on justice, migration and social affairs will next meet. [23617/26] ",
       "date": "2026-04-15",
-      "questionNumber": 24,
       "by": {
-        "memberCode": "Mary-Lou-McDonald.D.2011-03-09",
         "showAs": "Mary Lou McDonald",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Mary-Lou-McDonald.D.2011-03-09"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Mary-Lou-McDonald.D.2011-03-09",
+        "memberCode": "Mary-Lou-McDonald.D.2011-03-09"
       },
+      "questionType": "oral",
       "debateSection": {
-        "debateSectionId": "dbsect_15",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-15/debate/dbsect_15",
         "showAs": "Cabinet Committees",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-15/debate/dbsect_15",
         "formats": {
-          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-15/debate/mul@/dbsect_15.xml"
-          }
-        }
-      },
-      "questionType": "oral"
-    }
+          },
+          "pdf": null
+        },
+        "debateSectionId": "dbsect_15"
+      }
+    },
+    "contextDate": "2026-04-15"
   },
   {
-    "contextDate": "2026-04-15",
     "question": {
       "to": {
-        "roleType": null,
         "showAs": "Taoiseach",
+        "uri": null,
         "roleCode": null,
-        "uri": null
+        "roleType": null
+      },
+      "house": {
+        "houseCode": "dail",
+        "chamberType": "house",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34"
       },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-15/pq_25",
-      "house": {
-        "houseNo": "34",
-        "committeeCode": "",
-        "houseCode": "dail",
-        "chamberType": "house",
-        "showAs": "34th Dáil",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
-      },
+      "questionNumber": 25,
       "showAs": " 25. Deputy Liam Quaide asked the Taoiseach when the Cabinet committee on justice, migration and social affairs will next meet. [23829/26] ",
       "date": "2026-04-15",
-      "questionNumber": 25,
       "by": {
-        "memberCode": "Liam-Quaide.D.2024-11-29",
         "showAs": "Liam Quaide",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Liam-Quaide.D.2024-11-29"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Liam-Quaide.D.2024-11-29",
+        "memberCode": "Liam-Quaide.D.2024-11-29"
       },
+      "questionType": "oral",
       "debateSection": {
-        "debateSectionId": "dbsect_15",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-15/debate/dbsect_15",
         "showAs": "Cabinet Committees",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-15/debate/dbsect_15",
         "formats": {
-          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-15/debate/mul@/dbsect_15.xml"
-          }
-        }
-      },
-      "questionType": "oral"
-    }
+          },
+          "pdf": null
+        },
+        "debateSectionId": "dbsect_15"
+      }
+    },
+    "contextDate": "2026-04-15"
   },
   {
-    "contextDate": "2026-04-15",
     "question": {
       "to": {
-        "roleType": null,
         "showAs": "Taoiseach",
+        "uri": null,
         "roleCode": null,
-        "uri": null
+        "roleType": null
+      },
+      "house": {
+        "houseCode": "dail",
+        "chamberType": "house",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34"
       },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-15/pq_26",
-      "house": {
-        "houseNo": "34",
-        "committeeCode": "",
-        "houseCode": "dail",
-        "chamberType": "house",
-        "showAs": "34th Dáil",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
-      },
+      "questionNumber": 26,
       "showAs": " 26. Deputy Ruth Coppinger asked the Taoiseach when the Cabinet committee on justice, migration and social affairs will next meet. [23834/26] ",
       "date": "2026-04-15",
-      "questionNumber": 26,
       "by": {
-        "memberCode": "Ruth-Coppinger.D.2014-05-23",
         "showAs": "Ruth Coppinger",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruth-Coppinger.D.2014-05-23"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruth-Coppinger.D.2014-05-23",
+        "memberCode": "Ruth-Coppinger.D.2014-05-23"
       },
+      "questionType": "oral",
       "debateSection": {
-        "debateSectionId": "dbsect_15",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-15/debate/dbsect_15",
         "showAs": "Cabinet Committees",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-15/debate/dbsect_15",
         "formats": {
-          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-15/debate/mul@/dbsect_15.xml"
-          }
-        }
-      },
-      "questionType": "oral"
-    }
+          },
+          "pdf": null
+        },
+        "debateSectionId": "dbsect_15"
+      }
+    },
+    "contextDate": "2026-04-15"
   },
   {
-    "contextDate": "2026-04-15",
     "question": {
       "to": {
-        "roleType": null,
         "showAs": "Taoiseach",
+        "uri": null,
         "roleCode": null,
-        "uri": null
+        "roleType": null
+      },
+      "house": {
+        "houseCode": "dail",
+        "chamberType": "house",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34"
       },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-15/pq_27",
-      "house": {
-        "houseNo": "34",
-        "committeeCode": "",
-        "houseCode": "dail",
-        "chamberType": "house",
-        "showAs": "34th Dáil",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
-      },
+      "questionNumber": 27,
       "showAs": " 27. Deputy Paul Lawless asked the Taoiseach when the Cabinet committee on justice, migration and social affairs will next meet. [26562/26] ",
       "date": "2026-04-15",
-      "questionNumber": 27,
       "by": {
-        "memberCode": "Paul-Lawless.D.2024-11-29",
         "showAs": "Paul Lawless",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Lawless.D.2024-11-29"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Lawless.D.2024-11-29",
+        "memberCode": "Paul-Lawless.D.2024-11-29"
       },
+      "questionType": "oral",
       "debateSection": {
-        "debateSectionId": "dbsect_15",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-15/debate/dbsect_15",
         "showAs": "Cabinet Committees",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-15/debate/dbsect_15",
         "formats": {
-          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-15/debate/mul@/dbsect_15.xml"
-          }
-        }
-      },
-      "questionType": "oral"
-    }
+          },
+          "pdf": null
+        },
+        "debateSectionId": "dbsect_15"
+      }
+    },
+    "contextDate": "2026-04-15"
   },
   {
-    "contextDate": "2026-04-15",
     "question": {
       "to": {
-        "roleType": null,
         "showAs": "Taoiseach",
+        "uri": null,
         "roleCode": null,
-        "uri": null
+        "roleType": null
+      },
+      "house": {
+        "houseCode": "dail",
+        "chamberType": "house",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34"
       },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-15/pq_28",
-      "house": {
-        "houseNo": "34",
-        "committeeCode": "",
-        "houseCode": "dail",
-        "chamberType": "house",
-        "showAs": "34th Dáil",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
-      },
+      "questionNumber": 28,
       "showAs": " 28. Deputy Louis O'Hara asked the Taoiseach when the Cabinet committee on justice, migration and social affairs will next meet. [26689/26] ",
       "date": "2026-04-15",
-      "questionNumber": 28,
       "by": {
-        "memberCode": "Louis-O'Hara.D.2024-11-29",
         "showAs": "Louis O'Hara",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Louis-O'Hara.D.2024-11-29"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Louis-O'Hara.D.2024-11-29",
+        "memberCode": "Louis-O'Hara.D.2024-11-29"
       },
+      "questionType": "oral",
       "debateSection": {
-        "debateSectionId": "dbsect_15",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-15/debate/dbsect_15",
         "showAs": "Cabinet Committees",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-15/debate/dbsect_15",
         "formats": {
-          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-15/debate/mul@/dbsect_15.xml"
-          }
-        }
-      },
-      "questionType": "oral"
-    }
+          },
+          "pdf": null
+        },
+        "debateSectionId": "dbsect_15"
+      }
+    },
+    "contextDate": "2026-04-15"
   },
   {
-    "contextDate": "2026-04-15",
     "question": {
       "to": {
-        "roleType": null,
         "showAs": "Taoiseach",
+        "uri": null,
         "roleCode": null,
-        "uri": null
+        "roleType": null
+      },
+      "house": {
+        "houseCode": "dail",
+        "chamberType": "house",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34"
       },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-15/pq_29",
-      "house": {
-        "houseNo": "34",
-        "committeeCode": "",
-        "houseCode": "dail",
-        "chamberType": "house",
-        "showAs": "34th Dáil",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
-      },
+      "questionNumber": 29,
       "showAs": " 29. Deputy Mark Ward asked the Taoiseach when the Cabinet committee on justice, migration and social affairs will next meet. [26736/26] ",
       "date": "2026-04-15",
-      "questionNumber": 29,
       "by": {
-        "memberCode": "Mark-Ward.D.2019-11-29",
         "showAs": "Mark Ward",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Mark-Ward.D.2019-11-29"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Mark-Ward.D.2019-11-29",
+        "memberCode": "Mark-Ward.D.2019-11-29"
       },
+      "questionType": "oral",
       "debateSection": {
-        "debateSectionId": "dbsect_15",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-15/debate/dbsect_15",
         "showAs": "Cabinet Committees",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-15/debate/dbsect_15",
         "formats": {
-          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-15/debate/mul@/dbsect_15.xml"
-          }
-        }
-      },
-      "questionType": "oral"
-    }
+          },
+          "pdf": null
+        },
+        "debateSectionId": "dbsect_15"
+      }
+    },
+    "contextDate": "2026-04-15"
   },
   {
-    "contextDate": "2026-04-15",
     "question": {
       "to": {
-        "roleType": null,
         "showAs": "Taoiseach",
+        "uri": null,
         "roleCode": null,
-        "uri": null
+        "roleType": null
+      },
+      "house": {
+        "houseCode": "dail",
+        "chamberType": "house",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34"
       },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-15/pq_30",
-      "house": {
-        "houseNo": "34",
-        "committeeCode": "",
-        "houseCode": "dail",
-        "chamberType": "house",
-        "showAs": "34th Dáil",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
-      },
+      "questionNumber": 30,
       "showAs": " 30. Deputy Jennifer Whitmore asked the Taoiseach when the Cabinet committee on justice, migration and social affairs will next meet. [26749/26] ",
       "date": "2026-04-15",
-      "questionNumber": 30,
       "by": {
-        "memberCode": "Jennifer-Whitmore.D.2020-02-08",
         "showAs": "Jennifer Whitmore",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Jennifer-Whitmore.D.2020-02-08"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Jennifer-Whitmore.D.2020-02-08",
+        "memberCode": "Jennifer-Whitmore.D.2020-02-08"
       },
+      "questionType": "oral",
       "debateSection": {
-        "debateSectionId": "dbsect_15",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-15/debate/dbsect_15",
         "showAs": "Cabinet Committees",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-15/debate/dbsect_15",
         "formats": {
-          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-15/debate/mul@/dbsect_15.xml"
-          }
-        }
-      },
-      "questionType": "oral"
-    }
+          },
+          "pdf": null
+        },
+        "debateSectionId": "dbsect_15"
+      }
+    },
+    "contextDate": "2026-04-15"
   },
   {
-    "contextDate": "2026-04-15",
     "question": {
       "to": {
-        "roleType": null,
         "showAs": "Taoiseach",
+        "uri": null,
         "roleCode": null,
-        "uri": null
+        "roleType": null
+      },
+      "house": {
+        "houseCode": "dail",
+        "chamberType": "house",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34"
       },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-15/pq_31",
-      "house": {
-        "houseNo": "34",
-        "committeeCode": "",
-        "houseCode": "dail",
-        "chamberType": "house",
-        "showAs": "34th Dáil",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
-      },
+      "questionNumber": 31,
       "showAs": " 31. Deputy Paul Lawless asked the Taoiseach when the Cabinet committee on justice, migration and social affairs will next meet. [26751/26] ",
       "date": "2026-04-15",
-      "questionNumber": 31,
       "by": {
-        "memberCode": "Paul-Lawless.D.2024-11-29",
         "showAs": "Paul Lawless",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Lawless.D.2024-11-29"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Lawless.D.2024-11-29",
+        "memberCode": "Paul-Lawless.D.2024-11-29"
       },
+      "questionType": "oral",
       "debateSection": {
-        "debateSectionId": "dbsect_15",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-15/debate/dbsect_15",
         "showAs": "Cabinet Committees",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-15/debate/dbsect_15",
         "formats": {
-          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-15/debate/mul@/dbsect_15.xml"
-          }
-        }
-      },
-      "questionType": "oral"
-    }
+          },
+          "pdf": null
+        },
+        "debateSectionId": "dbsect_15"
+      }
+    },
+    "contextDate": "2026-04-15"
   },
   {
-    "contextDate": "2026-04-15",
     "question": {
       "to": {
-        "roleType": null,
         "showAs": "Taoiseach",
+        "uri": null,
         "roleCode": null,
-        "uri": null
+        "roleType": null
       },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-15/pq_32",
       "house": {
-        "houseNo": "34",
-        "committeeCode": "",
         "houseCode": "dail",
         "chamberType": "house",
+        "committeeCode": "",
         "showAs": "34th Dáil",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34"
       },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-15/pq_32",
+      "questionNumber": 32,
       "showAs": " 32. Deputy Darren O'Rourke asked the Taoiseach when the Cabinet committee on justice, migration and social affairs will meet next. [26809/26] ",
       "date": "2026-04-15",
-      "questionNumber": 32,
       "by": {
-        "memberCode": "Darren-O'Rourke.D.2020-02-08",
         "showAs": "Darren O'Rourke",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Darren-O'Rourke.D.2020-02-08"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Darren-O'Rourke.D.2020-02-08",
+        "memberCode": "Darren-O'Rourke.D.2020-02-08"
       },
+      "questionType": "oral",
       "debateSection": {
-        "debateSectionId": "dbsect_15",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-15/debate/dbsect_15",
         "showAs": "Cabinet Committees",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-15/debate/dbsect_15",
         "formats": {
-          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-15/debate/mul@/dbsect_15.xml"
-          }
-        }
-      },
-      "questionType": "oral"
-    }
+          },
+          "pdf": null
+        },
+        "debateSectionId": "dbsect_15"
+      }
+    },
+    "contextDate": "2026-04-15"
   }
 ]

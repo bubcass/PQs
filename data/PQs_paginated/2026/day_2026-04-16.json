@@ -1,1160 +1,1200 @@
 [
   {
     "question": {
-      "to": {
-        "showAs": "Public Expenditure",
-        "uri": null,
-        "roleCode": null,
-        "roleType": null
-      },
-      "house": {
-        "houseCode": "dail",
-        "chamberType": "house",
-        "committeeCode": "",
-        "showAs": "34th Dáil",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseNo": "34"
-      },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-16/pq_1",
       "questionNumber": 1,
-      "showAs": " 1. Deputy Mairéad Farrell asked the Minister for Public Expenditure, Infrastructure, Public Service Reform and Digitalisation to give an update on the projected overspends of Government Departments; and if he will make a statement on the matter. [27579/26] ",
-      "date": "2026-04-16",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-16/pq_1",
       "by": {
         "showAs": "Mairéad Farrell",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Mairéad-Farrell.D.2020-02-08",
         "memberCode": "Mairéad-Farrell.D.2020-02-08"
       },
       "questionType": "oral",
+      "house": {
+        "houseNo": "34",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "chamberType": "house"
+      },
       "debateSection": {
         "showAs": "Departmental Expenditure",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-16/debate/dbsect_3",
+        "debateSectionId": "dbsect_3",
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-16/debate/mul@/dbsect_3.xml"
-          },
-          "pdf": null
+          }
         },
-        "debateSectionId": "dbsect_3"
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-16/debate/dbsect_3"
+      },
+      "date": "2026-04-16",
+      "showAs": " 1. Deputy Mairéad Farrell asked the Minister for Public Expenditure, Infrastructure, Public Service Reform and Digitalisation to give an update on the projected overspends of Government Departments; and if he will make a statement on the matter. [27579/26] ",
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Public Expenditure"
       }
     },
     "contextDate": "2026-04-16"
   },
   {
     "question": {
-      "to": {
-        "showAs": "Public Expenditure",
-        "uri": null,
-        "roleCode": null,
-        "roleType": null
-      },
-      "house": {
-        "houseCode": "dail",
-        "chamberType": "house",
-        "committeeCode": "",
-        "showAs": "34th Dáil",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseNo": "34"
-      },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-16/pq_2",
       "questionNumber": 2,
-      "showAs": " 2. Deputy Conor Sheehan asked the Minister for Public Expenditure, Infrastructure, Public Service Reform and Digitalisation when the Critical Infrastructure Bill 2026 will be enacted; the way in which it will comply with Ireland’s obligations under the Climate Action and Low Carbon Development Act 2015 given the limitations that will be imposed on legal challenges; and if he will make a statement on the matter. [27880/26] ",
-      "date": "2026-04-16",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-16/pq_2",
       "by": {
         "showAs": "Conor Sheehan",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Conor-Sheehan.D.2024-11-29",
         "memberCode": "Conor-Sheehan.D.2024-11-29"
       },
       "questionType": "oral",
+      "house": {
+        "houseNo": "34",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "chamberType": "house"
+      },
       "debateSection": {
         "showAs": "Legislative Process",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-16/debate/dbsect_4",
+        "debateSectionId": "dbsect_4",
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-16/debate/mul@/dbsect_4.xml"
-          },
-          "pdf": null
+          }
         },
-        "debateSectionId": "dbsect_4"
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-16/debate/dbsect_4"
+      },
+      "date": "2026-04-16",
+      "showAs": " 2. Deputy Conor Sheehan asked the Minister for Public Expenditure, Infrastructure, Public Service Reform and Digitalisation when the Critical Infrastructure Bill 2026 will be enacted; the way in which it will comply with Ireland’s obligations under the Climate Action and Low Carbon Development Act 2015 given the limitations that will be imposed on legal challenges; and if he will make a statement on the matter. [27880/26] ",
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Public Expenditure"
       }
     },
     "contextDate": "2026-04-16"
   },
   {
     "question": {
-      "to": {
-        "showAs": "Public Expenditure",
-        "uri": null,
-        "roleCode": null,
-        "roleType": null
-      },
-      "house": {
-        "houseCode": "dail",
-        "chamberType": "house",
-        "committeeCode": "",
-        "showAs": "34th Dáil",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseNo": "34"
-      },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-16/pq_3",
       "questionNumber": 3,
-      "showAs": " 3. Deputy Mairéad Farrell asked the Minister for Public Expenditure, Infrastructure, Public Service Reform and Digitalisation to provide an update on the impact of current global fuel price increases on the delivery of infrastructure; and if he will make a statement on the matter. [27580/26] ",
-      "date": "2026-04-16",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-16/pq_3",
       "by": {
         "showAs": "Mairéad Farrell",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Mairéad-Farrell.D.2020-02-08",
         "memberCode": "Mairéad-Farrell.D.2020-02-08"
       },
       "questionType": "oral",
+      "house": {
+        "houseNo": "34",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "chamberType": "house"
+      },
       "debateSection": {
         "showAs": "Strategic Infrastructure",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-16/debate/dbsect_5",
+        "debateSectionId": "dbsect_5",
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-16/debate/mul@/dbsect_5.xml"
-          },
-          "pdf": null
+          }
         },
-        "debateSectionId": "dbsect_5"
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-16/debate/dbsect_5"
+      },
+      "date": "2026-04-16",
+      "showAs": " 3. Deputy Mairéad Farrell asked the Minister for Public Expenditure, Infrastructure, Public Service Reform and Digitalisation to provide an update on the impact of current global fuel price increases on the delivery of infrastructure; and if he will make a statement on the matter. [27580/26] ",
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Public Expenditure"
       }
     },
     "contextDate": "2026-04-16"
   },
   {
     "question": {
-      "to": {
-        "showAs": "Public Expenditure",
-        "uri": null,
-        "roleCode": null,
-        "roleType": null
-      },
-      "house": {
-        "houseCode": "dail",
-        "chamberType": "house",
-        "committeeCode": "",
-        "showAs": "34th Dáil",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseNo": "34"
-      },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-16/pq_4",
       "questionNumber": 4,
-      "showAs": " 4. Deputy Cian O'Callaghan asked the Minister for Public Expenditure, Infrastructure, Public Service Reform and Digitalisation if he will take action to address the issue of special purpose vehicles being used to avoid future liability in public construction contracts; and if he will make a statement on the matter. [27625/26] ",
-      "date": "2026-04-16",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-16/pq_4",
       "by": {
         "showAs": "Cian O'Callaghan",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Cian-O'Callaghan.D.2020-02-08",
         "memberCode": "Cian-O'Callaghan.D.2020-02-08"
       },
       "questionType": "oral",
+      "house": {
+        "houseNo": "34",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "chamberType": "house"
+      },
       "debateSection": {
         "showAs": "Public Procurement Contracts",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-16/debate/dbsect_6",
+        "debateSectionId": "dbsect_6",
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-16/debate/mul@/dbsect_6.xml"
-          },
-          "pdf": null
+          }
         },
-        "debateSectionId": "dbsect_6"
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-16/debate/dbsect_6"
+      },
+      "date": "2026-04-16",
+      "showAs": " 4. Deputy Cian O'Callaghan asked the Minister for Public Expenditure, Infrastructure, Public Service Reform and Digitalisation if he will take action to address the issue of special purpose vehicles being used to avoid future liability in public construction contracts; and if he will make a statement on the matter. [27625/26] ",
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Public Expenditure"
       }
     },
     "contextDate": "2026-04-16"
   },
   {
     "question": {
-      "to": {
-        "showAs": "Public Expenditure",
-        "uri": null,
-        "roleCode": null,
-        "roleType": null
-      },
-      "house": {
-        "houseCode": "dail",
-        "chamberType": "house",
-        "committeeCode": "",
-        "showAs": "34th Dáil",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseNo": "34"
-      },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-16/pq_5",
       "questionNumber": 5,
-      "showAs": " 5. Deputy Mairéad Farrell asked the Minister for Public Expenditure, Infrastructure, Public Service Reform and Digitalisation to provide clarity on what can be designated as critical infrastructure within the Critical Infrastructure Bill 2026; and if he will make a statement on the matter. [27581/26] ",
-      "date": "2026-04-16",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-16/pq_5",
       "by": {
         "showAs": "Mairéad Farrell",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Mairéad-Farrell.D.2020-02-08",
         "memberCode": "Mairéad-Farrell.D.2020-02-08"
       },
       "questionType": "oral",
+      "house": {
+        "houseNo": "34",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "chamberType": "house"
+      },
       "debateSection": {
         "showAs": "Proposed Legislation",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-16/debate/dbsect_7",
+        "debateSectionId": "dbsect_7",
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-16/debate/mul@/dbsect_7.xml"
-          },
-          "pdf": null
+          }
         },
-        "debateSectionId": "dbsect_7"
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-16/debate/dbsect_7"
+      },
+      "date": "2026-04-16",
+      "showAs": " 5. Deputy Mairéad Farrell asked the Minister for Public Expenditure, Infrastructure, Public Service Reform and Digitalisation to provide clarity on what can be designated as critical infrastructure within the Critical Infrastructure Bill 2026; and if he will make a statement on the matter. [27581/26] ",
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Public Expenditure"
       }
     },
     "contextDate": "2026-04-16"
   },
   {
     "question": {
-      "to": {
-        "showAs": "Public Expenditure",
-        "uri": null,
-        "roleCode": null,
-        "roleType": null
-      },
-      "house": {
-        "houseCode": "dail",
-        "chamberType": "house",
-        "committeeCode": "",
-        "showAs": "34th Dáil",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseNo": "34"
-      },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-16/pq_6",
       "questionNumber": 6,
-      "showAs": " 6. Deputy Grace Boland asked the Minister for Public Expenditure, Infrastructure, Public Service Reform and Digitalisation the reforms planned or under consideration to improve value for money, risk allocation and cost control in public procurement for State-funded projects; whether changes to tender evaluation criteria, including the weighting applied to price versus quality and delivery capacity, are being examined; and if he will make a statement on the matter. [27862/26] ",
-      "date": "2026-04-16",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-16/pq_6",
       "by": {
         "showAs": "Grace Boland",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Grace-Boland.D.2024-11-29",
         "memberCode": "Grace-Boland.D.2024-11-29"
       },
       "questionType": "oral",
+      "house": {
+        "houseNo": "34",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "chamberType": "house"
+      },
       "debateSection": {
         "showAs": "Public Procurement Contracts",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-16/debate/dbsect_8",
+        "debateSectionId": "dbsect_8",
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-16/debate/mul@/dbsect_8.xml"
-          },
-          "pdf": null
+          }
         },
-        "debateSectionId": "dbsect_8"
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-16/debate/dbsect_8"
+      },
+      "date": "2026-04-16",
+      "showAs": " 6. Deputy Grace Boland asked the Minister for Public Expenditure, Infrastructure, Public Service Reform and Digitalisation the reforms planned or under consideration to improve value for money, risk allocation and cost control in public procurement for State-funded projects; whether changes to tender evaluation criteria, including the weighting applied to price versus quality and delivery capacity, are being examined; and if he will make a statement on the matter. [27862/26] ",
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Public Expenditure"
       }
     },
     "contextDate": "2026-04-16"
   },
   {
     "question": {
-      "to": {
-        "showAs": "Public Expenditure",
-        "uri": null,
-        "roleCode": null,
-        "roleType": null
-      },
-      "house": {
-        "houseCode": "dail",
-        "chamberType": "house",
-        "committeeCode": "",
-        "showAs": "34th Dáil",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseNo": "34"
-      },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-16/pq_7",
       "questionNumber": 7,
-      "showAs": " 7. Deputy Shay Brennan asked the Minister for Public Expenditure, Infrastructure, Public Service Reform and Digitalisation for an overview of the progress made to date under national strategic outcome, NSO, 5 of the National Development Plan 2021-2030; and if he will make a statement on the matter. [27477/26] ",
-      "date": "2026-04-16",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-16/pq_7",
       "by": {
         "showAs": "Shay Brennan",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Shay-Brennan.D.2024-11-29",
         "memberCode": "Shay-Brennan.D.2024-11-29"
       },
       "questionType": "oral",
+      "house": {
+        "houseNo": "34",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "chamberType": "house"
+      },
       "debateSection": {
         "showAs": "National Development Plan",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-16/debate/dbsect_10",
+        "debateSectionId": "dbsect_10",
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-16/debate/mul@/dbsect_10.xml"
-          },
-          "pdf": null
+          }
         },
-        "debateSectionId": "dbsect_10"
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-16/debate/dbsect_10"
+      },
+      "date": "2026-04-16",
+      "showAs": " 7. Deputy Shay Brennan asked the Minister for Public Expenditure, Infrastructure, Public Service Reform and Digitalisation for an overview of the progress made to date under national strategic outcome, NSO, 5 of the National Development Plan 2021-2030; and if he will make a statement on the matter. [27477/26] ",
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Public Expenditure"
       }
     },
     "contextDate": "2026-04-16"
   },
   {
     "question": {
-      "to": {
-        "showAs": "Public Expenditure",
-        "uri": null,
-        "roleCode": null,
-        "roleType": null
-      },
-      "house": {
-        "houseCode": "dail",
-        "chamberType": "house",
-        "committeeCode": "",
-        "showAs": "34th Dáil",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseNo": "34"
-      },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-16/pq_8",
       "questionNumber": 8,
-      "showAs": " 8. Deputy Seán Ó Fearghaíl asked the Minister for Public Expenditure, Infrastructure, Public Service Reform and Digitalisation for an overview of the progress made to date under National Strategic Outcome (NSO) 10 of the National Development Plan 2021-2030; and if he will make a statement on the matter. [27479/26] ",
-      "date": "2026-04-16",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-16/pq_8",
       "by": {
         "showAs": "Seán Ó Fearghaíl",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Seán-Ó-Fearghaíl.S.2000-06-09",
         "memberCode": "Seán-Ó-Fearghaíl.S.2000-06-09"
       },
       "questionType": "oral",
+      "house": {
+        "houseNo": "34",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "chamberType": "house"
+      },
       "debateSection": {
         "showAs": "National Development Plan",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-16/debate/dbsect_11",
+        "debateSectionId": "dbsect_11",
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-16/debate/mul@/dbsect_11.xml"
-          },
-          "pdf": null
+          }
         },
-        "debateSectionId": "dbsect_11"
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-16/debate/dbsect_11"
+      },
+      "date": "2026-04-16",
+      "showAs": " 8. Deputy Seán Ó Fearghaíl asked the Minister for Public Expenditure, Infrastructure, Public Service Reform and Digitalisation for an overview of the progress made to date under National Strategic Outcome (NSO) 10 of the National Development Plan 2021-2030; and if he will make a statement on the matter. [27479/26] ",
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Public Expenditure"
       }
     },
     "contextDate": "2026-04-16"
   },
   {
     "question": {
-      "to": {
-        "showAs": "Public Expenditure",
-        "uri": null,
-        "roleCode": null,
-        "roleType": null
-      },
-      "house": {
-        "houseCode": "dail",
-        "chamberType": "house",
-        "committeeCode": "",
-        "showAs": "34th Dáil",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseNo": "34"
-      },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-16/pq_10",
       "questionNumber": 10,
-      "showAs": " 10. Deputy Cian O'Callaghan asked the Minister for Public Expenditure, Infrastructure, Public Service Reform and Digitalisation for an update on the proposed new Garda station at Northern Cross in Dublin; and if he will make a statement on the matter. [27621/26] ",
-      "date": "2026-04-16",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-16/pq_10",
       "by": {
         "showAs": "Cian O'Callaghan",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Cian-O'Callaghan.D.2020-02-08",
         "memberCode": "Cian-O'Callaghan.D.2020-02-08"
       },
       "questionType": "oral",
+      "house": {
+        "houseNo": "34",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "chamberType": "house"
+      },
       "debateSection": {
         "showAs": "An Garda Síochána",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-16/debate/dbsect_12",
+        "debateSectionId": "dbsect_12",
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-16/debate/mul@/dbsect_12.xml"
-          },
-          "pdf": null
+          }
         },
-        "debateSectionId": "dbsect_12"
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-16/debate/dbsect_12"
+      },
+      "date": "2026-04-16",
+      "showAs": " 10. Deputy Cian O'Callaghan asked the Minister for Public Expenditure, Infrastructure, Public Service Reform and Digitalisation for an update on the proposed new Garda station at Northern Cross in Dublin; and if he will make a statement on the matter. [27621/26] ",
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Public Expenditure"
       }
     },
     "contextDate": "2026-04-16"
   },
   {
     "question": {
-      "to": {
-        "showAs": "Public Expenditure",
-        "uri": null,
-        "roleCode": null,
-        "roleType": null
-      },
-      "house": {
-        "houseCode": "dail",
-        "chamberType": "house",
-        "committeeCode": "",
-        "showAs": "34th Dáil",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseNo": "34"
-      },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-16/pq_11",
       "questionNumber": 11,
-      "showAs": " 11. Deputy Roderic O'Gorman asked the Minister for Public Expenditure, Infrastructure, Public Service Reform and Digitalisation to outline the rationale for section 7 of the Critical Infrastructure Bill 2026; and if he will make a statement on the matter. [27626/26] ",
-      "date": "2026-04-16",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-16/pq_11",
       "by": {
         "showAs": "Roderic O'Gorman",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Roderic-O'Gorman.D.2020-02-08",
         "memberCode": "Roderic-O'Gorman.D.2020-02-08"
       },
       "questionType": "oral",
+      "house": {
+        "houseNo": "34",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "chamberType": "house"
+      },
       "debateSection": {
         "showAs": "Legislative Measures",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-16/debate/dbsect_13",
+        "debateSectionId": "dbsect_13",
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-16/debate/mul@/dbsect_13.xml"
-          },
-          "pdf": null
+          }
         },
-        "debateSectionId": "dbsect_13"
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-16/debate/dbsect_13"
+      },
+      "date": "2026-04-16",
+      "showAs": " 11. Deputy Roderic O'Gorman asked the Minister for Public Expenditure, Infrastructure, Public Service Reform and Digitalisation to outline the rationale for section 7 of the Critical Infrastructure Bill 2026; and if he will make a statement on the matter. [27626/26] ",
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Public Expenditure"
       }
     },
     "contextDate": "2026-04-16"
   },
   {
     "question": {
-      "to": {
-        "showAs": "Public Expenditure",
-        "uri": null,
-        "roleCode": null,
-        "roleType": null
-      },
-      "house": {
-        "houseCode": "dail",
-        "chamberType": "house",
-        "committeeCode": "",
-        "showAs": "34th Dáil",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseNo": "34"
-      },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-16/pq_12",
       "questionNumber": 12,
-      "showAs": " 12. Deputy Willie O'Dea asked the Minister for Public Expenditure, Infrastructure, Public Service Reform and Digitalisation if he will report on the new infrastructure regulatory simplification unit in his Department; and if he will make a statement on the matter. [27467/26] ",
-      "date": "2026-04-16",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-16/pq_12",
       "by": {
         "showAs": "Willie O'Dea",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Willie-O'Dea.D.1982-03-09",
         "memberCode": "Willie-O'Dea.D.1982-03-09"
       },
       "questionType": "oral",
+      "house": {
+        "houseNo": "34",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "chamberType": "house"
+      },
       "debateSection": {
         "showAs": "Departmental Bodies",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-16/debate/dbsect_14",
+        "debateSectionId": "dbsect_14",
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-16/debate/mul@/dbsect_14.xml"
-          },
-          "pdf": null
+          }
         },
-        "debateSectionId": "dbsect_14"
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-16/debate/dbsect_14"
+      },
+      "date": "2026-04-16",
+      "showAs": " 12. Deputy Willie O'Dea asked the Minister for Public Expenditure, Infrastructure, Public Service Reform and Digitalisation if he will report on the new infrastructure regulatory simplification unit in his Department; and if he will make a statement on the matter. [27467/26] ",
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Public Expenditure"
       }
     },
     "contextDate": "2026-04-16"
   },
   {
     "question": {
-      "to": {
-        "showAs": "Public Expenditure",
-        "uri": null,
-        "roleCode": null,
-        "roleType": null
-      },
-      "house": {
-        "houseCode": "dail",
-        "chamberType": "house",
-        "committeeCode": "",
-        "showAs": "34th Dáil",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseNo": "34"
-      },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-16/pq_13",
       "questionNumber": 13,
-      "showAs": " 13. Deputy Cian O'Callaghan asked the Minister for Public Expenditure, Infrastructure, Public Service Reform and Digitalisation to outline the statutory safeguards, oversight mechanisms and independent review processes that will be put in place to ensure that the significant powers assigned to him under the Critical Infrastructure Bill 2026 are exercised in a transparent, proportionate and accountable manner; and if he will make a statement on the matter. [27624/26] ",
-      "date": "2026-04-16",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-16/pq_13",
       "by": {
         "showAs": "Cian O'Callaghan",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Cian-O'Callaghan.D.2020-02-08",
         "memberCode": "Cian-O'Callaghan.D.2020-02-08"
       },
       "questionType": "oral",
+      "house": {
+        "houseNo": "34",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "chamberType": "house"
+      },
       "debateSection": {
         "showAs": "Legislative Measures",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-16/debate/dbsect_15",
+        "debateSectionId": "dbsect_15",
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-16/debate/mul@/dbsect_15.xml"
-          },
-          "pdf": null
+          }
         },
-        "debateSectionId": "dbsect_15"
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-16/debate/dbsect_15"
+      },
+      "date": "2026-04-16",
+      "showAs": " 13. Deputy Cian O'Callaghan asked the Minister for Public Expenditure, Infrastructure, Public Service Reform and Digitalisation to outline the statutory safeguards, oversight mechanisms and independent review processes that will be put in place to ensure that the significant powers assigned to him under the Critical Infrastructure Bill 2026 are exercised in a transparent, proportionate and accountable manner; and if he will make a statement on the matter. [27624/26] ",
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Public Expenditure"
       }
     },
     "contextDate": "2026-04-16"
   },
   {
     "question": {
-      "to": {
-        "showAs": "Public Expenditure",
-        "uri": null,
-        "roleCode": null,
-        "roleType": null
-      },
-      "house": {
-        "houseCode": "dail",
-        "chamberType": "house",
-        "committeeCode": "",
-        "showAs": "34th Dáil",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseNo": "34"
-      },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-16/pq_15",
       "questionNumber": 15,
-      "showAs": " 15. Deputy Willie O'Dea asked the Minister for Public Expenditure, Infrastructure, Public Service Reform and Digitalisation the action he is taking to overcome the key barriers to infrastructure delivery; and if he will make a statement on the matter. [27468/26] ",
-      "date": "2026-04-16",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-16/pq_15",
       "by": {
         "showAs": "Willie O'Dea",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Willie-O'Dea.D.1982-03-09",
         "memberCode": "Willie-O'Dea.D.1982-03-09"
       },
       "questionType": "oral",
+      "house": {
+        "houseNo": "34",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "chamberType": "house"
+      },
       "debateSection": {
         "showAs": "Strategic Infrastructure",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-16/debate/dbsect_16",
+        "debateSectionId": "dbsect_16",
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-16/debate/mul@/dbsect_16.xml"
-          },
-          "pdf": null
+          }
         },
-        "debateSectionId": "dbsect_16"
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-16/debate/dbsect_16"
+      },
+      "date": "2026-04-16",
+      "showAs": " 15. Deputy Willie O'Dea asked the Minister for Public Expenditure, Infrastructure, Public Service Reform and Digitalisation the action he is taking to overcome the key barriers to infrastructure delivery; and if he will make a statement on the matter. [27468/26] ",
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Public Expenditure"
       }
     },
     "contextDate": "2026-04-16"
   },
   {
     "question": {
-      "to": {
-        "showAs": "Public Expenditure",
-        "uri": null,
-        "roleCode": null,
-        "roleType": null
-      },
-      "house": {
-        "houseCode": "dail",
-        "chamberType": "house",
-        "committeeCode": "",
-        "showAs": "34th Dáil",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseNo": "34"
-      },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-16/pq_17",
       "questionNumber": 17,
-      "showAs": " 17. Deputy Réada Cronin asked the Minister for Public Expenditure, Infrastructure, Public Service Reform and Digitalisation the reason for the disapplication of section 15 of Climate Action and Low Carbon Development Act 2015 to a relevant public body as part of the Critical Infrastructure Bill 2026; and if he will make a statement on the matter. [27646/26] ",
-      "date": "2026-04-16",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-16/pq_17",
       "by": {
         "showAs": "Réada Cronin",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Réada-Cronin.D.2020-02-08",
         "memberCode": "Réada-Cronin.D.2020-02-08"
       },
       "questionType": "oral",
+      "house": {
+        "houseNo": "34",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "chamberType": "house"
+      },
       "debateSection": {
         "showAs": "Legislative Measures",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-16/debate/dbsect_13",
+        "debateSectionId": "dbsect_13",
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-16/debate/mul@/dbsect_13.xml"
-          },
-          "pdf": null
+          }
         },
-        "debateSectionId": "dbsect_13"
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-16/debate/dbsect_13"
+      },
+      "date": "2026-04-16",
+      "showAs": " 17. Deputy Réada Cronin asked the Minister for Public Expenditure, Infrastructure, Public Service Reform and Digitalisation the reason for the disapplication of section 15 of Climate Action and Low Carbon Development Act 2015 to a relevant public body as part of the Critical Infrastructure Bill 2026; and if he will make a statement on the matter. [27646/26] ",
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Public Expenditure"
       }
     },
     "contextDate": "2026-04-16"
   },
   {
     "question": {
-      "to": {
-        "showAs": "Public Expenditure",
-        "uri": null,
-        "roleCode": null,
-        "roleType": null
-      },
-      "house": {
-        "houseCode": "dail",
-        "chamberType": "house",
-        "committeeCode": "",
-        "showAs": "34th Dáil",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseNo": "34"
-      },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-16/pq_19",
       "questionNumber": 19,
-      "showAs": " 19. Deputy Colm Burke asked the Minister for Public Expenditure, Infrastructure, Public Service Reform and Digitalisation the status of progress on the Blackpool River Bride flood relief scheme; and if he will make a statement on the matter. [27643/26] ",
-      "date": "2026-04-16",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-16/pq_19",
       "by": {
         "showAs": "Colm Burke",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Colm-Burke.S.2011-05-25",
         "memberCode": "Colm-Burke.S.2011-05-25"
       },
       "questionType": "oral",
+      "house": {
+        "houseNo": "34",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "chamberType": "house"
+      },
       "debateSection": {
         "showAs": "Flood Relief Schemes",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-16/debate/dbsect_17",
+        "debateSectionId": "dbsect_17",
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-16/debate/mul@/dbsect_17.xml"
-          },
-          "pdf": null
+          }
         },
-        "debateSectionId": "dbsect_17"
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-16/debate/dbsect_17"
+      },
+      "date": "2026-04-16",
+      "showAs": " 19. Deputy Colm Burke asked the Minister for Public Expenditure, Infrastructure, Public Service Reform and Digitalisation the status of progress on the Blackpool River Bride flood relief scheme; and if he will make a statement on the matter. [27643/26] ",
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Public Expenditure"
       }
     },
     "contextDate": "2026-04-16"
   },
   {
     "question": {
-      "to": {
-        "showAs": "Climate",
-        "uri": null,
-        "roleCode": null,
-        "roleType": null
+      "questionNumber": 28,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-16/pq_28",
+      "by": {
+        "showAs": "Pádraig O'Sullivan",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Pádraig-O'Sullivan.D.2019-11-29",
+        "memberCode": "Pádraig-O'Sullivan.D.2019-11-29"
       },
+      "questionType": "oral",
       "house": {
-        "houseCode": "dail",
-        "chamberType": "house",
+        "houseNo": "34",
         "committeeCode": "",
-        "showAs": "34th Dáil",
+        "houseCode": "dail",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseNo": "34"
+        "showAs": "34th Dáil",
+        "chamberType": "house"
       },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-16/pq_83",
-      "questionNumber": 83,
-      "showAs": " 83. Deputy Pa Daly asked the Minister for Climate, Energy and the Environment the steps he is taking to eliminate the risk of electricity blackouts due to risk to grid stability that is posed by data centres (details supplied); and if he will make a statement on the matter. [26187/26] ",
+      "debateSection": {
+        "showAs": "Flood Relief Schemes",
+        "debateSectionId": "dbsect_17",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-16/debate/mul@/dbsect_17.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-16/debate/dbsect_17"
+      },
       "date": "2026-04-16",
+      "showAs": " 28. Deputy Pádraig O'Sullivan asked the Minister for Public Expenditure, Infrastructure, Public Service Reform and Digitalisation for an update in relation to the Blackpool flood relief scheme; and if he will make a statement on the matter. [27251/26] ",
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Public Expenditure"
+      }
+    },
+    "contextDate": "2026-04-16"
+  },
+  {
+    "question": {
+      "questionNumber": 83,
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-16/pq_83",
       "by": {
         "showAs": "Pa Daly",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Pa-Daly.D.2020-02-08",
         "memberCode": "Pa-Daly.D.2020-02-08"
       },
       "questionType": "oral",
+      "house": {
+        "houseNo": "34",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "chamberType": "house"
+      },
       "debateSection": {
         "showAs": "Electricity Grid",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-16/debate/dbsect_20",
+        "debateSectionId": "dbsect_20",
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-16/debate/mul@/dbsect_20.xml"
-          },
-          "pdf": null
+          }
         },
-        "debateSectionId": "dbsect_20"
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-16/debate/dbsect_20"
+      },
+      "date": "2026-04-16",
+      "showAs": " 83. Deputy Pa Daly asked the Minister for Climate, Energy and the Environment the steps he is taking to eliminate the risk of electricity blackouts due to risk to grid stability that is posed by data centres (details supplied); and if he will make a statement on the matter. [26187/26] ",
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Climate"
       }
     },
     "contextDate": "2026-04-16"
   },
   {
     "question": {
-      "to": {
-        "showAs": "Climate",
-        "uri": null,
-        "roleCode": null,
-        "roleType": null
-      },
-      "house": {
-        "houseCode": "dail",
-        "chamberType": "house",
-        "committeeCode": "",
-        "showAs": "34th Dáil",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseNo": "34"
-      },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-16/pq_84",
       "questionNumber": 84,
-      "showAs": " 84. Deputy Ciarán Ahern asked the Minister for Climate, Energy and the Environment in light of the recently announced suspension of the carbon tax increase, the way in which he plans to make up the shortfall in funding allocated in budget 2026 to the SEAI for home energy upgrade schemes, and to just transition; and if he will make a statement on the matter. [27884/26] ",
-      "date": "2026-04-16",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-16/pq_84",
       "by": {
         "showAs": "Ciarán Ahern",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ciarán-Ahern.D.2024-11-29",
         "memberCode": "Ciarán-Ahern.D.2024-11-29"
       },
       "questionType": "oral",
+      "house": {
+        "houseNo": "34",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "chamberType": "house"
+      },
       "debateSection": {
         "showAs": "Energy Policy",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-16/debate/dbsect_19",
+        "debateSectionId": "dbsect_19",
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-16/debate/mul@/dbsect_19.xml"
-          },
-          "pdf": null
+          }
         },
-        "debateSectionId": "dbsect_19"
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-16/debate/dbsect_19"
+      },
+      "date": "2026-04-16",
+      "showAs": " 84. Deputy Ciarán Ahern asked the Minister for Climate, Energy and the Environment in light of the recently announced suspension of the carbon tax increase, the way in which he plans to make up the shortfall in funding allocated in budget 2026 to the SEAI for home energy upgrade schemes, and to just transition; and if he will make a statement on the matter. [27884/26] ",
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Climate"
       }
     },
     "contextDate": "2026-04-16"
   },
   {
     "question": {
-      "to": {
-        "showAs": "Climate",
-        "uri": null,
-        "roleCode": null,
-        "roleType": null
-      },
-      "house": {
-        "houseCode": "dail",
-        "chamberType": "house",
-        "committeeCode": "",
-        "showAs": "34th Dáil",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseNo": "34"
-      },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-16/pq_85",
       "questionNumber": 85,
-      "showAs": " 85. Deputy Pa Daly asked the Minister for Climate, Energy and the Environment the steps he is taking to shield households from the energy crisis triggered by the US and Israeli attack on Iran; and if he will make a statement on the matter. [26188/26] ",
-      "date": "2026-04-16",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-16/pq_85",
       "by": {
         "showAs": "Pa Daly",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Pa-Daly.D.2020-02-08",
         "memberCode": "Pa-Daly.D.2020-02-08"
       },
       "questionType": "oral",
+      "house": {
+        "houseNo": "34",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "chamberType": "house"
+      },
       "debateSection": {
         "showAs": "Energy Prices",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-16/debate/dbsect_21",
+        "debateSectionId": "dbsect_21",
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-16/debate/mul@/dbsect_21.xml"
-          },
-          "pdf": null
+          }
         },
-        "debateSectionId": "dbsect_21"
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-16/debate/dbsect_21"
+      },
+      "date": "2026-04-16",
+      "showAs": " 85. Deputy Pa Daly asked the Minister for Climate, Energy and the Environment the steps he is taking to shield households from the energy crisis triggered by the US and Israeli attack on Iran; and if he will make a statement on the matter. [26188/26] ",
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Climate"
       }
     },
     "contextDate": "2026-04-16"
   },
   {
     "question": {
-      "to": {
-        "showAs": "Climate",
-        "uri": null,
-        "roleCode": null,
-        "roleType": null
-      },
-      "house": {
-        "houseCode": "dail",
-        "chamberType": "house",
-        "committeeCode": "",
-        "showAs": "34th Dáil",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseNo": "34"
-      },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-16/pq_86",
       "questionNumber": 86,
-      "showAs": " 86. Deputy Jennifer Whitmore asked the Minister for Climate, Energy and the Environment for an update on the CRU price-gouging investigation with regard to energy prices; and if he will make a statement on the matter. [27417/26] ",
-      "date": "2026-04-16",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-16/pq_86",
       "by": {
         "showAs": "Jennifer Whitmore",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Jennifer-Whitmore.D.2020-02-08",
         "memberCode": "Jennifer-Whitmore.D.2020-02-08"
       },
       "questionType": "oral",
+      "house": {
+        "houseNo": "34",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "chamberType": "house"
+      },
       "debateSection": {
         "showAs": "Energy Prices",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-16/debate/dbsect_22",
+        "debateSectionId": "dbsect_22",
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-16/debate/mul@/dbsect_22.xml"
-          },
-          "pdf": null
+          }
         },
-        "debateSectionId": "dbsect_22"
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-16/debate/dbsect_22"
+      },
+      "date": "2026-04-16",
+      "showAs": " 86. Deputy Jennifer Whitmore asked the Minister for Climate, Energy and the Environment for an update on the CRU price-gouging investigation with regard to energy prices; and if he will make a statement on the matter. [27417/26] ",
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Climate"
       }
     },
     "contextDate": "2026-04-16"
   },
   {
     "question": {
-      "to": {
-        "showAs": "Climate",
-        "uri": null,
-        "roleCode": null,
-        "roleType": null
-      },
-      "house": {
-        "houseCode": "dail",
-        "chamberType": "house",
-        "committeeCode": "",
-        "showAs": "34th Dáil",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseNo": "34"
-      },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-16/pq_87",
       "questionNumber": 87,
-      "showAs": " 87. Deputy Malcolm Byrne asked the Minister for Climate, Energy and the Environment if he will consider nuclear energy as a method to meet Ireland’s future energy needs; if he will facilitate the development of small modular nuclear reactors; and if he will make a statement on the matter. [26493/26] ",
-      "date": "2026-04-16",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-16/pq_87",
       "by": {
         "showAs": "Malcolm Byrne",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Malcolm-Byrne.D.2019-11-29",
         "memberCode": "Malcolm-Byrne.D.2019-11-29"
       },
       "questionType": "oral",
+      "house": {
+        "houseNo": "34",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "chamberType": "house"
+      },
       "debateSection": {
         "showAs": "Nuclear Plants",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-16/debate/dbsect_25",
+        "debateSectionId": "dbsect_25",
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-16/debate/mul@/dbsect_25.xml"
-          },
-          "pdf": null
+          }
         },
-        "debateSectionId": "dbsect_25"
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-16/debate/dbsect_25"
+      },
+      "date": "2026-04-16",
+      "showAs": " 87. Deputy Malcolm Byrne asked the Minister for Climate, Energy and the Environment if he will consider nuclear energy as a method to meet Ireland’s future energy needs; if he will facilitate the development of small modular nuclear reactors; and if he will make a statement on the matter. [26493/26] ",
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Climate"
       }
     },
     "contextDate": "2026-04-16"
   },
   {
     "question": {
-      "to": {
-        "showAs": "Climate",
-        "uri": null,
-        "roleCode": null,
-        "roleType": null
-      },
-      "house": {
-        "houseCode": "dail",
-        "chamberType": "house",
-        "committeeCode": "",
-        "showAs": "34th Dáil",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseNo": "34"
-      },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-16/pq_90",
       "questionNumber": 90,
-      "showAs": " 90. Deputy Paul Lawless asked the Minister for Climate, Energy and the Environment the amount of carbon emitted in the State in each of the past ten years. [26603/26] ",
-      "date": "2026-04-16",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-16/pq_90",
       "by": {
         "showAs": "Paul Lawless",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Lawless.D.2024-11-29",
         "memberCode": "Paul-Lawless.D.2024-11-29"
       },
       "questionType": "oral",
+      "house": {
+        "houseNo": "34",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "chamberType": "house"
+      },
       "debateSection": {
         "showAs": "Climate Change Policy",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-16/debate/dbsect_24",
+        "debateSectionId": "dbsect_24",
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-16/debate/mul@/dbsect_24.xml"
-          },
-          "pdf": null
+          }
         },
-        "debateSectionId": "dbsect_24"
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-16/debate/dbsect_24"
+      },
+      "date": "2026-04-16",
+      "showAs": " 90. Deputy Paul Lawless asked the Minister for Climate, Energy and the Environment the amount of carbon emitted in the State in each of the past ten years. [26603/26] ",
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Climate"
       }
     },
     "contextDate": "2026-04-16"
   },
   {
     "question": {
-      "to": {
-        "showAs": "Climate",
-        "uri": null,
-        "roleCode": null,
-        "roleType": null
-      },
-      "house": {
-        "houseCode": "dail",
-        "chamberType": "house",
-        "committeeCode": "",
-        "showAs": "34th Dáil",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseNo": "34"
-      },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-16/pq_91",
       "questionNumber": 91,
-      "showAs": " 91. Deputy Darren O'Rourke asked the Minister for Climate, Energy and the Environment if he is considering building nuclear power plants in Ireland; and if he will make a statement on the matter. [26919/26] ",
-      "date": "2026-04-16",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-16/pq_91",
       "by": {
         "showAs": "Darren O'Rourke",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Darren-O'Rourke.D.2020-02-08",
         "memberCode": "Darren-O'Rourke.D.2020-02-08"
       },
       "questionType": "oral",
+      "house": {
+        "houseNo": "34",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "chamberType": "house"
+      },
       "debateSection": {
         "showAs": "Nuclear Plants",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-16/debate/dbsect_26",
+        "debateSectionId": "dbsect_26",
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-16/debate/mul@/dbsect_26.xml"
-          },
-          "pdf": null
+          }
         },
-        "debateSectionId": "dbsect_26"
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-16/debate/dbsect_26"
+      },
+      "date": "2026-04-16",
+      "showAs": " 91. Deputy Darren O'Rourke asked the Minister for Climate, Energy and the Environment if he is considering building nuclear power plants in Ireland; and if he will make a statement on the matter. [26919/26] ",
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Climate"
       }
     },
     "contextDate": "2026-04-16"
   },
   {
     "question": {
-      "to": {
-        "showAs": "Climate",
-        "uri": null,
-        "roleCode": null,
-        "roleType": null
-      },
-      "house": {
-        "houseCode": "dail",
-        "chamberType": "house",
-        "committeeCode": "",
-        "showAs": "34th Dáil",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseNo": "34"
-      },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-16/pq_92",
       "questionNumber": 92,
-      "showAs": " 92. Deputy Jennifer Whitmore asked the Minister for Climate, Energy and the Environment the way in which he will ensure that the integrity and intention of the Climate Action and Low Carbon Development Act 2015 is preserved in light of planned legislation such as the Critical Infrastructure Bill 2026, which seeks to undermine it; and if he will make a statement on the matter. [27440/26] ",
-      "date": "2026-04-16",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-16/pq_92",
       "by": {
         "showAs": "Jennifer Whitmore",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Jennifer-Whitmore.D.2020-02-08",
         "memberCode": "Jennifer-Whitmore.D.2020-02-08"
       },
       "questionType": "oral",
+      "house": {
+        "houseNo": "34",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "chamberType": "house"
+      },
       "debateSection": {
         "showAs": "Legislative Process",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-16/debate/dbsect_27",
+        "debateSectionId": "dbsect_27",
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-16/debate/mul@/dbsect_27.xml"
-          },
-          "pdf": null
+          }
         },
-        "debateSectionId": "dbsect_27"
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-16/debate/dbsect_27"
+      },
+      "date": "2026-04-16",
+      "showAs": " 92. Deputy Jennifer Whitmore asked the Minister for Climate, Energy and the Environment the way in which he will ensure that the integrity and intention of the Climate Action and Low Carbon Development Act 2015 is preserved in light of planned legislation such as the Critical Infrastructure Bill 2026, which seeks to undermine it; and if he will make a statement on the matter. [27440/26] ",
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Climate"
       }
     },
     "contextDate": "2026-04-16"
   },
   {
     "question": {
-      "to": {
-        "showAs": "Climate",
-        "uri": null,
-        "roleCode": null,
-        "roleType": null
-      },
-      "house": {
-        "houseCode": "dail",
-        "chamberType": "house",
-        "committeeCode": "",
-        "showAs": "34th Dáil",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseNo": "34"
-      },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-16/pq_93",
       "questionNumber": 93,
-      "showAs": " 93. Deputy Pa Daly asked the Minister for Climate, Energy and the Environment if his attention has been drawn to the significant barriers being faced by small-scale renewable energy generation groups and communities; when the review of tariffs will be completed; and if he will make a statement on the matter. [26175/26] ",
-      "date": "2026-04-16",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-16/pq_93",
       "by": {
         "showAs": "Pa Daly",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Pa-Daly.D.2020-02-08",
         "memberCode": "Pa-Daly.D.2020-02-08"
       },
       "questionType": "oral",
+      "house": {
+        "houseNo": "34",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "chamberType": "house"
+      },
       "debateSection": {
         "showAs": "Energy Policy",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-16/debate/dbsect_28",
+        "debateSectionId": "dbsect_28",
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-16/debate/mul@/dbsect_28.xml"
-          },
-          "pdf": null
+          }
         },
-        "debateSectionId": "dbsect_28"
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-16/debate/dbsect_28"
+      },
+      "date": "2026-04-16",
+      "showAs": " 93. Deputy Pa Daly asked the Minister for Climate, Energy and the Environment if his attention has been drawn to the significant barriers being faced by small-scale renewable energy generation groups and communities; when the review of tariffs will be completed; and if he will make a statement on the matter. [26175/26] ",
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Climate"
       }
     },
     "contextDate": "2026-04-16"
   },
   {
     "question": {
-      "to": {
-        "showAs": "Climate",
-        "uri": null,
-        "roleCode": null,
-        "roleType": null
-      },
-      "house": {
-        "houseCode": "dail",
-        "chamberType": "house",
-        "committeeCode": "",
-        "showAs": "34th Dáil",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseNo": "34"
-      },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-16/pq_94",
       "questionNumber": 94,
-      "showAs": " 94. Deputy Roderic O'Gorman asked the Minister for Climate, Energy and the Environment to provide an update on the planned publication date for the 2026 climate action plan; and if he will make a statement on the matter. [27598/26] ",
-      "date": "2026-04-16",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-16/pq_94",
       "by": {
         "showAs": "Roderic O'Gorman",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Roderic-O'Gorman.D.2020-02-08",
         "memberCode": "Roderic-O'Gorman.D.2020-02-08"
       },
       "questionType": "oral",
+      "house": {
+        "houseNo": "34",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "chamberType": "house"
+      },
       "debateSection": {
         "showAs": "Climate Action Plan",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-16/debate/dbsect_29",
+        "debateSectionId": "dbsect_29",
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-16/debate/mul@/dbsect_29.xml"
-          },
-          "pdf": null
+          }
         },
-        "debateSectionId": "dbsect_29"
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-16/debate/dbsect_29"
+      },
+      "date": "2026-04-16",
+      "showAs": " 94. Deputy Roderic O'Gorman asked the Minister for Climate, Energy and the Environment to provide an update on the planned publication date for the 2026 climate action plan; and if he will make a statement on the matter. [27598/26] ",
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Climate"
       }
     },
     "contextDate": "2026-04-16"
   },
   {
     "question": {
-      "to": {
-        "showAs": "Climate",
-        "uri": null,
-        "roleCode": null,
-        "roleType": null
-      },
-      "house": {
-        "houseCode": "dail",
-        "chamberType": "house",
-        "committeeCode": "",
-        "showAs": "34th Dáil",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseNo": "34"
-      },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-16/pq_95",
       "questionNumber": 95,
-      "showAs": " 95. Deputy Catherine Ardagh asked the Minister for Climate, Energy and the Environment for an update on current interconnection projects. [27252/26] ",
-      "date": "2026-04-16",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-16/pq_95",
       "by": {
         "showAs": "Catherine Ardagh",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Catherine-Ardagh.S.2016-04-25",
         "memberCode": "Catherine-Ardagh.S.2016-04-25"
       },
       "questionType": "oral",
+      "house": {
+        "houseNo": "34",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "chamberType": "house"
+      },
       "debateSection": {
         "showAs": "Electricity Transmission Network",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-16/debate/dbsect_30",
+        "debateSectionId": "dbsect_30",
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-16/debate/mul@/dbsect_30.xml"
-          },
-          "pdf": null
+          }
         },
-        "debateSectionId": "dbsect_30"
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-16/debate/dbsect_30"
+      },
+      "date": "2026-04-16",
+      "showAs": " 95. Deputy Catherine Ardagh asked the Minister for Climate, Energy and the Environment for an update on current interconnection projects. [27252/26] ",
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Climate"
       }
     },
     "contextDate": "2026-04-16"
   },
   {
     "question": {
-      "to": {
-        "showAs": "Climate",
-        "uri": null,
-        "roleCode": null,
-        "roleType": null
-      },
-      "house": {
-        "houseCode": "dail",
-        "chamberType": "house",
-        "committeeCode": "",
-        "showAs": "34th Dáil",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseNo": "34"
-      },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-16/pq_96",
       "questionNumber": 96,
-      "showAs": " 96. Deputy Barry Heneghan asked the Minister for Climate, Energy and the Environment the position communicated by Ireland at EU level regarding reducing dependency on imported fossil fuels from geopolitically unstable regions; the role of his Department in EU level discussions on responding to recent disruptions in global energy markets; and if he will make a statement on the matter. [22801/26] ",
-      "date": "2026-04-16",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-16/pq_96",
       "by": {
         "showAs": "Barry Heneghan",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Barry-Heneghan.D.2024-11-29",
         "memberCode": "Barry-Heneghan.D.2024-11-29"
       },
       "questionType": "oral",
+      "house": {
+        "houseNo": "34",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "chamberType": "house"
+      },
       "debateSection": {
         "showAs": "Energy Policy",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-16/debate/dbsect_31",
+        "debateSectionId": "dbsect_31",
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-16/debate/mul@/dbsect_31.xml"
-          },
-          "pdf": null
+          }
         },
-        "debateSectionId": "dbsect_31"
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-16/debate/dbsect_31"
+      },
+      "date": "2026-04-16",
+      "showAs": " 96. Deputy Barry Heneghan asked the Minister for Climate, Energy and the Environment the position communicated by Ireland at EU level regarding reducing dependency on imported fossil fuels from geopolitically unstable regions; the role of his Department in EU level discussions on responding to recent disruptions in global energy markets; and if he will make a statement on the matter. [22801/26] ",
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Climate"
       }
     },
     "contextDate": "2026-04-16"
   },
   {
     "question": {
-      "to": {
-        "showAs": "Climate",
-        "uri": null,
-        "roleCode": null,
-        "roleType": null
-      },
-      "house": {
-        "houseCode": "dail",
-        "chamberType": "house",
-        "committeeCode": "",
-        "showAs": "34th Dáil",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseNo": "34"
-      },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-16/pq_98",
       "questionNumber": 98,
-      "showAs": " 98. Deputy Roderic O'Gorman asked the Minister for Climate, Energy and the Environment if consideration is being given by his Department to permitting the use of plug-in solar panels for residential properties in Ireland; and if he will make a statement on the matter. [27602/26] ",
-      "date": "2026-04-16",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-16/pq_98",
       "by": {
         "showAs": "Roderic O'Gorman",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Roderic-O'Gorman.D.2020-02-08",
         "memberCode": "Roderic-O'Gorman.D.2020-02-08"
       },
       "questionType": "oral",
+      "house": {
+        "houseNo": "34",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "chamberType": "house"
+      },
       "debateSection": {
         "showAs": "Energy Policy",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-16/debate/dbsect_32",
+        "debateSectionId": "dbsect_32",
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-16/debate/mul@/dbsect_32.xml"
-          },
-          "pdf": null
+          }
         },
-        "debateSectionId": "dbsect_32"
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-16/debate/dbsect_32"
+      },
+      "date": "2026-04-16",
+      "showAs": " 98. Deputy Roderic O'Gorman asked the Minister for Climate, Energy and the Environment if consideration is being given by his Department to permitting the use of plug-in solar panels for residential properties in Ireland; and if he will make a statement on the matter. [27602/26] ",
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Climate"
       }
     },
     "contextDate": "2026-04-16"
   },
   {
     "question": {
-      "to": {
-        "showAs": "Climate",
-        "uri": null,
-        "roleCode": null,
-        "roleType": null
-      },
-      "house": {
-        "houseCode": "dail",
-        "chamberType": "house",
-        "committeeCode": "",
-        "showAs": "34th Dáil",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseNo": "34"
-      },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-16/pq_151",
       "questionNumber": 151,
-      "showAs": " 151. Deputy Roderic O'Gorman asked the Minister for Climate, Energy and the Environment the reason for the delay in the publication of the 2026 climate action plan, which was initially due to be published in December 2025; and if he will make a statement on the matter. [27599/26] ",
-      "date": "2026-04-16",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-16/pq_151",
       "by": {
         "showAs": "Roderic O'Gorman",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Roderic-O'Gorman.D.2020-02-08",
         "memberCode": "Roderic-O'Gorman.D.2020-02-08"
       },
       "questionType": "oral",
+      "house": {
+        "houseNo": "34",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "chamberType": "house"
+      },
       "debateSection": {
         "showAs": "Climate Action Plan",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-16/debate/dbsect_29",
+        "debateSectionId": "dbsect_29",
         "formats": {
+          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-16/debate/mul@/dbsect_29.xml"
-          },
-          "pdf": null
+          }
         },
-        "debateSectionId": "dbsect_29"
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-16/debate/dbsect_29"
+      },
+      "date": "2026-04-16",
+      "showAs": " 151. Deputy Roderic O'Gorman asked the Minister for Climate, Energy and the Environment the reason for the delay in the publication of the 2026 climate action plan, which was initially due to be published in December 2025; and if he will make a statement on the matter. [27599/26] ",
+      "to": {
+        "roleType": null,
+        "roleCode": null,
+        "uri": null,
+        "showAs": "Climate"
       }
     },
     "contextDate": "2026-04-16"

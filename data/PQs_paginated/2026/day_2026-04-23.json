@@ -1,1042 +1,1602 @@
 [
   {
-    "contextDate": "2026-04-23",
     "question": {
-      "to": {
-        "uri": null,
-        "roleCode": null,
-        "roleType": null,
-        "showAs": "Education"
-      },
-      "house": {
-        "committeeCode": "",
-        "chamberType": "house",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseNo": "34",
-        "houseCode": "dail",
-        "showAs": "34th Dáil"
-      },
-      "questionType": "oral",
-      "by": {
-        "memberCode": "Darren-O'Rourke.D.2020-02-08",
-        "showAs": "Darren O'Rourke",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Darren-O'Rourke.D.2020-02-08"
-      },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-23/pq_1",
-      "showAs": " 1. Deputy Darren O'Rourke asked the Minister for Education and Youth the number of children in Dunshaughlin, County Meath on waiting lists and still without an offer of a junior infants place for September 2026; the measures she will take to provide additional places, including with respect to language and ethos preferences; the date on which she will meet with Meath East TDs and local principals to discuss possible options; and if she will make a statement on the matter. [29467/26] ",
+      "questionNumber": 1,
       "debateSection": {
+        "debateSectionId": "dbsect_3",
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-23/debate/dbsect_3",
         "showAs": "School Admissions",
-        "debateSectionId": "dbsect_3",
         "formats": {
-          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-23/debate/mul@/dbsect_3.xml"
-          }
+          },
+          "pdf": null
         }
-      },
-      "date": "2026-04-23",
-      "questionNumber": 1
-    }
-  },
-  {
-    "contextDate": "2026-04-23",
-    "question": {
-      "to": {
-        "uri": null,
-        "roleCode": null,
-        "roleType": null,
-        "showAs": "Education"
-      },
-      "house": {
-        "committeeCode": "",
-        "chamberType": "house",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseNo": "34",
-        "houseCode": "dail",
-        "showAs": "34th Dáil"
       },
       "questionType": "oral",
       "by": {
-        "memberCode": "Eoghan-Kenny.D.2024-11-29",
-        "showAs": "Eoghan Kenny",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Eoghan-Kenny.D.2024-11-29"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Darren-O'Rourke.D.2020-02-08",
+        "memberCode": "Darren-O'Rourke.D.2020-02-08",
+        "showAs": "Darren O'Rourke"
       },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-23/pq_2",
-      "showAs": " 2. Deputy Eoghan Kenny asked the Minister for Education and Youth if a memo has been sent to Cabinet in relation to the way in which her Department plans to deliver enough special class places and special school places to match the level of demand; the number of children who await a special class or school placement; the number of children who made an application for a special class or school placement; the number of classes that will be needed to match the level of demand, outside of the current 400 already budgeted for in budget 2026; the number of classes that have been opened to date; if every child will have an appropriate school placement for the coming academic year; and if she will make a statement on the matter. [28882/26] ",
+      "to": {
+        "uri": null,
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Education"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-23/pq_1",
+      "house": {
+        "houseCode": "dail",
+        "committeeCode": "",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "date": "2026-04-23",
+      "showAs": " 1. Deputy Darren O'Rourke asked the Minister for Education and Youth the number of children in Dunshaughlin, County Meath on waiting lists and still without an offer of a junior infants place for September 2026; the measures she will take to provide additional places, including with respect to language and ethos preferences; the date on which she will meet with Meath East TDs and local principals to discuss possible options; and if she will make a statement on the matter. [29467/26] "
+    },
+    "contextDate": "2026-04-23"
+  },
+  {
+    "question": {
+      "questionNumber": 2,
       "debateSection": {
+        "debateSectionId": "dbsect_4",
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-23/debate/dbsect_4",
         "showAs": "Special Educational Needs",
-        "debateSectionId": "dbsect_4",
         "formats": {
-          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-23/debate/mul@/dbsect_4.xml"
-          }
+          },
+          "pdf": null
         }
-      },
-      "date": "2026-04-23",
-      "questionNumber": 2
-    }
-  },
-  {
-    "contextDate": "2026-04-23",
-    "question": {
-      "to": {
-        "uri": null,
-        "roleCode": null,
-        "roleType": null,
-        "showAs": "Education"
-      },
-      "house": {
-        "committeeCode": "",
-        "chamberType": "house",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseNo": "34",
-        "houseCode": "dail",
-        "showAs": "34th Dáil"
       },
       "questionType": "oral",
       "by": {
-        "memberCode": "Darren-O'Rourke.D.2020-02-08",
-        "showAs": "Darren O'Rourke",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Darren-O'Rourke.D.2020-02-08"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Eoghan-Kenny.D.2024-11-29",
+        "memberCode": "Eoghan-Kenny.D.2024-11-29",
+        "showAs": "Eoghan Kenny"
       },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-23/pq_3",
-      "showAs": " 3. Deputy Darren O'Rourke asked the Minister for Education and Youth if her attention has been brought to the long and complex planning history of a new school building project (details supplied); that ten-year planning permission for the new school building project will expire in August 2026; the measures she will take to ensure this project is advanced before planning expires, or the steps that will need to be taken to advance the project as quickly as possible thereafter; and if she will make a statement on the matter. [29468/26] ",
+      "to": {
+        "uri": null,
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Education"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-23/pq_2",
+      "house": {
+        "houseCode": "dail",
+        "committeeCode": "",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "date": "2026-04-23",
+      "showAs": " 2. Deputy Eoghan Kenny asked the Minister for Education and Youth if a memo has been sent to Cabinet in relation to the way in which her Department plans to deliver enough special class places and special school places to match the level of demand; the number of children who await a special class or school placement; the number of children who made an application for a special class or school placement; the number of classes that will be needed to match the level of demand, outside of the current 400 already budgeted for in budget 2026; the number of classes that have been opened to date; if every child will have an appropriate school placement for the coming academic year; and if she will make a statement on the matter. [28882/26] "
+    },
+    "contextDate": "2026-04-23"
+  },
+  {
+    "question": {
+      "questionNumber": 3,
       "debateSection": {
+        "debateSectionId": "dbsect_5",
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-23/debate/dbsect_5",
         "showAs": "Schools Building Projects",
-        "debateSectionId": "dbsect_5",
         "formats": {
-          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-23/debate/mul@/dbsect_5.xml"
-          }
+          },
+          "pdf": null
         }
-      },
-      "date": "2026-04-23",
-      "questionNumber": 3
-    }
-  },
-  {
-    "contextDate": "2026-04-23",
-    "question": {
-      "to": {
-        "uri": null,
-        "roleCode": null,
-        "roleType": null,
-        "showAs": "Education"
-      },
-      "house": {
-        "committeeCode": "",
-        "chamberType": "house",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseNo": "34",
-        "houseCode": "dail",
-        "showAs": "34th Dáil"
       },
       "questionType": "oral",
       "by": {
-        "memberCode": "Richard-Boyd-Barrett.D.2011-03-09",
-        "showAs": "Richard Boyd Barrett",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Richard-Boyd-Barrett.D.2011-03-09"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Darren-O'Rourke.D.2020-02-08",
+        "memberCode": "Darren-O'Rourke.D.2020-02-08",
+        "showAs": "Darren O'Rourke"
       },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-23/pq_4",
-      "showAs": " 4. Deputy Richard Boyd Barrett asked the Minister for Education and Youth whether she will implement the alternative circular drafted by the Save our SNAs campaign group (details supplied) to ensure that all school students have supports appropriate to their needs.  [29532/26] ",
+      "to": {
+        "uri": null,
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Education"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-23/pq_3",
+      "house": {
+        "houseCode": "dail",
+        "committeeCode": "",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "date": "2026-04-23",
+      "showAs": " 3. Deputy Darren O'Rourke asked the Minister for Education and Youth if her attention has been brought to the long and complex planning history of a new school building project (details supplied); that ten-year planning permission for the new school building project will expire in August 2026; the measures she will take to ensure this project is advanced before planning expires, or the steps that will need to be taken to advance the project as quickly as possible thereafter; and if she will make a statement on the matter. [29468/26] "
+    },
+    "contextDate": "2026-04-23"
+  },
+  {
+    "question": {
+      "questionNumber": 4,
       "debateSection": {
+        "debateSectionId": "dbsect_6",
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-23/debate/dbsect_6",
         "showAs": "Special Educational Needs",
-        "debateSectionId": "dbsect_6",
         "formats": {
-          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-23/debate/mul@/dbsect_6.xml"
-          }
+          },
+          "pdf": null
         }
-      },
-      "date": "2026-04-23",
-      "questionNumber": 4
-    }
-  },
-  {
-    "contextDate": "2026-04-23",
-    "question": {
-      "to": {
-        "uri": null,
-        "roleCode": null,
-        "roleType": null,
-        "showAs": "Education"
-      },
-      "house": {
-        "committeeCode": "",
-        "chamberType": "house",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseNo": "34",
-        "houseCode": "dail",
-        "showAs": "34th Dáil"
       },
       "questionType": "oral",
       "by": {
-        "memberCode": "Roderic-O'Gorman.D.2020-02-08",
-        "showAs": "Roderic O'Gorman",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Roderic-O'Gorman.D.2020-02-08"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Richard-Boyd-Barrett.D.2011-03-09",
+        "memberCode": "Richard-Boyd-Barrett.D.2011-03-09",
+        "showAs": "Richard Boyd Barrett"
       },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-23/pq_6",
-      "showAs": " 6. Deputy Roderic O'Gorman asked the Minister for Education and Youth when the report of the Dublin 15 special education task force will be published; and if she will make a statement on the matter.  [29032/26] ",
+      "to": {
+        "uri": null,
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Education"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-23/pq_4",
+      "house": {
+        "houseCode": "dail",
+        "committeeCode": "",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "date": "2026-04-23",
+      "showAs": " 4. Deputy Richard Boyd Barrett asked the Minister for Education and Youth whether she will implement the alternative circular drafted by the Save our SNAs campaign group (details supplied) to ensure that all school students have supports appropriate to their needs.  [29532/26] "
+    },
+    "contextDate": "2026-04-23"
+  },
+  {
+    "question": {
+      "questionNumber": 6,
       "debateSection": {
+        "debateSectionId": "dbsect_8",
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-23/debate/dbsect_8",
         "showAs": "Special Educational Needs",
-        "debateSectionId": "dbsect_8",
         "formats": {
-          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-23/debate/mul@/dbsect_8.xml"
-          }
+          },
+          "pdf": null
         }
-      },
-      "date": "2026-04-23",
-      "questionNumber": 6
-    }
-  },
-  {
-    "contextDate": "2026-04-23",
-    "question": {
-      "to": {
-        "uri": null,
-        "roleCode": null,
-        "roleType": null,
-        "showAs": "Education"
-      },
-      "house": {
-        "committeeCode": "",
-        "chamberType": "house",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseNo": "34",
-        "houseCode": "dail",
-        "showAs": "34th Dáil"
       },
       "questionType": "oral",
       "by": {
-        "memberCode": "Barry-Heneghan.D.2024-11-29",
-        "showAs": "Barry Heneghan",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Barry-Heneghan.D.2024-11-29"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Roderic-O'Gorman.D.2020-02-08",
+        "memberCode": "Roderic-O'Gorman.D.2020-02-08",
+        "showAs": "Roderic O'Gorman"
       },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-23/pq_7",
-      "showAs": " 7. Deputy Barry Heneghan asked the Minister for Education and Youth the level of engagement her Department has had with the request by a school (details supplied) for modular accommodation that can facilitate the opening of two additional autism classes; and if she will make a statement on the matter. [29156/26] ",
+      "to": {
+        "uri": null,
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Education"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-23/pq_6",
+      "house": {
+        "houseCode": "dail",
+        "committeeCode": "",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "date": "2026-04-23",
+      "showAs": " 6. Deputy Roderic O'Gorman asked the Minister for Education and Youth when the report of the Dublin 15 special education task force will be published; and if she will make a statement on the matter.  [29032/26] "
+    },
+    "contextDate": "2026-04-23"
+  },
+  {
+    "question": {
+      "questionNumber": 7,
       "debateSection": {
+        "debateSectionId": "dbsect_9",
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-23/debate/dbsect_9",
         "showAs": "Special Educational Needs",
-        "debateSectionId": "dbsect_9",
         "formats": {
-          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-23/debate/mul@/dbsect_9.xml"
-          }
+          },
+          "pdf": null
         }
-      },
-      "date": "2026-04-23",
-      "questionNumber": 7
-    }
-  },
-  {
-    "contextDate": "2026-04-23",
-    "question": {
-      "to": {
-        "uri": null,
-        "roleCode": null,
-        "roleType": null,
-        "showAs": "Education"
-      },
-      "house": {
-        "committeeCode": "",
-        "chamberType": "house",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseNo": "34",
-        "houseCode": "dail",
-        "showAs": "34th Dáil"
       },
       "questionType": "oral",
       "by": {
-        "memberCode": "Edward-Timmins.D.2024-11-29",
-        "showAs": "Edward Timmins",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Edward-Timmins.D.2024-11-29"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Barry-Heneghan.D.2024-11-29",
+        "memberCode": "Barry-Heneghan.D.2024-11-29",
+        "showAs": "Barry Heneghan"
       },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-23/pq_8",
-      "showAs": " 8. Deputy Edward Timmins asked the Minister for Education and Youth for an update on the expansion of the school transport service to reduce the distance criteria to recognise feeder schools; and if she will make a statement on the matter. [29143/26] ",
+      "to": {
+        "uri": null,
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Education"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-23/pq_7",
+      "house": {
+        "houseCode": "dail",
+        "committeeCode": "",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "date": "2026-04-23",
+      "showAs": " 7. Deputy Barry Heneghan asked the Minister for Education and Youth the level of engagement her Department has had with the request by a school (details supplied) for modular accommodation that can facilitate the opening of two additional autism classes; and if she will make a statement on the matter. [29156/26] "
+    },
+    "contextDate": "2026-04-23"
+  },
+  {
+    "question": {
+      "questionNumber": 8,
       "debateSection": {
+        "debateSectionId": "dbsect_10",
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-23/debate/dbsect_10",
         "showAs": "School Transport",
-        "debateSectionId": "dbsect_10",
         "formats": {
-          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-23/debate/mul@/dbsect_10.xml"
-          }
+          },
+          "pdf": null
         }
-      },
-      "date": "2026-04-23",
-      "questionNumber": 8
-    }
-  },
-  {
-    "contextDate": "2026-04-23",
-    "question": {
-      "to": {
-        "uri": null,
-        "roleCode": null,
-        "roleType": null,
-        "showAs": "Education"
-      },
-      "house": {
-        "committeeCode": "",
-        "chamberType": "house",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseNo": "34",
-        "houseCode": "dail",
-        "showAs": "34th Dáil"
       },
       "questionType": "oral",
       "by": {
-        "memberCode": "Ryan-O'Meara.D.2024-11-29",
-        "showAs": "Ryan O'Meara",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ryan-O'Meara.D.2024-11-29"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Edward-Timmins.D.2024-11-29",
+        "memberCode": "Edward-Timmins.D.2024-11-29",
+        "showAs": "Edward Timmins"
       },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-23/pq_10",
-      "showAs": " 10. Deputy Ryan O'Meara asked the Minister for Education and Youth the training available for teachers to support them in their AI literacy skills; and if she will make a statement on the matter. [29161/26] ",
+      "to": {
+        "uri": null,
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Education"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-23/pq_8",
+      "house": {
+        "houseCode": "dail",
+        "committeeCode": "",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "date": "2026-04-23",
+      "showAs": " 8. Deputy Edward Timmins asked the Minister for Education and Youth for an update on the expansion of the school transport service to reduce the distance criteria to recognise feeder schools; and if she will make a statement on the matter. [29143/26] "
+    },
+    "contextDate": "2026-04-23"
+  },
+  {
+    "question": {
+      "questionNumber": 10,
       "debateSection": {
+        "debateSectionId": "dbsect_11",
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-23/debate/dbsect_11",
         "showAs": "Teacher Training",
-        "debateSectionId": "dbsect_11",
         "formats": {
-          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-23/debate/mul@/dbsect_11.xml"
-          }
+          },
+          "pdf": null
         }
-      },
-      "date": "2026-04-23",
-      "questionNumber": 10
-    }
-  },
-  {
-    "contextDate": "2026-04-23",
-    "question": {
-      "to": {
-        "uri": null,
-        "roleCode": null,
-        "roleType": null,
-        "showAs": "Education"
-      },
-      "house": {
-        "committeeCode": "",
-        "chamberType": "house",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseNo": "34",
-        "houseCode": "dail",
-        "showAs": "34th Dáil"
       },
       "questionType": "oral",
       "by": {
-        "memberCode": "Aisling-Dempsey.D.2024-11-29",
-        "showAs": "Aisling Dempsey",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Aisling-Dempsey.D.2024-11-29"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ryan-O'Meara.D.2024-11-29",
+        "memberCode": "Ryan-O'Meara.D.2024-11-29",
+        "showAs": "Ryan O'Meara"
       },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-23/pq_11",
-      "showAs": " 11. Deputy Aisling Dempsey asked the Minister for Education and Youth to explain the process around School Building Projects; the project process and if there are currently delays in the process. [29148/26] ",
+      "to": {
+        "uri": null,
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Education"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-23/pq_10",
+      "house": {
+        "houseCode": "dail",
+        "committeeCode": "",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "date": "2026-04-23",
+      "showAs": " 10. Deputy Ryan O'Meara asked the Minister for Education and Youth the training available for teachers to support them in their AI literacy skills; and if she will make a statement on the matter. [29161/26] "
+    },
+    "contextDate": "2026-04-23"
+  },
+  {
+    "question": {
+      "questionNumber": 11,
       "debateSection": {
+        "debateSectionId": "dbsect_13",
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-23/debate/dbsect_13",
         "showAs": "Schools Building Projects",
-        "debateSectionId": "dbsect_13",
         "formats": {
-          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-23/debate/mul@/dbsect_13.xml"
-          }
+          },
+          "pdf": null
         }
-      },
-      "date": "2026-04-23",
-      "questionNumber": 11
-    }
-  },
-  {
-    "contextDate": "2026-04-23",
-    "question": {
-      "to": {
-        "uri": null,
-        "roleCode": null,
-        "roleType": null,
-        "showAs": "Education"
-      },
-      "house": {
-        "committeeCode": "",
-        "chamberType": "house",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseNo": "34",
-        "houseCode": "dail",
-        "showAs": "34th Dáil"
       },
       "questionType": "oral",
       "by": {
-        "memberCode": "Keira-Keogh.D.2024-11-29",
-        "showAs": "Keira Keogh",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Keira-Keogh.D.2024-11-29"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Aisling-Dempsey.D.2024-11-29",
+        "memberCode": "Aisling-Dempsey.D.2024-11-29",
+        "showAs": "Aisling Dempsey"
       },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-23/pq_12",
-      "showAs": " 12. Deputy Keira Keogh asked the Minister for Education and Youth if her Department has considered the particular challenges associated with the current school transport criteria in rural areas such as County Mayo, including the local nuances associated with feeder schools and geographical distances; the measures her Department is taking to address these challenges; and if she will make a statement on the matter. [29062/26] ",
+      "to": {
+        "uri": null,
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Education"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-23/pq_11",
+      "house": {
+        "houseCode": "dail",
+        "committeeCode": "",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "date": "2026-04-23",
+      "showAs": " 11. Deputy Aisling Dempsey asked the Minister for Education and Youth to explain the process around School Building Projects; the project process and if there are currently delays in the process. [29148/26] "
+    },
+    "contextDate": "2026-04-23"
+  },
+  {
+    "question": {
+      "questionNumber": 12,
       "debateSection": {
+        "debateSectionId": "dbsect_12",
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-23/debate/dbsect_12",
         "showAs": "School Transport",
-        "debateSectionId": "dbsect_12",
         "formats": {
-          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-23/debate/mul@/dbsect_12.xml"
-          }
+          },
+          "pdf": null
         }
-      },
-      "date": "2026-04-23",
-      "questionNumber": 12
-    }
-  },
-  {
-    "contextDate": "2026-04-23",
-    "question": {
-      "to": {
-        "uri": null,
-        "roleCode": null,
-        "roleType": null,
-        "showAs": "Education"
-      },
-      "house": {
-        "committeeCode": "",
-        "chamberType": "house",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseNo": "34",
-        "houseCode": "dail",
-        "showAs": "34th Dáil"
       },
       "questionType": "oral",
       "by": {
-        "memberCode": "Colm-Burke.S.2011-05-25",
-        "showAs": "Colm Burke",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Colm-Burke.S.2011-05-25"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Keira-Keogh.D.2024-11-29",
+        "memberCode": "Keira-Keogh.D.2024-11-29",
+        "showAs": "Keira Keogh"
       },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-23/pq_16",
-      "showAs": " 16. Deputy Colm Burke asked the Minister for Education and Youth the progress made to date in relation to the introduction of e-ticketing as part of the school transport scheme; if there are plans to expand e-ticketing to other schools for the 2026-27 academic year; and if she will make a statement on the matter.  [28771/26] ",
+      "to": {
+        "uri": null,
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Education"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-23/pq_12",
+      "house": {
+        "houseCode": "dail",
+        "committeeCode": "",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "date": "2026-04-23",
+      "showAs": " 12. Deputy Keira Keogh asked the Minister for Education and Youth if her Department has considered the particular challenges associated with the current school transport criteria in rural areas such as County Mayo, including the local nuances associated with feeder schools and geographical distances; the measures her Department is taking to address these challenges; and if she will make a statement on the matter. [29062/26] "
+    },
+    "contextDate": "2026-04-23"
+  },
+  {
+    "question": {
+      "questionNumber": 16,
       "debateSection": {
+        "debateSectionId": "dbsect_17",
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-23/debate/dbsect_17",
         "showAs": "School Transport",
-        "debateSectionId": "dbsect_17",
         "formats": {
-          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-23/debate/mul@/dbsect_17.xml"
-          }
+          },
+          "pdf": null
         }
-      },
-      "date": "2026-04-23",
-      "questionNumber": 16
-    }
-  },
-  {
-    "contextDate": "2026-04-23",
-    "question": {
-      "to": {
-        "uri": null,
-        "roleCode": null,
-        "roleType": null,
-        "showAs": "Education"
-      },
-      "house": {
-        "committeeCode": "",
-        "chamberType": "house",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseNo": "34",
-        "houseCode": "dail",
-        "showAs": "34th Dáil"
       },
       "questionType": "oral",
       "by": {
-        "memberCode": "Eoghan-Kenny.D.2024-11-29",
-        "showAs": "Eoghan Kenny",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Eoghan-Kenny.D.2024-11-29"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Colm-Burke.S.2011-05-25",
+        "memberCode": "Colm-Burke.S.2011-05-25",
+        "showAs": "Colm Burke"
       },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-23/pq_18",
-      "showAs": " 18. Deputy Eoghan Kenny asked the Minister for Education and Youth the rationale her Department has in choosing particular schools for priority building lists, to outline the denomination of each of the 105 schools chosen by category; if schools that are currently at stage 2b will be progressed over the next two years; and if she will make a statement on the matter. [28885/26] ",
+      "to": {
+        "uri": null,
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Education"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-23/pq_16",
+      "house": {
+        "houseCode": "dail",
+        "committeeCode": "",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "date": "2026-04-23",
+      "showAs": " 16. Deputy Colm Burke asked the Minister for Education and Youth the progress made to date in relation to the introduction of e-ticketing as part of the school transport scheme; if there are plans to expand e-ticketing to other schools for the 2026-27 academic year; and if she will make a statement on the matter.  [28771/26] "
+    },
+    "contextDate": "2026-04-23"
+  },
+  {
+    "question": {
+      "questionNumber": 18,
       "debateSection": {
+        "debateSectionId": "dbsect_14",
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-23/debate/dbsect_14",
         "showAs": "Schools Building Projects",
-        "debateSectionId": "dbsect_14",
         "formats": {
-          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-23/debate/mul@/dbsect_14.xml"
-          }
+          },
+          "pdf": null
         }
-      },
-      "date": "2026-04-23",
-      "questionNumber": 18
-    }
-  },
-  {
-    "contextDate": "2026-04-23",
-    "question": {
-      "to": {
-        "uri": null,
-        "roleCode": null,
-        "roleType": null,
-        "showAs": "Education"
-      },
-      "house": {
-        "committeeCode": "",
-        "chamberType": "house",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseNo": "34",
-        "houseCode": "dail",
-        "showAs": "34th Dáil"
       },
       "questionType": "oral",
       "by": {
-        "memberCode": "Noel-McCarthy.D.2024-11-29",
-        "showAs": "Noel McCarthy",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Noel-McCarthy.D.2024-11-29"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Eoghan-Kenny.D.2024-11-29",
+        "memberCode": "Eoghan-Kenny.D.2024-11-29",
+        "showAs": "Eoghan Kenny"
       },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-23/pq_19",
-      "showAs": " 19. Deputy Noel McCarthy asked the Minister for Education and Youth further to Parliamentary Question No. 211 of 12 February 2026, the progress made to date in ensuring the use of a green area by schools (details supplied); and if she will make a statement on the matter. [28762/26] ",
+      "to": {
+        "uri": null,
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Education"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-23/pq_18",
+      "house": {
+        "houseCode": "dail",
+        "committeeCode": "",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "date": "2026-04-23",
+      "showAs": " 18. Deputy Eoghan Kenny asked the Minister for Education and Youth the rationale her Department has in choosing particular schools for priority building lists, to outline the denomination of each of the 105 schools chosen by category; if schools that are currently at stage 2b will be progressed over the next two years; and if she will make a statement on the matter. [28885/26] "
+    },
+    "contextDate": "2026-04-23"
+  },
+  {
+    "question": {
+      "questionNumber": 19,
       "debateSection": {
+        "debateSectionId": "dbsect_15",
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-23/debate/dbsect_15",
         "showAs": "School Facilities",
-        "debateSectionId": "dbsect_15",
         "formats": {
-          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-23/debate/mul@/dbsect_15.xml"
-          }
+          },
+          "pdf": null
         }
       },
-      "date": "2026-04-23",
-      "questionNumber": 19
-    }
-  },
-  {
-    "contextDate": "2026-04-23",
-    "question": {
+      "questionType": "oral",
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Noel-McCarthy.D.2024-11-29",
+        "memberCode": "Noel-McCarthy.D.2024-11-29",
+        "showAs": "Noel McCarthy"
+      },
       "to": {
         "uri": null,
-        "roleCode": null,
         "roleType": null,
+        "roleCode": null,
         "showAs": "Education"
       },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-23/pq_19",
       "house": {
-        "committeeCode": "",
-        "chamberType": "house",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseNo": "34",
         "houseCode": "dail",
-        "showAs": "34th Dáil"
+        "committeeCode": "",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
       },
-      "questionType": "oral",
-      "by": {
-        "memberCode": "Darren-O'Rourke.D.2020-02-08",
-        "showAs": "Darren O'Rourke",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Darren-O'Rourke.D.2020-02-08"
-      },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-23/pq_21",
-      "showAs": " 21. Deputy Darren O'Rourke asked the Minister for Education and Youth in light of the cost-of-living crisis and cost-of-doing-business crisis, if she will reverse the reintroduction of leaving certificate and junior certificate fees, and increases in school transport fees; and if she will engage with school transport operators to ensure that they are adequately supported with the increased cost of fuel. [29045/26] ",
+      "date": "2026-04-23",
+      "showAs": " 19. Deputy Noel McCarthy asked the Minister for Education and Youth further to Parliamentary Question No. 211 of 12 February 2026, the progress made to date in ensuring the use of a green area by schools (details supplied); and if she will make a statement on the matter. [28762/26] "
+    },
+    "contextDate": "2026-04-23"
+  },
+  {
+    "question": {
+      "questionNumber": 21,
       "debateSection": {
+        "debateSectionId": "dbsect_16",
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-23/debate/dbsect_16",
         "showAs": "Education Costs",
-        "debateSectionId": "dbsect_16",
         "formats": {
-          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-23/debate/mul@/dbsect_16.xml"
-          }
+          },
+          "pdf": null
         }
-      },
-      "date": "2026-04-23",
-      "questionNumber": 21
-    }
-  },
-  {
-    "contextDate": "2026-04-23",
-    "question": {
-      "to": {
-        "uri": null,
-        "roleCode": null,
-        "roleType": null,
-        "showAs": "Children"
-      },
-      "house": {
-        "committeeCode": "",
-        "chamberType": "house",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseNo": "34",
-        "houseCode": "dail",
-        "showAs": "34th Dáil"
       },
       "questionType": "oral",
       "by": {
-        "memberCode": "Claire-Kerrane.D.2020-02-08",
-        "showAs": "Claire Kerrane",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Claire-Kerrane.D.2020-02-08"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Darren-O'Rourke.D.2020-02-08",
+        "memberCode": "Darren-O'Rourke.D.2020-02-08",
+        "showAs": "Darren O'Rourke"
       },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-23/pq_120",
-      "showAs": " 120. Deputy Claire Kerrane asked the Minister for Children, Disability and Equality if she will include additional institutions to the mother and baby institutions payment scheme; and if she will make a statement on the matter. [28696/26] ",
+      "to": {
+        "uri": null,
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Education"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-23/pq_21",
+      "house": {
+        "houseCode": "dail",
+        "committeeCode": "",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "date": "2026-04-23",
+      "showAs": " 21. Deputy Darren O'Rourke asked the Minister for Education and Youth in light of the cost-of-living crisis and cost-of-doing-business crisis, if she will reverse the reintroduction of leaving certificate and junior certificate fees, and increases in school transport fees; and if she will engage with school transport operators to ensure that they are adequately supported with the increased cost of fuel. [29045/26] "
+    },
+    "contextDate": "2026-04-23"
+  },
+  {
+    "question": {
+      "questionNumber": 120,
       "debateSection": {
+        "debateSectionId": "dbsect_20",
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-23/debate/dbsect_20",
         "showAs": "Mother and Baby Homes",
-        "debateSectionId": "dbsect_20",
         "formats": {
-          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-23/debate/mul@/dbsect_20.xml"
-          }
+          },
+          "pdf": null
         }
-      },
-      "date": "2026-04-23",
-      "questionNumber": 120
-    }
-  },
-  {
-    "contextDate": "2026-04-23",
-    "question": {
-      "to": {
-        "uri": null,
-        "roleCode": null,
-        "roleType": null,
-        "showAs": "Children"
-      },
-      "house": {
-        "committeeCode": "",
-        "chamberType": "house",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseNo": "34",
-        "houseCode": "dail",
-        "showAs": "34th Dáil"
       },
       "questionType": "oral",
       "by": {
-        "memberCode": "Liam-Quaide.D.2024-11-29",
-        "showAs": "Liam Quaide",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Liam-Quaide.D.2024-11-29"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Claire-Kerrane.D.2020-02-08",
+        "memberCode": "Claire-Kerrane.D.2020-02-08",
+        "showAs": "Claire Kerrane"
       },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-23/pq_121",
-      "showAs": " 121. Deputy Liam Quaide asked the Minister for Children, Disability and Equality the number of staff assigned to each regional single point of access referral pathway for children's disability and mental health services, including primary care; the number of single point of access units established to date per health region; the disciplines represented on each; and the governance arrangements in place to adjudicate contested cases.  [29469/26] ",
+      "to": {
+        "uri": null,
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Children"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-23/pq_120",
+      "house": {
+        "houseCode": "dail",
+        "committeeCode": "",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "date": "2026-04-23",
+      "showAs": " 120. Deputy Claire Kerrane asked the Minister for Children, Disability and Equality if she will include additional institutions to the mother and baby institutions payment scheme; and if she will make a statement on the matter. [28696/26] "
+    },
+    "contextDate": "2026-04-23"
+  },
+  {
+    "question": {
+      "questionNumber": 121,
       "debateSection": {
+        "debateSectionId": "dbsect_19",
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-23/debate/dbsect_19",
         "showAs": "Disability Services",
-        "debateSectionId": "dbsect_19",
         "formats": {
-          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-23/debate/mul@/dbsect_19.xml"
-          }
+          },
+          "pdf": null
         }
-      },
-      "date": "2026-04-23",
-      "questionNumber": 121
-    }
-  },
-  {
-    "contextDate": "2026-04-23",
-    "question": {
-      "to": {
-        "uri": null,
-        "roleCode": null,
-        "roleType": null,
-        "showAs": "Children"
-      },
-      "house": {
-        "committeeCode": "",
-        "chamberType": "house",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseNo": "34",
-        "houseCode": "dail",
-        "showAs": "34th Dáil"
       },
       "questionType": "oral",
       "by": {
-        "memberCode": "Claire-Kerrane.D.2020-02-08",
-        "showAs": "Claire Kerrane",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Claire-Kerrane.D.2020-02-08"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Liam-Quaide.D.2024-11-29",
+        "memberCode": "Liam-Quaide.D.2024-11-29",
+        "showAs": "Liam Quaide"
       },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-23/pq_122",
-      "showAs": " 122. Deputy Claire Kerrane asked the Minister for Children, Disability and Equality if she is aware of serious concerns raised in relation to the new national service for guardians ad litem; and if she will make a statement on the matter.   [28697/26] ",
+      "to": {
+        "uri": null,
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Children"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-23/pq_121",
+      "house": {
+        "houseCode": "dail",
+        "committeeCode": "",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "date": "2026-04-23",
+      "showAs": " 121. Deputy Liam Quaide asked the Minister for Children, Disability and Equality the number of staff assigned to each regional single point of access referral pathway for children's disability and mental health services, including primary care; the number of single point of access units established to date per health region; the disciplines represented on each; and the governance arrangements in place to adjudicate contested cases.  [29469/26] "
+    },
+    "contextDate": "2026-04-23"
+  },
+  {
+    "question": {
+      "questionNumber": 122,
       "debateSection": {
+        "debateSectionId": "dbsect_21",
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-23/debate/dbsect_21",
         "showAs": "Guardians Ad Litem",
-        "debateSectionId": "dbsect_21",
         "formats": {
-          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-23/debate/mul@/dbsect_21.xml"
-          }
+          },
+          "pdf": null
         }
-      },
-      "date": "2026-04-23",
-      "questionNumber": 122
-    }
-  },
-  {
-    "contextDate": "2026-04-23",
-    "question": {
-      "to": {
-        "uri": null,
-        "roleCode": null,
-        "roleType": null,
-        "showAs": "Children"
-      },
-      "house": {
-        "committeeCode": "",
-        "chamberType": "house",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseNo": "34",
-        "houseCode": "dail",
-        "showAs": "34th Dáil"
       },
       "questionType": "oral",
       "by": {
-        "memberCode": "Mark-Wall.S.2020-03-30",
-        "showAs": "Mark Wall",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Mark-Wall.S.2020-03-30"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Claire-Kerrane.D.2020-02-08",
+        "memberCode": "Claire-Kerrane.D.2020-02-08",
+        "showAs": "Claire Kerrane"
       },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-23/pq_123",
-      "showAs": " 123. Deputy Mark Wall asked the Minister for Children, Disability and Equality if she has identified sites for the Government’s pilot for public childcare facilities, and if she has considered Kildare South, given the urgent lack of childcare places available.  [28589/26] ",
+      "to": {
+        "uri": null,
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Children"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-23/pq_122",
+      "house": {
+        "houseCode": "dail",
+        "committeeCode": "",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "date": "2026-04-23",
+      "showAs": " 122. Deputy Claire Kerrane asked the Minister for Children, Disability and Equality if she is aware of serious concerns raised in relation to the new national service for guardians ad litem; and if she will make a statement on the matter.   [28697/26] "
+    },
+    "contextDate": "2026-04-23"
+  },
+  {
+    "question": {
+      "questionNumber": 123,
       "debateSection": {
+        "debateSectionId": "dbsect_22",
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-23/debate/dbsect_22",
         "showAs": "Childcare Services",
-        "debateSectionId": "dbsect_22",
         "formats": {
-          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-23/debate/mul@/dbsect_22.xml"
-          }
+          },
+          "pdf": null
         }
-      },
-      "date": "2026-04-23",
-      "questionNumber": 123
-    }
-  },
-  {
-    "contextDate": "2026-04-23",
-    "question": {
-      "to": {
-        "uri": null,
-        "roleCode": null,
-        "roleType": null,
-        "showAs": "Children"
-      },
-      "house": {
-        "committeeCode": "",
-        "chamberType": "house",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseNo": "34",
-        "houseCode": "dail",
-        "showAs": "34th Dáil"
       },
       "questionType": "oral",
       "by": {
-        "memberCode": "Aisling-Dempsey.D.2024-11-29",
-        "showAs": "Aisling Dempsey",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Aisling-Dempsey.D.2024-11-29"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Mark-Wall.S.2020-03-30",
+        "memberCode": "Mark-Wall.S.2020-03-30",
+        "showAs": "Mark Wall"
       },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-23/pq_124",
-      "showAs": " 124. Deputy Aisling Dempsey asked the Minister for Children, Disability and Equality for an update on the building blocks grant. [29531/26] ",
+      "to": {
+        "uri": null,
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Children"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-23/pq_123",
+      "house": {
+        "houseCode": "dail",
+        "committeeCode": "",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "date": "2026-04-23",
+      "showAs": " 123. Deputy Mark Wall asked the Minister for Children, Disability and Equality if she has identified sites for the Government’s pilot for public childcare facilities, and if she has considered Kildare South, given the urgent lack of childcare places available.  [28589/26] "
+    },
+    "contextDate": "2026-04-23"
+  },
+  {
+    "question": {
+      "questionNumber": 124,
       "debateSection": {
+        "debateSectionId": "dbsect_23",
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-23/debate/dbsect_23",
         "showAs": "Childcare Services",
-        "debateSectionId": "dbsect_23",
         "formats": {
-          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-23/debate/mul@/dbsect_23.xml"
-          }
+          },
+          "pdf": null
         }
-      },
-      "date": "2026-04-23",
-      "questionNumber": 124
-    }
-  },
-  {
-    "contextDate": "2026-04-23",
-    "question": {
-      "to": {
-        "uri": null,
-        "roleCode": null,
-        "roleType": null,
-        "showAs": "Children"
-      },
-      "house": {
-        "committeeCode": "",
-        "chamberType": "house",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseNo": "34",
-        "houseCode": "dail",
-        "showAs": "34th Dáil"
       },
       "questionType": "oral",
       "by": {
-        "memberCode": "Claire-Kerrane.D.2020-02-08",
-        "showAs": "Claire Kerrane",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Claire-Kerrane.D.2020-02-08"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Aisling-Dempsey.D.2024-11-29",
+        "memberCode": "Aisling-Dempsey.D.2024-11-29",
+        "showAs": "Aisling Dempsey"
       },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-23/pq_127",
-      "showAs": " 127. Deputy Claire Kerrane asked the Minister for Children, Disability and Equality the number of applications made to the mother and baby institutions payment scheme to date in 2026; the number processed; and if she will make a statement on the matter. [28748/26] ",
+      "to": {
+        "uri": null,
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Children"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-23/pq_124",
+      "house": {
+        "houseCode": "dail",
+        "committeeCode": "",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "date": "2026-04-23",
+      "showAs": " 124. Deputy Aisling Dempsey asked the Minister for Children, Disability and Equality for an update on the building blocks grant. [29531/26] "
+    },
+    "contextDate": "2026-04-23"
+  },
+  {
+    "question": {
+      "questionNumber": 127,
       "debateSection": {
+        "debateSectionId": "dbsect_25",
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-23/debate/dbsect_25",
         "showAs": "Mother and Baby Homes",
-        "debateSectionId": "dbsect_25",
         "formats": {
-          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-23/debate/mul@/dbsect_25.xml"
-          }
+          },
+          "pdf": null
         }
-      },
-      "date": "2026-04-23",
-      "questionNumber": 127
-    }
-  },
-  {
-    "contextDate": "2026-04-23",
-    "question": {
-      "to": {
-        "uri": null,
-        "roleCode": null,
-        "roleType": null,
-        "showAs": "Children"
-      },
-      "house": {
-        "committeeCode": "",
-        "chamberType": "house",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseNo": "34",
-        "houseCode": "dail",
-        "showAs": "34th Dáil"
       },
       "questionType": "oral",
       "by": {
-        "memberCode": "Ruairí-Ó-Murchú.D.2020-02-08",
-        "showAs": "Ruairí Ó Murchú",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruairí-Ó-Murchú.D.2020-02-08"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Claire-Kerrane.D.2020-02-08",
+        "memberCode": "Claire-Kerrane.D.2020-02-08",
+        "showAs": "Claire Kerrane"
       },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-23/pq_128",
-      "showAs": " 128. Deputy Ruairí Ó Murchú asked the Minister for Children, Disability and Equality whether Tusla has completed any monitoring visits to hotels used to provide separated children seeking international protection, SCSIP, accommodation in 2026; and if she will make a statement on the matter. [28219/26] ",
+      "to": {
+        "uri": null,
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Children"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-23/pq_127",
+      "house": {
+        "houseCode": "dail",
+        "committeeCode": "",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "date": "2026-04-23",
+      "showAs": " 127. Deputy Claire Kerrane asked the Minister for Children, Disability and Equality the number of applications made to the mother and baby institutions payment scheme to date in 2026; the number processed; and if she will make a statement on the matter. [28748/26] "
+    },
+    "contextDate": "2026-04-23"
+  },
+  {
+    "question": {
+      "questionNumber": 128,
       "debateSection": {
+        "debateSectionId": "dbsect_26",
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-23/debate/dbsect_26",
         "showAs": "Child and Family Agency",
-        "debateSectionId": "dbsect_26",
         "formats": {
-          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-23/debate/mul@/dbsect_26.xml"
-          }
+          },
+          "pdf": null
         }
-      },
-      "date": "2026-04-23",
-      "questionNumber": 128
-    }
-  },
-  {
-    "contextDate": "2026-04-23",
-    "question": {
-      "to": {
-        "uri": null,
-        "roleCode": null,
-        "roleType": null,
-        "showAs": "Children"
-      },
-      "house": {
-        "committeeCode": "",
-        "chamberType": "house",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseNo": "34",
-        "houseCode": "dail",
-        "showAs": "34th Dáil"
       },
       "questionType": "oral",
       "by": {
-        "memberCode": "Paul-McAuliffe.D.2020-02-08",
-        "showAs": "Paul McAuliffe",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-McAuliffe.D.2020-02-08"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruairí-Ó-Murchú.D.2020-02-08",
+        "memberCode": "Ruairí-Ó-Murchú.D.2020-02-08",
+        "showAs": "Ruairí Ó Murchú"
       },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-23/pq_129",
-      "showAs": " 129. Deputy Paul McAuliffe asked the Minister for Children, Disability and Equality the progress to reduce the cost of childcare to €200 per month per child through the national childcare scheme, as set out in the programme for Government; and if she will make a statement on the matter.  [29145/26] ",
+      "to": {
+        "uri": null,
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Children"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-23/pq_128",
+      "house": {
+        "houseCode": "dail",
+        "committeeCode": "",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "date": "2026-04-23",
+      "showAs": " 128. Deputy Ruairí Ó Murchú asked the Minister for Children, Disability and Equality whether Tusla has completed any monitoring visits to hotels used to provide separated children seeking international protection, SCSIP, accommodation in 2026; and if she will make a statement on the matter. [28219/26] "
+    },
+    "contextDate": "2026-04-23"
+  },
+  {
+    "question": {
+      "questionNumber": 129,
       "debateSection": {
+        "debateSectionId": "dbsect_27",
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-23/debate/dbsect_27",
         "showAs": "Childcare Services",
-        "debateSectionId": "dbsect_27",
         "formats": {
-          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-23/debate/mul@/dbsect_27.xml"
-          }
+          },
+          "pdf": null
         }
-      },
-      "date": "2026-04-23",
-      "questionNumber": 129
-    }
-  },
-  {
-    "contextDate": "2026-04-23",
-    "question": {
-      "to": {
-        "uri": null,
-        "roleCode": null,
-        "roleType": null,
-        "showAs": "Children"
-      },
-      "house": {
-        "committeeCode": "",
-        "chamberType": "house",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseNo": "34",
-        "houseCode": "dail",
-        "showAs": "34th Dáil"
       },
       "questionType": "oral",
       "by": {
-        "memberCode": "Richard-Boyd-Barrett.D.2011-03-09",
-        "showAs": "Richard Boyd Barrett",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Richard-Boyd-Barrett.D.2011-03-09"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-McAuliffe.D.2020-02-08",
+        "memberCode": "Paul-McAuliffe.D.2020-02-08",
+        "showAs": "Paul McAuliffe"
       },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-23/pq_131",
-      "showAs": " 131. Deputy Richard Boyd Barrett asked the Minister for Children, Disability and Equality if she is considering additional funding for disability organisations, particularly those in the voluntary sector, to help them cope with increasing costs of operations; and if she will make a statement on the matter. [29004/26] ",
+      "to": {
+        "uri": null,
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Children"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-23/pq_129",
+      "house": {
+        "houseCode": "dail",
+        "committeeCode": "",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "date": "2026-04-23",
+      "showAs": " 129. Deputy Paul McAuliffe asked the Minister for Children, Disability and Equality the progress to reduce the cost of childcare to €200 per month per child through the national childcare scheme, as set out in the programme for Government; and if she will make a statement on the matter.  [29145/26] "
+    },
+    "contextDate": "2026-04-23"
+  },
+  {
+    "question": {
+      "questionNumber": 131,
       "debateSection": {
+        "debateSectionId": "dbsect_28",
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-23/debate/dbsect_28",
         "showAs": "Disability Services",
-        "debateSectionId": "dbsect_28",
         "formats": {
-          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-23/debate/mul@/dbsect_28.xml"
-          }
+          },
+          "pdf": null
         }
-      },
-      "date": "2026-04-23",
-      "questionNumber": 131
-    }
-  },
-  {
-    "contextDate": "2026-04-23",
-    "question": {
-      "to": {
-        "uri": null,
-        "roleCode": null,
-        "roleType": null,
-        "showAs": "Children"
-      },
-      "house": {
-        "committeeCode": "",
-        "chamberType": "house",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseNo": "34",
-        "houseCode": "dail",
-        "showAs": "34th Dáil"
       },
       "questionType": "oral",
       "by": {
-        "memberCode": "Claire-Kerrane.D.2020-02-08",
-        "showAs": "Claire Kerrane",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Claire-Kerrane.D.2020-02-08"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Richard-Boyd-Barrett.D.2011-03-09",
+        "memberCode": "Richard-Boyd-Barrett.D.2011-03-09",
+        "showAs": "Richard Boyd Barrett"
       },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-23/pq_134",
-      "showAs": " 134. Deputy Claire Kerrane asked the Minister for Children, Disability and Equality the steps being taken to open special care beds that are closed in the State; and if she will make a statement on the matter. [28749/26] ",
+      "to": {
+        "uri": null,
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Children"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-23/pq_131",
+      "house": {
+        "houseCode": "dail",
+        "committeeCode": "",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "date": "2026-04-23",
+      "showAs": " 131. Deputy Richard Boyd Barrett asked the Minister for Children, Disability and Equality if she is considering additional funding for disability organisations, particularly those in the voluntary sector, to help them cope with increasing costs of operations; and if she will make a statement on the matter. [29004/26] "
+    },
+    "contextDate": "2026-04-23"
+  },
+  {
+    "question": {
+      "questionNumber": 134,
       "debateSection": {
+        "debateSectionId": "dbsect_29",
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-23/debate/dbsect_29",
         "showAs": "Care Services",
-        "debateSectionId": "dbsect_29",
         "formats": {
-          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-23/debate/mul@/dbsect_29.xml"
-          }
+          },
+          "pdf": null
         }
-      },
-      "date": "2026-04-23",
-      "questionNumber": 134
-    }
-  },
-  {
-    "contextDate": "2026-04-23",
-    "question": {
-      "to": {
-        "uri": null,
-        "roleCode": null,
-        "roleType": null,
-        "showAs": "Children"
-      },
-      "house": {
-        "committeeCode": "",
-        "chamberType": "house",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseNo": "34",
-        "houseCode": "dail",
-        "showAs": "34th Dáil"
       },
       "questionType": "oral",
       "by": {
-        "memberCode": "Barry-Heneghan.D.2024-11-29",
-        "showAs": "Barry Heneghan",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Barry-Heneghan.D.2024-11-29"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Claire-Kerrane.D.2020-02-08",
+        "memberCode": "Claire-Kerrane.D.2020-02-08",
+        "showAs": "Claire Kerrane"
       },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-23/pq_137",
-      "showAs": " 137. Deputy Barry Heneghan asked the Minister for Children, Disability and Equality the measures being taken by her Department and the HSE to ensure continuity of care for young people with disabilities transitioning from child to adult services, particularly in CHO areas serving north Dublin; whether additional residential, respite and personal assistance capacity is planned; and if she will make a statement on the matter. [17676/26] ",
+      "to": {
+        "uri": null,
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Children"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-23/pq_134",
+      "house": {
+        "houseCode": "dail",
+        "committeeCode": "",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "date": "2026-04-23",
+      "showAs": " 134. Deputy Claire Kerrane asked the Minister for Children, Disability and Equality the steps being taken to open special care beds that are closed in the State; and if she will make a statement on the matter. [28749/26] "
+    },
+    "contextDate": "2026-04-23"
+  },
+  {
+    "question": {
+      "questionNumber": 137,
       "debateSection": {
+        "debateSectionId": "dbsect_31",
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-23/debate/dbsect_31",
         "showAs": "Disability Services",
-        "debateSectionId": "dbsect_31",
         "formats": {
-          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-23/debate/mul@/dbsect_31.xml"
-          }
+          },
+          "pdf": null
         }
-      },
-      "date": "2026-04-23",
-      "questionNumber": 137
-    }
-  },
-  {
-    "contextDate": "2026-04-23",
-    "question": {
-      "to": {
-        "uri": null,
-        "roleCode": null,
-        "roleType": null,
-        "showAs": "Children"
-      },
-      "house": {
-        "committeeCode": "",
-        "chamberType": "house",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseNo": "34",
-        "houseCode": "dail",
-        "showAs": "34th Dáil"
       },
       "questionType": "oral",
       "by": {
-        "memberCode": "Ruairí-Ó-Murchú.D.2020-02-08",
-        "showAs": "Ruairí Ó Murchú",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruairí-Ó-Murchú.D.2020-02-08"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Barry-Heneghan.D.2024-11-29",
+        "memberCode": "Barry-Heneghan.D.2024-11-29",
+        "showAs": "Barry Heneghan"
       },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-23/pq_145",
-      "showAs": " 145. Deputy Ruairí Ó Murchú asked the Minister for Children, Disability and Equality the reason the caseload management system at Tusla has been paused; the protocols in place to ensure that Tusla social workers are not overwhelmed by caseloads; and if she will make a statement on the matter. [28218/26] ",
-      "debateSection": {
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-23/debate/dbsect_30",
-        "showAs": "Child and Family Agency",
-        "debateSectionId": "dbsect_30",
-        "formats": {
-          "pdf": null,
-          "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-23/debate/mul@/dbsect_30.xml"
-          }
-        }
+      "to": {
+        "uri": null,
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Children"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-23/pq_137",
+      "house": {
+        "houseCode": "dail",
+        "committeeCode": "",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
       },
       "date": "2026-04-23",
-      "questionNumber": 145
-    }
+      "showAs": " 137. Deputy Barry Heneghan asked the Minister for Children, Disability and Equality the measures being taken by her Department and the HSE to ensure continuity of care for young people with disabilities transitioning from child to adult services, particularly in CHO areas serving north Dublin; whether additional residential, respite and personal assistance capacity is planned; and if she will make a statement on the matter. [17676/26] "
+    },
+    "contextDate": "2026-04-23"
+  },
+  {
+    "question": {
+      "questionNumber": 145,
+      "debateSection": {
+        "debateSectionId": "dbsect_30",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-23/debate/dbsect_30",
+        "showAs": "Child and Family Agency",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-23/debate/mul@/dbsect_30.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruairí-Ó-Murchú.D.2020-02-08",
+        "memberCode": "Ruairí-Ó-Murchú.D.2020-02-08",
+        "showAs": "Ruairí Ó Murchú"
+      },
+      "to": {
+        "uri": null,
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Children"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-23/pq_145",
+      "house": {
+        "houseCode": "dail",
+        "committeeCode": "",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "date": "2026-04-23",
+      "showAs": " 145. Deputy Ruairí Ó Murchú asked the Minister for Children, Disability and Equality the reason the caseload management system at Tusla has been paused; the protocols in place to ensure that Tusla social workers are not overwhelmed by caseloads; and if she will make a statement on the matter. [28218/26] "
+    },
+    "contextDate": "2026-04-23"
+  },
+  {
+    "question": {
+      "questionNumber": 211,
+      "debateSection": {
+        "debateSectionId": "dbsect_50",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-23/debate/dbsect_50",
+        "showAs": "Student Accommodation",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-23/debate/mul@/dbsect_50.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Eoghan-Kenny.D.2024-11-29",
+        "memberCode": "Eoghan-Kenny.D.2024-11-29",
+        "showAs": "Eoghan Kenny"
+      },
+      "to": {
+        "uri": null,
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Further and Higher Education"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-23/pq_211",
+      "house": {
+        "houseCode": "dail",
+        "committeeCode": "",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "date": "2026-04-23",
+      "showAs": " 211. Deputy Eoghan Kenny asked the Minister for Further and Higher Education, Research, Innovation and Science the number of purpose-built student accommodation beds that will be available in the State for the coming academic year; the amount that this has grown on the previous academic year; and if he will make a statement on the matter. [22017/26] "
+    },
+    "contextDate": "2026-04-23"
+  },
+  {
+    "question": {
+      "questionNumber": 217,
+      "debateSection": {
+        "debateSectionId": "dbsect_55",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-23/debate/dbsect_55",
+        "showAs": "Education and Training Boards",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-23/debate/mul@/dbsect_55.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Mairéad-Farrell.D.2020-02-08",
+        "memberCode": "Mairéad-Farrell.D.2020-02-08",
+        "showAs": "Mairéad Farrell"
+      },
+      "to": {
+        "uri": null,
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Further and Higher Education"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-23/pq_217",
+      "house": {
+        "houseCode": "dail",
+        "committeeCode": "",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "date": "2026-04-23",
+      "showAs": " 217. Deputy Mairéad Farrell asked the Minister for Further and Higher Education, Research, Innovation and Science to provide an update on funding cuts to the Galway and Roscommon Education and Training Board; and if he will make a statement on the matter. [29090/26] "
+    },
+    "contextDate": "2026-04-23"
+  },
+  {
+    "question": {
+      "questionNumber": 219,
+      "debateSection": {
+        "debateSectionId": "dbsect_56",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-23/debate/dbsect_56",
+        "showAs": "Proposed Legislation",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-23/debate/mul@/dbsect_56.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Richard-Boyd-Barrett.D.2011-03-09",
+        "memberCode": "Richard-Boyd-Barrett.D.2011-03-09",
+        "showAs": "Richard Boyd Barrett"
+      },
+      "to": {
+        "uri": null,
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Further and Higher Education"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-23/pq_219",
+      "house": {
+        "houseCode": "dail",
+        "committeeCode": "",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "date": "2026-04-23",
+      "showAs": " 219. Deputy Richard Boyd Barrett asked the Minister for Further and Higher Education, Research, Innovation and Science the current status of the draft legislation to amend the Technological Universities Act 2018 to facilitate a partnership between Dundalk Institute of Technology and Queen’s University Belfast; the timeline for when a draft Bill will be presented; if IADT is the only other remaining institute of technology, being actively considered within the scope of any proposed legislative amendments to the Act; if any proposed amendments will also provide a pathway for IADT to achieve university designation within the technological university sector; and if he will make a statement on the matter. [29169/26] "
+    },
+    "contextDate": "2026-04-23"
+  },
+  {
+    "question": {
+      "questionNumber": 220,
+      "debateSection": {
+        "debateSectionId": "dbsect_52",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-23/debate/dbsect_52",
+        "showAs": "Third Level Education",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-23/debate/mul@/dbsect_52.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruairí-Ó-Murchú.D.2020-02-08",
+        "memberCode": "Ruairí-Ó-Murchú.D.2020-02-08",
+        "showAs": "Ruairí Ó Murchú"
+      },
+      "to": {
+        "uri": null,
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Further and Higher Education"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-23/pq_220",
+      "house": {
+        "houseCode": "dail",
+        "committeeCode": "",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "date": "2026-04-23",
+      "showAs": " 220. Deputy Ruairí Ó Murchú asked the Minister for Further and Higher Education, Research, Innovation and Science the position regarding the engagement there has been with his Department, Dundalk IT and Queen’s University Belfast in relation to their partnership to create Dundalk university college; the work being carried out by his Department to resolve cross-Border further and higher education issues and the anomalies caused by the CAO-UCAS systems; and if he will make a statement on the matter. [22073/26] "
+    },
+    "contextDate": "2026-04-23"
+  },
+  {
+    "question": {
+      "questionNumber": 221,
+      "debateSection": {
+        "debateSectionId": "dbsect_57",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-23/debate/dbsect_57",
+        "showAs": "Third Level Fees",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-23/debate/mul@/dbsect_57.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Naoise-Ó-Cearúil.D.2024-11-29",
+        "memberCode": "Naoise-Ó-Cearúil.D.2024-11-29",
+        "showAs": "Naoise Ó Cearúil"
+      },
+      "to": {
+        "uri": null,
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Further and Higher Education"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-23/pq_221",
+      "house": {
+        "houseCode": "dail",
+        "committeeCode": "",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "date": "2026-04-23",
+      "showAs": " 221. Deputy Naoise Ó Cearúil asked the Minister for Further and Higher Education, Research, Innovation and Science if supports or grants are available for Irish students undertaking specialist artistic third level training abroad that is not available in Ireland; and if he will make a statement on the matter. [21628/26] "
+    },
+    "contextDate": "2026-04-23"
+  },
+  {
+    "question": {
+      "questionNumber": 222,
+      "debateSection": {
+        "debateSectionId": "dbsect_58",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-23/debate/dbsect_58",
+        "showAs": "Oideachas trí Ghaeilge",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-23/debate/mul@/dbsect_58.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Shane-Moynihan.D.2024-11-29",
+        "memberCode": "Shane-Moynihan.D.2024-11-29",
+        "showAs": "Shane Moynihan"
+      },
+      "to": {
+        "uri": null,
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Further and Higher Education"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-23/pq_222",
+      "house": {
+        "houseCode": "dail",
+        "committeeCode": "",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "date": "2026-04-23",
+      "showAs": " 222. Deputy Shane Moynihan asked the Minister for Further and Higher Education, Research, Innovation and Science the steps his Department is taking to support and encourage the provision of adult and community education programmes through the medium of Irish; and if he will make a statement on the matter. [22067/26] "
+    },
+    "contextDate": "2026-04-23"
+  },
+  {
+    "question": {
+      "questionNumber": 223,
+      "debateSection": {
+        "debateSectionId": "dbsect_49",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-23/debate/dbsect_49",
+        "showAs": "Oideachas Tríú Leibhéal",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-23/debate/mul@/dbsect_49.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Aengus-Ó-Snodaigh.D.2002-06-06",
+        "memberCode": "Aengus-Ó-Snodaigh.D.2002-06-06",
+        "showAs": "Aengus Ó Snodaigh"
+      },
+      "to": {
+        "uri": null,
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Further and Higher Education"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-23/pq_223",
+      "house": {
+        "houseCode": "dail",
+        "committeeCode": "",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "date": "2026-04-23",
+      "showAs": " 223. D'fhiafraigh Deputy Aengus Ó Snodaigh den Minister for Further and Higher Education, Research, Innovation and Science an bhfuil sé i gceist aige aon mhaoiniú ar leith a chur ar fáil chun tacú le hinstitiúidí tríú leibhéal cúrsaí a sholáthar trí mheán na Gaeilge; ar phléigh sé riamh an gá atá le breis cúrsaí trí Ghaeilge chun an sprioc 20% earcaíochta faoi Acht na dTeangacha Oifigiúla (Leasú), 2021 a bhaint amach leis an Aire Forbartha Tuaithe agus Pobail, agus Gaeltachta, leis an Aire Caiteachais Phoiblí, Bonneagair, Athchóiriúcháin Seirbhíse Poiblí agus Digitiúcháin, leis an Údarás Ardoideachais nó leis na hinstitiúidí tríú leibhéal; agus an mbeidh sé sásta labhairt leo mura pléadh go fóill é. [22074/26] "
+    },
+    "contextDate": "2026-04-23"
+  },
+  {
+    "question": {
+      "questionNumber": 228,
+      "debateSection": {
+        "debateSectionId": "dbsect_53",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-23/debate/dbsect_53",
+        "showAs": "Apprenticeship Programmes",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-23/debate/mul@/dbsect_53.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Eoghan-Kenny.D.2024-11-29",
+        "memberCode": "Eoghan-Kenny.D.2024-11-29",
+        "showAs": "Eoghan Kenny"
+      },
+      "to": {
+        "uri": null,
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Further and Higher Education"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-23/pq_228",
+      "house": {
+        "houseCode": "dail",
+        "committeeCode": "",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "date": "2026-04-23",
+      "showAs": " 228. Deputy Eoghan Kenny asked the Minister for Further and Higher Education, Research, Innovation and Science the number of apprenticeships the State has taken on each year from 2020 onwards; and if he will make a statement on the matter. [22012/26] "
+    },
+    "contextDate": "2026-04-23"
+  },
+  {
+    "question": {
+      "questionNumber": 229,
+      "debateSection": {
+        "debateSectionId": "dbsect_54",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-23/debate/dbsect_54",
+        "showAs": "Earcaíocht agus Soláthar Foirne Tríú Leibhéal",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-23/debate/mul@/dbsect_54.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Aengus-Ó-Snodaigh.D.2002-06-06",
+        "memberCode": "Aengus-Ó-Snodaigh.D.2002-06-06",
+        "showAs": "Aengus Ó Snodaigh"
+      },
+      "to": {
+        "uri": null,
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Further and Higher Education"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-23/pq_229",
+      "house": {
+        "houseCode": "dail",
+        "committeeCode": "",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "date": "2026-04-23",
+      "showAs": " 229. D'fhiafraigh Deputy Aengus Ó Snodaigh den Minister for Further and Higher Education, Research, Innovation and Science an bhfuil sé ar an eolas faoin imní atá léirithe nach mbeidh inniúlacht sa Ghaeilge anois ag Uachtarán, Meabhránaí ná Rúnaí Ollscoil na Gaillimhe nó ag an Déan Feidhmiúil atá freagrach as an nGaeilge san ollscoil ar a bhfuil dualgais ar leith maidir leis an nGaeilge agus freagracht as Acadamh na hOllscolaíochta Gaeilge; an aithníonn sé go bhfuil ísliú stádais tugtha don Ghaeilge san ollscoil le roinnt blianta anuas; agus an bhfuil sé i gceist aige aon ghníomh a ghlacadh chun stádas na Gaeilge a threisiú san ollscoil ar nós Bille an Choláiste Ollscoile, Gaillimh (Leasú), 2017 a chur i bhfeidhm. [22075/26] "
+    },
+    "contextDate": "2026-04-23"
+  },
+  {
+    "question": {
+      "questionNumber": 241,
+      "debateSection": {
+        "debateSectionId": "dbsect_59",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-23/debate/dbsect_59",
+        "showAs": "Third Level Education",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-23/debate/mul@/dbsect_59.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Eoghan-Kenny.D.2024-11-29",
+        "memberCode": "Eoghan-Kenny.D.2024-11-29",
+        "showAs": "Eoghan Kenny"
+      },
+      "to": {
+        "uri": null,
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Further and Higher Education"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-23/pq_241",
+      "house": {
+        "houseCode": "dail",
+        "committeeCode": "",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "date": "2026-04-23",
+      "showAs": " 241. Deputy Eoghan Kenny asked the Minister for Further and Higher Education, Research, Innovation and Science the level of demand for specific courses particularly in health services, inclusive of medicine, nursing and dentistry; the number of applicants who apply for a particular course that will be granted a place on the course; and if he will make a statement on the matter. [22015/26] "
+    },
+    "contextDate": "2026-04-23"
+  },
+  {
+    "question": {
+      "questionNumber": 251,
+      "debateSection": {
+        "debateSectionId": "dbsect_60",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-23/debate/dbsect_60",
+        "showAs": "Employment Rights",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-23/debate/mul@/dbsect_60.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruairí-Ó-Murchú.D.2020-02-08",
+        "memberCode": "Ruairí-Ó-Murchú.D.2020-02-08",
+        "showAs": "Ruairí Ó Murchú"
+      },
+      "to": {
+        "uri": null,
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Further and Higher Education"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-23/pq_251",
+      "house": {
+        "houseCode": "dail",
+        "committeeCode": "",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "date": "2026-04-23",
+      "showAs": " 251. Deputy Ruairí Ó Murchú asked the Minister for Further and Higher Education, Research, Innovation and Science the progress made to resolve employment issues of personal assistants who work in some education and training boards and further and higher education centres; the timeline for when the issue is expected to be resolved; and if he will make a statement on the matter.  [22072/26] "
+    },
+    "contextDate": "2026-04-23"
+  },
+  {
+    "question": {
+      "questionNumber": 255,
+      "debateSection": {
+        "debateSectionId": "dbsect_61",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-23/debate/dbsect_61",
+        "showAs": "Further and Higher Education",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-23/debate/mul@/dbsect_61.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Richard-Boyd-Barrett.D.2011-03-09",
+        "memberCode": "Richard-Boyd-Barrett.D.2011-03-09",
+        "showAs": "Richard Boyd Barrett"
+      },
+      "to": {
+        "uri": null,
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Further and Higher Education"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-23/pq_255",
+      "house": {
+        "houseCode": "dail",
+        "committeeCode": "",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "date": "2026-04-23",
+      "showAs": " 255. Deputy Richard Boyd Barrett asked the Minister for Further and Higher Education, Research, Innovation and Science to restore funding for the postgraduate and graduate scholarship scheme; and if he will make a statement on the matter. [29176/26] "
+    },
+    "contextDate": "2026-04-23"
+  },
+  {
+    "question": {
+      "questionNumber": 259,
+      "debateSection": {
+        "debateSectionId": "dbsect_62",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-23/debate/dbsect_62",
+        "showAs": "Community Training Centres",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-23/debate/mul@/dbsect_62.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Jen-Cummins.D.2024-11-29",
+        "memberCode": "Jen-Cummins.D.2024-11-29",
+        "showAs": "Jen Cummins"
+      },
+      "to": {
+        "uri": null,
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Further and Higher Education"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-23/pq_259",
+      "house": {
+        "houseCode": "dail",
+        "committeeCode": "",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "date": "2026-04-23",
+      "showAs": " 259. Deputy Jen Cummins asked the Minister for Further and Higher Education, Research, Innovation and Science the position regarding the pay negotiations of community training centre staff; and if he will make a statement on the matter. [19513/26] "
+    },
+    "contextDate": "2026-04-23"
+  },
+  {
+    "question": {
+      "questionNumber": 269,
+      "debateSection": {
+        "debateSectionId": "dbsect_63",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-23/debate/dbsect_63",
+        "showAs": "Further and Higher Education",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-23/debate/mul@/dbsect_63.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Shane-Moynihan.D.2024-11-29",
+        "memberCode": "Shane-Moynihan.D.2024-11-29",
+        "showAs": "Shane Moynihan"
+      },
+      "to": {
+        "uri": null,
+        "roleType": null,
+        "roleCode": null,
+        "showAs": "Further and Higher Education"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-23/pq_269",
+      "house": {
+        "houseCode": "dail",
+        "committeeCode": "",
+        "houseNo": "34",
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "date": "2026-04-23",
+      "showAs": " 269. Deputy Shane Moynihan asked the Minister for Further and Higher Education, Research, Innovation and Science the position regarding his plans to bring Marino Institute of Education under the remit of his Department rather than the Department of education; the timeline envisaged for any such change; and if he will make a statement on the matter. [22066/26] "
+    },
+    "contextDate": "2026-04-23"
   }
 ]

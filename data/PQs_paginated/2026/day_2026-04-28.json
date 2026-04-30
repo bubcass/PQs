@@ -1,52 +1,23 @@
 [
   {
-    "contextDate": "2026-04-28",
     "question": {
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-28/pq_1",
-      "date": "2026-04-28",
-      "questionNumber": 1,
-      "debateSection": {
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-28/debate/dbsect_16",
-        "showAs": "Taoiseach's Meetings and Engagements",
-        "formats": {
-          "pdf": null,
-          "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-28/debate/mul@/dbsect_16.xml"
-          }
-        },
-        "debateSectionId": "dbsect_16"
-      },
-      "to": {
-        "roleType": null,
-        "uri": null,
-        "showAs": "Taoiseach",
-        "roleCode": null
-      },
-      "house": {
-        "committeeCode": "",
-        "houseCode": "dail",
-        "chamberType": "house",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "showAs": "34th Dáil",
-        "houseNo": "34"
-      },
-      "showAs": " 1. Deputy Richard Boyd Barrett asked the Taoiseach if he will report on his attendance at the annual World Economic Forum meeting in Davos. [6014/26] ",
       "by": {
         "memberCode": "Richard-Boyd-Barrett.D.2011-03-09",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Richard-Boyd-Barrett.D.2011-03-09",
-        "showAs": "Richard Boyd Barrett"
+        "showAs": "Richard Boyd Barrett",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Richard-Boyd-Barrett.D.2011-03-09"
       },
-      "questionType": "oral"
-    }
-  },
-  {
-    "contextDate": "2026-04-28",
-    "question": {
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-28/pq_2",
+      "questionType": "oral",
+      "to": {
+        "showAs": "Taoiseach",
+        "roleType": null,
+        "roleCode": null,
+        "uri": null
+      },
+      "questionNumber": 1,
+      "showAs": " 1. Deputy Richard Boyd Barrett asked the Taoiseach if he will report on his attendance at the annual World Economic Forum meeting in Davos. [6014/26] ",
       "date": "2026-04-28",
-      "questionNumber": 2,
       "debateSection": {
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-28/debate/dbsect_16",
+        "debateSectionId": "dbsect_16",
         "showAs": "Taoiseach's Meetings and Engagements",
         "formats": {
           "pdf": null,
@@ -54,39 +25,39 @@
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-28/debate/mul@/dbsect_16.xml"
           }
         },
-        "debateSectionId": "dbsect_16"
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-28/debate/dbsect_16"
       },
-      "to": {
-        "roleType": null,
-        "uri": null,
-        "showAs": "Taoiseach",
-        "roleCode": null
-      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-28/pq_1",
       "house": {
         "committeeCode": "",
-        "houseCode": "dail",
-        "chamberType": "house",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
         "showAs": "34th Dáil",
+        "chamberType": "house",
+        "houseCode": "dail",
         "houseNo": "34"
-      },
-      "showAs": " 2. Deputy Paul Murphy asked the Taoiseach if he will report on his attendance at the annual World Economic Forum meeting in Davos. [6017/26] ",
+      }
+    },
+    "contextDate": "2026-04-28"
+  },
+  {
+    "question": {
       "by": {
         "memberCode": "Paul-Murphy.D.2014-10-10",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Murphy.D.2014-10-10",
-        "showAs": "Paul Murphy"
+        "showAs": "Paul Murphy",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Murphy.D.2014-10-10"
       },
-      "questionType": "oral"
-    }
-  },
-  {
-    "contextDate": "2026-04-28",
-    "question": {
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-28/pq_3",
+      "questionType": "oral",
+      "to": {
+        "showAs": "Taoiseach",
+        "roleType": null,
+        "roleCode": null,
+        "uri": null
+      },
+      "questionNumber": 2,
+      "showAs": " 2. Deputy Paul Murphy asked the Taoiseach if he will report on his attendance at the annual World Economic Forum meeting in Davos. [6017/26] ",
       "date": "2026-04-28",
-      "questionNumber": 3,
       "debateSection": {
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-28/debate/dbsect_16",
+        "debateSectionId": "dbsect_16",
         "showAs": "Taoiseach's Meetings and Engagements",
         "formats": {
           "pdf": null,
@@ -94,39 +65,39 @@
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-28/debate/mul@/dbsect_16.xml"
           }
         },
-        "debateSectionId": "dbsect_16"
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-28/debate/dbsect_16"
       },
-      "to": {
-        "roleType": null,
-        "uri": null,
-        "showAs": "Taoiseach",
-        "roleCode": null
-      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-28/pq_2",
       "house": {
         "committeeCode": "",
-        "houseCode": "dail",
-        "chamberType": "house",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
         "showAs": "34th Dáil",
+        "chamberType": "house",
+        "houseCode": "dail",
         "houseNo": "34"
-      },
-      "showAs": " 3. Deputy Naoise Ó Cearúil asked the Taoiseach if he will report on his attendance at the World Economic Forum in Davos. [16730/26] ",
+      }
+    },
+    "contextDate": "2026-04-28"
+  },
+  {
+    "question": {
       "by": {
         "memberCode": "Naoise-Ó-Cearúil.D.2024-11-29",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Naoise-Ó-Cearúil.D.2024-11-29",
-        "showAs": "Naoise Ó Cearúil"
+        "showAs": "Naoise Ó Cearúil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Naoise-Ó-Cearúil.D.2024-11-29"
       },
-      "questionType": "oral"
-    }
-  },
-  {
-    "contextDate": "2026-04-28",
-    "question": {
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-28/pq_4",
+      "questionType": "oral",
+      "to": {
+        "showAs": "Taoiseach",
+        "roleType": null,
+        "roleCode": null,
+        "uri": null
+      },
+      "questionNumber": 3,
+      "showAs": " 3. Deputy Naoise Ó Cearúil asked the Taoiseach if he will report on his attendance at the World Economic Forum in Davos. [16730/26] ",
       "date": "2026-04-28",
-      "questionNumber": 4,
       "debateSection": {
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-28/debate/dbsect_16",
+        "debateSectionId": "dbsect_16",
         "showAs": "Taoiseach's Meetings and Engagements",
         "formats": {
           "pdf": null,
@@ -134,39 +105,39 @@
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-28/debate/mul@/dbsect_16.xml"
           }
         },
-        "debateSectionId": "dbsect_16"
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-28/debate/dbsect_16"
       },
-      "to": {
-        "roleType": null,
-        "uri": null,
-        "showAs": "Taoiseach",
-        "roleCode": null
-      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-28/pq_3",
       "house": {
         "committeeCode": "",
-        "houseCode": "dail",
-        "chamberType": "house",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
         "showAs": "34th Dáil",
+        "chamberType": "house",
+        "houseCode": "dail",
         "houseNo": "34"
-      },
-      "showAs": " 4. Deputy Malcolm Byrne asked the Taoiseach if he will report on his attendance at the World Economic Forum in Davos. [16731/26] ",
+      }
+    },
+    "contextDate": "2026-04-28"
+  },
+  {
+    "question": {
       "by": {
         "memberCode": "Malcolm-Byrne.D.2019-11-29",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Malcolm-Byrne.D.2019-11-29",
-        "showAs": "Malcolm Byrne"
+        "showAs": "Malcolm Byrne",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Malcolm-Byrne.D.2019-11-29"
       },
-      "questionType": "oral"
-    }
-  },
-  {
-    "contextDate": "2026-04-28",
-    "question": {
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-28/pq_5",
+      "questionType": "oral",
+      "to": {
+        "showAs": "Taoiseach",
+        "roleType": null,
+        "roleCode": null,
+        "uri": null
+      },
+      "questionNumber": 4,
+      "showAs": " 4. Deputy Malcolm Byrne asked the Taoiseach if he will report on his attendance at the World Economic Forum in Davos. [16731/26] ",
       "date": "2026-04-28",
-      "questionNumber": 5,
       "debateSection": {
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-28/debate/dbsect_16",
+        "debateSectionId": "dbsect_16",
         "showAs": "Taoiseach's Meetings and Engagements",
         "formats": {
           "pdf": null,
@@ -174,39 +145,39 @@
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-28/debate/mul@/dbsect_16.xml"
           }
         },
-        "debateSectionId": "dbsect_16"
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-28/debate/dbsect_16"
       },
-      "to": {
-        "roleType": null,
-        "uri": null,
-        "showAs": "Taoiseach",
-        "roleCode": null
-      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-28/pq_4",
       "house": {
         "committeeCode": "",
-        "houseCode": "dail",
-        "chamberType": "house",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
         "showAs": "34th Dáil",
+        "chamberType": "house",
+        "houseCode": "dail",
         "houseNo": "34"
-      },
-      "showAs": " 5. Deputy Tony McCormack asked the Taoiseach if he will report on his attendance at the World Economic Forum in Davos. [16732/26] ",
+      }
+    },
+    "contextDate": "2026-04-28"
+  },
+  {
+    "question": {
       "by": {
         "memberCode": "Tony-McCormack.D.2024-11-29",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tony-McCormack.D.2024-11-29",
-        "showAs": "Tony McCormack"
+        "showAs": "Tony McCormack",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tony-McCormack.D.2024-11-29"
       },
-      "questionType": "oral"
-    }
-  },
-  {
-    "contextDate": "2026-04-28",
-    "question": {
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-28/pq_6",
+      "questionType": "oral",
+      "to": {
+        "showAs": "Taoiseach",
+        "roleType": null,
+        "roleCode": null,
+        "uri": null
+      },
+      "questionNumber": 5,
+      "showAs": " 5. Deputy Tony McCormack asked the Taoiseach if he will report on his attendance at the World Economic Forum in Davos. [16732/26] ",
       "date": "2026-04-28",
-      "questionNumber": 6,
       "debateSection": {
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-28/debate/dbsect_16",
+        "debateSectionId": "dbsect_16",
         "showAs": "Taoiseach's Meetings and Engagements",
         "formats": {
           "pdf": null,
@@ -214,39 +185,39 @@
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-28/debate/mul@/dbsect_16.xml"
           }
         },
-        "debateSectionId": "dbsect_16"
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-28/debate/dbsect_16"
       },
-      "to": {
-        "roleType": null,
-        "uri": null,
-        "showAs": "Taoiseach",
-        "roleCode": null
-      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-28/pq_5",
       "house": {
         "committeeCode": "",
-        "houseCode": "dail",
-        "chamberType": "house",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
         "showAs": "34th Dáil",
+        "chamberType": "house",
+        "houseCode": "dail",
         "houseNo": "34"
-      },
-      "showAs": " 6. Deputy Shay Brennan asked the Taoiseach if he will report on his attendance at the World Economic Forum in Davos. [16733/26] ",
+      }
+    },
+    "contextDate": "2026-04-28"
+  },
+  {
+    "question": {
       "by": {
         "memberCode": "Shay-Brennan.D.2024-11-29",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Shay-Brennan.D.2024-11-29",
-        "showAs": "Shay Brennan"
+        "showAs": "Shay Brennan",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Shay-Brennan.D.2024-11-29"
       },
-      "questionType": "oral"
-    }
-  },
-  {
-    "contextDate": "2026-04-28",
-    "question": {
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-28/pq_7",
+      "questionType": "oral",
+      "to": {
+        "showAs": "Taoiseach",
+        "roleType": null,
+        "roleCode": null,
+        "uri": null
+      },
+      "questionNumber": 6,
+      "showAs": " 6. Deputy Shay Brennan asked the Taoiseach if he will report on his attendance at the World Economic Forum in Davos. [16733/26] ",
       "date": "2026-04-28",
-      "questionNumber": 7,
       "debateSection": {
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-28/debate/dbsect_16",
+        "debateSectionId": "dbsect_16",
         "showAs": "Taoiseach's Meetings and Engagements",
         "formats": {
           "pdf": null,
@@ -254,39 +225,39 @@
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-28/debate/mul@/dbsect_16.xml"
           }
         },
-        "debateSectionId": "dbsect_16"
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-28/debate/dbsect_16"
       },
-      "to": {
-        "roleType": null,
-        "uri": null,
-        "showAs": "Taoiseach",
-        "roleCode": null
-      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-28/pq_6",
       "house": {
         "committeeCode": "",
-        "houseCode": "dail",
-        "chamberType": "house",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
         "showAs": "34th Dáil",
+        "chamberType": "house",
+        "houseCode": "dail",
         "houseNo": "34"
-      },
-      "showAs": " 7. Deputy Ruth Coppinger asked the Taoiseach if he will report on his attendance at the annual World Economic Forum meeting in Davos. [28286/26] ",
+      }
+    },
+    "contextDate": "2026-04-28"
+  },
+  {
+    "question": {
       "by": {
         "memberCode": "Ruth-Coppinger.D.2014-05-23",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruth-Coppinger.D.2014-05-23",
-        "showAs": "Ruth Coppinger"
+        "showAs": "Ruth Coppinger",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruth-Coppinger.D.2014-05-23"
       },
-      "questionType": "oral"
-    }
-  },
-  {
-    "contextDate": "2026-04-28",
-    "question": {
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-28/pq_8",
+      "questionType": "oral",
+      "to": {
+        "showAs": "Taoiseach",
+        "roleType": null,
+        "roleCode": null,
+        "uri": null
+      },
+      "questionNumber": 7,
+      "showAs": " 7. Deputy Ruth Coppinger asked the Taoiseach if he will report on his attendance at the annual World Economic Forum meeting in Davos. [28286/26] ",
       "date": "2026-04-28",
-      "questionNumber": 8,
       "debateSection": {
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-28/debate/dbsect_16",
+        "debateSectionId": "dbsect_16",
         "showAs": "Taoiseach's Meetings and Engagements",
         "formats": {
           "pdf": null,
@@ -294,39 +265,39 @@
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-28/debate/mul@/dbsect_16.xml"
           }
         },
-        "debateSectionId": "dbsect_16"
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-28/debate/dbsect_16"
       },
-      "to": {
-        "roleType": null,
-        "uri": null,
-        "showAs": "Taoiseach",
-        "roleCode": null
-      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-28/pq_7",
       "house": {
         "committeeCode": "",
-        "houseCode": "dail",
-        "chamberType": "house",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
         "showAs": "34th Dáil",
+        "chamberType": "house",
+        "houseCode": "dail",
         "houseNo": "34"
-      },
-      "showAs": " 8. Deputy Jennifer Whitmore asked the Taoiseach if he will report on his attendance at the annual World Economic Forum meeting in Davos. [28396/26] ",
+      }
+    },
+    "contextDate": "2026-04-28"
+  },
+  {
+    "question": {
       "by": {
         "memberCode": "Jennifer-Whitmore.D.2020-02-08",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Jennifer-Whitmore.D.2020-02-08",
-        "showAs": "Jennifer Whitmore"
+        "showAs": "Jennifer Whitmore",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Jennifer-Whitmore.D.2020-02-08"
       },
-      "questionType": "oral"
-    }
-  },
-  {
-    "contextDate": "2026-04-28",
-    "question": {
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-28/pq_9",
+      "questionType": "oral",
+      "to": {
+        "showAs": "Taoiseach",
+        "roleType": null,
+        "roleCode": null,
+        "uri": null
+      },
+      "questionNumber": 8,
+      "showAs": " 8. Deputy Jennifer Whitmore asked the Taoiseach if he will report on his attendance at the annual World Economic Forum meeting in Davos. [28396/26] ",
       "date": "2026-04-28",
-      "questionNumber": 9,
       "debateSection": {
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-28/debate/dbsect_16",
+        "debateSectionId": "dbsect_16",
         "showAs": "Taoiseach's Meetings and Engagements",
         "formats": {
           "pdf": null,
@@ -334,39 +305,39 @@
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-28/debate/mul@/dbsect_16.xml"
           }
         },
-        "debateSectionId": "dbsect_16"
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-28/debate/dbsect_16"
       },
-      "to": {
-        "roleType": null,
-        "uri": null,
-        "showAs": "Taoiseach",
-        "roleCode": null
-      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-28/pq_8",
       "house": {
         "committeeCode": "",
-        "houseCode": "dail",
-        "chamberType": "house",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
         "showAs": "34th Dáil",
+        "chamberType": "house",
+        "houseCode": "dail",
         "houseNo": "34"
-      },
-      "showAs": " 9. Deputy John Connolly asked the Taoiseach if he will report on his attendance at the World Economic Forum in Davos. [29772/26] ",
+      }
+    },
+    "contextDate": "2026-04-28"
+  },
+  {
+    "question": {
       "by": {
         "memberCode": "John-Connolly.D.2024-11-29",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/John-Connolly.D.2024-11-29",
-        "showAs": "John Connolly"
+        "showAs": "John Connolly",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/John-Connolly.D.2024-11-29"
       },
-      "questionType": "oral"
-    }
-  },
-  {
-    "contextDate": "2026-04-28",
-    "question": {
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-28/pq_10",
+      "questionType": "oral",
+      "to": {
+        "showAs": "Taoiseach",
+        "roleType": null,
+        "roleCode": null,
+        "uri": null
+      },
+      "questionNumber": 9,
+      "showAs": " 9. Deputy John Connolly asked the Taoiseach if he will report on his attendance at the World Economic Forum in Davos. [29772/26] ",
       "date": "2026-04-28",
-      "questionNumber": 10,
       "debateSection": {
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-28/debate/dbsect_16",
+        "debateSectionId": "dbsect_16",
         "showAs": "Taoiseach's Meetings and Engagements",
         "formats": {
           "pdf": null,
@@ -374,39 +345,39 @@
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-28/debate/mul@/dbsect_16.xml"
           }
         },
-        "debateSectionId": "dbsect_16"
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-28/debate/dbsect_16"
       },
-      "to": {
-        "roleType": null,
-        "uri": null,
-        "showAs": "Taoiseach",
-        "roleCode": null
-      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-28/pq_9",
       "house": {
         "committeeCode": "",
-        "houseCode": "dail",
-        "chamberType": "house",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
         "showAs": "34th Dáil",
+        "chamberType": "house",
+        "houseCode": "dail",
         "houseNo": "34"
-      },
-      "showAs": " 10. Deputy Conor D. McGuinness asked the Taoiseach if he will report on his attendance at the annual World Economic Forum meeting in Davos. [30330/26] ",
+      }
+    },
+    "contextDate": "2026-04-28"
+  },
+  {
+    "question": {
       "by": {
         "memberCode": "Conor-D-McGuinness.D.2024-11-29",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Conor-D-McGuinness.D.2024-11-29",
-        "showAs": "Conor D McGuinness"
+        "showAs": "Conor D McGuinness",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Conor-D-McGuinness.D.2024-11-29"
       },
-      "questionType": "oral"
-    }
-  },
-  {
-    "contextDate": "2026-04-28",
-    "question": {
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-28/pq_11",
+      "questionType": "oral",
+      "to": {
+        "showAs": "Taoiseach",
+        "roleType": null,
+        "roleCode": null,
+        "uri": null
+      },
+      "questionNumber": 10,
+      "showAs": " 10. Deputy Conor D. McGuinness asked the Taoiseach if he will report on his attendance at the annual World Economic Forum meeting in Davos. [30330/26] ",
       "date": "2026-04-28",
-      "questionNumber": 11,
       "debateSection": {
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-28/debate/dbsect_16",
+        "debateSectionId": "dbsect_16",
         "showAs": "Taoiseach's Meetings and Engagements",
         "formats": {
           "pdf": null,
@@ -414,39 +385,39 @@
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-28/debate/mul@/dbsect_16.xml"
           }
         },
-        "debateSectionId": "dbsect_16"
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-28/debate/dbsect_16"
       },
-      "to": {
-        "roleType": null,
-        "uri": null,
-        "showAs": "Taoiseach",
-        "roleCode": null
-      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-28/pq_10",
       "house": {
         "committeeCode": "",
-        "houseCode": "dail",
-        "chamberType": "house",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
         "showAs": "34th Dáil",
+        "chamberType": "house",
+        "houseCode": "dail",
         "houseNo": "34"
-      },
-      "showAs": " 11. Deputy Jen Cummins asked the Taoiseach if he will report on his attendance at the annual World Economic Forum meeting in Davos. [30356/26] ",
+      }
+    },
+    "contextDate": "2026-04-28"
+  },
+  {
+    "question": {
       "by": {
         "memberCode": "Jen-Cummins.D.2024-11-29",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Jen-Cummins.D.2024-11-29",
-        "showAs": "Jen Cummins"
+        "showAs": "Jen Cummins",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Jen-Cummins.D.2024-11-29"
       },
-      "questionType": "oral"
-    }
-  },
-  {
-    "contextDate": "2026-04-28",
-    "question": {
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-28/pq_12",
+      "questionType": "oral",
+      "to": {
+        "showAs": "Taoiseach",
+        "roleType": null,
+        "roleCode": null,
+        "uri": null
+      },
+      "questionNumber": 11,
+      "showAs": " 11. Deputy Jen Cummins asked the Taoiseach if he will report on his attendance at the annual World Economic Forum meeting in Davos. [30356/26] ",
       "date": "2026-04-28",
-      "questionNumber": 12,
       "debateSection": {
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-28/debate/dbsect_16",
+        "debateSectionId": "dbsect_16",
         "showAs": "Taoiseach's Meetings and Engagements",
         "formats": {
           "pdf": null,
@@ -454,39 +425,39 @@
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-28/debate/mul@/dbsect_16.xml"
           }
         },
-        "debateSectionId": "dbsect_16"
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-28/debate/dbsect_16"
       },
-      "to": {
-        "roleType": null,
-        "uri": null,
-        "showAs": "Taoiseach",
-        "roleCode": null
-      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-28/pq_11",
       "house": {
         "committeeCode": "",
-        "houseCode": "dail",
-        "chamberType": "house",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
         "showAs": "34th Dáil",
+        "chamberType": "house",
+        "houseCode": "dail",
         "houseNo": "34"
-      },
-      "showAs": " 12. Deputy Roderic O'Gorman asked the Taoiseach if he will report on his attendance at the World Economic Forum in Davos. [30491/26] ",
+      }
+    },
+    "contextDate": "2026-04-28"
+  },
+  {
+    "question": {
       "by": {
         "memberCode": "Roderic-O'Gorman.D.2020-02-08",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Roderic-O'Gorman.D.2020-02-08",
-        "showAs": "Roderic O'Gorman"
+        "showAs": "Roderic O'Gorman",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Roderic-O'Gorman.D.2020-02-08"
       },
-      "questionType": "oral"
-    }
-  },
-  {
-    "contextDate": "2026-04-28",
-    "question": {
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-28/pq_13",
+      "questionType": "oral",
+      "to": {
+        "showAs": "Taoiseach",
+        "roleType": null,
+        "roleCode": null,
+        "uri": null
+      },
+      "questionNumber": 12,
+      "showAs": " 12. Deputy Roderic O'Gorman asked the Taoiseach if he will report on his attendance at the World Economic Forum in Davos. [30491/26] ",
       "date": "2026-04-28",
-      "questionNumber": 13,
       "debateSection": {
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-28/debate/dbsect_16",
+        "debateSectionId": "dbsect_16",
         "showAs": "Taoiseach's Meetings and Engagements",
         "formats": {
           "pdf": null,
@@ -494,79 +465,79 @@
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-28/debate/mul@/dbsect_16.xml"
           }
         },
-        "debateSectionId": "dbsect_16"
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-28/debate/dbsect_16"
       },
-      "to": {
-        "roleType": null,
-        "uri": null,
-        "showAs": "Taoiseach",
-        "roleCode": null
-      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-28/pq_12",
       "house": {
         "committeeCode": "",
-        "houseCode": "dail",
-        "chamberType": "house",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
         "showAs": "34th Dáil",
+        "chamberType": "house",
+        "houseCode": "dail",
         "houseNo": "34"
-      },
-      "showAs": " 13. Deputy Rose Conway-Walsh asked the Taoiseach if he will report on his attendance at the World Economic Forum in Davos. [30495/26] ",
-      "by": {
-        "memberCode": "Rose-Conway-Walsh.S.2016-04-25",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Rose-Conway-Walsh.S.2016-04-25",
-        "showAs": "Rose Conway-Walsh"
-      },
-      "questionType": "oral"
-    }
+      }
+    },
+    "contextDate": "2026-04-28"
   },
   {
-    "contextDate": "2026-04-28",
     "question": {
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-28/pq_14",
+      "by": {
+        "memberCode": "Rose-Conway-Walsh.S.2016-04-25",
+        "showAs": "Rose Conway-Walsh",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Rose-Conway-Walsh.S.2016-04-25"
+      },
+      "questionType": "oral",
+      "to": {
+        "showAs": "Taoiseach",
+        "roleType": null,
+        "roleCode": null,
+        "uri": null
+      },
+      "questionNumber": 13,
+      "showAs": " 13. Deputy Rose Conway-Walsh asked the Taoiseach if he will report on his attendance at the World Economic Forum in Davos. [30495/26] ",
       "date": "2026-04-28",
-      "questionNumber": 14,
       "debateSection": {
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-28/debate/dbsect_17",
-        "showAs": "Renewable Energy Generation",
+        "debateSectionId": "dbsect_16",
+        "showAs": "Taoiseach's Meetings and Engagements",
         "formats": {
           "pdf": null,
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-28/debate/mul@/dbsect_17.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-28/debate/mul@/dbsect_16.xml"
           }
         },
-        "debateSectionId": "dbsect_17"
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-28/debate/dbsect_16"
       },
-      "to": {
-        "roleType": null,
-        "uri": null,
-        "showAs": "Taoiseach",
-        "roleCode": null
-      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-28/pq_13",
       "house": {
         "committeeCode": "",
-        "houseCode": "dail",
-        "chamberType": "house",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
         "showAs": "34th Dáil",
+        "chamberType": "house",
+        "houseCode": "dail",
         "houseNo": "34"
-      },
-      "showAs": " 14. Deputy Cathal Crowe asked the Taoiseach to provide an update on the work of the Cabinet offshore energy clearing house. [7890/26] ",
+      }
+    },
+    "contextDate": "2026-04-28"
+  },
+  {
+    "question": {
       "by": {
         "memberCode": "Cathal-Crowe.D.2020-02-08",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Cathal-Crowe.D.2020-02-08",
-        "showAs": "Cathal Crowe"
+        "showAs": "Cathal Crowe",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Cathal-Crowe.D.2020-02-08"
       },
-      "questionType": "oral"
-    }
-  },
-  {
-    "contextDate": "2026-04-28",
-    "question": {
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-28/pq_15",
+      "questionType": "oral",
+      "to": {
+        "showAs": "Taoiseach",
+        "roleType": null,
+        "roleCode": null,
+        "uri": null
+      },
+      "questionNumber": 14,
+      "showAs": " 14. Deputy Cathal Crowe asked the Taoiseach to provide an update on the work of the Cabinet offshore energy clearing house. [7890/26] ",
       "date": "2026-04-28",
-      "questionNumber": 15,
       "debateSection": {
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-28/debate/dbsect_17",
+        "debateSectionId": "dbsect_17",
         "showAs": "Renewable Energy Generation",
         "formats": {
           "pdf": null,
@@ -574,39 +545,39 @@
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-28/debate/mul@/dbsect_17.xml"
           }
         },
-        "debateSectionId": "dbsect_17"
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-28/debate/dbsect_17"
       },
-      "to": {
-        "roleType": null,
-        "uri": null,
-        "showAs": "Taoiseach",
-        "roleCode": null
-      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-28/pq_14",
       "house": {
         "committeeCode": "",
-        "houseCode": "dail",
-        "chamberType": "house",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
         "showAs": "34th Dáil",
+        "chamberType": "house",
+        "houseCode": "dail",
         "houseNo": "34"
-      },
-      "showAs": " 15. Deputy Erin McGreehan asked the Taoiseach to provide an update on the work of the Cabinet offshore energy clearing house. [7891/26] ",
+      }
+    },
+    "contextDate": "2026-04-28"
+  },
+  {
+    "question": {
       "by": {
         "memberCode": "Erin-McGreehan.S.2020-06-29",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Erin-McGreehan.S.2020-06-29",
-        "showAs": "Erin McGreehan"
+        "showAs": "Erin McGreehan",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Erin-McGreehan.S.2020-06-29"
       },
-      "questionType": "oral"
-    }
-  },
-  {
-    "contextDate": "2026-04-28",
-    "question": {
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-28/pq_16",
+      "questionType": "oral",
+      "to": {
+        "showAs": "Taoiseach",
+        "roleType": null,
+        "roleCode": null,
+        "uri": null
+      },
+      "questionNumber": 15,
+      "showAs": " 15. Deputy Erin McGreehan asked the Taoiseach to provide an update on the work of the Cabinet offshore energy clearing house. [7891/26] ",
       "date": "2026-04-28",
-      "questionNumber": 16,
       "debateSection": {
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-28/debate/dbsect_17",
+        "debateSectionId": "dbsect_17",
         "showAs": "Renewable Energy Generation",
         "formats": {
           "pdf": null,
@@ -614,39 +585,39 @@
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-28/debate/mul@/dbsect_17.xml"
           }
         },
-        "debateSectionId": "dbsect_17"
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-28/debate/dbsect_17"
       },
-      "to": {
-        "roleType": null,
-        "uri": null,
-        "showAs": "Taoiseach",
-        "roleCode": null
-      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-28/pq_15",
       "house": {
         "committeeCode": "",
-        "houseCode": "dail",
-        "chamberType": "house",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
         "showAs": "34th Dáil",
+        "chamberType": "house",
+        "houseCode": "dail",
         "houseNo": "34"
-      },
-      "showAs": " 16. Deputy John Connolly asked the Taoiseach to provide an update on the work of the Cabinet offshore energy clearing house. [7909/26] ",
+      }
+    },
+    "contextDate": "2026-04-28"
+  },
+  {
+    "question": {
       "by": {
         "memberCode": "John-Connolly.D.2024-11-29",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/John-Connolly.D.2024-11-29",
-        "showAs": "John Connolly"
+        "showAs": "John Connolly",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/John-Connolly.D.2024-11-29"
       },
-      "questionType": "oral"
-    }
-  },
-  {
-    "contextDate": "2026-04-28",
-    "question": {
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-28/pq_17",
+      "questionType": "oral",
+      "to": {
+        "showAs": "Taoiseach",
+        "roleType": null,
+        "roleCode": null,
+        "uri": null
+      },
+      "questionNumber": 16,
+      "showAs": " 16. Deputy John Connolly asked the Taoiseach to provide an update on the work of the Cabinet offshore energy clearing house. [7909/26] ",
       "date": "2026-04-28",
-      "questionNumber": 17,
       "debateSection": {
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-28/debate/dbsect_17",
+        "debateSectionId": "dbsect_17",
         "showAs": "Renewable Energy Generation",
         "formats": {
           "pdf": null,
@@ -654,39 +625,39 @@
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-28/debate/mul@/dbsect_17.xml"
           }
         },
-        "debateSectionId": "dbsect_17"
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-28/debate/dbsect_17"
       },
-      "to": {
-        "roleType": null,
-        "uri": null,
-        "showAs": "Taoiseach",
-        "roleCode": null
-      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-28/pq_16",
       "house": {
         "committeeCode": "",
-        "houseCode": "dail",
-        "chamberType": "house",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
         "showAs": "34th Dáil",
+        "chamberType": "house",
+        "houseCode": "dail",
         "houseNo": "34"
-      },
-      "showAs": " 17. Deputy Malcolm Byrne asked the Taoiseach to provide an update on the work of the Cabinet offshore energy clearing house. [14278/26] ",
+      }
+    },
+    "contextDate": "2026-04-28"
+  },
+  {
+    "question": {
       "by": {
         "memberCode": "Malcolm-Byrne.D.2019-11-29",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Malcolm-Byrne.D.2019-11-29",
-        "showAs": "Malcolm Byrne"
+        "showAs": "Malcolm Byrne",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Malcolm-Byrne.D.2019-11-29"
       },
-      "questionType": "oral"
-    }
-  },
-  {
-    "contextDate": "2026-04-28",
-    "question": {
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-28/pq_18",
+      "questionType": "oral",
+      "to": {
+        "showAs": "Taoiseach",
+        "roleType": null,
+        "roleCode": null,
+        "uri": null
+      },
+      "questionNumber": 17,
+      "showAs": " 17. Deputy Malcolm Byrne asked the Taoiseach to provide an update on the work of the Cabinet offshore energy clearing house. [14278/26] ",
       "date": "2026-04-28",
-      "questionNumber": 18,
       "debateSection": {
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-28/debate/dbsect_17",
+        "debateSectionId": "dbsect_17",
         "showAs": "Renewable Energy Generation",
         "formats": {
           "pdf": null,
@@ -694,39 +665,39 @@
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-28/debate/mul@/dbsect_17.xml"
           }
         },
-        "debateSectionId": "dbsect_17"
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-28/debate/dbsect_17"
       },
-      "to": {
-        "roleType": null,
-        "uri": null,
-        "showAs": "Taoiseach",
-        "roleCode": null
-      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-28/pq_17",
       "house": {
         "committeeCode": "",
-        "houseCode": "dail",
-        "chamberType": "house",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
         "showAs": "34th Dáil",
+        "chamberType": "house",
+        "houseCode": "dail",
         "houseNo": "34"
-      },
-      "showAs": " 18. Deputy Jennifer Whitmore asked the Taoiseach to provide an update on the work of the Cabinet offshore energy clearing house. [28397/26] ",
+      }
+    },
+    "contextDate": "2026-04-28"
+  },
+  {
+    "question": {
       "by": {
         "memberCode": "Jennifer-Whitmore.D.2020-02-08",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Jennifer-Whitmore.D.2020-02-08",
-        "showAs": "Jennifer Whitmore"
+        "showAs": "Jennifer Whitmore",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Jennifer-Whitmore.D.2020-02-08"
       },
-      "questionType": "oral"
-    }
-  },
-  {
-    "contextDate": "2026-04-28",
-    "question": {
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-28/pq_19",
+      "questionType": "oral",
+      "to": {
+        "showAs": "Taoiseach",
+        "roleType": null,
+        "roleCode": null,
+        "uri": null
+      },
+      "questionNumber": 18,
+      "showAs": " 18. Deputy Jennifer Whitmore asked the Taoiseach to provide an update on the work of the Cabinet offshore energy clearing house. [28397/26] ",
       "date": "2026-04-28",
-      "questionNumber": 19,
       "debateSection": {
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-28/debate/dbsect_17",
+        "debateSectionId": "dbsect_17",
         "showAs": "Renewable Energy Generation",
         "formats": {
           "pdf": null,
@@ -734,39 +705,39 @@
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-28/debate/mul@/dbsect_17.xml"
           }
         },
-        "debateSectionId": "dbsect_17"
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-28/debate/dbsect_17"
       },
-      "to": {
-        "roleType": null,
-        "uri": null,
-        "showAs": "Taoiseach",
-        "roleCode": null
-      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-28/pq_18",
       "house": {
         "committeeCode": "",
-        "houseCode": "dail",
-        "chamberType": "house",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
         "showAs": "34th Dáil",
+        "chamberType": "house",
+        "houseCode": "dail",
         "houseNo": "34"
-      },
-      "showAs": " 19. Deputy Darren O'Rourke asked the Taoiseach to provide an update on the work of the Cabinet offshore wind energy clearing house. [29768/26] ",
+      }
+    },
+    "contextDate": "2026-04-28"
+  },
+  {
+    "question": {
       "by": {
         "memberCode": "Darren-O'Rourke.D.2020-02-08",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Darren-O'Rourke.D.2020-02-08",
-        "showAs": "Darren O'Rourke"
+        "showAs": "Darren O'Rourke",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Darren-O'Rourke.D.2020-02-08"
       },
-      "questionType": "oral"
-    }
-  },
-  {
-    "contextDate": "2026-04-28",
-    "question": {
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-28/pq_20",
+      "questionType": "oral",
+      "to": {
+        "showAs": "Taoiseach",
+        "roleType": null,
+        "roleCode": null,
+        "uri": null
+      },
+      "questionNumber": 19,
+      "showAs": " 19. Deputy Darren O'Rourke asked the Taoiseach to provide an update on the work of the Cabinet offshore wind energy clearing house. [29768/26] ",
       "date": "2026-04-28",
-      "questionNumber": 20,
       "debateSection": {
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-28/debate/dbsect_17",
+        "debateSectionId": "dbsect_17",
         "showAs": "Renewable Energy Generation",
         "formats": {
           "pdf": null,
@@ -774,39 +745,39 @@
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-28/debate/mul@/dbsect_17.xml"
           }
         },
-        "debateSectionId": "dbsect_17"
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-28/debate/dbsect_17"
       },
-      "to": {
-        "roleType": null,
-        "uri": null,
-        "showAs": "Taoiseach",
-        "roleCode": null
-      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-28/pq_19",
       "house": {
         "committeeCode": "",
-        "houseCode": "dail",
-        "chamberType": "house",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
         "showAs": "34th Dáil",
+        "chamberType": "house",
+        "houseCode": "dail",
         "houseNo": "34"
-      },
-      "showAs": " 20. Deputy Liam Quaide asked the Taoiseach to provide an update on the work of the Cabinet offshore wind energy clearing house. [29770/26] ",
+      }
+    },
+    "contextDate": "2026-04-28"
+  },
+  {
+    "question": {
       "by": {
         "memberCode": "Liam-Quaide.D.2024-11-29",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Liam-Quaide.D.2024-11-29",
-        "showAs": "Liam Quaide"
+        "showAs": "Liam Quaide",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Liam-Quaide.D.2024-11-29"
       },
-      "questionType": "oral"
-    }
-  },
-  {
-    "contextDate": "2026-04-28",
-    "question": {
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-28/pq_21",
+      "questionType": "oral",
+      "to": {
+        "showAs": "Taoiseach",
+        "roleType": null,
+        "roleCode": null,
+        "uri": null
+      },
+      "questionNumber": 20,
+      "showAs": " 20. Deputy Liam Quaide asked the Taoiseach to provide an update on the work of the Cabinet offshore wind energy clearing house. [29770/26] ",
       "date": "2026-04-28",
-      "questionNumber": 21,
       "debateSection": {
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-28/debate/dbsect_17",
+        "debateSectionId": "dbsect_17",
         "showAs": "Renewable Energy Generation",
         "formats": {
           "pdf": null,
@@ -814,39 +785,39 @@
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-28/debate/mul@/dbsect_17.xml"
           }
         },
-        "debateSectionId": "dbsect_17"
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-28/debate/dbsect_17"
       },
-      "to": {
-        "roleType": null,
-        "uri": null,
-        "showAs": "Taoiseach",
-        "roleCode": null
-      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-28/pq_20",
       "house": {
         "committeeCode": "",
-        "houseCode": "dail",
-        "chamberType": "house",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
         "showAs": "34th Dáil",
+        "chamberType": "house",
+        "houseCode": "dail",
         "houseNo": "34"
-      },
-      "showAs": " 21. Deputy Barry Heneghan asked the Taoiseach to provide an update on the work of the Cabinet offshore wind energy clearing house. [29773/26] ",
+      }
+    },
+    "contextDate": "2026-04-28"
+  },
+  {
+    "question": {
       "by": {
         "memberCode": "Barry-Heneghan.D.2024-11-29",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Barry-Heneghan.D.2024-11-29",
-        "showAs": "Barry Heneghan"
+        "showAs": "Barry Heneghan",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Barry-Heneghan.D.2024-11-29"
       },
-      "questionType": "oral"
-    }
-  },
-  {
-    "contextDate": "2026-04-28",
-    "question": {
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-28/pq_22",
+      "questionType": "oral",
+      "to": {
+        "showAs": "Taoiseach",
+        "roleType": null,
+        "roleCode": null,
+        "uri": null
+      },
+      "questionNumber": 21,
+      "showAs": " 21. Deputy Barry Heneghan asked the Taoiseach to provide an update on the work of the Cabinet offshore wind energy clearing house. [29773/26] ",
       "date": "2026-04-28",
-      "questionNumber": 22,
       "debateSection": {
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-28/debate/dbsect_17",
+        "debateSectionId": "dbsect_17",
         "showAs": "Renewable Energy Generation",
         "formats": {
           "pdf": null,
@@ -854,39 +825,39 @@
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-28/debate/mul@/dbsect_17.xml"
           }
         },
-        "debateSectionId": "dbsect_17"
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-28/debate/dbsect_17"
       },
-      "to": {
-        "roleType": null,
-        "uri": null,
-        "showAs": "Taoiseach",
-        "roleCode": null
-      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-28/pq_21",
       "house": {
         "committeeCode": "",
-        "houseCode": "dail",
-        "chamberType": "house",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
         "showAs": "34th Dáil",
+        "chamberType": "house",
+        "houseCode": "dail",
         "houseNo": "34"
-      },
-      "showAs": " 22. Deputy Louis O'Hara asked the Taoiseach to provide an update on the work of the Cabinet offshore wind energy clearing house. [30323/26] ",
+      }
+    },
+    "contextDate": "2026-04-28"
+  },
+  {
+    "question": {
       "by": {
         "memberCode": "Louis-O'Hara.D.2024-11-29",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Louis-O'Hara.D.2024-11-29",
-        "showAs": "Louis O'Hara"
+        "showAs": "Louis O'Hara",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Louis-O'Hara.D.2024-11-29"
       },
-      "questionType": "oral"
-    }
-  },
-  {
-    "contextDate": "2026-04-28",
-    "question": {
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-28/pq_23",
+      "questionType": "oral",
+      "to": {
+        "showAs": "Taoiseach",
+        "roleType": null,
+        "roleCode": null,
+        "uri": null
+      },
+      "questionNumber": 22,
+      "showAs": " 22. Deputy Louis O'Hara asked the Taoiseach to provide an update on the work of the Cabinet offshore wind energy clearing house. [30323/26] ",
       "date": "2026-04-28",
-      "questionNumber": 23,
       "debateSection": {
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-28/debate/dbsect_17",
+        "debateSectionId": "dbsect_17",
         "showAs": "Renewable Energy Generation",
         "formats": {
           "pdf": null,
@@ -894,39 +865,39 @@
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-28/debate/mul@/dbsect_17.xml"
           }
         },
-        "debateSectionId": "dbsect_17"
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-28/debate/dbsect_17"
       },
-      "to": {
-        "roleType": null,
-        "uri": null,
-        "showAs": "Taoiseach",
-        "roleCode": null
-      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-28/pq_22",
       "house": {
         "committeeCode": "",
-        "houseCode": "dail",
-        "chamberType": "house",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
         "showAs": "34th Dáil",
+        "chamberType": "house",
+        "houseCode": "dail",
         "houseNo": "34"
-      },
-      "showAs": " 23. Deputy Richard Boyd Barrett asked the Taoiseach if he will report on the work of the Cabinet offshore wind energy clearing house. [29036/26] ",
+      }
+    },
+    "contextDate": "2026-04-28"
+  },
+  {
+    "question": {
       "by": {
         "memberCode": "Richard-Boyd-Barrett.D.2011-03-09",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Richard-Boyd-Barrett.D.2011-03-09",
-        "showAs": "Richard Boyd Barrett"
+        "showAs": "Richard Boyd Barrett",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Richard-Boyd-Barrett.D.2011-03-09"
       },
-      "questionType": "oral"
-    }
-  },
-  {
-    "contextDate": "2026-04-28",
-    "question": {
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-28/pq_24",
+      "questionType": "oral",
+      "to": {
+        "showAs": "Taoiseach",
+        "roleType": null,
+        "roleCode": null,
+        "uri": null
+      },
+      "questionNumber": 23,
+      "showAs": " 23. Deputy Richard Boyd Barrett asked the Taoiseach if he will report on the work of the Cabinet offshore wind energy clearing house. [29036/26] ",
       "date": "2026-04-28",
-      "questionNumber": 24,
       "debateSection": {
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-28/debate/dbsect_17",
+        "debateSectionId": "dbsect_17",
         "showAs": "Renewable Energy Generation",
         "formats": {
           "pdf": null,
@@ -934,39 +905,39 @@
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-28/debate/mul@/dbsect_17.xml"
           }
         },
-        "debateSectionId": "dbsect_17"
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-28/debate/dbsect_17"
       },
-      "to": {
-        "roleType": null,
-        "uri": null,
-        "showAs": "Taoiseach",
-        "roleCode": null
-      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-28/pq_23",
       "house": {
         "committeeCode": "",
-        "houseCode": "dail",
-        "chamberType": "house",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
         "showAs": "34th Dáil",
+        "chamberType": "house",
+        "houseCode": "dail",
         "houseNo": "34"
-      },
-      "showAs": " 24. Deputy Paul Murphy asked the Taoiseach if he will report on the work of the Cabinet offshore wind energy clearing house. [29039/26] ",
+      }
+    },
+    "contextDate": "2026-04-28"
+  },
+  {
+    "question": {
       "by": {
         "memberCode": "Paul-Murphy.D.2014-10-10",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Murphy.D.2014-10-10",
-        "showAs": "Paul Murphy"
+        "showAs": "Paul Murphy",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Murphy.D.2014-10-10"
       },
-      "questionType": "oral"
-    }
-  },
-  {
-    "contextDate": "2026-04-28",
-    "question": {
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-28/pq_25",
+      "questionType": "oral",
+      "to": {
+        "showAs": "Taoiseach",
+        "roleType": null,
+        "roleCode": null,
+        "uri": null
+      },
+      "questionNumber": 24,
+      "showAs": " 24. Deputy Paul Murphy asked the Taoiseach if he will report on the work of the Cabinet offshore wind energy clearing house. [29039/26] ",
       "date": "2026-04-28",
-      "questionNumber": 25,
       "debateSection": {
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-28/debate/dbsect_17",
+        "debateSectionId": "dbsect_17",
         "showAs": "Renewable Energy Generation",
         "formats": {
           "pdf": null,
@@ -974,39 +945,39 @@
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-28/debate/mul@/dbsect_17.xml"
           }
         },
-        "debateSectionId": "dbsect_17"
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-28/debate/dbsect_17"
       },
-      "to": {
-        "roleType": null,
-        "uri": null,
-        "showAs": "Taoiseach",
-        "roleCode": null
-      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-28/pq_24",
       "house": {
         "committeeCode": "",
-        "houseCode": "dail",
-        "chamberType": "house",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
         "showAs": "34th Dáil",
+        "chamberType": "house",
+        "houseCode": "dail",
         "houseNo": "34"
-      },
-      "showAs": " 25. Deputy Jen Cummins asked the Taoiseach to provide an update on the work of the Cabinet offshore wind energy clearing house. [30357/26] ",
+      }
+    },
+    "contextDate": "2026-04-28"
+  },
+  {
+    "question": {
       "by": {
         "memberCode": "Jen-Cummins.D.2024-11-29",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Jen-Cummins.D.2024-11-29",
-        "showAs": "Jen Cummins"
+        "showAs": "Jen Cummins",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Jen-Cummins.D.2024-11-29"
       },
-      "questionType": "oral"
-    }
-  },
-  {
-    "contextDate": "2026-04-28",
-    "question": {
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-28/pq_26",
+      "questionType": "oral",
+      "to": {
+        "showAs": "Taoiseach",
+        "roleType": null,
+        "roleCode": null,
+        "uri": null
+      },
+      "questionNumber": 25,
+      "showAs": " 25. Deputy Jen Cummins asked the Taoiseach to provide an update on the work of the Cabinet offshore wind energy clearing house. [30357/26] ",
       "date": "2026-04-28",
-      "questionNumber": 26,
       "debateSection": {
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-28/debate/dbsect_17",
+        "debateSectionId": "dbsect_17",
         "showAs": "Renewable Energy Generation",
         "formats": {
           "pdf": null,
@@ -1014,39 +985,39 @@
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-28/debate/mul@/dbsect_17.xml"
           }
         },
-        "debateSectionId": "dbsect_17"
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-28/debate/dbsect_17"
       },
-      "to": {
-        "roleType": null,
-        "uri": null,
-        "showAs": "Taoiseach",
-        "roleCode": null
-      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-28/pq_25",
       "house": {
         "committeeCode": "",
-        "houseCode": "dail",
-        "chamberType": "house",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
         "showAs": "34th Dáil",
+        "chamberType": "house",
+        "houseCode": "dail",
         "houseNo": "34"
-      },
-      "showAs": " 26. Deputy Roderic O'Gorman asked the Taoiseach to provide an update on the work of the Cabinet offshore wind energy clearing house. [30492/26] ",
+      }
+    },
+    "contextDate": "2026-04-28"
+  },
+  {
+    "question": {
       "by": {
         "memberCode": "Roderic-O'Gorman.D.2020-02-08",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Roderic-O'Gorman.D.2020-02-08",
-        "showAs": "Roderic O'Gorman"
+        "showAs": "Roderic O'Gorman",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Roderic-O'Gorman.D.2020-02-08"
       },
-      "questionType": "oral"
-    }
-  },
-  {
-    "contextDate": "2026-04-28",
-    "question": {
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-28/pq_27",
+      "questionType": "oral",
+      "to": {
+        "showAs": "Taoiseach",
+        "roleType": null,
+        "roleCode": null,
+        "uri": null
+      },
+      "questionNumber": 26,
+      "showAs": " 26. Deputy Roderic O'Gorman asked the Taoiseach to provide an update on the work of the Cabinet offshore wind energy clearing house. [30492/26] ",
       "date": "2026-04-28",
-      "questionNumber": 27,
       "debateSection": {
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-28/debate/dbsect_17",
+        "debateSectionId": "dbsect_17",
         "showAs": "Renewable Energy Generation",
         "formats": {
           "pdf": null,
@@ -1054,39 +1025,39 @@
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-28/debate/mul@/dbsect_17.xml"
           }
         },
-        "debateSectionId": "dbsect_17"
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-28/debate/dbsect_17"
       },
-      "to": {
-        "roleType": null,
-        "uri": null,
-        "showAs": "Taoiseach",
-        "roleCode": null
-      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-28/pq_26",
       "house": {
         "committeeCode": "",
-        "houseCode": "dail",
-        "chamberType": "house",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
         "showAs": "34th Dáil",
+        "chamberType": "house",
+        "houseCode": "dail",
         "houseNo": "34"
-      },
-      "showAs": " 27. Deputy Rose Conway-Walsh asked the Taoiseach to provide an update on the work of the Cabinet offshore wind energy clearing house. [30496/26] ",
+      }
+    },
+    "contextDate": "2026-04-28"
+  },
+  {
+    "question": {
       "by": {
         "memberCode": "Rose-Conway-Walsh.S.2016-04-25",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Rose-Conway-Walsh.S.2016-04-25",
-        "showAs": "Rose Conway-Walsh"
+        "showAs": "Rose Conway-Walsh",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Rose-Conway-Walsh.S.2016-04-25"
       },
-      "questionType": "oral"
-    }
-  },
-  {
-    "contextDate": "2026-04-28",
-    "question": {
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-28/pq_28",
+      "questionType": "oral",
+      "to": {
+        "showAs": "Taoiseach",
+        "roleType": null,
+        "roleCode": null,
+        "uri": null
+      },
+      "questionNumber": 27,
+      "showAs": " 27. Deputy Rose Conway-Walsh asked the Taoiseach to provide an update on the work of the Cabinet offshore wind energy clearing house. [30496/26] ",
       "date": "2026-04-28",
-      "questionNumber": 28,
       "debateSection": {
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-28/debate/dbsect_17",
+        "debateSectionId": "dbsect_17",
         "showAs": "Renewable Energy Generation",
         "formats": {
           "pdf": null,
@@ -1094,29 +1065,618 @@
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-28/debate/mul@/dbsect_17.xml"
           }
         },
-        "debateSectionId": "dbsect_17"
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-28/debate/dbsect_17"
       },
-      "to": {
-        "roleType": null,
-        "uri": null,
-        "showAs": "Taoiseach",
-        "roleCode": null
-      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-28/pq_27",
       "house": {
         "committeeCode": "",
-        "houseCode": "dail",
-        "chamberType": "house",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
         "showAs": "34th Dáil",
+        "chamberType": "house",
+        "houseCode": "dail",
         "houseNo": "34"
-      },
-      "showAs": " 28. Deputy Paul Lawless asked the Taoiseach to provide an update on the work of the Cabinet offshore wind energy clearing house. [30526/26] ",
+      }
+    },
+    "contextDate": "2026-04-28"
+  },
+  {
+    "question": {
       "by": {
         "memberCode": "Paul-Lawless.D.2024-11-29",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Lawless.D.2024-11-29",
-        "showAs": "Paul Lawless"
+        "showAs": "Paul Lawless",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Lawless.D.2024-11-29"
       },
-      "questionType": "oral"
-    }
+      "questionType": "oral",
+      "to": {
+        "showAs": "Taoiseach",
+        "roleType": null,
+        "roleCode": null,
+        "uri": null
+      },
+      "questionNumber": 28,
+      "showAs": " 28. Deputy Paul Lawless asked the Taoiseach to provide an update on the work of the Cabinet offshore wind energy clearing house. [30526/26] ",
+      "date": "2026-04-28",
+      "debateSection": {
+        "debateSectionId": "dbsect_17",
+        "showAs": "Renewable Energy Generation",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-28/debate/mul@/dbsect_17.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-28/debate/dbsect_17"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-28/pq_28",
+      "house": {
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-04-28"
+  },
+  {
+    "question": {
+      "by": {
+        "memberCode": "Rose-Conway-Walsh.S.2016-04-25",
+        "showAs": "Rose Conway-Walsh",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Rose-Conway-Walsh.S.2016-04-25"
+      },
+      "questionType": "oral",
+      "to": {
+        "showAs": "Enterprise",
+        "roleType": null,
+        "roleCode": null,
+        "uri": null
+      },
+      "questionNumber": 121,
+      "showAs": " 121. Deputy Rose Conway-Walsh asked the Minister for Enterprise, Tourism and Employment the measures his Department is taking to address the increasing number of shop closures in towns and villages across the State contributing to growing levels of dereliction; to detail any current or planned initiatives aimed at supporting small and independent retailers in rural and regional areas, including financial supports, rates relief or targeted regeneration schemes; and if he will make a statement on the matter. [30924/26] ",
+      "date": "2026-04-28",
+      "debateSection": {
+        "debateSectionId": "dbsect_22",
+        "showAs": "Business Supports",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-28/debate/mul@/dbsect_22.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-28/debate/dbsect_22"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-28/pq_121",
+      "house": {
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-04-28"
+  },
+  {
+    "question": {
+      "by": {
+        "memberCode": "Rose-Conway-Walsh.S.2016-04-25",
+        "showAs": "Rose Conway-Walsh",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Rose-Conway-Walsh.S.2016-04-25"
+      },
+      "questionType": "oral",
+      "to": {
+        "showAs": "Enterprise",
+        "roleType": null,
+        "roleCode": null,
+        "uri": null
+      },
+      "questionNumber": 122,
+      "showAs": " 122. Deputy Rose Conway-Walsh asked the Minister for Enterprise, Tourism and Employment the additional measures he will put in place to support small and medium-sized enterprises facing increased operating costs arising from the ongoing fuel crisis; and if he will make a statement on the matter. [30925/26] ",
+      "date": "2026-04-28",
+      "debateSection": {
+        "debateSectionId": "dbsect_23",
+        "showAs": "Business Supports",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-28/debate/mul@/dbsect_23.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-28/debate/dbsect_23"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-28/pq_122",
+      "house": {
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-04-28"
+  },
+  {
+    "question": {
+      "by": {
+        "memberCode": "Sinéad-Gibney.D.2024-11-29",
+        "showAs": "Sinéad Gibney",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Sinéad-Gibney.D.2024-11-29"
+      },
+      "questionType": "oral",
+      "to": {
+        "showAs": "Enterprise",
+        "roleType": null,
+        "roleCode": null,
+        "uri": null
+      },
+      "questionNumber": 123,
+      "showAs": " 123. Deputy Sinéad Gibney asked the Minister for Enterprise, Tourism and Employment if his Department intends to review legislation on remote working arrangements in the context of the current fuel crisis; and if he will make a statement on the matter. [30948/26] ",
+      "date": "2026-04-28",
+      "debateSection": {
+        "debateSectionId": "dbsect_21",
+        "showAs": "Legislative Reviews",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-28/debate/mul@/dbsect_21.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-28/debate/dbsect_21"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-28/pq_123",
+      "house": {
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-04-28"
+  },
+  {
+    "question": {
+      "by": {
+        "memberCode": "Rose-Conway-Walsh.S.2016-04-25",
+        "showAs": "Rose Conway-Walsh",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Rose-Conway-Walsh.S.2016-04-25"
+      },
+      "questionType": "oral",
+      "to": {
+        "showAs": "Enterprise",
+        "roleType": null,
+        "roleCode": null,
+        "uri": null
+      },
+      "questionNumber": 124,
+      "showAs": " 124. Deputy Rose Conway-Walsh asked the Minister for Enterprise, Tourism and Employment the measurable improvements in national competitiveness that have been achieved since the publication of the Government’s Action Plan on Competitiveness and Productivity; and if he will make a statement on the matter. [30926/26] ",
+      "date": "2026-04-28",
+      "debateSection": {
+        "debateSectionId": "dbsect_24",
+        "showAs": "Departmental Policies",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-28/debate/mul@/dbsect_24.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-28/debate/dbsect_24"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-28/pq_124",
+      "house": {
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-04-28"
+  },
+  {
+    "question": {
+      "by": {
+        "memberCode": "Keira-Keogh.D.2024-11-29",
+        "showAs": "Keira Keogh",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Keira-Keogh.D.2024-11-29"
+      },
+      "questionType": "oral",
+      "to": {
+        "showAs": "Enterprise",
+        "roleType": null,
+        "roleCode": null,
+        "uri": null
+      },
+      "questionNumber": 125,
+      "showAs": " 125. Deputy Keira Keogh asked the Minister for Enterprise, Tourism and Employment if he will consider targeted supports for family-run and seasonal businesses in Mayo that are particularly vulnerable to economic fluctuations, in view of the fact that these businesses are often the backbone of the economy in rural areas and require support year round; and if he will make a statement on the matter. [30586/26] ",
+      "date": "2026-04-28",
+      "debateSection": {
+        "debateSectionId": "dbsect_25",
+        "showAs": "Business Supports",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-28/debate/mul@/dbsect_25.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-28/debate/dbsect_25"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-28/pq_125",
+      "house": {
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-04-28"
+  },
+  {
+    "question": {
+      "by": {
+        "memberCode": "Seán-Fleming.D.1997-06-26",
+        "showAs": "Sean Fleming",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Seán-Fleming.D.1997-06-26"
+      },
+      "questionType": "oral",
+      "to": {
+        "showAs": "Enterprise",
+        "roleType": null,
+        "roleCode": null,
+        "uri": null
+      },
+      "questionNumber": 126,
+      "showAs": " 126. Deputy Sean Fleming asked the Minister for Enterprise, Tourism and Employment the measures he is taking to support the retail sector; and if he will make a statement on the matter. [30062/26] ",
+      "date": "2026-04-28",
+      "debateSection": {
+        "debateSectionId": "dbsect_27",
+        "showAs": "Business Supports",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-28/debate/mul@/dbsect_27.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-28/debate/dbsect_27"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-28/pq_126",
+      "house": {
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-04-28"
+  },
+  {
+    "question": {
+      "by": {
+        "memberCode": "Michael-Murphy.D.2024-11-29",
+        "showAs": "Michael Murphy",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Michael-Murphy.D.2024-11-29"
+      },
+      "questionType": "oral",
+      "to": {
+        "showAs": "Enterprise",
+        "roleType": null,
+        "roleCode": null,
+        "uri": null
+      },
+      "questionNumber": 128,
+      "showAs": " 128. Deputy Michael Murphy asked the Minister for Enterprise, Tourism and Employment the current position regarding the IDA-owned lands at Ballingarrane in south Tipperary, including the extent to which IDA Ireland is actively promoting the site following the recent grant of planning permission for an advance building; the marketing and investor engagement strategy now being pursued, including international outreach and the inclusion of the site within IDA property portfolios; whether any expressions of interest or inquiries have been received to date; to provide an updated timeline for the delivery of an advanced facility on the lands; and if he will make a statement on the matter. [24947/26] ",
+      "date": "2026-04-28",
+      "debateSection": {
+        "debateSectionId": "dbsect_28",
+        "showAs": "Industrial Development",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-28/debate/mul@/dbsect_28.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-28/debate/dbsect_28"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-28/pq_128",
+      "house": {
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-04-28"
+  },
+  {
+    "question": {
+      "by": {
+        "memberCode": "Matt-Carthy.D.2020-02-08",
+        "showAs": "Matt Carthy",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Matt-Carthy.D.2020-02-08"
+      },
+      "questionType": "oral",
+      "to": {
+        "showAs": "Enterprise",
+        "roleType": null,
+        "roleCode": null,
+        "uri": null
+      },
+      "questionNumber": 129,
+      "showAs": " 129. Deputy Matt Carthy asked the Minister for Enterprise, Tourism and Employment the initiatives he or his Department or associated State agencies have taken to encourage prospective new owners to establish a business at the former factory (details supplied) at Carrickmacross; and if he will make a statement on the matter. [30067/26] ",
+      "date": "2026-04-28",
+      "debateSection": {
+        "debateSectionId": "dbsect_29",
+        "showAs": "Business Supports",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-28/debate/mul@/dbsect_29.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-28/debate/dbsect_29"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-28/pq_129",
+      "house": {
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-04-28"
+  },
+  {
+    "question": {
+      "by": {
+        "memberCode": "Albert-Dolan.D.2024-11-29",
+        "showAs": "Albert Dolan",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Albert-Dolan.D.2024-11-29"
+      },
+      "questionType": "oral",
+      "to": {
+        "showAs": "Enterprise",
+        "roleType": null,
+        "roleCode": null,
+        "uri": null
+      },
+      "questionNumber": 130,
+      "showAs": " 130. Deputy Albert Dolan asked the Minister for Enterprise, Tourism and Employment the assessment his Department has made of the impact of recent fuel price increases on small and medium-sized enterprises, particularly in transport, construction and agri-related sectors; and if he will outline any targeted supports under consideration. [30164/26] ",
+      "date": "2026-04-28",
+      "debateSection": {
+        "debateSectionId": "dbsect_30",
+        "showAs": "Fuel Prices",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-28/debate/mul@/dbsect_30.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-28/debate/dbsect_30"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-28/pq_130",
+      "house": {
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-04-28"
+  },
+  {
+    "question": {
+      "by": {
+        "memberCode": "Aindrias-Moynihan.D.2016-10-03",
+        "showAs": "Aindrias Moynihan",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Aindrias-Moynihan.D.2016-10-03"
+      },
+      "questionType": "oral",
+      "to": {
+        "showAs": "Enterprise",
+        "roleType": null,
+        "roleCode": null,
+        "uri": null
+      },
+      "questionNumber": 131,
+      "showAs": " 131. Deputy Aindrias Moynihan asked the Minister for Enterprise, Tourism and Employment the way in which his Department is ensuring that small- and medium-sized enterprises can move from AI awareness initiatives into measurable productivity gains from AI adoption; the changes that are required on current schemes to ensure sufficient scale and design; and if he will make a statement on the matter. [30424/26] ",
+      "date": "2026-04-28",
+      "debateSection": {
+        "debateSectionId": "dbsect_31",
+        "showAs": "Artificial Intelligence",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-28/debate/mul@/dbsect_31.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-28/debate/dbsect_31"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-28/pq_131",
+      "house": {
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-04-28"
+  },
+  {
+    "question": {
+      "by": {
+        "memberCode": "Shay-Brennan.D.2024-11-29",
+        "showAs": "Shay Brennan",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Shay-Brennan.D.2024-11-29"
+      },
+      "questionType": "oral",
+      "to": {
+        "showAs": "Enterprise",
+        "roleType": null,
+        "roleCode": null,
+        "uri": null
+      },
+      "questionNumber": 132,
+      "showAs": " 132. Deputy Shay Brennan asked the Minister for Enterprise, Tourism and Employment his assessment of the likely impact of current aviation challenges on the number of overseas visitors to Ireland in 2026; and if he will make a statement on the matter. [30451/26] ",
+      "date": "2026-04-28",
+      "debateSection": {
+        "debateSectionId": "dbsect_32",
+        "showAs": "Tourism Industry",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-28/debate/mul@/dbsect_32.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-28/debate/dbsect_32"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-28/pq_132",
+      "house": {
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-04-28"
+  },
+  {
+    "question": {
+      "by": {
+        "memberCode": "Michael-Murphy.D.2024-11-29",
+        "showAs": "Michael Murphy",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Michael-Murphy.D.2024-11-29"
+      },
+      "questionType": "oral",
+      "to": {
+        "showAs": "Enterprise",
+        "roleType": null,
+        "roleCode": null,
+        "uri": null
+      },
+      "questionNumber": 133,
+      "showAs": " 133. Deputy Michael Murphy asked the Minister for Enterprise, Tourism and Employment his assessment of the recent escalation in retail crime, including theft, organised shoplifting and related antisocial behaviour; the impact this is having on small and family-run retailers, particularly in terms of financial loss, increased operating costs and staff safety concerns; the specific measures, supports or interventions being developed by his Department to assist affected businesses, including with insurance and security costs; the nature of engagement under way with representative bodies and other relevant Departments, including those responsible for justice and policing; and if he will make a statement on the matter. [24948/26] ",
+      "date": "2026-04-28",
+      "debateSection": {
+        "debateSectionId": "dbsect_33",
+        "showAs": "Crime Prevention",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-28/debate/mul@/dbsect_33.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-28/debate/dbsect_33"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-28/pq_133",
+      "house": {
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-04-28"
+  },
+  {
+    "question": {
+      "by": {
+        "memberCode": "Aisling-Dempsey.D.2024-11-29",
+        "showAs": "Aisling Dempsey",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Aisling-Dempsey.D.2024-11-29"
+      },
+      "questionType": "oral",
+      "to": {
+        "showAs": "Enterprise",
+        "roleType": null,
+        "roleCode": null,
+        "uri": null
+      },
+      "questionNumber": 134,
+      "showAs": " 134. Deputy Aisling Dempsey asked the Minister for Enterprise, Tourism and Employment given that many SMEs are being disproportionately affected by the spike in fuel prices, and with businesses across the retail and hospitality sectors facing particularly heavy energy bills, the plans he has in place to help address these challenges; and if he will make a statement on the matter. [30074/26] ",
+      "date": "2026-04-28",
+      "debateSection": {
+        "debateSectionId": "dbsect_30",
+        "showAs": "Fuel Prices",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-28/debate/mul@/dbsect_30.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-28/debate/dbsect_30"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-28/pq_134",
+      "house": {
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-04-28"
+  },
+  {
+    "question": {
+      "by": {
+        "memberCode": "Richard-Boyd-Barrett.D.2011-03-09",
+        "showAs": "Richard Boyd Barrett",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Richard-Boyd-Barrett.D.2011-03-09"
+      },
+      "questionType": "oral",
+      "to": {
+        "showAs": "Enterprise",
+        "roleType": null,
+        "roleCode": null,
+        "uri": null
+      },
+      "questionNumber": 153,
+      "showAs": " 153. Deputy Richard Boyd Barrett asked the Minister for Enterprise, Tourism and Employment if he will introduce legislation to raise the minimum wage for workers under the age of 20 and for apprentices in their first two years so that they will be at parity with other workers. [30429/26] ",
+      "date": "2026-04-28",
+      "debateSection": {
+        "debateSectionId": "dbsect_34",
+        "showAs": "Wage-setting Mechanisms",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-28/debate/mul@/dbsect_34.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-28/debate/dbsect_34"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-28/pq_153",
+      "house": {
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "houseCode": "dail",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-04-28"
   }
 ]

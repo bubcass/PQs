@@ -1,443 +1,443 @@
 [
   {
-    "contextDate": "2026-04-30",
     "question": {
-      "showAs": " 1. Deputy Louise O'Reilly asked the Minister for Social Protection for an update on any plans to expand the use of a digital ID; and if he will make a statement on the matter. [31202/26] ",
-      "to": {
-        "roleCode": null,
-        "roleType": null,
-        "showAs": "Social",
-        "uri": null
-      },
-      "questionType": "oral",
       "date": "2026-04-30",
-      "house": {
-        "showAs": "34th Dáil",
-        "committeeCode": "",
-        "houseCode": "dail",
-        "chamberType": "house",
-        "houseNo": "34",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-30/pq_1",
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Louise-O'Reilly.D.2016-10-03",
+        "showAs": "Louise O'Reilly",
+        "memberCode": "Louise-O'Reilly.D.2016-10-03"
       },
-      "questionNumber": 1,
       "debateSection": {
-        "showAs": "Public Services Card",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-30/debate/dbsect_3",
         "debateSectionId": "dbsect_3",
         "formats": {
-          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-30/debate/mul@/dbsect_3.xml"
-          }
+          },
+          "pdf": null
         },
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-30/debate/dbsect_3"
+        "showAs": "Public Services Card"
       },
-      "by": {
-        "showAs": "Louise O'Reilly",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Louise-O'Reilly.D.2016-10-03",
-        "memberCode": "Louise-O'Reilly.D.2016-10-03"
+      "house": {
+        "houseCode": "dail",
+        "houseNo": "34",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "chamberType": "house"
       },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-30/pq_1"
-    }
-  },
-  {
-    "contextDate": "2026-04-30",
-    "question": {
-      "showAs": " 2. Deputy Paul Murphy asked the Minister for Social Protection the action he will take to ensure that vulnerable individuals are not left without access to an invalidity pension for months due to delays in processing appeals, such as in a case (details supplied); if consideration is given to ill health in how his Department interacts with applicants; and if he will make a statement on the matter. [31713/26] ",
+      "questionType": "oral",
       "to": {
         "roleCode": null,
         "roleType": null,
         "showAs": "Social",
         "uri": null
       },
-      "questionType": "oral",
+      "questionNumber": 1,
+      "showAs": " 1. Deputy Louise O'Reilly asked the Minister for Social Protection for an update on any plans to expand the use of a digital ID; and if he will make a statement on the matter. [31202/26] "
+    },
+    "contextDate": "2026-04-30"
+  },
+  {
+    "question": {
       "date": "2026-04-30",
-      "house": {
-        "showAs": "34th Dáil",
-        "committeeCode": "",
-        "houseCode": "dail",
-        "chamberType": "house",
-        "houseNo": "34",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
-      },
-      "questionNumber": 2,
-      "debateSection": {
-        "showAs": "Pension Provisions",
-        "debateSectionId": "dbsect_4",
-        "formats": {
-          "pdf": null,
-          "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-30/debate/mul@/dbsect_4.xml"
-          }
-        },
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-30/debate/dbsect_4"
-      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-30/pq_2",
       "by": {
-        "showAs": "Paul Murphy",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Murphy.D.2014-10-10",
+        "showAs": "Paul Murphy",
         "memberCode": "Paul-Murphy.D.2014-10-10"
       },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-30/pq_2"
-    }
-  },
-  {
-    "contextDate": "2026-04-30",
-    "question": {
-      "showAs": " 3. Deputy Louise O'Reilly asked the Minister for Social Protection if he has given consideration to an emergency cost-of-living payment to vulnerable households at risk of poverty; and if he will make a statement on the matter. [31203/26] ",
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-30/debate/dbsect_4",
+        "debateSectionId": "dbsect_4",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-30/debate/mul@/dbsect_4.xml"
+          },
+          "pdf": null
+        },
+        "showAs": "Pension Provisions"
+      },
+      "house": {
+        "houseCode": "dail",
+        "houseNo": "34",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "chamberType": "house"
+      },
+      "questionType": "oral",
       "to": {
         "roleCode": null,
         "roleType": null,
         "showAs": "Social",
         "uri": null
       },
-      "questionType": "oral",
+      "questionNumber": 2,
+      "showAs": " 2. Deputy Paul Murphy asked the Minister for Social Protection the action he will take to ensure that vulnerable individuals are not left without access to an invalidity pension for months due to delays in processing appeals, such as in a case (details supplied); if consideration is given to ill health in how his Department interacts with applicants; and if he will make a statement on the matter. [31713/26] "
+    },
+    "contextDate": "2026-04-30"
+  },
+  {
+    "question": {
       "date": "2026-04-30",
-      "house": {
-        "showAs": "34th Dáil",
-        "committeeCode": "",
-        "houseCode": "dail",
-        "chamberType": "house",
-        "houseNo": "34",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-30/pq_3",
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Louise-O'Reilly.D.2016-10-03",
+        "showAs": "Louise O'Reilly",
+        "memberCode": "Louise-O'Reilly.D.2016-10-03"
       },
-      "questionNumber": 3,
       "debateSection": {
-        "showAs": "Cost of Living Issues",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-30/debate/dbsect_5",
         "debateSectionId": "dbsect_5",
         "formats": {
-          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-30/debate/mul@/dbsect_5.xml"
-          }
+          },
+          "pdf": null
         },
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-30/debate/dbsect_5"
+        "showAs": "Cost of Living Issues"
       },
-      "by": {
-        "showAs": "Louise O'Reilly",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Louise-O'Reilly.D.2016-10-03",
-        "memberCode": "Louise-O'Reilly.D.2016-10-03"
+      "house": {
+        "houseCode": "dail",
+        "houseNo": "34",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "chamberType": "house"
       },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-30/pq_3"
-    }
-  },
-  {
-    "contextDate": "2026-04-30",
-    "question": {
-      "showAs": " 4. Deputy Barry Heneghan asked the Minister for Social Protection to provide an update on the commitment to introduce a cost-of-disability payment; the current status of policy development and implementation; the expected timelines for introduction; and if he will make a statement on the matter.  [31682/26] ",
+      "questionType": "oral",
       "to": {
         "roleCode": null,
         "roleType": null,
         "showAs": "Social",
         "uri": null
       },
-      "questionType": "oral",
+      "questionNumber": 3,
+      "showAs": " 3. Deputy Louise O'Reilly asked the Minister for Social Protection if he has given consideration to an emergency cost-of-living payment to vulnerable households at risk of poverty; and if he will make a statement on the matter. [31203/26] "
+    },
+    "contextDate": "2026-04-30"
+  },
+  {
+    "question": {
       "date": "2026-04-30",
-      "house": {
-        "showAs": "34th Dáil",
-        "committeeCode": "",
-        "houseCode": "dail",
-        "chamberType": "house",
-        "houseNo": "34",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
-      },
-      "questionNumber": 4,
-      "debateSection": {
-        "showAs": "Social Welfare Code",
-        "debateSectionId": "dbsect_6",
-        "formats": {
-          "pdf": null,
-          "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-30/debate/mul@/dbsect_6.xml"
-          }
-        },
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-30/debate/dbsect_6"
-      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-30/pq_4",
       "by": {
-        "showAs": "Barry Heneghan",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Barry-Heneghan.D.2024-11-29",
+        "showAs": "Barry Heneghan",
         "memberCode": "Barry-Heneghan.D.2024-11-29"
       },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-30/pq_4"
-    }
-  },
-  {
-    "contextDate": "2026-04-30",
-    "question": {
-      "showAs": " 5. Deputy Colm Burke asked the Minister for Social Protection to confirm that consideration will be given to an automatic entitlement to the fuel allowance where a member of the household is over 70 years of age; the cost of implementing this proposal; and if he will make a statement on the matter. [31303/26] ",
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-30/debate/dbsect_6",
+        "debateSectionId": "dbsect_6",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-30/debate/mul@/dbsect_6.xml"
+          },
+          "pdf": null
+        },
+        "showAs": "Social Welfare Code"
+      },
+      "house": {
+        "houseCode": "dail",
+        "houseNo": "34",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "chamberType": "house"
+      },
+      "questionType": "oral",
       "to": {
         "roleCode": null,
         "roleType": null,
         "showAs": "Social",
         "uri": null
       },
-      "questionType": "oral",
+      "questionNumber": 4,
+      "showAs": " 4. Deputy Barry Heneghan asked the Minister for Social Protection to provide an update on the commitment to introduce a cost-of-disability payment; the current status of policy development and implementation; the expected timelines for introduction; and if he will make a statement on the matter.  [31682/26] "
+    },
+    "contextDate": "2026-04-30"
+  },
+  {
+    "question": {
       "date": "2026-04-30",
-      "house": {
-        "showAs": "34th Dáil",
-        "committeeCode": "",
-        "houseCode": "dail",
-        "chamberType": "house",
-        "houseNo": "34",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
-      },
-      "questionNumber": 5,
-      "debateSection": {
-        "showAs": "Social Welfare Benefits",
-        "debateSectionId": "dbsect_8",
-        "formats": {
-          "pdf": null,
-          "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-30/debate/mul@/dbsect_8.xml"
-          }
-        },
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-30/debate/dbsect_8"
-      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-30/pq_5",
       "by": {
-        "showAs": "Colm Burke",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Colm-Burke.S.2011-05-25",
+        "showAs": "Colm Burke",
         "memberCode": "Colm-Burke.S.2011-05-25"
       },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-30/pq_5"
-    }
-  },
-  {
-    "contextDate": "2026-04-30",
-    "question": {
-      "showAs": " 6. Deputy Eoin Hayes asked the Minister for Social Protection to provide an update on child poverty figures and the effectiveness of his Department's measures to reduce child poverty. [31238/26] ",
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-30/debate/dbsect_8",
+        "debateSectionId": "dbsect_8",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-30/debate/mul@/dbsect_8.xml"
+          },
+          "pdf": null
+        },
+        "showAs": "Social Welfare Benefits"
+      },
+      "house": {
+        "houseCode": "dail",
+        "houseNo": "34",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "chamberType": "house"
+      },
+      "questionType": "oral",
       "to": {
         "roleCode": null,
         "roleType": null,
         "showAs": "Social",
         "uri": null
       },
-      "questionType": "oral",
+      "questionNumber": 5,
+      "showAs": " 5. Deputy Colm Burke asked the Minister for Social Protection to confirm that consideration will be given to an automatic entitlement to the fuel allowance where a member of the household is over 70 years of age; the cost of implementing this proposal; and if he will make a statement on the matter. [31303/26] "
+    },
+    "contextDate": "2026-04-30"
+  },
+  {
+    "question": {
       "date": "2026-04-30",
-      "house": {
-        "showAs": "34th Dáil",
-        "committeeCode": "",
-        "houseCode": "dail",
-        "chamberType": "house",
-        "houseNo": "34",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
-      },
-      "questionNumber": 6,
-      "debateSection": {
-        "showAs": "Child Poverty",
-        "debateSectionId": "dbsect_9",
-        "formats": {
-          "pdf": null,
-          "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-30/debate/mul@/dbsect_9.xml"
-          }
-        },
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-30/debate/dbsect_9"
-      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-30/pq_6",
       "by": {
-        "showAs": "Eoin Hayes",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Eoin-Hayes.D.2024-11-29",
+        "showAs": "Eoin Hayes",
         "memberCode": "Eoin-Hayes.D.2024-11-29"
       },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-30/pq_6"
-    }
-  },
-  {
-    "contextDate": "2026-04-30",
-    "question": {
-      "showAs": " 7. Deputy Thomas Gould asked the Minister for Social Protection the number of applications for urgent needs payments in Cork in the first three months of each of the years 2019, 2025 and 2026 respectively, by category of application, and the number approved, in tabular form. [31076/26] ",
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-30/debate/dbsect_9",
+        "debateSectionId": "dbsect_9",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-30/debate/mul@/dbsect_9.xml"
+          },
+          "pdf": null
+        },
+        "showAs": "Child Poverty"
+      },
+      "house": {
+        "houseCode": "dail",
+        "houseNo": "34",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "chamberType": "house"
+      },
+      "questionType": "oral",
       "to": {
         "roleCode": null,
         "roleType": null,
         "showAs": "Social",
         "uri": null
       },
-      "questionType": "oral",
+      "questionNumber": 6,
+      "showAs": " 6. Deputy Eoin Hayes asked the Minister for Social Protection to provide an update on child poverty figures and the effectiveness of his Department's measures to reduce child poverty. [31238/26] "
+    },
+    "contextDate": "2026-04-30"
+  },
+  {
+    "question": {
       "date": "2026-04-30",
-      "house": {
-        "showAs": "34th Dáil",
-        "committeeCode": "",
-        "houseCode": "dail",
-        "chamberType": "house",
-        "houseNo": "34",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
-      },
-      "questionNumber": 7,
-      "debateSection": {
-        "showAs": "Social Welfare Benefits",
-        "debateSectionId": "dbsect_10",
-        "formats": {
-          "pdf": null,
-          "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-30/debate/mul@/dbsect_10.xml"
-          }
-        },
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-30/debate/dbsect_10"
-      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-30/pq_7",
       "by": {
-        "showAs": "Thomas Gould",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Thomas-Gould.D.2020-02-08",
+        "showAs": "Thomas Gould",
         "memberCode": "Thomas-Gould.D.2020-02-08"
       },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-30/pq_7"
-    }
-  },
-  {
-    "contextDate": "2026-04-30",
-    "question": {
-      "showAs": " 8. Deputy Tony McCormack asked the Minister for Social Protection if he will report on the introduction of pay-related benefit in March 2025 linking unemployment payments to previous earnings; the number of persons who have availed of it to date; and if he will make a statement on the matter. [31132/26] ",
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-30/debate/dbsect_10",
+        "debateSectionId": "dbsect_10",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-30/debate/mul@/dbsect_10.xml"
+          },
+          "pdf": null
+        },
+        "showAs": "Social Welfare Benefits"
+      },
+      "house": {
+        "houseCode": "dail",
+        "houseNo": "34",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "chamberType": "house"
+      },
+      "questionType": "oral",
       "to": {
         "roleCode": null,
         "roleType": null,
         "showAs": "Social",
         "uri": null
       },
-      "questionType": "oral",
+      "questionNumber": 7,
+      "showAs": " 7. Deputy Thomas Gould asked the Minister for Social Protection the number of applications for urgent needs payments in Cork in the first three months of each of the years 2019, 2025 and 2026 respectively, by category of application, and the number approved, in tabular form. [31076/26] "
+    },
+    "contextDate": "2026-04-30"
+  },
+  {
+    "question": {
       "date": "2026-04-30",
-      "house": {
-        "showAs": "34th Dáil",
-        "committeeCode": "",
-        "houseCode": "dail",
-        "chamberType": "house",
-        "houseNo": "34",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
-      },
-      "questionNumber": 8,
-      "debateSection": {
-        "showAs": "Social Welfare Benefits",
-        "debateSectionId": "dbsect_11",
-        "formats": {
-          "pdf": null,
-          "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-30/debate/mul@/dbsect_11.xml"
-          }
-        },
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-30/debate/dbsect_11"
-      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-30/pq_8",
       "by": {
-        "showAs": "Tony McCormack",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tony-McCormack.D.2024-11-29",
+        "showAs": "Tony McCormack",
         "memberCode": "Tony-McCormack.D.2024-11-29"
       },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-30/pq_8"
-    }
-  },
-  {
-    "contextDate": "2026-04-30",
-    "question": {
-      "showAs": " 9. Deputy Darren O'Rourke asked the Minister for Social Protection the number and percentage of disability allowance decisions that are appealed; the number and percentage of decisions that are overturned on appeal; and if he will make a statement on the matter. [29507/26] ",
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-30/debate/dbsect_11",
+        "debateSectionId": "dbsect_11",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-30/debate/mul@/dbsect_11.xml"
+          },
+          "pdf": null
+        },
+        "showAs": "Social Welfare Benefits"
+      },
+      "house": {
+        "houseCode": "dail",
+        "houseNo": "34",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "chamberType": "house"
+      },
+      "questionType": "oral",
       "to": {
         "roleCode": null,
         "roleType": null,
         "showAs": "Social",
         "uri": null
       },
-      "questionType": "oral",
+      "questionNumber": 8,
+      "showAs": " 8. Deputy Tony McCormack asked the Minister for Social Protection if he will report on the introduction of pay-related benefit in March 2025 linking unemployment payments to previous earnings; the number of persons who have availed of it to date; and if he will make a statement on the matter. [31132/26] "
+    },
+    "contextDate": "2026-04-30"
+  },
+  {
+    "question": {
       "date": "2026-04-30",
-      "house": {
-        "showAs": "34th Dáil",
-        "committeeCode": "",
-        "houseCode": "dail",
-        "chamberType": "house",
-        "houseNo": "34",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
-      },
-      "questionNumber": 9,
-      "debateSection": {
-        "showAs": "Social Welfare Appeals",
-        "debateSectionId": "dbsect_12",
-        "formats": {
-          "pdf": null,
-          "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-30/debate/mul@/dbsect_12.xml"
-          }
-        },
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-30/debate/dbsect_12"
-      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-30/pq_9",
       "by": {
-        "showAs": "Darren O'Rourke",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Darren-O'Rourke.D.2020-02-08",
+        "showAs": "Darren O'Rourke",
         "memberCode": "Darren-O'Rourke.D.2020-02-08"
       },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-30/pq_9"
-    }
-  },
-  {
-    "contextDate": "2026-04-30",
-    "question": {
-      "showAs": " 10. Deputy Louise O'Reilly asked the Minister for Social Protection if the required additional funding has been provided to social welfare branch managers to pay for pension auto enrolment costs imposed from 1 January 2026 and if he will make a statement on the matter.  [31208/26] ",
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-30/debate/dbsect_12",
+        "debateSectionId": "dbsect_12",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-30/debate/mul@/dbsect_12.xml"
+          },
+          "pdf": null
+        },
+        "showAs": "Social Welfare Appeals"
+      },
+      "house": {
+        "houseCode": "dail",
+        "houseNo": "34",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "chamberType": "house"
+      },
+      "questionType": "oral",
       "to": {
         "roleCode": null,
         "roleType": null,
         "showAs": "Social",
         "uri": null
       },
-      "questionType": "oral",
+      "questionNumber": 9,
+      "showAs": " 9. Deputy Darren O'Rourke asked the Minister for Social Protection the number and percentage of disability allowance decisions that are appealed; the number and percentage of decisions that are overturned on appeal; and if he will make a statement on the matter. [29507/26] "
+    },
+    "contextDate": "2026-04-30"
+  },
+  {
+    "question": {
       "date": "2026-04-30",
-      "house": {
-        "showAs": "34th Dáil",
-        "committeeCode": "",
-        "houseCode": "dail",
-        "chamberType": "house",
-        "houseNo": "34",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
-      },
-      "questionNumber": 10,
-      "debateSection": {
-        "showAs": "Pensions Reform",
-        "debateSectionId": "dbsect_13",
-        "formats": {
-          "pdf": null,
-          "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-30/debate/mul@/dbsect_13.xml"
-          }
-        },
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-30/debate/dbsect_13"
-      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-30/pq_10",
       "by": {
-        "showAs": "Louise O'Reilly",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Louise-O'Reilly.D.2016-10-03",
+        "showAs": "Louise O'Reilly",
         "memberCode": "Louise-O'Reilly.D.2016-10-03"
       },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-30/pq_10"
-    }
-  },
-  {
-    "contextDate": "2026-04-30",
-    "question": {
-      "showAs": " 11. Deputy Mark Wall asked the Minister for Social Protection the estimated full-year cost of paying carers who care for two or more people, based on a full carer’s allowance in respect of each person, not a half-rate for a second person. [31340/26] ",
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-30/debate/dbsect_13",
+        "debateSectionId": "dbsect_13",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-30/debate/mul@/dbsect_13.xml"
+          },
+          "pdf": null
+        },
+        "showAs": "Pensions Reform"
+      },
+      "house": {
+        "houseCode": "dail",
+        "houseNo": "34",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "chamberType": "house"
+      },
+      "questionType": "oral",
       "to": {
         "roleCode": null,
         "roleType": null,
         "showAs": "Social",
         "uri": null
       },
-      "questionType": "oral",
+      "questionNumber": 10,
+      "showAs": " 10. Deputy Louise O'Reilly asked the Minister for Social Protection if the required additional funding has been provided to social welfare branch managers to pay for pension auto enrolment costs imposed from 1 January 2026 and if he will make a statement on the matter.  [31208/26] "
+    },
+    "contextDate": "2026-04-30"
+  },
+  {
+    "question": {
       "date": "2026-04-30",
-      "house": {
-        "showAs": "34th Dáil",
-        "committeeCode": "",
-        "houseCode": "dail",
-        "chamberType": "house",
-        "houseNo": "34",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
-      },
-      "questionNumber": 11,
-      "debateSection": {
-        "showAs": "Social Welfare Schemes",
-        "debateSectionId": "dbsect_14",
-        "formats": {
-          "pdf": null,
-          "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-30/debate/mul@/dbsect_14.xml"
-          }
-        },
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-30/debate/dbsect_14"
-      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-30/pq_11",
       "by": {
-        "showAs": "Mark Wall",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Mark-Wall.S.2020-03-30",
+        "showAs": "Mark Wall",
         "memberCode": "Mark-Wall.S.2020-03-30"
       },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-30/pq_11"
-    }
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-30/debate/dbsect_14",
+        "debateSectionId": "dbsect_14",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-30/debate/mul@/dbsect_14.xml"
+          },
+          "pdf": null
+        },
+        "showAs": "Social Welfare Schemes"
+      },
+      "house": {
+        "houseCode": "dail",
+        "houseNo": "34",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "chamberType": "house"
+      },
+      "questionType": "oral",
+      "to": {
+        "roleCode": null,
+        "roleType": null,
+        "showAs": "Social",
+        "uri": null
+      },
+      "questionNumber": 11,
+      "showAs": " 11. Deputy Mark Wall asked the Minister for Social Protection the estimated full-year cost of paying carers who care for two or more people, based on a full carer’s allowance in respect of each person, not a half-rate for a second person. [31340/26] "
+    },
+    "contextDate": "2026-04-30"
   },
   {
     "contextDate": "2026-04-30",
@@ -480,84 +480,84 @@
     }
   },
   {
-    "contextDate": "2026-04-30",
     "question": {
-      "showAs": " 13. Deputy Catherine Callaghan asked the Minister for Social Protection if he will increase his departmental budget allocation in budget 2027 to those in receipt of the State pension, in response to the increased cost of living as a result of the conflict in the Middle East; and if he will make a statement on the matter. [31283/26] ",
-      "to": {
-        "roleCode": null,
-        "roleType": null,
-        "showAs": "Social",
-        "uri": null
-      },
-      "questionType": "oral",
       "date": "2026-04-30",
-      "house": {
-        "showAs": "34th Dáil",
-        "committeeCode": "",
-        "houseCode": "dail",
-        "chamberType": "house",
-        "houseNo": "34",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
-      },
-      "questionNumber": 13,
-      "debateSection": {
-        "showAs": "Pension Provisions",
-        "debateSectionId": "dbsect_15",
-        "formats": {
-          "pdf": null,
-          "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-30/debate/mul@/dbsect_15.xml"
-          }
-        },
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-30/debate/dbsect_15"
-      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-30/pq_13",
       "by": {
-        "showAs": "Catherine Callaghan",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Catherine-Callaghan.D.2024-11-29",
+        "showAs": "Catherine Callaghan",
         "memberCode": "Catherine-Callaghan.D.2024-11-29"
       },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-30/pq_13"
-    }
-  },
-  {
-    "contextDate": "2026-04-30",
-    "question": {
-      "showAs": " 14. Deputy Grace Boland asked the Minister for Social Protection in the context of the programme for Government commitment to examine the extension of parents’ leave and benefit, whether he will outline the current status of this examination; the options under consideration to extend the duration of parents’ leave and benefit beyond the current entitlement; when he expects to bring proposals to Government; and if he will make a statement on the matter. [30628/26] ",
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-30/debate/dbsect_15",
+        "debateSectionId": "dbsect_15",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-30/debate/mul@/dbsect_15.xml"
+          },
+          "pdf": null
+        },
+        "showAs": "Pension Provisions"
+      },
+      "house": {
+        "houseCode": "dail",
+        "houseNo": "34",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "chamberType": "house"
+      },
+      "questionType": "oral",
       "to": {
         "roleCode": null,
         "roleType": null,
         "showAs": "Social",
         "uri": null
       },
-      "questionType": "oral",
+      "questionNumber": 13,
+      "showAs": " 13. Deputy Catherine Callaghan asked the Minister for Social Protection if he will increase his departmental budget allocation in budget 2027 to those in receipt of the State pension, in response to the increased cost of living as a result of the conflict in the Middle East; and if he will make a statement on the matter. [31283/26] "
+    },
+    "contextDate": "2026-04-30"
+  },
+  {
+    "question": {
       "date": "2026-04-30",
-      "house": {
-        "showAs": "34th Dáil",
-        "committeeCode": "",
-        "houseCode": "dail",
-        "chamberType": "house",
-        "houseNo": "34",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
-      },
-      "questionNumber": 14,
-      "debateSection": {
-        "showAs": "Parental Leave",
-        "debateSectionId": "dbsect_16",
-        "formats": {
-          "pdf": null,
-          "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-30/debate/mul@/dbsect_16.xml"
-          }
-        },
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-30/debate/dbsect_16"
-      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-30/pq_14",
       "by": {
-        "showAs": "Grace Boland",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Grace-Boland.D.2024-11-29",
+        "showAs": "Grace Boland",
         "memberCode": "Grace-Boland.D.2024-11-29"
       },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-30/pq_14"
-    }
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-30/debate/dbsect_16",
+        "debateSectionId": "dbsect_16",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-30/debate/mul@/dbsect_16.xml"
+          },
+          "pdf": null
+        },
+        "showAs": "Parental Leave"
+      },
+      "house": {
+        "houseCode": "dail",
+        "houseNo": "34",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "chamberType": "house"
+      },
+      "questionType": "oral",
+      "to": {
+        "roleCode": null,
+        "roleType": null,
+        "showAs": "Social",
+        "uri": null
+      },
+      "questionNumber": 14,
+      "showAs": " 14. Deputy Grace Boland asked the Minister for Social Protection in the context of the programme for Government commitment to examine the extension of parents’ leave and benefit, whether he will outline the current status of this examination; the options under consideration to extend the duration of parents’ leave and benefit beyond the current entitlement; when he expects to bring proposals to Government; and if he will make a statement on the matter. [30628/26] "
+    },
+    "contextDate": "2026-04-30"
   },
   {
     "contextDate": "2026-04-30",
@@ -3800,524 +3800,524 @@
     }
   },
   {
-    "contextDate": "2026-04-30",
     "question": {
-      "showAs": " 96. Deputy Pa Daly asked the Minister for Transport the measures he is taking to improve road safety; the reasons road deaths have risen by 31% since 2019 while road deaths across the EU dropped by 15% over the same period; the measures he is taking to address this; and if he will make a statement on the matter.  [31157/26] ",
-      "to": {
-        "roleCode": null,
-        "roleType": null,
-        "showAs": "Transport",
-        "uri": null
-      },
-      "questionType": "oral",
       "date": "2026-04-30",
-      "house": {
-        "showAs": "34th Dáil",
-        "committeeCode": "",
-        "houseCode": "dail",
-        "chamberType": "house",
-        "houseNo": "34",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-30/pq_96",
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Pa-Daly.D.2020-02-08",
+        "showAs": "Pa Daly",
+        "memberCode": "Pa-Daly.D.2020-02-08"
       },
-      "questionNumber": 96,
       "debateSection": {
-        "showAs": "Road Safety",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-30/debate/dbsect_18",
         "debateSectionId": "dbsect_18",
         "formats": {
-          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-30/debate/mul@/dbsect_18.xml"
-          }
+          },
+          "pdf": null
         },
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-30/debate/dbsect_18"
+        "showAs": "Road Safety"
       },
-      "by": {
-        "showAs": "Pa Daly",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Pa-Daly.D.2020-02-08",
-        "memberCode": "Pa-Daly.D.2020-02-08"
+      "house": {
+        "houseCode": "dail",
+        "houseNo": "34",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "chamberType": "house"
       },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-30/pq_96"
-    }
-  },
-  {
-    "contextDate": "2026-04-30",
-    "question": {
-      "showAs": " 97. Deputy Ciarán Ahern asked the Minister for Transport to report on the zero-emissions heavy duty vehicle purchase grant and zero-emissions heavy duty vehicle infrastructure grant schemes, including the number of applications received and funding drawn down since their inception; the steps he will take to encourage and increase uptake among those in the haulage and farming sectors; and if he will make a statement on the matter. [31741/26] ",
+      "questionType": "oral",
       "to": {
         "roleCode": null,
         "roleType": null,
         "showAs": "Transport",
         "uri": null
       },
-      "questionType": "oral",
+      "questionNumber": 96,
+      "showAs": " 96. Deputy Pa Daly asked the Minister for Transport the measures he is taking to improve road safety; the reasons road deaths have risen by 31% since 2019 while road deaths across the EU dropped by 15% over the same period; the measures he is taking to address this; and if he will make a statement on the matter.  [31157/26] "
+    },
+    "contextDate": "2026-04-30"
+  },
+  {
+    "question": {
       "date": "2026-04-30",
-      "house": {
-        "showAs": "34th Dáil",
-        "committeeCode": "",
-        "houseCode": "dail",
-        "chamberType": "house",
-        "houseNo": "34",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
-      },
-      "questionNumber": 97,
-      "debateSection": {
-        "showAs": "Electric Vehicles",
-        "debateSectionId": "dbsect_19",
-        "formats": {
-          "pdf": null,
-          "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-30/debate/mul@/dbsect_19.xml"
-          }
-        },
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-30/debate/dbsect_19"
-      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-30/pq_97",
       "by": {
-        "showAs": "Ciarán Ahern",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ciarán-Ahern.D.2024-11-29",
+        "showAs": "Ciarán Ahern",
         "memberCode": "Ciarán-Ahern.D.2024-11-29"
       },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-30/pq_97"
-    }
-  },
-  {
-    "contextDate": "2026-04-30",
-    "question": {
-      "showAs": " 98. Deputy Pa Daly asked the Minister for Transport for an update on the new Irish Rail traffic management IT system; the measures he is taking to address cost overruns and delays; when he expects this system will be delivered; and if he will make a statement on the matter. [31154/26] ",
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-30/debate/dbsect_19",
+        "debateSectionId": "dbsect_19",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-30/debate/mul@/dbsect_19.xml"
+          },
+          "pdf": null
+        },
+        "showAs": "Electric Vehicles"
+      },
+      "house": {
+        "houseCode": "dail",
+        "houseNo": "34",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "chamberType": "house"
+      },
+      "questionType": "oral",
       "to": {
         "roleCode": null,
         "roleType": null,
         "showAs": "Transport",
         "uri": null
       },
-      "questionType": "oral",
+      "questionNumber": 97,
+      "showAs": " 97. Deputy Ciarán Ahern asked the Minister for Transport to report on the zero-emissions heavy duty vehicle purchase grant and zero-emissions heavy duty vehicle infrastructure grant schemes, including the number of applications received and funding drawn down since their inception; the steps he will take to encourage and increase uptake among those in the haulage and farming sectors; and if he will make a statement on the matter. [31741/26] "
+    },
+    "contextDate": "2026-04-30"
+  },
+  {
+    "question": {
       "date": "2026-04-30",
-      "house": {
-        "showAs": "34th Dáil",
-        "committeeCode": "",
-        "houseCode": "dail",
-        "chamberType": "house",
-        "houseNo": "34",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-30/pq_98",
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Pa-Daly.D.2020-02-08",
+        "showAs": "Pa Daly",
+        "memberCode": "Pa-Daly.D.2020-02-08"
       },
-      "questionNumber": 98,
       "debateSection": {
-        "showAs": "Rail Network",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-30/debate/dbsect_20",
         "debateSectionId": "dbsect_20",
         "formats": {
-          "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-30/debate/mul@/dbsect_20.xml"
-          }
+          },
+          "pdf": null
         },
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-30/debate/dbsect_20"
+        "showAs": "Rail Network"
       },
-      "by": {
-        "showAs": "Pa Daly",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Pa-Daly.D.2020-02-08",
-        "memberCode": "Pa-Daly.D.2020-02-08"
+      "house": {
+        "houseCode": "dail",
+        "houseNo": "34",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "chamberType": "house"
       },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-30/pq_98"
-    }
-  },
-  {
-    "contextDate": "2026-04-30",
-    "question": {
-      "showAs": " 99. Deputy Jennifer Whitmore asked the Minister for Transport if he is aware that the DART will not be operational again this May bank holiday weekend for the VHI mini-marathon, an event that attracts up to 30,000 participants each year; and if he will make a statement on the matter. [31200/26] ",
+      "questionType": "oral",
       "to": {
         "roleCode": null,
         "roleType": null,
         "showAs": "Transport",
         "uri": null
       },
-      "questionType": "oral",
+      "questionNumber": 98,
+      "showAs": " 98. Deputy Pa Daly asked the Minister for Transport for an update on the new Irish Rail traffic management IT system; the measures he is taking to address cost overruns and delays; when he expects this system will be delivered; and if he will make a statement on the matter. [31154/26] "
+    },
+    "contextDate": "2026-04-30"
+  },
+  {
+    "question": {
       "date": "2026-04-30",
-      "house": {
-        "showAs": "34th Dáil",
-        "committeeCode": "",
-        "houseCode": "dail",
-        "chamberType": "house",
-        "houseNo": "34",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
-      },
-      "questionNumber": 99,
-      "debateSection": {
-        "showAs": "Public Transport",
-        "debateSectionId": "dbsect_21",
-        "formats": {
-          "pdf": null,
-          "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-30/debate/mul@/dbsect_21.xml"
-          }
-        },
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-30/debate/dbsect_21"
-      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-30/pq_99",
       "by": {
-        "showAs": "Jennifer Whitmore",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Jennifer-Whitmore.D.2020-02-08",
+        "showAs": "Jennifer Whitmore",
         "memberCode": "Jennifer-Whitmore.D.2020-02-08"
       },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-30/pq_99"
-    }
-  },
-  {
-    "contextDate": "2026-04-30",
-    "question": {
-      "showAs": " 100. Deputy Ruth Coppinger asked the Minister for Transport his plans to end the 70 bus route resulting in people in the Littlepace area having to change buses to go to Dublin city centre; if BusConnects gives consideration to the impact on bus users with mobility issues when cutting direct routes; and if he will make a statement on the matter.  [31156/26] ",
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-30/debate/dbsect_21",
+        "debateSectionId": "dbsect_21",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-30/debate/mul@/dbsect_21.xml"
+          },
+          "pdf": null
+        },
+        "showAs": "Public Transport"
+      },
+      "house": {
+        "houseCode": "dail",
+        "houseNo": "34",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "chamberType": "house"
+      },
+      "questionType": "oral",
       "to": {
         "roleCode": null,
         "roleType": null,
         "showAs": "Transport",
         "uri": null
       },
-      "questionType": "oral",
+      "questionNumber": 99,
+      "showAs": " 99. Deputy Jennifer Whitmore asked the Minister for Transport if he is aware that the DART will not be operational again this May bank holiday weekend for the VHI mini-marathon, an event that attracts up to 30,000 participants each year; and if he will make a statement on the matter. [31200/26] "
+    },
+    "contextDate": "2026-04-30"
+  },
+  {
+    "question": {
       "date": "2026-04-30",
-      "house": {
-        "showAs": "34th Dáil",
-        "committeeCode": "",
-        "houseCode": "dail",
-        "chamberType": "house",
-        "houseNo": "34",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
-      },
-      "questionNumber": 100,
-      "debateSection": {
-        "showAs": "Bus Services",
-        "debateSectionId": "dbsect_22",
-        "formats": {
-          "pdf": null,
-          "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-30/debate/mul@/dbsect_22.xml"
-          }
-        },
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-30/debate/dbsect_22"
-      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-30/pq_100",
       "by": {
-        "showAs": "Ruth Coppinger",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruth-Coppinger.D.2014-05-23",
+        "showAs": "Ruth Coppinger",
         "memberCode": "Ruth-Coppinger.D.2014-05-23"
       },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-30/pq_100"
-    }
-  },
-  {
-    "contextDate": "2026-04-30",
-    "question": {
-      "showAs": " 101. Deputy Shane Moynihan asked the Minister for Transport for an update on the DART+ South West project; the progress to date; the way in which the project may be expedited; and if he will make a statement on the matter. [31714/26] ",
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-30/debate/dbsect_22",
+        "debateSectionId": "dbsect_22",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-30/debate/mul@/dbsect_22.xml"
+          },
+          "pdf": null
+        },
+        "showAs": "Bus Services"
+      },
+      "house": {
+        "houseCode": "dail",
+        "houseNo": "34",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "chamberType": "house"
+      },
+      "questionType": "oral",
       "to": {
         "roleCode": null,
         "roleType": null,
         "showAs": "Transport",
         "uri": null
       },
-      "questionType": "oral",
+      "questionNumber": 100,
+      "showAs": " 100. Deputy Ruth Coppinger asked the Minister for Transport his plans to end the 70 bus route resulting in people in the Littlepace area having to change buses to go to Dublin city centre; if BusConnects gives consideration to the impact on bus users with mobility issues when cutting direct routes; and if he will make a statement on the matter.  [31156/26] "
+    },
+    "contextDate": "2026-04-30"
+  },
+  {
+    "question": {
       "date": "2026-04-30",
-      "house": {
-        "showAs": "34th Dáil",
-        "committeeCode": "",
-        "houseCode": "dail",
-        "chamberType": "house",
-        "houseNo": "34",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
-      },
-      "questionNumber": 101,
-      "debateSection": {
-        "showAs": "Public Transport",
-        "debateSectionId": "dbsect_23",
-        "formats": {
-          "pdf": null,
-          "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-30/debate/mul@/dbsect_23.xml"
-          }
-        },
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-30/debate/dbsect_23"
-      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-30/pq_101",
       "by": {
-        "showAs": "Shane Moynihan",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Shane-Moynihan.D.2024-11-29",
+        "showAs": "Shane Moynihan",
         "memberCode": "Shane-Moynihan.D.2024-11-29"
       },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-30/pq_101"
-    }
-  },
-  {
-    "contextDate": "2026-04-30",
-    "question": {
-      "showAs": " 102. Deputy Roderic O'Gorman asked the Minister for Transport for an update on the roll-out of the planned inner orbital O route as part of the BusConnects project; and if he will make a statement on the matter. [31313/26] ",
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-30/debate/dbsect_23",
+        "debateSectionId": "dbsect_23",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-30/debate/mul@/dbsect_23.xml"
+          },
+          "pdf": null
+        },
+        "showAs": "Public Transport"
+      },
+      "house": {
+        "houseCode": "dail",
+        "houseNo": "34",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "chamberType": "house"
+      },
+      "questionType": "oral",
       "to": {
         "roleCode": null,
         "roleType": null,
         "showAs": "Transport",
         "uri": null
       },
-      "questionType": "oral",
+      "questionNumber": 101,
+      "showAs": " 101. Deputy Shane Moynihan asked the Minister for Transport for an update on the DART+ South West project; the progress to date; the way in which the project may be expedited; and if he will make a statement on the matter. [31714/26] "
+    },
+    "contextDate": "2026-04-30"
+  },
+  {
+    "question": {
       "date": "2026-04-30",
-      "house": {
-        "showAs": "34th Dáil",
-        "committeeCode": "",
-        "houseCode": "dail",
-        "chamberType": "house",
-        "houseNo": "34",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
-      },
-      "questionNumber": 102,
-      "debateSection": {
-        "showAs": "Bus Services",
-        "debateSectionId": "dbsect_25",
-        "formats": {
-          "pdf": null,
-          "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-30/debate/mul@/dbsect_25.xml"
-          }
-        },
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-30/debate/dbsect_25"
-      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-30/pq_102",
       "by": {
-        "showAs": "Roderic O'Gorman",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Roderic-O'Gorman.D.2020-02-08",
+        "showAs": "Roderic O'Gorman",
         "memberCode": "Roderic-O'Gorman.D.2020-02-08"
       },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-30/pq_102"
-    }
-  },
-  {
-    "contextDate": "2026-04-30",
-    "question": {
-      "showAs": " 103. Deputy Pádraig Mac Lochlainn asked the Minister for Transport to provide an update on the timeline for the long-awaited restoration of the Derry to Dublin airlink. [29785/26] ",
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-30/debate/dbsect_25",
+        "debateSectionId": "dbsect_25",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-30/debate/mul@/dbsect_25.xml"
+          },
+          "pdf": null
+        },
+        "showAs": "Bus Services"
+      },
+      "house": {
+        "houseCode": "dail",
+        "houseNo": "34",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "chamberType": "house"
+      },
+      "questionType": "oral",
       "to": {
         "roleCode": null,
         "roleType": null,
         "showAs": "Transport",
         "uri": null
       },
-      "questionType": "oral",
+      "questionNumber": 102,
+      "showAs": " 102. Deputy Roderic O'Gorman asked the Minister for Transport for an update on the roll-out of the planned inner orbital O route as part of the BusConnects project; and if he will make a statement on the matter. [31313/26] "
+    },
+    "contextDate": "2026-04-30"
+  },
+  {
+    "question": {
       "date": "2026-04-30",
-      "house": {
-        "showAs": "34th Dáil",
-        "committeeCode": "",
-        "houseCode": "dail",
-        "chamberType": "house",
-        "houseNo": "34",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
-      },
-      "questionNumber": 103,
-      "debateSection": {
-        "showAs": "Air Services",
-        "debateSectionId": "dbsect_26",
-        "formats": {
-          "pdf": null,
-          "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-30/debate/mul@/dbsect_26.xml"
-          }
-        },
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-30/debate/dbsect_26"
-      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-30/pq_103",
       "by": {
-        "showAs": "Pádraig Mac Lochlainn",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Pádraig-MacLochlainn.D.2011-03-09",
+        "showAs": "Pádraig Mac Lochlainn",
         "memberCode": "Pádraig-MacLochlainn.D.2011-03-09"
       },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-30/pq_103"
-    }
-  },
-  {
-    "contextDate": "2026-04-30",
-    "question": {
-      "showAs": " 104. Deputy Mark Ward asked the Minister for Transport the public transport options to Dubin Airport for the people of Dublin Mid-West; if additional routes are being considered; and if he will make a statement on the matter. [31351/26] ",
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-30/debate/dbsect_26",
+        "debateSectionId": "dbsect_26",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-30/debate/mul@/dbsect_26.xml"
+          },
+          "pdf": null
+        },
+        "showAs": "Air Services"
+      },
+      "house": {
+        "houseCode": "dail",
+        "houseNo": "34",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "chamberType": "house"
+      },
+      "questionType": "oral",
       "to": {
         "roleCode": null,
         "roleType": null,
         "showAs": "Transport",
         "uri": null
       },
-      "questionType": "oral",
+      "questionNumber": 103,
+      "showAs": " 103. Deputy Pádraig Mac Lochlainn asked the Minister for Transport to provide an update on the timeline for the long-awaited restoration of the Derry to Dublin airlink. [29785/26] "
+    },
+    "contextDate": "2026-04-30"
+  },
+  {
+    "question": {
       "date": "2026-04-30",
-      "house": {
-        "showAs": "34th Dáil",
-        "committeeCode": "",
-        "houseCode": "dail",
-        "chamberType": "house",
-        "houseNo": "34",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
-      },
-      "questionNumber": 104,
-      "debateSection": {
-        "showAs": "Public Transport",
-        "debateSectionId": "dbsect_27",
-        "formats": {
-          "pdf": null,
-          "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-30/debate/mul@/dbsect_27.xml"
-          }
-        },
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-30/debate/dbsect_27"
-      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-30/pq_104",
       "by": {
-        "showAs": "Mark Ward",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Mark-Ward.D.2019-11-29",
+        "showAs": "Mark Ward",
         "memberCode": "Mark-Ward.D.2019-11-29"
       },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-30/pq_104"
-    }
-  },
-  {
-    "contextDate": "2026-04-30",
-    "question": {
-      "showAs": " 105. Deputy Catherine Callaghan asked the Minister for Transport if he will provide funding for increased car parking facilities in Carlow and Muine Bheag train stations in Carlow; and if he will make a statement on the matter.  [31281/26] ",
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-30/debate/dbsect_27",
+        "debateSectionId": "dbsect_27",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-30/debate/mul@/dbsect_27.xml"
+          },
+          "pdf": null
+        },
+        "showAs": "Public Transport"
+      },
+      "house": {
+        "houseCode": "dail",
+        "houseNo": "34",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "chamberType": "house"
+      },
+      "questionType": "oral",
       "to": {
         "roleCode": null,
         "roleType": null,
         "showAs": "Transport",
         "uri": null
       },
-      "questionType": "oral",
+      "questionNumber": 104,
+      "showAs": " 104. Deputy Mark Ward asked the Minister for Transport the public transport options to Dubin Airport for the people of Dublin Mid-West; if additional routes are being considered; and if he will make a statement on the matter. [31351/26] "
+    },
+    "contextDate": "2026-04-30"
+  },
+  {
+    "question": {
       "date": "2026-04-30",
-      "house": {
-        "showAs": "34th Dáil",
-        "committeeCode": "",
-        "houseCode": "dail",
-        "chamberType": "house",
-        "houseNo": "34",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
-      },
-      "questionNumber": 105,
-      "debateSection": {
-        "showAs": "Public Transport",
-        "debateSectionId": "dbsect_28",
-        "formats": {
-          "pdf": null,
-          "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-30/debate/mul@/dbsect_28.xml"
-          }
-        },
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-30/debate/dbsect_28"
-      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-30/pq_105",
       "by": {
-        "showAs": "Catherine Callaghan",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Catherine-Callaghan.D.2024-11-29",
+        "showAs": "Catherine Callaghan",
         "memberCode": "Catherine-Callaghan.D.2024-11-29"
       },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-30/pq_105"
-    }
-  },
-  {
-    "contextDate": "2026-04-30",
-    "question": {
-      "showAs": " 106. Deputy Pa Daly asked the Minister for Transport if he is aware of the findings of a research paper (details supplied); if he has engaged with the Minister for Climate; Energy and the Environment to address this; and if he will make a statement on the matter. [31152/26] ",
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-30/debate/dbsect_28",
+        "debateSectionId": "dbsect_28",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-30/debate/mul@/dbsect_28.xml"
+          },
+          "pdf": null
+        },
+        "showAs": "Public Transport"
+      },
+      "house": {
+        "houseCode": "dail",
+        "houseNo": "34",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "chamberType": "house"
+      },
+      "questionType": "oral",
       "to": {
         "roleCode": null,
         "roleType": null,
         "showAs": "Transport",
         "uri": null
       },
-      "questionType": "oral",
+      "questionNumber": 105,
+      "showAs": " 105. Deputy Catherine Callaghan asked the Minister for Transport if he will provide funding for increased car parking facilities in Carlow and Muine Bheag train stations in Carlow; and if he will make a statement on the matter.  [31281/26] "
+    },
+    "contextDate": "2026-04-30"
+  },
+  {
+    "question": {
       "date": "2026-04-30",
-      "house": {
-        "showAs": "34th Dáil",
-        "committeeCode": "",
-        "houseCode": "dail",
-        "chamberType": "house",
-        "houseNo": "34",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
-      },
-      "questionNumber": 106,
-      "debateSection": {
-        "showAs": "Electric Vehicles",
-        "debateSectionId": "dbsect_29",
-        "formats": {
-          "pdf": null,
-          "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-30/debate/mul@/dbsect_29.xml"
-          }
-        },
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-30/debate/dbsect_29"
-      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-30/pq_106",
       "by": {
-        "showAs": "Pa Daly",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Pa-Daly.D.2020-02-08",
+        "showAs": "Pa Daly",
         "memberCode": "Pa-Daly.D.2020-02-08"
       },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-30/pq_106"
-    }
-  },
-  {
-    "contextDate": "2026-04-30",
-    "question": {
-      "showAs": " 107. Deputy Paul Murphy asked the Minister for Transport if he will seek substantial additional investment in public transport so that more services can be rapidly rolled out in response to the fuel crisis; and if he will make a statement on the matter. [31435/26] ",
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-30/debate/dbsect_29",
+        "debateSectionId": "dbsect_29",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-30/debate/mul@/dbsect_29.xml"
+          },
+          "pdf": null
+        },
+        "showAs": "Electric Vehicles"
+      },
+      "house": {
+        "houseCode": "dail",
+        "houseNo": "34",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "chamberType": "house"
+      },
+      "questionType": "oral",
       "to": {
         "roleCode": null,
         "roleType": null,
         "showAs": "Transport",
         "uri": null
       },
-      "questionType": "oral",
+      "questionNumber": 106,
+      "showAs": " 106. Deputy Pa Daly asked the Minister for Transport if he is aware of the findings of a research paper (details supplied); if he has engaged with the Minister for Climate; Energy and the Environment to address this; and if he will make a statement on the matter. [31152/26] "
+    },
+    "contextDate": "2026-04-30"
+  },
+  {
+    "question": {
       "date": "2026-04-30",
-      "house": {
-        "showAs": "34th Dáil",
-        "committeeCode": "",
-        "houseCode": "dail",
-        "chamberType": "house",
-        "houseNo": "34",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
-      },
-      "questionNumber": 107,
-      "debateSection": {
-        "showAs": "Public Transport",
-        "debateSectionId": "dbsect_30",
-        "formats": {
-          "pdf": null,
-          "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-30/debate/mul@/dbsect_30.xml"
-          }
-        },
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-30/debate/dbsect_30"
-      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-30/pq_107",
       "by": {
-        "showAs": "Paul Murphy",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Murphy.D.2014-10-10",
+        "showAs": "Paul Murphy",
         "memberCode": "Paul-Murphy.D.2014-10-10"
       },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-30/pq_107"
-    }
-  },
-  {
-    "contextDate": "2026-04-30",
-    "question": {
-      "showAs": " 108. Deputy Barry Heneghan asked the Minister for Transport if he is aware of ongoing reports of wheelchair users being refused service by wheelchair accessible taxis in Dublin, particularly at night; the number of complaints received and penalties issued; the way in which drivers who received public funding under the wheelchair accessible vehicle, WAV, grant scheme are held accountable for refusing passengers; the immediate actions being taken to end this discrimination and guarantee equal access to taxi services; and if he will make a statement on the matter. [31296/26] ",
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-30/debate/dbsect_30",
+        "debateSectionId": "dbsect_30",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-30/debate/mul@/dbsect_30.xml"
+          },
+          "pdf": null
+        },
+        "showAs": "Public Transport"
+      },
+      "house": {
+        "houseCode": "dail",
+        "houseNo": "34",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "chamberType": "house"
+      },
+      "questionType": "oral",
       "to": {
         "roleCode": null,
         "roleType": null,
         "showAs": "Transport",
         "uri": null
       },
-      "questionType": "oral",
+      "questionNumber": 107,
+      "showAs": " 107. Deputy Paul Murphy asked the Minister for Transport if he will seek substantial additional investment in public transport so that more services can be rapidly rolled out in response to the fuel crisis; and if he will make a statement on the matter. [31435/26] "
+    },
+    "contextDate": "2026-04-30"
+  },
+  {
+    "question": {
       "date": "2026-04-30",
-      "house": {
-        "showAs": "34th Dáil",
-        "committeeCode": "",
-        "houseCode": "dail",
-        "chamberType": "house",
-        "houseNo": "34",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
-      },
-      "questionNumber": 108,
-      "debateSection": {
-        "showAs": "Taxi Regulations",
-        "debateSectionId": "dbsect_31",
-        "formats": {
-          "pdf": null,
-          "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-30/debate/mul@/dbsect_31.xml"
-          }
-        },
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-30/debate/dbsect_31"
-      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-30/pq_108",
       "by": {
-        "showAs": "Barry Heneghan",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Barry-Heneghan.D.2024-11-29",
+        "showAs": "Barry Heneghan",
         "memberCode": "Barry-Heneghan.D.2024-11-29"
       },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-30/pq_108"
-    }
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-30/debate/dbsect_31",
+        "debateSectionId": "dbsect_31",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-30/debate/mul@/dbsect_31.xml"
+          },
+          "pdf": null
+        },
+        "showAs": "Taxi Regulations"
+      },
+      "house": {
+        "houseCode": "dail",
+        "houseNo": "34",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "chamberType": "house"
+      },
+      "questionType": "oral",
+      "to": {
+        "roleCode": null,
+        "roleType": null,
+        "showAs": "Transport",
+        "uri": null
+      },
+      "questionNumber": 108,
+      "showAs": " 108. Deputy Barry Heneghan asked the Minister for Transport if he is aware of ongoing reports of wheelchair users being refused service by wheelchair accessible taxis in Dublin, particularly at night; the number of complaints received and penalties issued; the way in which drivers who received public funding under the wheelchair accessible vehicle, WAV, grant scheme are held accountable for refusing passengers; the immediate actions being taken to end this discrimination and guarantee equal access to taxi services; and if he will make a statement on the matter. [31296/26] "
+    },
+    "contextDate": "2026-04-30"
   },
   {
     "contextDate": "2026-04-30",
@@ -4360,44 +4360,44 @@
     }
   },
   {
-    "contextDate": "2026-04-30",
     "question": {
-      "showAs": " 110. Deputy Tony McCormack asked the Minister for Transport the steps he is taking to improve public transport connectivity in County Offaly, particularly in rural areas where services remain limited; whether there are plans to expand bus routes or increase service frequency under the Connecting Ireland programme; and if he will make a statement on the matter. [31116/26] ",
+      "date": "2026-04-30",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-30/pq_110",
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tony-McCormack.D.2024-11-29",
+        "showAs": "Tony McCormack",
+        "memberCode": "Tony-McCormack.D.2024-11-29"
+      },
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-30/debate/dbsect_32",
+        "debateSectionId": "dbsect_32",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-30/debate/mul@/dbsect_32.xml"
+          },
+          "pdf": null
+        },
+        "showAs": "Public Transport"
+      },
+      "house": {
+        "houseCode": "dail",
+        "houseNo": "34",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "committeeCode": "",
+        "showAs": "34th Dáil",
+        "chamberType": "house"
+      },
+      "questionType": "oral",
       "to": {
         "roleCode": null,
         "roleType": null,
         "showAs": "Transport",
         "uri": null
       },
-      "questionType": "oral",
-      "date": "2026-04-30",
-      "house": {
-        "showAs": "34th Dáil",
-        "committeeCode": "",
-        "houseCode": "dail",
-        "chamberType": "house",
-        "houseNo": "34",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
-      },
       "questionNumber": 110,
-      "debateSection": {
-        "showAs": "Public Transport",
-        "debateSectionId": "dbsect_32",
-        "formats": {
-          "pdf": null,
-          "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-30/debate/mul@/dbsect_32.xml"
-          }
-        },
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-04-30/debate/dbsect_32"
-      },
-      "by": {
-        "showAs": "Tony McCormack",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tony-McCormack.D.2024-11-29",
-        "memberCode": "Tony-McCormack.D.2024-11-29"
-      },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-04-30/pq_110"
-    }
+      "showAs": " 110. Deputy Tony McCormack asked the Minister for Transport the steps he is taking to improve public transport connectivity in County Offaly, particularly in rural areas where services remain limited; whether there are plans to expand bus routes or increase service frequency under the Connecting Ireland programme; and if he will make a statement on the matter. [31116/26] "
+    },
+    "contextDate": "2026-04-30"
   },
   {
     "contextDate": "2026-04-30",

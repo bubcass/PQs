@@ -1,1361 +1,1921 @@
 [
   {
     "question": {
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/dbsect_12",
+        "showAs": "Cabinet Committees",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/mul@/dbsect_12.xml"
+          }
+        },
+        "debateSectionId": "dbsect_12"
+      },
+      "date": "2026-05-19",
+      "questionType": "oral",
+      "to": {
+        "roleType": null,
+        "uri": null,
+        "showAs": "Taoiseach",
+        "roleCode": null
+      },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-05-19/pq_1",
+      "showAs": " 1. Deputy Shane Moynihan asked the Taoiseach when the Cabinet committee on Northern Ireland will meet next. [7904/26] ",
       "by": {
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Shane-Moynihan.D.2024-11-29",
         "showAs": "Shane Moynihan",
         "memberCode": "Shane-Moynihan.D.2024-11-29"
       },
-      "questionNumber": 1,
-      "date": "2026-05-19",
       "house": {
         "committeeCode": "",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "showAs": "34th Dáil",
         "chamberType": "house",
         "houseNo": "34",
-        "showAs": "34th Dáil",
-        "houseCode": "dail"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
       },
-      "debateSection": {
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/dbsect_12",
-        "debateSectionId": "dbsect_12",
-        "formats": {
-          "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/mul@/dbsect_12.xml"
-          },
-          "pdf": null
-        },
-        "showAs": "Cabinet Committees"
-      },
-      "questionType": "oral",
-      "to": {
-        "uri": null,
-        "roleCode": null,
-        "showAs": "Taoiseach",
-        "roleType": null
-      },
-      "showAs": " 1. Deputy Shane Moynihan asked the Taoiseach when the Cabinet committee on Northern Ireland will meet next. [7904/26] "
+      "questionNumber": 1
     },
     "contextDate": "2026-05-19"
   },
   {
     "question": {
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/dbsect_12",
+        "showAs": "Cabinet Committees",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/mul@/dbsect_12.xml"
+          }
+        },
+        "debateSectionId": "dbsect_12"
+      },
+      "date": "2026-05-19",
+      "questionType": "oral",
+      "to": {
+        "roleType": null,
+        "uri": null,
+        "showAs": "Taoiseach",
+        "roleCode": null
+      },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-05-19/pq_2",
+      "showAs": " 2. Deputy Brendan Smith asked the Taoiseach when the Cabinet committee on Northern Ireland will meet next. [7905/26] ",
       "by": {
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Brendan-Smith.D.1992-12-14",
         "showAs": "Brendan Smith",
         "memberCode": "Brendan-Smith.D.1992-12-14"
       },
-      "questionNumber": 2,
-      "date": "2026-05-19",
       "house": {
         "committeeCode": "",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "showAs": "34th Dáil",
         "chamberType": "house",
         "houseNo": "34",
-        "showAs": "34th Dáil",
-        "houseCode": "dail"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
       },
-      "debateSection": {
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/dbsect_12",
-        "debateSectionId": "dbsect_12",
-        "formats": {
-          "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/mul@/dbsect_12.xml"
-          },
-          "pdf": null
-        },
-        "showAs": "Cabinet Committees"
-      },
-      "questionType": "oral",
-      "to": {
-        "uri": null,
-        "roleCode": null,
-        "showAs": "Taoiseach",
-        "roleType": null
-      },
-      "showAs": " 2. Deputy Brendan Smith asked the Taoiseach when the Cabinet committee on Northern Ireland will meet next. [7905/26] "
+      "questionNumber": 2
     },
     "contextDate": "2026-05-19"
   },
   {
     "question": {
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/dbsect_12",
+        "showAs": "Cabinet Committees",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/mul@/dbsect_12.xml"
+          }
+        },
+        "debateSectionId": "dbsect_12"
+      },
+      "date": "2026-05-19",
+      "questionType": "oral",
+      "to": {
+        "roleType": null,
+        "uri": null,
+        "showAs": "Taoiseach",
+        "roleCode": null
+      },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-05-19/pq_3",
+      "showAs": " 3. Deputy Erin McGreehan asked the Taoiseach when the Cabinet committee on Northern Ireland will meet next. [7907/26] ",
       "by": {
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Erin-McGreehan.S.2020-06-29",
         "showAs": "Erin McGreehan",
         "memberCode": "Erin-McGreehan.S.2020-06-29"
       },
-      "questionNumber": 3,
-      "date": "2026-05-19",
       "house": {
         "committeeCode": "",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "showAs": "34th Dáil",
         "chamberType": "house",
         "houseNo": "34",
-        "showAs": "34th Dáil",
-        "houseCode": "dail"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
       },
-      "debateSection": {
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/dbsect_12",
-        "debateSectionId": "dbsect_12",
-        "formats": {
-          "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/mul@/dbsect_12.xml"
-          },
-          "pdf": null
-        },
-        "showAs": "Cabinet Committees"
-      },
-      "questionType": "oral",
-      "to": {
-        "uri": null,
-        "roleCode": null,
-        "showAs": "Taoiseach",
-        "roleType": null
-      },
-      "showAs": " 3. Deputy Erin McGreehan asked the Taoiseach when the Cabinet committee on Northern Ireland will meet next. [7907/26] "
+      "questionNumber": 3
     },
     "contextDate": "2026-05-19"
   },
   {
     "question": {
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/dbsect_12",
+        "showAs": "Cabinet Committees",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/mul@/dbsect_12.xml"
+          }
+        },
+        "debateSectionId": "dbsect_12"
+      },
+      "date": "2026-05-19",
+      "questionType": "oral",
+      "to": {
+        "roleType": null,
+        "uri": null,
+        "showAs": "Taoiseach",
+        "roleCode": null
+      },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-05-19/pq_4",
+      "showAs": " 4. Deputy Cormac Devlin asked the Taoiseach when the Cabinet committee on Northern Ireland will meet next. [7908/26] ",
       "by": {
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Cormac-Devlin.D.2020-02-08",
         "showAs": "Cormac Devlin",
         "memberCode": "Cormac-Devlin.D.2020-02-08"
       },
-      "questionNumber": 4,
-      "date": "2026-05-19",
       "house": {
         "committeeCode": "",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "showAs": "34th Dáil",
         "chamberType": "house",
         "houseNo": "34",
-        "showAs": "34th Dáil",
-        "houseCode": "dail"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
       },
-      "debateSection": {
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/dbsect_12",
-        "debateSectionId": "dbsect_12",
-        "formats": {
-          "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/mul@/dbsect_12.xml"
-          },
-          "pdf": null
-        },
-        "showAs": "Cabinet Committees"
-      },
-      "questionType": "oral",
-      "to": {
-        "uri": null,
-        "roleCode": null,
-        "showAs": "Taoiseach",
-        "roleType": null
-      },
-      "showAs": " 4. Deputy Cormac Devlin asked the Taoiseach when the Cabinet committee on Northern Ireland will meet next. [7908/26] "
+      "questionNumber": 4
     },
     "contextDate": "2026-05-19"
   },
   {
     "question": {
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/dbsect_12",
+        "showAs": "Cabinet Committees",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/mul@/dbsect_12.xml"
+          }
+        },
+        "debateSectionId": "dbsect_12"
+      },
+      "date": "2026-05-19",
+      "questionType": "oral",
+      "to": {
+        "roleType": null,
+        "uri": null,
+        "showAs": "Taoiseach",
+        "roleCode": null
+      },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-05-19/pq_5",
+      "showAs": " 5. Deputy Ruairí Ó Murchú asked the Taoiseach when the Cabinet committee on Northern Ireland will meet next. [30024/26] ",
       "by": {
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruairí-Ó-Murchú.D.2020-02-08",
         "showAs": "Ruairí Ó Murchú",
         "memberCode": "Ruairí-Ó-Murchú.D.2020-02-08"
       },
-      "questionNumber": 5,
-      "date": "2026-05-19",
       "house": {
         "committeeCode": "",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "showAs": "34th Dáil",
         "chamberType": "house",
         "houseNo": "34",
-        "showAs": "34th Dáil",
-        "houseCode": "dail"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
       },
-      "debateSection": {
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/dbsect_12",
-        "debateSectionId": "dbsect_12",
-        "formats": {
-          "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/mul@/dbsect_12.xml"
-          },
-          "pdf": null
-        },
-        "showAs": "Cabinet Committees"
-      },
-      "questionType": "oral",
-      "to": {
-        "uri": null,
-        "roleCode": null,
-        "showAs": "Taoiseach",
-        "roleType": null
-      },
-      "showAs": " 5. Deputy Ruairí Ó Murchú asked the Taoiseach when the Cabinet committee on Northern Ireland will meet next. [30024/26] "
+      "questionNumber": 5
     },
     "contextDate": "2026-05-19"
   },
   {
     "question": {
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/dbsect_12",
+        "showAs": "Cabinet Committees",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/mul@/dbsect_12.xml"
+          }
+        },
+        "debateSectionId": "dbsect_12"
+      },
+      "date": "2026-05-19",
+      "questionType": "oral",
+      "to": {
+        "roleType": null,
+        "uri": null,
+        "showAs": "Taoiseach",
+        "roleCode": null
+      },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-05-19/pq_6",
+      "showAs": " 6. Deputy Darren O'Rourke asked the Taoiseach when the Cabinet committee on Northern Ireland will meet next. [31756/26] ",
       "by": {
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Darren-O'Rourke.D.2020-02-08",
         "showAs": "Darren O'Rourke",
         "memberCode": "Darren-O'Rourke.D.2020-02-08"
       },
-      "questionNumber": 6,
-      "date": "2026-05-19",
       "house": {
         "committeeCode": "",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "showAs": "34th Dáil",
         "chamberType": "house",
         "houseNo": "34",
-        "showAs": "34th Dáil",
-        "houseCode": "dail"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
       },
-      "debateSection": {
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/dbsect_12",
-        "debateSectionId": "dbsect_12",
-        "formats": {
-          "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/mul@/dbsect_12.xml"
-          },
-          "pdf": null
-        },
-        "showAs": "Cabinet Committees"
-      },
-      "questionType": "oral",
-      "to": {
-        "uri": null,
-        "roleCode": null,
-        "showAs": "Taoiseach",
-        "roleType": null
-      },
-      "showAs": " 6. Deputy Darren O'Rourke asked the Taoiseach when the Cabinet committee on Northern Ireland will meet next. [31756/26] "
+      "questionNumber": 6
     },
     "contextDate": "2026-05-19"
   },
   {
     "question": {
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/dbsect_12",
+        "showAs": "Cabinet Committees",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/mul@/dbsect_12.xml"
+          }
+        },
+        "debateSectionId": "dbsect_12"
+      },
+      "date": "2026-05-19",
+      "questionType": "oral",
+      "to": {
+        "roleType": null,
+        "uri": null,
+        "showAs": "Taoiseach",
+        "roleCode": null
+      },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-05-19/pq_7",
+      "showAs": " 7. Deputy Mary Lou McDonald asked the Taoiseach when the Cabinet committee on Northern Ireland will meet next. [32082/26] ",
       "by": {
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Mary-Lou-McDonald.D.2011-03-09",
         "showAs": "Mary Lou McDonald",
         "memberCode": "Mary-Lou-McDonald.D.2011-03-09"
       },
-      "questionNumber": 7,
-      "date": "2026-05-19",
       "house": {
         "committeeCode": "",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "showAs": "34th Dáil",
         "chamberType": "house",
         "houseNo": "34",
-        "showAs": "34th Dáil",
-        "houseCode": "dail"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
       },
-      "debateSection": {
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/dbsect_12",
-        "debateSectionId": "dbsect_12",
-        "formats": {
-          "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/mul@/dbsect_12.xml"
-          },
-          "pdf": null
-        },
-        "showAs": "Cabinet Committees"
-      },
-      "questionType": "oral",
-      "to": {
-        "uri": null,
-        "roleCode": null,
-        "showAs": "Taoiseach",
-        "roleType": null
-      },
-      "showAs": " 7. Deputy Mary Lou McDonald asked the Taoiseach when the Cabinet committee on Northern Ireland will meet next. [32082/26] "
+      "questionNumber": 7
     },
     "contextDate": "2026-05-19"
   },
   {
     "question": {
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/dbsect_12",
+        "showAs": "Cabinet Committees",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/mul@/dbsect_12.xml"
+          }
+        },
+        "debateSectionId": "dbsect_12"
+      },
+      "date": "2026-05-19",
+      "questionType": "oral",
+      "to": {
+        "roleType": null,
+        "uri": null,
+        "showAs": "Taoiseach",
+        "roleCode": null
+      },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-05-19/pq_8",
+      "showAs": " 8. Deputy Jennifer Whitmore asked the Taoiseach when the Cabinet committee on Northern Ireland will meet next. [32449/26] ",
       "by": {
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Jennifer-Whitmore.D.2020-02-08",
         "showAs": "Jennifer Whitmore",
         "memberCode": "Jennifer-Whitmore.D.2020-02-08"
       },
-      "questionNumber": 8,
-      "date": "2026-05-19",
       "house": {
         "committeeCode": "",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "showAs": "34th Dáil",
         "chamberType": "house",
         "houseNo": "34",
-        "showAs": "34th Dáil",
-        "houseCode": "dail"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
       },
-      "debateSection": {
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/dbsect_12",
-        "debateSectionId": "dbsect_12",
-        "formats": {
-          "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/mul@/dbsect_12.xml"
-          },
-          "pdf": null
-        },
-        "showAs": "Cabinet Committees"
-      },
-      "questionType": "oral",
-      "to": {
-        "uri": null,
-        "roleCode": null,
-        "showAs": "Taoiseach",
-        "roleType": null
-      },
-      "showAs": " 8. Deputy Jennifer Whitmore asked the Taoiseach when the Cabinet committee on Northern Ireland will meet next. [32449/26] "
+      "questionNumber": 8
     },
     "contextDate": "2026-05-19"
   },
   {
     "question": {
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/dbsect_12",
+        "showAs": "Cabinet Committees",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/mul@/dbsect_12.xml"
+          }
+        },
+        "debateSectionId": "dbsect_12"
+      },
+      "date": "2026-05-19",
+      "questionType": "oral",
+      "to": {
+        "roleType": null,
+        "uri": null,
+        "showAs": "Taoiseach",
+        "roleCode": null
+      },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-05-19/pq_9",
+      "showAs": " 9. Deputy Ivana Bacik asked the Taoiseach when the Cabinet committee on Northern Ireland will meet next. [34718/26] ",
       "by": {
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ivana-Bacik.S.2007-07-23",
         "showAs": "Ivana Bacik",
         "memberCode": "Ivana-Bacik.S.2007-07-23"
       },
-      "questionNumber": 9,
-      "date": "2026-05-19",
       "house": {
         "committeeCode": "",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "showAs": "34th Dáil",
         "chamberType": "house",
         "houseNo": "34",
-        "showAs": "34th Dáil",
-        "houseCode": "dail"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
       },
-      "debateSection": {
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/dbsect_12",
-        "debateSectionId": "dbsect_12",
-        "formats": {
-          "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/mul@/dbsect_12.xml"
-          },
-          "pdf": null
-        },
-        "showAs": "Cabinet Committees"
-      },
-      "questionType": "oral",
-      "to": {
-        "uri": null,
-        "roleCode": null,
-        "showAs": "Taoiseach",
-        "roleType": null
-      },
-      "showAs": " 9. Deputy Ivana Bacik asked the Taoiseach when the Cabinet committee on Northern Ireland will meet next. [34718/26] "
+      "questionNumber": 9
     },
     "contextDate": "2026-05-19"
   },
   {
     "question": {
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/dbsect_12",
+        "showAs": "Cabinet Committees",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/mul@/dbsect_12.xml"
+          }
+        },
+        "debateSectionId": "dbsect_12"
+      },
+      "date": "2026-05-19",
+      "questionType": "oral",
+      "to": {
+        "roleType": null,
+        "uri": null,
+        "showAs": "Taoiseach",
+        "roleCode": null
+      },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-05-19/pq_10",
+      "showAs": " 10. Deputy Rose Conway-Walsh asked the Taoiseach when the Cabinet committee on Northern Ireland will meet next. [34828/26] ",
       "by": {
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Rose-Conway-Walsh.S.2016-04-25",
         "showAs": "Rose Conway-Walsh",
         "memberCode": "Rose-Conway-Walsh.S.2016-04-25"
       },
-      "questionNumber": 10,
-      "date": "2026-05-19",
       "house": {
         "committeeCode": "",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "showAs": "34th Dáil",
         "chamberType": "house",
         "houseNo": "34",
-        "showAs": "34th Dáil",
-        "houseCode": "dail"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
       },
-      "debateSection": {
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/dbsect_12",
-        "debateSectionId": "dbsect_12",
-        "formats": {
-          "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/mul@/dbsect_12.xml"
-          },
-          "pdf": null
-        },
-        "showAs": "Cabinet Committees"
-      },
-      "questionType": "oral",
-      "to": {
-        "uri": null,
-        "roleCode": null,
-        "showAs": "Taoiseach",
-        "roleType": null
-      },
-      "showAs": " 10. Deputy Rose Conway-Walsh asked the Taoiseach when the Cabinet committee on Northern Ireland will meet next. [34828/26] "
+      "questionNumber": 10
     },
     "contextDate": "2026-05-19"
   },
   {
     "question": {
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/dbsect_12",
+        "showAs": "Cabinet Committees",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/mul@/dbsect_12.xml"
+          }
+        },
+        "debateSectionId": "dbsect_12"
+      },
+      "date": "2026-05-19",
+      "questionType": "oral",
+      "to": {
+        "roleType": null,
+        "uri": null,
+        "showAs": "Taoiseach",
+        "roleCode": null
+      },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-05-19/pq_11",
+      "showAs": " 11. Deputy Richard Boyd Barrett asked the Taoiseach when the Cabinet committee on Northern Ireland will next meet. [34872/26] ",
       "by": {
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Richard-Boyd-Barrett.D.2011-03-09",
         "showAs": "Richard Boyd Barrett",
         "memberCode": "Richard-Boyd-Barrett.D.2011-03-09"
       },
-      "questionNumber": 11,
-      "date": "2026-05-19",
       "house": {
         "committeeCode": "",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "showAs": "34th Dáil",
         "chamberType": "house",
         "houseNo": "34",
-        "showAs": "34th Dáil",
-        "houseCode": "dail"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
       },
-      "debateSection": {
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/dbsect_12",
-        "debateSectionId": "dbsect_12",
-        "formats": {
-          "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/mul@/dbsect_12.xml"
-          },
-          "pdf": null
-        },
-        "showAs": "Cabinet Committees"
-      },
-      "questionType": "oral",
-      "to": {
-        "uri": null,
-        "roleCode": null,
-        "showAs": "Taoiseach",
-        "roleType": null
-      },
-      "showAs": " 11. Deputy Richard Boyd Barrett asked the Taoiseach when the Cabinet committee on Northern Ireland will next meet. [34872/26] "
+      "questionNumber": 11
     },
     "contextDate": "2026-05-19"
   },
   {
     "question": {
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/dbsect_12",
+        "showAs": "Cabinet Committees",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/mul@/dbsect_12.xml"
+          }
+        },
+        "debateSectionId": "dbsect_12"
+      },
+      "date": "2026-05-19",
+      "questionType": "oral",
+      "to": {
+        "roleType": null,
+        "uri": null,
+        "showAs": "Taoiseach",
+        "roleCode": null
+      },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-05-19/pq_12",
+      "showAs": " 12. Deputy Paul Murphy asked the Taoiseach when the Cabinet committee on Northern Ireland will next meet. [34877/26] ",
       "by": {
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Murphy.D.2014-10-10",
         "showAs": "Paul Murphy",
         "memberCode": "Paul-Murphy.D.2014-10-10"
       },
-      "questionNumber": 12,
-      "date": "2026-05-19",
       "house": {
         "committeeCode": "",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "showAs": "34th Dáil",
         "chamberType": "house",
         "houseNo": "34",
-        "showAs": "34th Dáil",
-        "houseCode": "dail"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
       },
-      "debateSection": {
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/dbsect_12",
-        "debateSectionId": "dbsect_12",
-        "formats": {
-          "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/mul@/dbsect_12.xml"
-          },
-          "pdf": null
-        },
-        "showAs": "Cabinet Committees"
-      },
-      "questionType": "oral",
-      "to": {
-        "uri": null,
-        "roleCode": null,
-        "showAs": "Taoiseach",
-        "roleType": null
-      },
-      "showAs": " 12. Deputy Paul Murphy asked the Taoiseach when the Cabinet committee on Northern Ireland will next meet. [34877/26] "
+      "questionNumber": 12
     },
     "contextDate": "2026-05-19"
   },
   {
     "question": {
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/dbsect_12",
+        "showAs": "Cabinet Committees",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/mul@/dbsect_12.xml"
+          }
+        },
+        "debateSectionId": "dbsect_12"
+      },
+      "date": "2026-05-19",
+      "questionType": "oral",
+      "to": {
+        "roleType": null,
+        "uri": null,
+        "showAs": "Taoiseach",
+        "roleCode": null
+      },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-05-19/pq_13",
+      "showAs": " 13. Deputy Liam Quaide asked the Taoiseach when the Cabinet committee on Northern Ireland will meet next. [36949/26] ",
       "by": {
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Liam-Quaide.D.2024-11-29",
         "showAs": "Liam Quaide",
         "memberCode": "Liam-Quaide.D.2024-11-29"
       },
-      "questionNumber": 13,
-      "date": "2026-05-19",
       "house": {
         "committeeCode": "",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "showAs": "34th Dáil",
         "chamberType": "house",
         "houseNo": "34",
-        "showAs": "34th Dáil",
-        "houseCode": "dail"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
       },
-      "debateSection": {
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/dbsect_12",
-        "debateSectionId": "dbsect_12",
-        "formats": {
-          "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/mul@/dbsect_12.xml"
-          },
-          "pdf": null
-        },
-        "showAs": "Cabinet Committees"
-      },
-      "questionType": "oral",
-      "to": {
-        "uri": null,
-        "roleCode": null,
-        "showAs": "Taoiseach",
-        "roleType": null
-      },
-      "showAs": " 13. Deputy Liam Quaide asked the Taoiseach when the Cabinet committee on Northern Ireland will meet next. [36949/26] "
+      "questionNumber": 13
     },
     "contextDate": "2026-05-19"
   },
   {
     "question": {
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/dbsect_12",
+        "showAs": "Cabinet Committees",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/mul@/dbsect_12.xml"
+          }
+        },
+        "debateSectionId": "dbsect_12"
+      },
+      "date": "2026-05-19",
+      "questionType": "oral",
+      "to": {
+        "roleType": null,
+        "uri": null,
+        "showAs": "Taoiseach",
+        "roleCode": null
+      },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-05-19/pq_14",
+      "showAs": " 14. Deputy Ruth Coppinger asked the Taoiseach when the Cabinet committee on Northern Ireland will meet next. [36986/26] ",
       "by": {
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruth-Coppinger.D.2014-05-23",
         "showAs": "Ruth Coppinger",
         "memberCode": "Ruth-Coppinger.D.2014-05-23"
       },
-      "questionNumber": 14,
-      "date": "2026-05-19",
       "house": {
         "committeeCode": "",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "showAs": "34th Dáil",
         "chamberType": "house",
         "houseNo": "34",
-        "showAs": "34th Dáil",
-        "houseCode": "dail"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
       },
-      "debateSection": {
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/dbsect_12",
-        "debateSectionId": "dbsect_12",
-        "formats": {
-          "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/mul@/dbsect_12.xml"
-          },
-          "pdf": null
-        },
-        "showAs": "Cabinet Committees"
-      },
-      "questionType": "oral",
-      "to": {
-        "uri": null,
-        "roleCode": null,
-        "showAs": "Taoiseach",
-        "roleType": null
-      },
-      "showAs": " 14. Deputy Ruth Coppinger asked the Taoiseach when the Cabinet committee on Northern Ireland will meet next. [36986/26] "
+      "questionNumber": 14
     },
     "contextDate": "2026-05-19"
   },
   {
     "question": {
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/dbsect_12",
+        "showAs": "Cabinet Committees",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/mul@/dbsect_12.xml"
+          }
+        },
+        "debateSectionId": "dbsect_12"
+      },
+      "date": "2026-05-19",
+      "questionType": "oral",
+      "to": {
+        "roleType": null,
+        "uri": null,
+        "showAs": "Taoiseach",
+        "roleCode": null
+      },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-05-19/pq_15",
+      "showAs": " 15. Deputy Peadar Tóibín asked the Taoiseach when the Cabinet committee on Northern Ireland will meet next. [37160/26] ",
       "by": {
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Peadar-Tóibín.D.2011-03-09",
         "showAs": "Peadar Tóibín",
         "memberCode": "Peadar-Tóibín.D.2011-03-09"
       },
-      "questionNumber": 15,
-      "date": "2026-05-19",
       "house": {
         "committeeCode": "",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "showAs": "34th Dáil",
         "chamberType": "house",
         "houseNo": "34",
-        "showAs": "34th Dáil",
-        "houseCode": "dail"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
       },
-      "debateSection": {
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/dbsect_12",
-        "debateSectionId": "dbsect_12",
-        "formats": {
-          "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/mul@/dbsect_12.xml"
-          },
-          "pdf": null
-        },
-        "showAs": "Cabinet Committees"
-      },
-      "questionType": "oral",
-      "to": {
-        "uri": null,
-        "roleCode": null,
-        "showAs": "Taoiseach",
-        "roleType": null
-      },
-      "showAs": " 15. Deputy Peadar Tóibín asked the Taoiseach when the Cabinet committee on Northern Ireland will meet next. [37160/26] "
+      "questionNumber": 15
     },
     "contextDate": "2026-05-19"
   },
   {
     "question": {
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/dbsect_13",
+        "showAs": "Cabinet Committees",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/mul@/dbsect_13.xml"
+          }
+        },
+        "debateSectionId": "dbsect_13"
+      },
+      "date": "2026-05-19",
+      "questionType": "oral",
+      "to": {
+        "roleType": null,
+        "uri": null,
+        "showAs": "Taoiseach",
+        "roleCode": null
+      },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-05-19/pq_16",
+      "showAs": " 16. Deputy Malcolm Byrne asked the Taoiseach when the Cabinet committee on climate action, environment and energy will next meet. [11857/26] ",
       "by": {
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Malcolm-Byrne.D.2019-11-29",
         "showAs": "Malcolm Byrne",
         "memberCode": "Malcolm-Byrne.D.2019-11-29"
       },
-      "questionNumber": 16,
-      "date": "2026-05-19",
       "house": {
         "committeeCode": "",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "showAs": "34th Dáil",
         "chamberType": "house",
         "houseNo": "34",
-        "showAs": "34th Dáil",
-        "houseCode": "dail"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
       },
-      "debateSection": {
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/dbsect_13",
-        "debateSectionId": "dbsect_13",
-        "formats": {
-          "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/mul@/dbsect_13.xml"
-          },
-          "pdf": null
-        },
-        "showAs": "Cabinet Committees"
-      },
-      "questionType": "oral",
-      "to": {
-        "uri": null,
-        "roleCode": null,
-        "showAs": "Taoiseach",
-        "roleType": null
-      },
-      "showAs": " 16. Deputy Malcolm Byrne asked the Taoiseach when the Cabinet committee on climate action, environment and energy will next meet. [11857/26] "
+      "questionNumber": 16
     },
     "contextDate": "2026-05-19"
   },
   {
     "question": {
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/dbsect_13",
+        "showAs": "Cabinet Committees",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/mul@/dbsect_13.xml"
+          }
+        },
+        "debateSectionId": "dbsect_13"
+      },
+      "date": "2026-05-19",
+      "questionType": "oral",
+      "to": {
+        "roleType": null,
+        "uri": null,
+        "showAs": "Taoiseach",
+        "roleCode": null
+      },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-05-19/pq_17",
+      "showAs": " 17. Deputy Albert Dolan asked the Taoiseach when the Cabinet committee on climate action, environment and energy will next meet. [11861/26] ",
       "by": {
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Albert-Dolan.D.2024-11-29",
         "showAs": "Albert Dolan",
         "memberCode": "Albert-Dolan.D.2024-11-29"
       },
-      "questionNumber": 17,
-      "date": "2026-05-19",
       "house": {
         "committeeCode": "",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "showAs": "34th Dáil",
         "chamberType": "house",
         "houseNo": "34",
-        "showAs": "34th Dáil",
-        "houseCode": "dail"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
       },
-      "debateSection": {
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/dbsect_13",
-        "debateSectionId": "dbsect_13",
-        "formats": {
-          "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/mul@/dbsect_13.xml"
-          },
-          "pdf": null
-        },
-        "showAs": "Cabinet Committees"
-      },
-      "questionType": "oral",
-      "to": {
-        "uri": null,
-        "roleCode": null,
-        "showAs": "Taoiseach",
-        "roleType": null
-      },
-      "showAs": " 17. Deputy Albert Dolan asked the Taoiseach when the Cabinet committee on climate action, environment and energy will next meet. [11861/26] "
+      "questionNumber": 17
     },
     "contextDate": "2026-05-19"
   },
   {
     "question": {
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/dbsect_13",
+        "showAs": "Cabinet Committees",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/mul@/dbsect_13.xml"
+          }
+        },
+        "debateSectionId": "dbsect_13"
+      },
+      "date": "2026-05-19",
+      "questionType": "oral",
+      "to": {
+        "roleType": null,
+        "uri": null,
+        "showAs": "Taoiseach",
+        "roleCode": null
+      },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-05-19/pq_18",
+      "showAs": " 18. Deputy Tony McCormack asked the Taoiseach when the Cabinet committee on climate action, environment and energy will next meet. [11864/26] ",
       "by": {
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tony-McCormack.D.2024-11-29",
         "showAs": "Tony McCormack",
         "memberCode": "Tony-McCormack.D.2024-11-29"
       },
-      "questionNumber": 18,
-      "date": "2026-05-19",
       "house": {
         "committeeCode": "",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "showAs": "34th Dáil",
         "chamberType": "house",
         "houseNo": "34",
-        "showAs": "34th Dáil",
-        "houseCode": "dail"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
       },
-      "debateSection": {
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/dbsect_13",
-        "debateSectionId": "dbsect_13",
-        "formats": {
-          "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/mul@/dbsect_13.xml"
-          },
-          "pdf": null
-        },
-        "showAs": "Cabinet Committees"
-      },
-      "questionType": "oral",
-      "to": {
-        "uri": null,
-        "roleCode": null,
-        "showAs": "Taoiseach",
-        "roleType": null
-      },
-      "showAs": " 18. Deputy Tony McCormack asked the Taoiseach when the Cabinet committee on climate action, environment and energy will next meet. [11864/26] "
+      "questionNumber": 18
     },
     "contextDate": "2026-05-19"
   },
   {
     "question": {
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/dbsect_13",
+        "showAs": "Cabinet Committees",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/mul@/dbsect_13.xml"
+          }
+        },
+        "debateSectionId": "dbsect_13"
+      },
+      "date": "2026-05-19",
+      "questionType": "oral",
+      "to": {
+        "roleType": null,
+        "uri": null,
+        "showAs": "Taoiseach",
+        "roleCode": null
+      },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-05-19/pq_19",
+      "showAs": " 19. Deputy Naoise Ó Cearúil asked the Taoiseach when the Cabinet committee on climate action, environment and energy will next meet. [11869/26] ",
       "by": {
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Naoise-Ó-Cearúil.D.2024-11-29",
         "showAs": "Naoise Ó Cearúil",
         "memberCode": "Naoise-Ó-Cearúil.D.2024-11-29"
       },
-      "questionNumber": 19,
-      "date": "2026-05-19",
       "house": {
         "committeeCode": "",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "showAs": "34th Dáil",
         "chamberType": "house",
         "houseNo": "34",
-        "showAs": "34th Dáil",
-        "houseCode": "dail"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
       },
-      "debateSection": {
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/dbsect_13",
-        "debateSectionId": "dbsect_13",
-        "formats": {
-          "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/mul@/dbsect_13.xml"
-          },
-          "pdf": null
-        },
-        "showAs": "Cabinet Committees"
-      },
-      "questionType": "oral",
-      "to": {
-        "uri": null,
-        "roleCode": null,
-        "showAs": "Taoiseach",
-        "roleType": null
-      },
-      "showAs": " 19. Deputy Naoise Ó Cearúil asked the Taoiseach when the Cabinet committee on climate action, environment and energy will next meet. [11869/26] "
+      "questionNumber": 19
     },
     "contextDate": "2026-05-19"
   },
   {
     "question": {
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/dbsect_13",
+        "showAs": "Cabinet Committees",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/mul@/dbsect_13.xml"
+          }
+        },
+        "debateSectionId": "dbsect_13"
+      },
+      "date": "2026-05-19",
+      "questionType": "oral",
+      "to": {
+        "roleType": null,
+        "uri": null,
+        "showAs": "Taoiseach",
+        "roleCode": null
+      },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-05-19/pq_20",
+      "showAs": " 20. Deputy Ruairí Ó Murchú asked the Taoiseach when the Cabinet committee on climate action, environment and energy will next meet. [26721/26] ",
       "by": {
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruairí-Ó-Murchú.D.2020-02-08",
         "showAs": "Ruairí Ó Murchú",
         "memberCode": "Ruairí-Ó-Murchú.D.2020-02-08"
       },
-      "questionNumber": 20,
-      "date": "2026-05-19",
       "house": {
         "committeeCode": "",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "showAs": "34th Dáil",
         "chamberType": "house",
         "houseNo": "34",
-        "showAs": "34th Dáil",
-        "houseCode": "dail"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
       },
-      "debateSection": {
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/dbsect_13",
-        "debateSectionId": "dbsect_13",
-        "formats": {
-          "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/mul@/dbsect_13.xml"
-          },
-          "pdf": null
-        },
-        "showAs": "Cabinet Committees"
-      },
-      "questionType": "oral",
-      "to": {
-        "uri": null,
-        "roleCode": null,
-        "showAs": "Taoiseach",
-        "roleType": null
-      },
-      "showAs": " 20. Deputy Ruairí Ó Murchú asked the Taoiseach when the Cabinet committee on climate action, environment and energy will next meet. [26721/26] "
+      "questionNumber": 20
     },
     "contextDate": "2026-05-19"
   },
   {
     "question": {
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/dbsect_13",
+        "showAs": "Cabinet Committees",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/mul@/dbsect_13.xml"
+          }
+        },
+        "debateSectionId": "dbsect_13"
+      },
+      "date": "2026-05-19",
+      "questionType": "oral",
+      "to": {
+        "roleType": null,
+        "uri": null,
+        "showAs": "Taoiseach",
+        "roleCode": null
+      },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-05-19/pq_21",
+      "showAs": " 21. Deputy Mark Ward asked the Taoiseach when the Cabinet committee on climate action, environment and energy will next meet. [31949/26] ",
       "by": {
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Mark-Ward.D.2019-11-29",
         "showAs": "Mark Ward",
         "memberCode": "Mark-Ward.D.2019-11-29"
       },
-      "questionNumber": 21,
-      "date": "2026-05-19",
       "house": {
         "committeeCode": "",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "showAs": "34th Dáil",
         "chamberType": "house",
         "houseNo": "34",
-        "showAs": "34th Dáil",
-        "houseCode": "dail"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
       },
-      "debateSection": {
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/dbsect_13",
-        "debateSectionId": "dbsect_13",
-        "formats": {
-          "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/mul@/dbsect_13.xml"
-          },
-          "pdf": null
-        },
-        "showAs": "Cabinet Committees"
-      },
-      "questionType": "oral",
-      "to": {
-        "uri": null,
-        "roleCode": null,
-        "showAs": "Taoiseach",
-        "roleType": null
-      },
-      "showAs": " 21. Deputy Mark Ward asked the Taoiseach when the Cabinet committee on climate action, environment and energy will next meet. [31949/26] "
+      "questionNumber": 21
     },
     "contextDate": "2026-05-19"
   },
   {
     "question": {
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/dbsect_13",
+        "showAs": "Cabinet Committees",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/mul@/dbsect_13.xml"
+          }
+        },
+        "debateSectionId": "dbsect_13"
+      },
+      "date": "2026-05-19",
+      "questionType": "oral",
+      "to": {
+        "roleType": null,
+        "uri": null,
+        "showAs": "Taoiseach",
+        "roleCode": null
+      },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-05-19/pq_22",
+      "showAs": " 22. Deputy Jen Cummins asked the Taoiseach when the Cabinet committee on climate action, environment and energy will next meet. [32603/26] ",
       "by": {
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Jen-Cummins.D.2024-11-29",
         "showAs": "Jen Cummins",
         "memberCode": "Jen-Cummins.D.2024-11-29"
       },
-      "questionNumber": 22,
-      "date": "2026-05-19",
       "house": {
         "committeeCode": "",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "showAs": "34th Dáil",
         "chamberType": "house",
         "houseNo": "34",
-        "showAs": "34th Dáil",
-        "houseCode": "dail"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
       },
-      "debateSection": {
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/dbsect_13",
-        "debateSectionId": "dbsect_13",
-        "formats": {
-          "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/mul@/dbsect_13.xml"
-          },
-          "pdf": null
-        },
-        "showAs": "Cabinet Committees"
-      },
-      "questionType": "oral",
-      "to": {
-        "uri": null,
-        "roleCode": null,
-        "showAs": "Taoiseach",
-        "roleType": null
-      },
-      "showAs": " 22. Deputy Jen Cummins asked the Taoiseach when the Cabinet committee on climate action, environment and energy will next meet. [32603/26] "
+      "questionNumber": 22
     },
     "contextDate": "2026-05-19"
   },
   {
     "question": {
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/dbsect_13",
+        "showAs": "Cabinet Committees",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/mul@/dbsect_13.xml"
+          }
+        },
+        "debateSectionId": "dbsect_13"
+      },
+      "date": "2026-05-19",
+      "questionType": "oral",
+      "to": {
+        "roleType": null,
+        "uri": null,
+        "showAs": "Taoiseach",
+        "roleCode": null
+      },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-05-19/pq_23",
+      "showAs": " 23. Deputy Cian O'Callaghan asked the Taoiseach when the Cabinet committee on climate action, environment and energy will next meet. [32865/26] ",
       "by": {
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Cian-O'Callaghan.D.2020-02-08",
         "showAs": "Cian O'Callaghan",
         "memberCode": "Cian-O'Callaghan.D.2020-02-08"
       },
-      "questionNumber": 23,
-      "date": "2026-05-19",
       "house": {
         "committeeCode": "",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "showAs": "34th Dáil",
         "chamberType": "house",
         "houseNo": "34",
-        "showAs": "34th Dáil",
-        "houseCode": "dail"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
       },
-      "debateSection": {
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/dbsect_13",
-        "debateSectionId": "dbsect_13",
-        "formats": {
-          "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/mul@/dbsect_13.xml"
-          },
-          "pdf": null
-        },
-        "showAs": "Cabinet Committees"
-      },
-      "questionType": "oral",
-      "to": {
-        "uri": null,
-        "roleCode": null,
-        "showAs": "Taoiseach",
-        "roleType": null
-      },
-      "showAs": " 23. Deputy Cian O'Callaghan asked the Taoiseach when the Cabinet committee on climate action, environment and energy will next meet. [32865/26] "
+      "questionNumber": 23
     },
     "contextDate": "2026-05-19"
   },
   {
     "question": {
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/dbsect_13",
+        "showAs": "Cabinet Committees",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/mul@/dbsect_13.xml"
+          }
+        },
+        "debateSectionId": "dbsect_13"
+      },
+      "date": "2026-05-19",
+      "questionType": "oral",
+      "to": {
+        "roleType": null,
+        "uri": null,
+        "showAs": "Taoiseach",
+        "roleCode": null
+      },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-05-19/pq_24",
+      "showAs": " 24. Deputy Barry Heneghan asked the Taoiseach when the Cabinet committee on climate action, environment and energy will next meet [34337/26] ",
       "by": {
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Barry-Heneghan.D.2024-11-29",
         "showAs": "Barry Heneghan",
         "memberCode": "Barry-Heneghan.D.2024-11-29"
       },
-      "questionNumber": 24,
-      "date": "2026-05-19",
       "house": {
         "committeeCode": "",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "showAs": "34th Dáil",
         "chamberType": "house",
         "houseNo": "34",
-        "showAs": "34th Dáil",
-        "houseCode": "dail"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
       },
-      "debateSection": {
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/dbsect_13",
-        "debateSectionId": "dbsect_13",
-        "formats": {
-          "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/mul@/dbsect_13.xml"
-          },
-          "pdf": null
-        },
-        "showAs": "Cabinet Committees"
-      },
-      "questionType": "oral",
-      "to": {
-        "uri": null,
-        "roleCode": null,
-        "showAs": "Taoiseach",
-        "roleType": null
-      },
-      "showAs": " 24. Deputy Barry Heneghan asked the Taoiseach when the Cabinet committee on climate action, environment and energy will next meet [34337/26] "
+      "questionNumber": 24
     },
     "contextDate": "2026-05-19"
   },
   {
     "question": {
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/dbsect_13",
+        "showAs": "Cabinet Committees",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/mul@/dbsect_13.xml"
+          }
+        },
+        "debateSectionId": "dbsect_13"
+      },
+      "date": "2026-05-19",
+      "questionType": "oral",
+      "to": {
+        "roleType": null,
+        "uri": null,
+        "showAs": "Taoiseach",
+        "roleCode": null
+      },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-05-19/pq_25",
+      "showAs": " 25. Deputy Richard Boyd Barrett asked the Taoiseach when the Cabinet committee on climate action, environment and energy will next meet. [34875/26] ",
       "by": {
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Richard-Boyd-Barrett.D.2011-03-09",
         "showAs": "Richard Boyd Barrett",
         "memberCode": "Richard-Boyd-Barrett.D.2011-03-09"
       },
-      "questionNumber": 25,
-      "date": "2026-05-19",
       "house": {
         "committeeCode": "",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "showAs": "34th Dáil",
         "chamberType": "house",
         "houseNo": "34",
-        "showAs": "34th Dáil",
-        "houseCode": "dail"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
       },
-      "debateSection": {
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/dbsect_13",
-        "debateSectionId": "dbsect_13",
-        "formats": {
-          "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/mul@/dbsect_13.xml"
-          },
-          "pdf": null
-        },
-        "showAs": "Cabinet Committees"
-      },
-      "questionType": "oral",
-      "to": {
-        "uri": null,
-        "roleCode": null,
-        "showAs": "Taoiseach",
-        "roleType": null
-      },
-      "showAs": " 25. Deputy Richard Boyd Barrett asked the Taoiseach when the Cabinet committee on climate action, environment and energy will next meet. [34875/26] "
+      "questionNumber": 25
     },
     "contextDate": "2026-05-19"
   },
   {
     "question": {
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/dbsect_13",
+        "showAs": "Cabinet Committees",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/mul@/dbsect_13.xml"
+          }
+        },
+        "debateSectionId": "dbsect_13"
+      },
+      "date": "2026-05-19",
+      "questionType": "oral",
+      "to": {
+        "roleType": null,
+        "uri": null,
+        "showAs": "Taoiseach",
+        "roleCode": null
+      },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-05-19/pq_26",
+      "showAs": " 26. Deputy Paul Murphy asked the Taoiseach when the Cabinet committee on climate action, environment and energy will next meet. [34878/26] ",
       "by": {
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Murphy.D.2014-10-10",
         "showAs": "Paul Murphy",
         "memberCode": "Paul-Murphy.D.2014-10-10"
       },
-      "questionNumber": 26,
-      "date": "2026-05-19",
       "house": {
         "committeeCode": "",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "showAs": "34th Dáil",
         "chamberType": "house",
         "houseNo": "34",
-        "showAs": "34th Dáil",
-        "houseCode": "dail"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
       },
-      "debateSection": {
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/dbsect_13",
-        "debateSectionId": "dbsect_13",
-        "formats": {
-          "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/mul@/dbsect_13.xml"
-          },
-          "pdf": null
-        },
-        "showAs": "Cabinet Committees"
-      },
-      "questionType": "oral",
-      "to": {
-        "uri": null,
-        "roleCode": null,
-        "showAs": "Taoiseach",
-        "roleType": null
-      },
-      "showAs": " 26. Deputy Paul Murphy asked the Taoiseach when the Cabinet committee on climate action, environment and energy will next meet. [34878/26] "
+      "questionNumber": 26
     },
     "contextDate": "2026-05-19"
   },
   {
     "question": {
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/dbsect_13",
+        "showAs": "Cabinet Committees",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/mul@/dbsect_13.xml"
+          }
+        },
+        "debateSectionId": "dbsect_13"
+      },
+      "date": "2026-05-19",
+      "questionType": "oral",
+      "to": {
+        "roleType": null,
+        "uri": null,
+        "showAs": "Taoiseach",
+        "roleCode": null
+      },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-05-19/pq_27",
+      "showAs": " 27. Deputy Liam Quaide asked the Taoiseach when the Cabinet committee on climate action, environment and energy will next meet. [35064/26] ",
       "by": {
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Liam-Quaide.D.2024-11-29",
         "showAs": "Liam Quaide",
         "memberCode": "Liam-Quaide.D.2024-11-29"
       },
-      "questionNumber": 27,
-      "date": "2026-05-19",
       "house": {
         "committeeCode": "",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "showAs": "34th Dáil",
         "chamberType": "house",
         "houseNo": "34",
-        "showAs": "34th Dáil",
-        "houseCode": "dail"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
       },
-      "debateSection": {
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/dbsect_13",
-        "debateSectionId": "dbsect_13",
-        "formats": {
-          "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/mul@/dbsect_13.xml"
-          },
-          "pdf": null
-        },
-        "showAs": "Cabinet Committees"
-      },
-      "questionType": "oral",
-      "to": {
-        "uri": null,
-        "roleCode": null,
-        "showAs": "Taoiseach",
-        "roleType": null
-      },
-      "showAs": " 27. Deputy Liam Quaide asked the Taoiseach when the Cabinet committee on climate action, environment and energy will next meet. [35064/26] "
+      "questionNumber": 27
     },
     "contextDate": "2026-05-19"
   },
   {
     "question": {
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/dbsect_13",
+        "showAs": "Cabinet Committees",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/mul@/dbsect_13.xml"
+          }
+        },
+        "debateSectionId": "dbsect_13"
+      },
+      "date": "2026-05-19",
+      "questionType": "oral",
+      "to": {
+        "roleType": null,
+        "uri": null,
+        "showAs": "Taoiseach",
+        "roleCode": null
+      },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-05-19/pq_28",
+      "showAs": " 28. Deputy David Cullinane asked the Taoiseach when the Cabinet committee on climate action, environment and energy will next meet. [36508/26] ",
       "by": {
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/David-Cullinane.S.2011-05-25",
         "showAs": "David Cullinane",
         "memberCode": "David-Cullinane.S.2011-05-25"
       },
-      "questionNumber": 28,
-      "date": "2026-05-19",
       "house": {
         "committeeCode": "",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "showAs": "34th Dáil",
         "chamberType": "house",
         "houseNo": "34",
-        "showAs": "34th Dáil",
-        "houseCode": "dail"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
       },
-      "debateSection": {
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/dbsect_13",
-        "debateSectionId": "dbsect_13",
-        "formats": {
-          "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/mul@/dbsect_13.xml"
-          },
-          "pdf": null
-        },
-        "showAs": "Cabinet Committees"
-      },
-      "questionType": "oral",
-      "to": {
-        "uri": null,
-        "roleCode": null,
-        "showAs": "Taoiseach",
-        "roleType": null
-      },
-      "showAs": " 28. Deputy David Cullinane asked the Taoiseach when the Cabinet committee on climate action, environment and energy will next meet. [36508/26] "
+      "questionNumber": 28
     },
     "contextDate": "2026-05-19"
   },
   {
     "question": {
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/dbsect_13",
+        "showAs": "Cabinet Committees",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/mul@/dbsect_13.xml"
+          }
+        },
+        "debateSectionId": "dbsect_13"
+      },
+      "date": "2026-05-19",
+      "questionType": "oral",
+      "to": {
+        "roleType": null,
+        "uri": null,
+        "showAs": "Taoiseach",
+        "roleCode": null
+      },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-05-19/pq_29",
+      "showAs": " 29. Deputy John Connolly asked the Taoiseach when the Cabinet committee on climate action, environment and energy will next meet. [36935/26] ",
       "by": {
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/John-Connolly.D.2024-11-29",
         "showAs": "John Connolly",
         "memberCode": "John-Connolly.D.2024-11-29"
       },
-      "questionNumber": 29,
-      "date": "2026-05-19",
       "house": {
         "committeeCode": "",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "showAs": "34th Dáil",
         "chamberType": "house",
         "houseNo": "34",
-        "showAs": "34th Dáil",
-        "houseCode": "dail"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
       },
-      "debateSection": {
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/dbsect_13",
-        "debateSectionId": "dbsect_13",
-        "formats": {
-          "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/mul@/dbsect_13.xml"
-          },
-          "pdf": null
-        },
-        "showAs": "Cabinet Committees"
-      },
-      "questionType": "oral",
-      "to": {
-        "uri": null,
-        "roleCode": null,
-        "showAs": "Taoiseach",
-        "roleType": null
-      },
-      "showAs": " 29. Deputy John Connolly asked the Taoiseach when the Cabinet committee on climate action, environment and energy will next meet. [36935/26] "
+      "questionNumber": 29
     },
     "contextDate": "2026-05-19"
   },
   {
     "question": {
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/dbsect_13",
+        "showAs": "Cabinet Committees",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/mul@/dbsect_13.xml"
+          }
+        },
+        "debateSectionId": "dbsect_13"
+      },
+      "date": "2026-05-19",
+      "questionType": "oral",
+      "to": {
+        "roleType": null,
+        "uri": null,
+        "showAs": "Taoiseach",
+        "roleCode": null
+      },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-05-19/pq_30",
+      "showAs": " 30. Deputy Ruth Coppinger asked the Taoiseach when the Cabinet committee on climate action, environment and energy will next meet. [36987/26] ",
       "by": {
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruth-Coppinger.D.2014-05-23",
         "showAs": "Ruth Coppinger",
         "memberCode": "Ruth-Coppinger.D.2014-05-23"
       },
-      "questionNumber": 30,
-      "date": "2026-05-19",
       "house": {
         "committeeCode": "",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "showAs": "34th Dáil",
         "chamberType": "house",
         "houseNo": "34",
-        "showAs": "34th Dáil",
-        "houseCode": "dail"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
       },
-      "debateSection": {
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/dbsect_13",
-        "debateSectionId": "dbsect_13",
-        "formats": {
-          "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/mul@/dbsect_13.xml"
-          },
-          "pdf": null
-        },
-        "showAs": "Cabinet Committees"
-      },
-      "questionType": "oral",
-      "to": {
-        "uri": null,
-        "roleCode": null,
-        "showAs": "Taoiseach",
-        "roleType": null
-      },
-      "showAs": " 30. Deputy Ruth Coppinger asked the Taoiseach when the Cabinet committee on climate action, environment and energy will next meet. [36987/26] "
+      "questionNumber": 30
     },
     "contextDate": "2026-05-19"
   },
   {
     "question": {
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/dbsect_13",
+        "showAs": "Cabinet Committees",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/mul@/dbsect_13.xml"
+          }
+        },
+        "debateSectionId": "dbsect_13"
+      },
+      "date": "2026-05-19",
+      "questionType": "oral",
+      "to": {
+        "roleType": null,
+        "uri": null,
+        "showAs": "Taoiseach",
+        "roleCode": null
+      },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-05-19/pq_31",
+      "showAs": " 31. Deputy Peadar Tóibín asked the Taoiseach when the Cabinet committee on climate action, environment and energy will next meet. [37161/26] ",
       "by": {
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Peadar-Tóibín.D.2011-03-09",
         "showAs": "Peadar Tóibín",
         "memberCode": "Peadar-Tóibín.D.2011-03-09"
       },
-      "questionNumber": 31,
-      "date": "2026-05-19",
       "house": {
         "committeeCode": "",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "showAs": "34th Dáil",
         "chamberType": "house",
         "houseNo": "34",
-        "showAs": "34th Dáil",
-        "houseCode": "dail"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
       },
-      "debateSection": {
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/dbsect_13",
-        "debateSectionId": "dbsect_13",
-        "formats": {
-          "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/mul@/dbsect_13.xml"
-          },
-          "pdf": null
-        },
-        "showAs": "Cabinet Committees"
-      },
-      "questionType": "oral",
-      "to": {
-        "uri": null,
-        "roleCode": null,
-        "showAs": "Taoiseach",
-        "roleType": null
-      },
-      "showAs": " 31. Deputy Peadar Tóibín asked the Taoiseach when the Cabinet committee on climate action, environment and energy will next meet. [37161/26] "
+      "questionNumber": 31
     },
     "contextDate": "2026-05-19"
   },
   {
     "question": {
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/dbsect_13",
+        "showAs": "Cabinet Committees",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/mul@/dbsect_13.xml"
+          }
+        },
+        "debateSectionId": "dbsect_13"
+      },
+      "date": "2026-05-19",
+      "questionType": "oral",
+      "to": {
+        "roleType": null,
+        "uri": null,
+        "showAs": "Taoiseach",
+        "roleCode": null
+      },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-05-19/pq_32",
+      "showAs": " 32. Deputy Darren O'Rourke asked the Taoiseach when the Cabinet committee on climate action, environment and energy will next meet. [37320/26] ",
       "by": {
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Darren-O'Rourke.D.2020-02-08",
         "showAs": "Darren O'Rourke",
         "memberCode": "Darren-O'Rourke.D.2020-02-08"
       },
-      "questionNumber": 32,
-      "date": "2026-05-19",
       "house": {
         "committeeCode": "",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "showAs": "34th Dáil",
         "chamberType": "house",
         "houseNo": "34",
-        "showAs": "34th Dáil",
-        "houseCode": "dail"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
       },
-      "debateSection": {
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/dbsect_13",
-        "debateSectionId": "dbsect_13",
-        "formats": {
-          "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/mul@/dbsect_13.xml"
-          },
-          "pdf": null
-        },
-        "showAs": "Cabinet Committees"
-      },
-      "questionType": "oral",
-      "to": {
-        "uri": null,
-        "roleCode": null,
-        "showAs": "Taoiseach",
-        "roleType": null
-      },
-      "showAs": " 32. Deputy Darren O'Rourke asked the Taoiseach when the Cabinet committee on climate action, environment and energy will next meet. [37320/26] "
+      "questionNumber": 32
     },
     "contextDate": "2026-05-19"
   },
   {
     "question": {
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/dbsect_13",
+        "showAs": "Cabinet Committees",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/mul@/dbsect_13.xml"
+          }
+        },
+        "debateSectionId": "dbsect_13"
+      },
+      "date": "2026-05-19",
+      "questionType": "oral",
+      "to": {
+        "roleType": null,
+        "uri": null,
+        "showAs": "Taoiseach",
+        "roleCode": null
+      },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-05-19/pq_33",
+      "showAs": " 33. Deputy Ciarán Ahern asked the Taoiseach when the Cabinet committee on climate action, environment and energy will next meet. [37533/26] ",
       "by": {
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ciarán-Ahern.D.2024-11-29",
         "showAs": "Ciarán Ahern",
         "memberCode": "Ciarán-Ahern.D.2024-11-29"
       },
-      "questionNumber": 33,
-      "date": "2026-05-19",
       "house": {
         "committeeCode": "",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "showAs": "34th Dáil",
         "chamberType": "house",
         "houseNo": "34",
-        "showAs": "34th Dáil",
-        "houseCode": "dail"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
       },
-      "debateSection": {
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/dbsect_13",
-        "debateSectionId": "dbsect_13",
-        "formats": {
-          "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/mul@/dbsect_13.xml"
-          },
-          "pdf": null
-        },
-        "showAs": "Cabinet Committees"
-      },
-      "questionType": "oral",
-      "to": {
-        "uri": null,
-        "roleCode": null,
-        "showAs": "Taoiseach",
-        "roleType": null
-      },
-      "showAs": " 33. Deputy Ciarán Ahern asked the Taoiseach when the Cabinet committee on climate action, environment and energy will next meet. [37533/26] "
+      "questionNumber": 33
     },
     "contextDate": "2026-05-19"
   },
   {
     "question": {
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/dbsect_13",
+        "showAs": "Cabinet Committees",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/mul@/dbsect_13.xml"
+          }
+        },
+        "debateSectionId": "dbsect_13"
+      },
+      "date": "2026-05-19",
+      "questionType": "oral",
+      "to": {
+        "roleType": null,
+        "uri": null,
+        "showAs": "Taoiseach",
+        "roleCode": null
+      },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-05-19/pq_34",
+      "showAs": " 34. Deputy Rose Conway-Walsh asked the Taoiseach when the Cabinet committee on climate action, environment and energy will next meet. [37562/26] ",
       "by": {
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Rose-Conway-Walsh.S.2016-04-25",
         "showAs": "Rose Conway-Walsh",
         "memberCode": "Rose-Conway-Walsh.S.2016-04-25"
       },
-      "questionNumber": 34,
-      "date": "2026-05-19",
       "house": {
         "committeeCode": "",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseCode": "dail",
+        "showAs": "34th Dáil",
         "chamberType": "house",
         "houseNo": "34",
-        "showAs": "34th Dáil",
-        "houseCode": "dail"
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
       },
+      "questionNumber": 34
+    },
+    "contextDate": "2026-05-19"
+  },
+  {
+    "question": {
       "debateSection": {
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/dbsect_13",
-        "debateSectionId": "dbsect_13",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/dbsect_17",
+        "showAs": "Regeneration Projects",
         "formats": {
+          "pdf": null,
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/mul@/dbsect_13.xml"
-          },
-          "pdf": null
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/mul@/dbsect_17.xml"
+          }
         },
-        "showAs": "Cabinet Committees"
+        "debateSectionId": "dbsect_17"
       },
+      "date": "2026-05-19",
       "questionType": "oral",
       "to": {
+        "roleType": null,
         "uri": null,
-        "roleCode": null,
-        "showAs": "Taoiseach",
-        "roleType": null
+        "showAs": "Housing",
+        "roleCode": null
       },
-      "showAs": " 34. Deputy Rose Conway-Walsh asked the Taoiseach when the Cabinet committee on climate action, environment and energy will next meet. [37562/26] "
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-05-19/pq_139",
+      "showAs": " 139. Deputy Eoin Ó Broin asked the Minister for Housing, Local Government and Heritage to provide an update on the regeneration of Oliver Bond House following his meeting with the regeneration forum. [37767/26] ",
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Eoin-Ó-Broin.D.2016-10-03",
+        "showAs": "Eoin Ó Broin",
+        "memberCode": "Eoin-Ó-Broin.D.2016-10-03"
+      },
+      "house": {
+        "committeeCode": "",
+        "houseCode": "dail",
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "houseNo": "34",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "questionNumber": 139
+    },
+    "contextDate": "2026-05-19"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/dbsect_18",
+        "showAs": "Housing Provision",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/mul@/dbsect_18.xml"
+          }
+        },
+        "debateSectionId": "dbsect_18"
+      },
+      "date": "2026-05-19",
+      "questionType": "oral",
+      "to": {
+        "roleType": null,
+        "uri": null,
+        "showAs": "Housing",
+        "roleCode": null
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-05-19/pq_140",
+      "showAs": " 140. Deputy Conor Sheehan asked the Minister for Housing, Local Government and Heritage the action he proposes to take to address the monthly rise in homelessness and the record number of evictions; and if he will make a statement on the matter. [37893/26] ",
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Conor-Sheehan.D.2024-11-29",
+        "showAs": "Conor Sheehan",
+        "memberCode": "Conor-Sheehan.D.2024-11-29"
+      },
+      "house": {
+        "committeeCode": "",
+        "houseCode": "dail",
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "houseNo": "34",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "questionNumber": 140
+    },
+    "contextDate": "2026-05-19"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/dbsect_19",
+        "showAs": "Vacant Properties",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/mul@/dbsect_19.xml"
+          }
+        },
+        "debateSectionId": "dbsect_19"
+      },
+      "date": "2026-05-19",
+      "questionType": "oral",
+      "to": {
+        "roleType": null,
+        "uri": null,
+        "showAs": "Housing",
+        "roleCode": null
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-05-19/pq_141",
+      "showAs": " 141. Deputy Thomas Gould asked the Minister for Housing, Local Government and Heritage to provide an update on the voids programme review committed to in the Government's housing plan.  [37768/26] ",
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Thomas-Gould.D.2020-02-08",
+        "showAs": "Thomas Gould",
+        "memberCode": "Thomas-Gould.D.2020-02-08"
+      },
+      "house": {
+        "committeeCode": "",
+        "houseCode": "dail",
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "houseNo": "34",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "questionNumber": 141
+    },
+    "contextDate": "2026-05-19"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/dbsect_18",
+        "showAs": "Housing Provision",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/mul@/dbsect_18.xml"
+          }
+        },
+        "debateSectionId": "dbsect_18"
+      },
+      "date": "2026-05-19",
+      "questionType": "oral",
+      "to": {
+        "roleType": null,
+        "uri": null,
+        "showAs": "Housing",
+        "roleCode": null
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-05-19/pq_142",
+      "showAs": " 142. Deputy Rory Hearne asked the Minister for Housing, Local Government and Heritage to detail the interventions, schemes, programmes and policies employed by his Department to avoid people being made homeless by eviction, prevent them from entering into homeless accommodation and reduce the number of people evicted into homelessness; and if he will make a statement on the matter. [37934/26] ",
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Rory-Hearne.D.2024-11-29",
+        "showAs": "Rory Hearne",
+        "memberCode": "Rory-Hearne.D.2024-11-29"
+      },
+      "house": {
+        "committeeCode": "",
+        "houseCode": "dail",
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "houseNo": "34",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "questionNumber": 142
+    },
+    "contextDate": "2026-05-19"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/dbsect_20",
+        "showAs": "Defective Building Materials",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/mul@/dbsect_20.xml"
+          }
+        },
+        "debateSectionId": "dbsect_20"
+      },
+      "date": "2026-05-19",
+      "questionType": "oral",
+      "to": {
+        "roleType": null,
+        "uri": null,
+        "showAs": "Housing",
+        "roleCode": null
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-05-19/pq_143",
+      "showAs": " 143. Deputy Eoin Ó Broin asked the Minister for Housing, Local Government and Heritage to provide an update on the Celtic tiger-era building defects redress scheme and the interim fire safety remediation scheme.  [37769/26] ",
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Eoin-Ó-Broin.D.2016-10-03",
+        "showAs": "Eoin Ó Broin",
+        "memberCode": "Eoin-Ó-Broin.D.2016-10-03"
+      },
+      "house": {
+        "committeeCode": "",
+        "houseCode": "dail",
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "houseNo": "34",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "questionNumber": 143
+    },
+    "contextDate": "2026-05-19"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/dbsect_21",
+        "showAs": "Rental Sector",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/mul@/dbsect_21.xml"
+          }
+        },
+        "debateSectionId": "dbsect_21"
+      },
+      "date": "2026-05-19",
+      "questionType": "oral",
+      "to": {
+        "roleType": null,
+        "uri": null,
+        "showAs": "Housing",
+        "roleCode": null
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-05-19/pq_144",
+      "showAs": " 144. Deputy Barry Heneghan asked the Minister for Housing, Local Government and Heritage whether his Department has undertaken or commissioned any analysis of trends in landlord exits, reductions in rental listings or changes in small landlord participation following the introduction of rent regulation measures, including rent pressure zones and the Residential Tenancies (Miscellaneous Provisions) Act 2026; if he will provide details of any available findings, including regional trends where available, in tabular form; the measures being considered to prevent further loss of rental supply while maintaining tenant protections; and if he will make a statement on the matter. [37528/26] ",
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Barry-Heneghan.D.2024-11-29",
+        "showAs": "Barry Heneghan",
+        "memberCode": "Barry-Heneghan.D.2024-11-29"
+      },
+      "house": {
+        "committeeCode": "",
+        "houseCode": "dail",
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "houseNo": "34",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "questionNumber": 144
+    },
+    "contextDate": "2026-05-19"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/dbsect_22",
+        "showAs": "Derelict Sites",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/mul@/dbsect_22.xml"
+          }
+        },
+        "debateSectionId": "dbsect_22"
+      },
+      "date": "2026-05-19",
+      "questionType": "oral",
+      "to": {
+        "roleType": null,
+        "uri": null,
+        "showAs": "Housing",
+        "roleCode": null
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-05-19/pq_145",
+      "showAs": " 145. Deputy Thomas Gould asked the Minister for Housing, Local Government and Heritage the progress being made in addressing vacancy and dereliction following reports of the lowest number of quarter 1 electricity reconnections since Central Statistics Office, CSO, data began.  [37512/26] ",
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Thomas-Gould.D.2020-02-08",
+        "showAs": "Thomas Gould",
+        "memberCode": "Thomas-Gould.D.2020-02-08"
+      },
+      "house": {
+        "committeeCode": "",
+        "houseCode": "dail",
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "houseNo": "34",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "questionNumber": 145
+    },
+    "contextDate": "2026-05-19"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/dbsect_23",
+        "showAs": "Parking Provision",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/mul@/dbsect_23.xml"
+          }
+        },
+        "debateSectionId": "dbsect_23"
+      },
+      "date": "2026-05-19",
+      "questionType": "oral",
+      "to": {
+        "roleType": null,
+        "uri": null,
+        "showAs": "Housing",
+        "roleCode": null
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-05-19/pq_148",
+      "showAs": " 148. Deputy John Lahart asked the Minister for Housing, Local Government and Heritage if his Department has assessed the impact of reduced parking provision in high-density residential developments on neighbouring estates, including the issue of overspill parking and its effect on community relations; and if he will make a statement on the matter. [37539/26] ",
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/John-Lahart.D.2016-10-03",
+        "showAs": "John Lahart",
+        "memberCode": "John-Lahart.D.2016-10-03"
+      },
+      "house": {
+        "committeeCode": "",
+        "houseCode": "dail",
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "houseNo": "34",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "questionNumber": 148
+    },
+    "contextDate": "2026-05-19"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/dbsect_24",
+        "showAs": "Housing Schemes",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/mul@/dbsect_24.xml"
+          }
+        },
+        "debateSectionId": "dbsect_24"
+      },
+      "date": "2026-05-19",
+      "questionType": "oral",
+      "to": {
+        "roleType": null,
+        "uri": null,
+        "showAs": "Housing",
+        "roleCode": null
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-05-19/pq_150",
+      "showAs": " 150. Deputy Eoin Ó Broin asked the Minister for Housing, Local Government and Heritage to explain why open market value, OMV, is used as the starting price point for the affordable purchase scheme rather than all-in development costs; and to justify this policy in cases where the OMV is higher than the all-in development costs.  [37509/26] ",
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Eoin-Ó-Broin.D.2016-10-03",
+        "showAs": "Eoin Ó Broin",
+        "memberCode": "Eoin-Ó-Broin.D.2016-10-03"
+      },
+      "house": {
+        "committeeCode": "",
+        "houseCode": "dail",
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "houseNo": "34",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "questionNumber": 150
+    },
+    "contextDate": "2026-05-19"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/dbsect_25",
+        "showAs": "Housing Policy",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/mul@/dbsect_25.xml"
+          }
+        },
+        "debateSectionId": "dbsect_25"
+      },
+      "date": "2026-05-19",
+      "questionType": "oral",
+      "to": {
+        "roleType": null,
+        "uri": null,
+        "showAs": "Housing",
+        "roleCode": null
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-05-19/pq_152",
+      "showAs": " 152. Deputy Ryan O'Meara asked the Minister for Housing, Local Government and Heritage if he has any plans to scrap development levies for one-off housing; and if he will make a statement on the matter.  [37318/26] ",
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ryan-O'Meara.D.2024-11-29",
+        "showAs": "Ryan O'Meara",
+        "memberCode": "Ryan-O'Meara.D.2024-11-29"
+      },
+      "house": {
+        "committeeCode": "",
+        "houseCode": "dail",
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "houseNo": "34",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "questionNumber": 152
+    },
+    "contextDate": "2026-05-19"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/dbsect_26",
+        "showAs": "Turf Cutting",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/mul@/dbsect_26.xml"
+          }
+        },
+        "debateSectionId": "dbsect_26"
+      },
+      "date": "2026-05-19",
+      "questionType": "oral",
+      "to": {
+        "roleType": null,
+        "uri": null,
+        "showAs": "Housing",
+        "roleCode": null
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-05-19/pq_156",
+      "showAs": " 156. Deputy Louis O'Hara asked the Minister for Housing, Local Government and Heritage if he will issue an order to allow the cutting of turf at bogs (details supplied); and if he will make a statement on the matter. [36514/26] ",
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Louis-O'Hara.D.2024-11-29",
+        "showAs": "Louis O'Hara",
+        "memberCode": "Louis-O'Hara.D.2024-11-29"
+      },
+      "house": {
+        "committeeCode": "",
+        "houseCode": "dail",
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "houseNo": "34",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "questionNumber": 156
+    },
+    "contextDate": "2026-05-19"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/dbsect_27",
+        "showAs": "Energy Policy",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/mul@/dbsect_27.xml"
+          }
+        },
+        "debateSectionId": "dbsect_27"
+      },
+      "date": "2026-05-19",
+      "questionType": "oral",
+      "to": {
+        "roleType": null,
+        "uri": null,
+        "showAs": "Housing",
+        "roleCode": null
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-05-19/pq_164",
+      "showAs": " 164. Deputy Ruairí Ó Murchú asked the Minister for Housing, Local Government and Heritage to provide an updated timeline for the delivery of the retrofit scheme to all social housing units in County Louth and if he will make a statement on the matter. [37523/26] ",
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruairí-Ó-Murchú.D.2020-02-08",
+        "showAs": "Ruairí Ó Murchú",
+        "memberCode": "Ruairí-Ó-Murchú.D.2020-02-08"
+      },
+      "house": {
+        "committeeCode": "",
+        "houseCode": "dail",
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "houseNo": "34",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "questionNumber": 164
+    },
+    "contextDate": "2026-05-19"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/dbsect_28",
+        "showAs": "Housing Policy",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/mul@/dbsect_28.xml"
+          }
+        },
+        "debateSectionId": "dbsect_28"
+      },
+      "date": "2026-05-19",
+      "questionType": "oral",
+      "to": {
+        "roleType": null,
+        "uri": null,
+        "showAs": "Housing",
+        "roleCode": null
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-05-19/pq_167",
+      "showAs": " 167. Deputy Séamus McGrath asked the Minister for Housing, Local Government and Heritage to outline a timeframe for the upward revision of social housing qualifying income limits. [37496/26] ",
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Séamus-McGrath.D.2024-11-29",
+        "showAs": "Séamus McGrath",
+        "memberCode": "Séamus-McGrath.D.2024-11-29"
+      },
+      "house": {
+        "committeeCode": "",
+        "houseCode": "dail",
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "houseNo": "34",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "questionNumber": 167
+    },
+    "contextDate": "2026-05-19"
+  },
+  {
+    "question": {
+      "debateSection": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/dbsect_29",
+        "showAs": "Rental Sector",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-19/debate/mul@/dbsect_29.xml"
+          }
+        },
+        "debateSectionId": "dbsect_29"
+      },
+      "date": "2026-05-19",
+      "questionType": "oral",
+      "to": {
+        "roleType": null,
+        "uri": null,
+        "showAs": "Housing",
+        "roleCode": null
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-05-19/pq_187",
+      "showAs": " 187. Deputy Conor Sheehan asked the Minister for Housing, Local Government and Heritage if he will carry out a review of the licensing system in relation to the Government’s plan to allow landlords to rent out modular units adjacent to the principal private residence under the proposed revised exempted development guidelines; and if he will make a statement on the matter. [37482/26] ",
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Conor-Sheehan.D.2024-11-29",
+        "showAs": "Conor Sheehan",
+        "memberCode": "Conor-Sheehan.D.2024-11-29"
+      },
+      "house": {
+        "committeeCode": "",
+        "houseCode": "dail",
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "houseNo": "34",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+      },
+      "questionNumber": 187
     },
     "contextDate": "2026-05-19"
   }

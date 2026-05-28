@@ -1,1522 +1,2002 @@
 [
   {
-    "contextDate": "2026-05-26",
     "question": {
-      "questionType": "oral",
-      "showAs": " 1. Deputy Séamus McGrath asked the Taoiseach when the Cabinet committee on infrastructure will meet next. [12360/26] ",
-      "questionNumber": 1,
       "house": {
-        "houseNo": "34",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseCode": "dail",
         "showAs": "34th Dáil",
         "chamberType": "house",
-        "committeeCode": ""
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34",
+        "houseCode": "dail"
       },
-      "to": {
-        "roleCode": null,
-        "showAs": "Taoiseach",
-        "roleType": null,
-        "uri": null
+      "showAs": " 1. Deputy Séamus McGrath asked the Taoiseach when the Cabinet committee on infrastructure will meet next. [12360/26] ",
+      "questionType": "oral",
+      "questionNumber": 1,
+      "date": "2026-05-26",
+      "debateSection": {
+        "debateSectionId": "dbsect_16",
+        "showAs": "Cabinet Committees",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-26/debate/mul@/dbsect_16.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-26/debate/dbsect_16"
       },
       "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Séamus-McGrath.D.2024-11-29",
         "showAs": "Séamus McGrath",
-        "memberCode": "Séamus-McGrath.D.2024-11-29",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Séamus-McGrath.D.2024-11-29"
+        "memberCode": "Séamus-McGrath.D.2024-11-29"
       },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-05-26/pq_1",
+      "to": {
+        "roleType": null,
+        "uri": null,
+        "showAs": "Taoiseach",
+        "roleCode": null
+      }
+    },
+    "contextDate": "2026-05-26"
+  },
+  {
+    "question": {
+      "house": {
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34",
+        "houseCode": "dail"
+      },
+      "showAs": " 2. Deputy Tony McCormack asked the Taoiseach when the Cabinet committee on infrastructure will meet next. [12362/26] ",
+      "questionType": "oral",
+      "questionNumber": 2,
       "date": "2026-05-26",
       "debateSection": {
+        "debateSectionId": "dbsect_16",
         "showAs": "Cabinet Committees",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-26/debate/dbsect_16",
         "formats": {
           "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-26/debate/mul@/dbsect_16.xml"
           }
         },
-        "debateSectionId": "dbsect_16"
-      }
-    }
-  },
-  {
-    "contextDate": "2026-05-26",
-    "question": {
-      "questionType": "oral",
-      "showAs": " 2. Deputy Tony McCormack asked the Taoiseach when the Cabinet committee on infrastructure will meet next. [12362/26] ",
-      "questionNumber": 2,
-      "house": {
-        "houseNo": "34",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseCode": "dail",
-        "showAs": "34th Dáil",
-        "chamberType": "house",
-        "committeeCode": ""
-      },
-      "to": {
-        "roleCode": null,
-        "showAs": "Taoiseach",
-        "roleType": null,
-        "uri": null
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-26/debate/dbsect_16"
       },
       "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tony-McCormack.D.2024-11-29",
         "showAs": "Tony McCormack",
-        "memberCode": "Tony-McCormack.D.2024-11-29",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tony-McCormack.D.2024-11-29"
+        "memberCode": "Tony-McCormack.D.2024-11-29"
       },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-05-26/pq_2",
+      "to": {
+        "roleType": null,
+        "uri": null,
+        "showAs": "Taoiseach",
+        "roleCode": null
+      }
+    },
+    "contextDate": "2026-05-26"
+  },
+  {
+    "question": {
+      "house": {
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34",
+        "houseCode": "dail"
+      },
+      "showAs": " 3. Deputy Aindrias Moynihan asked the Taoiseach when the Cabinet committee on infrastructure will meet next. [12363/26] ",
+      "questionType": "oral",
+      "questionNumber": 3,
       "date": "2026-05-26",
       "debateSection": {
+        "debateSectionId": "dbsect_16",
         "showAs": "Cabinet Committees",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-26/debate/dbsect_16",
         "formats": {
           "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-26/debate/mul@/dbsect_16.xml"
           }
         },
-        "debateSectionId": "dbsect_16"
-      }
-    }
-  },
-  {
-    "contextDate": "2026-05-26",
-    "question": {
-      "questionType": "oral",
-      "showAs": " 3. Deputy Aindrias Moynihan asked the Taoiseach when the Cabinet committee on infrastructure will meet next. [12363/26] ",
-      "questionNumber": 3,
-      "house": {
-        "houseNo": "34",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseCode": "dail",
-        "showAs": "34th Dáil",
-        "chamberType": "house",
-        "committeeCode": ""
-      },
-      "to": {
-        "roleCode": null,
-        "showAs": "Taoiseach",
-        "roleType": null,
-        "uri": null
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-26/debate/dbsect_16"
       },
       "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Aindrias-Moynihan.D.2016-10-03",
         "showAs": "Aindrias Moynihan",
-        "memberCode": "Aindrias-Moynihan.D.2016-10-03",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Aindrias-Moynihan.D.2016-10-03"
+        "memberCode": "Aindrias-Moynihan.D.2016-10-03"
       },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-05-26/pq_3",
+      "to": {
+        "roleType": null,
+        "uri": null,
+        "showAs": "Taoiseach",
+        "roleCode": null
+      }
+    },
+    "contextDate": "2026-05-26"
+  },
+  {
+    "question": {
+      "house": {
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34",
+        "houseCode": "dail"
+      },
+      "showAs": " 4. Deputy Shane Moynihan asked the Taoiseach when the Cabinet committee on infrastructure will meet next. [12364/26] ",
+      "questionType": "oral",
+      "questionNumber": 4,
       "date": "2026-05-26",
       "debateSection": {
+        "debateSectionId": "dbsect_16",
         "showAs": "Cabinet Committees",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-26/debate/dbsect_16",
         "formats": {
           "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-26/debate/mul@/dbsect_16.xml"
           }
         },
-        "debateSectionId": "dbsect_16"
-      }
-    }
-  },
-  {
-    "contextDate": "2026-05-26",
-    "question": {
-      "questionType": "oral",
-      "showAs": " 4. Deputy Shane Moynihan asked the Taoiseach when the Cabinet committee on infrastructure will meet next. [12364/26] ",
-      "questionNumber": 4,
-      "house": {
-        "houseNo": "34",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseCode": "dail",
-        "showAs": "34th Dáil",
-        "chamberType": "house",
-        "committeeCode": ""
-      },
-      "to": {
-        "roleCode": null,
-        "showAs": "Taoiseach",
-        "roleType": null,
-        "uri": null
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-26/debate/dbsect_16"
       },
       "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Shane-Moynihan.D.2024-11-29",
         "showAs": "Shane Moynihan",
-        "memberCode": "Shane-Moynihan.D.2024-11-29",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Shane-Moynihan.D.2024-11-29"
+        "memberCode": "Shane-Moynihan.D.2024-11-29"
       },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-05-26/pq_4",
+      "to": {
+        "roleType": null,
+        "uri": null,
+        "showAs": "Taoiseach",
+        "roleCode": null
+      }
+    },
+    "contextDate": "2026-05-26"
+  },
+  {
+    "question": {
+      "house": {
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34",
+        "houseCode": "dail"
+      },
+      "showAs": " 5. Deputy Ruairí Ó Murchú asked the Taoiseach when the Cabinet committee on infrastructure will meet next. [26722/26] ",
+      "questionType": "oral",
+      "questionNumber": 5,
       "date": "2026-05-26",
       "debateSection": {
+        "debateSectionId": "dbsect_16",
         "showAs": "Cabinet Committees",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-26/debate/dbsect_16",
         "formats": {
           "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-26/debate/mul@/dbsect_16.xml"
           }
         },
-        "debateSectionId": "dbsect_16"
-      }
-    }
-  },
-  {
-    "contextDate": "2026-05-26",
-    "question": {
-      "questionType": "oral",
-      "showAs": " 5. Deputy Ruairí Ó Murchú asked the Taoiseach when the Cabinet committee on infrastructure will meet next. [26722/26] ",
-      "questionNumber": 5,
-      "house": {
-        "houseNo": "34",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseCode": "dail",
-        "showAs": "34th Dáil",
-        "chamberType": "house",
-        "committeeCode": ""
-      },
-      "to": {
-        "roleCode": null,
-        "showAs": "Taoiseach",
-        "roleType": null,
-        "uri": null
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-26/debate/dbsect_16"
       },
       "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruairí-Ó-Murchú.D.2020-02-08",
         "showAs": "Ruairí Ó Murchú",
-        "memberCode": "Ruairí-Ó-Murchú.D.2020-02-08",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruairí-Ó-Murchú.D.2020-02-08"
+        "memberCode": "Ruairí-Ó-Murchú.D.2020-02-08"
       },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-05-26/pq_5",
+      "to": {
+        "roleType": null,
+        "uri": null,
+        "showAs": "Taoiseach",
+        "roleCode": null
+      }
+    },
+    "contextDate": "2026-05-26"
+  },
+  {
+    "question": {
+      "house": {
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34",
+        "houseCode": "dail"
+      },
+      "showAs": " 6. Deputy Richard Boyd Barrett asked the Taoiseach when the Cabinet committee on infrastructure will next meet. [34876/26] ",
+      "questionType": "oral",
+      "questionNumber": 6,
       "date": "2026-05-26",
       "debateSection": {
+        "debateSectionId": "dbsect_16",
         "showAs": "Cabinet Committees",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-26/debate/dbsect_16",
         "formats": {
           "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-26/debate/mul@/dbsect_16.xml"
           }
         },
-        "debateSectionId": "dbsect_16"
-      }
-    }
-  },
-  {
-    "contextDate": "2026-05-26",
-    "question": {
-      "questionType": "oral",
-      "showAs": " 6. Deputy Richard Boyd Barrett asked the Taoiseach when the Cabinet committee on infrastructure will next meet. [34876/26] ",
-      "questionNumber": 6,
-      "house": {
-        "houseNo": "34",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseCode": "dail",
-        "showAs": "34th Dáil",
-        "chamberType": "house",
-        "committeeCode": ""
-      },
-      "to": {
-        "roleCode": null,
-        "showAs": "Taoiseach",
-        "roleType": null,
-        "uri": null
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-26/debate/dbsect_16"
       },
       "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Richard-Boyd-Barrett.D.2011-03-09",
         "showAs": "Richard Boyd Barrett",
-        "memberCode": "Richard-Boyd-Barrett.D.2011-03-09",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Richard-Boyd-Barrett.D.2011-03-09"
+        "memberCode": "Richard-Boyd-Barrett.D.2011-03-09"
       },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-05-26/pq_6",
+      "to": {
+        "roleType": null,
+        "uri": null,
+        "showAs": "Taoiseach",
+        "roleCode": null
+      }
+    },
+    "contextDate": "2026-05-26"
+  },
+  {
+    "question": {
+      "house": {
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34",
+        "houseCode": "dail"
+      },
+      "showAs": " 7. Deputy Paul Murphy asked the Taoiseach when the Cabinet committee on infrastructure will next meet. [34879/26] ",
+      "questionType": "oral",
+      "questionNumber": 7,
       "date": "2026-05-26",
       "debateSection": {
+        "debateSectionId": "dbsect_16",
         "showAs": "Cabinet Committees",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-26/debate/dbsect_16",
         "formats": {
           "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-26/debate/mul@/dbsect_16.xml"
           }
         },
-        "debateSectionId": "dbsect_16"
-      }
-    }
-  },
-  {
-    "contextDate": "2026-05-26",
-    "question": {
-      "questionType": "oral",
-      "showAs": " 7. Deputy Paul Murphy asked the Taoiseach when the Cabinet committee on infrastructure will next meet. [34879/26] ",
-      "questionNumber": 7,
-      "house": {
-        "houseNo": "34",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseCode": "dail",
-        "showAs": "34th Dáil",
-        "chamberType": "house",
-        "committeeCode": ""
-      },
-      "to": {
-        "roleCode": null,
-        "showAs": "Taoiseach",
-        "roleType": null,
-        "uri": null
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-26/debate/dbsect_16"
       },
       "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Murphy.D.2014-10-10",
         "showAs": "Paul Murphy",
-        "memberCode": "Paul-Murphy.D.2014-10-10",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Murphy.D.2014-10-10"
+        "memberCode": "Paul-Murphy.D.2014-10-10"
       },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-05-26/pq_7",
+      "to": {
+        "roleType": null,
+        "uri": null,
+        "showAs": "Taoiseach",
+        "roleCode": null
+      }
+    },
+    "contextDate": "2026-05-26"
+  },
+  {
+    "question": {
+      "house": {
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34",
+        "houseCode": "dail"
+      },
+      "showAs": " 8. Deputy David Cullinane asked the Taoiseach when the Cabinet committee on infrastructure will next meet. [36507/26] ",
+      "questionType": "oral",
+      "questionNumber": 8,
       "date": "2026-05-26",
       "debateSection": {
+        "debateSectionId": "dbsect_16",
         "showAs": "Cabinet Committees",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-26/debate/dbsect_16",
         "formats": {
           "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-26/debate/mul@/dbsect_16.xml"
           }
         },
-        "debateSectionId": "dbsect_16"
-      }
-    }
-  },
-  {
-    "contextDate": "2026-05-26",
-    "question": {
-      "questionType": "oral",
-      "showAs": " 8. Deputy David Cullinane asked the Taoiseach when the Cabinet committee on infrastructure will next meet. [36507/26] ",
-      "questionNumber": 8,
-      "house": {
-        "houseNo": "34",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseCode": "dail",
-        "showAs": "34th Dáil",
-        "chamberType": "house",
-        "committeeCode": ""
-      },
-      "to": {
-        "roleCode": null,
-        "showAs": "Taoiseach",
-        "roleType": null,
-        "uri": null
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-26/debate/dbsect_16"
       },
       "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/David-Cullinane.S.2011-05-25",
         "showAs": "David Cullinane",
-        "memberCode": "David-Cullinane.S.2011-05-25",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/David-Cullinane.S.2011-05-25"
+        "memberCode": "David-Cullinane.S.2011-05-25"
       },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-05-26/pq_8",
+      "to": {
+        "roleType": null,
+        "uri": null,
+        "showAs": "Taoiseach",
+        "roleCode": null
+      }
+    },
+    "contextDate": "2026-05-26"
+  },
+  {
+    "question": {
+      "house": {
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34",
+        "houseCode": "dail"
+      },
+      "showAs": " 9. Deputy Liam Quaide asked the Taoiseach when the Cabinet committee on infrastructure will meet next. [36951/26] ",
+      "questionType": "oral",
+      "questionNumber": 9,
       "date": "2026-05-26",
       "debateSection": {
+        "debateSectionId": "dbsect_16",
         "showAs": "Cabinet Committees",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-26/debate/dbsect_16",
         "formats": {
           "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-26/debate/mul@/dbsect_16.xml"
           }
         },
-        "debateSectionId": "dbsect_16"
-      }
-    }
-  },
-  {
-    "contextDate": "2026-05-26",
-    "question": {
-      "questionType": "oral",
-      "showAs": " 9. Deputy Liam Quaide asked the Taoiseach when the Cabinet committee on infrastructure will meet next. [36951/26] ",
-      "questionNumber": 9,
-      "house": {
-        "houseNo": "34",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseCode": "dail",
-        "showAs": "34th Dáil",
-        "chamberType": "house",
-        "committeeCode": ""
-      },
-      "to": {
-        "roleCode": null,
-        "showAs": "Taoiseach",
-        "roleType": null,
-        "uri": null
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-26/debate/dbsect_16"
       },
       "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Liam-Quaide.D.2024-11-29",
         "showAs": "Liam Quaide",
-        "memberCode": "Liam-Quaide.D.2024-11-29",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Liam-Quaide.D.2024-11-29"
+        "memberCode": "Liam-Quaide.D.2024-11-29"
       },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-05-26/pq_9",
+      "to": {
+        "roleType": null,
+        "uri": null,
+        "showAs": "Taoiseach",
+        "roleCode": null
+      }
+    },
+    "contextDate": "2026-05-26"
+  },
+  {
+    "question": {
+      "house": {
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34",
+        "houseCode": "dail"
+      },
+      "showAs": " 10. Deputy James Geoghegan asked the Taoiseach when the Cabinet committee on infrastructure will next meet. [36953/26] ",
+      "questionType": "oral",
+      "questionNumber": 10,
       "date": "2026-05-26",
       "debateSection": {
+        "debateSectionId": "dbsect_16",
         "showAs": "Cabinet Committees",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-26/debate/dbsect_16",
         "formats": {
           "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-26/debate/mul@/dbsect_16.xml"
           }
         },
-        "debateSectionId": "dbsect_16"
-      }
-    }
-  },
-  {
-    "contextDate": "2026-05-26",
-    "question": {
-      "questionType": "oral",
-      "showAs": " 10. Deputy James Geoghegan asked the Taoiseach when the Cabinet committee on infrastructure will next meet. [36953/26] ",
-      "questionNumber": 10,
-      "house": {
-        "houseNo": "34",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseCode": "dail",
-        "showAs": "34th Dáil",
-        "chamberType": "house",
-        "committeeCode": ""
-      },
-      "to": {
-        "roleCode": null,
-        "showAs": "Taoiseach",
-        "roleType": null,
-        "uri": null
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-26/debate/dbsect_16"
       },
       "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/James-Geoghegan.D.2024-11-29",
         "showAs": "James Geoghegan",
-        "memberCode": "James-Geoghegan.D.2024-11-29",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/James-Geoghegan.D.2024-11-29"
+        "memberCode": "James-Geoghegan.D.2024-11-29"
       },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-05-26/pq_10",
+      "to": {
+        "roleType": null,
+        "uri": null,
+        "showAs": "Taoiseach",
+        "roleCode": null
+      }
+    },
+    "contextDate": "2026-05-26"
+  },
+  {
+    "question": {
+      "house": {
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34",
+        "houseCode": "dail"
+      },
+      "showAs": " 11. Deputy Ruth Coppinger asked the Taoiseach when the Cabinet committee on infrastructure will meet next. [36988/26] ",
+      "questionType": "oral",
+      "questionNumber": 11,
       "date": "2026-05-26",
       "debateSection": {
+        "debateSectionId": "dbsect_16",
         "showAs": "Cabinet Committees",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-26/debate/dbsect_16",
         "formats": {
           "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-26/debate/mul@/dbsect_16.xml"
           }
         },
-        "debateSectionId": "dbsect_16"
-      }
-    }
-  },
-  {
-    "contextDate": "2026-05-26",
-    "question": {
-      "questionType": "oral",
-      "showAs": " 11. Deputy Ruth Coppinger asked the Taoiseach when the Cabinet committee on infrastructure will meet next. [36988/26] ",
-      "questionNumber": 11,
-      "house": {
-        "houseNo": "34",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseCode": "dail",
-        "showAs": "34th Dáil",
-        "chamberType": "house",
-        "committeeCode": ""
-      },
-      "to": {
-        "roleCode": null,
-        "showAs": "Taoiseach",
-        "roleType": null,
-        "uri": null
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-26/debate/dbsect_16"
       },
       "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruth-Coppinger.D.2014-05-23",
         "showAs": "Ruth Coppinger",
-        "memberCode": "Ruth-Coppinger.D.2014-05-23",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruth-Coppinger.D.2014-05-23"
+        "memberCode": "Ruth-Coppinger.D.2014-05-23"
       },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-05-26/pq_11",
+      "to": {
+        "roleType": null,
+        "uri": null,
+        "showAs": "Taoiseach",
+        "roleCode": null
+      }
+    },
+    "contextDate": "2026-05-26"
+  },
+  {
+    "question": {
+      "house": {
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34",
+        "houseCode": "dail"
+      },
+      "showAs": " 12. Deputy Mark Ward asked the Taoiseach when the Cabinet committee on infrastructure will meet next. [37494/26] ",
+      "questionType": "oral",
+      "questionNumber": 12,
       "date": "2026-05-26",
       "debateSection": {
+        "debateSectionId": "dbsect_16",
         "showAs": "Cabinet Committees",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-26/debate/dbsect_16",
         "formats": {
           "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-26/debate/mul@/dbsect_16.xml"
           }
         },
-        "debateSectionId": "dbsect_16"
-      }
-    }
-  },
-  {
-    "contextDate": "2026-05-26",
-    "question": {
-      "questionType": "oral",
-      "showAs": " 12. Deputy Mark Ward asked the Taoiseach when the Cabinet committee on infrastructure will meet next. [37494/26] ",
-      "questionNumber": 12,
-      "house": {
-        "houseNo": "34",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseCode": "dail",
-        "showAs": "34th Dáil",
-        "chamberType": "house",
-        "committeeCode": ""
-      },
-      "to": {
-        "roleCode": null,
-        "showAs": "Taoiseach",
-        "roleType": null,
-        "uri": null
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-26/debate/dbsect_16"
       },
       "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Mark-Ward.D.2019-11-29",
         "showAs": "Mark Ward",
-        "memberCode": "Mark-Ward.D.2019-11-29",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Mark-Ward.D.2019-11-29"
+        "memberCode": "Mark-Ward.D.2019-11-29"
       },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-05-26/pq_12",
+      "to": {
+        "roleType": null,
+        "uri": null,
+        "showAs": "Taoiseach",
+        "roleCode": null
+      }
+    },
+    "contextDate": "2026-05-26"
+  },
+  {
+    "question": {
+      "house": {
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34",
+        "houseCode": "dail"
+      },
+      "showAs": " 13. Deputy Conor Sheehan asked the Taoiseach when the Cabinet committee on infrastructure will meet next. [37534/26] ",
+      "questionType": "oral",
+      "questionNumber": 13,
       "date": "2026-05-26",
       "debateSection": {
+        "debateSectionId": "dbsect_16",
         "showAs": "Cabinet Committees",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-26/debate/dbsect_16",
         "formats": {
           "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-26/debate/mul@/dbsect_16.xml"
           }
         },
-        "debateSectionId": "dbsect_16"
-      }
-    }
-  },
-  {
-    "contextDate": "2026-05-26",
-    "question": {
-      "questionType": "oral",
-      "showAs": " 13. Deputy Conor Sheehan asked the Taoiseach when the Cabinet committee on infrastructure will meet next. [37534/26] ",
-      "questionNumber": 13,
-      "house": {
-        "houseNo": "34",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseCode": "dail",
-        "showAs": "34th Dáil",
-        "chamberType": "house",
-        "committeeCode": ""
-      },
-      "to": {
-        "roleCode": null,
-        "showAs": "Taoiseach",
-        "roleType": null,
-        "uri": null
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-26/debate/dbsect_16"
       },
       "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Conor-Sheehan.D.2024-11-29",
         "showAs": "Conor Sheehan",
-        "memberCode": "Conor-Sheehan.D.2024-11-29",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Conor-Sheehan.D.2024-11-29"
+        "memberCode": "Conor-Sheehan.D.2024-11-29"
       },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-05-26/pq_13",
+      "to": {
+        "roleType": null,
+        "uri": null,
+        "showAs": "Taoiseach",
+        "roleCode": null
+      }
+    },
+    "contextDate": "2026-05-26"
+  },
+  {
+    "question": {
+      "house": {
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34",
+        "houseCode": "dail"
+      },
+      "showAs": " 14. Deputy Rose Conway-Walsh asked the Taoiseach when the Cabinet committee on infrastructure will meet next. [37563/26] ",
+      "questionType": "oral",
+      "questionNumber": 14,
       "date": "2026-05-26",
       "debateSection": {
+        "debateSectionId": "dbsect_16",
         "showAs": "Cabinet Committees",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-26/debate/dbsect_16",
         "formats": {
           "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-26/debate/mul@/dbsect_16.xml"
           }
         },
-        "debateSectionId": "dbsect_16"
-      }
-    }
-  },
-  {
-    "contextDate": "2026-05-26",
-    "question": {
-      "questionType": "oral",
-      "showAs": " 14. Deputy Rose Conway-Walsh asked the Taoiseach when the Cabinet committee on infrastructure will meet next. [37563/26] ",
-      "questionNumber": 14,
-      "house": {
-        "houseNo": "34",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseCode": "dail",
-        "showAs": "34th Dáil",
-        "chamberType": "house",
-        "committeeCode": ""
-      },
-      "to": {
-        "roleCode": null,
-        "showAs": "Taoiseach",
-        "roleType": null,
-        "uri": null
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-26/debate/dbsect_16"
       },
       "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Rose-Conway-Walsh.S.2016-04-25",
         "showAs": "Rose Conway-Walsh",
-        "memberCode": "Rose-Conway-Walsh.S.2016-04-25",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Rose-Conway-Walsh.S.2016-04-25"
+        "memberCode": "Rose-Conway-Walsh.S.2016-04-25"
       },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-05-26/pq_14",
+      "to": {
+        "roleType": null,
+        "uri": null,
+        "showAs": "Taoiseach",
+        "roleCode": null
+      }
+    },
+    "contextDate": "2026-05-26"
+  },
+  {
+    "question": {
+      "house": {
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34",
+        "houseCode": "dail"
+      },
+      "showAs": " 15. Deputy Darren O'Rourke asked the Taoiseach when the Cabinet committee on infrastructure will meet next. [38893/26] ",
+      "questionType": "oral",
+      "questionNumber": 15,
       "date": "2026-05-26",
       "debateSection": {
+        "debateSectionId": "dbsect_16",
         "showAs": "Cabinet Committees",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-26/debate/dbsect_16",
         "formats": {
           "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-26/debate/mul@/dbsect_16.xml"
           }
         },
-        "debateSectionId": "dbsect_16"
-      }
-    }
-  },
-  {
-    "contextDate": "2026-05-26",
-    "question": {
-      "questionType": "oral",
-      "showAs": " 15. Deputy Darren O'Rourke asked the Taoiseach when the Cabinet committee on infrastructure will meet next. [38893/26] ",
-      "questionNumber": 15,
-      "house": {
-        "houseNo": "34",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseCode": "dail",
-        "showAs": "34th Dáil",
-        "chamberType": "house",
-        "committeeCode": ""
-      },
-      "to": {
-        "roleCode": null,
-        "showAs": "Taoiseach",
-        "roleType": null,
-        "uri": null
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-26/debate/dbsect_16"
       },
       "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Darren-O'Rourke.D.2020-02-08",
         "showAs": "Darren O'Rourke",
-        "memberCode": "Darren-O'Rourke.D.2020-02-08",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Darren-O'Rourke.D.2020-02-08"
+        "memberCode": "Darren-O'Rourke.D.2020-02-08"
       },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-05-26/pq_15",
+      "to": {
+        "roleType": null,
+        "uri": null,
+        "showAs": "Taoiseach",
+        "roleCode": null
+      }
+    },
+    "contextDate": "2026-05-26"
+  },
+  {
+    "question": {
+      "house": {
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34",
+        "houseCode": "dail"
+      },
+      "showAs": " 16. Deputy Peter 'Chap' Cleere asked the Taoiseach when the Cabinet committee on infrastructure will meet next. [38895/26] ",
+      "questionType": "oral",
+      "questionNumber": 16,
       "date": "2026-05-26",
       "debateSection": {
+        "debateSectionId": "dbsect_16",
         "showAs": "Cabinet Committees",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-26/debate/dbsect_16",
         "formats": {
           "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-26/debate/mul@/dbsect_16.xml"
           }
         },
-        "debateSectionId": "dbsect_16"
-      }
-    }
-  },
-  {
-    "contextDate": "2026-05-26",
-    "question": {
-      "questionType": "oral",
-      "showAs": " 16. Deputy Peter 'Chap' Cleere asked the Taoiseach when the Cabinet committee on infrastructure will meet next. [38895/26] ",
-      "questionNumber": 16,
-      "house": {
-        "houseNo": "34",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseCode": "dail",
-        "showAs": "34th Dáil",
-        "chamberType": "house",
-        "committeeCode": ""
-      },
-      "to": {
-        "roleCode": null,
-        "showAs": "Taoiseach",
-        "roleType": null,
-        "uri": null
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-26/debate/dbsect_16"
       },
       "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Peter-'Chap'-Cleere.D.2024-11-29",
         "showAs": "Peter 'Chap' Cleere",
-        "memberCode": "Peter-'Chap'-Cleere.D.2024-11-29",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Peter-'Chap'-Cleere.D.2024-11-29"
+        "memberCode": "Peter-'Chap'-Cleere.D.2024-11-29"
       },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-05-26/pq_16",
+      "to": {
+        "roleType": null,
+        "uri": null,
+        "showAs": "Taoiseach",
+        "roleCode": null
+      }
+    },
+    "contextDate": "2026-05-26"
+  },
+  {
+    "question": {
+      "house": {
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34",
+        "houseCode": "dail"
+      },
+      "showAs": " 17. Deputy Peadar Tóibín asked the Taoiseach when the Cabinet committee on infrastructure will meet next. [39179/26] ",
+      "questionType": "oral",
+      "questionNumber": 17,
       "date": "2026-05-26",
       "debateSection": {
+        "debateSectionId": "dbsect_16",
         "showAs": "Cabinet Committees",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-26/debate/dbsect_16",
         "formats": {
           "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-26/debate/mul@/dbsect_16.xml"
           }
         },
-        "debateSectionId": "dbsect_16"
-      }
-    }
-  },
-  {
-    "contextDate": "2026-05-26",
-    "question": {
-      "questionType": "oral",
-      "showAs": " 17. Deputy Peadar Tóibín asked the Taoiseach when the Cabinet committee on infrastructure will meet next. [39179/26] ",
-      "questionNumber": 17,
-      "house": {
-        "houseNo": "34",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseCode": "dail",
-        "showAs": "34th Dáil",
-        "chamberType": "house",
-        "committeeCode": ""
-      },
-      "to": {
-        "roleCode": null,
-        "showAs": "Taoiseach",
-        "roleType": null,
-        "uri": null
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-26/debate/dbsect_16"
       },
       "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Peadar-Tóibín.D.2011-03-09",
         "showAs": "Peadar Tóibín",
-        "memberCode": "Peadar-Tóibín.D.2011-03-09",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Peadar-Tóibín.D.2011-03-09"
+        "memberCode": "Peadar-Tóibín.D.2011-03-09"
       },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-05-26/pq_17",
+      "to": {
+        "roleType": null,
+        "uri": null,
+        "showAs": "Taoiseach",
+        "roleCode": null
+      }
+    },
+    "contextDate": "2026-05-26"
+  },
+  {
+    "question": {
+      "house": {
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34",
+        "houseCode": "dail"
+      },
+      "showAs": " 18. Deputy Jennifer Whitmore asked the Taoiseach when the Cabinet committee on infrastructure will meet next. [39343/26] ",
+      "questionType": "oral",
+      "questionNumber": 18,
       "date": "2026-05-26",
       "debateSection": {
+        "debateSectionId": "dbsect_16",
         "showAs": "Cabinet Committees",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-26/debate/dbsect_16",
         "formats": {
           "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-26/debate/mul@/dbsect_16.xml"
           }
         },
-        "debateSectionId": "dbsect_16"
-      }
-    }
-  },
-  {
-    "contextDate": "2026-05-26",
-    "question": {
-      "questionType": "oral",
-      "showAs": " 18. Deputy Jennifer Whitmore asked the Taoiseach when the Cabinet committee on infrastructure will meet next. [39343/26] ",
-      "questionNumber": 18,
-      "house": {
-        "houseNo": "34",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseCode": "dail",
-        "showAs": "34th Dáil",
-        "chamberType": "house",
-        "committeeCode": ""
-      },
-      "to": {
-        "roleCode": null,
-        "showAs": "Taoiseach",
-        "roleType": null,
-        "uri": null
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-26/debate/dbsect_16"
       },
       "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Jennifer-Whitmore.D.2020-02-08",
         "showAs": "Jennifer Whitmore",
-        "memberCode": "Jennifer-Whitmore.D.2020-02-08",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Jennifer-Whitmore.D.2020-02-08"
+        "memberCode": "Jennifer-Whitmore.D.2020-02-08"
       },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-05-26/pq_18",
+      "to": {
+        "roleType": null,
+        "uri": null,
+        "showAs": "Taoiseach",
+        "roleCode": null
+      }
+    },
+    "contextDate": "2026-05-26"
+  },
+  {
+    "question": {
+      "house": {
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34",
+        "houseCode": "dail"
+      },
+      "showAs": " 19. Deputy Paul Lawless asked the Taoiseach when the Cabinet committee on infrastructure will meet next. [39395/26] ",
+      "questionType": "oral",
+      "questionNumber": 19,
       "date": "2026-05-26",
       "debateSection": {
+        "debateSectionId": "dbsect_16",
         "showAs": "Cabinet Committees",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-26/debate/dbsect_16",
         "formats": {
           "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-26/debate/mul@/dbsect_16.xml"
           }
         },
-        "debateSectionId": "dbsect_16"
-      }
-    }
-  },
-  {
-    "contextDate": "2026-05-26",
-    "question": {
-      "questionType": "oral",
-      "showAs": " 19. Deputy Paul Lawless asked the Taoiseach when the Cabinet committee on infrastructure will meet next. [39395/26] ",
-      "questionNumber": 19,
-      "house": {
-        "houseNo": "34",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseCode": "dail",
-        "showAs": "34th Dáil",
-        "chamberType": "house",
-        "committeeCode": ""
-      },
-      "to": {
-        "roleCode": null,
-        "showAs": "Taoiseach",
-        "roleType": null,
-        "uri": null
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-26/debate/dbsect_16"
       },
       "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Lawless.D.2024-11-29",
         "showAs": "Paul Lawless",
-        "memberCode": "Paul-Lawless.D.2024-11-29",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Lawless.D.2024-11-29"
+        "memberCode": "Paul-Lawless.D.2024-11-29"
       },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-05-26/pq_19",
+      "to": {
+        "roleType": null,
+        "uri": null,
+        "showAs": "Taoiseach",
+        "roleCode": null
+      }
+    },
+    "contextDate": "2026-05-26"
+  },
+  {
+    "question": {
+      "house": {
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34",
+        "houseCode": "dail"
+      },
+      "showAs": " 20. Deputy Louis O'Hara asked the Taoiseach when the Cabinet committee on infrastructure will meet next. [39587/26] ",
+      "questionType": "oral",
+      "questionNumber": 20,
       "date": "2026-05-26",
       "debateSection": {
+        "debateSectionId": "dbsect_16",
         "showAs": "Cabinet Committees",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-26/debate/dbsect_16",
         "formats": {
           "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-26/debate/mul@/dbsect_16.xml"
           }
         },
-        "debateSectionId": "dbsect_16"
-      }
-    }
-  },
-  {
-    "contextDate": "2026-05-26",
-    "question": {
-      "questionType": "oral",
-      "showAs": " 20. Deputy Louis O'Hara asked the Taoiseach when the Cabinet committee on infrastructure will meet next. [39587/26] ",
-      "questionNumber": 20,
-      "house": {
-        "houseNo": "34",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseCode": "dail",
-        "showAs": "34th Dáil",
-        "chamberType": "house",
-        "committeeCode": ""
-      },
-      "to": {
-        "roleCode": null,
-        "showAs": "Taoiseach",
-        "roleType": null,
-        "uri": null
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-26/debate/dbsect_16"
       },
       "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Louis-O'Hara.D.2024-11-29",
         "showAs": "Louis O'Hara",
-        "memberCode": "Louis-O'Hara.D.2024-11-29",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Louis-O'Hara.D.2024-11-29"
+        "memberCode": "Louis-O'Hara.D.2024-11-29"
       },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-05-26/pq_20",
+      "to": {
+        "roleType": null,
+        "uri": null,
+        "showAs": "Taoiseach",
+        "roleCode": null
+      }
+    },
+    "contextDate": "2026-05-26"
+  },
+  {
+    "question": {
+      "house": {
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34",
+        "houseCode": "dail"
+      },
+      "showAs": " 21. Deputy Conor D. McGuinness asked the Taoiseach when the Cabinet committee on infrastructure will meet next. [39588/26] ",
+      "questionType": "oral",
+      "questionNumber": 21,
       "date": "2026-05-26",
       "debateSection": {
+        "debateSectionId": "dbsect_16",
         "showAs": "Cabinet Committees",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-26/debate/dbsect_16",
         "formats": {
           "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-26/debate/mul@/dbsect_16.xml"
           }
         },
-        "debateSectionId": "dbsect_16"
-      }
-    }
-  },
-  {
-    "contextDate": "2026-05-26",
-    "question": {
-      "questionType": "oral",
-      "showAs": " 21. Deputy Conor D. McGuinness asked the Taoiseach when the Cabinet committee on infrastructure will meet next. [39588/26] ",
-      "questionNumber": 21,
-      "house": {
-        "houseNo": "34",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseCode": "dail",
-        "showAs": "34th Dáil",
-        "chamberType": "house",
-        "committeeCode": ""
-      },
-      "to": {
-        "roleCode": null,
-        "showAs": "Taoiseach",
-        "roleType": null,
-        "uri": null
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-26/debate/dbsect_16"
       },
       "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Conor-D-McGuinness.D.2024-11-29",
         "showAs": "Conor D McGuinness",
-        "memberCode": "Conor-D-McGuinness.D.2024-11-29",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Conor-D-McGuinness.D.2024-11-29"
+        "memberCode": "Conor-D-McGuinness.D.2024-11-29"
       },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-05-26/pq_21",
+      "to": {
+        "roleType": null,
+        "uri": null,
+        "showAs": "Taoiseach",
+        "roleCode": null
+      }
+    },
+    "contextDate": "2026-05-26"
+  },
+  {
+    "question": {
+      "house": {
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34",
+        "houseCode": "dail"
+      },
+      "showAs": " 22. Deputy Conor Sheehan asked the Taoiseach when the Cabinet committee on infrastructure will meet next [39593/26] ",
+      "questionType": "oral",
+      "questionNumber": 22,
       "date": "2026-05-26",
       "debateSection": {
+        "debateSectionId": "dbsect_16",
         "showAs": "Cabinet Committees",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-26/debate/dbsect_16",
         "formats": {
           "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-26/debate/mul@/dbsect_16.xml"
           }
         },
-        "debateSectionId": "dbsect_16"
-      }
-    }
-  },
-  {
-    "contextDate": "2026-05-26",
-    "question": {
-      "questionType": "oral",
-      "showAs": " 22. Deputy Conor Sheehan asked the Taoiseach when the Cabinet committee on infrastructure will meet next [39593/26] ",
-      "questionNumber": 22,
-      "house": {
-        "houseNo": "34",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseCode": "dail",
-        "showAs": "34th Dáil",
-        "chamberType": "house",
-        "committeeCode": ""
-      },
-      "to": {
-        "roleCode": null,
-        "showAs": "Taoiseach",
-        "roleType": null,
-        "uri": null
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-26/debate/dbsect_16"
       },
       "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Conor-Sheehan.D.2024-11-29",
         "showAs": "Conor Sheehan",
-        "memberCode": "Conor-Sheehan.D.2024-11-29",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Conor-Sheehan.D.2024-11-29"
+        "memberCode": "Conor-Sheehan.D.2024-11-29"
       },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-05-26/pq_22",
+      "to": {
+        "roleType": null,
+        "uri": null,
+        "showAs": "Taoiseach",
+        "roleCode": null
+      }
+    },
+    "contextDate": "2026-05-26"
+  },
+  {
+    "question": {
+      "house": {
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34",
+        "houseCode": "dail"
+      },
+      "showAs": " 23. Deputy Barry Heneghan asked the Taoiseach when the Cabinet committee on infrastructure will meet next. [39716/26] ",
+      "questionType": "oral",
+      "questionNumber": 23,
       "date": "2026-05-26",
       "debateSection": {
+        "debateSectionId": "dbsect_16",
         "showAs": "Cabinet Committees",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-26/debate/dbsect_16",
         "formats": {
           "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-26/debate/mul@/dbsect_16.xml"
           }
         },
-        "debateSectionId": "dbsect_16"
-      }
-    }
-  },
-  {
-    "contextDate": "2026-05-26",
-    "question": {
-      "questionType": "oral",
-      "showAs": " 23. Deputy Barry Heneghan asked the Taoiseach when the Cabinet committee on infrastructure will meet next. [39716/26] ",
-      "questionNumber": 23,
-      "house": {
-        "houseNo": "34",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseCode": "dail",
-        "showAs": "34th Dáil",
-        "chamberType": "house",
-        "committeeCode": ""
-      },
-      "to": {
-        "roleCode": null,
-        "showAs": "Taoiseach",
-        "roleType": null,
-        "uri": null
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-26/debate/dbsect_16"
       },
       "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Barry-Heneghan.D.2024-11-29",
         "showAs": "Barry Heneghan",
-        "memberCode": "Barry-Heneghan.D.2024-11-29",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Barry-Heneghan.D.2024-11-29"
+        "memberCode": "Barry-Heneghan.D.2024-11-29"
       },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-05-26/pq_23",
+      "to": {
+        "roleType": null,
+        "uri": null,
+        "showAs": "Taoiseach",
+        "roleCode": null
+      }
+    },
+    "contextDate": "2026-05-26"
+  },
+  {
+    "question": {
+      "house": {
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34",
+        "houseCode": "dail"
+      },
+      "showAs": " 24. Deputy Cian O'Callaghan asked the Taoiseach when the Cabinet committee on infrastructure will meet next. [39719/26] ",
+      "questionType": "oral",
+      "questionNumber": 24,
       "date": "2026-05-26",
       "debateSection": {
+        "debateSectionId": "dbsect_16",
         "showAs": "Cabinet Committees",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-26/debate/dbsect_16",
         "formats": {
           "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-26/debate/mul@/dbsect_16.xml"
           }
         },
-        "debateSectionId": "dbsect_16"
-      }
-    }
-  },
-  {
-    "contextDate": "2026-05-26",
-    "question": {
-      "questionType": "oral",
-      "showAs": " 24. Deputy Cian O'Callaghan asked the Taoiseach when the Cabinet committee on infrastructure will meet next. [39719/26] ",
-      "questionNumber": 24,
-      "house": {
-        "houseNo": "34",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseCode": "dail",
-        "showAs": "34th Dáil",
-        "chamberType": "house",
-        "committeeCode": ""
-      },
-      "to": {
-        "roleCode": null,
-        "showAs": "Taoiseach",
-        "roleType": null,
-        "uri": null
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-26/debate/dbsect_16"
       },
       "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Cian-O'Callaghan.D.2020-02-08",
         "showAs": "Cian O'Callaghan",
-        "memberCode": "Cian-O'Callaghan.D.2020-02-08",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Cian-O'Callaghan.D.2020-02-08"
+        "memberCode": "Cian-O'Callaghan.D.2020-02-08"
       },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-05-26/pq_24",
+      "to": {
+        "roleType": null,
+        "uri": null,
+        "showAs": "Taoiseach",
+        "roleCode": null
+      }
+    },
+    "contextDate": "2026-05-26"
+  },
+  {
+    "question": {
+      "house": {
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34",
+        "houseCode": "dail"
+      },
+      "showAs": " 25. Deputy Brendan Smith asked the Taoiseach if he will report on the work of the shared island unit in his Department. [14895/26] ",
+      "questionType": "oral",
+      "questionNumber": 25,
       "date": "2026-05-26",
       "debateSection": {
-        "showAs": "Cabinet Committees",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-26/debate/dbsect_16",
+        "debateSectionId": "dbsect_17",
+        "showAs": "Northern Ireland",
         "formats": {
           "pdf": null,
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-26/debate/mul@/dbsect_16.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-26/debate/mul@/dbsect_17.xml"
           }
         },
-        "debateSectionId": "dbsect_16"
-      }
-    }
-  },
-  {
-    "contextDate": "2026-05-26",
-    "question": {
-      "questionType": "oral",
-      "showAs": " 25. Deputy Brendan Smith asked the Taoiseach if he will report on the work of the shared island unit in his Department. [14895/26] ",
-      "questionNumber": 25,
-      "house": {
-        "houseNo": "34",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseCode": "dail",
-        "showAs": "34th Dáil",
-        "chamberType": "house",
-        "committeeCode": ""
-      },
-      "to": {
-        "roleCode": null,
-        "showAs": "Taoiseach",
-        "roleType": null,
-        "uri": null
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-26/debate/dbsect_17"
       },
       "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Brendan-Smith.D.1992-12-14",
         "showAs": "Brendan Smith",
-        "memberCode": "Brendan-Smith.D.1992-12-14",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Brendan-Smith.D.1992-12-14"
+        "memberCode": "Brendan-Smith.D.1992-12-14"
       },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-05-26/pq_25",
+      "to": {
+        "roleType": null,
+        "uri": null,
+        "showAs": "Taoiseach",
+        "roleCode": null
+      }
+    },
+    "contextDate": "2026-05-26"
+  },
+  {
+    "question": {
+      "house": {
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34",
+        "houseCode": "dail"
+      },
+      "showAs": " 26. Deputy Cormac Devlin asked the Taoiseach if he will report on the work of the shared island unit in his Department. [14896/26] ",
+      "questionType": "oral",
+      "questionNumber": 26,
       "date": "2026-05-26",
       "debateSection": {
+        "debateSectionId": "dbsect_17",
         "showAs": "Northern Ireland",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-26/debate/dbsect_17",
         "formats": {
           "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-26/debate/mul@/dbsect_17.xml"
           }
         },
-        "debateSectionId": "dbsect_17"
-      }
-    }
-  },
-  {
-    "contextDate": "2026-05-26",
-    "question": {
-      "questionType": "oral",
-      "showAs": " 26. Deputy Cormac Devlin asked the Taoiseach if he will report on the work of the shared island unit in his Department. [14896/26] ",
-      "questionNumber": 26,
-      "house": {
-        "houseNo": "34",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseCode": "dail",
-        "showAs": "34th Dáil",
-        "chamberType": "house",
-        "committeeCode": ""
-      },
-      "to": {
-        "roleCode": null,
-        "showAs": "Taoiseach",
-        "roleType": null,
-        "uri": null
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-26/debate/dbsect_17"
       },
       "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Cormac-Devlin.D.2020-02-08",
         "showAs": "Cormac Devlin",
-        "memberCode": "Cormac-Devlin.D.2020-02-08",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Cormac-Devlin.D.2020-02-08"
+        "memberCode": "Cormac-Devlin.D.2020-02-08"
       },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-05-26/pq_26",
+      "to": {
+        "roleType": null,
+        "uri": null,
+        "showAs": "Taoiseach",
+        "roleCode": null
+      }
+    },
+    "contextDate": "2026-05-26"
+  },
+  {
+    "question": {
+      "house": {
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34",
+        "houseCode": "dail"
+      },
+      "showAs": " 27. Deputy Cathal Crowe asked the Taoiseach if he will report on the work of the shared island unit in his Department. [14897/26] ",
+      "questionType": "oral",
+      "questionNumber": 27,
       "date": "2026-05-26",
       "debateSection": {
+        "debateSectionId": "dbsect_17",
         "showAs": "Northern Ireland",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-26/debate/dbsect_17",
         "formats": {
           "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-26/debate/mul@/dbsect_17.xml"
           }
         },
-        "debateSectionId": "dbsect_17"
-      }
-    }
-  },
-  {
-    "contextDate": "2026-05-26",
-    "question": {
-      "questionType": "oral",
-      "showAs": " 27. Deputy Cathal Crowe asked the Taoiseach if he will report on the work of the shared island unit in his Department. [14897/26] ",
-      "questionNumber": 27,
-      "house": {
-        "houseNo": "34",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseCode": "dail",
-        "showAs": "34th Dáil",
-        "chamberType": "house",
-        "committeeCode": ""
-      },
-      "to": {
-        "roleCode": null,
-        "showAs": "Taoiseach",
-        "roleType": null,
-        "uri": null
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-26/debate/dbsect_17"
       },
       "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Cathal-Crowe.D.2020-02-08",
         "showAs": "Cathal Crowe",
-        "memberCode": "Cathal-Crowe.D.2020-02-08",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Cathal-Crowe.D.2020-02-08"
+        "memberCode": "Cathal-Crowe.D.2020-02-08"
       },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-05-26/pq_27",
+      "to": {
+        "roleType": null,
+        "uri": null,
+        "showAs": "Taoiseach",
+        "roleCode": null
+      }
+    },
+    "contextDate": "2026-05-26"
+  },
+  {
+    "question": {
+      "house": {
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34",
+        "houseCode": "dail"
+      },
+      "showAs": " 28. Deputy Ruairí Ó Murchú asked the Taoiseach if he will report on the work of the shared island unit in his Department. [26723/26] ",
+      "questionType": "oral",
+      "questionNumber": 28,
       "date": "2026-05-26",
       "debateSection": {
+        "debateSectionId": "dbsect_17",
         "showAs": "Northern Ireland",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-26/debate/dbsect_17",
         "formats": {
           "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-26/debate/mul@/dbsect_17.xml"
           }
         },
-        "debateSectionId": "dbsect_17"
-      }
-    }
-  },
-  {
-    "contextDate": "2026-05-26",
-    "question": {
-      "questionType": "oral",
-      "showAs": " 28. Deputy Ruairí Ó Murchú asked the Taoiseach if he will report on the work of the shared island unit in his Department. [26723/26] ",
-      "questionNumber": 28,
-      "house": {
-        "houseNo": "34",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseCode": "dail",
-        "showAs": "34th Dáil",
-        "chamberType": "house",
-        "committeeCode": ""
-      },
-      "to": {
-        "roleCode": null,
-        "showAs": "Taoiseach",
-        "roleType": null,
-        "uri": null
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-26/debate/dbsect_17"
       },
       "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruairí-Ó-Murchú.D.2020-02-08",
         "showAs": "Ruairí Ó Murchú",
-        "memberCode": "Ruairí-Ó-Murchú.D.2020-02-08",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruairí-Ó-Murchú.D.2020-02-08"
+        "memberCode": "Ruairí-Ó-Murchú.D.2020-02-08"
       },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-05-26/pq_28",
+      "to": {
+        "roleType": null,
+        "uri": null,
+        "showAs": "Taoiseach",
+        "roleCode": null
+      }
+    },
+    "contextDate": "2026-05-26"
+  },
+  {
+    "question": {
+      "house": {
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34",
+        "houseCode": "dail"
+      },
+      "showAs": " 29. Deputy Liam Quaide asked the Taoiseach if he will report on the work of the shared island unit in his Department. [38775/26] ",
+      "questionType": "oral",
+      "questionNumber": 29,
       "date": "2026-05-26",
       "debateSection": {
+        "debateSectionId": "dbsect_17",
         "showAs": "Northern Ireland",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-26/debate/dbsect_17",
         "formats": {
           "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-26/debate/mul@/dbsect_17.xml"
           }
         },
-        "debateSectionId": "dbsect_17"
-      }
-    }
-  },
-  {
-    "contextDate": "2026-05-26",
-    "question": {
-      "questionType": "oral",
-      "showAs": " 29. Deputy Liam Quaide asked the Taoiseach if he will report on the work of the shared island unit in his Department. [38775/26] ",
-      "questionNumber": 29,
-      "house": {
-        "houseNo": "34",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseCode": "dail",
-        "showAs": "34th Dáil",
-        "chamberType": "house",
-        "committeeCode": ""
-      },
-      "to": {
-        "roleCode": null,
-        "showAs": "Taoiseach",
-        "roleType": null,
-        "uri": null
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-26/debate/dbsect_17"
       },
       "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Liam-Quaide.D.2024-11-29",
         "showAs": "Liam Quaide",
-        "memberCode": "Liam-Quaide.D.2024-11-29",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Liam-Quaide.D.2024-11-29"
+        "memberCode": "Liam-Quaide.D.2024-11-29"
       },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-05-26/pq_29",
+      "to": {
+        "roleType": null,
+        "uri": null,
+        "showAs": "Taoiseach",
+        "roleCode": null
+      }
+    },
+    "contextDate": "2026-05-26"
+  },
+  {
+    "question": {
+      "house": {
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34",
+        "houseCode": "dail"
+      },
+      "showAs": " 30. Deputy Darren O'Rourke asked the Taoiseach if he will report on the work of the shared island unit in his Department. [38894/26] ",
+      "questionType": "oral",
+      "questionNumber": 30,
       "date": "2026-05-26",
       "debateSection": {
+        "debateSectionId": "dbsect_17",
         "showAs": "Northern Ireland",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-26/debate/dbsect_17",
         "formats": {
           "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-26/debate/mul@/dbsect_17.xml"
           }
         },
-        "debateSectionId": "dbsect_17"
-      }
-    }
-  },
-  {
-    "contextDate": "2026-05-26",
-    "question": {
-      "questionType": "oral",
-      "showAs": " 30. Deputy Darren O'Rourke asked the Taoiseach if he will report on the work of the shared island unit in his Department. [38894/26] ",
-      "questionNumber": 30,
-      "house": {
-        "houseNo": "34",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseCode": "dail",
-        "showAs": "34th Dáil",
-        "chamberType": "house",
-        "committeeCode": ""
-      },
-      "to": {
-        "roleCode": null,
-        "showAs": "Taoiseach",
-        "roleType": null,
-        "uri": null
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-26/debate/dbsect_17"
       },
       "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Darren-O'Rourke.D.2020-02-08",
         "showAs": "Darren O'Rourke",
-        "memberCode": "Darren-O'Rourke.D.2020-02-08",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Darren-O'Rourke.D.2020-02-08"
+        "memberCode": "Darren-O'Rourke.D.2020-02-08"
       },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-05-26/pq_30",
+      "to": {
+        "roleType": null,
+        "uri": null,
+        "showAs": "Taoiseach",
+        "roleCode": null
+      }
+    },
+    "contextDate": "2026-05-26"
+  },
+  {
+    "question": {
+      "house": {
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34",
+        "houseCode": "dail"
+      },
+      "showAs": " 31. Deputy Richard Boyd Barrett asked the Taoiseach if he will report on the work of the shared island unit in his Department. [38896/26] ",
+      "questionType": "oral",
+      "questionNumber": 31,
       "date": "2026-05-26",
       "debateSection": {
+        "debateSectionId": "dbsect_17",
         "showAs": "Northern Ireland",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-26/debate/dbsect_17",
         "formats": {
           "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-26/debate/mul@/dbsect_17.xml"
           }
         },
-        "debateSectionId": "dbsect_17"
-      }
-    }
-  },
-  {
-    "contextDate": "2026-05-26",
-    "question": {
-      "questionType": "oral",
-      "showAs": " 31. Deputy Richard Boyd Barrett asked the Taoiseach if he will report on the work of the shared island unit in his Department. [38896/26] ",
-      "questionNumber": 31,
-      "house": {
-        "houseNo": "34",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseCode": "dail",
-        "showAs": "34th Dáil",
-        "chamberType": "house",
-        "committeeCode": ""
-      },
-      "to": {
-        "roleCode": null,
-        "showAs": "Taoiseach",
-        "roleType": null,
-        "uri": null
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-26/debate/dbsect_17"
       },
       "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Richard-Boyd-Barrett.D.2011-03-09",
         "showAs": "Richard Boyd Barrett",
-        "memberCode": "Richard-Boyd-Barrett.D.2011-03-09",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Richard-Boyd-Barrett.D.2011-03-09"
+        "memberCode": "Richard-Boyd-Barrett.D.2011-03-09"
       },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-05-26/pq_31",
+      "to": {
+        "roleType": null,
+        "uri": null,
+        "showAs": "Taoiseach",
+        "roleCode": null
+      }
+    },
+    "contextDate": "2026-05-26"
+  },
+  {
+    "question": {
+      "house": {
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34",
+        "houseCode": "dail"
+      },
+      "showAs": " 32. Deputy Paul Murphy asked the Taoiseach if he will report on the work of the shared island unit in his Department. [38899/26] ",
+      "questionType": "oral",
+      "questionNumber": 32,
       "date": "2026-05-26",
       "debateSection": {
+        "debateSectionId": "dbsect_17",
         "showAs": "Northern Ireland",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-26/debate/dbsect_17",
         "formats": {
           "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-26/debate/mul@/dbsect_17.xml"
           }
         },
-        "debateSectionId": "dbsect_17"
-      }
-    }
-  },
-  {
-    "contextDate": "2026-05-26",
-    "question": {
-      "questionType": "oral",
-      "showAs": " 32. Deputy Paul Murphy asked the Taoiseach if he will report on the work of the shared island unit in his Department. [38899/26] ",
-      "questionNumber": 32,
-      "house": {
-        "houseNo": "34",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseCode": "dail",
-        "showAs": "34th Dáil",
-        "chamberType": "house",
-        "committeeCode": ""
-      },
-      "to": {
-        "roleCode": null,
-        "showAs": "Taoiseach",
-        "roleType": null,
-        "uri": null
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-26/debate/dbsect_17"
       },
       "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Murphy.D.2014-10-10",
         "showAs": "Paul Murphy",
-        "memberCode": "Paul-Murphy.D.2014-10-10",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Murphy.D.2014-10-10"
+        "memberCode": "Paul-Murphy.D.2014-10-10"
       },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-05-26/pq_32",
+      "to": {
+        "roleType": null,
+        "uri": null,
+        "showAs": "Taoiseach",
+        "roleCode": null
+      }
+    },
+    "contextDate": "2026-05-26"
+  },
+  {
+    "question": {
+      "house": {
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34",
+        "houseCode": "dail"
+      },
+      "showAs": " 33. Deputy Peadar Tóibín asked the Taoiseach if he will report on the work of the shared island unit in his Department. [39180/26] ",
+      "questionType": "oral",
+      "questionNumber": 33,
       "date": "2026-05-26",
       "debateSection": {
+        "debateSectionId": "dbsect_17",
         "showAs": "Northern Ireland",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-26/debate/dbsect_17",
         "formats": {
           "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-26/debate/mul@/dbsect_17.xml"
           }
         },
-        "debateSectionId": "dbsect_17"
-      }
-    }
-  },
-  {
-    "contextDate": "2026-05-26",
-    "question": {
-      "questionType": "oral",
-      "showAs": " 33. Deputy Peadar Tóibín asked the Taoiseach if he will report on the work of the shared island unit in his Department. [39180/26] ",
-      "questionNumber": 33,
-      "house": {
-        "houseNo": "34",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseCode": "dail",
-        "showAs": "34th Dáil",
-        "chamberType": "house",
-        "committeeCode": ""
-      },
-      "to": {
-        "roleCode": null,
-        "showAs": "Taoiseach",
-        "roleType": null,
-        "uri": null
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-26/debate/dbsect_17"
       },
       "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Peadar-Tóibín.D.2011-03-09",
         "showAs": "Peadar Tóibín",
-        "memberCode": "Peadar-Tóibín.D.2011-03-09",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Peadar-Tóibín.D.2011-03-09"
+        "memberCode": "Peadar-Tóibín.D.2011-03-09"
       },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-05-26/pq_33",
+      "to": {
+        "roleType": null,
+        "uri": null,
+        "showAs": "Taoiseach",
+        "roleCode": null
+      }
+    },
+    "contextDate": "2026-05-26"
+  },
+  {
+    "question": {
+      "house": {
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34",
+        "houseCode": "dail"
+      },
+      "showAs": " 34. Deputy Jennifer Whitmore asked the Taoiseach if he will report on the work of the shared island unit in his Department. [39344/26] ",
+      "questionType": "oral",
+      "questionNumber": 34,
       "date": "2026-05-26",
       "debateSection": {
+        "debateSectionId": "dbsect_17",
         "showAs": "Northern Ireland",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-26/debate/dbsect_17",
         "formats": {
           "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-26/debate/mul@/dbsect_17.xml"
           }
         },
-        "debateSectionId": "dbsect_17"
-      }
-    }
-  },
-  {
-    "contextDate": "2026-05-26",
-    "question": {
-      "questionType": "oral",
-      "showAs": " 34. Deputy Jennifer Whitmore asked the Taoiseach if he will report on the work of the shared island unit in his Department. [39344/26] ",
-      "questionNumber": 34,
-      "house": {
-        "houseNo": "34",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseCode": "dail",
-        "showAs": "34th Dáil",
-        "chamberType": "house",
-        "committeeCode": ""
-      },
-      "to": {
-        "roleCode": null,
-        "showAs": "Taoiseach",
-        "roleType": null,
-        "uri": null
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-26/debate/dbsect_17"
       },
       "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Jennifer-Whitmore.D.2020-02-08",
         "showAs": "Jennifer Whitmore",
-        "memberCode": "Jennifer-Whitmore.D.2020-02-08",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Jennifer-Whitmore.D.2020-02-08"
+        "memberCode": "Jennifer-Whitmore.D.2020-02-08"
       },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-05-26/pq_34",
+      "to": {
+        "roleType": null,
+        "uri": null,
+        "showAs": "Taoiseach",
+        "roleCode": null
+      }
+    },
+    "contextDate": "2026-05-26"
+  },
+  {
+    "question": {
+      "house": {
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34",
+        "houseCode": "dail"
+      },
+      "showAs": " 35. Deputy Conor D. McGuinness asked the Taoiseach if he will report on the work of the shared island unit in his Department. [39589/26] ",
+      "questionType": "oral",
+      "questionNumber": 35,
       "date": "2026-05-26",
       "debateSection": {
+        "debateSectionId": "dbsect_17",
         "showAs": "Northern Ireland",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-26/debate/dbsect_17",
         "formats": {
           "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-26/debate/mul@/dbsect_17.xml"
           }
         },
-        "debateSectionId": "dbsect_17"
-      }
-    }
-  },
-  {
-    "contextDate": "2026-05-26",
-    "question": {
-      "questionType": "oral",
-      "showAs": " 35. Deputy Conor D. McGuinness asked the Taoiseach if he will report on the work of the shared island unit in his Department. [39589/26] ",
-      "questionNumber": 35,
-      "house": {
-        "houseNo": "34",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseCode": "dail",
-        "showAs": "34th Dáil",
-        "chamberType": "house",
-        "committeeCode": ""
-      },
-      "to": {
-        "roleCode": null,
-        "showAs": "Taoiseach",
-        "roleType": null,
-        "uri": null
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-26/debate/dbsect_17"
       },
       "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Conor-D-McGuinness.D.2024-11-29",
         "showAs": "Conor D McGuinness",
-        "memberCode": "Conor-D-McGuinness.D.2024-11-29",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Conor-D-McGuinness.D.2024-11-29"
+        "memberCode": "Conor-D-McGuinness.D.2024-11-29"
       },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-05-26/pq_35",
+      "to": {
+        "roleType": null,
+        "uri": null,
+        "showAs": "Taoiseach",
+        "roleCode": null
+      }
+    },
+    "contextDate": "2026-05-26"
+  },
+  {
+    "question": {
+      "house": {
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34",
+        "houseCode": "dail"
+      },
+      "showAs": " 36. Deputy Barry Heneghan asked the Taoiseach if he will report on the work of the shared island unit in his Department [39717/26] ",
+      "questionType": "oral",
+      "questionNumber": 36,
       "date": "2026-05-26",
       "debateSection": {
+        "debateSectionId": "dbsect_17",
         "showAs": "Northern Ireland",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-26/debate/dbsect_17",
         "formats": {
           "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-26/debate/mul@/dbsect_17.xml"
           }
         },
-        "debateSectionId": "dbsect_17"
-      }
-    }
-  },
-  {
-    "contextDate": "2026-05-26",
-    "question": {
-      "questionType": "oral",
-      "showAs": " 36. Deputy Barry Heneghan asked the Taoiseach if he will report on the work of the shared island unit in his Department [39717/26] ",
-      "questionNumber": 36,
-      "house": {
-        "houseNo": "34",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseCode": "dail",
-        "showAs": "34th Dáil",
-        "chamberType": "house",
-        "committeeCode": ""
-      },
-      "to": {
-        "roleCode": null,
-        "showAs": "Taoiseach",
-        "roleType": null,
-        "uri": null
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-26/debate/dbsect_17"
       },
       "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Barry-Heneghan.D.2024-11-29",
         "showAs": "Barry Heneghan",
-        "memberCode": "Barry-Heneghan.D.2024-11-29",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Barry-Heneghan.D.2024-11-29"
+        "memberCode": "Barry-Heneghan.D.2024-11-29"
       },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-05-26/pq_36",
+      "to": {
+        "roleType": null,
+        "uri": null,
+        "showAs": "Taoiseach",
+        "roleCode": null
+      }
+    },
+    "contextDate": "2026-05-26"
+  },
+  {
+    "question": {
+      "house": {
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34",
+        "houseCode": "dail"
+      },
+      "showAs": " 37. Deputy Erin McGreehan asked the Taoiseach if he will report on the work of the shared island unit in his Department. [37321/26] ",
+      "questionType": "oral",
+      "questionNumber": 37,
       "date": "2026-05-26",
       "debateSection": {
+        "debateSectionId": "dbsect_17",
         "showAs": "Northern Ireland",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-26/debate/dbsect_17",
         "formats": {
           "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-26/debate/mul@/dbsect_17.xml"
           }
         },
-        "debateSectionId": "dbsect_17"
-      }
-    }
-  },
-  {
-    "contextDate": "2026-05-26",
-    "question": {
-      "questionType": "oral",
-      "showAs": " 37. Deputy Erin McGreehan asked the Taoiseach if he will report on the work of the shared island unit in his Department. [37321/26] ",
-      "questionNumber": 37,
-      "house": {
-        "houseNo": "34",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseCode": "dail",
-        "showAs": "34th Dáil",
-        "chamberType": "house",
-        "committeeCode": ""
-      },
-      "to": {
-        "roleCode": null,
-        "showAs": "Taoiseach",
-        "roleType": null,
-        "uri": null
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-26/debate/dbsect_17"
       },
       "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Erin-McGreehan.S.2020-06-29",
         "showAs": "Erin McGreehan",
-        "memberCode": "Erin-McGreehan.S.2020-06-29",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Erin-McGreehan.S.2020-06-29"
+        "memberCode": "Erin-McGreehan.S.2020-06-29"
       },
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-05-26/pq_37",
-      "date": "2026-05-26",
-      "debateSection": {
-        "showAs": "Northern Ireland",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-26/debate/dbsect_17",
-        "formats": {
-          "pdf": null,
-          "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-26/debate/mul@/dbsect_17.xml"
-          }
-        },
-        "debateSectionId": "dbsect_17"
+      "to": {
+        "roleType": null,
+        "uri": null,
+        "showAs": "Taoiseach",
+        "roleCode": null
       }
-    }
+    },
+    "contextDate": "2026-05-26"
   },
   {
-    "contextDate": "2026-05-26",
     "question": {
-      "questionType": "oral",
-      "showAs": " 136. Deputy Pearse Doherty asked the Tánaiste and Minister for Finance if he will bring forward an emergency budget to help people deal with the cost of living. [39713/26] ",
-      "questionNumber": 136,
       "house": {
-        "houseNo": "34",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "houseCode": "dail",
         "showAs": "34th Dáil",
         "chamberType": "house",
-        "committeeCode": ""
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34",
+        "houseCode": "dail"
       },
-      "to": {
-        "roleCode": null,
-        "showAs": "Finance",
-        "roleType": null,
-        "uri": null
-      },
-      "by": {
-        "showAs": "Pearse Doherty",
-        "memberCode": "Pearse-Doherty.S.2007-07-23",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Pearse-Doherty.S.2007-07-23"
-      },
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-05-26/pq_136",
+      "showAs": " 136. Deputy Pearse Doherty asked the Tánaiste and Minister for Finance if he will bring forward an emergency budget to help people deal with the cost of living. [39713/26] ",
+      "questionType": "oral",
+      "questionNumber": 136,
       "date": "2026-05-26",
       "debateSection": {
+        "debateSectionId": "dbsect_22",
         "showAs": "Cost of Living Issues",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-26/debate/dbsect_22",
         "formats": {
           "pdf": null,
           "xml": {
             "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-26/debate/mul@/dbsect_22.xml"
           }
         },
-        "debateSectionId": "dbsect_22"
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-26/debate/dbsect_22"
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Pearse-Doherty.S.2007-07-23",
+        "showAs": "Pearse Doherty",
+        "memberCode": "Pearse-Doherty.S.2007-07-23"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-05-26/pq_136",
+      "to": {
+        "roleType": null,
+        "uri": null,
+        "showAs": "Finance",
+        "roleCode": null
       }
-    }
+    },
+    "contextDate": "2026-05-26"
+  },
+  {
+    "question": {
+      "house": {
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34",
+        "houseCode": "dail"
+      },
+      "showAs": " 137. Deputy Ged Nash asked the Tánaiste and Minister for Finance if any applications have been made to date to the Revenue Commissioners from property owners in Drogheda and Dundalk for access to the living cities initiative; and if he will make a statement on the matter.  [39890/26] ",
+      "questionType": "oral",
+      "questionNumber": 137,
+      "date": "2026-05-26",
+      "debateSection": {
+        "debateSectionId": "dbsect_23",
+        "showAs": "Regeneration Projects",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-26/debate/mul@/dbsect_23.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-26/debate/dbsect_23"
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Gerald-Nash.D.2011-03-09",
+        "showAs": "Ged Nash",
+        "memberCode": "Gerald-Nash.D.2011-03-09"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-05-26/pq_137",
+      "to": {
+        "roleType": null,
+        "uri": null,
+        "showAs": "Finance",
+        "roleCode": null
+      }
+    },
+    "contextDate": "2026-05-26"
+  },
+  {
+    "question": {
+      "house": {
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34",
+        "houseCode": "dail"
+      },
+      "showAs": " 138. Deputy Pearse Doherty asked the Tánaiste and Minister for Finance the reason the motor insurance transparency code is voluntary and not subject to administrative sanctions procedure. [39714/26] ",
+      "questionType": "oral",
+      "questionNumber": 138,
+      "date": "2026-05-26",
+      "debateSection": {
+        "debateSectionId": "dbsect_24",
+        "showAs": "Insurance Industry",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-26/debate/mul@/dbsect_24.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-26/debate/dbsect_24"
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Pearse-Doherty.S.2007-07-23",
+        "showAs": "Pearse Doherty",
+        "memberCode": "Pearse-Doherty.S.2007-07-23"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-05-26/pq_138",
+      "to": {
+        "roleType": null,
+        "uri": null,
+        "showAs": "Finance",
+        "roleCode": null
+      }
+    },
+    "contextDate": "2026-05-26"
+  },
+  {
+    "question": {
+      "house": {
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34",
+        "houseCode": "dail"
+      },
+      "showAs": " 139. Deputy Pearse Doherty asked the Tánaiste and Minister for Finance if he will reconsider his position and introduce a windfall tax on energy companies in order to fund support for workers and families with the rising cost of bills. [39715/26] ",
+      "questionType": "oral",
+      "questionNumber": 139,
+      "date": "2026-05-26",
+      "debateSection": {
+        "debateSectionId": "dbsect_25",
+        "showAs": "Tax Code",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-26/debate/mul@/dbsect_25.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-26/debate/dbsect_25"
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Pearse-Doherty.S.2007-07-23",
+        "showAs": "Pearse Doherty",
+        "memberCode": "Pearse-Doherty.S.2007-07-23"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-05-26/pq_139",
+      "to": {
+        "roleType": null,
+        "uri": null,
+        "showAs": "Finance",
+        "roleCode": null
+      }
+    },
+    "contextDate": "2026-05-26"
+  },
+  {
+    "question": {
+      "house": {
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34",
+        "houseCode": "dail"
+      },
+      "showAs": " 141. Deputy James O'Connor asked the Tánaiste and Minister for Finance if he is considering new taxation measures to strengthen Ireland's competitiveness to support the growth of the indigenous sector and encourage retail investment; and if he will make a statement on the matter. [39878/26] ",
+      "questionType": "oral",
+      "questionNumber": 141,
+      "date": "2026-05-26",
+      "debateSection": {
+        "debateSectionId": "dbsect_26",
+        "showAs": "Tax Code",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-26/debate/mul@/dbsect_26.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-26/debate/dbsect_26"
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/James-O'Connor.D.2020-02-08",
+        "showAs": "James O'Connor",
+        "memberCode": "James-O'Connor.D.2020-02-08"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-05-26/pq_141",
+      "to": {
+        "roleType": null,
+        "uri": null,
+        "showAs": "Finance",
+        "roleCode": null
+      }
+    },
+    "contextDate": "2026-05-26"
+  },
+  {
+    "question": {
+      "house": {
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34",
+        "houseCode": "dail"
+      },
+      "showAs": " 142. Deputy Cathal Crowe asked the Tánaiste and Minister for Finance if he is considering a reduction in the capital gains tax rate from 33% to 25% for active business assets; and if he will make a statement on the matter. [39656/26] ",
+      "questionType": "oral",
+      "questionNumber": 142,
+      "date": "2026-05-26",
+      "debateSection": {
+        "debateSectionId": "dbsect_28",
+        "showAs": "Tax Reliefs",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-26/debate/mul@/dbsect_28.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-26/debate/dbsect_28"
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Cathal-Crowe.D.2020-02-08",
+        "showAs": "Cathal Crowe",
+        "memberCode": "Cathal-Crowe.D.2020-02-08"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-05-26/pq_142",
+      "to": {
+        "roleType": null,
+        "uri": null,
+        "showAs": "Finance",
+        "roleCode": null
+      }
+    },
+    "contextDate": "2026-05-26"
+  },
+  {
+    "question": {
+      "house": {
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34",
+        "houseCode": "dail"
+      },
+      "showAs": " 143. Deputy Cian O'Callaghan asked the Tánaiste and Minister for Finance the steps he is taking to ensure that the Government and the Central Bank are acting in accordance with the recommendations set out in the report on the Israeli bond programme of the Oireachtas Joint Committee on Finance, Public Expenditure, Public Service Reform and Digitalisation, and Taoiseach; and if he will make a statement on the matter.  [39701/26] ",
+      "questionType": "oral",
+      "questionNumber": 143,
+      "date": "2026-05-26",
+      "debateSection": {
+        "debateSectionId": "dbsect_27",
+        "showAs": "Fiscal Policy",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-26/debate/mul@/dbsect_27.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-26/debate/dbsect_27"
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Cian-O'Callaghan.D.2020-02-08",
+        "showAs": "Cian O'Callaghan",
+        "memberCode": "Cian-O'Callaghan.D.2020-02-08"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-05-26/pq_143",
+      "to": {
+        "roleType": null,
+        "uri": null,
+        "showAs": "Finance",
+        "roleCode": null
+      }
+    },
+    "contextDate": "2026-05-26"
+  },
+  {
+    "question": {
+      "house": {
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34",
+        "houseCode": "dail"
+      },
+      "showAs": " 144. Deputy Pearse Doherty asked the Tánaiste and Minister for Finance the reason €7.7 billion in proceeds from the sale of AIB shares is sitting, uninvested, with the Ireland Strategic Investment Fund, ISIF.  [39793/26] ",
+      "questionType": "oral",
+      "questionNumber": 144,
+      "date": "2026-05-26",
+      "debateSection": {
+        "debateSectionId": "dbsect_29",
+        "showAs": "Banking Sector",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-26/debate/mul@/dbsect_29.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-26/debate/dbsect_29"
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Pearse-Doherty.S.2007-07-23",
+        "showAs": "Pearse Doherty",
+        "memberCode": "Pearse-Doherty.S.2007-07-23"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-05-26/pq_144",
+      "to": {
+        "roleType": null,
+        "uri": null,
+        "showAs": "Finance",
+        "roleCode": null
+      }
+    },
+    "contextDate": "2026-05-26"
+  },
+  {
+    "question": {
+      "house": {
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34",
+        "houseCode": "dail"
+      },
+      "showAs": " 145. Deputy Cian O'Callaghan asked the Tánaiste and Minister for Finance if he will ensure the Irish Strategic Investment Fund, ISIF, is fully divested from all companies that are directly and indirectly involved in illegally occupied Palestinian territories, OPT; and if he will make a statement on the matter.  [39699/26] ",
+      "questionType": "oral",
+      "questionNumber": 145,
+      "date": "2026-05-26",
+      "debateSection": {
+        "debateSectionId": "dbsect_30",
+        "showAs": "Middle East",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-26/debate/mul@/dbsect_30.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-26/debate/dbsect_30"
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Cian-O'Callaghan.D.2020-02-08",
+        "showAs": "Cian O'Callaghan",
+        "memberCode": "Cian-O'Callaghan.D.2020-02-08"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-05-26/pq_145",
+      "to": {
+        "roleType": null,
+        "uri": null,
+        "showAs": "Finance",
+        "roleCode": null
+      }
+    },
+    "contextDate": "2026-05-26"
+  },
+  {
+    "question": {
+      "house": {
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34",
+        "houseCode": "dail"
+      },
+      "showAs": " 146. Deputy Willie O'Dea asked the Tánaiste and Minister for Finance the way in which he is supporting the expansion of the credit union sector; and if he will make a statement on the matter. [39633/26] ",
+      "questionType": "oral",
+      "questionNumber": 146,
+      "date": "2026-05-26",
+      "debateSection": {
+        "debateSectionId": "dbsect_31",
+        "showAs": "Credit Unions",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-26/debate/mul@/dbsect_31.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-26/debate/dbsect_31"
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Willie-O'Dea.D.1982-03-09",
+        "showAs": "Willie O'Dea",
+        "memberCode": "Willie-O'Dea.D.1982-03-09"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-05-26/pq_146",
+      "to": {
+        "roleType": null,
+        "uri": null,
+        "showAs": "Finance",
+        "roleCode": null
+      }
+    },
+    "contextDate": "2026-05-26"
+  },
+  {
+    "question": {
+      "house": {
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34",
+        "houseCode": "dail"
+      },
+      "showAs": " 147. Deputy Edward Timmins asked the Tánaiste and Minister for Finance if he will reintroduce indexation for capital gains tax to eliminate this annual stealth tax; and if he will make a statement on the matter. [39883/26] ",
+      "questionType": "oral",
+      "questionNumber": 147,
+      "date": "2026-05-26",
+      "debateSection": {
+        "debateSectionId": "dbsect_32",
+        "showAs": "Tax Reliefs",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-26/debate/mul@/dbsect_32.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-26/debate/dbsect_32"
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Edward-Timmins.D.2024-11-29",
+        "showAs": "Edward Timmins",
+        "memberCode": "Edward-Timmins.D.2024-11-29"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-05-26/pq_147",
+      "to": {
+        "roleType": null,
+        "uri": null,
+        "showAs": "Finance",
+        "roleCode": null
+      }
+    },
+    "contextDate": "2026-05-26"
+  },
+  {
+    "question": {
+      "house": {
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34",
+        "houseCode": "dail"
+      },
+      "showAs": " 148. Deputy Emer Currie asked the Tánaiste and Minister for Finance the income tax measures he is considering for budget 2027 to support middle-income workers; and if he will make a statement on the matter. [39178/26] ",
+      "questionType": "oral",
+      "questionNumber": 148,
+      "date": "2026-05-26",
+      "debateSection": {
+        "debateSectionId": "dbsect_33",
+        "showAs": "Budget 2027",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-26/debate/mul@/dbsect_33.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-26/debate/dbsect_33"
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Emer-Currie.S.2020-06-29",
+        "showAs": "Emer Currie",
+        "memberCode": "Emer-Currie.S.2020-06-29"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-05-26/pq_148",
+      "to": {
+        "roleType": null,
+        "uri": null,
+        "showAs": "Finance",
+        "roleCode": null
+      }
+    },
+    "contextDate": "2026-05-26"
+  },
+  {
+    "question": {
+      "house": {
+        "showAs": "34th Dáil",
+        "chamberType": "house",
+        "committeeCode": "",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "houseNo": "34",
+        "houseCode": "dail"
+      },
+      "showAs": " 164. Deputy Pearse Doherty asked the Tánaiste and Minister for Finance the rationale for selling PTSB; and the safeguards that will be in place to protect jobs and the bank branch network. [39794/26] ",
+      "questionType": "oral",
+      "questionNumber": 164,
+      "date": "2026-05-26",
+      "debateSection": {
+        "debateSectionId": "dbsect_34",
+        "showAs": "Banking Sector",
+        "formats": {
+          "pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-26/debate/mul@/dbsect_34.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-05-26/debate/dbsect_34"
+      },
+      "by": {
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Pearse-Doherty.S.2007-07-23",
+        "showAs": "Pearse Doherty",
+        "memberCode": "Pearse-Doherty.S.2007-07-23"
+      },
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-05-26/pq_164",
+      "to": {
+        "roleType": null,
+        "uri": null,
+        "showAs": "Finance",
+        "roleCode": null
+      }
+    },
+    "contextDate": "2026-05-26"
   }
 ]

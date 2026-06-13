@@ -362,6 +362,86 @@
   {
     "question": {
       "by": {
+        "showAs": "Willie O'Dea",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Willie-O'Dea.D.1982-03-09",
+        "memberCode": "Willie-O'Dea.D.1982-03-09"
+      },
+      "to": {
+        "showAs": "Climate",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Business Supports",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-11/writtens/dbsect_45",
+        "debateSectionId": "dbsect_45",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-11/writtens/mul@/dbsect_45.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 10,
+      "showAs": " 10. Deputy Willie O'Dea asked the Minister for Climate, Energy and the Environment the supports his Department provides to help businesses reduce energy use; and if he will make a statement on the matter. [30056/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-11/pq_10",
+      "date": "2026-06-11",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-06-11"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Mark Ward",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Mark-Ward.D.2019-11-29",
+        "memberCode": "Mark-Ward.D.2019-11-29"
+      },
+      "to": {
+        "showAs": "Climate",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Data Centres",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-11/writtens/dbsect_46",
+        "debateSectionId": "dbsect_46",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-11/writtens/mul@/dbsect_46.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 11,
+      "showAs": " 11. Deputy Mark Ward asked the Minister for Climate, Energy and the Environment the energy usage of data centres in Dublin; the way in which this is affecting energy prices for consumers; the number of new data centres to open over the next five years; and if he will make a statement on the matter. [44479/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-11/pq_11",
+      "date": "2026-06-11",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-06-11"
+  },
+  {
+    "question": {
+      "by": {
         "showAs": "Joe Cooney",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Joe-Cooney.D.2024-11-29",
         "memberCode": "Joe-Cooney.D.2024-11-29"
@@ -442,6 +522,166 @@
   {
     "question": {
       "by": {
+        "showAs": "Seán Ó Fearghaíl",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Seán-Ó-Fearghaíl.S.2000-06-09",
+        "memberCode": "Seán-Ó-Fearghaíl.S.2000-06-09"
+      },
+      "to": {
+        "showAs": "Climate",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Business Supports",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-11/writtens/dbsect_47",
+        "debateSectionId": "dbsect_47",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-11/writtens/mul@/dbsect_47.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 14,
+      "showAs": " 14. Deputy Seán Ó Fearghaíl asked the Minister for Climate, Energy and the Environment the measures he is taking to help the SME sector cope with increased energy prices; and if he will make a statement on the matter. [30046/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-11/pq_14",
+      "date": "2026-06-11",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-06-11"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Natasha Newsome Drennan",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Natasha-Newsome-Drennan.D.2024-11-29",
+        "memberCode": "Natasha-Newsome-Drennan.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Climate",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Wildlife Protection",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-11/writtens/dbsect_48",
+        "debateSectionId": "dbsect_48",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-11/writtens/mul@/dbsect_48.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 15,
+      "showAs": " 15. Deputy Natasha Newsome Drennan asked the Minister for Climate, Energy and the Environment if the cause, and the perpetrator, of the large fish kill in Blackwater, north Cork in 2025 has been identified; and if he will make a statement on the matter. [29366/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-11/pq_15",
+      "date": "2026-06-11",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-06-11"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Edward Timmins",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Edward-Timmins.D.2024-11-29",
+        "memberCode": "Edward-Timmins.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Climate",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Energy Policy",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-11/writtens/dbsect_49",
+        "debateSectionId": "dbsect_49",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-11/writtens/mul@/dbsect_49.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 16,
+      "showAs": " 16. Deputy Edward Timmins asked the Minister for Climate, Energy and the Environment if there are alternative plans for energy security given the planned closure of Moneypoint in 2029; and if he will make a statement on the matter. [44559/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-11/pq_16",
+      "date": "2026-06-11",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-06-11"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Albert Dolan",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Albert-Dolan.D.2024-11-29",
+        "memberCode": "Albert-Dolan.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Climate",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Wind Energy Generation",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-11/writtens/dbsect_50",
+        "debateSectionId": "dbsect_50",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-11/writtens/mul@/dbsect_50.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 17,
+      "showAs": " 17. Deputy Albert Dolan asked the Minister for Climate, Energy and the Environment the consideration his Department has given, within its renewable energy policy framework, to the cumulative impact of large-scale windfarm developments in areas such as Galway East; the way in which community impact is being addressed as part of the transition to renewable energy; and if he will make a statement on the matter. [44339/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-11/pq_17",
+      "date": "2026-06-11",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-06-11"
+  },
+  {
+    "question": {
+      "by": {
         "showAs": "Michael Murphy",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Michael-Murphy.D.2024-11-29",
         "memberCode": "Michael-Murphy.D.2024-11-29"
@@ -467,6 +707,766 @@
       "questionNumber": 18,
       "showAs": " 18. Deputy Michael Murphy asked the Minister for Climate, Energy and the Environment the current average waiting times for applicants to the Sustainable Energy Authority of Ireland warmer homes scheme at each stage of the process, including assessment, survey and completion of works; the number of households currently waiting more than 12 months and more than 24 months, respectively; the measures being taken to reduce these delays; and if he will make a statement on the matter.  [41546/26] ",
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-11/pq_18",
+      "date": "2026-06-11",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-06-11"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Paul Murphy",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Murphy.D.2014-10-10",
+        "memberCode": "Paul-Murphy.D.2014-10-10"
+      },
+      "to": {
+        "showAs": "Climate",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Wildlife Protection",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-11/writtens/dbsect_51",
+        "debateSectionId": "dbsect_51",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-11/writtens/mul@/dbsect_51.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 19,
+      "showAs": " 19. Deputy Paul Murphy asked the Minister for Climate, Energy and the Environment the action that will be taken against those responsible for killing over 20,000 fish in the River Glyde; the action he will take to prevent fish kills; and if he will make a statement on the matter. [44549/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-11/pq_19",
+      "date": "2026-06-11",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-06-11"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Roderic O'Gorman",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Roderic-O'Gorman.D.2020-02-08",
+        "memberCode": "Roderic-O'Gorman.D.2020-02-08"
+      },
+      "to": {
+        "showAs": "Climate",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Data Centres",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-11/writtens/dbsect_52",
+        "debateSectionId": "dbsect_52",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-11/writtens/mul@/dbsect_52.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 20,
+      "showAs": " 20. Deputy Roderic O'Gorman asked the Minister for Climate, Energy and the Environment if his attention has been drawn to a recent United Nations University report which references Ireland as a cautionary example of local grid stress from concentrated digital infrastructure due to the proliferation of data centres; and if he will make a statement on the matter. [44343/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-11/pq_20",
+      "date": "2026-06-11",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-06-11"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Aindrias Moynihan",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Aindrias-Moynihan.D.2016-10-03",
+        "memberCode": "Aindrias-Moynihan.D.2016-10-03"
+      },
+      "to": {
+        "showAs": "Climate",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Energy Policy",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-11/writtens/dbsect_53",
+        "debateSectionId": "dbsect_53",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-11/writtens/mul@/dbsect_53.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 21,
+      "showAs": " 21. Deputy Aindrias Moynihan asked the Minister for Climate, Energy and the Environment to confirm his engagements with the European Commission to recognise Ireland as part of the EU interconnected gas grid to enable imports of sustainable renewable gases with third countries including the United Kingdom; and if he will make a statement on the matter. [44566/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-11/pq_21",
+      "date": "2026-06-11",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-06-11"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Roderic O'Gorman",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Roderic-O'Gorman.D.2020-02-08",
+        "memberCode": "Roderic-O'Gorman.D.2020-02-08"
+      },
+      "to": {
+        "showAs": "Climate",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Energy Prices",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-11/writtens/dbsect_54",
+        "debateSectionId": "dbsect_54",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-11/writtens/mul@/dbsect_54.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 22,
+      "showAs": " 22. Deputy Roderic O'Gorman asked the Minister for Climate, Energy and the Environment if consideration will be given to providing free solar panels to households in receipt of fuel allowance, to support them with their energy bills; and if he will make a statement on the matter. [31310/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-11/pq_22",
+      "date": "2026-06-11",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-06-11"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Louise O'Reilly",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Louise-O'Reilly.D.2016-10-03",
+        "memberCode": "Louise-O'Reilly.D.2016-10-03"
+      },
+      "to": {
+        "showAs": "Climate",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Electricity Supply Board",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-11/writtens/dbsect_55",
+        "debateSectionId": "dbsect_55",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-11/writtens/mul@/dbsect_55.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 23,
+      "showAs": " 23. Deputy Louise O'Reilly asked the Minister for Climate, Energy and the Environment if he has plans to work with the ESB to ensure Pay As You Go electricity customers are on the lowest possible electricity tariffs. [31211/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-11/pq_23",
+      "date": "2026-06-11",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-06-11"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Naoise Ó Muirí",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Naoise-Ó-Muirí.D.2024-11-29",
+        "memberCode": "Naoise-Ó-Muirí.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Climate",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Energy Policy",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-11/writtens/dbsect_56",
+        "debateSectionId": "dbsect_56",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-11/writtens/mul@/dbsect_56.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 24,
+      "showAs": " 24. Deputy Naoise Ó Muirí asked the Minister for Climate, Energy and the Environment the way in which revenue raised through the Market Cap Fund will be allocated; the reasons for the significant underspends under Vote 29 in the 2024 Appropriation Account; and if he will make a statement on the matter. [44487/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-11/pq_24",
+      "date": "2026-06-11",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-06-11"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Paul McAuliffe",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-McAuliffe.D.2020-02-08",
+        "memberCode": "Paul-McAuliffe.D.2020-02-08"
+      },
+      "to": {
+        "showAs": "Climate",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Renewable Energy Generation",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-11/writtens/dbsect_57",
+        "debateSectionId": "dbsect_57",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-11/writtens/mul@/dbsect_57.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 25,
+      "showAs": " 25. Deputy Paul McAuliffe asked the Minister for Climate, Energy and the Environment if he will consider including solar panels and solar energy generation as part of the measures available under the warmer homes scheme; and if he will make a statement on the matter. [44485/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-11/pq_25",
+      "date": "2026-06-11",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-06-11"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Pa Daly",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Pa-Daly.D.2020-02-08",
+        "memberCode": "Pa-Daly.D.2020-02-08"
+      },
+      "to": {
+        "showAs": "Climate",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Just Transition",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-11/writtens/dbsect_58",
+        "debateSectionId": "dbsect_58",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-11/writtens/mul@/dbsect_58.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 26,
+      "showAs": " 26. Deputy Pa Daly asked the Minister for Climate, Energy and the Environment to provide an update on the national just transition strategy; when it will be published; and if he will make a statement on the matter. [44294/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-11/pq_26",
+      "date": "2026-06-11",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-06-11"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "James Geoghegan",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/James-Geoghegan.D.2024-11-29",
+        "memberCode": "James-Geoghegan.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Climate",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Electricity Grid",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-11/writtens/dbsect_59",
+        "debateSectionId": "dbsect_59",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-11/writtens/mul@/dbsect_59.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 27,
+      "showAs": " 27. Deputy James Geoghegan asked the Minister for Climate, Energy and the Environment for an update on the proposed Private Wires Bill 2026; and if he will make a statement on the matter. [44077/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-11/pq_27",
+      "date": "2026-06-11",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-06-11"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Mark Ward",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Mark-Ward.D.2019-11-29",
+        "memberCode": "Mark-Ward.D.2019-11-29"
+      },
+      "to": {
+        "showAs": "Climate",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Energy Prices",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-11/writtens/dbsect_60",
+        "debateSectionId": "dbsect_60",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-11/writtens/mul@/dbsect_60.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 28,
+      "showAs": " 28. Deputy Mark Ward asked the Minister for Climate, Energy and the Environment if energy credits will be considered in the upcoming budget; his plans to assist the public to combat energy price increases; and if he will make a statement on the matter. [44480/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-11/pq_28",
+      "date": "2026-06-11",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-06-11"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Brian Stanley",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Brian-Stanley.D.2011-03-09",
+        "memberCode": "Brian-Stanley.D.2011-03-09"
+      },
+      "to": {
+        "showAs": "Climate",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Data Centres",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-11/writtens/dbsect_61",
+        "debateSectionId": "dbsect_61",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-11/writtens/mul@/dbsect_61.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 29,
+      "showAs": " 29. Deputy Brian Stanley asked the Minister for Climate, Energy and the Environment if his Department has carried out a detailed assessment of the potential extra demand of electricity required by data centres over the next decade; the additional percentage cost this could put on household bills; and if he will make a statement on the matter. [44126/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-11/pq_29",
+      "date": "2026-06-11",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-06-11"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Naoise Ó Cearúil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Naoise-Ó-Cearúil.D.2024-11-29",
+        "memberCode": "Naoise-Ó-Cearúil.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Climate",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Food Waste",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-11/writtens/dbsect_62",
+        "debateSectionId": "dbsect_62",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-11/writtens/mul@/dbsect_62.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 30,
+      "showAs": " 30. Deputy Naoise Ó Cearúil asked the Minister for Climate, Energy and the Environment for an update on the development of the next national food waste prevention roadmap; the way in which the revised Waste Framework Directive is informing the identification of key actions for the 2026-2028 period; and if he will make a statement on the matter. [44475/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-11/pq_30",
+      "date": "2026-06-11",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-06-11"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Pa Daly",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Pa-Daly.D.2020-02-08",
+        "memberCode": "Pa-Daly.D.2020-02-08"
+      },
+      "to": {
+        "showAs": "Climate",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Climate Change Policy",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-11/writtens/dbsect_64",
+        "debateSectionId": "dbsect_64",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-11/writtens/mul@/dbsect_64.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 31,
+      "showAs": " 31. Deputy Pa Daly asked the Minister for Climate, Energy and the Environment further to the cap on market revenues and the climate action fund, the reasons the Government has failed to spend this revenue; the way in which this revenue will be spent to reduce emissions and electricity prices; and if he will make a statement on the matter. [44290/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-11/pq_31",
+      "date": "2026-06-11",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-06-11"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Colm Burke",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Colm-Burke.S.2011-05-25",
+        "memberCode": "Colm-Burke.S.2011-05-25"
+      },
+      "to": {
+        "showAs": "Climate",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Energy Infrastructure",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-11/writtens/dbsect_65",
+        "debateSectionId": "dbsect_65",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-11/writtens/mul@/dbsect_65.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 32,
+      "showAs": " 32. Deputy Colm Burke asked the Minister for Climate, Energy and the Environment to confirm whether eligibility for grants for insulation will be expanded under the SEAI programme; and if he will make a statement on the matter. [44541/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-11/pq_32",
+      "date": "2026-06-11",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-06-11"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Brian Stanley",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Brian-Stanley.D.2011-03-09",
+        "memberCode": "Brian-Stanley.D.2011-03-09"
+      },
+      "to": {
+        "showAs": "Climate",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Data Centres",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-11/writtens/dbsect_61",
+        "debateSectionId": "dbsect_61",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-11/writtens/mul@/dbsect_61.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 33,
+      "showAs": " 33. Deputy Brian Stanley asked the Minister for Climate, Energy and the Environment if his Department has carried out an impact study on the effects of the large energy demand of data centres; the way this may be increasing costs to households; the findings of same; and if he will make a statement on the matter. [44125/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-11/pq_33",
+      "date": "2026-06-11",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-06-11"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "John Paul O'Shea",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/John-Paul-O'Shea.D.2024-11-29",
+        "memberCode": "John-Paul-O'Shea.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Climate",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Renewable Energy Generation",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-11/writtens/dbsect_66",
+        "debateSectionId": "dbsect_66",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-11/writtens/mul@/dbsect_66.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 34,
+      "showAs": " 34. Deputy John Paul O'Shea asked the Minister for Climate, Energy and the Environment the progress to date on delivering grid reinforcement and storage capacity to support the increased integration of renewable energy; if he is satisfied that current timelines are sufficient to meet Ireland’s 2030 emissions reduction targets; and if he will make a statement on the matter. [42814/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-11/pq_34",
+      "date": "2026-06-11",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-06-11"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Mairéad Farrell",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Mairéad-Farrell.D.2020-02-08",
+        "memberCode": "Mairéad-Farrell.D.2020-02-08"
+      },
+      "to": {
+        "showAs": "Climate",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Energy Prices",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-11/writtens/dbsect_60",
+        "debateSectionId": "dbsect_60",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-11/writtens/mul@/dbsect_60.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 35,
+      "showAs": " 35. Deputy Mairéad Farrell asked the Minister for Climate, Energy and the Environment to reintroduce energy credits and immediately reform Ireland's energy market to bring electricity prices down; and if he will make a statement on the matter. [39765/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-11/pq_35",
+      "date": "2026-06-11",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-06-11"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Conor D McGuinness",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Conor-D-McGuinness.D.2024-11-29",
+        "memberCode": "Conor-D-McGuinness.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Climate",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Energy Prices",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-11/writtens/dbsect_60",
+        "debateSectionId": "dbsect_60",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-11/writtens/mul@/dbsect_60.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 36,
+      "showAs": " 36. Deputy Conor D. McGuinness asked the Minister for Climate, Energy and the Environment the estimated number of households currently experiencing fuel and energy poverty; and the steps he will take to help those most vulnerable to the fuel and energy crisis. [31308/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-11/pq_36",
+      "date": "2026-06-11",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-06-11"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "James Geoghegan",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/James-Geoghegan.D.2024-11-29",
+        "memberCode": "James-Geoghegan.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Climate",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Planning Issues",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-11/writtens/dbsect_67",
+        "debateSectionId": "dbsect_67",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-11/writtens/mul@/dbsect_67.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 37,
+      "showAs": " 37. Deputy James Geoghegan asked the Minister for Climate, Energy and the Environment if his Department provided a submission or input to the review of exempted developments planning guidelines; and if he will make a statement on the matter. [44078/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-11/pq_37",
       "date": "2026-06-11",
       "house": {
         "showAs": "34th Dáil",
@@ -522,6 +1522,286 @@
   {
     "question": {
       "by": {
+        "showAs": "Peter Roche",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Peter-Roche.D.2024-11-29",
+        "memberCode": "Peter-Roche.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Climate",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Wind Energy Guidelines",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-11/writtens/dbsect_68",
+        "debateSectionId": "dbsect_68",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-11/writtens/mul@/dbsect_68.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 39,
+      "showAs": " 39. Deputy Peter Roche asked the Minister for Climate, Energy and the Environment the engagement his Department has had with the Department of Housing, Local Government and Heritage regarding the review and update of the Wind Energy Development Guidelines; the input his Department has provided to that process; the way in which the revised guidelines will support Ireland's energy security objectives; and if he will make a statement on the matter. [44539/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-11/pq_39",
+      "date": "2026-06-11",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-06-11"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Pa Daly",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Pa-Daly.D.2020-02-08",
+        "memberCode": "Pa-Daly.D.2020-02-08"
+      },
+      "to": {
+        "showAs": "Climate",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Renewable Energy Generation",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-11/writtens/dbsect_69",
+        "debateSectionId": "dbsect_69",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-11/writtens/mul@/dbsect_69.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 40,
+      "showAs": " 40. Deputy Pa Daly asked the Minister for Climate, Energy and the Environment to provide an update on the timeline for auctions for both on and offshore energy; the measures he will take to ensure these deadlines are kept; and if he will make a statement on the matter. [44292/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-11/pq_40",
+      "date": "2026-06-11",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-06-11"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Paul Murphy",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Murphy.D.2014-10-10",
+        "memberCode": "Paul-Murphy.D.2014-10-10"
+      },
+      "to": {
+        "showAs": "Climate",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Data Centres",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-11/writtens/dbsect_52",
+        "debateSectionId": "dbsect_52",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-11/writtens/mul@/dbsect_52.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 41,
+      "showAs": " 41. Deputy Paul Murphy asked the Minister for Climate, Energy and the Environment his views on the use of Ireland as a cautionary tale of data centre growth in a recent UN report; and if he will make a statement on the matter. [44546/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-11/pq_41",
+      "date": "2026-06-11",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-06-11"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Michael Murphy",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Michael-Murphy.D.2024-11-29",
+        "memberCode": "Michael-Murphy.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Climate",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Energy Prices",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-11/writtens/dbsect_70",
+        "debateSectionId": "dbsect_70",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-11/writtens/mul@/dbsect_70.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 42,
+      "showAs": " 42. Deputy Michael Murphy asked the Minister for Climate, Energy and the Environment whether he acknowledges the impact that prolonged delays in the warmer homes scheme are having on older persons, low-income families and vulnerable households living in energy poverty; whether additional funding, staffing or contractor capacity will be provided to accelerate delivery; and if he will make a statement on the matter. [41547/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-11/pq_42",
+      "date": "2026-06-11",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-06-11"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Paul Murphy",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Murphy.D.2014-10-10",
+        "memberCode": "Paul-Murphy.D.2014-10-10"
+      },
+      "to": {
+        "showAs": "Climate",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Climate Action Plan",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-11/writtens/dbsect_71",
+        "debateSectionId": "dbsect_71",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-11/writtens/mul@/dbsect_71.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 43,
+      "showAs": " 43. Deputy Paul Murphy asked the Minister for Climate, Energy and the Environment the new actions that will be included in future climate action plans to reduce agricultural emissions given they are likely to reduce by only 4% by 2030 with existing measures; and if he will make a statement on the matter. [44547/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-11/pq_43",
+      "date": "2026-06-11",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-06-11"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Naoise Ó Muirí",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Naoise-Ó-Muirí.D.2024-11-29",
+        "memberCode": "Naoise-Ó-Muirí.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Climate",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Energy Conservation",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-11/writtens/dbsect_72",
+        "debateSectionId": "dbsect_72",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-11/writtens/mul@/dbsect_72.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 44,
+      "showAs": " 44. Deputy Naoise Ó Muirí asked the Minister for Climate, Energy and the Environment the number and total value of drawdowns under the home energy upgrade loan scheme; and if he will make a statement on the matter. [44498/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-11/pq_44",
+      "date": "2026-06-11",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-06-11"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Cathal Crowe",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Cathal-Crowe.D.2020-02-08",
+        "memberCode": "Cathal-Crowe.D.2020-02-08"
+      },
+      "to": {
+        "showAs": "Climate",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Wind Energy Generation",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-11/writtens/dbsect_73",
+        "debateSectionId": "dbsect_73",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-11/writtens/mul@/dbsect_73.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 45,
+      "showAs": " 45. Deputy Cathal Crowe asked the Minister for Climate, Energy and the Environment if Ireland is on course to meet off-shore wind energy targets by 2030; if he will outline the consequences if these targets are not reached; and if he will make a statement on the matter. [44470/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-11/pq_45",
+      "date": "2026-06-11",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-06-11"
+  },
+  {
+    "question": {
+      "by": {
         "showAs": "John Paul O'Shea",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/John-Paul-O'Shea.D.2024-11-29",
         "memberCode": "John-Paul-O'Shea.D.2024-11-29"
@@ -547,6 +1827,606 @@
       "questionNumber": 46,
       "showAs": " 46. Deputy John Paul O'Shea asked the Minister for Climate, Energy and the Environment the measures being taken to address the high cost of energy for households and small businesses, particularly in rural areas; if he will consider further targeted supports in the upcoming budget; and if he will make a statement on the matter. [42815/26] ",
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-11/pq_46",
+      "date": "2026-06-11",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-06-11"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Joe Neville",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Joe-Neville.D.2024-11-29",
+        "memberCode": "Joe-Neville.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Climate",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Wind Energy Generation",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-11/writtens/dbsect_74",
+        "debateSectionId": "dbsect_74",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-11/writtens/mul@/dbsect_74.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 47,
+      "showAs": " 47. Deputy Joe Neville asked the Minister for Climate, Energy and the Environment the measures his Department has put in place to ensure that Ireland is utilising wind energy grid infrastructure that we have put in place; and if he will make a statement on the matter. [44558/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-11/pq_47",
+      "date": "2026-06-11",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-06-11"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Albert Dolan",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Albert-Dolan.D.2024-11-29",
+        "memberCode": "Albert-Dolan.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Climate",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Energy Prices",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-11/writtens/dbsect_60",
+        "debateSectionId": "dbsect_60",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-11/writtens/mul@/dbsect_60.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 48,
+      "showAs": " 48. Deputy Albert Dolan asked the Minister for Climate, Energy and the Environment the measures his Department is taking to address persistently high electricity prices for households and small businesses, particularly in rural areas; and if he will make a statement on the matter. [44340/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-11/pq_48",
+      "date": "2026-06-11",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-06-11"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Louis O'Hara",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Louis-O'Hara.D.2024-11-29",
+        "memberCode": "Louis-O'Hara.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Climate",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Energy Prices",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-11/writtens/dbsect_60",
+        "debateSectionId": "dbsect_60",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-11/writtens/mul@/dbsect_60.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 49,
+      "showAs": " 49. Deputy Louis O'Hara asked the Minister for Climate, Energy and the Environment the measures his Department is taking to improve energy affordability; and if he will make a statement on the matter. [43466/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-11/pq_49",
+      "date": "2026-06-11",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-06-11"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Naoise Ó Cearúil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Naoise-Ó-Cearúil.D.2024-11-29",
+        "memberCode": "Naoise-Ó-Cearúil.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Climate",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Energy Policy",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-11/writtens/dbsect_75",
+        "debateSectionId": "dbsect_75",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-11/writtens/mul@/dbsect_75.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 50,
+      "showAs": " 50. Deputy Naoise Ó Cearúil asked the Minister for Climate, Energy and the Environment for an update on any long-term assessment work being undertaken in relation to nuclear technologies as part of wider energy security planning; and if he will make a statement on the matter. [44476/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-11/pq_50",
+      "date": "2026-06-11",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-06-11"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Noel McCarthy",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Noel-McCarthy.D.2024-11-29",
+        "memberCode": "Noel-McCarthy.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Climate",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Electricity Grid",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-11/writtens/dbsect_76",
+        "debateSectionId": "dbsect_76",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-11/writtens/mul@/dbsect_76.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 51,
+      "showAs": " 51. Deputy Noel McCarthy asked the Minister for Climate, Energy and the Environment further to Parliamentary Question No. 103 of 16 April 2026, to outline any further progress made in the drafting of the Private Wires Bill 2025; when he expects the bill to be enacted; and if he will make a statement on the matter. [44518/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-11/pq_51",
+      "date": "2026-06-11",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-06-11"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Barry Heneghan",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Barry-Heneghan.D.2024-11-29",
+        "memberCode": "Barry-Heneghan.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Climate",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Energy Policy",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-11/writtens/dbsect_77",
+        "debateSectionId": "dbsect_77",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-11/writtens/mul@/dbsect_77.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 52,
+      "showAs": " 52. Deputy Barry Heneghan asked the Minister for Climate, Energy and the Environment the legislative or regulatory steps the Government plans to take to enable community energy sharing models, whereby locally generated renewable electricity can be shared directly between producers and consumers through the distribution network, similar to the model operating in Austria where over thousands of energy communities are now in operation; and if he will make a statement on the matter. [44471/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-11/pq_52",
+      "date": "2026-06-11",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-06-11"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Barry Heneghan",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Barry-Heneghan.D.2024-11-29",
+        "memberCode": "Barry-Heneghan.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Climate",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Solar Energy Guidelines",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-11/writtens/dbsect_78",
+        "debateSectionId": "dbsect_78",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-11/writtens/mul@/dbsect_78.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 53,
+      "showAs": " 53. Deputy Barry Heneghan asked the Minister for Climate, Energy and the Environment the steps his Department is taking, including engagement with relevant standards bodies and stakeholders, to facilitate any necessary amendments to the National Rules for Electrical Installations (I.S. 10101) that would permit the safe installation of plug-in solar systems in homes and apartments; and if he will make a statement on the matter. [44472/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-11/pq_53",
+      "date": "2026-06-11",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-06-11"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Louis O'Hara",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Louis-O'Hara.D.2024-11-29",
+        "memberCode": "Louis-O'Hara.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Climate",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Renewable Energy Generation",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-11/writtens/dbsect_79",
+        "debateSectionId": "dbsect_79",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-11/writtens/mul@/dbsect_79.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 54,
+      "showAs": " 54. Deputy Louis O'Hara asked the Minister for Climate, Energy and the Environment if he plans to reduce waiting times for the solar PV scheme for medically vulnerable customers; and if he will make a statement on the matter. [43467/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-11/pq_54",
+      "date": "2026-06-11",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-06-11"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Joe Neville",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Joe-Neville.D.2024-11-29",
+        "memberCode": "Joe-Neville.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Climate",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Wind Energy Generation",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-11/writtens/dbsect_80",
+        "debateSectionId": "dbsect_80",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-11/writtens/mul@/dbsect_80.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 55,
+      "showAs": " 55. Deputy Joe Neville asked the Minister for Climate, Energy and the Environment the current status of offshore wind energy on the west coast; and if he will make a statement on the matter. [44557/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-11/pq_55",
+      "date": "2026-06-11",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-06-11"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Seán Kyne",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Seán-Kyne.D.2011-03-09",
+        "memberCode": "Seán-Kyne.D.2011-03-09"
+      },
+      "to": {
+        "showAs": "Climate",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Energy Policy",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-11/writtens/dbsect_81",
+        "debateSectionId": "dbsect_81",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-11/writtens/mul@/dbsect_81.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 56,
+      "showAs": " 56. Deputy Seán Kyne asked the Minister for Climate, Energy and the Environment to provide an update on progress in developing district heating here; if there are any live projects under consideration; his expectations for the future of this sector; and if he will make a statement on the matter. [44563/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-11/pq_56",
+      "date": "2026-06-11",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-06-11"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Colm Burke",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Colm-Burke.S.2011-05-25",
+        "memberCode": "Colm-Burke.S.2011-05-25"
+      },
+      "to": {
+        "showAs": "Climate",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Energy Conservation",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-11/writtens/dbsect_82",
+        "debateSectionId": "dbsect_82",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-11/writtens/mul@/dbsect_82.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 57,
+      "showAs": " 57. Deputy Colm Burke asked the Minister for Climate, Energy and the Environment whether consideration will be given to expanding the eligibility for SEAI warmer homes scheme to all those over 70 years-of-age that own and live in their own home and whose home was built and occupied before 2006, regardless of if they are in receipt of a qualifying payment; and if he will make a statement on the matter. [44540/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-11/pq_57",
+      "date": "2026-06-11",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-06-11"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Richard Boyd Barrett",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Richard-Boyd-Barrett.D.2011-03-09",
+        "memberCode": "Richard-Boyd-Barrett.D.2011-03-09"
+      },
+      "to": {
+        "showAs": "Climate",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Energy Policy",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-11/writtens/dbsect_83",
+        "debateSectionId": "dbsect_83",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-11/writtens/mul@/dbsect_83.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 58,
+      "showAs": " 58. Deputy Richard Boyd Barrett asked the Minister for Climate, Energy and the Environment if he is considering further investment in renationalisation of key sectors such as energy to reduce household costs and reliance on private profit-driven companies; and if he will make a statement on the matter. [27665/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-11/pq_58",
+      "date": "2026-06-11",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-06-11"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Tony McCormack",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tony-McCormack.D.2024-11-29",
+        "memberCode": "Tony-McCormack.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Climate",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Illegal Dumping",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-11/writtens/dbsect_85",
+        "debateSectionId": "dbsect_85",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-11/writtens/mul@/dbsect_85.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 59,
+      "showAs": " 59. Deputy Tony McCormack asked the Minister for Climate, Energy and the Environment the measures being taken to tackle illegal dumping and fly-tipping in rural communities; and if he will make a statement on the matter. [44289/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-11/pq_59",
+      "date": "2026-06-11",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-06-11"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Barry Ward",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Barry-Ward.S.2020-03-30",
+        "memberCode": "Barry-Ward.S.2020-03-30"
+      },
+      "to": {
+        "showAs": "Climate",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Wind Energy Generation",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-11/writtens/dbsect_86",
+        "debateSectionId": "dbsect_86",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-11/writtens/mul@/dbsect_86.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 60,
+      "showAs": " 60. Deputy Barry Ward asked the Minister for Climate, Energy and the Environment the position regarding any further initiatives proposed by his Department to increase the support for offshore wind infrastructure in coastal communities; and if he will make a statement on the matter. [43425/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-11/pq_60",
+      "date": "2026-06-11",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-06-11"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Paul Murphy",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Murphy.D.2014-10-10",
+        "memberCode": "Paul-Murphy.D.2014-10-10"
+      },
+      "to": {
+        "showAs": "Climate",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Energy Policy",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-11/writtens/dbsect_87",
+        "debateSectionId": "dbsect_87",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-11/writtens/mul@/dbsect_87.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 61,
+      "showAs": " 61. Deputy Paul Murphy asked the Minister for Climate, Energy and the Environment the plans he has or is making to phase out fossil fuels; and if he will make a statement on the matter. [44550/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-11/pq_61",
       "date": "2026-06-11",
       "house": {
         "showAs": "34th Dáil",
@@ -922,6 +2802,46 @@
   {
     "question": {
       "by": {
+        "showAs": "Ruairí Ó Murchú",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruairí-Ó-Murchú.D.2020-02-08",
+        "memberCode": "Ruairí-Ó-Murchú.D.2020-02-08"
+      },
+      "to": {
+        "showAs": "Culture",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Social Media",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-11/writtens/dbsect_88",
+        "debateSectionId": "dbsect_88",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-11/writtens/mul@/dbsect_88.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 71,
+      "showAs": " 71. Deputy Ruairí Ó Murchú asked the Minister for Culture, Communications and Sport to provide an update in relation to the efforts being made to curb harmful social media content in the State; and if he will make a statement on the matter. [44456/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-11/pq_71",
+      "date": "2026-06-11",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-06-11"
+  },
+  {
+    "question": {
+      "by": {
         "showAs": "Joanna Byrne",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Joanna-Byrne.D.2024-11-29",
         "memberCode": "Joanna-Byrne.D.2024-11-29"
@@ -1002,6 +2922,46 @@
   {
     "question": {
       "by": {
+        "showAs": "Joe Neville",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Joe-Neville.D.2024-11-29",
+        "memberCode": "Joe-Neville.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Culture",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Broadcasting Sector",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-11/writtens/dbsect_89",
+        "debateSectionId": "dbsect_89",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-11/writtens/mul@/dbsect_89.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 74,
+      "showAs": " 74. Deputy Joe Neville asked the Minister for Culture, Communications and Sport if his Department is addressing the challenges facing local radio given increasing costs in broadcast levies; and if he will make a statement on the matter. [44556/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-11/pq_74",
+      "date": "2026-06-11",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-06-11"
+  },
+  {
+    "question": {
+      "by": {
         "showAs": "Darren O'Rourke",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Darren-O'Rourke.D.2020-02-08",
         "memberCode": "Darren-O'Rourke.D.2020-02-08"
@@ -1027,6 +2987,86 @@
       "questionNumber": 75,
       "showAs": " 75. Deputy Darren O'Rourke asked the Minister for Culture, Communications and Sport to provide an update on TV licence sales for each of the years 2024, 2025 and to date in 2026; and if he will make a statement on the matter. [43818/26] ",
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-11/pq_75",
+      "date": "2026-06-11",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-06-11"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Mark Ward",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Mark-Ward.D.2019-11-29",
+        "memberCode": "Mark-Ward.D.2019-11-29"
+      },
+      "to": {
+        "showAs": "Culture",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Sports Funding",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-11/writtens/dbsect_90",
+        "debateSectionId": "dbsect_90",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-11/writtens/mul@/dbsect_90.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 76,
+      "showAs": " 76. Deputy Mark Ward asked the Minister for Culture, Communications and Sport the government supports for clubs in a league (details supplied); to outline how they can access this funding; and if he will make a statement on the matter. [44464/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-11/pq_76",
+      "date": "2026-06-11",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-06-11"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Michael Cahill",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Michael-Cahill.D.2024-11-29",
+        "memberCode": "Michael-Cahill.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Culture",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Telecommunications Infrastructure",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-11/writtens/dbsect_91",
+        "debateSectionId": "dbsect_91",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-11/writtens/mul@/dbsect_91.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 77,
+      "showAs": " 77. Deputy Michael Cahill asked the Minister for Culture, Communications and Sport to urgently address the mobile phone blackspots across County Kerry. [44571/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-11/pq_77",
       "date": "2026-06-11",
       "house": {
         "showAs": "34th Dáil",
@@ -1122,6 +3162,606 @@
   {
     "question": {
       "by": {
+        "showAs": "Barry Ward",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Barry-Ward.S.2020-03-30",
+        "memberCode": "Barry-Ward.S.2020-03-30"
+      },
+      "to": {
+        "showAs": "Culture",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Regulatory Bodies",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-11/writtens/dbsect_92",
+        "debateSectionId": "dbsect_92",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-11/writtens/mul@/dbsect_92.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 80,
+      "showAs": " 80. Deputy Barry Ward asked the Minister for Culture, Communications and Sport his views on creating a minimum standard of customer service that all broadband and phone providers have to adhere to; if this is under review within his Department; and if he will make a statement on the matter. [43423/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-11/pq_80",
+      "date": "2026-06-11",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-06-11"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Peter Roche",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Peter-Roche.D.2024-11-29",
+        "memberCode": "Peter-Roche.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Culture",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Sports Organisations",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-11/writtens/dbsect_93",
+        "debateSectionId": "dbsect_93",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-11/writtens/mul@/dbsect_93.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 81,
+      "showAs": " 81. Deputy Peter Roche asked the Minister for Culture, Communications and Sport the engagement his Department has had with an organisation following a report (details supplied); the measures which are being taken to support clubs in rural areas experiencing population decline and challenges in sustaining participation, as well as clubs in rapidly growing urban areas where demand for playing facilities is exceeding existing capacity; and if he will make a statement on the matter. [44537/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-11/pq_81",
+      "date": "2026-06-11",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-06-11"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "James Geoghegan",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/James-Geoghegan.D.2024-11-29",
+        "memberCode": "James-Geoghegan.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Culture",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "State Bodies",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-11/writtens/dbsect_94",
+        "debateSectionId": "dbsect_94",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-11/writtens/mul@/dbsect_94.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 82,
+      "showAs": " 82. Deputy James Geoghegan asked the Minister for Culture, Communications and Sport if An Post, in the past twelve months, has sought approval from him to dispose of any land, buildings or other material assets owned by An Post; and if he will make a statement on the matter. [44552/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-11/pq_82",
+      "date": "2026-06-11",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-06-11"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Louis O'Hara",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Louis-O'Hara.D.2024-11-29",
+        "memberCode": "Louis-O'Hara.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Culture",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Sports Organisations",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-11/writtens/dbsect_95",
+        "debateSectionId": "dbsect_95",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-11/writtens/mul@/dbsect_95.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 83,
+      "showAs": " 83. Deputy Louis O'Hara asked the Minister for Culture, Communications and Sport to outline his most recent engagements with an organisation (details supplied); and if he will make a statement on the matter. [43469/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-11/pq_83",
+      "date": "2026-06-11",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-06-11"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Keira Keogh",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Keira-Keogh.D.2024-11-29",
+        "memberCode": "Keira-Keogh.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Culture",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Arts Funding",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-11/writtens/dbsect_96",
+        "debateSectionId": "dbsect_96",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-11/writtens/mul@/dbsect_96.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 84,
+      "showAs": " 84. Deputy Keira Keogh asked the Minister for Culture, Communications and Sport the level of funding allocated by his Department to arts organisations and cultural venues in Mayo over the past three years, by amount given and group/organisation, in tabular form; the further supports planned for rural arts development; and if he will make a statement on the matter. [44113/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-11/pq_84",
+      "date": "2026-06-11",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-06-11"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Mark Ward",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Mark-Ward.D.2019-11-29",
+        "memberCode": "Mark-Ward.D.2019-11-29"
+      },
+      "to": {
+        "showAs": "Culture",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Sports Funding",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-11/writtens/dbsect_97",
+        "debateSectionId": "dbsect_97",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-11/writtens/mul@/dbsect_97.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 85,
+      "showAs": " 85. Deputy Mark Ward asked the Minister for Culture, Communications and Sport the way in which grassroots clubs that do not own their own land or are in a long-term lease can access sports capital grants to become established; and if he will make a statement on the matter. [44463/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-11/pq_85",
+      "date": "2026-06-11",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-06-11"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Grace Boland",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Grace-Boland.D.2024-11-29",
+        "memberCode": "Grace-Boland.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Culture",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Gender Equality",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-11/writtens/dbsect_98",
+        "debateSectionId": "dbsect_98",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-11/writtens/mul@/dbsect_98.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 86,
+      "showAs": " 86. Deputy Grace Boland asked the Minister for Culture, Communications and Sport if he will develop and publish a long-term, cross-sectoral strategy to address gender inequality across the cultural, communications and sporting sectors; and if he will make a statement on the matter. [43694/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-11/pq_86",
+      "date": "2026-06-11",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-06-11"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Joanna Byrne",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Joanna-Byrne.D.2024-11-29",
+        "memberCode": "Joanna-Byrne.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Culture",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Sports Funding",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-11/writtens/dbsect_99",
+        "debateSectionId": "dbsect_99",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-11/writtens/mul@/dbsect_99.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 87,
+      "showAs": " 87. Deputy Joanna Byrne asked the Minister for Culture, Communications and Sport the level of funding earmarked for the development of grassroots football academies and player development; if he will commit to fully funding the budget request this year; and if he will make a statement on the matter. [43447/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-11/pq_87",
+      "date": "2026-06-11",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-06-11"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Ruairí Ó Murchú",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruairí-Ó-Murchú.D.2020-02-08",
+        "memberCode": "Ruairí-Ó-Murchú.D.2020-02-08"
+      },
+      "to": {
+        "showAs": "Culture",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Sports Funding",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-11/writtens/dbsect_100",
+        "debateSectionId": "dbsect_100",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-11/writtens/mul@/dbsect_100.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 88,
+      "showAs": " 88. Deputy Ruairí Ó Murchú asked the Minister for Culture, Communications and Sport to provide an update in relation to the provision of funding for the next round of the LSIF; and if he will make a statement on the matter. [44455/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-11/pq_88",
+      "date": "2026-06-11",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-06-11"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Colm Burke",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Colm-Burke.S.2011-05-25",
+        "memberCode": "Colm-Burke.S.2011-05-25"
+      },
+      "to": {
+        "showAs": "Culture",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Sports Funding",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-11/writtens/dbsect_101",
+        "debateSectionId": "dbsect_101",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-11/writtens/mul@/dbsect_101.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 89,
+      "showAs": " 89. Deputy Colm Burke asked the Minister for Culture, Communications and Sport whether the application process under the Community Sports Facilities Fund (CSFF) will be simplified; and if he will make a statement on the matter. [44613/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-11/pq_89",
+      "date": "2026-06-11",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-06-11"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Sinéad Gibney",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Sinéad-Gibney.D.2024-11-29",
+        "memberCode": "Sinéad-Gibney.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Culture",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Sports Events",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-11/writtens/dbsect_102",
+        "debateSectionId": "dbsect_102",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-11/writtens/mul@/dbsect_102.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 90,
+      "showAs": " 90. Deputy Sinéad Gibney asked the Minister for Culture, Communications and Sport whether his Department has engaged with relevant bodies under his aegis over the financial implications of the cancellation of the Ireland Israel fixtures or refusal to broadcast them should they go ahead; and if he will make a statement on the matter. [44494/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-11/pq_90",
+      "date": "2026-06-11",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-06-11"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Brendan Smith",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Brendan-Smith.D.1992-12-14",
+        "memberCode": "Brendan-Smith.D.1992-12-14"
+      },
+      "to": {
+        "showAs": "Culture",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Sports Funding",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-11/writtens/dbsect_101",
+        "debateSectionId": "dbsect_101",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-11/writtens/mul@/dbsect_101.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 91,
+      "showAs": " 91. Deputy Brendan Smith asked the Minister for Culture, Communications and Sport the expected timeline for the opening of the next Community Sports Facilities Fund; and if he will make a statement on the matter. [44522/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-11/pq_91",
+      "date": "2026-06-11",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-06-11"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Colm Burke",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Colm-Burke.S.2011-05-25",
+        "memberCode": "Colm-Burke.S.2011-05-25"
+      },
+      "to": {
+        "showAs": "Culture",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Sports Funding",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-11/writtens/dbsect_101",
+        "debateSectionId": "dbsect_101",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-11/writtens/mul@/dbsect_101.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 97,
+      "showAs": " 97. Deputy Colm Burke asked the Minister for Culture, Communications and Sport when the Community Sports Facilities Fund (CSFF) will become open for applications; whether the cap on local grants will be increased from €200,000; and if he will make a statement on the matter. [44612/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-11/pq_97",
+      "date": "2026-06-11",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-06-11"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Paul McAuliffe",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-McAuliffe.D.2020-02-08",
+        "memberCode": "Paul-McAuliffe.D.2020-02-08"
+      },
+      "to": {
+        "showAs": "Culture",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Sports Funding",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-11/writtens/dbsect_101",
+        "debateSectionId": "dbsect_101",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-11/writtens/mul@/dbsect_101.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 98,
+      "showAs": " 98. Deputy Paul McAuliffe asked the Minister for Culture, Communications and Sport to provide an update on when he expects the latest round of Community Sport Facilities Fund (CSFF) and the Large-Scale Sport Infrastructure Fund (LSSIF) to open for applications. [44495/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-11/pq_98",
+      "date": "2026-06-11",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-06-11"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Tony McCormack",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tony-McCormack.D.2024-11-29",
+        "memberCode": "Tony-McCormack.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Culture",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Sports Funding",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-11/writtens/dbsect_101",
+        "debateSectionId": "dbsect_101",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-11/writtens/mul@/dbsect_101.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 99,
+      "showAs": " 99. Deputy Tony McCormack asked the Minister for Culture, Communications and Sport when the next round of the Sports Capital and Equipment Programme will open for applications; the level of funding that will be made available; and if he will make a statement on the matter. [44286/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-11/pq_99",
+      "date": "2026-06-11",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-06-11"
+  },
+  {
+    "question": {
+      "by": {
         "showAs": "Naoise Ó Muirí",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Naoise-Ó-Muirí.D.2024-11-29",
         "memberCode": "Naoise-Ó-Muirí.D.2024-11-29"
@@ -1187,6 +3827,126 @@
       "questionNumber": 105,
       "showAs": " 105. Deputy Roderic O'Gorman asked the Minister for Culture, Communications and Sport if, in view of applications for the successor scheme to the basic income for the arts pilot greatly exceeding the number of places available on the scheme, if consideration is being given to expanding the scheme; and if he will make a statement on the matter. [44453/26] ",
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-11/pq_105",
+      "date": "2026-06-11",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-06-11"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Brendan Smith",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Brendan-Smith.D.1992-12-14",
+        "memberCode": "Brendan-Smith.D.1992-12-14"
+      },
+      "to": {
+        "showAs": "Culture",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Sports Funding",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-11/writtens/dbsect_101",
+        "debateSectionId": "dbsect_101",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-11/writtens/mul@/dbsect_101.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 109,
+      "showAs": " 109. Deputy Brendan Smith asked the Minister for Culture, Communications and Sport if he will consider increasing the level of grant aid in the next Community Sports Facilities Fund taking into account the substantial increase in construction costs since the last round of grants were approved; and if he will make a statement on the matter. [44523/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-11/pq_109",
+      "date": "2026-06-11",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-06-11"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Cathal Crowe",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Cathal-Crowe.D.2020-02-08",
+        "memberCode": "Cathal-Crowe.D.2020-02-08"
+      },
+      "to": {
+        "showAs": "Culture",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Sports Funding",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-11/writtens/dbsect_101",
+        "debateSectionId": "dbsect_101",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-11/writtens/mul@/dbsect_101.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 110,
+      "showAs": " 110. Deputy Cathal Crowe asked the Minister for Culture, Communications and Sport when he expects to open up the Community Sport Facilities Fund for new applications; and if he will make a statement on the matter. [44457/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-11/pq_110",
+      "date": "2026-06-11",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-06-11"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Pádraig O'Sullivan",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Pádraig-O'Sullivan.D.2019-11-29",
+        "memberCode": "Pádraig-O'Sullivan.D.2019-11-29"
+      },
+      "to": {
+        "showAs": "Culture",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Sports Funding",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-11/writtens/dbsect_101",
+        "debateSectionId": "dbsect_101",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-11/writtens/mul@/dbsect_101.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 112,
+      "showAs": " 112. Deputy Pádraig O'Sullivan asked the Minister for Culture, Communications and Sport for an update on the forthcoming round of the Sports Capital and Equipment Programme, including the anticipated budget allocation; the administrative resources within his Department dedicated to the scheme; the types of projects he intends to prioritise under the next round of funding; and if he will make a statement on the matter. [44337/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-11/pq_112",
       "date": "2026-06-11",
       "house": {
         "showAs": "34th Dáil",

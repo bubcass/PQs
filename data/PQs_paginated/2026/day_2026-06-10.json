@@ -2813,12 +2813,52 @@
         "roleCode": null
       },
       "debateSection": {
-        "showAs": "Labour Market",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_129",
-        "debateSectionId": "dbsect_129",
+        "showAs": "Business Supports",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_128",
+        "debateSectionId": "dbsect_128",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_129.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_128.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 71,
+      "showAs": " 71. Deputy William Aird asked the Minister for Enterprise, Tourism and Employment the preparedness of Irish industry for the implementation of the EU Carbon Border Adjustment Mechanism (CBAM); the supports being provided to affected sectors, particularly SMEs and energy-intensive industries, to comply with reporting and cost implications arising from the transitional phase; the estimated impact on competitiveness and export performance; and if he will make a statement on the matter. [44599/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-10/pq_71",
+      "date": "2026-06-10",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-06-10"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "William Aird",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/William-Aird.D.2024-11-29",
+        "memberCode": "William-Aird.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Enterprise",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Labour Market",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_130",
+        "debateSectionId": "dbsect_130",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_130.xml"
           },
           "pdf": null
         }
@@ -2854,11 +2894,11 @@
       },
       "debateSection": {
         "showAs": "Disability Issues",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_130",
-        "debateSectionId": "dbsect_130",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_131",
+        "debateSectionId": "dbsect_131",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_130.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_131.xml"
           },
           "pdf": null
         }
@@ -2894,11 +2934,11 @@
       },
       "debateSection": {
         "showAs": "Data Centres",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_131",
-        "debateSectionId": "dbsect_131",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_132",
+        "debateSectionId": "dbsect_132",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_131.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_132.xml"
           },
           "pdf": null
         }
@@ -2934,11 +2974,11 @@
       },
       "debateSection": {
         "showAs": "National Educational Psychological Service",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_132",
-        "debateSectionId": "dbsect_132",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_133",
+        "debateSectionId": "dbsect_133",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_132.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_133.xml"
           },
           "pdf": null
         }
@@ -2974,11 +3014,11 @@
       },
       "debateSection": {
         "showAs": "Schools Building Projects",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_133",
-        "debateSectionId": "dbsect_133",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_134",
+        "debateSectionId": "dbsect_134",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_133.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_134.xml"
           },
           "pdf": null
         }
@@ -3014,11 +3054,11 @@
       },
       "debateSection": {
         "showAs": "Departmental Meetings",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_134",
-        "debateSectionId": "dbsect_134",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_135",
+        "debateSectionId": "dbsect_135",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_134.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_135.xml"
           },
           "pdf": null
         }
@@ -3054,11 +3094,11 @@
       },
       "debateSection": {
         "showAs": "Special Educational Needs",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_135",
-        "debateSectionId": "dbsect_135",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_136",
+        "debateSectionId": "dbsect_136",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_135.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_136.xml"
           },
           "pdf": null
         }
@@ -3094,11 +3134,11 @@
       },
       "debateSection": {
         "showAs": "Special Educational Needs",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_136",
-        "debateSectionId": "dbsect_136",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_137",
+        "debateSectionId": "dbsect_137",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_136.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_137.xml"
           },
           "pdf": null
         }
@@ -3134,11 +3174,11 @@
       },
       "debateSection": {
         "showAs": "Departmental Programmes",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_137",
-        "debateSectionId": "dbsect_137",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_138",
+        "debateSectionId": "dbsect_138",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_137.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_138.xml"
           },
           "pdf": null
         }
@@ -3174,11 +3214,11 @@
       },
       "debateSection": {
         "showAs": "Special Educational Needs",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_138",
-        "debateSectionId": "dbsect_138",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_139",
+        "debateSectionId": "dbsect_139",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_138.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_139.xml"
           },
           "pdf": null
         }
@@ -3214,11 +3254,11 @@
       },
       "debateSection": {
         "showAs": "Oideachas trí Ghaeilge",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_139",
-        "debateSectionId": "dbsect_139",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_140",
+        "debateSectionId": "dbsect_140",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_139.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_140.xml"
           },
           "pdf": null
         }
@@ -3254,11 +3294,11 @@
       },
       "debateSection": {
         "showAs": "Schools Building Projects",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_140",
-        "debateSectionId": "dbsect_140",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_141",
+        "debateSectionId": "dbsect_141",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_140.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_141.xml"
           },
           "pdf": null
         }
@@ -3294,11 +3334,11 @@
       },
       "debateSection": {
         "showAs": "Disadvantaged Status",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_141",
-        "debateSectionId": "dbsect_141",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_142",
+        "debateSectionId": "dbsect_142",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_141.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_142.xml"
           },
           "pdf": null
         }
@@ -3334,11 +3374,11 @@
       },
       "debateSection": {
         "showAs": "Departmental Programmes",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_142",
-        "debateSectionId": "dbsect_142",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_143",
+        "debateSectionId": "dbsect_143",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_142.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_143.xml"
           },
           "pdf": null
         }
@@ -3374,11 +3414,11 @@
       },
       "debateSection": {
         "showAs": "School Staff",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_143",
-        "debateSectionId": "dbsect_143",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_144",
+        "debateSectionId": "dbsect_144",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_143.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_144.xml"
           },
           "pdf": null
         }
@@ -3414,11 +3454,11 @@
       },
       "debateSection": {
         "showAs": "School Staff",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_144",
-        "debateSectionId": "dbsect_144",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_145",
+        "debateSectionId": "dbsect_145",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_144.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_145.xml"
           },
           "pdf": null
         }
@@ -3454,11 +3494,11 @@
       },
       "debateSection": {
         "showAs": "School Accommodation",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_145",
-        "debateSectionId": "dbsect_145",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_146",
+        "debateSectionId": "dbsect_146",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_145.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_146.xml"
           },
           "pdf": null
         }
@@ -3494,11 +3534,11 @@
       },
       "debateSection": {
         "showAs": "Schools Building Projects",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_146",
-        "debateSectionId": "dbsect_146",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_147",
+        "debateSectionId": "dbsect_147",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_146.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_147.xml"
           },
           "pdf": null
         }
@@ -3534,11 +3574,11 @@
       },
       "debateSection": {
         "showAs": "Schools Building Projects",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_146",
-        "debateSectionId": "dbsect_146",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_147",
+        "debateSectionId": "dbsect_147",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_146.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_147.xml"
           },
           "pdf": null
         }
@@ -3574,11 +3614,11 @@
       },
       "debateSection": {
         "showAs": "Schools Building Projects",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_146",
-        "debateSectionId": "dbsect_146",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_147",
+        "debateSectionId": "dbsect_147",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_146.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_147.xml"
           },
           "pdf": null
         }
@@ -3614,11 +3654,11 @@
       },
       "debateSection": {
         "showAs": "Water Safety",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_148",
-        "debateSectionId": "dbsect_148",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_149",
+        "debateSectionId": "dbsect_149",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_148.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_149.xml"
           },
           "pdf": null
         }
@@ -3654,11 +3694,11 @@
       },
       "debateSection": {
         "showAs": "Special Educational Needs",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_149",
-        "debateSectionId": "dbsect_149",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_150",
+        "debateSectionId": "dbsect_150",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_149.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_150.xml"
           },
           "pdf": null
         }
@@ -3694,11 +3734,11 @@
       },
       "debateSection": {
         "showAs": "Special Educational Needs",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_150",
-        "debateSectionId": "dbsect_150",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_151",
+        "debateSectionId": "dbsect_151",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_150.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_151.xml"
           },
           "pdf": null
         }
@@ -3734,11 +3774,11 @@
       },
       "debateSection": {
         "showAs": "Special Educational Needs",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_151",
-        "debateSectionId": "dbsect_151",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_152",
+        "debateSectionId": "dbsect_152",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_151.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_152.xml"
           },
           "pdf": null
         }
@@ -3774,46 +3814,6 @@
       },
       "debateSection": {
         "showAs": "Education and Training Provision",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_152",
-        "debateSectionId": "dbsect_152",
-        "formats": {
-          "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_152.xml"
-          },
-          "pdf": null
-        }
-      },
-      "questionType": "written",
-      "questionNumber": 96,
-      "showAs": " 96. Deputy Seán Ó Fearghaíl asked the Minister for Education and Youth the way in which fair pension entitlement is being ensured for ETB adult education tutors, given pensions are based only on contract hours; to assess the impact of non-pensionable work on long-serving staff; the steps she will take to improve access to full-time hours for tutors on CID contracts; and if she will make a statement on the matter. [44446/26] ",
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-10/pq_96",
-      "date": "2026-06-10",
-      "house": {
-        "showAs": "34th Dáil",
-        "committeeCode": "",
-        "houseCode": "dail",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "chamberType": "house",
-        "houseNo": "34"
-      }
-    },
-    "contextDate": "2026-06-10"
-  },
-  {
-    "question": {
-      "by": {
-        "showAs": "Michael Cahill",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Michael-Cahill.D.2024-11-29",
-        "memberCode": "Michael-Cahill.D.2024-11-29"
-      },
-      "to": {
-        "showAs": "Education",
-        "uri": null,
-        "roleType": null,
-        "roleCode": null
-      },
-      "debateSection": {
-        "showAs": "Schools Building Projects",
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_153",
         "debateSectionId": "dbsect_153",
         "formats": {
@@ -3824,9 +3824,9 @@
         }
       },
       "questionType": "written",
-      "questionNumber": 97,
-      "showAs": " 97. Deputy Michael Cahill asked the Minister for Education and Youth to urgently advance funding approval for an extension to a school (details supplied) in County Kerry; and if she will make a statement on the matter. [44449/26] ",
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-10/pq_97",
+      "questionNumber": 96,
+      "showAs": " 96. Deputy Seán Ó Fearghaíl asked the Minister for Education and Youth the way in which fair pension entitlement is being ensured for ETB adult education tutors, given pensions are based only on contract hours; to assess the impact of non-pensionable work on long-serving staff; the steps she will take to improve access to full-time hours for tutors on CID contracts; and if she will make a statement on the matter. [44446/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-10/pq_96",
       "date": "2026-06-10",
       "house": {
         "showAs": "34th Dáil",
@@ -3864,6 +3864,46 @@
         }
       },
       "questionType": "written",
+      "questionNumber": 97,
+      "showAs": " 97. Deputy Michael Cahill asked the Minister for Education and Youth to urgently advance funding approval for an extension to a school (details supplied) in County Kerry; and if she will make a statement on the matter. [44449/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-10/pq_97",
+      "date": "2026-06-10",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-06-10"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Michael Cahill",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Michael-Cahill.D.2024-11-29",
+        "memberCode": "Michael-Cahill.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Education",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Schools Building Projects",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_155",
+        "debateSectionId": "dbsect_155",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_155.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
       "questionNumber": 98,
       "showAs": " 98. Deputy Michael Cahill asked the Minister for Education and Youth if the necessary funding will be made available in respect of a school (details supplied) in County Kerry; and if she will make a statement on the matter. [44450/26] ",
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-10/pq_98",
@@ -3894,11 +3934,11 @@
       },
       "debateSection": {
         "showAs": "Schools Building Projects",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_155",
-        "debateSectionId": "dbsect_155",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_156",
+        "debateSectionId": "dbsect_156",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_155.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_156.xml"
           },
           "pdf": null
         }
@@ -3934,11 +3974,11 @@
       },
       "debateSection": {
         "showAs": "Special Educational Needs",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_156",
-        "debateSectionId": "dbsect_156",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_157",
+        "debateSectionId": "dbsect_157",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_156.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_157.xml"
           },
           "pdf": null
         }
@@ -3974,11 +4014,11 @@
       },
       "debateSection": {
         "showAs": "Special Educational Needs",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_156",
-        "debateSectionId": "dbsect_156",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_157",
+        "debateSectionId": "dbsect_157",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_156.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_157.xml"
           },
           "pdf": null
         }
@@ -4014,11 +4054,11 @@
       },
       "debateSection": {
         "showAs": "Broadband Infrastructure",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_157",
-        "debateSectionId": "dbsect_157",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_158",
+        "debateSectionId": "dbsect_158",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_157.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_158.xml"
           },
           "pdf": null
         }
@@ -4054,11 +4094,11 @@
       },
       "debateSection": {
         "showAs": "Broadband Infrastructure",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_157",
-        "debateSectionId": "dbsect_157",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_158",
+        "debateSectionId": "dbsect_158",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_157.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_158.xml"
           },
           "pdf": null
         }
@@ -4094,11 +4134,11 @@
       },
       "debateSection": {
         "showAs": "Broadband Infrastructure",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_157",
-        "debateSectionId": "dbsect_157",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_158",
+        "debateSectionId": "dbsect_158",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_157.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_158.xml"
           },
           "pdf": null
         }
@@ -4134,11 +4174,11 @@
       },
       "debateSection": {
         "showAs": "Postal Services",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_158",
-        "debateSectionId": "dbsect_158",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_159",
+        "debateSectionId": "dbsect_159",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_158.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_159.xml"
           },
           "pdf": null
         }
@@ -4174,11 +4214,11 @@
       },
       "debateSection": {
         "showAs": "Drugs in Sport",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_159",
-        "debateSectionId": "dbsect_159",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_160",
+        "debateSectionId": "dbsect_160",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_159.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_160.xml"
           },
           "pdf": null
         }
@@ -4214,11 +4254,11 @@
       },
       "debateSection": {
         "showAs": "Drugs in Sport",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_159",
-        "debateSectionId": "dbsect_159",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_160",
+        "debateSectionId": "dbsect_160",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_159.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_160.xml"
           },
           "pdf": null
         }
@@ -4254,11 +4294,11 @@
       },
       "debateSection": {
         "showAs": "Drugs in Sport",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_159",
-        "debateSectionId": "dbsect_159",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_160",
+        "debateSectionId": "dbsect_160",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_159.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_160.xml"
           },
           "pdf": null
         }
@@ -4294,11 +4334,11 @@
       },
       "debateSection": {
         "showAs": "Drugs in Sport",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_159",
-        "debateSectionId": "dbsect_159",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_160",
+        "debateSectionId": "dbsect_160",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_159.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_160.xml"
           },
           "pdf": null
         }
@@ -4334,11 +4374,11 @@
       },
       "debateSection": {
         "showAs": "Drugs in Sport",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_159",
-        "debateSectionId": "dbsect_159",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_160",
+        "debateSectionId": "dbsect_160",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_159.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_160.xml"
           },
           "pdf": null
         }
@@ -4374,11 +4414,11 @@
       },
       "debateSection": {
         "showAs": "Drugs in Sport",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_159",
-        "debateSectionId": "dbsect_159",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_160",
+        "debateSectionId": "dbsect_160",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_159.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_160.xml"
           },
           "pdf": null
         }
@@ -4414,11 +4454,11 @@
       },
       "debateSection": {
         "showAs": "Drugs in Sport",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_159",
-        "debateSectionId": "dbsect_159",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_160",
+        "debateSectionId": "dbsect_160",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_159.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_160.xml"
           },
           "pdf": null
         }
@@ -4454,11 +4494,11 @@
       },
       "debateSection": {
         "showAs": "Drugs in Sport",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_159",
-        "debateSectionId": "dbsect_159",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_160",
+        "debateSectionId": "dbsect_160",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_159.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_160.xml"
           },
           "pdf": null
         }
@@ -4494,11 +4534,11 @@
       },
       "debateSection": {
         "showAs": "Drugs in Sport",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_159",
-        "debateSectionId": "dbsect_159",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_160",
+        "debateSectionId": "dbsect_160",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_159.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_160.xml"
           },
           "pdf": null
         }
@@ -4534,11 +4574,11 @@
       },
       "debateSection": {
         "showAs": "Drugs in Sport",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_159",
-        "debateSectionId": "dbsect_159",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_160",
+        "debateSectionId": "dbsect_160",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_159.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_160.xml"
           },
           "pdf": null
         }
@@ -4574,11 +4614,11 @@
       },
       "debateSection": {
         "showAs": "Drugs in Sport",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_159",
-        "debateSectionId": "dbsect_159",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_160",
+        "debateSectionId": "dbsect_160",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_159.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_160.xml"
           },
           "pdf": null
         }
@@ -4614,11 +4654,11 @@
       },
       "debateSection": {
         "showAs": "Drugs in Sport",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_159",
-        "debateSectionId": "dbsect_159",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_160",
+        "debateSectionId": "dbsect_160",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_159.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_160.xml"
           },
           "pdf": null
         }
@@ -4654,11 +4694,11 @@
       },
       "debateSection": {
         "showAs": "Drugs in Sport",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_159",
-        "debateSectionId": "dbsect_159",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_160",
+        "debateSectionId": "dbsect_160",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_159.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_160.xml"
           },
           "pdf": null
         }
@@ -4694,11 +4734,11 @@
       },
       "debateSection": {
         "showAs": "Drugs in Sport",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_159",
-        "debateSectionId": "dbsect_159",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_160",
+        "debateSectionId": "dbsect_160",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_159.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_160.xml"
           },
           "pdf": null
         }
@@ -4734,11 +4774,11 @@
       },
       "debateSection": {
         "showAs": "Drugs in Sport",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_159",
-        "debateSectionId": "dbsect_159",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_160",
+        "debateSectionId": "dbsect_160",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_159.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_160.xml"
           },
           "pdf": null
         }
@@ -4774,11 +4814,11 @@
       },
       "debateSection": {
         "showAs": "Commemorative Events",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_161",
-        "debateSectionId": "dbsect_161",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_162",
+        "debateSectionId": "dbsect_162",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_161.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_162.xml"
           },
           "pdf": null
         }
@@ -4814,11 +4854,11 @@
       },
       "debateSection": {
         "showAs": "National Cultural Institutions",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_162",
-        "debateSectionId": "dbsect_162",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_163",
+        "debateSectionId": "dbsect_163",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_162.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_163.xml"
           },
           "pdf": null
         }
@@ -4854,11 +4894,11 @@
       },
       "debateSection": {
         "showAs": "Drugs in Sport",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_159",
-        "debateSectionId": "dbsect_159",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_160",
+        "debateSectionId": "dbsect_160",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_159.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_160.xml"
           },
           "pdf": null
         }
@@ -4894,11 +4934,11 @@
       },
       "debateSection": {
         "showAs": "Drugs in Sport",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_159",
-        "debateSectionId": "dbsect_159",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_160",
+        "debateSectionId": "dbsect_160",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_159.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_160.xml"
           },
           "pdf": null
         }
@@ -4934,11 +4974,11 @@
       },
       "debateSection": {
         "showAs": "Drugs in Sport",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_159",
-        "debateSectionId": "dbsect_159",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_160",
+        "debateSectionId": "dbsect_160",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_159.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_160.xml"
           },
           "pdf": null
         }
@@ -4974,11 +5014,11 @@
       },
       "debateSection": {
         "showAs": "Drugs in Sport",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_159",
-        "debateSectionId": "dbsect_159",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_160",
+        "debateSectionId": "dbsect_160",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_159.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_160.xml"
           },
           "pdf": null
         }
@@ -5014,11 +5054,11 @@
       },
       "debateSection": {
         "showAs": "Drugs in Sport",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_159",
-        "debateSectionId": "dbsect_159",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_160",
+        "debateSectionId": "dbsect_160",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_159.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_160.xml"
           },
           "pdf": null
         }
@@ -5054,11 +5094,11 @@
       },
       "debateSection": {
         "showAs": "Drugs in Sport",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_159",
-        "debateSectionId": "dbsect_159",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_160",
+        "debateSectionId": "dbsect_160",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_159.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_160.xml"
           },
           "pdf": null
         }
@@ -5094,11 +5134,11 @@
       },
       "debateSection": {
         "showAs": "Drugs in Sport",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_159",
-        "debateSectionId": "dbsect_159",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_160",
+        "debateSectionId": "dbsect_160",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_159.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_160.xml"
           },
           "pdf": null
         }
@@ -5134,11 +5174,11 @@
       },
       "debateSection": {
         "showAs": "Drugs in Sport",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_159",
-        "debateSectionId": "dbsect_159",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_160",
+        "debateSectionId": "dbsect_160",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_159.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_160.xml"
           },
           "pdf": null
         }
@@ -5174,11 +5214,11 @@
       },
       "debateSection": {
         "showAs": "Wastewater Treatment",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_164",
-        "debateSectionId": "dbsect_164",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_165",
+        "debateSectionId": "dbsect_165",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_164.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_165.xml"
           },
           "pdf": null
         }
@@ -5214,46 +5254,6 @@
       },
       "debateSection": {
         "showAs": "Vacant Properties",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_165",
-        "debateSectionId": "dbsect_165",
-        "formats": {
-          "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_165.xml"
-          },
-          "pdf": null
-        }
-      },
-      "questionType": "written",
-      "questionNumber": 132,
-      "showAs": " 132. Deputy Shónagh Ní Raghallaigh asked the Minister for Housing, Local Government and Heritage the number of social homes currently vacant for longer than six months, by local authority area; the reasons for such vacancies; and the measures being taken to return these properties to use as quickly as possible. [44218/26] ",
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-10/pq_132",
-      "date": "2026-06-10",
-      "house": {
-        "showAs": "34th Dáil",
-        "committeeCode": "",
-        "houseCode": "dail",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "chamberType": "house",
-        "houseNo": "34"
-      }
-    },
-    "contextDate": "2026-06-10"
-  },
-  {
-    "question": {
-      "by": {
-        "showAs": "Shónagh Ní Raghallaigh",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Shónagh-Ní-Raghallaigh.D.2024-11-29",
-        "memberCode": "Shónagh-Ní-Raghallaigh.D.2024-11-29"
-      },
-      "to": {
-        "showAs": "Housing",
-        "uri": null,
-        "roleType": null,
-        "roleCode": null
-      },
-      "debateSection": {
-        "showAs": "Housing Schemes",
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_166",
         "debateSectionId": "dbsect_166",
         "formats": {
@@ -5264,9 +5264,9 @@
         }
       },
       "questionType": "written",
-      "questionNumber": 133,
-      "showAs": " 133. Deputy Shónagh Ní Raghallaigh asked the Minister for Housing, Local Government and Heritage his plans to raise the rate paid out in housing adaptation grants scheme in the context of rising building costs; and if he will make a statement on the matter. [44301/26] ",
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-10/pq_133",
+      "questionNumber": 132,
+      "showAs": " 132. Deputy Shónagh Ní Raghallaigh asked the Minister for Housing, Local Government and Heritage the number of social homes currently vacant for longer than six months, by local authority area; the reasons for such vacancies; and the measures being taken to return these properties to use as quickly as possible. [44218/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-10/pq_132",
       "date": "2026-06-10",
       "house": {
         "showAs": "34th Dáil",
@@ -5304,6 +5304,46 @@
         }
       },
       "questionType": "written",
+      "questionNumber": 133,
+      "showAs": " 133. Deputy Shónagh Ní Raghallaigh asked the Minister for Housing, Local Government and Heritage his plans to raise the rate paid out in housing adaptation grants scheme in the context of rising building costs; and if he will make a statement on the matter. [44301/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-10/pq_133",
+      "date": "2026-06-10",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-06-10"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Shónagh Ní Raghallaigh",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Shónagh-Ní-Raghallaigh.D.2024-11-29",
+        "memberCode": "Shónagh-Ní-Raghallaigh.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Housing",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Housing Schemes",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_168",
+        "debateSectionId": "dbsect_168",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_168.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
       "questionNumber": 134,
       "showAs": " 134. Deputy Shónagh Ní Raghallaigh asked the Minister for Housing, Local Government and Heritage the number of vacant and derelict property grants approved, refused and paid out in each county since the introduction of the scheme; the total funding drawn down; and if he will make a statement on the matter. [44347/26] ",
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-10/pq_134",
@@ -5334,11 +5374,11 @@
       },
       "debateSection": {
         "showAs": "Departmental Expenditure",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_168",
-        "debateSectionId": "dbsect_168",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_169",
+        "debateSectionId": "dbsect_169",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_168.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_169.xml"
           },
           "pdf": null
         }
@@ -5374,11 +5414,11 @@
       },
       "debateSection": {
         "showAs": "Departmental Expenditure",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_168",
-        "debateSectionId": "dbsect_168",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_169",
+        "debateSectionId": "dbsect_169",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_168.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_169.xml"
           },
           "pdf": null
         }
@@ -5414,11 +5454,11 @@
       },
       "debateSection": {
         "showAs": "Departmental Expenditure",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_168",
-        "debateSectionId": "dbsect_168",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_169",
+        "debateSectionId": "dbsect_169",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_168.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_169.xml"
           },
           "pdf": null
         }
@@ -5454,11 +5494,11 @@
       },
       "debateSection": {
         "showAs": "Departmental Schemes",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_169",
-        "debateSectionId": "dbsect_169",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_170",
+        "debateSectionId": "dbsect_170",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_169.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_170.xml"
           },
           "pdf": null
         }
@@ -5494,11 +5534,11 @@
       },
       "debateSection": {
         "showAs": "Departmental Expenditure",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_168",
-        "debateSectionId": "dbsect_168",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_169",
+        "debateSectionId": "dbsect_169",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_168.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_169.xml"
           },
           "pdf": null
         }
@@ -5534,11 +5574,11 @@
       },
       "debateSection": {
         "showAs": "Housing Schemes",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_170",
-        "debateSectionId": "dbsect_170",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_171",
+        "debateSectionId": "dbsect_171",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_170.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_171.xml"
           },
           "pdf": null
         }
@@ -5574,11 +5614,11 @@
       },
       "debateSection": {
         "showAs": "Housing Schemes",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_170",
-        "debateSectionId": "dbsect_170",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_171",
+        "debateSectionId": "dbsect_171",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_170.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_171.xml"
           },
           "pdf": null
         }
@@ -5614,11 +5654,11 @@
       },
       "debateSection": {
         "showAs": "Turf Cutting",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_171",
-        "debateSectionId": "dbsect_171",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_172",
+        "debateSectionId": "dbsect_172",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_171.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_172.xml"
           },
           "pdf": null
         }
@@ -5654,11 +5694,11 @@
       },
       "debateSection": {
         "showAs": "Vacant Properties",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_172",
-        "debateSectionId": "dbsect_172",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_173",
+        "debateSectionId": "dbsect_173",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_172.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_173.xml"
           },
           "pdf": null
         }
@@ -5694,11 +5734,11 @@
       },
       "debateSection": {
         "showAs": "Housing Schemes",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_170",
-        "debateSectionId": "dbsect_170",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_171",
+        "debateSectionId": "dbsect_171",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_170.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_171.xml"
           },
           "pdf": null
         }
@@ -5734,11 +5774,11 @@
       },
       "debateSection": {
         "showAs": "Housing Schemes",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_170",
-        "debateSectionId": "dbsect_170",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_171",
+        "debateSectionId": "dbsect_171",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_170.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_171.xml"
           },
           "pdf": null
         }
@@ -5774,11 +5814,11 @@
       },
       "debateSection": {
         "showAs": "Departmental Expenditure",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_168",
-        "debateSectionId": "dbsect_168",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_169",
+        "debateSectionId": "dbsect_169",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_168.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_169.xml"
           },
           "pdf": null
         }
@@ -5814,11 +5854,11 @@
       },
       "debateSection": {
         "showAs": "Housing Schemes",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_170",
-        "debateSectionId": "dbsect_170",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_171",
+        "debateSectionId": "dbsect_171",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_170.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_171.xml"
           },
           "pdf": null
         }
@@ -5854,11 +5894,11 @@
       },
       "debateSection": {
         "showAs": "Departmental Expenditure",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_168",
-        "debateSectionId": "dbsect_168",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_169",
+        "debateSectionId": "dbsect_169",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_168.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_169.xml"
           },
           "pdf": null
         }
@@ -5867,6 +5907,646 @@
       "questionNumber": 148,
       "showAs": " 148. Deputy Rory Hearne asked the Minister for Housing, Local Government and Heritage the engagement undertaken with approved housing bodies and other social housing providers in relation to the operation of the DION system; the number of complaints or formal representations received; the actions taken in response; and if he will make a statement on the matter. [44533/26] ",
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-10/pq_148",
+      "date": "2026-06-10",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-06-10"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "William Aird",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/William-Aird.D.2024-11-29",
+        "memberCode": "William-Aird.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Social",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Disability Issues",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_175",
+        "debateSectionId": "dbsect_175",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_175.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 149,
+      "showAs": " 149. Deputy William Aird asked the Minister for Social Protection the specific measures that are currently in place to support and incentivise employers to recruit and retain persons with disabilities; whether any new initiatives are being considered; and if he will make a statement on the matter. [44601/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-10/pq_149",
+      "date": "2026-06-10",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-06-10"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Shónagh Ní Raghallaigh",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Shónagh-Ní-Raghallaigh.D.2024-11-29",
+        "memberCode": "Shónagh-Ní-Raghallaigh.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Social",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Social Welfare Payments",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_176",
+        "debateSectionId": "dbsect_176",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_176.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 150,
+      "showAs": " 150. Deputy Shónagh Ní Raghallaigh asked the Minister for Social Protection the number of applications for the carer’s support grant and carer’s allowance currently awaiting decision; the average processing time for each scheme; and if he will make a statement on the matter. [44223/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-10/pq_150",
+      "date": "2026-06-10",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-06-10"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Holly Cairns",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Holly-Cairns.D.2020-02-08",
+        "memberCode": "Holly-Cairns.D.2020-02-08"
+      },
+      "to": {
+        "showAs": "Social",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Social Welfare Payments",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_177",
+        "debateSectionId": "dbsect_177",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_177.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 151,
+      "showAs": " 151. Deputy Holly Cairns asked the Minister for Social Protection to outline work undertaken by his Department in regard to examining the age at which domiciliary care allowance ends; whether his Department would consider increasing the age from 16 to 18; and if he will make a statement on the matter. [44231/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-10/pq_151",
+      "date": "2026-06-10",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-06-10"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Robert O'Donoghue",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Robert-O'Donoghue.D.2024-11-29",
+        "memberCode": "Robert-O'Donoghue.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Social",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Social Welfare Payments",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_178",
+        "debateSectionId": "dbsect_178",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_178.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 152,
+      "showAs": " 152. Deputy Robert O'Donoghue asked the Minister for Social Protection the legal and administrative basis for the requirement that recipients of carer’s allowance notify his Department of short absences from the State; if his Department has assessed the necessity and effectiveness of this requirement in the administration of the scheme; whether any review of the requirement is planned; and if he will make a statement on the matter. [44251/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-10/pq_152",
+      "date": "2026-06-10",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-06-10"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Robert O'Donoghue",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Robert-O'Donoghue.D.2024-11-29",
+        "memberCode": "Robert-O'Donoghue.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Social",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Social Welfare Payments",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_178",
+        "debateSectionId": "dbsect_178",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_178.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 153,
+      "showAs": " 153. Deputy Robert O'Donoghue asked the Minister for Social Protection if the requirement for recipients of carer’s allowance to notify his Department of short absences from the State applies to travel within the island of Ireland, including cross-Border journeys; whether the requirement has been applied in such circumstances; whether any review of the requirement is under consideration; and if he will make a statement on the matter. [44252/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-10/pq_153",
+      "date": "2026-06-10",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-06-10"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Shónagh Ní Raghallaigh",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Shónagh-Ní-Raghallaigh.D.2024-11-29",
+        "memberCode": "Shónagh-Ní-Raghallaigh.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Social",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Artificial Intelligence",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_179",
+        "debateSectionId": "dbsect_179",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_179.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 154,
+      "showAs": " 154. Deputy Shónagh Ní Raghallaigh asked the Minister for Social Protection whether her Department has conducted any analysis of the potential implications of artificial intelligence-related job displacement for income supports, activation programmes and labour market participation; and if he will make a statement on the matter. [44279/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-10/pq_154",
+      "date": "2026-06-10",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-06-10"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Barry Heneghan",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Barry-Heneghan.D.2024-11-29",
+        "memberCode": "Barry-Heneghan.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Social",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Housing Schemes",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_180",
+        "debateSectionId": "dbsect_180",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_180.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 155,
+      "showAs": " 155. Deputy Barry Heneghan asked the Minister for Social Protection to examine and assist with a matter (details supplied); and if he will make a statement on the matter. [44283/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-10/pq_155",
+      "date": "2026-06-10",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-06-10"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Shónagh Ní Raghallaigh",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Shónagh-Ní-Raghallaigh.D.2024-11-29",
+        "memberCode": "Shónagh-Ní-Raghallaigh.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Social",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Social Welfare Payments",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_181",
+        "debateSectionId": "dbsect_181",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_181.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 156,
+      "showAs": " 156. Deputy Shónagh Ní Raghallaigh asked the Minister for Social Protection the number of recipients of the working family payment in each of the past five years; the average payment awarded; and whether his Department has assessed barriers to uptake among eligible households. [44352/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-10/pq_156",
+      "date": "2026-06-10",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-06-10"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Marie Sherlock",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Marie-Sherlock.S.2020-03-30",
+        "memberCode": "Marie-Sherlock.S.2020-03-30"
+      },
+      "to": {
+        "showAs": "Social",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Pension Provisions",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_182",
+        "debateSectionId": "dbsect_182",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_182.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 157,
+      "showAs": " 157. Deputy Marie Sherlock asked the Minister for Social Protection to confirm if NAERSA will accept a voluntary opt-in to autoenrollment backdated to 1 January 2026 for a person (details supplied) when said employee had signalled a willingness to opt-in in advance of 1 January 2026 but it was a number of months into 2026 before their employer signed them up to MyFutureFund. [44384/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-10/pq_157",
+      "date": "2026-06-10",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-06-10"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "John Lahart",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/John-Lahart.D.2016-10-03",
+        "memberCode": "John-Lahart.D.2016-10-03"
+      },
+      "to": {
+        "showAs": "Social",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Pension Provisions",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_183",
+        "debateSectionId": "dbsect_183",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_183.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 158,
+      "showAs": " 158. Deputy John Lahart asked the Minister for Social Protection if, in advance of Budget 2027, he will review the means assessment for the increased rate of pension to ensure that savings held on deposit are not treated as income; and if he will make a statement on the matter. [44527/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-10/pq_158",
+      "date": "2026-06-10",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-06-10"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "William Aird",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/William-Aird.D.2024-11-29",
+        "memberCode": "William-Aird.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Social",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Data Protection",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_184",
+        "debateSectionId": "dbsect_184",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_184.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 159,
+      "showAs": " 159. Deputy William Aird asked the Minister for Social Protection if he is satisfied that the data-sharing and data-processing provisions contained in the general scheme of the Social Welfare and Other Matters Bill 2026, comply with the principles of necessity and proportionality under the GDPR and constitutional privacy protections; whether a detailed assessment or justification has been undertaken in respect of the scale of personal and financial data processing proposed, particularly for fraud prevention purposes; the statutory safeguards that will be included in the legislation to protect citizens' personal data; and if he will make a statement on the matter. [44593/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-10/pq_159",
+      "date": "2026-06-10",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-06-10"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "William Aird",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/William-Aird.D.2024-11-29",
+        "memberCode": "William-Aird.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Social",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Data Protection",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_184",
+        "debateSectionId": "dbsect_184",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_184.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 160,
+      "showAs": " 160. Deputy William Aird asked the Minister for Social Protection if he is satisfied that the proposed legislation in the general scheme of Social Welfare and Other Matters Bill 2026 provides sufficient transparency to social welfare recipients regarding how their personal data may be collected, shared, cross-checked, profiled or otherwise processed across State bodies; what measures are proposed to prevent \"function creep\", whereby data collected for the administration of social welfare schemes may subsequently be used for unrelated enforcement or monitoring purposes; and if he will make a statement on the matter. [44594/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-10/pq_160",
+      "date": "2026-06-10",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-06-10"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "William Aird",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/William-Aird.D.2024-11-29",
+        "memberCode": "William-Aird.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Social",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Data Protection",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_184",
+        "debateSectionId": "dbsect_184",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_184.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 161,
+      "showAs": " 161. Deputy William Aird asked the Minister for Social Protection the assessment that has been undertaken of international experiences where automated decision-making systems, welfare analytics or fraud detection technologies resulted in wrongful suspensions, incorrect overpayments, or discriminatory outcomes; whether consideration has been given to the potential for algorithmic bias or indirect discrimination arising from increased automation in eligibility assessments or fraud detection processes under the proposed general scheme of Social Welfare and Other Matters Bill 2026, the safeguards that will be implemented to mitigate such risks; and if he will make a statement on the matter. [44595/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-10/pq_161",
+      "date": "2026-06-10",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-06-10"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "William Aird",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/William-Aird.D.2024-11-29",
+        "memberCode": "William-Aird.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Social",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Data Protection",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_184",
+        "debateSectionId": "dbsect_184",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_184.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 162,
+      "showAs": " 162. Deputy William Aird asked the Minister for Social Protection if he is satisfied that the current oversight framework provides the Data Protection Commission with sufficient statutory powers and resources to effectively monitor compliance with large-scale interdepartmental welfare data-sharing arrangements; the way in which the Government intends to balance the legitimate objective of tackling welfare fraud with the privacy and constitutional rights of citizens who are fully compliant with the social protection system; and if he will make a statement on the matter. [44596/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-10/pq_162",
+      "date": "2026-06-10",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-06-10"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "William Aird",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/William-Aird.D.2024-11-29",
+        "memberCode": "William-Aird.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Social",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Departmental Data",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_185",
+        "debateSectionId": "dbsect_185",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_185.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 163,
+      "showAs": " 163. Deputy William Aird asked the Minister for Social Protection the latest data from the Central Statistics Office on trends in income inequality and poverty over the past decade; if the Gini coefficient has fallen from 32 to 27 between 2014 and 2024; whether the income quintile share ratio has declined over the same period; the changes in the at-risk-of-poverty rate and the consistent poverty rate since 2014; the way in which Ireland compares to other EU Member States on poverty and inequality indicators; and if he will make a statement on the matter. [44597/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-10/pq_163",
+      "date": "2026-06-10",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-06-10"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "William Aird",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/William-Aird.D.2024-11-29",
+        "memberCode": "William-Aird.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Social",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Pension Provisions",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_186",
+        "debateSectionId": "dbsect_186",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_186.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 164,
+      "showAs": " 164. Deputy William Aird asked the Minister for Social Protection the steps his Department is taking to ensure that employees and employers fully understand their obligations and entitlements under the new auto-enrolment pension scheme in advance of the opt-out window coming into effect; and if he will make a statement on the matter. [44598/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-10/pq_164",
       "date": "2026-06-10",
       "house": {
         "showAs": "34th Dáil",
@@ -5894,11 +6574,11 @@
       },
       "debateSection": {
         "showAs": "Domestic Violence",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_174",
-        "debateSectionId": "dbsect_174",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_188",
+        "debateSectionId": "dbsect_188",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_174.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_188.xml"
           },
           "pdf": null
         }
@@ -5934,11 +6614,11 @@
       },
       "debateSection": {
         "showAs": "An Garda Síochána",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_175",
-        "debateSectionId": "dbsect_175",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_189",
+        "debateSectionId": "dbsect_189",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_175.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_189.xml"
           },
           "pdf": null
         }
@@ -5974,11 +6654,11 @@
       },
       "debateSection": {
         "showAs": "Family Reunification",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_176",
-        "debateSectionId": "dbsect_176",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_190",
+        "debateSectionId": "dbsect_190",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_176.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_190.xml"
           },
           "pdf": null
         }
@@ -6014,11 +6694,11 @@
       },
       "debateSection": {
         "showAs": "Domestic Violence",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_177",
-        "debateSectionId": "dbsect_177",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_191",
+        "debateSectionId": "dbsect_191",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_177.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_191.xml"
           },
           "pdf": null
         }
@@ -6054,11 +6734,11 @@
       },
       "debateSection": {
         "showAs": "Domestic Violence",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_178",
-        "debateSectionId": "dbsect_178",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_192",
+        "debateSectionId": "dbsect_192",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_178.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_192.xml"
           },
           "pdf": null
         }
@@ -6094,11 +6774,11 @@
       },
       "debateSection": {
         "showAs": "Domestic Violence",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_174",
-        "debateSectionId": "dbsect_174",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_188",
+        "debateSectionId": "dbsect_188",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_174.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_188.xml"
           },
           "pdf": null
         }
@@ -6134,11 +6814,11 @@
       },
       "debateSection": {
         "showAs": "Immigration Support Services",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_179",
-        "debateSectionId": "dbsect_179",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_193",
+        "debateSectionId": "dbsect_193",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_179.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_193.xml"
           },
           "pdf": null
         }
@@ -6174,11 +6854,11 @@
       },
       "debateSection": {
         "showAs": "Legislative Measures",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_180",
-        "debateSectionId": "dbsect_180",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_194",
+        "debateSectionId": "dbsect_194",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_180.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_194.xml"
           },
           "pdf": null
         }
@@ -6214,11 +6894,11 @@
       },
       "debateSection": {
         "showAs": "Legislative Measures",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_180",
-        "debateSectionId": "dbsect_180",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_194",
+        "debateSectionId": "dbsect_194",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_180.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_194.xml"
           },
           "pdf": null
         }
@@ -6254,11 +6934,11 @@
       },
       "debateSection": {
         "showAs": "An Garda Síochána",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_181",
-        "debateSectionId": "dbsect_181",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_195",
+        "debateSectionId": "dbsect_195",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_181.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_195.xml"
           },
           "pdf": null
         }
@@ -6294,11 +6974,11 @@
       },
       "debateSection": {
         "showAs": "Departmental Records",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_182",
-        "debateSectionId": "dbsect_182",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_196",
+        "debateSectionId": "dbsect_196",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_182.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_196.xml"
           },
           "pdf": null
         }
@@ -6334,11 +7014,11 @@
       },
       "debateSection": {
         "showAs": "International Protection",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_183",
-        "debateSectionId": "dbsect_183",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_197",
+        "debateSectionId": "dbsect_197",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_183.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_197.xml"
           },
           "pdf": null
         }
@@ -6374,11 +7054,11 @@
       },
       "debateSection": {
         "showAs": "EU Agreements",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_184",
-        "debateSectionId": "dbsect_184",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_198",
+        "debateSectionId": "dbsect_198",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_184.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_198.xml"
           },
           "pdf": null
         }
@@ -6414,11 +7094,11 @@
       },
       "debateSection": {
         "showAs": "EU Agreements",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_184",
-        "debateSectionId": "dbsect_184",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_198",
+        "debateSectionId": "dbsect_198",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_184.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_198.xml"
           },
           "pdf": null
         }
@@ -6454,11 +7134,11 @@
       },
       "debateSection": {
         "showAs": "EU Agreements",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_184",
-        "debateSectionId": "dbsect_184",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_198",
+        "debateSectionId": "dbsect_198",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_184.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_198.xml"
           },
           "pdf": null
         }
@@ -6494,11 +7174,11 @@
       },
       "debateSection": {
         "showAs": "EU Agreements",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_184",
-        "debateSectionId": "dbsect_184",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_198",
+        "debateSectionId": "dbsect_198",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_184.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_198.xml"
           },
           "pdf": null
         }
@@ -6534,11 +7214,11 @@
       },
       "debateSection": {
         "showAs": "International Protection",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_185",
-        "debateSectionId": "dbsect_185",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_199",
+        "debateSectionId": "dbsect_199",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_185.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_199.xml"
           },
           "pdf": null
         }
@@ -6574,11 +7254,11 @@
       },
       "debateSection": {
         "showAs": "International Protection",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_186",
-        "debateSectionId": "dbsect_186",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_200",
+        "debateSectionId": "dbsect_200",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_186.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_200.xml"
           },
           "pdf": null
         }
@@ -6614,11 +7294,11 @@
       },
       "debateSection": {
         "showAs": "An Garda Síochána",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_187",
-        "debateSectionId": "dbsect_187",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_201",
+        "debateSectionId": "dbsect_201",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_187.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_201.xml"
           },
           "pdf": null
         }
@@ -6654,11 +7334,11 @@
       },
       "debateSection": {
         "showAs": "Departmental Investigations",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_188",
-        "debateSectionId": "dbsect_188",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_202",
+        "debateSectionId": "dbsect_202",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_188.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_202.xml"
           },
           "pdf": null
         }
@@ -6694,11 +7374,11 @@
       },
       "debateSection": {
         "showAs": "International Protection",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_190",
-        "debateSectionId": "dbsect_190",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_204",
+        "debateSectionId": "dbsect_204",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_190.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_204.xml"
           },
           "pdf": null
         }
@@ -6734,11 +7414,11 @@
       },
       "debateSection": {
         "showAs": "Visa Applications",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_191",
-        "debateSectionId": "dbsect_191",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_205",
+        "debateSectionId": "dbsect_205",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_191.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_205.xml"
           },
           "pdf": null
         }
@@ -6774,11 +7454,11 @@
       },
       "debateSection": {
         "showAs": "Visa Applications",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_191",
-        "debateSectionId": "dbsect_191",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_205",
+        "debateSectionId": "dbsect_205",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_191.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_205.xml"
           },
           "pdf": null
         }
@@ -6814,11 +7494,11 @@
       },
       "debateSection": {
         "showAs": "Deportation Orders",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_192",
-        "debateSectionId": "dbsect_192",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_206",
+        "debateSectionId": "dbsect_206",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_192.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_206.xml"
           },
           "pdf": null
         }
@@ -6854,11 +7534,11 @@
       },
       "debateSection": {
         "showAs": "Public Sector Staff",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_193",
-        "debateSectionId": "dbsect_193",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_207",
+        "debateSectionId": "dbsect_207",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_193.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_207.xml"
           },
           "pdf": null
         }
@@ -6894,11 +7574,11 @@
       },
       "debateSection": {
         "showAs": "Public Sector Staff",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_193",
-        "debateSectionId": "dbsect_193",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_207",
+        "debateSectionId": "dbsect_207",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_193.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_207.xml"
           },
           "pdf": null
         }
@@ -6934,11 +7614,11 @@
       },
       "debateSection": {
         "showAs": "Public Sector Staff",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_193",
-        "debateSectionId": "dbsect_193",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_207",
+        "debateSectionId": "dbsect_207",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_193.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_207.xml"
           },
           "pdf": null
         }
@@ -6974,11 +7654,11 @@
       },
       "debateSection": {
         "showAs": "An Garda Síochána",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_194",
-        "debateSectionId": "dbsect_194",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_208",
+        "debateSectionId": "dbsect_208",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_194.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_208.xml"
           },
           "pdf": null
         }
@@ -7014,11 +7694,11 @@
       },
       "debateSection": {
         "showAs": "Agriculture Schemes",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_195",
-        "debateSectionId": "dbsect_195",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_209",
+        "debateSectionId": "dbsect_209",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_195.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_209.xml"
           },
           "pdf": null
         }
@@ -7054,11 +7734,11 @@
       },
       "debateSection": {
         "showAs": "Agriculture Schemes",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_196",
-        "debateSectionId": "dbsect_196",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_210",
+        "debateSectionId": "dbsect_210",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_196.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_210.xml"
           },
           "pdf": null
         }
@@ -7094,11 +7774,11 @@
       },
       "debateSection": {
         "showAs": "Animal Welfare",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_197",
-        "debateSectionId": "dbsect_197",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_211",
+        "debateSectionId": "dbsect_211",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_197.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_211.xml"
           },
           "pdf": null
         }
@@ -7134,11 +7814,11 @@
       },
       "debateSection": {
         "showAs": "Aquaculture Industry",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_198",
-        "debateSectionId": "dbsect_198",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_212",
+        "debateSectionId": "dbsect_212",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_198.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_212.xml"
           },
           "pdf": null
         }
@@ -7174,11 +7854,11 @@
       },
       "debateSection": {
         "showAs": "Local Authorities",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_199",
-        "debateSectionId": "dbsect_199",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_213",
+        "debateSectionId": "dbsect_213",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_199.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_213.xml"
           },
           "pdf": null
         }
@@ -7214,11 +7894,11 @@
       },
       "debateSection": {
         "showAs": "Food Labelling",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_200",
-        "debateSectionId": "dbsect_200",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_214",
+        "debateSectionId": "dbsect_214",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_200.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_214.xml"
           },
           "pdf": null
         }
@@ -7254,11 +7934,11 @@
       },
       "debateSection": {
         "showAs": "Departmental Budgets",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_201",
-        "debateSectionId": "dbsect_201",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_215",
+        "debateSectionId": "dbsect_215",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_201.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_215.xml"
           },
           "pdf": null
         }
@@ -7294,11 +7974,11 @@
       },
       "debateSection": {
         "showAs": "Health Services",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_202",
-        "debateSectionId": "dbsect_202",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_216",
+        "debateSectionId": "dbsect_216",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_202.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_216.xml"
           },
           "pdf": null
         }
@@ -7334,11 +8014,11 @@
       },
       "debateSection": {
         "showAs": "Health Services Waiting Lists",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_203",
-        "debateSectionId": "dbsect_203",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_217",
+        "debateSectionId": "dbsect_217",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_203.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_217.xml"
           },
           "pdf": null
         }
@@ -7374,11 +8054,11 @@
       },
       "debateSection": {
         "showAs": "Childcare Services",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_204",
-        "debateSectionId": "dbsect_204",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_218",
+        "debateSectionId": "dbsect_218",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_204.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_218.xml"
           },
           "pdf": null
         }
@@ -7414,11 +8094,11 @@
       },
       "debateSection": {
         "showAs": "Residential Institutions",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_205",
-        "debateSectionId": "dbsect_205",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_219",
+        "debateSectionId": "dbsect_219",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_205.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_219.xml"
           },
           "pdf": null
         }
@@ -7454,11 +8134,11 @@
       },
       "debateSection": {
         "showAs": "Residential Institutions",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_206",
-        "debateSectionId": "dbsect_206",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_220",
+        "debateSectionId": "dbsect_220",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_206.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_220.xml"
           },
           "pdf": null
         }
@@ -7494,11 +8174,11 @@
       },
       "debateSection": {
         "showAs": "Departmental Communications",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_208",
-        "debateSectionId": "dbsect_208",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_222",
+        "debateSectionId": "dbsect_222",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_208.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_222.xml"
           },
           "pdf": null
         }
@@ -7534,11 +8214,11 @@
       },
       "debateSection": {
         "showAs": "Child Safety",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_209",
-        "debateSectionId": "dbsect_209",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_223",
+        "debateSectionId": "dbsect_223",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_209.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_223.xml"
           },
           "pdf": null
         }
@@ -7574,11 +8254,11 @@
       },
       "debateSection": {
         "showAs": "Childcare Services",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_210",
-        "debateSectionId": "dbsect_210",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_224",
+        "debateSectionId": "dbsect_224",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_210.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_224.xml"
           },
           "pdf": null
         }
@@ -7614,11 +8294,11 @@
       },
       "debateSection": {
         "showAs": "An Garda Síochána",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_212",
-        "debateSectionId": "dbsect_212",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_226",
+        "debateSectionId": "dbsect_226",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_212.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_226.xml"
           },
           "pdf": null
         }
@@ -7654,11 +8334,11 @@
       },
       "debateSection": {
         "showAs": "Medicinal Products",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_213",
-        "debateSectionId": "dbsect_213",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_227",
+        "debateSectionId": "dbsect_227",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_213.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_227.xml"
           },
           "pdf": null
         }
@@ -7694,11 +8374,11 @@
       },
       "debateSection": {
         "showAs": "Dental Services ",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_214",
-        "debateSectionId": "dbsect_214",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_228",
+        "debateSectionId": "dbsect_228",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_214.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_228.xml"
           },
           "pdf": null
         }
@@ -7734,11 +8414,11 @@
       },
       "debateSection": {
         "showAs": "Medical Cards",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_215",
-        "debateSectionId": "dbsect_215",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_229",
+        "debateSectionId": "dbsect_229",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_215.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_229.xml"
           },
           "pdf": null
         }
@@ -7774,11 +8454,11 @@
       },
       "debateSection": {
         "showAs": "Hospital Services",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_216",
-        "debateSectionId": "dbsect_216",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_230",
+        "debateSectionId": "dbsect_230",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_216.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_230.xml"
           },
           "pdf": null
         }
@@ -7814,11 +8494,11 @@
       },
       "debateSection": {
         "showAs": "Disease Management",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_217",
-        "debateSectionId": "dbsect_217",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_231",
+        "debateSectionId": "dbsect_231",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_217.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_231.xml"
           },
           "pdf": null
         }
@@ -7854,11 +8534,11 @@
       },
       "debateSection": {
         "showAs": "Home Help Service",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_218",
-        "debateSectionId": "dbsect_218",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_232",
+        "debateSectionId": "dbsect_232",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_218.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_232.xml"
           },
           "pdf": null
         }
@@ -7894,11 +8574,11 @@
       },
       "debateSection": {
         "showAs": "Mental Health Services",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_219",
-        "debateSectionId": "dbsect_219",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_233",
+        "debateSectionId": "dbsect_233",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_219.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_233.xml"
           },
           "pdf": null
         }
@@ -7934,11 +8614,11 @@
       },
       "debateSection": {
         "showAs": "Nursing Education",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_220",
-        "debateSectionId": "dbsect_220",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_234",
+        "debateSectionId": "dbsect_234",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_220.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_234.xml"
           },
           "pdf": null
         }
@@ -7974,11 +8654,11 @@
       },
       "debateSection": {
         "showAs": "Hospital Staff",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_221",
-        "debateSectionId": "dbsect_221",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_235",
+        "debateSectionId": "dbsect_235",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_221.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_235.xml"
           },
           "pdf": null
         }
@@ -8014,11 +8694,11 @@
       },
       "debateSection": {
         "showAs": "Health Services Staff",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_222",
-        "debateSectionId": "dbsect_222",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_236",
+        "debateSectionId": "dbsect_236",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_222.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_236.xml"
           },
           "pdf": null
         }
@@ -8054,11 +8734,11 @@
       },
       "debateSection": {
         "showAs": "Health Services Staff",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_223",
-        "debateSectionId": "dbsect_223",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_237",
+        "debateSectionId": "dbsect_237",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_223.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_237.xml"
           },
           "pdf": null
         }
@@ -8094,11 +8774,11 @@
       },
       "debateSection": {
         "showAs": "Primary Care Services",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_224",
-        "debateSectionId": "dbsect_224",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_238",
+        "debateSectionId": "dbsect_238",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_224.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_238.xml"
           },
           "pdf": null
         }
@@ -8134,11 +8814,11 @@
       },
       "debateSection": {
         "showAs": "Primary Care Services",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_225",
-        "debateSectionId": "dbsect_225",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_239",
+        "debateSectionId": "dbsect_239",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_225.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_239.xml"
           },
           "pdf": null
         }
@@ -8174,11 +8854,11 @@
       },
       "debateSection": {
         "showAs": "Primary Care Services",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_226",
-        "debateSectionId": "dbsect_226",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_240",
+        "debateSectionId": "dbsect_240",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_226.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_240.xml"
           },
           "pdf": null
         }
@@ -8214,11 +8894,11 @@
       },
       "debateSection": {
         "showAs": "Health Services Waiting Lists",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_227",
-        "debateSectionId": "dbsect_227",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_241",
+        "debateSectionId": "dbsect_241",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_227.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_241.xml"
           },
           "pdf": null
         }
@@ -8254,11 +8934,11 @@
       },
       "debateSection": {
         "showAs": "Departmental Correspondence",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_228",
-        "debateSectionId": "dbsect_228",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_242",
+        "debateSectionId": "dbsect_242",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_228.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_242.xml"
           },
           "pdf": null
         }
@@ -8294,11 +8974,11 @@
       },
       "debateSection": {
         "showAs": "Community Care",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_229",
-        "debateSectionId": "dbsect_229",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_243",
+        "debateSectionId": "dbsect_243",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_229.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_243.xml"
           },
           "pdf": null
         }
@@ -8334,11 +9014,11 @@
       },
       "debateSection": {
         "showAs": "Hospital Staff",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_230",
-        "debateSectionId": "dbsect_230",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_244",
+        "debateSectionId": "dbsect_244",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_230.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_244.xml"
           },
           "pdf": null
         }
@@ -8374,11 +9054,11 @@
       },
       "debateSection": {
         "showAs": "Hospital Staff",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_230",
-        "debateSectionId": "dbsect_230",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_244",
+        "debateSectionId": "dbsect_244",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_230.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_244.xml"
           },
           "pdf": null
         }
@@ -8414,11 +9094,11 @@
       },
       "debateSection": {
         "showAs": "Hospital Staff",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_230",
-        "debateSectionId": "dbsect_230",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_244",
+        "debateSectionId": "dbsect_244",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_230.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_244.xml"
           },
           "pdf": null
         }
@@ -8454,11 +9134,11 @@
       },
       "debateSection": {
         "showAs": "Healthcare Policy",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_232",
-        "debateSectionId": "dbsect_232",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_246",
+        "debateSectionId": "dbsect_246",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_232.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_246.xml"
           },
           "pdf": null
         }
@@ -8494,11 +9174,11 @@
       },
       "debateSection": {
         "showAs": "Healthcare Policy",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_233",
-        "debateSectionId": "dbsect_233",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_247",
+        "debateSectionId": "dbsect_247",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_233.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_247.xml"
           },
           "pdf": null
         }
@@ -8534,11 +9214,11 @@
       },
       "debateSection": {
         "showAs": "Organ Donation",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_234",
-        "debateSectionId": "dbsect_234",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_248",
+        "debateSectionId": "dbsect_248",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_234.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_248.xml"
           },
           "pdf": null
         }
@@ -8574,11 +9254,11 @@
       },
       "debateSection": {
         "showAs": "Organ Donation",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_235",
-        "debateSectionId": "dbsect_235",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_249",
+        "debateSectionId": "dbsect_249",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_235.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_249.xml"
           },
           "pdf": null
         }
@@ -8614,11 +9294,11 @@
       },
       "debateSection": {
         "showAs": "Vaccination Programme",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_236",
-        "debateSectionId": "dbsect_236",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_250",
+        "debateSectionId": "dbsect_250",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_236.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_250.xml"
           },
           "pdf": null
         }
@@ -8654,11 +9334,11 @@
       },
       "debateSection": {
         "showAs": "Vaccination Programme",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_237",
-        "debateSectionId": "dbsect_237",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_251",
+        "debateSectionId": "dbsect_251",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_237.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_251.xml"
           },
           "pdf": null
         }
@@ -8694,11 +9374,11 @@
       },
       "debateSection": {
         "showAs": "Infectious Diseases",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_238",
-        "debateSectionId": "dbsect_238",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_252",
+        "debateSectionId": "dbsect_252",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_238.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_252.xml"
           },
           "pdf": null
         }
@@ -8734,11 +9414,11 @@
       },
       "debateSection": {
         "showAs": "Clinical Trials",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_239",
-        "debateSectionId": "dbsect_239",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_253",
+        "debateSectionId": "dbsect_253",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_239.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_253.xml"
           },
           "pdf": null
         }
@@ -8774,11 +9454,11 @@
       },
       "debateSection": {
         "showAs": "Clinical Trials",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_239",
-        "debateSectionId": "dbsect_239",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_253",
+        "debateSectionId": "dbsect_253",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_239.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_253.xml"
           },
           "pdf": null
         }
@@ -8814,11 +9494,11 @@
       },
       "debateSection": {
         "showAs": "Regulatory Bodies",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_240",
-        "debateSectionId": "dbsect_240",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_254",
+        "debateSectionId": "dbsect_254",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_240.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_254.xml"
           },
           "pdf": null
         }
@@ -8854,11 +9534,11 @@
       },
       "debateSection": {
         "showAs": "Misuse of Drugs",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_241",
-        "debateSectionId": "dbsect_241",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_255",
+        "debateSectionId": "dbsect_255",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_241.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_255.xml"
           },
           "pdf": null
         }
@@ -8894,11 +9574,11 @@
       },
       "debateSection": {
         "showAs": "Health Screening Programmes",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_242",
-        "debateSectionId": "dbsect_242",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_256",
+        "debateSectionId": "dbsect_256",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_242.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_256.xml"
           },
           "pdf": null
         }
@@ -8934,11 +9614,11 @@
       },
       "debateSection": {
         "showAs": "Healthcare Policy",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_243",
-        "debateSectionId": "dbsect_243",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_257",
+        "debateSectionId": "dbsect_257",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_243.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_257.xml"
           },
           "pdf": null
         }
@@ -8974,11 +9654,11 @@
       },
       "debateSection": {
         "showAs": "Primary Care Services",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_244",
-        "debateSectionId": "dbsect_244",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_258",
+        "debateSectionId": "dbsect_258",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_244.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_258.xml"
           },
           "pdf": null
         }
@@ -9014,11 +9694,11 @@
       },
       "debateSection": {
         "showAs": "Misuse of Drugs",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_245",
-        "debateSectionId": "dbsect_245",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_259",
+        "debateSectionId": "dbsect_259",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_245.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_259.xml"
           },
           "pdf": null
         }
@@ -9054,11 +9734,11 @@
       },
       "debateSection": {
         "showAs": "Patient Files",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_246",
-        "debateSectionId": "dbsect_246",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_260",
+        "debateSectionId": "dbsect_260",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_246.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_260.xml"
           },
           "pdf": null
         }
@@ -9094,11 +9774,11 @@
       },
       "debateSection": {
         "showAs": "Health Services Staff",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_247",
-        "debateSectionId": "dbsect_247",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_261",
+        "debateSectionId": "dbsect_261",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_247.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_261.xml"
           },
           "pdf": null
         }
@@ -9134,11 +9814,11 @@
       },
       "debateSection": {
         "showAs": "Misuse of Drugs",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_248",
-        "debateSectionId": "dbsect_248",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_262",
+        "debateSectionId": "dbsect_262",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_248.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_262.xml"
           },
           "pdf": null
         }
@@ -9174,11 +9854,11 @@
       },
       "debateSection": {
         "showAs": "Misuse of Drugs",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_241",
-        "debateSectionId": "dbsect_241",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_255",
+        "debateSectionId": "dbsect_255",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_241.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_255.xml"
           },
           "pdf": null
         }
@@ -9214,11 +9894,11 @@
       },
       "debateSection": {
         "showAs": "Social Welfare Eligibility",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_249",
-        "debateSectionId": "dbsect_249",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_263",
+        "debateSectionId": "dbsect_263",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_249.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_263.xml"
           },
           "pdf": null
         }
@@ -9254,11 +9934,11 @@
       },
       "debateSection": {
         "showAs": "Social Welfare Eligibility",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_250",
-        "debateSectionId": "dbsect_250",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_264",
+        "debateSectionId": "dbsect_264",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_250.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_264.xml"
           },
           "pdf": null
         }
@@ -9294,11 +9974,11 @@
       },
       "debateSection": {
         "showAs": "Health Services Staff",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_251",
-        "debateSectionId": "dbsect_251",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_265",
+        "debateSectionId": "dbsect_265",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_251.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_265.xml"
           },
           "pdf": null
         }
@@ -9334,11 +10014,11 @@
       },
       "debateSection": {
         "showAs": "Prescriptions Charges",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_252",
-        "debateSectionId": "dbsect_252",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_266",
+        "debateSectionId": "dbsect_266",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_252.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_266.xml"
           },
           "pdf": null
         }
@@ -9374,11 +10054,11 @@
       },
       "debateSection": {
         "showAs": "Prescriptions Charges",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_252",
-        "debateSectionId": "dbsect_252",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_266",
+        "debateSectionId": "dbsect_266",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_252.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_266.xml"
           },
           "pdf": null
         }
@@ -9414,11 +10094,11 @@
       },
       "debateSection": {
         "showAs": "Health Services",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_253",
-        "debateSectionId": "dbsect_253",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_267",
+        "debateSectionId": "dbsect_267",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_253.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_267.xml"
           },
           "pdf": null
         }
@@ -9454,11 +10134,11 @@
       },
       "debateSection": {
         "showAs": "Hospital Services",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_255",
-        "debateSectionId": "dbsect_255",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_269",
+        "debateSectionId": "dbsect_269",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_255.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_269.xml"
           },
           "pdf": null
         }
@@ -9494,11 +10174,11 @@
       },
       "debateSection": {
         "showAs": "Health Services",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_256",
-        "debateSectionId": "dbsect_256",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_270",
+        "debateSectionId": "dbsect_270",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_256.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_270.xml"
           },
           "pdf": null
         }
@@ -9534,11 +10214,11 @@
       },
       "debateSection": {
         "showAs": "Health Services",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_256",
-        "debateSectionId": "dbsect_256",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_270",
+        "debateSectionId": "dbsect_270",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_256.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_270.xml"
           },
           "pdf": null
         }
@@ -9574,11 +10254,11 @@
       },
       "debateSection": {
         "showAs": "Departmental Funding",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_257",
-        "debateSectionId": "dbsect_257",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_271",
+        "debateSectionId": "dbsect_271",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_257.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_271.xml"
           },
           "pdf": null
         }
@@ -9614,11 +10294,11 @@
       },
       "debateSection": {
         "showAs": "Health Services",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_258",
-        "debateSectionId": "dbsect_258",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_272",
+        "debateSectionId": "dbsect_272",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_258.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_272.xml"
           },
           "pdf": null
         }
@@ -9654,11 +10334,11 @@
       },
       "debateSection": {
         "showAs": "Health Services",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_259",
-        "debateSectionId": "dbsect_259",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_273",
+        "debateSectionId": "dbsect_273",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_259.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_273.xml"
           },
           "pdf": null
         }
@@ -9694,11 +10374,11 @@
       },
       "debateSection": {
         "showAs": "Hospital Services",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_260",
-        "debateSectionId": "dbsect_260",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_274",
+        "debateSectionId": "dbsect_274",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_260.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_274.xml"
           },
           "pdf": null
         }
@@ -9734,11 +10414,11 @@
       },
       "debateSection": {
         "showAs": "Hospital Appointments Status",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_261",
-        "debateSectionId": "dbsect_261",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_275",
+        "debateSectionId": "dbsect_275",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_261.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_275.xml"
           },
           "pdf": null
         }
@@ -9774,11 +10454,11 @@
       },
       "debateSection": {
         "showAs": "Health Service Executive",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_262",
-        "debateSectionId": "dbsect_262",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_276",
+        "debateSectionId": "dbsect_276",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_262.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_276.xml"
           },
           "pdf": null
         }
@@ -9814,11 +10494,11 @@
       },
       "debateSection": {
         "showAs": "Health Services Staff",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_263",
-        "debateSectionId": "dbsect_263",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_277",
+        "debateSectionId": "dbsect_277",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_263.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_277.xml"
           },
           "pdf": null
         }
@@ -9854,11 +10534,11 @@
       },
       "debateSection": {
         "showAs": "Health Services Staff",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_264",
-        "debateSectionId": "dbsect_264",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_278",
+        "debateSectionId": "dbsect_278",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_264.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_278.xml"
           },
           "pdf": null
         }
@@ -9894,11 +10574,11 @@
       },
       "debateSection": {
         "showAs": "Health Services Staff",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_265",
-        "debateSectionId": "dbsect_265",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_279",
+        "debateSectionId": "dbsect_279",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_265.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_279.xml"
           },
           "pdf": null
         }
@@ -9934,11 +10614,11 @@
       },
       "debateSection": {
         "showAs": "Health Services Staff",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_266",
-        "debateSectionId": "dbsect_266",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_280",
+        "debateSectionId": "dbsect_280",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_266.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_280.xml"
           },
           "pdf": null
         }
@@ -9974,11 +10654,11 @@
       },
       "debateSection": {
         "showAs": "Health Services Staff",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_267",
-        "debateSectionId": "dbsect_267",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_281",
+        "debateSectionId": "dbsect_281",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_267.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_281.xml"
           },
           "pdf": null
         }
@@ -10014,11 +10694,11 @@
       },
       "debateSection": {
         "showAs": "Health Services Staff",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_268",
-        "debateSectionId": "dbsect_268",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_282",
+        "debateSectionId": "dbsect_282",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_268.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_282.xml"
           },
           "pdf": null
         }
@@ -10054,11 +10734,11 @@
       },
       "debateSection": {
         "showAs": "Health Services Staff",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_268",
-        "debateSectionId": "dbsect_268",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_282",
+        "debateSectionId": "dbsect_282",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_268.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_282.xml"
           },
           "pdf": null
         }
@@ -10094,11 +10774,11 @@
       },
       "debateSection": {
         "showAs": "Medicinal Products",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_269",
-        "debateSectionId": "dbsect_269",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_283",
+        "debateSectionId": "dbsect_283",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_269.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_283.xml"
           },
           "pdf": null
         }
@@ -10134,11 +10814,11 @@
       },
       "debateSection": {
         "showAs": "Disability Services",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_270",
-        "debateSectionId": "dbsect_270",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_284",
+        "debateSectionId": "dbsect_284",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_270.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_284.xml"
           },
           "pdf": null
         }
@@ -10174,11 +10854,11 @@
       },
       "debateSection": {
         "showAs": "Vaccination Programme",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_271",
-        "debateSectionId": "dbsect_271",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_285",
+        "debateSectionId": "dbsect_285",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_271.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_285.xml"
           },
           "pdf": null
         }
@@ -10214,11 +10894,11 @@
       },
       "debateSection": {
         "showAs": "Ambulance Service",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_272",
-        "debateSectionId": "dbsect_272",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_286",
+        "debateSectionId": "dbsect_286",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_272.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_286.xml"
           },
           "pdf": null
         }
@@ -10254,11 +10934,11 @@
       },
       "debateSection": {
         "showAs": "Ambulance Service",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_272",
-        "debateSectionId": "dbsect_272",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_286",
+        "debateSectionId": "dbsect_286",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_272.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_286.xml"
           },
           "pdf": null
         }
@@ -10294,11 +10974,11 @@
       },
       "debateSection": {
         "showAs": "Artificial Intelligence",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_274",
-        "debateSectionId": "dbsect_274",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_288",
+        "debateSectionId": "dbsect_288",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_274.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_288.xml"
           },
           "pdf": null
         }
@@ -10334,11 +11014,11 @@
       },
       "debateSection": {
         "showAs": "Third Level Education",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_275",
-        "debateSectionId": "dbsect_275",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_289",
+        "debateSectionId": "dbsect_289",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_275.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_289.xml"
           },
           "pdf": null
         }
@@ -10374,11 +11054,11 @@
       },
       "debateSection": {
         "showAs": "Student Accommodation",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_276",
-        "debateSectionId": "dbsect_276",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_290",
+        "debateSectionId": "dbsect_290",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_276.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_290.xml"
           },
           "pdf": null
         }
@@ -10414,11 +11094,11 @@
       },
       "debateSection": {
         "showAs": "Artificial Intelligence",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_277",
-        "debateSectionId": "dbsect_277",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_291",
+        "debateSectionId": "dbsect_291",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_277.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_291.xml"
           },
           "pdf": null
         }
@@ -10454,11 +11134,11 @@
       },
       "debateSection": {
         "showAs": "Third Level Costs",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_278",
-        "debateSectionId": "dbsect_278",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_292",
+        "debateSectionId": "dbsect_292",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_278.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_292.xml"
           },
           "pdf": null
         }
@@ -10494,11 +11174,11 @@
       },
       "debateSection": {
         "showAs": "Further and Higher Education",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_279",
-        "debateSectionId": "dbsect_279",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_293",
+        "debateSectionId": "dbsect_293",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_279.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_293.xml"
           },
           "pdf": null
         }
@@ -10534,11 +11214,11 @@
       },
       "debateSection": {
         "showAs": "Further and Higher Education",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_280",
-        "debateSectionId": "dbsect_280",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_294",
+        "debateSectionId": "dbsect_294",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_280.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_294.xml"
           },
           "pdf": null
         }
@@ -10574,11 +11254,11 @@
       },
       "debateSection": {
         "showAs": "Cuanta agus Céanna",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_281",
-        "debateSectionId": "dbsect_281",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_295",
+        "debateSectionId": "dbsect_295",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_281.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_295.xml"
           },
           "pdf": null
         }
@@ -10614,11 +11294,11 @@
       },
       "debateSection": {
         "showAs": "Forbairt Pobal",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_282",
-        "debateSectionId": "dbsect_282",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/dbsect_296",
+        "debateSectionId": "dbsect_296",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_282.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-10/writtens/mul@/dbsect_296.xml"
           },
           "pdf": null
         }

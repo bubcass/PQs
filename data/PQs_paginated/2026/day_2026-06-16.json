@@ -1758,5 +1758,1365 @@
       }
     },
     "contextDate": "2026-06-16"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Sinéad Gibney",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Sinéad-Gibney.D.2024-11-29",
+        "memberCode": "Sinéad-Gibney.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Enterprise",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Social Media",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-16/debate/dbsect_22",
+        "debateSectionId": "dbsect_22",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-16/debate/mul@/dbsect_22.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 138,
+      "showAs": " 138. Deputy Sinéad Gibney asked the Minister for Enterprise, Tourism and Employment the steps his Department is taking to implement the recommendations of the recent report of the Committee on Arts, Media, Communications, Culture and Sport around the use of recommender algorithms on social media platforms; and if he will make a statement on the matter. [45933/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-16/pq_138",
+      "date": "2026-06-16",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-06-16"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Rose Conway-Walsh",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Rose-Conway-Walsh.S.2016-04-25",
+        "memberCode": "Rose-Conway-Walsh.S.2016-04-25"
+      },
+      "to": {
+        "showAs": "Enterprise",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Export Controls",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-16/debate/dbsect_23",
+        "debateSectionId": "dbsect_23",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-16/debate/mul@/dbsect_23.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 139,
+      "showAs": " 139. Deputy Rose Conway-Walsh asked the Minister for Enterprise, Tourism and Employment the reason the export of €20 million worth of dual-use technology to the Israel Defense Forces and the Israeli Ministry of Defence was sanctioned by his Department in 2024; and if he will make a statement on the matter. [45930/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-16/pq_139",
+      "date": "2026-06-16",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-06-16"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Rose Conway-Walsh",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Rose-Conway-Walsh.S.2016-04-25",
+        "memberCode": "Rose-Conway-Walsh.S.2016-04-25"
+      },
+      "to": {
+        "showAs": "Enterprise",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Export Controls",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-16/debate/dbsect_24",
+        "debateSectionId": "dbsect_24",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-16/debate/mul@/dbsect_24.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 140,
+      "showAs": " 140. Deputy Rose Conway-Walsh asked the Minister for Enterprise, Tourism and Employment for an update on his Department's investigation into exports to Russia from a company (details supplied); when the investigation is expected to be completed and if the findings will be reported in a full and transparent manner; and if he will make a statement on the matter. [45931/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-16/pq_140",
+      "date": "2026-06-16",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-06-16"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Michael Healy-Rae",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Michael-Healy-Rae.D.2011-03-09",
+        "memberCode": "Michael-Healy-Rae.D.2011-03-09"
+      },
+      "to": {
+        "showAs": "Enterprise",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Tourist Accommodation",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-16/debate/dbsect_25",
+        "debateSectionId": "dbsect_25",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-16/debate/mul@/dbsect_25.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 141,
+      "showAs": " 141. Deputy Michael Healy-Rae asked the Minister for Enterprise, Tourism and Employment to update the house on the short-term letting Bill 2025 coming from his Department.  [45285/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-16/pq_141",
+      "date": "2026-06-16",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-06-16"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Albert Dolan",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Albert-Dolan.D.2024-11-29",
+        "memberCode": "Albert-Dolan.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Enterprise",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Business Supports",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-16/debate/dbsect_27",
+        "debateSectionId": "dbsect_27",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-16/debate/mul@/dbsect_27.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 142,
+      "showAs": " 142. Deputy Albert Dolan asked the Minister for Enterprise, Tourism and Employment if he is exploring new measures to assist with the cost of doing business; and if he will make a statement on the matter. [45347/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-16/pq_142",
+      "date": "2026-06-16",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-06-16"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Shay Brennan",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Shay-Brennan.D.2024-11-29",
+        "memberCode": "Shay-Brennan.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Enterprise",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Company Law",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-16/debate/dbsect_28",
+        "debateSectionId": "dbsect_28",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-16/debate/mul@/dbsect_28.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 143,
+      "showAs": " 143. Deputy Shay Brennan asked the Minister for Enterprise, Tourism and Employment to outline any assessment his Department has undertaken of the need to update company law to facilitate the greater use of distributed ledger technology for the tokenisation of funds set up as Irish companies; and if he will make a statement on the matter.  [45470/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-16/pq_143",
+      "date": "2026-06-16",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-06-16"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Willie O'Dea",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Willie-O'Dea.D.1982-03-09",
+        "memberCode": "Willie-O'Dea.D.1982-03-09"
+      },
+      "to": {
+        "showAs": "Enterprise",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Artificial Intelligence",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-16/debate/dbsect_29",
+        "debateSectionId": "dbsect_29",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-16/debate/mul@/dbsect_29.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 144,
+      "showAs": " 144. Deputy Willie O'Dea asked the Minister for Enterprise, Tourism and Employment the way in which his Department is supporting businesses to adopt artificial intelligence into their day-to-day work; and if he will make a statement on the matter. [45350/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-16/pq_144",
+      "date": "2026-06-16",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-06-16"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Tony McCormack",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tony-McCormack.D.2024-11-29",
+        "memberCode": "Tony-McCormack.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Enterprise",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Foreign Direct Investment",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-16/debate/dbsect_30",
+        "debateSectionId": "dbsect_30",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-16/debate/mul@/dbsect_30.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 146,
+      "showAs": " 146. Deputy Tony McCormack asked the Minister for Enterprise, Tourism and Employment the measures being taken to improve Ireland's competitiveness in order to attract and retain foreign direct investment, FDI; and if he will make a statement on the matter.  [45439/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-16/pq_146",
+      "date": "2026-06-16",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-06-16"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Paula Butterly",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paula-Butterly.D.2024-11-29",
+        "memberCode": "Paula-Butterly.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Enterprise",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Departmental Strategies",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-16/debate/dbsect_31",
+        "debateSectionId": "dbsect_31",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-16/debate/mul@/dbsect_31.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 147,
+      "showAs": " 147. Deputy Paula Butterly asked the Minister for Enterprise, Tourism and Employment to provide an update on the national tourism food strategy, in regard to timelines and funding which will enhance the tourism sector; and if he will make a statement on the matter. [45619/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-16/pq_147",
+      "date": "2026-06-16",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-06-16"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Donnchadh Ó Laoghaire",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Donnchadh-Ó-Laoghaire.D.2016-10-03",
+        "memberCode": "Donnchadh-Ó-Laoghaire.D.2016-10-03"
+      },
+      "to": {
+        "showAs": "Enterprise",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Export Controls",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-16/debate/dbsect_32",
+        "debateSectionId": "dbsect_32",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-16/debate/mul@/dbsect_32.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 148,
+      "showAs": " 148. Deputy Donnchadh Ó Laoghaire asked the Minister for Enterprise, Tourism and Employment the reason his Department sanctioned the export of €20 million worth of dual-use technology to the Israel Defense Forces, IDF, and Israeli Ministry of Defense in 2024; and if he will make a statement on the matter.  [45653/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-16/pq_148",
+      "date": "2026-06-16",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-06-16"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Tom Brabazon",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tom-Brabazon.D.2024-11-29",
+        "memberCode": "Tom-Brabazon.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Enterprise",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Foreign Direct Investment",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-16/debate/dbsect_30",
+        "debateSectionId": "dbsect_30",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-16/debate/mul@/dbsect_30.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 149,
+      "showAs": " 149. Deputy Tom Brabazon asked the Minister for Enterprise, Tourism and Employment the action he is taking to increases Ireland's attractiveness as a destination for FDI; and if he will make a statement on the matter.  [45635/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-16/pq_149",
+      "date": "2026-06-16",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-06-16"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Aindrias Moynihan",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Aindrias-Moynihan.D.2016-10-03",
+        "memberCode": "Aindrias-Moynihan.D.2016-10-03"
+      },
+      "to": {
+        "showAs": "Enterprise",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Artificial Intelligence",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-16/debate/dbsect_33",
+        "debateSectionId": "dbsect_33",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-16/debate/mul@/dbsect_33.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 150,
+      "showAs": " 150. Deputy Aindrias Moynihan asked the Minister for Enterprise, Tourism and Employment to provide an update on assessments being carried out by his Department on the impact of AI on graduate-level and entry-level employment with emerging data of reduced hiring in certain sectors; and if he will make a statement on the matter. [45645/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-16/pq_150",
+      "date": "2026-06-16",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-06-16"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Cormac Devlin",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Cormac-Devlin.D.2020-02-08",
+        "memberCode": "Cormac-Devlin.D.2020-02-08"
+      },
+      "to": {
+        "showAs": "Enterprise",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Small and Medium Enterprises",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-16/debate/dbsect_34",
+        "debateSectionId": "dbsect_34",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-16/debate/mul@/dbsect_34.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 151,
+      "showAs": " 151. Deputy Cormac Devlin asked the Minister for Enterprise, Tourism and Employment the way in which the SME test is helping small businesses; and if he will make a statement on the matter. [45641/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-16/pq_151",
+      "date": "2026-06-16",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-06-16"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Louis O'Hara",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Louis-O'Hara.D.2024-11-29",
+        "memberCode": "Louis-O'Hara.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Enterprise",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Tourism Policy",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-16/writtens/dbsect_42",
+        "debateSectionId": "dbsect_42",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-16/writtens/mul@/dbsect_42.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 152,
+      "showAs": " 152. Deputy Louis O'Hara asked the Minister for Enterprise, Tourism and Employment to outline his Department’s efforts to promote tourism in east County Galway; and if he will make a statement on the matter. [44950/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-16/pq_152",
+      "date": "2026-06-16",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-06-16"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Edward Timmins",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Edward-Timmins.D.2024-11-29",
+        "memberCode": "Edward-Timmins.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Enterprise",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Small and Medium Enterprises",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-16/writtens/dbsect_43",
+        "debateSectionId": "dbsect_43",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-16/writtens/mul@/dbsect_43.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 153,
+      "showAs": " 153. Deputy Edward Timmins asked the Minister for Enterprise, Tourism and Employment the steps being taken to reduce red tape and bureaucracy for Irish SME's; and if he will make a statement on the matter. [45655/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-16/pq_153",
+      "date": "2026-06-16",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-06-16"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Naoise Ó Muirí",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Naoise-Ó-Muirí.D.2024-11-29",
+        "memberCode": "Naoise-Ó-Muirí.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Enterprise",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Market Access",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-16/writtens/dbsect_44",
+        "debateSectionId": "dbsect_44",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-16/writtens/mul@/dbsect_44.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 154,
+      "showAs": " 154. Deputy Naoise Ó Muirí asked the Minister for Enterprise, Tourism and Employment the measures his Department is taking to break down EU single market barriers; and if he will make a statement on the matter. [45566/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-16/pq_154",
+      "date": "2026-06-16",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-06-16"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Aisling Dempsey",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Aisling-Dempsey.D.2024-11-29",
+        "memberCode": "Aisling-Dempsey.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Enterprise",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Artificial Intelligence",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-16/writtens/dbsect_45",
+        "debateSectionId": "dbsect_45",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-16/writtens/mul@/dbsect_45.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 155,
+      "showAs": " 155. Deputy Aisling Dempsey asked the Minister for Enterprise, Tourism and Employment for a report on the recently launched ‘AI - Good for Business’ initiative; and if he will make a statement on the matter. [45348/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-16/pq_155",
+      "date": "2026-06-16",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-06-16"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Aisling Dempsey",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Aisling-Dempsey.D.2024-11-29",
+        "memberCode": "Aisling-Dempsey.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Enterprise",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Business Supports",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-16/writtens/dbsect_46",
+        "debateSectionId": "dbsect_46",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-16/writtens/mul@/dbsect_46.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 156,
+      "showAs": " 156. Deputy Aisling Dempsey asked the Minister for Enterprise, Tourism and Employment if he will provide an update on the Cost of Business Advisory Forum; and if he will make a statement on the matter. [45349/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-16/pq_156",
+      "date": "2026-06-16",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-06-16"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Matt Carthy",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Matt-Carthy.D.2020-02-08",
+        "memberCode": "Matt-Carthy.D.2020-02-08"
+      },
+      "to": {
+        "showAs": "Enterprise",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Enterprise Policy",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-16/writtens/dbsect_47",
+        "debateSectionId": "dbsect_47",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-16/writtens/mul@/dbsect_47.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 157,
+      "showAs": " 157. Deputy Matt Carthy asked the Minister for Enterprise, Tourism and Employment further to previous Parliamentary Questions, the initiatives he or his Department or associated State agencies have taken to encourage prospective new owners to establish a business at a facility (details supplied) at Carrickmacross; and if he will make a statement on the matter. [44959/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-16/pq_157",
+      "date": "2026-06-16",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-06-16"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Cathy Bennett",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Cathy-Bennett.D.2024-11-29",
+        "memberCode": "Cathy-Bennett.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Enterprise",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Cross-Border Co-operation",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-16/writtens/dbsect_48",
+        "debateSectionId": "dbsect_48",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-16/writtens/mul@/dbsect_48.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 158,
+      "showAs": " 158. Deputy Cathy Bennett asked the Minister for Enterprise, Tourism and Employment if he will report on his proposals to cultivate cross-border tourism. [45648/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-16/pq_158",
+      "date": "2026-06-16",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-06-16"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "William Aird",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/William-Aird.D.2024-11-29",
+        "memberCode": "William-Aird.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Enterprise",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Enterprise Support Services",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-16/writtens/dbsect_49",
+        "debateSectionId": "dbsect_49",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-16/writtens/mul@/dbsect_49.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 159,
+      "showAs": " 159. Deputy William Aird asked the Minister for Enterprise, Tourism and Employment the steps being taken to secure a new investor or occupier for a facility (details supplied) in Portlaoise; and if he will make a statement on the matter. [44583/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-16/pq_159",
+      "date": "2026-06-16",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-06-16"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Donnchadh Ó Laoghaire",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Donnchadh-Ó-Laoghaire.D.2016-10-03",
+        "memberCode": "Donnchadh-Ó-Laoghaire.D.2016-10-03"
+      },
+      "to": {
+        "showAs": "Enterprise",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Export Controls",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-16/writtens/dbsect_50",
+        "debateSectionId": "dbsect_50",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-16/writtens/mul@/dbsect_50.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 160,
+      "showAs": " 160. Deputy Donnchadh Ó Laoghaire asked the Minister for Enterprise, Tourism and Employment when he will provide a clear timeline for an investigation into a company (details supplied); when Government will establish the facts regarding the company's exports; and if he will make a statement on the matter. [45654/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-16/pq_160",
+      "date": "2026-06-16",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-06-16"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Roderic O'Gorman",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Roderic-O'Gorman.D.2020-02-08",
+        "memberCode": "Roderic-O'Gorman.D.2020-02-08"
+      },
+      "to": {
+        "showAs": "Enterprise",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Energy Policy",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-16/writtens/dbsect_51",
+        "debateSectionId": "dbsect_51",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-16/writtens/mul@/dbsect_51.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 161,
+      "showAs": " 161. Deputy Roderic O'Gorman asked the Minister for Enterprise, Tourism and Employment if his Department has considered how, in the course of implementing its assigned actions under the Large Energy User Action Plan, it will ensure that renewable energy contracted by Green Energy Parks will be additional rather than infrastructure that might otherwise have been available to residential energy customers; and if he will make a statement on the matter. [45478/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-16/pq_161",
+      "date": "2026-06-16",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-06-16"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Albert Dolan",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Albert-Dolan.D.2024-11-29",
+        "memberCode": "Albert-Dolan.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Enterprise",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Artificial Intelligence",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-16/writtens/dbsect_52",
+        "debateSectionId": "dbsect_52",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-16/writtens/mul@/dbsect_52.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 162,
+      "showAs": " 162. Deputy Albert Dolan asked the Minister for Enterprise, Tourism and Employment his strategy for ensuring AI works to the benefit of Irish enterprises and employees; and if he will make a statement on the matter. [45346/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-16/pq_162",
+      "date": "2026-06-16",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-06-16"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Cathal Crowe",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Cathal-Crowe.D.2020-02-08",
+        "memberCode": "Cathal-Crowe.D.2020-02-08"
+      },
+      "to": {
+        "showAs": "Enterprise",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Foreign Direct Investment",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-16/writtens/dbsect_53",
+        "debateSectionId": "dbsect_53",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-16/writtens/mul@/dbsect_53.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 163,
+      "showAs": " 163. Deputy Cathal Crowe asked the Minister for Enterprise, Tourism and Employment the targets in place to increase FDI in 2026; and if he will make a statement on the matter. [45632/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-16/pq_163",
+      "date": "2026-06-16",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-06-16"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Richard Boyd Barrett",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Richard-Boyd-Barrett.D.2011-03-09",
+        "memberCode": "Richard-Boyd-Barrett.D.2011-03-09"
+      },
+      "to": {
+        "showAs": "Enterprise",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Artificial Intelligence",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-16/writtens/dbsect_54",
+        "debateSectionId": "dbsect_54",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-16/writtens/mul@/dbsect_54.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 164,
+      "showAs": " 164. Deputy Richard Boyd Barrett asked the Minister for Enterprise, Tourism and Employment his plans to protect workers against job losses from AI and to ensure that worker rights are protected, in terms of redundancies and trade union protection; and if he will make a statement on the matter. [45623/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-16/pq_164",
+      "date": "2026-06-16",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-06-16"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Roderic O'Gorman",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Roderic-O'Gorman.D.2020-02-08",
+        "memberCode": "Roderic-O'Gorman.D.2020-02-08"
+      },
+      "to": {
+        "showAs": "Enterprise",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Export Controls",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-16/writtens/dbsect_50",
+        "debateSectionId": "dbsect_50",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-16/writtens/mul@/dbsect_50.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 165,
+      "showAs": " 165. Deputy Roderic O'Gorman asked the Minister for Enterprise, Tourism and Employment whether officials from his Department will be assisted by European Commission officials in their investigation into alumina exports from Ireland; and if he will make a statement on the matter. [45475/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-16/pq_165",
+      "date": "2026-06-16",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-06-16"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Peter Roche",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Peter-Roche.D.2024-11-29",
+        "memberCode": "Peter-Roche.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Enterprise",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Work Permits",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-16/writtens/dbsect_55",
+        "debateSectionId": "dbsect_55",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-16/writtens/mul@/dbsect_55.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 166,
+      "showAs": " 166. Deputy Peter Roche asked the Minister for Enterprise, Tourism and Employment to provide an update on the proposed amendments to the employment permits system, including the review of the 50:50 rule under the Employment Permits Act 2024; the timeframe for bringing forward legislative or policy changes arising from this review; and if he will make a statement on the matter. [45637/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-16/pq_166",
+      "date": "2026-06-16",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-06-16"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Roderic O'Gorman",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Roderic-O'Gorman.D.2020-02-08",
+        "memberCode": "Roderic-O'Gorman.D.2020-02-08"
+      },
+      "to": {
+        "showAs": "Enterprise",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Export Controls",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-16/writtens/dbsect_50",
+        "debateSectionId": "dbsect_50",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-16/writtens/mul@/dbsect_50.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 167,
+      "showAs": " 167. Deputy Roderic O'Gorman asked the Minister for Enterprise, Tourism and Employment the timeline in relation to his Department's investigation into the possibility of alumina exported from Ireland being used in Russia's arms industry; and if he will make a statement on the matter. [45474/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-16/pq_167",
+      "date": "2026-06-16",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-06-16"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Malcolm Byrne",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Malcolm-Byrne.D.2019-11-29",
+        "memberCode": "Malcolm-Byrne.D.2019-11-29"
+      },
+      "to": {
+        "showAs": "Enterprise",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Tourism Policy",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-16/writtens/dbsect_56",
+        "debateSectionId": "dbsect_56",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-16/writtens/mul@/dbsect_56.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 168,
+      "showAs": " 168. Deputy Malcolm Byrne asked the Minister for Enterprise, Tourism and Employment the strategies to support the development of Ireland’s beaches to support sustainable tourism; and if he will make a statement on the matter. [45345/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-16/pq_168",
+      "date": "2026-06-16",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-06-16"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "John Clendennen",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/John-Clendennen.D.2024-11-29",
+        "memberCode": "John-Clendennen.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Enterprise",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Ticket Touting",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-16/writtens/dbsect_57",
+        "debateSectionId": "dbsect_57",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-16/writtens/mul@/dbsect_57.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 169,
+      "showAs": " 169. Deputy John Clendennen asked the Minister for Enterprise, Tourism and Employment if he is aware that despite the Sale of Tickets Act 2021 being in force for nearly five years, that there have been no prosecutions under the Act to date, leading to a continuation of ticket touting practices for major sporting and cultural events; and the specific measures he plans to take to ensure robust enforcement by An Garda Síochána and the Competition and Consumer Protection Commission, particularly in light of the current requirement for venue and event designation. [39738/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-16/pq_169",
+      "date": "2026-06-16",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-06-16"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Martin Daly",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Martin-Daly.D.2024-11-29",
+        "memberCode": "Martin-Daly.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Enterprise",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Enterprise Support Services",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-16/writtens/dbsect_58",
+        "debateSectionId": "dbsect_58",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-16/writtens/mul@/dbsect_58.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 170,
+      "showAs": " 170. Deputy Martin Daly asked the Minister for Enterprise, Tourism and Employment the total value of Enterprise Ireland grant approvals issued to companies in East Galway and County Roscommon in each of the years 2023, 2024 and 2025, broken down by scheme. [45505/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-16/pq_170",
+      "date": "2026-06-16",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-06-16"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Brian Brennan",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Brian-Brennan.D.2024-11-29",
+        "memberCode": "Brian-Brennan.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Enterprise",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Business Supports",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-16/writtens/dbsect_59",
+        "debateSectionId": "dbsect_59",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-16/writtens/mul@/dbsect_59.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 171,
+      "showAs": " 171. Deputy Brian Brennan asked the Minister for Enterprise, Tourism and Employment the additional measures he is considering to address the soaring cost of doing business; and if he will make a statement on the matter. [45437/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-16/pq_171",
+      "date": "2026-06-16",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-06-16"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Sean Fleming",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Seán-Fleming.D.1997-06-26",
+        "memberCode": "Seán-Fleming.D.1997-06-26"
+      },
+      "to": {
+        "showAs": "Enterprise",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Business Supports",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-16/writtens/dbsect_59",
+        "debateSectionId": "dbsect_59",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-16/writtens/mul@/dbsect_59.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 192,
+      "showAs": " 192. Deputy Sean Fleming asked the Minister for Enterprise, Tourism and Employment the initiatives he is taking on the cost of doing business, especially for the SME sector; and if he will make a statement on the matter. [45435/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-16/pq_192",
+      "date": "2026-06-16",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-06-16"
   }
 ]

@@ -1,1 +1,562 @@
-[]
+[
+  {
+    "question": {
+      "by": {
+        "showAs": "Ruairí Ó Murchú",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruairí-Ó-Murchú.D.2020-02-08",
+        "memberCode": "Ruairí-Ó-Murchú.D.2020-02-08"
+      },
+      "to": {
+        "showAs": "Children",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Disabilities Assessments",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-23/debate/dbsect_16",
+        "debateSectionId": "dbsect_16",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-23/debate/mul@/dbsect_16.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 1,
+      "showAs": " 1. Deputy Ruairí Ó Murchú asked the Minister for Children, Disability and Equality to provide an update on the progress of the establishment of the new autism assessment service; and if she will make a statement on the matter. [47690/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-23/pq_1",
+      "date": "2026-06-23",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-06-23"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Aidan Farrelly",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Aidan-Farrelly.D.2024-11-29",
+        "memberCode": "Aidan-Farrelly.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Children",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Childcare Services",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-23/debate/dbsect_17",
+        "debateSectionId": "dbsect_17",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-23/debate/mul@/dbsect_17.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 2,
+      "showAs": " 2. Deputy Aidan Farrelly asked the Minister for Children, Disability and Equality her plans to publish a detailed timeframe, including milestones and key performance indicators, for the provision of €200-per-month childcare, as set out in the commitments in the programme for Government. [47642/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-23/pq_2",
+      "date": "2026-06-23",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-06-23"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Claire Kerrane",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Claire-Kerrane.D.2020-02-08",
+        "memberCode": "Claire-Kerrane.D.2020-02-08"
+      },
+      "to": {
+        "showAs": "Children",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Childcare Services",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-23/debate/dbsect_18",
+        "debateSectionId": "dbsect_18",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-23/debate/mul@/dbsect_18.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 3,
+      "showAs": " 3. Deputy Claire Kerrane asked the Minister for Children, Disability and Equality to provide an update on the roll-out of State-led childcare facilities; when the eight locations for this year will be chosen; and if she will make a statement on the matter. [47735/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-23/pq_3",
+      "date": "2026-06-23",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-06-23"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Mark Wall",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Mark-Wall.S.2020-03-30",
+        "memberCode": "Mark-Wall.S.2020-03-30"
+      },
+      "to": {
+        "showAs": "Children",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Childcare Services",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-23/debate/dbsect_19",
+        "debateSectionId": "dbsect_19",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-23/debate/mul@/dbsect_19.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 4,
+      "showAs": " 4. Deputy Mark Wall asked the Minister for Children, Disability and Equality if her attention has been drawn to the fact that no childcare facility has been built within the new national children’s hospital, and if she has raised this with the Minister for Health.  [47221/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-23/pq_4",
+      "date": "2026-06-23",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-06-23"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Claire Kerrane",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Claire-Kerrane.D.2020-02-08",
+        "memberCode": "Claire-Kerrane.D.2020-02-08"
+      },
+      "to": {
+        "showAs": "Children",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Children in Care",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-23/debate/dbsect_20",
+        "debateSectionId": "dbsect_20",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-23/debate/mul@/dbsect_20.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 5,
+      "showAs": " 5. Deputy Claire Kerrane asked the Minister for Children, Disability and Equality if she will ensure increased investment in voluntary residential care services for children in the care of the State; and if she will make a statement on the matter.  [47736/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-23/pq_5",
+      "date": "2026-06-23",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-06-23"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Grace Boland",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Grace-Boland.D.2024-11-29",
+        "memberCode": "Grace-Boland.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Children",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Disability Services",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-23/debate/dbsect_21",
+        "debateSectionId": "dbsect_21",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-23/debate/mul@/dbsect_21.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 6,
+      "showAs": " 6. Deputy Grace Boland asked the Minister for Children, Disability and Equality if staffing levels for speech and language therapists, occupational therapists and psychologists in the children’s disability network teams, CDNTs, in Balbriggan and Swords have increased in the past two years; the current number of vacancies; the additional posts or resources being allocated in response to population growth and rising demand in the north Fingal area; and if she will make a statement on the matter.  [47691/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-23/pq_6",
+      "date": "2026-06-23",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-06-23"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Ruth Coppinger",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruth-Coppinger.D.2014-05-23",
+        "memberCode": "Ruth-Coppinger.D.2014-05-23"
+      },
+      "to": {
+        "showAs": "Children",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Childcare Services",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-23/debate/dbsect_23",
+        "debateSectionId": "dbsect_23",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-23/debate/mul@/dbsect_23.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 8,
+      "showAs": " 8. Deputy Ruth Coppinger asked the Minister for Children, Disability and Equality if she has considered a model of childcare based on direct public provision to ensure access, affordability for families and quality pay and conditions for staff in the sector; and if she will make a statement on the matter. [47544/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-23/pq_8",
+      "date": "2026-06-23",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-06-23"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Eamon Scanlon",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Eamon-Scanlon.S.2002-09-12",
+        "memberCode": "Eamon-Scanlon.S.2002-09-12"
+      },
+      "to": {
+        "showAs": "Children",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Childcare Services",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-23/debate/dbsect_24",
+        "debateSectionId": "dbsect_24",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-23/debate/mul@/dbsect_24.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 9,
+      "showAs": " 9. Deputy Eamon Scanlon asked the Minister for Children, Disability and Equality the action being taken to reduce the cost of childcare; and if she will make a statement on the matter. [47437/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-23/pq_9",
+      "date": "2026-06-23",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-06-23"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Emer Currie",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Emer-Currie.S.2020-06-29",
+        "memberCode": "Emer-Currie.S.2020-06-29"
+      },
+      "to": {
+        "showAs": "Children",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Early Childhood Care and Education",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-23/debate/dbsect_25",
+        "debateSectionId": "dbsect_25",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-23/debate/mul@/dbsect_25.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 10,
+      "showAs": " 10. Deputy Emer Currie asked the Minister for Children, Disability and Equality for an update on the actions being taken by her Department to support ECCE-only services that are receiving commercial rates bills; and if she will make a statement on the matter. [47448/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-23/pq_10",
+      "date": "2026-06-23",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-06-23"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Grace Boland",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Grace-Boland.D.2024-11-29",
+        "memberCode": "Grace-Boland.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Children",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Disability Services",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-23/debate/dbsect_26",
+        "debateSectionId": "dbsect_26",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-23/debate/mul@/dbsect_26.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 11,
+      "showAs": " 11. Deputy Grace Boland asked the Minister for Children, Disability and Equality the extent of engagement her Department has had with the autism community, including autistic individuals, advocacy organisations and representative groups, in the development of the recently announced new autism assessment and intervention pathway protocol; and if she will make a statement on the matter. [43029/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-23/pq_11",
+      "date": "2026-06-23",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-06-23"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Mark Wall",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Mark-Wall.S.2020-03-30",
+        "memberCode": "Mark-Wall.S.2020-03-30"
+      },
+      "to": {
+        "showAs": "Children",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Childcare Services",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-23/debate/dbsect_27",
+        "debateSectionId": "dbsect_27",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-23/debate/mul@/dbsect_27.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 13,
+      "showAs": " 13. Deputy Mark Wall asked the Minister for Children, Disability and Equality the number of early learning and school-age childcare facilities that have been found to be non-complainant on staffing ratios, staffing qualifications, Garda vetting, and basic needs, broken down by private or community service, service size, full day care, part-time, sessional, school-age childcare and county, in 2025 and 2026.  [46906/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-23/pq_13",
+      "date": "2026-06-23",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-06-23"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Claire Kerrane",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Claire-Kerrane.D.2020-02-08",
+        "memberCode": "Claire-Kerrane.D.2020-02-08"
+      },
+      "to": {
+        "showAs": "Children",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Childcare Services",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-23/debate/dbsect_28",
+        "debateSectionId": "dbsect_28",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-23/debate/mul@/dbsect_28.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 14,
+      "showAs": " 14. Deputy Claire Kerrane asked the Minister for Children, Disability and Equality when the review of the childminding regulations will take place; and if she will make a statement on the matter. [47407/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-23/pq_14",
+      "date": "2026-06-23",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-06-23"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Claire Kerrane",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Claire-Kerrane.D.2020-02-08",
+        "memberCode": "Claire-Kerrane.D.2020-02-08"
+      },
+      "to": {
+        "showAs": "Children",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Guardians Ad Litem",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-23/debate/dbsect_29",
+        "debateSectionId": "dbsect_29",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-23/debate/mul@/dbsect_29.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 15,
+      "showAs": " 15. Deputy Claire Kerrane asked the Minister for Children, Disability and Equality the number of practising guardians ad litem that will be part of the new national service; and if she will make a statement on the matter. [47408/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-23/pq_15",
+      "date": "2026-06-23",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-06-23"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Ruairí Ó Murchú",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruairí-Ó-Murchú.D.2020-02-08",
+        "memberCode": "Ruairí-Ó-Murchú.D.2020-02-08"
+      },
+      "to": {
+        "showAs": "Children",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Disabilities Assessments",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-23/debate/dbsect_30",
+        "debateSectionId": "dbsect_30",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-23/debate/mul@/dbsect_30.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 24,
+      "showAs": " 24. Deputy Ruairí Ó Murchú asked the Minister for Children, Disability and Equality the number of children currently waiting on assessment of needs over the statutory waiting time, in each RHA area, in tabular form; and if she will make a statement on the matter.  [47426/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-23/pq_24",
+      "date": "2026-06-23",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-06-23"
+  }
+]

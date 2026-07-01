@@ -20853,20 +20853,20 @@
         "roleCode": null
       },
       "debateSection": {
-        "showAs": "Mental Health Services",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-25/writtens/dbsect_499",
-        "debateSectionId": "dbsect_499",
+        "showAs": "Health Services Staff",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-25/writtens/dbsect_498",
+        "debateSectionId": "dbsect_498",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-25/writtens/mul@/dbsect_499.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-25/writtens/mul@/dbsect_498.xml"
           },
           "pdf": null
         }
       },
       "questionType": "written",
-      "questionNumber": 523,
-      "showAs": " 523. Deputy David Cullinane asked the Minister for Health the estimated cost of a 10% uplift in funding for recovery education. [48674/26] ",
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-25/pq_523",
+      "questionNumber": 522,
+      "showAs": " 522. Deputy David Cullinane asked the Minister for Health the estimated cost of providing a crisis resolution team. [48673/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-25/pq_522",
       "date": "2026-06-25",
       "house": {
         "showAs": "34th Dáil",
@@ -20904,9 +20904,9 @@
         }
       },
       "questionType": "written",
-      "questionNumber": 524,
-      "showAs": " 524. Deputy David Cullinane asked the Minister for Health the estimated cost of delivering the full complement of community CAMHS teams in line with the population recommendations of Sharing the Vision, in tabular form; the number of teams required; and the staffing complement required. [48675/26] ",
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-25/pq_524",
+      "questionNumber": 523,
+      "showAs": " 523. Deputy David Cullinane asked the Minister for Health the estimated cost of a 10% uplift in funding for recovery education. [48674/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-25/pq_523",
       "date": "2026-06-25",
       "house": {
         "showAs": "34th Dáil",
@@ -20944,9 +20944,9 @@
         }
       },
       "questionType": "written",
-      "questionNumber": 525,
-      "showAs": " 525. Deputy David Cullinane asked the Minister for Health the estimated cost of delivering the full complement of acute CAMHS teams in line with the population recommendations of Sharing the Vision, in tabular form; the number of teams and beds required; and the staffing complement required. [48676/26] ",
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-25/pq_525",
+      "questionNumber": 524,
+      "showAs": " 524. Deputy David Cullinane asked the Minister for Health the estimated cost of delivering the full complement of community CAMHS teams in line with the population recommendations of Sharing the Vision, in tabular form; the number of teams required; and the staffing complement required. [48675/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-25/pq_524",
       "date": "2026-06-25",
       "house": {
         "showAs": "34th Dáil",
@@ -20984,9 +20984,9 @@
         }
       },
       "questionType": "written",
-      "questionNumber": 526,
-      "showAs": " 526. Deputy David Cullinane asked the Minister for Health the estimated cost of delivering the full complement of CAMHS-ID teams in line with the population recommendations of Sharing the Vision, in tabular form; the number of teams required; and the staffing complement required. [48677/26] ",
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-25/pq_526",
+      "questionNumber": 525,
+      "showAs": " 525. Deputy David Cullinane asked the Minister for Health the estimated cost of delivering the full complement of acute CAMHS teams in line with the population recommendations of Sharing the Vision, in tabular form; the number of teams and beds required; and the staffing complement required. [48676/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-25/pq_525",
       "date": "2026-06-25",
       "house": {
         "showAs": "34th Dáil",
@@ -21024,6 +21024,46 @@
         }
       },
       "questionType": "written",
+      "questionNumber": 526,
+      "showAs": " 526. Deputy David Cullinane asked the Minister for Health the estimated cost of delivering the full complement of CAMHS-ID teams in line with the population recommendations of Sharing the Vision, in tabular form; the number of teams required; and the staffing complement required. [48677/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-25/pq_526",
+      "date": "2026-06-25",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-06-25"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "David Cullinane",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/David-Cullinane.S.2011-05-25",
+        "memberCode": "David-Cullinane.S.2011-05-25"
+      },
+      "to": {
+        "showAs": "Health",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Mental Health Services",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-25/writtens/dbsect_504",
+        "debateSectionId": "dbsect_504",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-25/writtens/mul@/dbsect_504.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
       "questionNumber": 527,
       "showAs": " 527. Deputy David Cullinane asked the Minister for Health the estimated cost of delivering the full complement of early intervention in psychosis teams in line with the model of care, in tabular form; the number of teams required; and the staffing complement required. [48678/26] ",
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-25/pq_527",
@@ -21054,11 +21094,11 @@
       },
       "debateSection": {
         "showAs": "Home Care Packages",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-25/writtens/dbsect_504",
-        "debateSectionId": "dbsect_504",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-25/writtens/dbsect_505",
+        "debateSectionId": "dbsect_505",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-25/writtens/mul@/dbsect_504.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-25/writtens/mul@/dbsect_505.xml"
           },
           "pdf": null
         }
@@ -21094,11 +21134,11 @@
       },
       "debateSection": {
         "showAs": "Health Promotion",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-25/writtens/dbsect_505",
-        "debateSectionId": "dbsect_505",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-25/writtens/dbsect_506",
+        "debateSectionId": "dbsect_506",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-25/writtens/mul@/dbsect_505.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-25/writtens/mul@/dbsect_506.xml"
           },
           "pdf": null
         }
@@ -21134,46 +21174,6 @@
       },
       "debateSection": {
         "showAs": "General Practitioner Services",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-25/writtens/dbsect_506",
-        "debateSectionId": "dbsect_506",
-        "formats": {
-          "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-25/writtens/mul@/dbsect_506.xml"
-          },
-          "pdf": null
-        }
-      },
-      "questionType": "written",
-      "questionNumber": 530,
-      "showAs": " 530. Deputy David Cullinane asked the Minister for Health the estimated cost of a 10% uplift in spending on GP services. [48687/26] ",
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-25/pq_530",
-      "date": "2026-06-25",
-      "house": {
-        "showAs": "34th Dáil",
-        "committeeCode": "",
-        "houseCode": "dail",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "chamberType": "house",
-        "houseNo": "34"
-      }
-    },
-    "contextDate": "2026-06-25"
-  },
-  {
-    "question": {
-      "by": {
-        "showAs": "David Cullinane",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/David-Cullinane.S.2011-05-25",
-        "memberCode": "David-Cullinane.S.2011-05-25"
-      },
-      "to": {
-        "showAs": "Health",
-        "uri": null,
-        "roleType": null,
-        "roleCode": null
-      },
-      "debateSection": {
-        "showAs": "Dental Services ",
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-25/writtens/dbsect_507",
         "debateSectionId": "dbsect_507",
         "formats": {
@@ -21184,9 +21184,9 @@
         }
       },
       "questionType": "written",
-      "questionNumber": 531,
-      "showAs": " 531. Deputy David Cullinane asked the Minister for Health the estimated cost of a 10% uplift in spending on private dental and orthodontic services. [48688/26] ",
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-25/pq_531",
+      "questionNumber": 530,
+      "showAs": " 530. Deputy David Cullinane asked the Minister for Health the estimated cost of a 10% uplift in spending on GP services. [48687/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-25/pq_530",
       "date": "2026-06-25",
       "house": {
         "showAs": "34th Dáil",
@@ -21224,6 +21224,46 @@
         }
       },
       "questionType": "written",
+      "questionNumber": 531,
+      "showAs": " 531. Deputy David Cullinane asked the Minister for Health the estimated cost of a 10% uplift in spending on private dental and orthodontic services. [48688/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-25/pq_531",
+      "date": "2026-06-25",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-06-25"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "David Cullinane",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/David-Cullinane.S.2011-05-25",
+        "memberCode": "David-Cullinane.S.2011-05-25"
+      },
+      "to": {
+        "showAs": "Health",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Dental Services ",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-25/writtens/dbsect_509",
+        "debateSectionId": "dbsect_509",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-25/writtens/mul@/dbsect_509.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
       "questionNumber": 532,
       "showAs": " 532. Deputy David Cullinane asked the Minister for Health the estimated cost of a 10% uplift in spending on dental screening in schools. [48689/26] ",
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-25/pq_532",
@@ -21254,11 +21294,11 @@
       },
       "debateSection": {
         "showAs": "Health Services",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-25/writtens/dbsect_509",
-        "debateSectionId": "dbsect_509",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-25/writtens/dbsect_510",
+        "debateSectionId": "dbsect_510",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-25/writtens/mul@/dbsect_509.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-25/writtens/mul@/dbsect_510.xml"
           },
           "pdf": null
         }
@@ -21294,11 +21334,11 @@
       },
       "debateSection": {
         "showAs": "Health Service Executive",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-25/writtens/dbsect_510",
-        "debateSectionId": "dbsect_510",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-25/writtens/dbsect_511",
+        "debateSectionId": "dbsect_511",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-25/writtens/mul@/dbsect_510.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-25/writtens/mul@/dbsect_511.xml"
           },
           "pdf": null
         }
@@ -21334,46 +21374,6 @@
       },
       "debateSection": {
         "showAs": "Health Services Staff",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-25/writtens/dbsect_511",
-        "debateSectionId": "dbsect_511",
-        "formats": {
-          "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-25/writtens/mul@/dbsect_511.xml"
-          },
-          "pdf": null
-        }
-      },
-      "questionType": "written",
-      "questionNumber": 535,
-      "showAs": " 535. Deputy David Cullinane asked the Minister for Health the estimated cost of the full rollout of managed clinical rehabilitation network teams in each area; the staffing complement required in each area; the estimated cost of the full rollout of the national neurorehabilitation strategy, by measure; and the associated staffing complement required, in tabular form. [48692/26] ",
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-25/pq_535",
-      "date": "2026-06-25",
-      "house": {
-        "showAs": "34th Dáil",
-        "committeeCode": "",
-        "houseCode": "dail",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "chamberType": "house",
-        "houseNo": "34"
-      }
-    },
-    "contextDate": "2026-06-25"
-  },
-  {
-    "question": {
-      "by": {
-        "showAs": "David Cullinane",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/David-Cullinane.S.2011-05-25",
-        "memberCode": "David-Cullinane.S.2011-05-25"
-      },
-      "to": {
-        "showAs": "Health",
-        "uri": null,
-        "roleType": null,
-        "roleCode": null
-      },
-      "debateSection": {
-        "showAs": "Health Services",
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-25/writtens/dbsect_512",
         "debateSectionId": "dbsect_512",
         "formats": {
@@ -21384,9 +21384,9 @@
         }
       },
       "questionType": "written",
-      "questionNumber": 536,
-      "showAs": " 536. Deputy David Cullinane asked the Minister for Health the estimated cost of a 10% uplift in medical intern, GP, basic specialist, and higher specialist training places; and the number of places this would create, in tabular form. [48693/26] ",
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-25/pq_536",
+      "questionNumber": 535,
+      "showAs": " 535. Deputy David Cullinane asked the Minister for Health the estimated cost of the full rollout of managed clinical rehabilitation network teams in each area; the staffing complement required in each area; the estimated cost of the full rollout of the national neurorehabilitation strategy, by measure; and the associated staffing complement required, in tabular form. [48692/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-25/pq_535",
       "date": "2026-06-25",
       "house": {
         "showAs": "34th Dáil",
@@ -21424,6 +21424,46 @@
         }
       },
       "questionType": "written",
+      "questionNumber": 536,
+      "showAs": " 536. Deputy David Cullinane asked the Minister for Health the estimated cost of a 10% uplift in medical intern, GP, basic specialist, and higher specialist training places; and the number of places this would create, in tabular form. [48693/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-25/pq_536",
+      "date": "2026-06-25",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-06-25"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "David Cullinane",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/David-Cullinane.S.2011-05-25",
+        "memberCode": "David-Cullinane.S.2011-05-25"
+      },
+      "to": {
+        "showAs": "Health",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Health Services",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-25/writtens/dbsect_514",
+        "debateSectionId": "dbsect_514",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-25/writtens/mul@/dbsect_514.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
       "questionNumber": 537,
       "showAs": " 537. Deputy David Cullinane asked the Minister for Health the estimated cost of a 10% uplift in each professional trainee placement type, including but not limited to trainee psychologists; and the number of places this would create, in tabular form. [48694/26] ",
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-25/pq_537",
@@ -21454,11 +21494,11 @@
       },
       "debateSection": {
         "showAs": "Health Services Staff",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-25/writtens/dbsect_514",
-        "debateSectionId": "dbsect_514",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-25/writtens/dbsect_515",
+        "debateSectionId": "dbsect_515",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-25/writtens/mul@/dbsect_514.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-25/writtens/mul@/dbsect_515.xml"
           },
           "pdf": null
         }
@@ -21534,11 +21574,11 @@
       },
       "debateSection": {
         "showAs": "Medicinal Products",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-25/writtens/dbsect_515",
-        "debateSectionId": "dbsect_515",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-25/writtens/dbsect_516",
+        "debateSectionId": "dbsect_516",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-25/writtens/mul@/dbsect_515.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-25/writtens/mul@/dbsect_516.xml"
           },
           "pdf": null
         }
@@ -21694,11 +21734,11 @@
       },
       "debateSection": {
         "showAs": "Health Strategies",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-25/writtens/dbsect_516",
-        "debateSectionId": "dbsect_516",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-25/writtens/dbsect_517",
+        "debateSectionId": "dbsect_517",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-25/writtens/mul@/dbsect_516.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-25/writtens/mul@/dbsect_517.xml"
           },
           "pdf": null
         }
@@ -21734,11 +21774,11 @@
       },
       "debateSection": {
         "showAs": "Departmental Contracts",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-25/writtens/dbsect_517",
-        "debateSectionId": "dbsect_517",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-25/writtens/dbsect_518",
+        "debateSectionId": "dbsect_518",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-25/writtens/mul@/dbsect_517.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-25/writtens/mul@/dbsect_518.xml"
           },
           "pdf": null
         }
@@ -21774,11 +21814,11 @@
       },
       "debateSection": {
         "showAs": "Health Services Staff",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-25/writtens/dbsect_518",
-        "debateSectionId": "dbsect_518",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-25/writtens/dbsect_519",
+        "debateSectionId": "dbsect_519",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-25/writtens/mul@/dbsect_518.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-25/writtens/mul@/dbsect_519.xml"
           },
           "pdf": null
         }
@@ -21894,11 +21934,11 @@
       },
       "debateSection": {
         "showAs": "Health Strategies",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-25/writtens/dbsect_520",
-        "debateSectionId": "dbsect_520",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-25/writtens/dbsect_521",
+        "debateSectionId": "dbsect_521",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-25/writtens/mul@/dbsect_520.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-25/writtens/mul@/dbsect_521.xml"
           },
           "pdf": null
         }
@@ -21934,46 +21974,6 @@
       },
       "debateSection": {
         "showAs": "Health Services",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-25/writtens/dbsect_521",
-        "debateSectionId": "dbsect_521",
-        "formats": {
-          "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-25/writtens/mul@/dbsect_521.xml"
-          },
-          "pdf": null
-        }
-      },
-      "questionType": "written",
-      "questionNumber": 550,
-      "showAs": " 550. Deputy Malcolm Byrne asked the Minister for Health to provide an update on the former health clinic at Camolin, County Wexford. [48741/26] ",
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-25/pq_550",
-      "date": "2026-06-25",
-      "house": {
-        "showAs": "34th Dáil",
-        "committeeCode": "",
-        "houseCode": "dail",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "chamberType": "house",
-        "houseNo": "34"
-      }
-    },
-    "contextDate": "2026-06-25"
-  },
-  {
-    "question": {
-      "by": {
-        "showAs": "Malcolm Byrne",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Malcolm-Byrne.D.2019-11-29",
-        "memberCode": "Malcolm-Byrne.D.2019-11-29"
-      },
-      "to": {
-        "showAs": "Health",
-        "uri": null,
-        "roleType": null,
-        "roleCode": null
-      },
-      "debateSection": {
-        "showAs": "Mental Health Services",
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-25/writtens/dbsect_522",
         "debateSectionId": "dbsect_522",
         "formats": {
@@ -21984,9 +21984,9 @@
         }
       },
       "questionType": "written",
-      "questionNumber": 551,
-      "showAs": " 551. Deputy Malcolm Byrne asked the Minister for Health the psychological and counselling services that are available to women across the country contemplating termination of pregnancy. [48742/26] ",
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-25/pq_551",
+      "questionNumber": 550,
+      "showAs": " 550. Deputy Malcolm Byrne asked the Minister for Health to provide an update on the former health clinic at Camolin, County Wexford. [48741/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-25/pq_550",
       "date": "2026-06-25",
       "house": {
         "showAs": "34th Dáil",
@@ -22024,6 +22024,46 @@
         }
       },
       "questionType": "written",
+      "questionNumber": 551,
+      "showAs": " 551. Deputy Malcolm Byrne asked the Minister for Health the psychological and counselling services that are available to women across the country contemplating termination of pregnancy. [48742/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-25/pq_551",
+      "date": "2026-06-25",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-06-25"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Malcolm Byrne",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Malcolm-Byrne.D.2019-11-29",
+        "memberCode": "Malcolm-Byrne.D.2019-11-29"
+      },
+      "to": {
+        "showAs": "Health",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Mental Health Services",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-25/writtens/dbsect_524",
+        "debateSectionId": "dbsect_524",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-25/writtens/mul@/dbsect_524.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
       "questionNumber": 552,
       "showAs": " 552. Deputy Malcolm Byrne asked the Minister for Health to provide an update on the development of an additional CAMHS team to serve north Wexford. [48743/26] ",
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-06-25/pq_552",
@@ -22054,11 +22094,11 @@
       },
       "debateSection": {
         "showAs": "General Practitioner Services",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-25/writtens/dbsect_524",
-        "debateSectionId": "dbsect_524",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-25/writtens/dbsect_525",
+        "debateSectionId": "dbsect_525",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-25/writtens/mul@/dbsect_524.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-25/writtens/mul@/dbsect_525.xml"
           },
           "pdf": null
         }
@@ -22094,11 +22134,11 @@
       },
       "debateSection": {
         "showAs": "Dental Services ",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-25/writtens/dbsect_525",
-        "debateSectionId": "dbsect_525",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-25/writtens/dbsect_526",
+        "debateSectionId": "dbsect_526",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-25/writtens/mul@/dbsect_525.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-25/writtens/mul@/dbsect_526.xml"
           },
           "pdf": null
         }
@@ -22134,11 +22174,11 @@
       },
       "debateSection": {
         "showAs": "Health Services Staff",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-25/writtens/dbsect_526",
-        "debateSectionId": "dbsect_526",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-25/writtens/dbsect_527",
+        "debateSectionId": "dbsect_527",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-25/writtens/mul@/dbsect_526.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-25/writtens/mul@/dbsect_527.xml"
           },
           "pdf": null
         }
@@ -22174,11 +22214,11 @@
       },
       "debateSection": {
         "showAs": "Data Protection",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-25/writtens/dbsect_527",
-        "debateSectionId": "dbsect_527",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-25/writtens/dbsect_528",
+        "debateSectionId": "dbsect_528",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-25/writtens/mul@/dbsect_527.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-25/writtens/mul@/dbsect_528.xml"
           },
           "pdf": null
         }
@@ -22214,11 +22254,11 @@
       },
       "debateSection": {
         "showAs": "Social Media",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-25/writtens/dbsect_528",
-        "debateSectionId": "dbsect_528",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-25/writtens/dbsect_529",
+        "debateSectionId": "dbsect_529",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-25/writtens/mul@/dbsect_528.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-25/writtens/mul@/dbsect_529.xml"
           },
           "pdf": null
         }
@@ -22254,11 +22294,11 @@
       },
       "debateSection": {
         "showAs": "Further and Higher Education",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-25/writtens/dbsect_529",
-        "debateSectionId": "dbsect_529",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-25/writtens/dbsect_530",
+        "debateSectionId": "dbsect_530",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-25/writtens/mul@/dbsect_529.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-25/writtens/mul@/dbsect_530.xml"
           },
           "pdf": null
         }
@@ -22294,11 +22334,11 @@
       },
       "debateSection": {
         "showAs": "Departmental Schemes",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-25/writtens/dbsect_530",
-        "debateSectionId": "dbsect_530",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-25/writtens/dbsect_531",
+        "debateSectionId": "dbsect_531",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-25/writtens/mul@/dbsect_530.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-06-25/writtens/mul@/dbsect_531.xml"
           },
           "pdf": null
         }

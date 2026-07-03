@@ -1,1 +1,562 @@
-[]
+[
+  {
+    "question": {
+      "by": {
+        "showAs": "Matt Carthy",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Matt-Carthy.D.2020-02-08",
+        "memberCode": "Matt-Carthy.D.2020-02-08"
+      },
+      "to": {
+        "showAs": "Justice",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Legal Aid",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/debate/dbsect_18",
+        "debateSectionId": "dbsect_18",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/debate/mul@/dbsect_18.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 1,
+      "showAs": " 1. Deputy Matt Carthy asked the Minister for Justice, Home Affairs and Migration whether any assessment has been made of the risk that the proposed changes to the criminal legal aid scheme could result in reduced participation by solicitors in criminal legal aid work; the implications of any such reduction; and if he will make a statement on the matter. [49647/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-01/pq_1",
+      "date": "2026-07-01",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-07-01"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Gary Gannon",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Gary-Gannon.D.2020-02-08",
+        "memberCode": "Gary-Gannon.D.2020-02-08"
+      },
+      "to": {
+        "showAs": "Justice",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Substance Misuse",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/debate/dbsect_19",
+        "debateSectionId": "dbsect_19",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/debate/mul@/dbsect_19.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 2,
+      "showAs": " 2. Deputy Gary Gannon asked the Minister for Justice, Home Affairs and Migration the position of his Department on the central recommendation of the Oireachtas Joint Committee on Drugs Use that the offence of personal possession of drugs be repealed; his views on whether the Government’s stated commitment to a health-led approach is inconsistent with the continued criminalisation of people who use drugs; the specific legislative steps he intends to take in response to the committee’s final report; and if he will make a statement on the matter. [49887/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-01/pq_2",
+      "date": "2026-07-01",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-07-01"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Matt Carthy",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Matt-Carthy.D.2020-02-08",
+        "memberCode": "Matt-Carthy.D.2020-02-08"
+      },
+      "to": {
+        "showAs": "Justice",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "International Agreements",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/debate/dbsect_20",
+        "debateSectionId": "dbsect_20",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/debate/mul@/dbsect_20.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 3,
+      "showAs": " 3. Deputy Matt Carthy asked the Minister for Justice, Home Affairs and Migration the progress that has been made on securing a bilateral agreement with Britain to ensure that those international protection applicants who should be processed in Britain can be returned there in a timely manner; and if he will make a statement on the matter. [49648/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-01/pq_3",
+      "date": "2026-07-01",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-07-01"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Duncan Smith",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Duncan-Smith.D.2020-02-08",
+        "memberCode": "Duncan-Smith.D.2020-02-08"
+      },
+      "to": {
+        "showAs": "Justice",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Road Safety",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/debate/dbsect_21",
+        "debateSectionId": "dbsect_21",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/debate/mul@/dbsect_21.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 4,
+      "showAs": " 4. Deputy Duncan Smith asked the Minister for Justice, Home Affairs and Migration to confirm if there is currently any policy review under way in his Department regarding the enforcement of speeding laws through the use of static cameras on the national road network; if divergences between the number of fixed charge notices issued for speed detections at individual locations are compared and reviewed by his officials or An Garda Síochána; the engagement his officials have had with the Department of Transport on this issue; and if he will make a statement on the matter. [50222/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-01/pq_4",
+      "date": "2026-07-01",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-07-01"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Mark Ward",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Mark-Ward.D.2019-11-29",
+        "memberCode": "Mark-Ward.D.2019-11-29"
+      },
+      "to": {
+        "showAs": "Justice",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "EU Presidency",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/debate/dbsect_22",
+        "debateSectionId": "dbsect_22",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/debate/mul@/dbsect_22.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 5,
+      "showAs": " 5. Deputy Mark Ward asked the Minister for Justice, Home Affairs and Migration the impact the EU Presidency will have on the availability of the Garda fleet to service our communities, particularly DMR west; and if he will make a statement on the matter. [49649/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-01/pq_5",
+      "date": "2026-07-01",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-07-01"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Tom Brabazon",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tom-Brabazon.D.2024-11-29",
+        "memberCode": "Tom-Brabazon.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Justice",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "An Garda Síochána",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/debate/dbsect_23",
+        "debateSectionId": "dbsect_23",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/debate/mul@/dbsect_23.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 6,
+      "showAs": " 6. Deputy Tom Brabazon asked the Minister for Justice, Home Affairs and Migration if his Department will consider introducing a statutory indemnity for gardaí who are acting within reason while pursuing persons driving scramblers and other vehicles recklessly and illegally.  [49644/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-01/pq_6",
+      "date": "2026-07-01",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-07-01"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Gary Gannon",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Gary-Gannon.D.2020-02-08",
+        "memberCode": "Gary-Gannon.D.2020-02-08"
+      },
+      "to": {
+        "showAs": "Justice",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Prison Service",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/debate/dbsect_25",
+        "debateSectionId": "dbsect_25",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/debate/mul@/dbsect_25.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 8,
+      "showAs": " 8. Deputy Gary Gannon asked the Minister for Justice, Home Affairs and Migration his views on the fact that there are currently no dedicated addiction nurses working in Irish prisons despite his Department estimating that seven in ten people committed to prison have addiction issues; and when he expects specialist addiction services to commence in prisons. [49882/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-01/pq_8",
+      "date": "2026-07-01",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-07-01"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Michael Murphy",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Michael-Murphy.D.2024-11-29",
+        "memberCode": "Michael-Murphy.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Justice",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Housing Provision",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/debate/dbsect_26",
+        "debateSectionId": "dbsect_26",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/debate/mul@/dbsect_26.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 9,
+      "showAs": " 9. Deputy Michael Murphy asked the Minister for Justice, Home Affairs and Migration whether a review has been undertaken of the long-term role and cost-effectiveness of modular accommodation centres established for persons under temporary protection, including a development (details supplied); whether alternative future uses for such facilities are being considered in light of changes to accommodation policy; and if he will make a statement on the matter. [41558/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-01/pq_9",
+      "date": "2026-07-01",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-07-01"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Aindrias Moynihan",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Aindrias-Moynihan.D.2016-10-03",
+        "memberCode": "Aindrias-Moynihan.D.2016-10-03"
+      },
+      "to": {
+        "showAs": "Justice",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Family Reunification",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/debate/dbsect_27",
+        "debateSectionId": "dbsect_27",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/debate/mul@/dbsect_27.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 11,
+      "showAs": " 11. Deputy Aindrias Moynihan asked the Minister for Justice, Home Affairs and Migration to outline the measures being taken to address ongoing delays in the processing of family reunification for critical skills professionals working here; and if he will make a statement on the matter. [49851/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-01/pq_11",
+      "date": "2026-07-01",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-07-01"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Colm Burke",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Colm-Burke.S.2011-05-25",
+        "memberCode": "Colm-Burke.S.2011-05-25"
+      },
+      "to": {
+        "showAs": "Justice",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Visa Applications",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/debate/dbsect_28",
+        "debateSectionId": "dbsect_28",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/debate/mul@/dbsect_28.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 13,
+      "showAs": " 13. Deputy Colm Burke asked the Minister for Justice, Home Affairs and Migration to provide an update on his Department's progress in establishing a single application process for employment permits and visa applications; the progress that has been made to date by the interdepartmental group established to review this process; and if he will make a statement on the matter. [48684/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-01/pq_13",
+      "date": "2026-07-01",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-07-01"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Darren O'Rourke",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Darren-O'Rourke.D.2020-02-08",
+        "memberCode": "Darren-O'Rourke.D.2020-02-08"
+      },
+      "to": {
+        "showAs": "Justice",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "An Garda Síochána",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/debate/dbsect_29",
+        "debateSectionId": "dbsect_29",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/debate/mul@/dbsect_29.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 14,
+      "showAs": " 14. Deputy Darren O'Rourke asked the Minister for Justice, Home Affairs and Migration the number of gardaí in County Meath; if he is aware that County Meath has for years had the lowest number of gardaí per population in the State; and if he will make a statement on the matter. [48865/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-01/pq_14",
+      "date": "2026-07-01",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-07-01"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Cathy Bennett",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Cathy-Bennett.D.2024-11-29",
+        "memberCode": "Cathy-Bennett.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Justice",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Domestic Violence",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/debate/dbsect_30",
+        "debateSectionId": "dbsect_30",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/debate/mul@/dbsect_30.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 15,
+      "showAs": " 15. Deputy Cathy Bennett asked the Minister for Justice, Home Affairs and Migration the timeframe in which refuges will open in counties Cavan and Monaghan. [49803/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-01/pq_15",
+      "date": "2026-07-01",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-07-01"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Ruairí Ó Murchú",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruairí-Ó-Murchú.D.2020-02-08",
+        "memberCode": "Ruairí-Ó-Murchú.D.2020-02-08"
+      },
+      "to": {
+        "showAs": "Justice",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Crime Prevention",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/debate/dbsect_31",
+        "debateSectionId": "dbsect_31",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/debate/mul@/dbsect_31.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 17,
+      "showAs": " 17. Deputy Ruairí Ó Murchú asked the Minister for Justice, Home Affairs and Migration to provide an update on the work in his Department to counter money laundering in the State; and if he will make a statement on the matter. [49236/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-01/pq_17",
+      "date": "2026-07-01",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-07-01"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Gary Gannon",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Gary-Gannon.D.2020-02-08",
+        "memberCode": "Gary-Gannon.D.2020-02-08"
+      },
+      "to": {
+        "showAs": "Justice",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Child Protection",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/debate/dbsect_32",
+        "debateSectionId": "dbsect_32",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/debate/mul@/dbsect_32.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 20,
+      "showAs": " 20. Deputy Gary Gannon asked the Minister for Justice, Home Affairs and Migration his views on the prevalence of childhood exploitation into crime; and his plans to address this issue. [49884/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-01/pq_20",
+      "date": "2026-07-01",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-07-01"
+  }
+]

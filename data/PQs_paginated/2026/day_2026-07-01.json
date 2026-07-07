@@ -11654,11 +11654,11 @@
       },
       "debateSection": {
         "showAs": "Ministerial Appointments",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/dbsect_276",
-        "debateSectionId": "dbsect_276",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/dbsect_275",
+        "debateSectionId": "dbsect_275",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/mul@/dbsect_276.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/mul@/dbsect_275.xml"
           },
           "pdf": null
         }
@@ -11693,12 +11693,12 @@
         "roleCode": null
       },
       "debateSection": {
-        "showAs": "Healthcare Policy",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/dbsect_277",
-        "debateSectionId": "dbsect_277",
+        "showAs": "Ministerial Appointments",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/dbsect_275",
+        "debateSectionId": "dbsect_275",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/mul@/dbsect_277.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/mul@/dbsect_275.xml"
           },
           "pdf": null
         }
@@ -11734,6 +11734,86 @@
       },
       "debateSection": {
         "showAs": "Hospital Appointments Status",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/dbsect_276",
+        "debateSectionId": "dbsect_276",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/mul@/dbsect_276.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 295,
+      "showAs": " 295. Deputy Maurice Quinlivan asked the Minister for Health to examine an appointment referral case (details supplied); and if she will make a statement on the matter. [50001/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-01/pq_295",
+      "date": "2026-07-01",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-07-01"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Grace Boland",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Grace-Boland.D.2024-11-29",
+        "memberCode": "Grace-Boland.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Health",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Hospital Staff",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/dbsect_277",
+        "debateSectionId": "dbsect_277",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/mul@/dbsect_277.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 296,
+      "showAs": " 296. Deputy Grace Boland asked the Minister for Health the number of WTE consultant paediatric cardiologists based at CHI Temple Street Hospital; and if she will make a statement on the matter. [50004/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-01/pq_296",
+      "date": "2026-07-01",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-07-01"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Grace Boland",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Grace-Boland.D.2024-11-29",
+        "memberCode": "Grace-Boland.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Health",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Hospital Staff",
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/dbsect_278",
         "debateSectionId": "dbsect_278",
         "formats": {
@@ -11744,9 +11824,9 @@
         }
       },
       "questionType": "written",
-      "questionNumber": 295,
-      "showAs": " 295. Deputy Maurice Quinlivan asked the Minister for Health to examine an appointment referral case (details supplied); and if she will make a statement on the matter. [50001/26] ",
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-01/pq_295",
+      "questionNumber": 297,
+      "showAs": " 297. Deputy Grace Boland asked the Minister for Health the number of WTE environmental health officers employed by HSE in Dublin north county formerly CH09 in 2024, 2025 and to-date in 2026, in tabular form; and if she will make a statement on the matter. [50005/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-01/pq_297",
       "date": "2026-07-01",
       "house": {
         "showAs": "34th Dáil",
@@ -11784,9 +11864,9 @@
         }
       },
       "questionType": "written",
-      "questionNumber": 296,
-      "showAs": " 296. Deputy Grace Boland asked the Minister for Health the number of WTE consultant paediatric cardiologists based at CHI Temple Street Hospital; and if she will make a statement on the matter. [50004/26] ",
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-01/pq_296",
+      "questionNumber": 298,
+      "showAs": " 298. Deputy Grace Boland asked the Minister for Health the number of WTE specialist registrars in vascular surgery based at Beaumont Hospital as of 22 June 2026; if she will provide the same figure as of 30 June 2023, in tabular form; and if she will make a statement on the matter. [50006/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-01/pq_298",
       "date": "2026-07-01",
       "house": {
         "showAs": "34th Dáil",
@@ -11813,7 +11893,7 @@
         "roleCode": null
       },
       "debateSection": {
-        "showAs": "Hospital Staff",
+        "showAs": "General Practitioner Services",
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/dbsect_280",
         "debateSectionId": "dbsect_280",
         "formats": {
@@ -11824,9 +11904,9 @@
         }
       },
       "questionType": "written",
-      "questionNumber": 297,
-      "showAs": " 297. Deputy Grace Boland asked the Minister for Health the number of WTE environmental health officers employed by HSE in Dublin north county formerly CH09 in 2024, 2025 and to-date in 2026, in tabular form; and if she will make a statement on the matter. [50005/26] ",
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-01/pq_297",
+      "questionNumber": 299,
+      "showAs": " 299. Deputy Grace Boland asked the Minister for Health whether GPs can currently refer directly for gynaecological pelvic MRI under the GP access to community diagnostics scheme; and if she will make a statement on the matter. [50007/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-01/pq_299",
       "date": "2026-07-01",
       "house": {
         "showAs": "34th Dáil",
@@ -11853,7 +11933,7 @@
         "roleCode": null
       },
       "debateSection": {
-        "showAs": "Hospital Staff",
+        "showAs": "General Practitioner Services",
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/dbsect_281",
         "debateSectionId": "dbsect_281",
         "formats": {
@@ -11864,9 +11944,9 @@
         }
       },
       "questionType": "written",
-      "questionNumber": 298,
-      "showAs": " 298. Deputy Grace Boland asked the Minister for Health the number of WTE specialist registrars in vascular surgery based at Beaumont Hospital as of 22 June 2026; if she will provide the same figure as of 30 June 2023, in tabular form; and if she will make a statement on the matter. [50006/26] ",
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-01/pq_298",
+      "questionNumber": 300,
+      "showAs": " 300. Deputy Grace Boland asked the Minister for Health the reason gynaecological pelvic MRI is not available through GP referral where other MRI indications, including orthopaedic pelvic indications, are available; and if she will make a statement on the matter. [50008/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-01/pq_300",
       "date": "2026-07-01",
       "house": {
         "showAs": "34th Dáil",
@@ -11904,9 +11984,9 @@
         }
       },
       "questionType": "written",
-      "questionNumber": 299,
-      "showAs": " 299. Deputy Grace Boland asked the Minister for Health whether GPs can currently refer directly for gynaecological pelvic MRI under the GP access to community diagnostics scheme; and if she will make a statement on the matter. [50007/26] ",
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-01/pq_299",
+      "questionNumber": 301,
+      "showAs": " 301. Deputy Grace Boland asked the Minister for Health whether her Department or HSE intends to review GP access to gynaecological pelvic MRI as part of the national endometriosis framework and wider women’s health policy; and if she will make a statement on the matter. [50009/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-01/pq_301",
       "date": "2026-07-01",
       "house": {
         "showAs": "34th Dáil",
@@ -11944,9 +12024,9 @@
         }
       },
       "questionType": "written",
-      "questionNumber": 300,
-      "showAs": " 300. Deputy Grace Boland asked the Minister for Health the reason gynaecological pelvic MRI is not available through GP referral where other MRI indications, including orthopaedic pelvic indications, are available; and if she will make a statement on the matter. [50008/26] ",
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-01/pq_300",
+      "questionNumber": 302,
+      "showAs": " 302. Deputy Grace Boland asked the Minister for Health whether gynaecological pelvic MRI will be added to GP access pathways under appropriate clinical criteria; and if she will make a statement on the matter. [50010/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-01/pq_302",
       "date": "2026-07-01",
       "house": {
         "showAs": "34th Dáil",
@@ -11984,86 +12064,6 @@
         }
       },
       "questionType": "written",
-      "questionNumber": 301,
-      "showAs": " 301. Deputy Grace Boland asked the Minister for Health whether her Department or HSE intends to review GP access to gynaecological pelvic MRI as part of the national endometriosis framework and wider women’s health policy; and if she will make a statement on the matter. [50009/26] ",
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-01/pq_301",
-      "date": "2026-07-01",
-      "house": {
-        "showAs": "34th Dáil",
-        "committeeCode": "",
-        "houseCode": "dail",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "chamberType": "house",
-        "houseNo": "34"
-      }
-    },
-    "contextDate": "2026-07-01"
-  },
-  {
-    "question": {
-      "by": {
-        "showAs": "Grace Boland",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Grace-Boland.D.2024-11-29",
-        "memberCode": "Grace-Boland.D.2024-11-29"
-      },
-      "to": {
-        "showAs": "Health",
-        "uri": null,
-        "roleType": null,
-        "roleCode": null
-      },
-      "debateSection": {
-        "showAs": "General Practitioner Services",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/dbsect_285",
-        "debateSectionId": "dbsect_285",
-        "formats": {
-          "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/mul@/dbsect_285.xml"
-          },
-          "pdf": null
-        }
-      },
-      "questionType": "written",
-      "questionNumber": 302,
-      "showAs": " 302. Deputy Grace Boland asked the Minister for Health whether gynaecological pelvic MRI will be added to GP access pathways under appropriate clinical criteria; and if she will make a statement on the matter. [50010/26] ",
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-01/pq_302",
-      "date": "2026-07-01",
-      "house": {
-        "showAs": "34th Dáil",
-        "committeeCode": "",
-        "houseCode": "dail",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "chamberType": "house",
-        "houseNo": "34"
-      }
-    },
-    "contextDate": "2026-07-01"
-  },
-  {
-    "question": {
-      "by": {
-        "showAs": "Grace Boland",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Grace-Boland.D.2024-11-29",
-        "memberCode": "Grace-Boland.D.2024-11-29"
-      },
-      "to": {
-        "showAs": "Health",
-        "uri": null,
-        "roleType": null,
-        "roleCode": null
-      },
-      "debateSection": {
-        "showAs": "General Practitioner Services",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/dbsect_286",
-        "debateSectionId": "dbsect_286",
-        "formats": {
-          "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/mul@/dbsect_286.xml"
-          },
-          "pdf": null
-        }
-      },
-      "questionType": "written",
       "questionNumber": 303,
       "showAs": " 303. Deputy Grace Boland asked the Minister for Health whether the HSE will create a direct GP referral pathway to specialist gynaecological imaging for suspected endometriosis or complex pelvic disease if direct GP access is not proposed; and if she will make a statement on the matter. [50011/26] ",
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-01/pq_303",
@@ -12094,11 +12094,11 @@
       },
       "debateSection": {
         "showAs": "Healthcare Policy",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/dbsect_287",
-        "debateSectionId": "dbsect_287",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/dbsect_285",
+        "debateSectionId": "dbsect_285",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/mul@/dbsect_287.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/mul@/dbsect_285.xml"
           },
           "pdf": null
         }
@@ -12134,11 +12134,11 @@
       },
       "debateSection": {
         "showAs": "Hospital Appointments Status",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/dbsect_288",
-        "debateSectionId": "dbsect_288",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/dbsect_286",
+        "debateSectionId": "dbsect_286",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/mul@/dbsect_288.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/mul@/dbsect_286.xml"
           },
           "pdf": null
         }
@@ -12174,11 +12174,11 @@
       },
       "debateSection": {
         "showAs": "Health Services",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/dbsect_289",
-        "debateSectionId": "dbsect_289",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/dbsect_287",
+        "debateSectionId": "dbsect_287",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/mul@/dbsect_289.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/mul@/dbsect_287.xml"
           },
           "pdf": null
         }
@@ -12214,11 +12214,11 @@
       },
       "debateSection": {
         "showAs": "Healthcare Policy",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/dbsect_290",
-        "debateSectionId": "dbsect_290",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/dbsect_288",
+        "debateSectionId": "dbsect_288",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/mul@/dbsect_290.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/mul@/dbsect_288.xml"
           },
           "pdf": null
         }
@@ -12254,6 +12254,86 @@
       },
       "debateSection": {
         "showAs": "Health Service Executive",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/dbsect_289",
+        "debateSectionId": "dbsect_289",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/mul@/dbsect_289.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 308,
+      "showAs": " 308. Deputy Paul Lawless asked the Minister for Health the reason the HSE does not fully reimburse patients who avail of the cross border directive through providers such as Kingsbridge in northern Ireland, in circumstances where those patients were on Irish public waiting lists and had been informed that their procedure would not be available within six months; and if she will make a statement on the matter. [50061/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-01/pq_308",
+      "date": "2026-07-01",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-07-01"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Erin McGreehan",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Erin-McGreehan.S.2020-06-29",
+        "memberCode": "Erin-McGreehan.S.2020-06-29"
+      },
+      "to": {
+        "showAs": "Health",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Disease Management",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/dbsect_290",
+        "debateSectionId": "dbsect_290",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/mul@/dbsect_290.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 309,
+      "showAs": " 309. Deputy Erin McGreehan asked the Minister for Health the current status of the health technology assessment and reimbursement decision for pluvicto (lutetium-177 PSMA therapy) for the treatment of metastatic castration-resistant prostate cancer; the timeline for a final determination; and if she will make a statement on the matter. [50111/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-01/pq_309",
+      "date": "2026-07-01",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-07-01"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Erin McGreehan",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Erin-McGreehan.S.2020-06-29",
+        "memberCode": "Erin-McGreehan.S.2020-06-29"
+      },
+      "to": {
+        "showAs": "Health",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Disease Management",
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/dbsect_291",
         "debateSectionId": "dbsect_291",
         "formats": {
@@ -12264,9 +12344,9 @@
         }
       },
       "questionType": "written",
-      "questionNumber": 308,
-      "showAs": " 308. Deputy Paul Lawless asked the Minister for Health the reason the HSE does not fully reimburse patients who avail of the cross border directive through providers such as Kingsbridge in northern Ireland, in circumstances where those patients were on Irish public waiting lists and had been informed that their procedure would not be available within six months; and if she will make a statement on the matter. [50061/26] ",
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-01/pq_308",
+      "questionNumber": 310,
+      "showAs": " 310. Deputy Erin McGreehan asked the Minister for Health the steps being taken to ensure Irish patients have timely and equitable access to innovative oncology treatments, including radioligand therapies such as pluvicto; and the way Ireland compares with other EU Member States in access to such treatments. [50112/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-01/pq_310",
       "date": "2026-07-01",
       "house": {
         "showAs": "34th Dáil",
@@ -12304,86 +12384,6 @@
         }
       },
       "questionType": "written",
-      "questionNumber": 309,
-      "showAs": " 309. Deputy Erin McGreehan asked the Minister for Health the current status of the health technology assessment and reimbursement decision for pluvicto (lutetium-177 PSMA therapy) for the treatment of metastatic castration-resistant prostate cancer; the timeline for a final determination; and if she will make a statement on the matter. [50111/26] ",
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-01/pq_309",
-      "date": "2026-07-01",
-      "house": {
-        "showAs": "34th Dáil",
-        "committeeCode": "",
-        "houseCode": "dail",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "chamberType": "house",
-        "houseNo": "34"
-      }
-    },
-    "contextDate": "2026-07-01"
-  },
-  {
-    "question": {
-      "by": {
-        "showAs": "Erin McGreehan",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Erin-McGreehan.S.2020-06-29",
-        "memberCode": "Erin-McGreehan.S.2020-06-29"
-      },
-      "to": {
-        "showAs": "Health",
-        "uri": null,
-        "roleType": null,
-        "roleCode": null
-      },
-      "debateSection": {
-        "showAs": "Disease Management",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/dbsect_293",
-        "debateSectionId": "dbsect_293",
-        "formats": {
-          "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/mul@/dbsect_293.xml"
-          },
-          "pdf": null
-        }
-      },
-      "questionType": "written",
-      "questionNumber": 310,
-      "showAs": " 310. Deputy Erin McGreehan asked the Minister for Health the steps being taken to ensure Irish patients have timely and equitable access to innovative oncology treatments, including radioligand therapies such as pluvicto; and the way Ireland compares with other EU Member States in access to such treatments. [50112/26] ",
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-01/pq_310",
-      "date": "2026-07-01",
-      "house": {
-        "showAs": "34th Dáil",
-        "committeeCode": "",
-        "houseCode": "dail",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "chamberType": "house",
-        "houseNo": "34"
-      }
-    },
-    "contextDate": "2026-07-01"
-  },
-  {
-    "question": {
-      "by": {
-        "showAs": "Erin McGreehan",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Erin-McGreehan.S.2020-06-29",
-        "memberCode": "Erin-McGreehan.S.2020-06-29"
-      },
-      "to": {
-        "showAs": "Health",
-        "uri": null,
-        "roleType": null,
-        "roleCode": null
-      },
-      "debateSection": {
-        "showAs": "Disease Management",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/dbsect_294",
-        "debateSectionId": "dbsect_294",
-        "formats": {
-          "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/mul@/dbsect_294.xml"
-          },
-          "pdf": null
-        }
-      },
-      "questionType": "written",
       "questionNumber": 311,
       "showAs": " 311. Deputy Erin McGreehan asked the Minister for Health the current capacity within the public health system to deliver radioligand therapies, including the availability of nuclear medicine facilities, trained personnel, and radiopharmacy supports; and the plans in place to expand this capacity. [50113/26] ",
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-01/pq_311",
@@ -12414,11 +12414,11 @@
       },
       "debateSection": {
         "showAs": "Disease Management",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/dbsect_294",
-        "debateSectionId": "dbsect_294",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/dbsect_292",
+        "debateSectionId": "dbsect_292",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/mul@/dbsect_294.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/mul@/dbsect_292.xml"
           },
           "pdf": null
         }
@@ -12454,11 +12454,11 @@
       },
       "debateSection": {
         "showAs": "Disease Management",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/dbsect_294",
-        "debateSectionId": "dbsect_294",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/dbsect_292",
+        "debateSectionId": "dbsect_292",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/mul@/dbsect_294.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/mul@/dbsect_292.xml"
           },
           "pdf": null
         }
@@ -12467,6 +12467,46 @@
       "questionNumber": 313,
       "showAs": " 313. Deputy Erin McGreehan asked the Minister for Health if consideration is being given to developing a national strategy for radiopharmaceutical production and usage, in light of increasing global demand and supply constraints; and if she will outline any engagement with industry, academia, or international partners on this issue. [50115/26] ",
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-01/pq_313",
+      "date": "2026-07-01",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-07-01"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Erin McGreehan",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Erin-McGreehan.S.2020-06-29",
+        "memberCode": "Erin-McGreehan.S.2020-06-29"
+      },
+      "to": {
+        "showAs": "Health",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Disease Management",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/dbsect_292",
+        "debateSectionId": "dbsect_292",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/mul@/dbsect_292.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 314,
+      "showAs": " 314. Deputy Erin McGreehan asked the Minister for Health the level of capital and operational investment allocated to nuclear medicine and advanced cancer therapies over the past five years; and the projected investment over the next five years to support emerging treatments such as radioligand therapies. [50116/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-01/pq_314",
       "date": "2026-07-01",
       "house": {
         "showAs": "34th Dáil",
@@ -12504,9 +12544,49 @@
         }
       },
       "questionType": "written",
-      "questionNumber": 314,
-      "showAs": " 314. Deputy Erin McGreehan asked the Minister for Health the level of capital and operational investment allocated to nuclear medicine and advanced cancer therapies over the past five years; and the projected investment over the next five years to support emerging treatments such as radioligand therapies. [50116/26] ",
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-01/pq_314",
+      "questionNumber": 315,
+      "showAs": " 315. Deputy Erin McGreehan asked the Minister for Health the current number of specialists in nuclear medicine, radiopharmacy, and medical physics in Ireland; the projected workforce requirements to support expansion in radioligand therapies; and the plans to address any identified gaps. [50117/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-01/pq_315",
+      "date": "2026-07-01",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-07-01"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Erin McGreehan",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Erin-McGreehan.S.2020-06-29",
+        "memberCode": "Erin-McGreehan.S.2020-06-29"
+      },
+      "to": {
+        "showAs": "Health",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Disease Management",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/dbsect_295",
+        "debateSectionId": "dbsect_295",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/mul@/dbsect_295.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 316,
+      "showAs": " 316. Deputy Erin McGreehan asked the Minister for Health the supports in place to enable Irish participation in international clinical trials involving radiopharmaceuticals and targeted radionuclide therapies; and the way in which Ireland can position itself as a hub for such research. [50118/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-01/pq_316",
       "date": "2026-07-01",
       "house": {
         "showAs": "34th Dáil",
@@ -12544,86 +12624,6 @@
         }
       },
       "questionType": "written",
-      "questionNumber": 315,
-      "showAs": " 315. Deputy Erin McGreehan asked the Minister for Health the current number of specialists in nuclear medicine, radiopharmacy, and medical physics in Ireland; the projected workforce requirements to support expansion in radioligand therapies; and the plans to address any identified gaps. [50117/26] ",
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-01/pq_315",
-      "date": "2026-07-01",
-      "house": {
-        "showAs": "34th Dáil",
-        "committeeCode": "",
-        "houseCode": "dail",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "chamberType": "house",
-        "houseNo": "34"
-      }
-    },
-    "contextDate": "2026-07-01"
-  },
-  {
-    "question": {
-      "by": {
-        "showAs": "Erin McGreehan",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Erin-McGreehan.S.2020-06-29",
-        "memberCode": "Erin-McGreehan.S.2020-06-29"
-      },
-      "to": {
-        "showAs": "Health",
-        "uri": null,
-        "roleType": null,
-        "roleCode": null
-      },
-      "debateSection": {
-        "showAs": "Disease Management",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/dbsect_297",
-        "debateSectionId": "dbsect_297",
-        "formats": {
-          "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/mul@/dbsect_297.xml"
-          },
-          "pdf": null
-        }
-      },
-      "questionType": "written",
-      "questionNumber": 316,
-      "showAs": " 316. Deputy Erin McGreehan asked the Minister for Health the supports in place to enable Irish participation in international clinical trials involving radiopharmaceuticals and targeted radionuclide therapies; and the way in which Ireland can position itself as a hub for such research. [50118/26] ",
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-01/pq_316",
-      "date": "2026-07-01",
-      "house": {
-        "showAs": "34th Dáil",
-        "committeeCode": "",
-        "houseCode": "dail",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "chamberType": "house",
-        "houseNo": "34"
-      }
-    },
-    "contextDate": "2026-07-01"
-  },
-  {
-    "question": {
-      "by": {
-        "showAs": "Erin McGreehan",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Erin-McGreehan.S.2020-06-29",
-        "memberCode": "Erin-McGreehan.S.2020-06-29"
-      },
-      "to": {
-        "showAs": "Health",
-        "uri": null,
-        "roleType": null,
-        "roleCode": null
-      },
-      "debateSection": {
-        "showAs": "Disease Management",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/dbsect_298",
-        "debateSectionId": "dbsect_298",
-        "formats": {
-          "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/mul@/dbsect_298.xml"
-          },
-          "pdf": null
-        }
-      },
-      "questionType": "written",
       "questionNumber": 317,
       "showAs": " 317. Deputy Erin McGreehan asked the Minister for Health the extent of engagement with patient advocacy organisations, including those representing prostate cancer patients, in relation to the reimbursement and provision of new treatments such as pluvicto. [50119/26] ",
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-01/pq_317",
@@ -12654,11 +12654,11 @@
       },
       "debateSection": {
         "showAs": "Disease Management",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/dbsect_294",
-        "debateSectionId": "dbsect_294",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/dbsect_292",
+        "debateSectionId": "dbsect_292",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/mul@/dbsect_294.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/mul@/dbsect_292.xml"
           },
           "pdf": null
         }
@@ -12694,11 +12694,11 @@
       },
       "debateSection": {
         "showAs": "Health Services",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/dbsect_299",
-        "debateSectionId": "dbsect_299",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/dbsect_297",
+        "debateSectionId": "dbsect_297",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/mul@/dbsect_299.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/mul@/dbsect_297.xml"
           },
           "pdf": null
         }
@@ -12734,11 +12734,11 @@
       },
       "debateSection": {
         "showAs": "Emergency Departments",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/dbsect_300",
-        "debateSectionId": "dbsect_300",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/dbsect_298",
+        "debateSectionId": "dbsect_298",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/mul@/dbsect_300.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/mul@/dbsect_298.xml"
           },
           "pdf": null
         }
@@ -12774,11 +12774,11 @@
       },
       "debateSection": {
         "showAs": "Emergency Departments",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/dbsect_301",
-        "debateSectionId": "dbsect_301",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/dbsect_299",
+        "debateSectionId": "dbsect_299",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/mul@/dbsect_301.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/mul@/dbsect_299.xml"
           },
           "pdf": null
         }
@@ -12814,6 +12814,86 @@
       },
       "debateSection": {
         "showAs": "Medical Cards",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/dbsect_300",
+        "debateSectionId": "dbsect_300",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/mul@/dbsect_300.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 322,
+      "showAs": " 322. Deputy Paul McAuliffe asked the Minister for Health if a medical card will be extended for a person (details supplied). [50230/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-01/pq_322",
+      "date": "2026-07-01",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-07-01"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Paula Butterly",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paula-Butterly.D.2024-11-29",
+        "memberCode": "Paula-Butterly.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Health",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Hospital Procedures",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/dbsect_301",
+        "debateSectionId": "dbsect_301",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/mul@/dbsect_301.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 323,
+      "showAs": " 323. Deputy Paula Butterly asked the Minister for Health the number of patients from counties Louth, Meath, Monaghan and Cavan who were required to travel outside the north-east region for cardiac procedures in each of the past five years; and if she will make a statement on the matter. [50309/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-01/pq_323",
+      "date": "2026-07-01",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-07-01"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Paula Butterly",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paula-Butterly.D.2024-11-29",
+        "memberCode": "Paula-Butterly.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Health",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Hospital Procedures",
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/dbsect_302",
         "debateSectionId": "dbsect_302",
         "formats": {
@@ -12824,9 +12904,9 @@
         }
       },
       "questionType": "written",
-      "questionNumber": 322,
-      "showAs": " 322. Deputy Paul McAuliffe asked the Minister for Health if a medical card will be extended for a person (details supplied). [50230/26] ",
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-01/pq_322",
+      "questionNumber": 324,
+      "showAs": " 324. Deputy Paula Butterly asked the Minister for Health the number of inpatient, day-case and outpatient procedures carried out at Our Lady of Lourdes Hospital in each of the past five years, broken down by specialty; and if she will make a statement on the matter. [50310/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-01/pq_324",
       "date": "2026-07-01",
       "house": {
         "showAs": "34th Dáil",
@@ -12864,9 +12944,9 @@
         }
       },
       "questionType": "written",
-      "questionNumber": 323,
-      "showAs": " 323. Deputy Paula Butterly asked the Minister for Health the number of patients from counties Louth, Meath, Monaghan and Cavan who were required to travel outside the north-east region for cardiac procedures in each of the past five years; and if she will make a statement on the matter. [50309/26] ",
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-01/pq_323",
+      "questionNumber": 325,
+      "showAs": " 325. Deputy Paula Butterly asked the Minister for Health the number of patients currently awaiting elective surgery at Our Lady of Lourdes Hospital, broken down by specialty and waiting time bands; the measures being taken to reduce these waiting lists; and if she will make a statement on the matter. [50311/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-01/pq_325",
       "date": "2026-07-01",
       "house": {
         "showAs": "34th Dáil",
@@ -12882,9 +12962,9 @@
   {
     "question": {
       "by": {
-        "showAs": "Paula Butterly",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paula-Butterly.D.2024-11-29",
-        "memberCode": "Paula-Butterly.D.2024-11-29"
+        "showAs": "Colm Burke",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Colm-Burke.S.2011-05-25",
+        "memberCode": "Colm-Burke.S.2011-05-25"
       },
       "to": {
         "showAs": "Health",
@@ -12893,7 +12973,7 @@
         "roleCode": null
       },
       "debateSection": {
-        "showAs": "Hospital Procedures",
+        "showAs": "Hospital Facilities",
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/dbsect_304",
         "debateSectionId": "dbsect_304",
         "formats": {
@@ -12904,9 +12984,9 @@
         }
       },
       "questionType": "written",
-      "questionNumber": 324,
-      "showAs": " 324. Deputy Paula Butterly asked the Minister for Health the number of inpatient, day-case and outpatient procedures carried out at Our Lady of Lourdes Hospital in each of the past five years, broken down by specialty; and if she will make a statement on the matter. [50310/26] ",
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-01/pq_324",
+      "questionNumber": 326,
+      "showAs": " 326. Deputy Colm Burke asked the Minister for Health to provide an update on the planned development of a stem cell transplant unit at Cork University Hospital, in view of the fact that many patients from the south/south-west area have to travel either to Dublin or Galway, therefore there is an urgent need to prioritise the delivery of the unit; and if she will make a statement on the matter. [50314/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-01/pq_326",
       "date": "2026-07-01",
       "house": {
         "showAs": "34th Dáil",
@@ -12922,9 +13002,9 @@
   {
     "question": {
       "by": {
-        "showAs": "Paula Butterly",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paula-Butterly.D.2024-11-29",
-        "memberCode": "Paula-Butterly.D.2024-11-29"
+        "showAs": "Colm Burke",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Colm-Burke.S.2011-05-25",
+        "memberCode": "Colm-Burke.S.2011-05-25"
       },
       "to": {
         "showAs": "Health",
@@ -12933,7 +13013,7 @@
         "roleCode": null
       },
       "debateSection": {
-        "showAs": "Hospital Procedures",
+        "showAs": "Hospital Facilities",
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/dbsect_305",
         "debateSectionId": "dbsect_305",
         "formats": {
@@ -12944,9 +13024,9 @@
         }
       },
       "questionType": "written",
-      "questionNumber": 325,
-      "showAs": " 325. Deputy Paula Butterly asked the Minister for Health the number of patients currently awaiting elective surgery at Our Lady of Lourdes Hospital, broken down by specialty and waiting time bands; the measures being taken to reduce these waiting lists; and if she will make a statement on the matter. [50311/26] ",
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-01/pq_325",
+      "questionNumber": 327,
+      "showAs": " 327. Deputy Colm Burke asked the Minister for Health to confirm that within her Department it is the policy to develop adequate capacity for stem cell transplantation and advanced cellular therapies, in view of the fact that there is limited access as there are only two units in Ireland providing this service and there is a growing demand for same; and if she will make a statement on the matter. [50315/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-01/pq_327",
       "date": "2026-07-01",
       "house": {
         "showAs": "34th Dáil",
@@ -12984,9 +13064,9 @@
         }
       },
       "questionType": "written",
-      "questionNumber": 326,
-      "showAs": " 326. Deputy Colm Burke asked the Minister for Health to provide an update on the planned development of a stem cell transplant unit at Cork University Hospital, in view of the fact that many patients from the south/south-west area have to travel either to Dublin or Galway, therefore there is an urgent need to prioritise the delivery of the unit; and if she will make a statement on the matter. [50314/26] ",
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-01/pq_326",
+      "questionNumber": 328,
+      "showAs": " 328. Deputy Colm Burke asked the Minister for Health to confirm that immediate action will be taken to cater for the growing number of patients requiring stem cell transplantation for haematological conditions, in view of the fact that the number of people being identified who require this treatment is growing and in order to reduce down the delays in accessing the care required; and if she will make a statement on the matter. [50316/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-01/pq_328",
       "date": "2026-07-01",
       "house": {
         "showAs": "34th Dáil",
@@ -13024,9 +13104,9 @@
         }
       },
       "questionType": "written",
-      "questionNumber": 327,
-      "showAs": " 327. Deputy Colm Burke asked the Minister for Health to confirm that within her Department it is the policy to develop adequate capacity for stem cell transplantation and advanced cellular therapies, in view of the fact that there is limited access as there are only two units in Ireland providing this service and there is a growing demand for same; and if she will make a statement on the matter. [50315/26] ",
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-01/pq_327",
+      "questionNumber": 329,
+      "showAs": " 329. Deputy Colm Burke asked the Minister for Health to confirm that funding has been set aside both in respect of the capital cost, commissioning and recruitment of the required number of staff in order to proceed with the development of a stem cell transplantation and advanced cellular therapies unit in Cork University Hospital; and if she will make a statement on the matter. [50317/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-01/pq_329",
       "date": "2026-07-01",
       "house": {
         "showAs": "34th Dáil",
@@ -13064,9 +13144,9 @@
         }
       },
       "questionType": "written",
-      "questionNumber": 328,
-      "showAs": " 328. Deputy Colm Burke asked the Minister for Health to confirm that immediate action will be taken to cater for the growing number of patients requiring stem cell transplantation for haematological conditions, in view of the fact that the number of people being identified who require this treatment is growing and in order to reduce down the delays in accessing the care required; and if she will make a statement on the matter. [50316/26] ",
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-01/pq_328",
+      "questionNumber": 330,
+      "showAs": " 330. Deputy Colm Burke asked the Minister for Health to confirm that her Department has reviewed the current policy in respect of delivering the necessary infrastructure to provide for advanced cellular therapies, including CAR T-cell therapy for both haematological malignancies and solid cancers; to confirm that a ten year plan will be put in place ensuring that the necessary infrastructure will be available to provide the care and treatment which patients require; and if she will make a statement on the matter. [50318/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-01/pq_330",
       "date": "2026-07-01",
       "house": {
         "showAs": "34th Dáil",
@@ -13104,9 +13184,9 @@
         }
       },
       "questionType": "written",
-      "questionNumber": 329,
-      "showAs": " 329. Deputy Colm Burke asked the Minister for Health to confirm that funding has been set aside both in respect of the capital cost, commissioning and recruitment of the required number of staff in order to proceed with the development of a stem cell transplantation and advanced cellular therapies unit in Cork University Hospital; and if she will make a statement on the matter. [50317/26] ",
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-01/pq_329",
+      "questionNumber": 331,
+      "showAs": " 331. Deputy Colm Burke asked the Minister for Health to confirm that her Department and the HSE have put a plan in place to increase the capacity for stem cell transplantation, as it is now an established treatment for a range of conditions including autoimmune diseases such as systemic lupus erythematosus and multiple sclerosis; and if she will make a statement on the matter. [50319/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-01/pq_331",
       "date": "2026-07-01",
       "house": {
         "showAs": "34th Dáil",
@@ -13144,86 +13224,6 @@
         }
       },
       "questionType": "written",
-      "questionNumber": 330,
-      "showAs": " 330. Deputy Colm Burke asked the Minister for Health to confirm that her Department has reviewed the current policy in respect of delivering the necessary infrastructure to provide for advanced cellular therapies, including CAR T-cell therapy for both haematological malignancies and solid cancers; to confirm that a ten year plan will be put in place ensuring that the necessary infrastructure will be available to provide the care and treatment which patients require; and if she will make a statement on the matter. [50318/26] ",
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-01/pq_330",
-      "date": "2026-07-01",
-      "house": {
-        "showAs": "34th Dáil",
-        "committeeCode": "",
-        "houseCode": "dail",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "chamberType": "house",
-        "houseNo": "34"
-      }
-    },
-    "contextDate": "2026-07-01"
-  },
-  {
-    "question": {
-      "by": {
-        "showAs": "Colm Burke",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Colm-Burke.S.2011-05-25",
-        "memberCode": "Colm-Burke.S.2011-05-25"
-      },
-      "to": {
-        "showAs": "Health",
-        "uri": null,
-        "roleType": null,
-        "roleCode": null
-      },
-      "debateSection": {
-        "showAs": "Hospital Facilities",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/dbsect_311",
-        "debateSectionId": "dbsect_311",
-        "formats": {
-          "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/mul@/dbsect_311.xml"
-          },
-          "pdf": null
-        }
-      },
-      "questionType": "written",
-      "questionNumber": 331,
-      "showAs": " 331. Deputy Colm Burke asked the Minister for Health to confirm that her Department and the HSE have put a plan in place to increase the capacity for stem cell transplantation, as it is now an established treatment for a range of conditions including autoimmune diseases such as systemic lupus erythematosus and multiple sclerosis; and if she will make a statement on the matter. [50319/26] ",
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-01/pq_331",
-      "date": "2026-07-01",
-      "house": {
-        "showAs": "34th Dáil",
-        "committeeCode": "",
-        "houseCode": "dail",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
-        "chamberType": "house",
-        "houseNo": "34"
-      }
-    },
-    "contextDate": "2026-07-01"
-  },
-  {
-    "question": {
-      "by": {
-        "showAs": "Colm Burke",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Colm-Burke.S.2011-05-25",
-        "memberCode": "Colm-Burke.S.2011-05-25"
-      },
-      "to": {
-        "showAs": "Health",
-        "uri": null,
-        "roleType": null,
-        "roleCode": null
-      },
-      "debateSection": {
-        "showAs": "Hospital Facilities",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/dbsect_312",
-        "debateSectionId": "dbsect_312",
-        "formats": {
-          "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/mul@/dbsect_312.xml"
-          },
-          "pdf": null
-        }
-      },
-      "questionType": "written",
       "questionNumber": 332,
       "showAs": " 332. Deputy Colm Burke asked the Minister for Health to confirm that an appropriate review is being carried out within her Department and the HSE for the delivery of additional infrastructure for stem cell transplantation in view of the fact that there is a high reliance on overseas treatment pathways, with associated delays, inequitable access, and significant cost to the State; and if she will make a statement on the matter. [50320/26] ",
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-01/pq_332",
@@ -13254,11 +13254,11 @@
       },
       "debateSection": {
         "showAs": "Departmental Reports",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/dbsect_313",
-        "debateSectionId": "dbsect_313",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/dbsect_311",
+        "debateSectionId": "dbsect_311",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/mul@/dbsect_313.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/mul@/dbsect_311.xml"
           },
           "pdf": null
         }
@@ -13294,11 +13294,11 @@
       },
       "debateSection": {
         "showAs": "Departmental Communications",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/dbsect_314",
-        "debateSectionId": "dbsect_314",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/dbsect_312",
+        "debateSectionId": "dbsect_312",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/mul@/dbsect_314.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/mul@/dbsect_312.xml"
           },
           "pdf": null
         }
@@ -13334,11 +13334,11 @@
       },
       "debateSection": {
         "showAs": "Research and Development",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/dbsect_315",
-        "debateSectionId": "dbsect_315",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/dbsect_313",
+        "debateSectionId": "dbsect_313",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/mul@/dbsect_315.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/mul@/dbsect_313.xml"
           },
           "pdf": null
         }
@@ -13374,11 +13374,11 @@
       },
       "debateSection": {
         "showAs": "Research and Development",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/dbsect_315",
-        "debateSectionId": "dbsect_315",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/dbsect_313",
+        "debateSectionId": "dbsect_313",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/mul@/dbsect_315.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/mul@/dbsect_313.xml"
           },
           "pdf": null
         }
@@ -13414,11 +13414,11 @@
       },
       "debateSection": {
         "showAs": "Research and Development",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/dbsect_315",
-        "debateSectionId": "dbsect_315",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/dbsect_313",
+        "debateSectionId": "dbsect_313",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/mul@/dbsect_315.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/mul@/dbsect_313.xml"
           },
           "pdf": null
         }
@@ -13454,11 +13454,11 @@
       },
       "debateSection": {
         "showAs": "Research and Development",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/dbsect_315",
-        "debateSectionId": "dbsect_315",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/dbsect_313",
+        "debateSectionId": "dbsect_313",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/mul@/dbsect_315.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/mul@/dbsect_313.xml"
           },
           "pdf": null
         }
@@ -13494,11 +13494,11 @@
       },
       "debateSection": {
         "showAs": "Grant Payments",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/dbsect_317",
-        "debateSectionId": "dbsect_317",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/dbsect_315",
+        "debateSectionId": "dbsect_315",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/mul@/dbsect_317.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/mul@/dbsect_315.xml"
           },
           "pdf": null
         }
@@ -13534,11 +13534,11 @@
       },
       "debateSection": {
         "showAs": "Scientific Research",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/dbsect_318",
-        "debateSectionId": "dbsect_318",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/dbsect_316",
+        "debateSectionId": "dbsect_316",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/mul@/dbsect_318.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/mul@/dbsect_316.xml"
           },
           "pdf": null
         }
@@ -13574,11 +13574,11 @@
       },
       "debateSection": {
         "showAs": "Scientific Research",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/dbsect_319",
-        "debateSectionId": "dbsect_319",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/dbsect_317",
+        "debateSectionId": "dbsect_317",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/mul@/dbsect_319.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/mul@/dbsect_317.xml"
           },
           "pdf": null
         }
@@ -13614,11 +13614,11 @@
       },
       "debateSection": {
         "showAs": "Scientific Research",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/dbsect_319",
-        "debateSectionId": "dbsect_319",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/dbsect_317",
+        "debateSectionId": "dbsect_317",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/mul@/dbsect_319.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/mul@/dbsect_317.xml"
           },
           "pdf": null
         }
@@ -13654,11 +13654,11 @@
       },
       "debateSection": {
         "showAs": "Scientific Research",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/dbsect_319",
-        "debateSectionId": "dbsect_319",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/dbsect_317",
+        "debateSectionId": "dbsect_317",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/mul@/dbsect_319.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/mul@/dbsect_317.xml"
           },
           "pdf": null
         }
@@ -13694,11 +13694,11 @@
       },
       "debateSection": {
         "showAs": "Scientific Research",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/dbsect_319",
-        "debateSectionId": "dbsect_319",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/dbsect_317",
+        "debateSectionId": "dbsect_317",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/mul@/dbsect_319.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/mul@/dbsect_317.xml"
           },
           "pdf": null
         }
@@ -13734,11 +13734,11 @@
       },
       "debateSection": {
         "showAs": "Scientific Research",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/dbsect_319",
-        "debateSectionId": "dbsect_319",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/dbsect_317",
+        "debateSectionId": "dbsect_317",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/mul@/dbsect_319.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/mul@/dbsect_317.xml"
           },
           "pdf": null
         }
@@ -13774,11 +13774,11 @@
       },
       "debateSection": {
         "showAs": "Scientific Research",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/dbsect_319",
-        "debateSectionId": "dbsect_319",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/dbsect_317",
+        "debateSectionId": "dbsect_317",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/mul@/dbsect_319.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/mul@/dbsect_317.xml"
           },
           "pdf": null
         }
@@ -13814,11 +13814,11 @@
       },
       "debateSection": {
         "showAs": "Job Losses",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/dbsect_320",
-        "debateSectionId": "dbsect_320",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/dbsect_318",
+        "debateSectionId": "dbsect_318",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/mul@/dbsect_320.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/mul@/dbsect_318.xml"
           },
           "pdf": null
         }
@@ -13854,11 +13854,11 @@
       },
       "debateSection": {
         "showAs": "Departmental Projects",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/dbsect_321",
-        "debateSectionId": "dbsect_321",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/dbsect_319",
+        "debateSectionId": "dbsect_319",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/mul@/dbsect_321.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/mul@/dbsect_319.xml"
           },
           "pdf": null
         }
@@ -13894,11 +13894,11 @@
       },
       "debateSection": {
         "showAs": "Social Enterprise Sector",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/dbsect_322",
-        "debateSectionId": "dbsect_322",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/dbsect_320",
+        "debateSectionId": "dbsect_320",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/mul@/dbsect_322.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/mul@/dbsect_320.xml"
           },
           "pdf": null
         }
@@ -13934,11 +13934,11 @@
       },
       "debateSection": {
         "showAs": "Community Welfare Services",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/dbsect_323",
-        "debateSectionId": "dbsect_323",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/dbsect_321",
+        "debateSectionId": "dbsect_321",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/mul@/dbsect_323.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/mul@/dbsect_321.xml"
           },
           "pdf": null
         }
@@ -13974,11 +13974,11 @@
       },
       "debateSection": {
         "showAs": "Community Welfare Services",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/dbsect_323",
-        "debateSectionId": "dbsect_323",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/dbsect_321",
+        "debateSectionId": "dbsect_321",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/mul@/dbsect_323.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/mul@/dbsect_321.xml"
           },
           "pdf": null
         }
@@ -14014,11 +14014,11 @@
       },
       "debateSection": {
         "showAs": "Community Welfare Services",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/dbsect_324",
-        "debateSectionId": "dbsect_324",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/dbsect_322",
+        "debateSectionId": "dbsect_322",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/mul@/dbsect_324.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/mul@/dbsect_322.xml"
           },
           "pdf": null
         }
@@ -14054,11 +14054,11 @@
       },
       "debateSection": {
         "showAs": "Job Losses",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/dbsect_320",
-        "debateSectionId": "dbsect_320",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/dbsect_318",
+        "debateSectionId": "dbsect_318",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/mul@/dbsect_320.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/mul@/dbsect_318.xml"
           },
           "pdf": null
         }
@@ -14094,11 +14094,11 @@
       },
       "debateSection": {
         "showAs": "Departmental Reviews",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/dbsect_325",
-        "debateSectionId": "dbsect_325",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/dbsect_323",
+        "debateSectionId": "dbsect_323",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/mul@/dbsect_325.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-01/writtens/mul@/dbsect_323.xml"
           },
           "pdf": null
         }

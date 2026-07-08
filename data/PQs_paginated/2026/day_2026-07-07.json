@@ -1,0 +1,122 @@
+[
+  {
+    "question": {
+      "by": {
+        "showAs": "Mairéad Farrell",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Mairéad-Farrell.D.2020-02-08",
+        "memberCode": "Mairéad-Farrell.D.2020-02-08"
+      },
+      "to": {
+        "showAs": "Public Expenditure",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Departmental Expenditure",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-07/debate/dbsect_23",
+        "debateSectionId": "dbsect_23",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-07/debate/mul@/dbsect_23.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 1,
+      "showAs": " 1. Deputy Mairéad Farrell asked the Minister for Public Expenditure, Infrastructure, Public Service Reform and Digitalisation if he will publish the efficiency and reform proposals that he requested each Government Department to provide to him by 17 July 2026; if he will do so at the earliest opportunity possible; and if he will make a statement on the matter. [51702/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-07/pq_1",
+      "date": "2026-07-07",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-07-07"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Cian O'Callaghan",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Cian-O'Callaghan.D.2020-02-08",
+        "memberCode": "Cian-O'Callaghan.D.2020-02-08"
+      },
+      "to": {
+        "showAs": "Public Expenditure",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Public Procurement Contracts",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-07/debate/dbsect_24",
+        "debateSectionId": "dbsect_24",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-07/debate/mul@/dbsect_24.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 2,
+      "showAs": " 2. Deputy Cian O'Callaghan asked the Minister for Public Expenditure, Infrastructure, Public Service Reform and Digitalisation if his Department carried out a risk assessment in advance of publishing a tender to establish a new framework agreement for the provision of Microsoft solution renewals and associated services; and if he will make a statement on the matter. [51706/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-07/pq_2",
+      "date": "2026-07-07",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-07-07"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Mairéad Farrell",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Mairéad-Farrell.D.2020-02-08",
+        "memberCode": "Mairéad-Farrell.D.2020-02-08"
+      },
+      "to": {
+        "showAs": "Public Expenditure",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Public Sector Pay",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-07/debate/dbsect_25",
+        "debateSectionId": "dbsect_25",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-07/debate/mul@/dbsect_25.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 3,
+      "showAs": " 3. Deputy Mairéad Farrell asked the Minister for Public Expenditure, Infrastructure, Public Service Reform and Digitalisation to give an update on the progress of a new public sector pay agreement; and if he will make a statement on the matter. [51703/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-07/pq_3",
+      "date": "2026-07-07",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-07-07"
+  }
+]

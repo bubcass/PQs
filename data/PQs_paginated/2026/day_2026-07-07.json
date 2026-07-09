@@ -25,7 +25,7 @@
       },
       "questionType": "oral",
       "questionNumber": 1,
-      "showAs": " 1. Deputy Mairéad Farrell asked the Minister for Public Expenditure, Infrastructure, Public Service Reform and Digitalisation if he will publish the efficiency and reform proposals that he requested each Government Department to provide to him by 17 July 2026; if he will do so at the earliest opportunity possible; and if he will make a statement on the matter. [51702/26] ",
+      "showAs": " 1. Deputy Mairéad Farrell asked the Minister for Public Expenditure, Infrastructure, Public Service Reform and Digitalisation if he will publish the efficiency and reform proposals that he requested each Department to provide to him by 17 July 2026; if he will do so at the earliest opportunity possible; and if he will make a statement on the matter.  [51702/26] ",
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-07/pq_1",
       "date": "2026-07-07",
       "house": {
@@ -107,6 +107,486 @@
       "questionNumber": 3,
       "showAs": " 3. Deputy Mairéad Farrell asked the Minister for Public Expenditure, Infrastructure, Public Service Reform and Digitalisation to give an update on the progress of a new public sector pay agreement; and if he will make a statement on the matter. [51703/26] ",
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-07/pq_3",
+      "date": "2026-07-07",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-07-07"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Mairéad Farrell",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Mairéad-Farrell.D.2020-02-08",
+        "memberCode": "Mairéad-Farrell.D.2020-02-08"
+      },
+      "to": {
+        "showAs": "Public Expenditure",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Departmental Strategies",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-07/debate/dbsect_26",
+        "debateSectionId": "dbsect_26",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-07/debate/mul@/dbsect_26.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 4,
+      "showAs": " 4. Deputy Mairéad Farrell asked the Minister for Public Expenditure, Infrastructure, Public Service Reform and Digitalisation to provide an update on the national procurement strategy, which was due to be published earlier this year; and if he will make a statement on the matter. [51494/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-07/pq_4",
+      "date": "2026-07-07",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-07-07"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Grace Boland",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Grace-Boland.D.2024-11-29",
+        "memberCode": "Grace-Boland.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Public Expenditure",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Artificial Intelligence",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-07/debate/dbsect_28",
+        "debateSectionId": "dbsect_28",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-07/debate/mul@/dbsect_28.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 6,
+      "showAs": " 6. Deputy Grace Boland asked the Minister for Public Expenditure, Infrastructure, Public Service Reform and Digitalisation the progress being made on the adoption of artificial intelligence across the public service to improve efficiency, reduce administrative burdens and enhance public services; and if he will make a statement on the matter. [51518/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-07/pq_6",
+      "date": "2026-07-07",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-07-07"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Naoise Ó Cearúil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Naoise-Ó-Cearúil.D.2024-11-29",
+        "memberCode": "Naoise-Ó-Cearúil.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Public Expenditure",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Departmental Funding",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-07/debate/dbsect_29",
+        "debateSectionId": "dbsect_29",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-07/debate/mul@/dbsect_29.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 7,
+      "showAs": " 7. Deputy Naoise Ó Cearúil asked the Minister for Public Expenditure, Infrastructure, Public Service Reform and Digitalisation the criteria applied in assessing projects under the digital public service transformation fund, including the way in which service improvement, efficiency gains and potential for wider roll-out are considered; and if he will make a statement on the matter. [51534/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-07/pq_7",
+      "date": "2026-07-07",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-07-07"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Louis O'Hara",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Louis-O'Hara.D.2024-11-29",
+        "memberCode": "Louis-O'Hara.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Public Expenditure",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Strategic Infrastructure",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-07/debate/dbsect_30",
+        "debateSectionId": "dbsect_30",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-07/debate/mul@/dbsect_30.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 8,
+      "showAs": " 8. Deputy Louis O'Hara asked the Minister for Public Expenditure, Infrastructure, Public Service Reform and Digitalisation to provide an update regarding investment in critical infrastructure in the west of Ireland; and if he will make a statement on the matter. [50878/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-07/pq_8",
+      "date": "2026-07-07",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-07-07"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Eamon Scanlon",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Eamon-Scanlon.S.2002-09-12",
+        "memberCode": "Eamon-Scanlon.S.2002-09-12"
+      },
+      "to": {
+        "showAs": "Public Expenditure",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "National Development Plan",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-07/debate/dbsect_31",
+        "debateSectionId": "dbsect_31",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-07/debate/mul@/dbsect_31.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 9,
+      "showAs": " 9. Deputy Eamon Scanlon asked the Minister for Public Expenditure, Infrastructure, Public Service Reform and Digitalisation the progress made to date under national strategic outcome, NSO, 3 of the National Development Plan 2021-2030; and if he will make a statement on the matter. [51311/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-07/pq_9",
+      "date": "2026-07-07",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-07-07"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Cathy Bennett",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Cathy-Bennett.D.2024-11-29",
+        "memberCode": "Cathy-Bennett.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Public Expenditure",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Information and Communications Technology",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-07/debate/dbsect_32",
+        "debateSectionId": "dbsect_32",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-07/debate/mul@/dbsect_32.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 10,
+      "showAs": " 10. Deputy Cathy Bennett asked the Minister for Public Expenditure, Infrastructure, Public Service Reform and Digitalisation if he will outline the advice and support provided by his Department to other Departments or bodies under their aegis regarding the procurement of IT systems.  [51486/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-07/pq_10",
+      "date": "2026-07-07",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-07-07"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Sean Fleming",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Seán-Fleming.D.1997-06-26",
+        "memberCode": "Seán-Fleming.D.1997-06-26"
+      },
+      "to": {
+        "showAs": "Public Expenditure",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "National Development Plan",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-07/debate/dbsect_35",
+        "debateSectionId": "dbsect_35",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-07/debate/mul@/dbsect_35.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 11,
+      "showAs": " 11. Deputy Sean Fleming asked the Minister for Public Expenditure, Infrastructure, Public Service Reform and Digitalisation the progress made to date under national strategic outcome, NSO, No. 6 of the National Development Plan 2021-2030; and if he will make a statement on the matter.  [51367/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-07/pq_11",
+      "date": "2026-07-07",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-07-07"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Edward Timmins",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Edward-Timmins.D.2024-11-29",
+        "memberCode": "Edward-Timmins.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Public Expenditure",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Departmental Expenditure",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-07/debate/dbsect_33",
+        "debateSectionId": "dbsect_33",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-07/debate/mul@/dbsect_33.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 12,
+      "showAs": " 12. Deputy Edward Timmins asked the Minister for Public Expenditure, Infrastructure, Public Service Reform and Digitalisation the actions that have been taken to implement cost control in Departments; and if he will make a statement on the matter.  [51538/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-07/pq_12",
+      "date": "2026-07-07",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-07-07"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Seán Ó Fearghaíl",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Seán-Ó-Fearghaíl.S.2000-06-09",
+        "memberCode": "Seán-Ó-Fearghaíl.S.2000-06-09"
+      },
+      "to": {
+        "showAs": "Public Expenditure",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "National Development Plan",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-07/debate/dbsect_36",
+        "debateSectionId": "dbsect_36",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-07/debate/mul@/dbsect_36.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 13,
+      "showAs": " 13. Deputy Seán Ó Fearghaíl asked the Minister for Public Expenditure, Infrastructure, Public Service Reform and Digitalisation the progress made to date under NSO No. 4 of the National Development Plan 2021-2030; and if he will make a statement on the matter.  [51359/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-07/pq_13",
+      "date": "2026-07-07",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-07-07"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Joe Neville",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Joe-Neville.D.2024-11-29",
+        "memberCode": "Joe-Neville.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Public Expenditure",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Public Expenditure Policy",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-07/debate/dbsect_34",
+        "debateSectionId": "dbsect_34",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-07/debate/mul@/dbsect_34.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 14,
+      "showAs": " 14. Deputy Joe Neville asked the Minister for Public Expenditure, Infrastructure, Public Service Reform and Digitalisation if his Department has outlined any projects under the Critical Infrastructure Act 2026 yet to be given priority; and if he will make a statement on the matter.  [51548/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-07/pq_14",
+      "date": "2026-07-07",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-07-07"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Louis O'Hara",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Louis-O'Hara.D.2024-11-29",
+        "memberCode": "Louis-O'Hara.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Public Expenditure",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Flood Relief Schemes",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-07/debate/dbsect_37",
+        "debateSectionId": "dbsect_37",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-07/debate/mul@/dbsect_37.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 17,
+      "showAs": " 17. Deputy Louis O'Hara asked the Minister for Public Expenditure, Infrastructure, Public Service Reform and Digitalisation to provide an update on the South Galway Flood Relief Project; and if he will make a statement on the matter. [50877/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-07/pq_17",
+      "date": "2026-07-07",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-07-07"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Mairéad Farrell",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Mairéad-Farrell.D.2020-02-08",
+        "memberCode": "Mairéad-Farrell.D.2020-02-08"
+      },
+      "to": {
+        "showAs": "Public Expenditure",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Strategic Infrastructure",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-07/debate/dbsect_30",
+        "debateSectionId": "dbsect_30",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-07/debate/mul@/dbsect_30.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 21,
+      "showAs": " 21. Deputy Mairéad Farrell asked the Minister for Public Expenditure, Infrastructure, Public Service Reform and Digitalisation to provide an update on infrastructure investment in the west of Ireland; and if he will make a statement on the matter. [51496/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-07/pq_21",
       "date": "2026-07-07",
       "house": {
         "showAs": "34th Dáil",

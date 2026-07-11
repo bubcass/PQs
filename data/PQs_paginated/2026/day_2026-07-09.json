@@ -522,6 +522,2846 @@
   {
     "question": {
       "by": {
+        "showAs": "Colm Burke",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Colm-Burke.S.2011-05-25",
+        "memberCode": "Colm-Burke.S.2011-05-25"
+      },
+      "to": {
+        "showAs": "Agriculture",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Agriculture Industry",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-09/writtens/dbsect_47",
+        "debateSectionId": "dbsect_47",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-09/writtens/mul@/dbsect_47.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 14,
+      "showAs": " 14. Deputy Colm Burke asked the Minister for Agriculture, Food and the Marine the further steps he and his Department are taking to encourage more young people to enter farming and to support family farm succession; and if he will make a statement on the matter. [52227/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-09/pq_14",
+      "date": "2026-07-09",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-07-09"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Paula Butterly",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paula-Butterly.D.2024-11-29",
+        "memberCode": "Paula-Butterly.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Agriculture",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Food Promotion",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-09/writtens/dbsect_49",
+        "debateSectionId": "dbsect_49",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-09/writtens/mul@/dbsect_49.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 15,
+      "showAs": " 15. Deputy Paula Butterly asked the Minister for Agriculture, Food and the Marine the steps his Department is taking, in collaboration with the agriculture growers and food suppliers, to support the development and production of new food products tailored to the nutritional needs of individuals using GLP-1 medications, particularly those at risk of muscle loss; and if he will make a statement on the matter. [49543/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-09/pq_15",
+      "date": "2026-07-09",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-07-09"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Ruairí Ó Murchú",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruairí-Ó-Murchú.D.2020-02-08",
+        "memberCode": "Ruairí-Ó-Murchú.D.2020-02-08"
+      },
+      "to": {
+        "showAs": "Agriculture",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Departmental Reports",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-09/writtens/dbsect_50",
+        "debateSectionId": "dbsect_50",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-09/writtens/mul@/dbsect_50.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 16,
+      "showAs": " 16. Deputy Ruairí Ó Murchú asked the Minister for Agriculture, Food and the Marine when the Commission on Generational Renewal in Farming Report recommendations will be delivered; and if he will make a statement on the matter. [52192/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-09/pq_16",
+      "date": "2026-07-09",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-07-09"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Naoise Ó Muirí",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Naoise-Ó-Muirí.D.2024-11-29",
+        "memberCode": "Naoise-Ó-Muirí.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Agriculture",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Departmental Funding",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-09/writtens/dbsect_51",
+        "debateSectionId": "dbsect_51",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-09/writtens/mul@/dbsect_51.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 17,
+      "showAs": " 17. Deputy Naoise Ó Muirí asked the Minister for Agriculture, Food and the Marine if he will outline the funding announced under the Agriculture and Climate Joint Research and Technology Initiative; and if he will make a statement on the matter. [52133/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-09/pq_17",
+      "date": "2026-07-09",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-07-09"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Peter 'Chap' Cleere",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Peter-'Chap'-Cleere.D.2024-11-29",
+        "memberCode": "Peter-'Chap'-Cleere.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Agriculture",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Departmental Schemes",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-09/writtens/dbsect_52",
+        "debateSectionId": "dbsect_52",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-09/writtens/mul@/dbsect_52.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 18,
+      "showAs": " 18. Deputy Peter 'Chap' Cleere asked the Minister for Agriculture, Food and the Marine the steps he is taking to safeguard the former Pillar II funding schemes in CAP post- 2027; and if he will make a statement on the matter. [51673/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-09/pq_18",
+      "date": "2026-07-09",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-07-09"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Pádraig Mac Lochlainn",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Pádraig-MacLochlainn.D.2011-03-09",
+        "memberCode": "Pádraig-MacLochlainn.D.2011-03-09"
+      },
+      "to": {
+        "showAs": "Agriculture",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "EU Presidency",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-09/writtens/dbsect_53",
+        "debateSectionId": "dbsect_53",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-09/writtens/mul@/dbsect_53.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 19,
+      "showAs": " 19. Deputy Pádraig Mac Lochlainn asked the Minister for Agriculture, Food and the Marine the way in which he will use the opportunity of Ireland’s Presidency of the Council of the European Union to get fairness for Irish fishing communities from the CFP; and if he will make a statement on the matter. [51675/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-09/pq_19",
+      "date": "2026-07-09",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-07-09"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Barry Ward",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Barry-Ward.S.2020-03-30",
+        "memberCode": "Barry-Ward.S.2020-03-30"
+      },
+      "to": {
+        "showAs": "Agriculture",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Horticulture Sector",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-09/writtens/dbsect_54",
+        "debateSectionId": "dbsect_54",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-09/writtens/mul@/dbsect_54.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 20,
+      "showAs": " 20. Deputy Barry Ward asked the Minister for Agriculture, Food and the Marine the measures being taken to address the reported imminent crisis in the horticultural sector linked to uncertainty over peat supply and regulation; and if he will make a statement on the matter. [51542/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-09/pq_20",
+      "date": "2026-07-09",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-07-09"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Naoise Ó Cearúil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Naoise-Ó-Cearúil.D.2024-11-29",
+        "memberCode": "Naoise-Ó-Cearúil.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Agriculture",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Greenhouse Gas Emissions",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-09/writtens/dbsect_55",
+        "debateSectionId": "dbsect_55",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-09/writtens/mul@/dbsect_55.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 21,
+      "showAs": " 21. Deputy Naoise Ó Cearúil asked the Minister for Agriculture, Food and the Marine the way in which the Ireland–New Zealand joint research initiative will translate into practical, farm-level measures to support farmers in reducing greenhouse gas emissions while maintaining productivity; and if he will make a statement on the matter. [52200/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-09/pq_21",
+      "date": "2026-07-09",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-07-09"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Joe Neville",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Joe-Neville.D.2024-11-29",
+        "memberCode": "Joe-Neville.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Agriculture",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "EU Presidency",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-09/writtens/dbsect_56",
+        "debateSectionId": "dbsect_56",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-09/writtens/mul@/dbsect_56.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 22,
+      "showAs": " 22. Deputy Joe Neville asked the Minister for Agriculture, Food and the Marine the main aims he hopes to deliver at an EU level for Irish farmers in the next six months while we hold the EU presidency; and if he will make a statement on the matter. [52286/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-09/pq_22",
+      "date": "2026-07-09",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-07-09"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "John Paul O'Shea",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/John-Paul-O'Shea.D.2024-11-29",
+        "memberCode": "John-Paul-O'Shea.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Agriculture",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Departmental Schemes",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-09/writtens/dbsect_57",
+        "debateSectionId": "dbsect_57",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-09/writtens/mul@/dbsect_57.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 23,
+      "showAs": " 23. Deputy John Paul O'Shea asked the Minister for Agriculture, Food and the Marine for an update on the social farming scheme; the level of take up on the scheme to date throughout the country; if he intends expanding the scheme in 2027; and if he will make a statement on the matter. [52196/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-09/pq_23",
+      "date": "2026-07-09",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-07-09"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Cathal Crowe",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Cathal-Crowe.D.2020-02-08",
+        "memberCode": "Cathal-Crowe.D.2020-02-08"
+      },
+      "to": {
+        "showAs": "Agriculture",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Departmental Schemes",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-09/writtens/dbsect_58",
+        "debateSectionId": "dbsect_58",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-09/writtens/mul@/dbsect_58.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 24,
+      "showAs": " 24. Deputy Cathal Crowe asked the Minister for Agriculture, Food and the Marine if his Department will consider devising a grant scheme to improve farm access roads and internal farm roads; and if he will make a statement on the matter. [51670/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-09/pq_24",
+      "date": "2026-07-09",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-07-09"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "John Paul O'Shea",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/John-Paul-O'Shea.D.2024-11-29",
+        "memberCode": "John-Paul-O'Shea.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Agriculture",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Departmental Schemes",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-09/writtens/dbsect_59",
+        "debateSectionId": "dbsect_59",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-09/writtens/mul@/dbsect_59.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 25,
+      "showAs": " 25. Deputy John Paul O'Shea asked the Minister for Agriculture, Food and the Marine the progress being made in the forgotten farmer scheme; and if he will make a statement on the matter. [52195/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-09/pq_25",
+      "date": "2026-07-09",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-07-09"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Thomas Gould",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Thomas-Gould.D.2020-02-08",
+        "memberCode": "Thomas-Gould.D.2020-02-08"
+      },
+      "to": {
+        "showAs": "Agriculture",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Animal Welfare",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-09/writtens/dbsect_60",
+        "debateSectionId": "dbsect_60",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-09/writtens/mul@/dbsect_60.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 26,
+      "showAs": " 26. Deputy Thomas Gould asked the Minister for Agriculture, Food and the Marine the actions he has taken to improve horse welfare in Cork. [51018/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-09/pq_26",
+      "date": "2026-07-09",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-07-09"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Grace Boland",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Grace-Boland.D.2024-11-29",
+        "memberCode": "Grace-Boland.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Agriculture",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Fishing Industry",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-09/writtens/dbsect_61",
+        "debateSectionId": "dbsect_61",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-09/writtens/mul@/dbsect_61.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 27,
+      "showAs": " 27. Deputy Grace Boland asked the Minister for Agriculture, Food and the Marine to provide an update on the average processing timelines for foreshore licence applications; the measures that are being introduced to reduce delays; and if he will make a statement on the matter. [51498/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-09/pq_27",
+      "date": "2026-07-09",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-07-09"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Pádraig O'Sullivan",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Pádraig-O'Sullivan.D.2019-11-29",
+        "memberCode": "Pádraig-O'Sullivan.D.2019-11-29"
+      },
+      "to": {
+        "showAs": "Agriculture",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Nitrates Usage",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-09/writtens/dbsect_62",
+        "debateSectionId": "dbsect_62",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-09/writtens/mul@/dbsect_62.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 28,
+      "showAs": " 28. Deputy Pádraig O'Sullivan asked the Minister for Agriculture, Food and the Marine the actions his Department is taking to prepare for 1 January 2028, and the European Commission's implementing decision on nitrates derogation; if Ireland is on target to maintain the present status, allowing eligible farms to stock above the standard EU limit of 170kg organic nitrogen/ha; and if he will make a statement on the matter. [52036/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-09/pq_28",
+      "date": "2026-07-09",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-07-09"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Seán Kyne",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Seán-Kyne.D.2011-03-09",
+        "memberCode": "Seán-Kyne.D.2011-03-09"
+      },
+      "to": {
+        "showAs": "Agriculture",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "State Properties",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-09/writtens/dbsect_63",
+        "debateSectionId": "dbsect_63",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-09/writtens/mul@/dbsect_63.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 29,
+      "showAs": " 29. Deputy Seán Kyne asked the Minister for Agriculture, Food and the Marine his views on the benefits of a State run hill sheep research farm, acknowledging the benefits of such research to hill sheep farmers as well as the benefits of research into biodiversity and carbon storage; and if he will make a statement on the matter. [51125/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-09/pq_29",
+      "date": "2026-07-09",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-07-09"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Pádraig Mac Lochlainn",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Pádraig-MacLochlainn.D.2011-03-09",
+        "memberCode": "Pádraig-MacLochlainn.D.2011-03-09"
+      },
+      "to": {
+        "showAs": "Agriculture",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Departmental Reports",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-09/writtens/dbsect_64",
+        "debateSectionId": "dbsect_64",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-09/writtens/mul@/dbsect_64.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 30,
+      "showAs": " 30. Deputy Pádraig Mac Lochlainn asked the Minister for Agriculture, Food and the Marine when a report will be published (details supplied) [51674/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-09/pq_30",
+      "date": "2026-07-09",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-07-09"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Ruth Coppinger",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruth-Coppinger.D.2014-05-23",
+        "memberCode": "Ruth-Coppinger.D.2014-05-23"
+      },
+      "to": {
+        "showAs": "Agriculture",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Animal Culls",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-09/writtens/dbsect_65",
+        "debateSectionId": "dbsect_65",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-09/writtens/mul@/dbsect_65.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 31,
+      "showAs": " 31. Deputy Ruth Coppinger asked the Minister for Agriculture, Food and the Marine the number of badgers culled in the past year; and if he will make a statement on the matter. [52311/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-09/pq_31",
+      "date": "2026-07-09",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-07-09"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Albert Dolan",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Albert-Dolan.D.2024-11-29",
+        "memberCode": "Albert-Dolan.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Agriculture",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Agriculture Schemes",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-09/writtens/dbsect_66",
+        "debateSectionId": "dbsect_66",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-09/writtens/mul@/dbsect_66.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 32,
+      "showAs": " 32. Deputy Albert Dolan asked the Minister for Agriculture, Food and the Marine his plans to introduce or expand a dedicated farm succession scheme to support the timely transfer of family farms to the next generation; the measures he is considering to encourage earlier succession and generational renewal, particularly in counties such as Galway; and if he will make a statement on the matter. [51679/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-09/pq_32",
+      "date": "2026-07-09",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-07-09"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Cathy Bennett",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Cathy-Bennett.D.2024-11-29",
+        "memberCode": "Cathy-Bennett.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Agriculture",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Common Agricultural Policy",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-09/writtens/dbsect_67",
+        "debateSectionId": "dbsect_67",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-09/writtens/mul@/dbsect_67.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 33,
+      "showAs": " 33. Deputy Cathy Bennett asked the Minister for Agriculture, Food and the Marine his response to proposals from the European Commission to cut the budget of the Common Agricultural Policy. [52300/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-09/pq_33",
+      "date": "2026-07-09",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-07-09"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Ruth Coppinger",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruth-Coppinger.D.2014-05-23",
+        "memberCode": "Ruth-Coppinger.D.2014-05-23"
+      },
+      "to": {
+        "showAs": "Agriculture",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Animal Welfare",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-09/writtens/dbsect_68",
+        "debateSectionId": "dbsect_68",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-09/writtens/mul@/dbsect_68.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 34,
+      "showAs": " 34. Deputy Ruth Coppinger asked the Minister for Agriculture, Food and the Marine the mortality rates in live cattle exports; if he will consider ending the practice on animal welfare grounds; and if he will make a statement on the matter. [52309/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-09/pq_34",
+      "date": "2026-07-09",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-07-09"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Peadar Tóibín",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Peadar-Tóibín.D.2011-03-09",
+        "memberCode": "Peadar-Tóibín.D.2011-03-09"
+      },
+      "to": {
+        "showAs": "Agriculture",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Agriculture Supports",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-09/writtens/dbsect_70",
+        "debateSectionId": "dbsect_70",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-09/writtens/mul@/dbsect_70.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 35,
+      "showAs": " 35. Deputy Peadar Tóibín asked the Minister for Agriculture, Food and the Marine the amount that has been paid out to date to farmers, fishermen, farm contractors and small businesses under the cost of fuel income support scheme. [40349/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-09/pq_35",
+      "date": "2026-07-09",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-07-09"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "John McGuinness",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/John-McGuinness.D.1997-06-26",
+        "memberCode": "John-McGuinness.D.1997-06-26"
+      },
+      "to": {
+        "showAs": "Agriculture",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Animal Welfare",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-09/writtens/dbsect_71",
+        "debateSectionId": "dbsect_71",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-09/writtens/mul@/dbsect_71.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 36,
+      "showAs": " 36. Deputy John McGuinness asked the Minister for Agriculture, Food and the Marine his views on a matter (details supplied). [52272/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-09/pq_36",
+      "date": "2026-07-09",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-07-09"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Brendan Smith",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Brendan-Smith.D.1992-12-14",
+        "memberCode": "Brendan-Smith.D.1992-12-14"
+      },
+      "to": {
+        "showAs": "Agriculture",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Forestry Sector",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-09/writtens/dbsect_72",
+        "debateSectionId": "dbsect_72",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-09/writtens/mul@/dbsect_72.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 37,
+      "showAs": " 37. Deputy Brendan Smith asked the Minister for Agriculture, Food and the Marine the progress to date in reviewing forestry setbacks and corridors in relation to the safeguarding of the electricity and energy networks, the timeline for the publication and implementation of new regulations; and if he will make a statement on the matter. [52187/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-09/pq_37",
+      "date": "2026-07-09",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-07-09"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Martin Kenny",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Martin-Kenny.D.2016-10-03",
+        "memberCode": "Martin-Kenny.D.2016-10-03"
+      },
+      "to": {
+        "showAs": "Agriculture",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Animal Diseases",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-09/writtens/dbsect_73",
+        "debateSectionId": "dbsect_73",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-09/writtens/mul@/dbsect_73.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 38,
+      "showAs": " 38. Deputy Martin Kenny asked the Minister for Agriculture, Food and the Marine the plans to deploy a Bovine TB vaccine as part of the BTB eradication programme following reports that the UK intend to rollout a vaccine programme by 2030; and if he will make a statement on the matter. [52032/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-09/pq_38",
+      "date": "2026-07-09",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-07-09"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Martin Kenny",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Martin-Kenny.D.2016-10-03",
+        "memberCode": "Martin-Kenny.D.2016-10-03"
+      },
+      "to": {
+        "showAs": "Agriculture",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Agriculture Schemes",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-09/writtens/dbsect_74",
+        "debateSectionId": "dbsect_74",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-09/writtens/mul@/dbsect_74.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 39,
+      "showAs": " 39. Deputy Martin Kenny asked the Minister for Agriculture, Food and the Marine if his Department will provide dedicated funding to farmers to implement the Nature Restoration Plan; and if he will make a statement on the matter. [52033/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-09/pq_39",
+      "date": "2026-07-09",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-07-09"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Malcolm Byrne",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Malcolm-Byrne.D.2019-11-29",
+        "memberCode": "Malcolm-Byrne.D.2019-11-29"
+      },
+      "to": {
+        "showAs": "Agriculture",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Tillage Sector",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-09/writtens/dbsect_75",
+        "debateSectionId": "dbsect_75",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-09/writtens/mul@/dbsect_75.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 40,
+      "showAs": " 40. Deputy Malcolm Byrne asked the Minister for Agriculture, Food and the Marine for an update on the implementation of the National Tillage Strategy. [51676/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-09/pq_40",
+      "date": "2026-07-09",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-07-09"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Erin McGreehan",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Erin-McGreehan.S.2020-06-29",
+        "memberCode": "Erin-McGreehan.S.2020-06-29"
+      },
+      "to": {
+        "showAs": "Agriculture",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Agriculture Supports",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-09/writtens/dbsect_76",
+        "debateSectionId": "dbsect_76",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-09/writtens/mul@/dbsect_76.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 41,
+      "showAs": " 41. Deputy Erin McGreehan asked the Minister for Agriculture, Food and the Marine the way in which he is supporting the sheep wool sector. [51852/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-09/pq_41",
+      "date": "2026-07-09",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-07-09"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Paul Murphy",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Murphy.D.2014-10-10",
+        "memberCode": "Paul-Murphy.D.2014-10-10"
+      },
+      "to": {
+        "showAs": "Agriculture",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Hare Coursing",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-09/writtens/dbsect_77",
+        "debateSectionId": "dbsect_77",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-09/writtens/mul@/dbsect_77.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 42,
+      "showAs": " 42. Deputy Paul Murphy asked the Minister for Agriculture, Food and the Marine to provide evidence for a claim made in the Dáil by the Minister for State with special responsibility for Forestry, Farm Safety, and Horticulture that hare coursing is worth €70 million to the Irish economy; and if he will make a statement on the matter. [52197/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-09/pq_42",
+      "date": "2026-07-09",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-07-09"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Jennifer Whitmore",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Jennifer-Whitmore.D.2020-02-08",
+        "memberCode": "Jennifer-Whitmore.D.2020-02-08"
+      },
+      "to": {
+        "showAs": "Agriculture",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Horticulture Sector",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-09/writtens/dbsect_78",
+        "debateSectionId": "dbsect_78",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-09/writtens/mul@/dbsect_78.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 43,
+      "showAs": " 43. Deputy Jennifer Whitmore asked the Minister for Agriculture, Food and the Marine the action his Department is taking to stop the further decline of horticulturalists in Ireland; the additional supports he is considering to incentivise growth in this sector; and if he will make a statement on the matter. [52308/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-09/pq_43",
+      "date": "2026-07-09",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-07-09"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Natasha Newsome Drennan",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Natasha-Newsome-Drennan.D.2024-11-29",
+        "memberCode": "Natasha-Newsome-Drennan.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Agriculture",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Beef Sector",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-09/writtens/dbsect_79",
+        "debateSectionId": "dbsect_79",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-09/writtens/mul@/dbsect_79.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 44,
+      "showAs": " 44. Deputy Natasha Newsome Drennan asked the Minister for Agriculture, Food and the Marine the tonnage of Brazilian beef imported to Ireland since May 2026; and if he will make a statement on the matter. [52218/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-09/pq_44",
+      "date": "2026-07-09",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-07-09"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Naoise Ó Muirí",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Naoise-Ó-Muirí.D.2024-11-29",
+        "memberCode": "Naoise-Ó-Muirí.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Agriculture",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Agriculture Schemes",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-09/writtens/dbsect_80",
+        "debateSectionId": "dbsect_80",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-09/writtens/mul@/dbsect_80.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 45,
+      "showAs": " 45. Deputy Naoise Ó Muirí asked the Minister for Agriculture, Food and the Marine the total funding available for ACRES non-productive investments in 2026; whether it will be sufficient to meet all eligible applications; and if he will make a statement on the matter. [52132/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-09/pq_45",
+      "date": "2026-07-09",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-07-09"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "James O'Connor",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/James-O'Connor.D.2020-02-08",
+        "memberCode": "James-O'Connor.D.2020-02-08"
+      },
+      "to": {
+        "showAs": "Agriculture",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Renewable Energy Generation",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-09/writtens/dbsect_81",
+        "debateSectionId": "dbsect_81",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-09/writtens/mul@/dbsect_81.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 46,
+      "showAs": " 46. Deputy James O'Connor asked the Minister for Agriculture, Food and the Marine his views on the recently published report ‘A Living Land’ in relation to solar renewable energies; his views on solar farms and land use on agricultural farms; if his Department has considered the report when speaking to the Department of Housing, Local Government and Heritage about the upcoming solar planning guidelines; and if he will make a statement on the matter. [52304/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-09/pq_46",
+      "date": "2026-07-09",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-07-09"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Paula Butterly",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paula-Butterly.D.2024-11-29",
+        "memberCode": "Paula-Butterly.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Agriculture",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Tillage Sector",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-09/writtens/dbsect_82",
+        "debateSectionId": "dbsect_82",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-09/writtens/mul@/dbsect_82.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 47,
+      "showAs": " 47. Deputy Paula Butterly asked the Minister for Agriculture, Food and the Marine to provide an update on progress towards the Food Vision 2030 target of increasing the national tillage area to 400,000 hectares by 2030; if Ireland is on track to reach its targets; and if he will make a statement on the matter. [49544/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-09/pq_47",
+      "date": "2026-07-09",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-07-09"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "James O'Connor",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/James-O'Connor.D.2020-02-08",
+        "memberCode": "James-O'Connor.D.2020-02-08"
+      },
+      "to": {
+        "showAs": "Agriculture",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Agriculture Schemes",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-09/writtens/dbsect_83",
+        "debateSectionId": "dbsect_83",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-09/writtens/mul@/dbsect_83.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 48,
+      "showAs": " 48. Deputy James O'Connor asked the Minister for Agriculture, Food and the Marine the number of applications received for the fuel income support scheme; if his Department will allow further entries to the scheme; the timeframe for when the applicants will be paid from the scheme; and if he will make a statement on the matter. [52303/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-09/pq_48",
+      "date": "2026-07-09",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-07-09"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Aindrias Moynihan",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Aindrias-Moynihan.D.2016-10-03",
+        "memberCode": "Aindrias-Moynihan.D.2016-10-03"
+      },
+      "to": {
+        "showAs": "Agriculture",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Renewable Energy Generation",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-09/writtens/dbsect_84",
+        "debateSectionId": "dbsect_84",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-09/writtens/mul@/dbsect_84.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 49,
+      "showAs": " 49. Deputy Aindrias Moynihan asked the Minister for Agriculture, Food and the Marine for a full review of the operation of the ranking and selection process under the solar capital investment scheme within TAMS 3 to ensure they align with Ireland’s climate and energy targets; the steps he will take to improve access to funding for on-farm solar investments; and if he will make a statement on the matter. [52091/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-09/pq_49",
+      "date": "2026-07-09",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-07-09"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Jennifer Whitmore",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Jennifer-Whitmore.D.2020-02-08",
+        "memberCode": "Jennifer-Whitmore.D.2020-02-08"
+      },
+      "to": {
+        "showAs": "Agriculture",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Animal Breeding",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-09/writtens/dbsect_85",
+        "debateSectionId": "dbsect_85",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-09/writtens/mul@/dbsect_85.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 50,
+      "showAs": " 50. Deputy Jennifer Whitmore asked the Minister for Agriculture, Food and the Marine the reason he is not introducing a cap on the number of breeding dogs a dog breeding establishment can have on site in his review of the Dog Welfare (Amendment) Bill 2025; and if he will make a statement on the matter. [52306/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-09/pq_50",
+      "date": "2026-07-09",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-07-09"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Cathal Crowe",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Cathal-Crowe.D.2020-02-08",
+        "memberCode": "Cathal-Crowe.D.2020-02-08"
+      },
+      "to": {
+        "showAs": "Agriculture",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Environmental Policy",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-09/writtens/dbsect_86",
+        "debateSectionId": "dbsect_86",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-09/writtens/mul@/dbsect_86.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 51,
+      "showAs": " 51. Deputy Cathal Crowe asked the Minister for Agriculture, Food and the Marine if he will outline the circumstances under which farmers can burn vegetation; and if he will make a statement on the matter. [51671/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-09/pq_51",
+      "date": "2026-07-09",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-07-09"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Erin McGreehan",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Erin-McGreehan.S.2020-06-29",
+        "memberCode": "Erin-McGreehan.S.2020-06-29"
+      },
+      "to": {
+        "showAs": "Agriculture",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Agriculture Schemes",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-09/writtens/dbsect_87",
+        "debateSectionId": "dbsect_87",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-09/writtens/mul@/dbsect_87.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 52,
+      "showAs": " 52. Deputy Erin McGreehan asked the Minister for Agriculture, Food and the Marine the funding available for wool washing facilities. [51853/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-09/pq_52",
+      "date": "2026-07-09",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-07-09"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Ruth Coppinger",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruth-Coppinger.D.2014-05-23",
+        "memberCode": "Ruth-Coppinger.D.2014-05-23"
+      },
+      "to": {
+        "showAs": "Agriculture",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Hare Coursing",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-09/writtens/dbsect_88",
+        "debateSectionId": "dbsect_88",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-09/writtens/mul@/dbsect_88.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 53,
+      "showAs": " 53. Deputy Ruth Coppinger asked the Minister for Agriculture, Food and the Marine the amount of State funding provided to hare coursing; if his Department has estimates on the revenue generated by hare coursing; and if he will make a statement on the matter. [52312/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-09/pq_53",
+      "date": "2026-07-09",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-07-09"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Matt Carthy",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Matt-Carthy.D.2020-02-08",
+        "memberCode": "Matt-Carthy.D.2020-02-08"
+      },
+      "to": {
+        "showAs": "Agriculture",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Trade Agreements",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-09/writtens/dbsect_89",
+        "debateSectionId": "dbsect_89",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-09/writtens/mul@/dbsect_89.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 54,
+      "showAs": " 54. Deputy Matt Carthy asked the Minister for Agriculture, Food and the Marine his response to the provisional application of the Mercosur trade agreement, and its impact upon Irish farmers. [52280/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-09/pq_54",
+      "date": "2026-07-09",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-07-09"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Edward Timmins",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Edward-Timmins.D.2024-11-29",
+        "memberCode": "Edward-Timmins.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Agriculture",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Animal Diseases",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-09/writtens/dbsect_91",
+        "debateSectionId": "dbsect_91",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-09/writtens/mul@/dbsect_91.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 55,
+      "showAs": " 55. Deputy Edward Timmins asked the Minister for Agriculture, Food and the Marine in view of the Comptroller and Auditor General’s 2025 review of the bovine TB eradication programme, which identified wildlife as a source of infection and noted evidence implicating wild deer in Wicklow, his views that there is a material implementation gap in the 2025 Bovine TB Action Plan in respect of deer in County Wicklow, given that badgers are subject to defined test, vaccinate or remove measures while deer are not subject to the same criteria (details supplied); if he will publish a Wicklow-specific deer/TB intervention plan; and if he will make a statement on the matter. [52301/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-09/pq_55",
+      "date": "2026-07-09",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-07-09"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Pádraig O'Sullivan",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Pádraig-O'Sullivan.D.2019-11-29",
+        "memberCode": "Pádraig-O'Sullivan.D.2019-11-29"
+      },
+      "to": {
+        "showAs": "Agriculture",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Agriculture Supports",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-09/writtens/dbsect_92",
+        "debateSectionId": "dbsect_92",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-09/writtens/mul@/dbsect_92.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 56,
+      "showAs": " 56. Deputy Pádraig O'Sullivan asked the Minister for Agriculture, Food and the Marine to outline his action plan to support generational renewal and farm succession, and reduce the age profile of Irish farmers; the efforts being made to address difficulties in transferring farms, high land prices, and the financial barriers for young farmers; and if he will make a statement on the matter. [52037/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-09/pq_56",
+      "date": "2026-07-09",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-07-09"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Shónagh Ní Raghallaigh",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Shónagh-Ní-Raghallaigh.D.2024-11-29",
+        "memberCode": "Shónagh-Ní-Raghallaigh.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Agriculture",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Animal Breeding",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-09/writtens/dbsect_85",
+        "debateSectionId": "dbsect_85",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-09/writtens/mul@/dbsect_85.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 57,
+      "showAs": " 57. Deputy Shónagh Ní Raghallaigh asked the Minister for Agriculture, Food and the Marine if he is considering a cap on the number of breeding females a dog breeder can keep to limit puppy farming and to ensure legislative alignment with the North; and if he will make a statement on the matter. [52288/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-09/pq_57",
+      "date": "2026-07-09",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-07-09"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Louis O'Hara",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Louis-O'Hara.D.2024-11-29",
+        "memberCode": "Louis-O'Hara.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Agriculture",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Agriculture Supports",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-09/writtens/dbsect_93",
+        "debateSectionId": "dbsect_93",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-09/writtens/mul@/dbsect_93.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 58,
+      "showAs": " 58. Deputy Louis O'Hara asked the Minister for Agriculture, Food and the Marine to provide an update on the processing of applications under the fuel income support scheme; and if he will make a statement on the matter. [50991/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-09/pq_58",
+      "date": "2026-07-09",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-07-09"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Brendan Smith",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Brendan-Smith.D.1992-12-14",
+        "memberCode": "Brendan-Smith.D.1992-12-14"
+      },
+      "to": {
+        "showAs": "Agriculture",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Agriculture Supports",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-09/writtens/dbsect_94",
+        "debateSectionId": "dbsect_94",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-09/writtens/mul@/dbsect_94.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 59,
+      "showAs": " 59. Deputy Brendan Smith asked the Minister for Agriculture, Food and the Marine the outcome of his most recent discussions at the Agriculture Council and with members of the commission in relation to the need to ensure that adequate funding is provided for CAP post-2027; and if he will make a statement on the matter. [52188/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-09/pq_59",
+      "date": "2026-07-09",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-07-09"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Seán Kyne",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Seán-Kyne.D.2011-03-09",
+        "memberCode": "Seán-Kyne.D.2011-03-09"
+      },
+      "to": {
+        "showAs": "Agriculture",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Research Funding",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-09/writtens/dbsect_95",
+        "debateSectionId": "dbsect_95",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-09/writtens/mul@/dbsect_95.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 60,
+      "showAs": " 60. Deputy Seán Kyne asked the Minister for Agriculture, Food and the Marine whether he has engaged with Teagasc on the provision/acquisition of a hill sheep research farm in the West; his views on the benefits of such research to farmers and stakeholders in terms of biodiversity and carbon storage; and if he will make a statement on the matter. [51124/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-09/pq_60",
+      "date": "2026-07-09",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-07-09"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Cathy Bennett",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Cathy-Bennett.D.2024-11-29",
+        "memberCode": "Cathy-Bennett.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Agriculture",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Departmental Funding",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-09/writtens/dbsect_96",
+        "debateSectionId": "dbsect_96",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-09/writtens/mul@/dbsect_96.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 61,
+      "showAs": " 61. Deputy Cathy Bennett asked the Minister for Agriculture, Food and the Marine the TB incidence rate in 2019 and 2025; the amount spent by the State in support of its eradication; and the related new obligations which have been introduced since 2019. [52299/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-09/pq_61",
+      "date": "2026-07-09",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-07-09"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Michael Murphy",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Michael-Murphy.D.2024-11-29",
+        "memberCode": "Michael-Murphy.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Agriculture",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Animal Welfare",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-09/writtens/dbsect_97",
+        "debateSectionId": "dbsect_97",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-09/writtens/mul@/dbsect_97.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 62,
+      "showAs": " 62. Deputy Michael Murphy asked the Minister for Agriculture, Food and the Marine if he is satisfied that the enforcement powers available under the Animal Health and Welfare Act 2013 are sufficient to protect horses being used on public roads; whether his Department has conducted any review of horse welfare risks associated with horse-drawn vehicles; and if he will make a statement on the matter. [43413/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-09/pq_62",
+      "date": "2026-07-09",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-07-09"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Joe Cooney",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Joe-Cooney.D.2024-11-29",
+        "memberCode": "Joe-Cooney.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Agriculture",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Budget 2027",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-09/writtens/dbsect_98",
+        "debateSectionId": "dbsect_98",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-09/writtens/mul@/dbsect_98.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 63,
+      "showAs": " 63. Deputy Joe Cooney asked the Minister for Agriculture, Food and the Marine if he will outline whether a farm income volatility taxation measure will be included in his Departments priorities for Budget 2027; to outline his engagements with the Minister for Finance and farm organisations on such a measure; and if he will make a statement on the matter. [52214/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-09/pq_63",
+      "date": "2026-07-09",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-07-09"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Peter Roche",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Peter-Roche.D.2024-11-29",
+        "memberCode": "Peter-Roche.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Agriculture",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "EU Funding",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-09/writtens/dbsect_99",
+        "debateSectionId": "dbsect_99",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-09/writtens/mul@/dbsect_99.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 64,
+      "showAs": " 64. Deputy Peter Roche asked the Minister for Agriculture, Food and the Marine for an update on programmes to highlight and promote female farmers and the vital role they play in the industry; to provide an update on EU funding drawdown for female farmers; and if he will make a statement on the matter. [51549/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-09/pq_64",
+      "date": "2026-07-09",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-07-09"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Tony McCormack",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tony-McCormack.D.2024-11-29",
+        "memberCode": "Tony-McCormack.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Agriculture",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Food Safety",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-09/writtens/dbsect_100",
+        "debateSectionId": "dbsect_100",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-09/writtens/mul@/dbsect_100.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 65,
+      "showAs": " 65. Deputy Tony McCormack asked the Minister for Agriculture, Food and the Marine the steps being taken to reduce unnecessary administrative burdens and simplify regulatory compliance for farmers and agri-food businesses while maintaining Ireland's high environmental and food safety standards; and if he will make a statement on the matter. [52235/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-09/pq_65",
+      "date": "2026-07-09",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-07-09"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Michael Murphy",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Michael-Murphy.D.2024-11-29",
+        "memberCode": "Michael-Murphy.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Agriculture",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Animal Welfare",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-09/writtens/dbsect_97",
+        "debateSectionId": "dbsect_97",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-09/writtens/mul@/dbsect_97.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 66,
+      "showAs": " 66. Deputy Michael Murphy asked the Minister for Agriculture, Food and the Marine if he has engaged with the Minister for Transport and the Minister for Justice; Home Affairs and Migration regarding the operation of the Control of Horses Act 1996 as it relates to horses being used on public roads; his views on whether the current legislative framework provides adequate powers to safeguard animal welfare and public safety; and if he will make a statement on the matter. [43414/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-09/pq_66",
+      "date": "2026-07-09",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-07-09"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Ruairí Ó Murchú",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruairí-Ó-Murchú.D.2020-02-08",
+        "memberCode": "Ruairí-Ó-Murchú.D.2020-02-08"
+      },
+      "to": {
+        "showAs": "Agriculture",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Farm Safety",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-09/writtens/dbsect_101",
+        "debateSectionId": "dbsect_101",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-09/writtens/mul@/dbsect_101.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 67,
+      "showAs": " 67. Deputy Ruairí Ó Murchú asked the Minister for Agriculture, Food and the Marine if the accelerated capital allowance for farm safety equipment, consanguinity relief (land transfers) and 100% stock relief for young farmers and registered farm partnerships will be extended; and if he will make a statement on the matter. [52193/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-09/pq_67",
+      "date": "2026-07-09",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-07-09"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Ruth Coppinger",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruth-Coppinger.D.2014-05-23",
+        "memberCode": "Ruth-Coppinger.D.2014-05-23"
+      },
+      "to": {
+        "showAs": "Agriculture",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Departmental Funding",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-09/writtens/dbsect_102",
+        "debateSectionId": "dbsect_102",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-09/writtens/mul@/dbsect_102.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 68,
+      "showAs": " 68. Deputy Ruth Coppinger asked the Minister for Agriculture, Food and the Marine if he will consider providing more funding to farmers to allow an expansion of rewilding projects; and if he will make a statement on the matter. [52313/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-09/pq_68",
+      "date": "2026-07-09",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-07-09"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "William Aird",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/William-Aird.D.2024-11-29",
+        "memberCode": "William-Aird.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Agriculture",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Tillage Sector",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-09/writtens/dbsect_82",
+        "debateSectionId": "dbsect_82",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-09/writtens/mul@/dbsect_82.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 69,
+      "showAs": " 69. Deputy William Aird asked the Minister for Agriculture, Food and the Marine the progress made in implementing the twenty-eight recommendations of the Food Vision Tillage Group Report; the actions completed to date; the timeline for implementing the remaining recommendations to support the expansion of the tillage sector towards the Climate Action Plan target of 400,000 hectares by 2030; and if he will make a statement on the matter. [52201/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-09/pq_69",
+      "date": "2026-07-09",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-07-09"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Matt Carthy",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Matt-Carthy.D.2020-02-08",
+        "memberCode": "Matt-Carthy.D.2020-02-08"
+      },
+      "to": {
+        "showAs": "Agriculture",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "European Union",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-09/writtens/dbsect_103",
+        "debateSectionId": "dbsect_103",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-09/writtens/mul@/dbsect_103.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 70,
+      "showAs": " 70. Deputy Matt Carthy asked the Minister for Agriculture, Food and the Marine his position on the deployment of the European Crisis Reserve. [52279/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-09/pq_70",
+      "date": "2026-07-09",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-07-09"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Barry Ward",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Barry-Ward.S.2020-03-30",
+        "memberCode": "Barry-Ward.S.2020-03-30"
+      },
+      "to": {
+        "showAs": "Agriculture",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Export Controls",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-09/writtens/dbsect_104",
+        "debateSectionId": "dbsect_104",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-09/writtens/mul@/dbsect_104.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 71,
+      "showAs": " 71. Deputy Barry Ward asked the Minister for Agriculture, Food and the Marine the steps his Department has taken in relation to engagement with Chinese authorities regarding access for Irish beef exports, following restrictions linked to bluetongue concerns; and if he will make a statement on the matter. [51541/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-09/pq_71",
+      "date": "2026-07-09",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-07-09"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Edward Timmins",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Edward-Timmins.D.2024-11-29",
+        "memberCode": "Edward-Timmins.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Agriculture",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Animal Diseases",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-09/writtens/dbsect_91",
+        "debateSectionId": "dbsect_91",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-09/writtens/mul@/dbsect_91.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 72,
+      "showAs": " 72. Deputy Edward Timmins asked the Minister for Agriculture, Food and the Marine if he will confirm that in view of the published evidence linking the growing Sika deer population in County Wicklow, with the persistence of bovine tuberculosis in County Wicklow and the well-established link between deer, badgers and cattle in TB epidemiology in County Wicklow he will establish and appropriately resource a dedicated Wicklow Deer and TB Action Group with responsibility for coordinating all relevant State agencies, producing a county-specific management plan, setting measurable deer population and disease reduction targets, and reporting publicly on progress (details supplied); and if he will make a statement on the matter. [52302/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-09/pq_72",
+      "date": "2026-07-09",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-07-09"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Natasha Newsome Drennan",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Natasha-Newsome-Drennan.D.2024-11-29",
+        "memberCode": "Natasha-Newsome-Drennan.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Agriculture",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Beef Sector",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-09/writtens/dbsect_105",
+        "debateSectionId": "dbsect_105",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-09/writtens/mul@/dbsect_105.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 73,
+      "showAs": " 73. Deputy Natasha Newsome Drennan asked the Minister for Agriculture, Food and the Marine if there has been increased physical checks on Brazilian beef into Ireland following the EU Commissions plans to remove Brazilian beef from the EU safe food list; and if he will make a statement on the matter. [52217/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-09/pq_73",
+      "date": "2026-07-09",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-07-09"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Peter 'Chap' Cleere",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Peter-'Chap'-Cleere.D.2024-11-29",
+        "memberCode": "Peter-'Chap'-Cleere.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Agriculture",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Agriculture Industry",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-09/writtens/dbsect_106",
+        "debateSectionId": "dbsect_106",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-09/writtens/mul@/dbsect_106.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 74,
+      "showAs": " 74. Deputy Peter 'Chap' Cleere asked the Minister for Agriculture, Food and the Marine if he has had discussions with his EU counterparts on the importance of supporting generational renewal in the next Common Agricultural Policy (CAP); and if he will make a statement on the matter. [51672/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-09/pq_74",
+      "date": "2026-07-09",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-07-09"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Peter Roche",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Peter-Roche.D.2024-11-29",
+        "memberCode": "Peter-Roche.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Agriculture",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Agriculture Schemes",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-09/writtens/dbsect_108",
+        "debateSectionId": "dbsect_108",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-09/writtens/mul@/dbsect_108.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 75,
+      "showAs": " 75. Deputy Peter Roche asked the Minister for Agriculture, Food and the Marine for an update on his Department's support to young farmers or to promote farming as an industry to increase the number of young farmers in the country; and if he will make a statement on the matter. [51550/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-09/pq_75",
+      "date": "2026-07-09",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-07-09"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Brian Brennan",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Brian-Brennan.D.2024-11-29",
+        "memberCode": "Brian-Brennan.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Agriculture",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Agriculture Supports",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-09/writtens/dbsect_109",
+        "debateSectionId": "dbsect_109",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-09/writtens/mul@/dbsect_109.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 76,
+      "showAs": " 76. Deputy Brian Brennan asked the Minister for Agriculture, Food and the Marine the action he is taking with the straw incorporation measure to ensure that all applicants will receive their full allocation; and if he will make a statement on the matter. [52232/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-09/pq_76",
+      "date": "2026-07-09",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-07-09"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "John McGuinness",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/John-McGuinness.D.1997-06-26",
+        "memberCode": "John-McGuinness.D.1997-06-26"
+      },
+      "to": {
+        "showAs": "Agriculture",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Departmental Investigations",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-09/writtens/dbsect_110",
+        "debateSectionId": "dbsect_110",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-09/writtens/mul@/dbsect_110.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 77,
+      "showAs": " 77. Deputy John McGuinness asked the Minister for Agriculture, Food and the Marine the current status of an investigation being undertaken by his Department (details supplied). [52273/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-09/pq_77",
+      "date": "2026-07-09",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-07-09"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Barry Heneghan",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Barry-Heneghan.D.2024-11-29",
+        "memberCode": "Barry-Heneghan.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Agriculture",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Agriculture Industry",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-09/writtens/dbsect_111",
+        "debateSectionId": "dbsect_111",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-09/writtens/mul@/dbsect_111.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 78,
+      "showAs": " 78. Deputy Barry Heneghan asked the Minister for Agriculture, Food and the Marine if his Department has undertaken, or plans to undertake, any assessment of the potential role of vertical farming and aquaponic food production systems in supporting sustainable agriculture and food security; whether grant supports or pilot programmes are under consideration, including for urban areas; and if he will make a statement on the matter. [52293/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-09/pq_78",
+      "date": "2026-07-09",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-07-09"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Ruth Coppinger",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruth-Coppinger.D.2014-05-23",
+        "memberCode": "Ruth-Coppinger.D.2014-05-23"
+      },
+      "to": {
+        "showAs": "Agriculture",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Animal Welfare",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-09/writtens/dbsect_112",
+        "debateSectionId": "dbsect_112",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-09/writtens/mul@/dbsect_112.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 79,
+      "showAs": " 79. Deputy Ruth Coppinger asked the Minister for Agriculture, Food and the Marine if he will consider a ban on fox hunting with dogs in light of a Bill to ban hunting mammals with dogs passing second stage in the Northern Ireland Assembly; and if he will make a statement on the matter. [52310/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-09/pq_79",
+      "date": "2026-07-09",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-07-09"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Naoise Ó Cearúil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Naoise-Ó-Cearúil.D.2024-11-29",
+        "memberCode": "Naoise-Ó-Cearúil.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Agriculture",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Agriculture Supports",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-09/writtens/dbsect_113",
+        "debateSectionId": "dbsect_113",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-09/writtens/mul@/dbsect_113.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 80,
+      "showAs": " 80. Deputy Naoise Ó Cearúil asked the Minister for Agriculture, Food and the Marine the targeted supports or guidance being provided to farmers in catchment areas associated with repeated pesticide exceedances in drinking water supplies; and if he will make a statement on the matter. [52199/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-09/pq_80",
+      "date": "2026-07-09",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-07-09"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Brian Brennan",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Brian-Brennan.D.2024-11-29",
+        "memberCode": "Brian-Brennan.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Agriculture",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Fuel Poverty",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-09/writtens/dbsect_114",
+        "debateSectionId": "dbsect_114",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-09/writtens/mul@/dbsect_114.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 81,
+      "showAs": " 81. Deputy Brian Brennan asked the Minister for Agriculture, Food and the Marine whether contingency measures are in place to ensure swift action for farmers in the event of a further escalation of the fuel crisis; and if he will make a statement on the matter. [52228/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-09/pq_81",
+      "date": "2026-07-09",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-07-09"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Brian Stanley",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Brian-Stanley.D.2011-03-09",
+        "memberCode": "Brian-Stanley.D.2011-03-09"
+      },
+      "to": {
+        "showAs": "Agriculture",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Agriculture Supports",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-09/writtens/dbsect_94",
+        "debateSectionId": "dbsect_94",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-09/writtens/mul@/dbsect_94.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 82,
+      "showAs": " 82. Deputy Brian Stanley asked the Minister for Agriculture, Food and the Marine if he and his senior officials are engaging with counterparts from other EU States, that have a large agri-food sector, to have a common approach to protecting and enhancing the agricultural budget in the forthcoming CAP negotiations; and if he will make a statement on the matter. [52039/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-09/pq_82",
+      "date": "2026-07-09",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-07-09"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Jennifer Whitmore",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Jennifer-Whitmore.D.2020-02-08",
+        "memberCode": "Jennifer-Whitmore.D.2020-02-08"
+      },
+      "to": {
+        "showAs": "Agriculture",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Control of Dogs",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-09/writtens/dbsect_115",
+        "debateSectionId": "dbsect_115",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-09/writtens/mul@/dbsect_115.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 83,
+      "showAs": " 83. Deputy Jennifer Whitmore asked the Minister for Agriculture, Food and the Marine when he will publish the Dog Control Stakeholder Group Report; and if he will make a statement on the matter. [52305/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-09/pq_83",
+      "date": "2026-07-09",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-07-09"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Grace Boland",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Grace-Boland.D.2024-11-29",
+        "memberCode": "Grace-Boland.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Agriculture",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Fishing Industry",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-09/writtens/dbsect_61",
+        "debateSectionId": "dbsect_61",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-09/writtens/mul@/dbsect_61.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 84,
+      "showAs": " 84. Deputy Grace Boland asked the Minister for Agriculture, Food and the Marine the steps he is taking to improve the efficiency of the foreshore licence application process; his plans to increase staffing or technical resources within his Department to address existing delays; and if he will make a statement on the matter. [51497/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-09/pq_84",
+      "date": "2026-07-09",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-07-09"
+  },
+  {
+    "question": {
+      "by": {
         "showAs": "David Cullinane",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/David-Cullinane.S.2011-05-25",
         "memberCode": "David-Cullinane.S.2011-05-25"
@@ -987,6 +3827,46 @@
       "questionNumber": 96,
       "showAs": " 96. Deputy Shane Moynihan asked the Minister for Health the steps her Department is taking to address delays in processing reimbursement applications submitted under the cross-border directive; and if she will make a statement on the matter. [52045/26] ",
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-09/pq_96",
+      "date": "2026-07-09",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-07-09"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Cormac Devlin",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Cormac-Devlin.D.2020-02-08",
+        "memberCode": "Cormac-Devlin.D.2020-02-08"
+      },
+      "to": {
+        "showAs": "Health",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "General Practitioner Services",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-09/writtens/dbsect_116",
+        "debateSectionId": "dbsect_116",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-09/writtens/mul@/dbsect_116.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 97,
+      "showAs": " 97. Deputy Cormac Devlin asked the Minister for Health when the strategic review of general practice will be published; and if she will make a statement on the matter. [48211/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-09/pq_97",
       "date": "2026-07-09",
       "house": {
         "showAs": "34th Dáil",

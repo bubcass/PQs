@@ -1,0 +1,82 @@
+[
+  {
+    "question": {
+      "by": {
+        "showAs": "Conor D McGuinness",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Conor-D-McGuinness.D.2024-11-29",
+        "memberCode": "Conor-D-McGuinness.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Rural",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Public Transport",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-14/debate/dbsect_20",
+        "debateSectionId": "dbsect_20",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-14/debate/mul@/dbsect_20.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 1,
+      "showAs": " 1. Deputy Conor D. McGuinness asked the Minister for Rural and Community Development and the Gaeltacht as the Minister with responsibility for rural proofing and Our Rural Future, the engagement his Department has with State agencies and semi-State bodies to ensure that transport services adequately meet the needs of rural communities. [53140/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-14/pq_1",
+      "date": "2026-07-14",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-07-14"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Paul Murphy",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Murphy.D.2014-10-10",
+        "memberCode": "Paul-Murphy.D.2014-10-10"
+      },
+      "to": {
+        "showAs": "Rural",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Community Development Projects",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-14/debate/dbsect_21",
+        "debateSectionId": "dbsect_21",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-07-14/debate/mul@/dbsect_21.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 2,
+      "showAs": " 2. Deputy Paul Murphy asked the Minister for Rural and Community Development and the Gaeltacht if he will approve capital funding for a community centre in Citywest; and if he will make a statement on the matter. [53391/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-07-14/pq_2",
+      "date": "2026-07-14",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-07-14"
+  }
+]

@@ -1,1 +1,2922 @@
-[]
+[
+  {
+    "question": {
+      "by": {
+        "showAs": "Carol Nolan",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Carol-Nolan.D.2016-10-03",
+        "memberCode": "Carol-Nolan.D.2016-10-03"
+      },
+      "to": {
+        "showAs": "Foreign",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Departmental Bodies",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-07/writtens/dbsect_3",
+        "debateSectionId": "dbsect_3",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-07/writtens/mul@/dbsect_3.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 17,
+      "showAs": " 17. Deputy Carol Nolan asked the Minister for Foreign Affairs and Trade the salary of the chief executive in each organisation and agency funded by her Department; and if she will make a statement on the matter. [59555/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-09-07/pq_17",
+      "date": "2026-09-07",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-09-07"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Barry Ward",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Barry-Ward.S.2020-03-30",
+        "memberCode": "Barry-Ward.S.2020-03-30"
+      },
+      "to": {
+        "showAs": "Foreign",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Diplomatic Representation",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-07/writtens/dbsect_4",
+        "debateSectionId": "dbsect_4",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-07/writtens/mul@/dbsect_4.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 18,
+      "showAs": " 18. Deputy Barry Ward asked the Minister for Foreign Affairs and Trade the position regarding the status of the Irish Embassy in Islamabad; if it is open and operational; and if she will make a statement on the matter. [59698/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-09-07/pq_18",
+      "date": "2026-09-07",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-09-07"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Barry Ward",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Barry-Ward.S.2020-03-30",
+        "memberCode": "Barry-Ward.S.2020-03-30"
+      },
+      "to": {
+        "showAs": "Foreign",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Diplomatic Representation",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-07/writtens/dbsect_5",
+        "debateSectionId": "dbsect_5",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-07/writtens/mul@/dbsect_5.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 19,
+      "showAs": " 19. Deputy Barry Ward asked the Minister for Foreign Affairs and Trade the position regarding the status of the Irish Embassy in Tehran; if it is open and operational; and if she will make a statement on the matter. [59700/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-09-07/pq_19",
+      "date": "2026-09-07",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-09-07"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Barry Ward",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Barry-Ward.S.2020-03-30",
+        "memberCode": "Barry-Ward.S.2020-03-30"
+      },
+      "to": {
+        "showAs": "Foreign",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Passport Services",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-07/writtens/dbsect_6",
+        "debateSectionId": "dbsect_6",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-07/writtens/mul@/dbsect_6.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 20,
+      "showAs": " 20. Deputy Barry Ward asked the Minister for Foreign Affairs and Trade the position regarding the data contained within the biometric element of an Irish passport; and if she will make a statement on the matter. [59703/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-09-07/pq_20",
+      "date": "2026-09-07",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-09-07"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Ken O'Flynn",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ken-O'Flynn.D.2024-11-29",
+        "memberCode": "Ken-O'Flynn.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Foreign",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "EU Presidency",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-07/writtens/dbsect_8",
+        "debateSectionId": "dbsect_8",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-07/writtens/mul@/dbsect_8.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 21,
+      "showAs": " 21. Deputy Ken O'Flynn asked the Minister for Foreign Affairs and Trade further to Parliamentary Question No. 60 of 14 July 2026, which confirmed a meeting of EU Housing Ministers in Dublin in November 2026, to provide details of the Department that will lead responsibility for that meeting; the estimated cost of the meeting; the budget line from which it will be met; and whether a value-for-money assessment has been carried out or is planned. [59757/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-09-07/pq_21",
+      "date": "2026-09-07",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-09-07"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Conor Sheehan",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Conor-Sheehan.D.2024-11-29",
+        "memberCode": "Conor-Sheehan.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Foreign",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Overseas Study Placements",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-07/writtens/dbsect_9",
+        "debateSectionId": "dbsect_9",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-07/writtens/mul@/dbsect_9.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 22,
+      "showAs": " 22. Deputy Conor Sheehan asked the Minister for Foreign Affairs and Trade if she has raised the case of four Gaza students accepted into the Irish University Sanctuary Programme and who are due to study at the University of Limerick, with Israeli authorities, following their rejection at the Kerem Shalom crossing; the work her Department is taking to secure their transit through Jordan to Ireland; and if she will make a statement on matter. [59790/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-09-07/pq_22",
+      "date": "2026-09-07",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-09-07"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Ken O'Flynn",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ken-O'Flynn.D.2024-11-29",
+        "memberCode": "Ken-O'Flynn.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Foreign",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "EU Presidency",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-07/writtens/dbsect_10",
+        "debateSectionId": "dbsect_10",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-07/writtens/mul@/dbsect_10.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 23,
+      "showAs": " 23. Deputy Ken O'Flynn asked the Minister for Foreign Affairs and Trade the total amount spent to date on outdoor and out-of-home advertising, including bus shelter, billboard and street furniture advertising, as part of the public communications campaign for Ireland's Presidency of the Council of the European Union 2026; and if she will make a statement on the matter. [59812/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-09-07/pq_23",
+      "date": "2026-09-07",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-09-07"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Ken O'Flynn",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ken-O'Flynn.D.2024-11-29",
+        "memberCode": "Ken-O'Flynn.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Foreign",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "EU Presidency",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-07/writtens/dbsect_10",
+        "debateSectionId": "dbsect_10",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-07/writtens/mul@/dbsect_10.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 24,
+      "showAs": " 24. Deputy Ken O'Flynn asked the Minister for Foreign Affairs and Trade to provide a breakdown of expenditure to date on the public information and advertising campaign for Ireland's Presidency of the Council of the European Union 2026, by category, including outdoor advertising, digital and social media, print, broadcast, and design and production; and if she will make a statement on the matter. [59813/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-09-07/pq_24",
+      "date": "2026-09-07",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-09-07"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Ken O'Flynn",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ken-O'Flynn.D.2024-11-29",
+        "memberCode": "Ken-O'Flynn.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Foreign",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "EU Presidency",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-07/writtens/dbsect_10",
+        "debateSectionId": "dbsect_10",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-07/writtens/mul@/dbsect_10.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 25,
+      "showAs": " 25. Deputy Ken O'Flynn asked the Minister for Foreign Affairs and Trade the names of the companies or agencies contracted to deliver the advertising and communications campaign for Ireland's Presidency of the Council of the European Union 2026, the value of each contract, and whether each contract was awarded following a competitive public procurement process; and if she will make a statement on the matter. [59815/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-09-07/pq_25",
+      "date": "2026-09-07",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-09-07"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Barry Ward",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Barry-Ward.S.2020-03-30",
+        "memberCode": "Barry-Ward.S.2020-03-30"
+      },
+      "to": {
+        "showAs": "Foreign",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Passport Services",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-07/writtens/dbsect_11",
+        "debateSectionId": "dbsect_11",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-07/writtens/mul@/dbsect_11.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 26,
+      "showAs": " 26. Deputy Barry Ward asked the Minister for Foreign Affairs and Trade if her attention has been drawn to the concerns of a group (details supplied) in relation to the requirements for child passport renewals in the event that one parent is deceased; and if she will make a statement on the matter. [60188/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-09-07/pq_26",
+      "date": "2026-09-07",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-09-07"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Barry Ward",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Barry-Ward.S.2020-03-30",
+        "memberCode": "Barry-Ward.S.2020-03-30"
+      },
+      "to": {
+        "showAs": "Foreign",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Passport Services",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-07/writtens/dbsect_11",
+        "debateSectionId": "dbsect_11",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-07/writtens/mul@/dbsect_11.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 27,
+      "showAs": " 27. Deputy Barry Ward asked the Minister for Foreign Affairs and Trade if she will facilitate a meeting with a group (details supplied) in relation to the requirements for child passport renewals in the event that one parent is deceased; and if she will make a statement on the matter. [60194/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-09-07/pq_27",
+      "date": "2026-09-07",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-09-07"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Barry Ward",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Barry-Ward.S.2020-03-30",
+        "memberCode": "Barry-Ward.S.2020-03-30"
+      },
+      "to": {
+        "showAs": "Foreign",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Passport Services",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-07/writtens/dbsect_11",
+        "debateSectionId": "dbsect_11",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-07/writtens/mul@/dbsect_11.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 28,
+      "showAs": " 28. Deputy Barry Ward asked the Minister for Foreign Affairs and Trade the position regarding any review of the requirements for child passport renewals in the event that one parent is deceased (details supplied); and if she will make a statement on the matter. [60201/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-09-07/pq_28",
+      "date": "2026-09-07",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-09-07"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Barry Ward",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Barry-Ward.S.2020-03-30",
+        "memberCode": "Barry-Ward.S.2020-03-30"
+      },
+      "to": {
+        "showAs": "Foreign",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Passport Services",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-07/writtens/dbsect_11",
+        "debateSectionId": "dbsect_11",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-07/writtens/mul@/dbsect_11.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 29,
+      "showAs": " 29. Deputy Barry Ward asked the Minister for Foreign Affairs and Trade if she is aware of the additional obstacles in place for widowed parents in terms of the requirements for the renewal of child passports (details supplied); if legislative change would be required to relax these requirements; and if she will make a statement on the matter. [60204/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-09-07/pq_29",
+      "date": "2026-09-07",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-09-07"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Sorca Clarke",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Sorca-Clarke.D.2020-02-08",
+        "memberCode": "Sorca-Clarke.D.2020-02-08"
+      },
+      "to": {
+        "showAs": "Foreign",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Passport Services",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-07/writtens/dbsect_12",
+        "debateSectionId": "dbsect_12",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-07/writtens/mul@/dbsect_12.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 30,
+      "showAs": " 30. Deputy Sorca Clarke asked the Minister for Foreign Affairs and Trade her views on a matter (details supplied); and if she will make statement on the matter. [60561/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-09-07/pq_30",
+      "date": "2026-09-07",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-09-07"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Ged Nash",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Gerald-Nash.D.2011-03-09",
+        "memberCode": "Gerald-Nash.D.2011-03-09"
+      },
+      "to": {
+        "showAs": "Foreign",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Departmental Expenditure",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-07/writtens/dbsect_13",
+        "debateSectionId": "dbsect_13",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-07/writtens/mul@/dbsect_13.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 31,
+      "showAs": " 31. Deputy Ged Nash asked the Minister for Foreign Affairs and Trade to confirm both in percentage and in clear monetary terms the value of the 'levy' on her Department's expenditure, that was required to be communicated to the Department of Public Expenditure, Infrastructure, Public Service Reform and Digitalisation on or before the deadline of 17 July 2026 (details supplied); and if she will make a statement on the matter. [60664/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-09-07/pq_31",
+      "date": "2026-09-07",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-09-07"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Malcolm Byrne",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Malcolm-Byrne.D.2019-11-29",
+        "memberCode": "Malcolm-Byrne.D.2019-11-29"
+      },
+      "to": {
+        "showAs": "Foreign",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Foreign Policy",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-07/writtens/dbsect_14",
+        "debateSectionId": "dbsect_14",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-07/writtens/mul@/dbsect_14.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 32,
+      "showAs": " 32. Deputy Malcolm Byrne asked the Minister for Foreign Affairs and Trade if she has expressed concern about the new Ethnic Unity Law being introduced by the Chinese Communist Party that will seek to further undermine ethnic minorities such as the Uyghur and Tibetan peoples in China; and if she will make a statement on the matter.  [60701/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-09-07/pq_32",
+      "date": "2026-09-07",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-09-07"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Brian Brennan",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Brian-Brennan.D.2024-11-29",
+        "memberCode": "Brian-Brennan.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Foreign",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Departmental Advertising",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-07/writtens/dbsect_15",
+        "debateSectionId": "dbsect_15",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-07/writtens/mul@/dbsect_15.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 33,
+      "showAs": " 33. Deputy Brian Brennan asked the Minister for Foreign Affairs and Trade the total amount her Department and Departmental agencies have spent in 2025 and to date in 2026 on social media and web advertising; the proportion this is of her Department's advertising budget; and if she will make a statement on the matter. [60915/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-09-07/pq_33",
+      "date": "2026-09-07",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-09-07"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Matt Carthy",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Matt-Carthy.D.2020-02-08",
+        "memberCode": "Matt-Carthy.D.2020-02-08"
+      },
+      "to": {
+        "showAs": "Foreign",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Freedom of Information",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-07/writtens/dbsect_16",
+        "debateSectionId": "dbsect_16",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-07/writtens/mul@/dbsect_16.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 34,
+      "showAs": " 34. Deputy Matt Carthy asked the Minister for Foreign Affairs and Trade the number of FOI requests her Department, and each agency under her auspices, received in each year 2020 to 2025, and to date in 2026; the number that were refused on original decision; the number for which reviews were sought and the number of those reviews whereby the original decision was amended; the number for which subsequent appeals were submitted; the number of those appeals which resulted in an amendment to the original decision; and if she will make a statement on the matter. [61053/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-09-07/pq_34",
+      "date": "2026-09-07",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-09-07"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Ken O'Flynn",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ken-O'Flynn.D.2024-11-29",
+        "memberCode": "Ken-O'Flynn.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Foreign",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "EU Presidency",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-07/writtens/dbsect_10",
+        "debateSectionId": "dbsect_10",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-07/writtens/mul@/dbsect_10.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 35,
+      "showAs": " 35. Deputy Ken O'Flynn asked the Minister for Foreign Affairs and Trade the total budget allocated and the total amount spent to date, on all advertising, marketing and public awareness activity for Ireland's Presidency of the Council of the European Union 2026; and if she will make a statement on the matter. [59819/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-09-07/pq_35",
+      "date": "2026-09-07",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-09-07"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Barry Ward",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Barry-Ward.S.2020-03-30",
+        "memberCode": "Barry-Ward.S.2020-03-30"
+      },
+      "to": {
+        "showAs": "Foreign",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "EU Meetings",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-07/writtens/dbsect_17",
+        "debateSectionId": "dbsect_17",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-07/writtens/mul@/dbsect_17.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 36,
+      "showAs": " 36. Deputy Barry Ward asked the Minister for Foreign Affairs and Trade the position regarding the engagement she has had at an EU level in relation to the arrest warrant issued by the International Criminal Court against a person (details supplied); and if she will make a statement on the matter. [59917/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-09-07/pq_36",
+      "date": "2026-09-07",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-09-07"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Barry Ward",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Barry-Ward.S.2020-03-30",
+        "memberCode": "Barry-Ward.S.2020-03-30"
+      },
+      "to": {
+        "showAs": "Foreign",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "EU Meetings",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-07/writtens/dbsect_17",
+        "debateSectionId": "dbsect_17",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-07/writtens/mul@/dbsect_17.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 37,
+      "showAs": " 37. Deputy Barry Ward asked the Minister for Foreign Affairs and Trade the engagement she has had at an EU level in relation to the EU’s requirements to support international law related to the conditions of the arrest warrant issued by the International Criminal Court for a person (details supplied); and if she will make a statement on the matter. [59919/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-09-07/pq_37",
+      "date": "2026-09-07",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-09-07"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Ruth Coppinger",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruth-Coppinger.D.2014-05-23",
+        "memberCode": "Ruth-Coppinger.D.2014-05-23"
+      },
+      "to": {
+        "showAs": "Foreign",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Foreign Conflicts",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-07/writtens/dbsect_18",
+        "debateSectionId": "dbsect_18",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-07/writtens/mul@/dbsect_18.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 38,
+      "showAs": " 38. Deputy Ruth Coppinger asked the Minister for Foreign Affairs and Trade her current plans to highlight the attacks on Balochistan (details supplied) given concerns around alleged civilian casualties; and if she will make a statement on the matter.  [61211/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-09-07/pq_38",
+      "date": "2026-09-07",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-09-07"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Barry Ward",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Barry-Ward.S.2020-03-30",
+        "memberCode": "Barry-Ward.S.2020-03-30"
+      },
+      "to": {
+        "showAs": "Foreign",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Passport Services",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-07/writtens/dbsect_19",
+        "debateSectionId": "dbsect_19",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-07/writtens/mul@/dbsect_19.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 39,
+      "showAs": " 39. Deputy Barry Ward asked the Minister for Foreign Affairs and Trade if her attention has been drawn to a passport application for a person (details supplied); if she will expedite the application; and if she will make a statement on the matter. [60024/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-09-07/pq_39",
+      "date": "2026-09-07",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-09-07"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Malcolm Byrne",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Malcolm-Byrne.D.2019-11-29",
+        "memberCode": "Malcolm-Byrne.D.2019-11-29"
+      },
+      "to": {
+        "showAs": "Foreign",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Departmental Expenditure",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-07/writtens/dbsect_20",
+        "debateSectionId": "dbsect_20",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-07/writtens/mul@/dbsect_20.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 40,
+      "showAs": " 40. Deputy Malcolm Byrne asked the Minister for Foreign Affairs and Trade the total amounts paid by her Department to private insurance companies for insurance for each year from 2016 to 2025 and to date in 2026; and if she will make a statement on the matter. [61350/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-09-07/pq_40",
+      "date": "2026-09-07",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-09-07"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Sorca Clarke",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Sorca-Clarke.D.2020-02-08",
+        "memberCode": "Sorca-Clarke.D.2020-02-08"
+      },
+      "to": {
+        "showAs": "Foreign",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Departmental Expenditure",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-07/writtens/dbsect_22",
+        "debateSectionId": "dbsect_22",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-07/writtens/mul@/dbsect_22.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 41,
+      "showAs": " 41. Deputy Sorca Clarke asked the Minister for Foreign Affairs and Trade the expenditure incurred by her Government Department on external consultancy services in each of the past five years, broken down by consultancy firm, project and amount paid; and if she will make a statement on the matter. [61347/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-09-07/pq_41",
+      "date": "2026-09-07",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-09-07"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Pa Daly",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Pa-Daly.D.2020-02-08",
+        "memberCode": "Pa-Daly.D.2020-02-08"
+      },
+      "to": {
+        "showAs": "Foreign",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Disability Issues",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-07/writtens/dbsect_23",
+        "debateSectionId": "dbsect_23",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-07/writtens/mul@/dbsect_23.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 42,
+      "showAs": " 42. Deputy Pa Daly asked the Minister for Foreign Affairs and Trade to report on progress to meet their commitments under the national human rights strategy for disabled people; the measures taken since the strategy was introduced; the key metrics identified to measure progress; and if she will make a statement on the matter [60736/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-09-07/pq_42",
+      "date": "2026-09-07",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-09-07"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Ken O'Flynn",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ken-O'Flynn.D.2024-11-29",
+        "memberCode": "Ken-O'Flynn.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Foreign",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "International Agreements",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-07/writtens/dbsect_24",
+        "debateSectionId": "dbsect_24",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-07/writtens/mul@/dbsect_24.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 43,
+      "showAs": " 43. Deputy Ken O'Flynn asked the Minister for Foreign Affairs and Trade if she will list all international agreements and arrangements with the United Kingdom concerning defence, air defence, or airspace that have been laid before Dáil Éireann since 2002, together with the date on which each was laid; and if she will make a statement on the matter. [60262/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-09-07/pq_43",
+      "date": "2026-09-07",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-09-07"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "John Connolly",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/John-Connolly.D.2024-11-29",
+        "memberCode": "John-Connolly.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Foreign",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Passport Services",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-07/writtens/dbsect_25",
+        "debateSectionId": "dbsect_25",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-07/writtens/mul@/dbsect_25.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 44,
+      "showAs": " 44. Deputy John Connolly asked the Minister for Foreign Affairs and Trade further to Parliamentary Question No. 273 of 26 May 2026, which did not receive a \"follow up with a response with the additional data\", when a response will issue. [60315/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-09-07/pq_44",
+      "date": "2026-09-07",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-09-07"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Malcolm Byrne",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Malcolm-Byrne.D.2019-11-29",
+        "memberCode": "Malcolm-Byrne.D.2019-11-29"
+      },
+      "to": {
+        "showAs": "Foreign",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Sustainable Development Goals",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-07/writtens/dbsect_26",
+        "debateSectionId": "dbsect_26",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-07/writtens/mul@/dbsect_26.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 45,
+      "showAs": " 45. Deputy Malcolm Byrne asked the Minister for Foreign Affairs and Trade Ireland's role in combatting the spread of HIV and AIDS globally; and if she will make a statement on the matter.  [60346/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-09-07/pq_45",
+      "date": "2026-09-07",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-09-07"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Aidan Farrelly",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Aidan-Farrelly.D.2024-11-29",
+        "memberCode": "Aidan-Farrelly.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Foreign",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Passport Services",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-07/writtens/dbsect_27",
+        "debateSectionId": "dbsect_27",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-07/writtens/mul@/dbsect_27.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 46,
+      "showAs": " 46. Deputy Aidan Farrelly asked the Minister for Foreign Affairs and Trade the number of Irish passport renewals that were processed via Irish Embassies and-or consulates, by location in 2025 and to date in 2026, in tabular form. [61505/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-09-07/pq_46",
+      "date": "2026-09-07",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-09-07"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Aidan Farrelly",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Aidan-Farrelly.D.2024-11-29",
+        "memberCode": "Aidan-Farrelly.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Foreign",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Consular Services",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-07/writtens/dbsect_28",
+        "debateSectionId": "dbsect_28",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-07/writtens/mul@/dbsect_28.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 47,
+      "showAs": " 47. Deputy Aidan Farrelly asked the Minister for Foreign Affairs and Trade if there are plans to open a new Irish Consulate General Office in Milan in 2027. [61504/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-09-07/pq_47",
+      "date": "2026-09-07",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-09-07"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Sorca Clarke",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Sorca-Clarke.D.2020-02-08",
+        "memberCode": "Sorca-Clarke.D.2020-02-08"
+      },
+      "to": {
+        "showAs": "Foreign",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Diplomatic Representation",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-07/writtens/dbsect_29",
+        "debateSectionId": "dbsect_29",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-07/writtens/mul@/dbsect_29.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 48,
+      "showAs": " 48. Deputy Sorca Clarke asked the Minister for Foreign Affairs and Trade the number of WTE consular, visa and accounts officer posts filled at Irish Embassies in Ottawa, Ankara, Canberra and Abu Dhabi in each of the years of 2024, 2025 and to date in 2026, in tabular form. [61396/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-09-07/pq_48",
+      "date": "2026-09-07",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-09-07"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Barry Ward",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Barry-Ward.S.2020-03-30",
+        "memberCode": "Barry-Ward.S.2020-03-30"
+      },
+      "to": {
+        "showAs": "Foreign",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Passport Services",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-07/writtens/dbsect_30",
+        "debateSectionId": "dbsect_30",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-07/writtens/mul@/dbsect_30.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 49,
+      "showAs": " 49. Deputy Barry Ward asked the Minister for Foreign Affairs and Trade if her attention has been drawn to the delays in processing a first-time passport application (details supplied); the actions she will take to ensure that it is processed in a timely manner; and if she will make a statement on the matter. [61635/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-09-07/pq_49",
+      "date": "2026-09-07",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-09-07"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Eamon Scanlon",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Eamon-Scanlon.S.2002-09-12",
+        "memberCode": "Eamon-Scanlon.S.2002-09-12"
+      },
+      "to": {
+        "showAs": "Foreign",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "EU Regulations",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-07/writtens/dbsect_31",
+        "debateSectionId": "dbsect_31",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-07/writtens/mul@/dbsect_31.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 50,
+      "showAs": " 50. Deputy Eamon Scanlon asked the Minister for Foreign Affairs and Trade the estimated impact on Irish manufacturers of the EU Steel Overcapacity Regulation introduced on 1 July 2026; the number of engagements her Department has had with affected sectors; and if she will make a statement on the matter. [60786/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-09-07/pq_50",
+      "date": "2026-09-07",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-09-07"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Ruairí Ó Murchú",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruairí-Ó-Murchú.D.2020-02-08",
+        "memberCode": "Ruairí-Ó-Murchú.D.2020-02-08"
+      },
+      "to": {
+        "showAs": "Foreign",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Northern Ireland",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-07/writtens/dbsect_32",
+        "debateSectionId": "dbsect_32",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-07/writtens/mul@/dbsect_32.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 51,
+      "showAs": " 51. Deputy Ruairí Ó Murchú asked the Minister for Foreign Affairs and Trade for an update on the engagement with the British Government in relation to the legacy Bill; and the status of the interstate case. [59801/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-09-07/pq_51",
+      "date": "2026-09-07",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-09-07"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Ruairí Ó Murchú",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruairí-Ó-Murchú.D.2020-02-08",
+        "memberCode": "Ruairí-Ó-Murchú.D.2020-02-08"
+      },
+      "to": {
+        "showAs": "Foreign",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Departmental Meetings",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-07/writtens/dbsect_33",
+        "debateSectionId": "dbsect_33",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-07/writtens/mul@/dbsect_33.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 52,
+      "showAs": " 52. Deputy Ruairí Ó Murchú asked the Minister for Foreign Affairs and Trade for an update on the engagement with the British Government in relation to a case (details supplied). [59797/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-09-07/pq_52",
+      "date": "2026-09-07",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-09-07"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Ryan O'Meara",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ryan-O'Meara.D.2024-11-29",
+        "memberCode": "Ryan-O'Meara.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Foreign",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Passport Services",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-07/writtens/dbsect_34",
+        "debateSectionId": "dbsect_34",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-07/writtens/mul@/dbsect_34.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 53,
+      "showAs": " 53. Deputy Ryan O'Meara asked the Minister for Foreign Affairs and Trade the current processing times for passport renewals; and if she will make a statement on the matter. [61789/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-09-07/pq_53",
+      "date": "2026-09-07",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-09-07"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Cian O'Callaghan",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Cian-O'Callaghan.D.2020-02-08",
+        "memberCode": "Cian-O'Callaghan.D.2020-02-08"
+      },
+      "to": {
+        "showAs": "Foreign",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Human Rights",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-07/writtens/dbsect_35",
+        "debateSectionId": "dbsect_35",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-07/writtens/mul@/dbsect_35.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 54,
+      "showAs": " 54. Deputy Cian O'Callaghan asked the Minister for Foreign Affairs and Trade further to Parliamentary Question No. 36 of 28 July 2026, the number of occasions her Department, and Representative Office in Ramallah, has raised the status of a person (details supplied) with Israeli authorities; and if she will make a statement on the matter.  [61413/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-09-07/pq_54",
+      "date": "2026-09-07",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-09-07"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Sorca Clarke",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Sorca-Clarke.D.2020-02-08",
+        "memberCode": "Sorca-Clarke.D.2020-02-08"
+      },
+      "to": {
+        "showAs": "Foreign",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Departmental Bodies",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-07/writtens/dbsect_36",
+        "debateSectionId": "dbsect_36",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-07/writtens/mul@/dbsect_36.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 55,
+      "showAs": " 55. Deputy Sorca Clarke asked the Minister for Foreign Affairs and Trade if her Department and bodies under her aegis maintain a register of gifts, hospitality or other benefits received by public servants; the number of entries recorded on each such register since January 2025; and if she will make a statement on the matter. [61570/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-09-07/pq_55",
+      "date": "2026-09-07",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-09-07"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Michael Cahill",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Michael-Cahill.D.2024-11-29",
+        "memberCode": "Michael-Cahill.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Foreign",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "EU Presidency",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-07/writtens/dbsect_37",
+        "debateSectionId": "dbsect_37",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-07/writtens/mul@/dbsect_37.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 56,
+      "showAs": " 56. Deputy Michael Cahill asked the Minister for Foreign Affairs and Trade to host a World Peace Summit in Ireland during Ireland’s Presidency of the European Union. [59775/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-09-07/pq_56",
+      "date": "2026-09-07",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-09-07"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Sinéad Gibney",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Sinéad-Gibney.D.2024-11-29",
+        "memberCode": "Sinéad-Gibney.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Foreign",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Shannon Airport Facilities",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-07/writtens/dbsect_38",
+        "debateSectionId": "dbsect_38",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-07/writtens/mul@/dbsect_38.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 57,
+      "showAs": " 57. Deputy Sinéad Gibney asked the Minister for Foreign Affairs and Trade if she plans to cease the use of Shannon Airport by the US military; and if she will make a statement on the matter.  [61986/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-09-07/pq_57",
+      "date": "2026-09-07",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-09-07"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Ryan O'Meara",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ryan-O'Meara.D.2024-11-29",
+        "memberCode": "Ryan-O'Meara.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Foreign",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Passport Services",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-07/writtens/dbsect_39",
+        "debateSectionId": "dbsect_39",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-07/writtens/mul@/dbsect_39.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 58,
+      "showAs": " 58. Deputy Ryan O'Meara asked the Minister for Foreign Affairs and Trade the way in which an individual who’s Irish-born father was not registered on their UK birth certificate can verify their citizenship to apply for an Irish passport; and if she will make a statement on the matter. [62163/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-09-07/pq_58",
+      "date": "2026-09-07",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-09-07"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Malcolm Byrne",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Malcolm-Byrne.D.2019-11-29",
+        "memberCode": "Malcolm-Byrne.D.2019-11-29"
+      },
+      "to": {
+        "showAs": "Foreign",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Middle East",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-07/writtens/dbsect_40",
+        "debateSectionId": "dbsect_40",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-07/writtens/mul@/dbsect_40.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 59,
+      "showAs": " 59. Deputy Malcolm Byrne asked the Minister for Foreign Affairs and Trade if she or her officials have had any engagement with Gadi Eisenkot or other opposition leaders in Israel. [62383/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-09-07/pq_59",
+      "date": "2026-09-07",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-09-07"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Malcolm Byrne",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Malcolm-Byrne.D.2019-11-29",
+        "memberCode": "Malcolm-Byrne.D.2019-11-29"
+      },
+      "to": {
+        "showAs": "Foreign",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Middle East",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-07/writtens/dbsect_41",
+        "debateSectionId": "dbsect_41",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-07/writtens/mul@/dbsect_41.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 60,
+      "showAs": " 60. Deputy Malcolm Byrne asked the Minister for Foreign Affairs and Trade the vision that Ireland currently holds for attaining a long-term settlement between Israel and Palestine; the part Ireland will play in contributing to same; and if she will make a statement on the matter. [62384/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-09-07/pq_60",
+      "date": "2026-09-07",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-09-07"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Pa Daly",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Pa-Daly.D.2020-02-08",
+        "memberCode": "Pa-Daly.D.2020-02-08"
+      },
+      "to": {
+        "showAs": "Foreign",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Passport Services",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-07/writtens/dbsect_43",
+        "debateSectionId": "dbsect_43",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-07/writtens/mul@/dbsect_43.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 61,
+      "showAs": " 61. Deputy Pa Daly asked the Minister for Foreign Affairs and Trade whether a person who has legally changed their name by Deed Poll can have their Irish passport amended to reflect their new name; whether an approved Deed Poll is sufficient evidence of the change of name; the additional documentation, if any, that is required by the passport Service.  [62608/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-09-07/pq_61",
+      "date": "2026-09-07",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-09-07"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Ken O'Flynn",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ken-O'Flynn.D.2024-11-29",
+        "memberCode": "Ken-O'Flynn.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Foreign",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Passport Services",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-07/writtens/dbsect_44",
+        "debateSectionId": "dbsect_44",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-07/writtens/mul@/dbsect_44.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 62,
+      "showAs": " 62. Deputy Ken O'Flynn asked the Minister for Foreign Affairs and Trade the specific statutory provision which permits the Passport Service to dispense with guardian consent for a passport application where the applicant is under 18 and married; and if   this exception remains legally applicable to a person under 18 who is married under Irish law. [62712/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-09-07/pq_62",
+      "date": "2026-09-07",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-09-07"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Ken O'Flynn",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ken-O'Flynn.D.2024-11-29",
+        "memberCode": "Ken-O'Flynn.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Foreign",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Passport Services",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-07/writtens/dbsect_44",
+        "debateSectionId": "dbsect_44",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-07/writtens/mul@/dbsect_44.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 63,
+      "showAs": " 63. Deputy Ken O'Flynn asked the Minister for Foreign Affairs and Trade when the Passport Service first introduced the provision stating that guardian consent is not required where a child is married; the statutory or administrative basis for introducing that provision; whether it has been amended or reviewed since 1 January 2019; and, if so, the dates and outcome of each such review. [62713/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-09-07/pq_63",
+      "date": "2026-09-07",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-09-07"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Ken O'Flynn",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ken-O'Flynn.D.2024-11-29",
+        "memberCode": "Ken-O'Flynn.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Foreign",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Passport Services",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-07/writtens/dbsect_44",
+        "debateSectionId": "dbsect_44",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-07/writtens/mul@/dbsect_44.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 64,
+      "showAs": " 64. Deputy Ken O'Flynn asked the Minister for Foreign Affairs and Trade the number of passport applications received since 1 January 2019 from persons under 18 who were recorded as married; the number of such applications in which guardian consent was not obtained; the number granted; and the statutory basis on which each such passport was issued. [62714/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-09-07/pq_64",
+      "date": "2026-09-07",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-09-07"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Ken O'Flynn",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ken-O'Flynn.D.2024-11-29",
+        "memberCode": "Ken-O'Flynn.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Foreign",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Passport Services",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-07/writtens/dbsect_44",
+        "debateSectionId": "dbsect_44",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-07/writtens/mul@/dbsect_44.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 65,
+      "showAs": " 65. Deputy Ken O'Flynn asked the Minister for Foreign Affairs and Trade whether a person under 18 who is legally married in another jurisdiction may apply for an Irish passport without guardian consent under the Passport Service's current guidance; if so, the legal basis for this; and whether her Department distinguishes between a marriage legally recognised in Ireland and a marriage entered into in another jurisdiction for this purpose. [62715/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-09-07/pq_65",
+      "date": "2026-09-07",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-09-07"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Donnchadh Ó Laoghaire",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Donnchadh-Ó-Laoghaire.D.2016-10-03",
+        "memberCode": "Donnchadh-Ó-Laoghaire.D.2016-10-03"
+      },
+      "to": {
+        "showAs": "Foreign",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Naval Vessels",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-07/writtens/dbsect_45",
+        "debateSectionId": "dbsect_45",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-07/writtens/mul@/dbsect_45.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 66,
+      "showAs": " 66. Deputy Donnchadh Ó Laoghaire asked the Minister for Foreign Affairs and Trade if the ship docked at Marino Point, Cork Harbour on 7 August 2026 was a military vessel; the nature of its presence in Cork Harbour; whether permission was sought and received; and the protocol for such visiting ships. [60628/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-09-07/pq_66",
+      "date": "2026-09-07",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-09-07"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Peadar Tóibín",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Peadar-Tóibín.D.2011-03-09",
+        "memberCode": "Peadar-Tóibín.D.2011-03-09"
+      },
+      "to": {
+        "showAs": "Foreign",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Departmental Expenditure",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-07/writtens/dbsect_46",
+        "debateSectionId": "dbsect_46",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-07/writtens/mul@/dbsect_46.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 67,
+      "showAs": " 67. Deputy Peadar Tóibín asked the Minister for Foreign Affairs and Trade the total expenditure by her Department and agencies on translation and interpretation services in each of the past five years. [62941/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-09-07/pq_67",
+      "date": "2026-09-07",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-09-07"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Willie O'Dea",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Willie-O'Dea.D.1982-03-09",
+        "memberCode": "Willie-O'Dea.D.1982-03-09"
+      },
+      "to": {
+        "showAs": "Foreign",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Passport Services",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-07/writtens/dbsect_43",
+        "debateSectionId": "dbsect_43",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-07/writtens/mul@/dbsect_43.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 68,
+      "showAs": " 68. Deputy Willie O'Dea asked the Minister for Foreign Affairs and Trade if she will review the policy whereby the Irish Passport Service does not accept deed polls for passport name changes and that applicants seeking a passport in a name that does not appear on their birth certificate must provide evidence of two years' usage of that name; and if she will make a statement on the matter. [63064/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-09-07/pq_68",
+      "date": "2026-09-07",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-09-07"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Willie O'Dea",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Willie-O'Dea.D.1982-03-09",
+        "memberCode": "Willie-O'Dea.D.1982-03-09"
+      },
+      "to": {
+        "showAs": "Foreign",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Passport Services",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-07/writtens/dbsect_43",
+        "debateSectionId": "dbsect_43",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-07/writtens/mul@/dbsect_43.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 69,
+      "showAs": " 69. Deputy Willie O'Dea asked the Minister for Foreign Affairs and Trade if she will review the policy whereby the Irish Passport Service does not accept deed polls for passport name changes and that applicants seeking a passport in a name that does not appear on their birth certificate must provide evidence of two years' usage of that name; and if she will make a statement on the matter.  [63061/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-09-07/pq_69",
+      "date": "2026-09-07",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-09-07"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Peadar Tóibín",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Peadar-Tóibín.D.2011-03-09",
+        "memberCode": "Peadar-Tóibín.D.2011-03-09"
+      },
+      "to": {
+        "showAs": "Foreign",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Departmental Expenditure",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-07/writtens/dbsect_46",
+        "debateSectionId": "dbsect_46",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-07/writtens/mul@/dbsect_46.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 70,
+      "showAs": " 70. Deputy Peadar Tóibín asked the Minister for Foreign Affairs and Trade the five most requested languages for translation and interpretation services in her Department in each of the past five years. [62975/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-09-07/pq_70",
+      "date": "2026-09-07",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-09-07"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Eamon Scanlon",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Eamon-Scanlon.S.2002-09-12",
+        "memberCode": "Eamon-Scanlon.S.2002-09-12"
+      },
+      "to": {
+        "showAs": "Foreign",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "EU Regulations",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-07/writtens/dbsect_31",
+        "debateSectionId": "dbsect_31",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-07/writtens/mul@/dbsect_31.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 71,
+      "showAs": " 71. Deputy Eamon Scanlon asked the Minister for Foreign Affairs and Trade the steps being taken to address the impact of the EU's revised steel safeguard measures on Irish manufacturers, particularly the application of 50% duties on steel imports from the UK (details supplied); the assessment made of the effect of quota reductions and tariff uncertainty on business competitiveness; if the Government has raised concerns with the European Commission regarding firms importing steel of EU origin via UK suppliers and distribution hubs; and if she will make a statement on the matter. [62769/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-09-07/pq_71",
+      "date": "2026-09-07",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-09-07"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Eamon Scanlon",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Eamon-Scanlon.S.2002-09-12",
+        "memberCode": "Eamon-Scanlon.S.2002-09-12"
+      },
+      "to": {
+        "showAs": "Foreign",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Passport Services",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-07/writtens/dbsect_47",
+        "debateSectionId": "dbsect_47",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-07/writtens/mul@/dbsect_47.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 72,
+      "showAs": " 72. Deputy Eamon Scanlon asked the Minister for Foreign Affairs and Trade when the new Irish passport design will be added to the Council of the European Union's, Public Register of Authentic identity and travel documents online (PRADO). [63172/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-09-07/pq_72",
+      "date": "2026-09-07",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-09-07"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Paul Lawless",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Lawless.D.2024-11-29",
+        "memberCode": "Paul-Lawless.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Foreign",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Passport Services",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-07/writtens/dbsect_48",
+        "debateSectionId": "dbsect_48",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-07/writtens/mul@/dbsect_48.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 73,
+      "showAs": " 73. Deputy Paul Lawless asked the Minister for Foreign Affairs and Trade if she will review the passport online photograph verification process in light of reports from applicants whose photographs were accepted by the online system at submission stage but subsequently rejected during manual examination, causing delays and additional inconvenience; whether her Department has assessed the frequency of such occurrences; and the steps being taken to ensure greater consistency between automated and manual verification processes. [63303/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-09-07/pq_73",
+      "date": "2026-09-07",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-09-07"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Roderic O'Gorman",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Roderic-O'Gorman.D.2020-02-08",
+        "memberCode": "Roderic-O'Gorman.D.2020-02-08"
+      },
+      "to": {
+        "showAs": "Foreign",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Human Rights",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-07/writtens/dbsect_49",
+        "debateSectionId": "dbsect_49",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-07/writtens/mul@/dbsect_49.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 74,
+      "showAs": " 74. Deputy Roderic O'Gorman asked the Minister for Foreign Affairs and Trade the actions Ireland intends to take in response to the risk of execution faced by individuals who remain accused in Iran; if Ireland will make further specific representations to the Iranian authorities; and if she will make a statement on the matter. [63339/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-09-07/pq_74",
+      "date": "2026-09-07",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-09-07"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Roderic O'Gorman",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Roderic-O'Gorman.D.2020-02-08",
+        "memberCode": "Roderic-O'Gorman.D.2020-02-08"
+      },
+      "to": {
+        "showAs": "Foreign",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Foreign Conflicts",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-07/writtens/dbsect_50",
+        "debateSectionId": "dbsect_50",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-07/writtens/mul@/dbsect_50.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 75,
+      "showAs": " 75. Deputy Roderic O'Gorman asked the Minister for Foreign Affairs and Trade if Ireland together with its European Union partners are considering possible diplomatic avenues and approaches to address Iran’s lack of response to international pressure; and if she will make a statement on the matter. [63341/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-09-07/pq_75",
+      "date": "2026-09-07",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-09-07"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Ged Nash",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Gerald-Nash.D.2011-03-09",
+        "memberCode": "Gerald-Nash.D.2011-03-09"
+      },
+      "to": {
+        "showAs": "Foreign",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Departmental Staff",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-07/writtens/dbsect_51",
+        "debateSectionId": "dbsect_51",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-07/writtens/mul@/dbsect_51.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 76,
+      "showAs": " 76. Deputy Ged Nash asked the Minister for Foreign Affairs and Trade the number of staff, whole-time equivalents employed in her Department on 30 June 2016 and 30 June 2026; and if she will make a statement on the matter. [63351/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-09-07/pq_76",
+      "date": "2026-09-07",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-09-07"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Pádraig Mac Lochlainn",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Pádraig-MacLochlainn.D.2011-03-09",
+        "memberCode": "Pádraig-MacLochlainn.D.2011-03-09"
+      },
+      "to": {
+        "showAs": "Foreign",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Passport Services",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-07/writtens/dbsect_52",
+        "debateSectionId": "dbsect_52",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-07/writtens/mul@/dbsect_52.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 77,
+      "showAs": " 77. Deputy Pádraig Mac Lochlainn asked the Minister for Foreign Affairs and Trade the reason passport applications cannot be expedited or assisted by local TD offices when the estimated issue date falls after constituents confirmed date of travel, until that estimated issue date has officially passed; if she will address why this restriction remains in place even when a minimum of three weeks' notice is provided to her Department to assist with the application; and if she will make a statement of the matter.  [63443/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-09-07/pq_77",
+      "date": "2026-09-07",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-09-07"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Joe Neville",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Joe-Neville.D.2024-11-29",
+        "memberCode": "Joe-Neville.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Foreign",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Departmental Expenditure",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-07/writtens/dbsect_53",
+        "debateSectionId": "dbsect_53",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-07/writtens/mul@/dbsect_53.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 79,
+      "showAs": " 79. Deputy Joe Neville asked the Minister for Foreign Affairs and Trade to provide a list of each capital project over €1m in total expenditure funded or part funded by her Department on an annual and county basis since 2020, in tabular form, and if she will make a statement on the matter. [63478/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-09-07/pq_79",
+      "date": "2026-09-07",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-09-07"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Paul Donnelly",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Donnelly.D.2020-02-08",
+        "memberCode": "Paul-Donnelly.D.2020-02-08"
+      },
+      "to": {
+        "showAs": "Foreign",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Departmental Contracts",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-07/writtens/dbsect_54",
+        "debateSectionId": "dbsect_54",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-07/writtens/mul@/dbsect_54.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 80,
+      "showAs": " 80. Deputy Paul Donnelly asked the Minister for Foreign Affairs and Trade the name of the external company contracted to her Department that arranges for work permits/visas and so on to be issued for departmental staff that are being posted overseas at Irish Embassies and Consulate General; the amount that her Department paid this company for such works in   2024, 2025 and to date in 2026, in tabular form. [63731/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-09-07/pq_80",
+      "date": "2026-09-07",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-09-07"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Eoin Hayes",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Eoin-Hayes.D.2024-11-29",
+        "memberCode": "Eoin-Hayes.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Foreign",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Passport Services",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-07/writtens/dbsect_27",
+        "debateSectionId": "dbsect_27",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-07/writtens/mul@/dbsect_27.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 81,
+      "showAs": " 81. Deputy Eoin Hayes asked the Minister for Foreign Affairs and Trade the number of individuals not resident in Ireland or Northern Ireland who have been issued with Irish passports in 2026 who also hold passports from other countries and the list of those countries, in tabular form; and if she will make a statement on the matter. [63859/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-09-07/pq_81",
+      "date": "2026-09-07",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-09-07"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Eoin Hayes",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Eoin-Hayes.D.2024-11-29",
+        "memberCode": "Eoin-Hayes.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Foreign",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Passport Services",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-07/writtens/dbsect_27",
+        "debateSectionId": "dbsect_27",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-07/writtens/mul@/dbsect_27.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 82,
+      "showAs": " 82. Deputy Eoin Hayes asked the Minister for Foreign Affairs and Trade the number of passports issued by Irish embassies and consulates to date in 2026 to applicants outside of Ireland and Northern Ireland, by country or region or issuance; the number of applicants who held passports from a second or more countries at the time of application, in tabular form; and if she will make a statement on the matter. [63858/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-09-07/pq_82",
+      "date": "2026-09-07",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-09-07"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Eoin Hayes",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Eoin-Hayes.D.2024-11-29",
+        "memberCode": "Eoin-Hayes.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Foreign",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Passport Services",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-07/writtens/dbsect_56",
+        "debateSectionId": "dbsect_56",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-07/writtens/mul@/dbsect_56.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 83,
+      "showAs": " 83. Deputy Eoin Hayes asked the Minister for Foreign Affairs and Trade the number of passport applications received by country and region of residence in each of the years 2020 to 2025; and if she will make a statement on the matter. [63860/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-09-07/pq_83",
+      "date": "2026-09-07",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-09-07"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Barry Ward",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Barry-Ward.S.2020-03-30",
+        "memberCode": "Barry-Ward.S.2020-03-30"
+      },
+      "to": {
+        "showAs": "Foreign",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Travel Documents",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-07/writtens/dbsect_57",
+        "debateSectionId": "dbsect_57",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-07/writtens/mul@/dbsect_57.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 84,
+      "showAs": " 84. Deputy Barry Ward asked the Minister for Foreign Affairs and Trade the position regarding the engagement she has had with her counterpart in the UK on the decision to amend travel document requirements for those travelling by ferry between Ireland and the UK (details supplied); and if she will make a statement on the matter. [64030/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-09-07/pq_84",
+      "date": "2026-09-07",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-09-07"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "John Clendennen",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/John-Clendennen.D.2024-11-29",
+        "memberCode": "John-Clendennen.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Foreign",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Passport Services",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-07/writtens/dbsect_58",
+        "debateSectionId": "dbsect_58",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-07/writtens/mul@/dbsect_58.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 85,
+      "showAs": " 85. Deputy John Clendennen asked the Minister for Foreign Affairs and Trade the total number of Irish passports issued to applicant residents outside the State in each of the years 2021 to 2025 and to date in 2026; the number in each year, by country of residence; and the number relating to first-time passport applications and renewals respectively, in tabular form. [64091/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-09-07/pq_85",
+      "date": "2026-09-07",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-09-07"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "John Clendennen",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/John-Clendennen.D.2024-11-29",
+        "memberCode": "John-Clendennen.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Foreign",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Passport Services",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-07/writtens/dbsect_58",
+        "debateSectionId": "dbsect_58",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-07/writtens/mul@/dbsect_58.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 86,
+      "showAs": " 86. Deputy John Clendennen asked the Minister for Foreign Affairs and Trade the number of Irish passports issued in each of the years 2021 to 2025 and to date in 2026, broken down by the country of residence of the applicant, in tabular form; and if she will make a statement on the matter. [64089/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-09-07/pq_86",
+      "date": "2026-09-07",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-09-07"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "John Clendennen",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/John-Clendennen.D.2024-11-29",
+        "memberCode": "John-Clendennen.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Foreign",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Passport Services",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-07/writtens/dbsect_58",
+        "debateSectionId": "dbsect_58",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-07/writtens/mul@/dbsect_58.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 87,
+      "showAs": " 87. Deputy John Clendennen asked the Minister for Foreign Affairs and Trade the number of first-time Irish passports and passport renewals issued in each of the years 2021 to 2025 and to date in 2026, broken down by country of residence of the applicant, in tabular form. [64090/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-09-07/pq_87",
+      "date": "2026-09-07",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-09-07"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Barry Ward",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Barry-Ward.S.2020-03-30",
+        "memberCode": "Barry-Ward.S.2020-03-30"
+      },
+      "to": {
+        "showAs": "Foreign",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Travel Documents",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-07/writtens/dbsect_59",
+        "debateSectionId": "dbsect_59",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-07/writtens/mul@/dbsect_59.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 88,
+      "showAs": " 88. Deputy Barry Ward asked the Minister for Foreign Affairs and Trade her views on whether changes to passport check requirements (detail supplied) impacts on the common travel area policy between Ireland and the UK; and if she will make a statement on the matter. [64020/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-09-07/pq_88",
+      "date": "2026-09-07",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-09-07"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Ged Nash",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Gerald-Nash.D.2011-03-09",
+        "memberCode": "Gerald-Nash.D.2011-03-09"
+      },
+      "to": {
+        "showAs": "Foreign",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Departmental Bodies",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-07/writtens/dbsect_60",
+        "debateSectionId": "dbsect_60",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-07/writtens/mul@/dbsect_60.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 89,
+      "showAs": " 89. Deputy Ged Nash asked the Minister for Foreign Affairs and Trade the number of staff, whole-time equivalents employed in each agency or regulatory body under her Department’s remit who were considered to be public service personnel in June 2016 and in June 2026;  and if she  will make a statement on the matter. [63453/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-09-07/pq_89",
+      "date": "2026-09-07",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-09-07"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Barry Ward",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Barry-Ward.S.2020-03-30",
+        "memberCode": "Barry-Ward.S.2020-03-30"
+      },
+      "to": {
+        "showAs": "Foreign",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Passport Services",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-07/writtens/dbsect_61",
+        "debateSectionId": "dbsect_61",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-07/writtens/mul@/dbsect_61.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 90,
+      "showAs": " 90. Deputy Barry Ward asked the Minister for Foreign Affairs and Trade if her attention has been drawn to the delays in processing a first-time passport application (details supplied); the actions she will take to ensure that it is processed in a timely manner; and if she will make a statement on the matter.  [64439/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-09-07/pq_90",
+      "date": "2026-09-07",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-09-07"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "question": {
+      "by": {
+        "showAs": "Pa Daly",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Pa-Daly.D.2020-02-08",
+        "memberCode": "Pa-Daly.D.2020-02-08"
+      },
+      "to": {
+        "showAs": "Climate",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Data Centres",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-17/debate/dbsect_3",
+        "debateSectionId": "dbsect_3",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-17/debate/mul@/dbsect_3.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 1,
+      "showAs": " 1. Deputy Pa Daly asked the Minister for Climate, Energy and the Environment if he will report on the demands data centres place on Ireland’s critical infrastructure and the plans to increase this demand; if he is satisfied with our infrastructure’s ability to withstand this increased demand; the way in which this will be paid for; the contributions data centres have made to finance existing and increased demand; his views on whether access to this infrastructure should operate on a first come, first served model; and if he will make a statement on the mater.  [65942/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-09-17/pq_1",
+      "date": "2026-09-17",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-09-17"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Ruairí Ó Murchú",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruairí-Ó-Murchú.D.2020-02-08",
+        "memberCode": "Ruairí-Ó-Murchú.D.2020-02-08"
+      },
+      "to": {
+        "showAs": "Children",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Disabilities Assessments",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-17/debate/dbsect_17",
+        "debateSectionId": "dbsect_17",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-17/debate/mul@/dbsect_17.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 58,
+      "showAs": " 58. Deputy Ruairí Ó Murchú asked the Minister for Children, Disability and Equality [65850/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-09-17/pq_58",
+      "date": "2026-09-17",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-09-17"
+  }
+]

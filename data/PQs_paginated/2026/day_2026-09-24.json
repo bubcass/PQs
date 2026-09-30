@@ -18722,9 +18722,9 @@
   {
     "question": {
       "by": {
-        "showAs": "Brendan Smith",
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Brendan-Smith.D.1992-12-14",
-        "memberCode": "Brendan-Smith.D.1992-12-14"
+        "showAs": "Emer Currie",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Emer-Currie.S.2020-06-29",
+        "memberCode": "Emer-Currie.S.2020-06-29"
       },
       "to": {
         "showAs": "Further and Higher Education",
@@ -18734,19 +18734,19 @@
       },
       "debateSection": {
         "showAs": "Further and Higher Education",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-24/writtens/dbsect_433",
-        "debateSectionId": "dbsect_433",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-24/writtens/dbsect_432",
+        "debateSectionId": "dbsect_432",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-24/writtens/mul@/dbsect_433.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-24/writtens/mul@/dbsect_432.xml"
           },
           "pdf": null
         }
       },
       "questionType": "written",
-      "questionNumber": 516,
-      "showAs": " 516. Deputy Brendan Smith asked the Minister for Further and Higher Education, Research, Innovation and Science if the government has considered utilizing accumulated surplus balances in the National Training Fund to address identified structural funding deficits in the higher education sector; and whether exceptional arrangements have been examined to allow such funding to be deployed outside of existing departmental budgetary expenditure ceilings. [67958/26] ",
-      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-09-24/pq_516",
+      "questionNumber": 515,
+      "showAs": " 515. Deputy Emer Currie asked the Minister for Further and Higher Education, Research, Innovation and Science for an update on the case of a student (details supplied) who has completed the academic component of a PLC course and has now received provisional results, but whose official results may not be uploaded in time to allow their qualification to be considered for the final CAO offer round on 29 September 2026; whether his Department has engaged with the relevant bodies to identify a means of ensuring the student is not disadvantaged solely as a result of the timing of the results process; and if he will make a statement on the matter. [67817/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-09-24/pq_515",
       "date": "2026-09-24",
       "house": {
         "showAs": "34th Dáil",
@@ -18784,6 +18784,46 @@
         }
       },
       "questionType": "written",
+      "questionNumber": 516,
+      "showAs": " 516. Deputy Brendan Smith asked the Minister for Further and Higher Education, Research, Innovation and Science if the government has considered utilizing accumulated surplus balances in the National Training Fund to address identified structural funding deficits in the higher education sector; and whether exceptional arrangements have been examined to allow such funding to be deployed outside of existing departmental budgetary expenditure ceilings. [67958/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-09-24/pq_516",
+      "date": "2026-09-24",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-09-24"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Brendan Smith",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Brendan-Smith.D.1992-12-14",
+        "memberCode": "Brendan-Smith.D.1992-12-14"
+      },
+      "to": {
+        "showAs": "Further and Higher Education",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Further and Higher Education",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-24/writtens/dbsect_435",
+        "debateSectionId": "dbsect_435",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-24/writtens/mul@/dbsect_435.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
       "questionNumber": 517,
       "showAs": " 517. Deputy Brendan Smith asked the Minister for Further and Higher Education, Research, Innovation and Science if the full cost of pay awards arising under Government-approved national pay agreements will be provided through recurring core grant funding to higher education institutions in 2027; and whether this will include funding to address recognised legacy shortfalls associated with previous pay agreements. [67956/26] ",
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-09-24/pq_517",
@@ -18814,11 +18854,11 @@
       },
       "debateSection": {
         "showAs": "Budget 2027",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-24/writtens/dbsect_435",
-        "debateSectionId": "dbsect_435",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-24/writtens/dbsect_436",
+        "debateSectionId": "dbsect_436",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-24/writtens/mul@/dbsect_435.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-24/writtens/mul@/dbsect_436.xml"
           },
           "pdf": null
         }
@@ -18854,11 +18894,11 @@
       },
       "debateSection": {
         "showAs": "Further and Higher Education",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-24/writtens/dbsect_436",
-        "debateSectionId": "dbsect_436",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-24/writtens/dbsect_437",
+        "debateSectionId": "dbsect_437",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-24/writtens/mul@/dbsect_436.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-24/writtens/mul@/dbsect_437.xml"
           },
           "pdf": null
         }
@@ -18894,11 +18934,11 @@
       },
       "debateSection": {
         "showAs": "Further and Higher Education",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-24/writtens/dbsect_437",
-        "debateSectionId": "dbsect_437",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-24/writtens/dbsect_438",
+        "debateSectionId": "dbsect_438",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-24/writtens/mul@/dbsect_437.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-09-24/writtens/mul@/dbsect_438.xml"
           },
           "pdf": null
         }

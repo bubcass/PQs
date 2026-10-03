@@ -242,6 +242,46 @@
   {
     "question": {
       "by": {
+        "showAs": "Paul Murphy",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Murphy.D.2014-10-10",
+        "memberCode": "Paul-Murphy.D.2014-10-10"
+      },
+      "to": {
+        "showAs": "Foreign",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Departmental Meetings",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/dbsect_43",
+        "debateSectionId": "dbsect_43",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/mul@/dbsect_43.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 7,
+      "showAs": " 7. Deputy Paul Murphy asked the Minister for Foreign Affairs and Trade to report on her recent meeting with a company (details supplied) and its relevance to Ireland's foreign affairs and trade policy in relation to AI, digital deregulation and big tech. [69240/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-01/pq_7",
+      "date": "2026-10-01",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-01"
+  },
+  {
+    "question": {
+      "by": {
         "showAs": "Barry Ward",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Barry-Ward.S.2020-03-30",
         "memberCode": "Barry-Ward.S.2020-03-30"
@@ -442,6 +482,1046 @@
   {
     "question": {
       "by": {
+        "showAs": "Willie O'Dea",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Willie-O'Dea.D.1982-03-09",
+        "memberCode": "Willie-O'Dea.D.1982-03-09"
+      },
+      "to": {
+        "showAs": "Foreign",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Foreign Policy",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/dbsect_44",
+        "debateSectionId": "dbsect_44",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/mul@/dbsect_44.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 13,
+      "showAs": " 13. Deputy Willie O'Dea asked the Minister for Foreign Affairs and Trade her assessment of the recent parliamentary elections in the Russian Federation. [69026/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-01/pq_13",
+      "date": "2026-10-01",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-01"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Pádraig O'Sullivan",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Pádraig-O'Sullivan.D.2019-11-29",
+        "memberCode": "Pádraig-O'Sullivan.D.2019-11-29"
+      },
+      "to": {
+        "showAs": "Foreign",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Foreign Conflicts",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/dbsect_46",
+        "debateSectionId": "dbsect_46",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/mul@/dbsect_46.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 14,
+      "showAs": " 14. Deputy Pádraig O'Sullivan asked the Minister for Foreign Affairs and Trade the current status of Ireland's advocacy at EU level for a durable ceasefire and humanitarian access in Gaza; and whether the Israeli Settlements in the Occupied Palestinian Territory (Prohibition of Importation of Goods) Act 2026. remains on course for enactment. [69262/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-01/pq_14",
+      "date": "2026-10-01",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-01"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Conor D. McGuinness",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Conor-D-McGuinness.D.2024-11-29",
+        "memberCode": "Conor-D-McGuinness.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Foreign",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Foreign Conflicts",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/dbsect_47",
+        "debateSectionId": "dbsect_47",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/mul@/dbsect_47.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 15,
+      "showAs": " 15. Deputy Conor D. McGuinness asked the Minister for Foreign Affairs and Trade to provide an update on the mobile maternity unit fundraised for by an organisation (details supplied). [69230/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-01/pq_15",
+      "date": "2026-10-01",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-01"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Brendan Smith",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Brendan-Smith.D.1992-12-14",
+        "memberCode": "Brendan-Smith.D.1992-12-14"
+      },
+      "to": {
+        "showAs": "Foreign",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Northern Ireland",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/dbsect_48",
+        "debateSectionId": "dbsect_48",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/mul@/dbsect_48.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 16,
+      "showAs": " 16. Deputy Brendan Smith asked the Minister for Foreign Affairs and Trade for a report on the discussions she has had on legacy issues with the new Secretary of State for Northern Ireland. [69041/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-01/pq_16",
+      "date": "2026-10-01",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-01"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Aisling Dempsey",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Aisling-Dempsey.D.2024-11-29",
+        "memberCode": "Aisling-Dempsey.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Foreign",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "EU Meetings",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/dbsect_49",
+        "debateSectionId": "dbsect_49",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/mul@/dbsect_49.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 17,
+      "showAs": " 17. Deputy Aisling Dempsey asked the Minister for Foreign Affairs and Trade for a report on her attendance at the European Forum Alpbach 2026. [69011/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-01/pq_17",
+      "date": "2026-10-01",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-01"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "John Clendennen",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/John-Clendennen.D.2024-11-29",
+        "memberCode": "John-Clendennen.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Foreign",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Energy Prices",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/dbsect_50",
+        "debateSectionId": "dbsect_50",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/mul@/dbsect_50.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 18,
+      "showAs": " 18. Deputy John Clendennen asked the Minister for Foreign Affairs and Trade the way in which Ireland intends to support the deepening of EU-Canada trade and economic relations, including through CETA, in advance of the forthcoming EU-Canada summit. [69319/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-01/pq_18",
+      "date": "2026-10-01",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-01"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Pa Daly",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Pa-Daly.D.2020-02-08",
+        "memberCode": "Pa-Daly.D.2020-02-08"
+      },
+      "to": {
+        "showAs": "Foreign",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Energy Policy",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/dbsect_51",
+        "debateSectionId": "dbsect_51",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/mul@/dbsect_51.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 19,
+      "showAs": " 19. Deputy Pa Daly asked the Minister for Foreign Affairs and Trade whether concerns about energy affordability and security are being raised in Ireland's international engagements on digital investment and data centre development. [69367/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-01/pq_19",
+      "date": "2026-10-01",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-01"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Rose Conway-Walsh",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Rose-Conway-Walsh.S.2016-04-25",
+        "memberCode": "Rose-Conway-Walsh.S.2016-04-25"
+      },
+      "to": {
+        "showAs": "Foreign",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Northern Ireland",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/dbsect_52",
+        "debateSectionId": "dbsect_52",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/mul@/dbsect_52.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 20,
+      "showAs": " 20. Deputy Rose Conway-Walsh asked the Minister for Foreign Affairs and Trade for an update on the engagement she has had with the British government concerning the Garvaghy Road parade dispute. [69339/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-01/pq_20",
+      "date": "2026-10-01",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-01"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Ruairí Ó Murchú",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruairí-Ó-Murchú.D.2020-02-08",
+        "memberCode": "Ruairí-Ó-Murchú.D.2020-02-08"
+      },
+      "to": {
+        "showAs": "Foreign",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Foreign Conflicts",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/dbsect_53",
+        "debateSectionId": "dbsect_53",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/mul@/dbsect_53.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 21,
+      "showAs": " 21. Deputy Ruairí Ó Murchú asked the Minister for Foreign Affairs and Trade the international engagement undertaken since the American and Israeli war on Iran from a point of view of the impact of the war on the price of critical goods including oil. [68202/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-01/pq_21",
+      "date": "2026-10-01",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-01"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Edward Timmins",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Edward-Timmins.D.2024-11-29",
+        "memberCode": "Edward-Timmins.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Foreign",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "EU Presidency",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/dbsect_54",
+        "debateSectionId": "dbsect_54",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/mul@/dbsect_54.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 22,
+      "showAs": " 22. Deputy Edward Timmins asked the Minister for Foreign Affairs and Trade the progress that will be made on implementing the Draghi report during Ireland's Presidency. [69340/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-01/pq_22",
+      "date": "2026-10-01",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-01"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "James O'Connor",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/James-O'Connor.D.2020-02-08",
+        "memberCode": "James-O'Connor.D.2020-02-08"
+      },
+      "to": {
+        "showAs": "Foreign",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Departmental Staff",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/dbsect_55",
+        "debateSectionId": "dbsect_55",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/mul@/dbsect_55.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 24,
+      "showAs": " 24. Deputy James O'Connor asked the Minister for Foreign Affairs and Trade the number of staff that are currently accredited to the embassy of the Russian Federation. [69297/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-01/pq_24",
+      "date": "2026-10-01",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-01"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "John Clendennen",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/John-Clendennen.D.2024-11-29",
+        "memberCode": "John-Clendennen.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Foreign",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Departmental Policies",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/dbsect_56",
+        "debateSectionId": "dbsect_56",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/mul@/dbsect_56.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 25,
+      "showAs": " 25. Deputy John Clendennen asked the Minister for Foreign Affairs and Trade the progress made on implementing the Action Plan on Market Diversification. [69318/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-01/pq_25",
+      "date": "2026-10-01",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-01"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Shane Moynihan",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Shane-Moynihan.D.2024-11-29",
+        "memberCode": "Shane-Moynihan.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Foreign",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Foreign Conflicts",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/dbsect_57",
+        "debateSectionId": "dbsect_57",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/mul@/dbsect_57.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 26,
+      "showAs": " 26. Deputy Shane Moynihan asked the Minister for Foreign Affairs and Trade to provide an update on Ireland’s engagement with international partners in responding to the ongoing conflict and humanitarian crisis in Sudan. [69165/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-01/pq_26",
+      "date": "2026-10-01",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-01"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Barry Heneghan",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Barry-Heneghan.D.2024-11-29",
+        "memberCode": "Barry-Heneghan.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Foreign",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Foreign Policy",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/dbsect_58",
+        "debateSectionId": "dbsect_58",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/mul@/dbsect_58.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 27,
+      "showAs": " 27. Deputy Barry Heneghan asked the Minister for Foreign Affairs and Trade the current measures and future plans being taken to strengthen the State’s capacity to provide emergency consular assistance and evacuation support to Irish citizens abroad during conflicts, natural disasters and other major crises; and whether lessons from recent international emergencies have identified any gaps in the current system. [69348/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-01/pq_27",
+      "date": "2026-10-01",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-01"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Seán Ó Fearghaíl",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Seán-Ó-Fearghaíl.S.2000-06-09",
+        "memberCode": "Seán-Ó-Fearghaíl.S.2000-06-09"
+      },
+      "to": {
+        "showAs": "Foreign",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "EU Membership",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/dbsect_59",
+        "debateSectionId": "dbsect_59",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/mul@/dbsect_59.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 28,
+      "showAs": " 28. Deputy Seán Ó Fearghaíl asked the Minister for Foreign Affairs and Trade for an update on discussions regarding Moldova joining the European Union. [68997/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-01/pq_28",
+      "date": "2026-10-01",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-01"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Roderic O'Gorman",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Roderic-O'Gorman.D.2020-02-08",
+        "memberCode": "Roderic-O'Gorman.D.2020-02-08"
+      },
+      "to": {
+        "showAs": "Foreign",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Human Rights",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/dbsect_60",
+        "debateSectionId": "dbsect_60",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/mul@/dbsect_60.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 29,
+      "showAs": " 29. Deputy Roderic O'Gorman asked the Minister for Foreign Affairs and Trade if Ireland and its European Union partners will use all possible diplomatic avenues and approaches to address the Republic of Türkiye's persecution of LGBTQ+ persons. [69286/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-01/pq_29",
+      "date": "2026-10-01",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-01"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Shay Brennan",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Shay-Brennan.D.2024-11-29",
+        "memberCode": "Shay-Brennan.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Foreign",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "EU Meetings",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/dbsect_61",
+        "debateSectionId": "dbsect_61",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/mul@/dbsect_61.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 30,
+      "showAs": " 30. Deputy Shay Brennan asked the Minister for Foreign Affairs and Trade for a report on the discussions on Ukraine at the most recent EU Foreign Affairs council. [69031/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-01/pq_30",
+      "date": "2026-10-01",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-01"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Michael Cahill",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Michael-Cahill.D.2024-11-29",
+        "memberCode": "Michael-Cahill.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Foreign",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Foreign Conflicts",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/dbsect_46",
+        "debateSectionId": "dbsect_46",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/mul@/dbsect_46.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 31,
+      "showAs": " 31. Deputy Michael Cahill asked the Minister for Foreign Affairs and Trade given that Ireland has presidency of the EU, if she will do everything possible to end the conflict and genocide in Gaza. [69363/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-01/pq_31",
+      "date": "2026-10-01",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-01"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Donnchadh Ó Laoghaire",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Donnchadh-Ó-Laoghaire.D.2016-10-03",
+        "memberCode": "Donnchadh-Ó-Laoghaire.D.2016-10-03"
+      },
+      "to": {
+        "showAs": "Foreign",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "EU Meetings",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/dbsect_61",
+        "debateSectionId": "dbsect_61",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/mul@/dbsect_61.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 32,
+      "showAs": " 32. Deputy Donnchadh Ó Laoghaire asked the Minister for Foreign Affairs and Trade for an update on her Department's recent engagements with the Government of Ukraine in relation to the ongoing conflict. [69249/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-01/pq_32",
+      "date": "2026-10-01",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-01"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Sean Fleming",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Seán-Fleming.D.1997-06-26",
+        "memberCode": "Seán-Fleming.D.1997-06-26"
+      },
+      "to": {
+        "showAs": "Foreign",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "EU Presidency",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/dbsect_62",
+        "debateSectionId": "dbsect_62",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/mul@/dbsect_62.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 33,
+      "showAs": " 33. Deputy Sean Fleming asked the Minister for Foreign Affairs and Trade for an update on Ireland's EU Presidency; and the way in which Irish priorities are being advanced. [69016/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-01/pq_33",
+      "date": "2026-10-01",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-01"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Duncan Smith",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Duncan-Smith.D.2020-02-08",
+        "memberCode": "Duncan-Smith.D.2020-02-08"
+      },
+      "to": {
+        "showAs": "Foreign",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Departmental Communications",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/dbsect_64",
+        "debateSectionId": "dbsect_64",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/mul@/dbsect_64.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 34,
+      "showAs": " 34. Deputy Duncan Smith asked the Minister for Foreign Affairs and Trade if her Department has engaged with the German Government in regard to persons (details supplied). [69079/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-01/pq_34",
+      "date": "2026-10-01",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-01"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Richard Boyd Barrett",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Richard-Boyd-Barrett.D.2011-03-09",
+        "memberCode": "Richard-Boyd-Barrett.D.2011-03-09"
+      },
+      "to": {
+        "showAs": "Foreign",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Departmental Communications",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/dbsect_64",
+        "debateSectionId": "dbsect_64",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/mul@/dbsect_64.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 35,
+      "showAs": " 35. Deputy Richard Boyd Barrett asked the Minister for Foreign Affairs and Trade for an update on her monitoring of the trial of a person (details supplied). [69362/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-01/pq_35",
+      "date": "2026-10-01",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-01"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Ruth Coppinger",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruth-Coppinger.D.2014-05-23",
+        "memberCode": "Ruth-Coppinger.D.2014-05-23"
+      },
+      "to": {
+        "showAs": "Foreign",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Foreign Policy",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/dbsect_65",
+        "debateSectionId": "dbsect_65",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/mul@/dbsect_65.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 36,
+      "showAs": " 36. Deputy Ruth Coppinger asked the Minister for Foreign Affairs and Trade her views on the need to block trade with illegal settlements in the Palestinian West Bank; her views on the need to freeze assets of companies who support the genocide in Gaza; and to sanction members of the IDF and Israeli Ministers. [69381/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-01/pq_36",
+      "date": "2026-10-01",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-01"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Rose Conway-Walsh",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Rose-Conway-Walsh.S.2016-04-25",
+        "memberCode": "Rose-Conway-Walsh.S.2016-04-25"
+      },
+      "to": {
+        "showAs": "Foreign",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Northern Ireland",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/dbsect_66",
+        "debateSectionId": "dbsect_66",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/mul@/dbsect_66.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 37,
+      "showAs": " 37. Deputy Rose Conway-Walsh asked the Minister for Foreign Affairs and Trade if her Department has begun any internal planning concerning future constitutional change. [69351/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-01/pq_37",
+      "date": "2026-10-01",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-01"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Sinéad Gibney",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Sinéad-Gibney.D.2024-11-29",
+        "memberCode": "Sinéad-Gibney.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Foreign",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "International Bodies",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/dbsect_67",
+        "debateSectionId": "dbsect_67",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/mul@/dbsect_67.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 38,
+      "showAs": " 38. Deputy Sinéad Gibney asked the Minister for Foreign Affairs and Trade whether she has advocated for the use of the EU blocking mechanism to protect US citizens in Europe facing sanctions from the Trump administration. [69075/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-01/pq_38",
+      "date": "2026-10-01",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-01"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Ruth Coppinger",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruth-Coppinger.D.2014-05-23",
+        "memberCode": "Ruth-Coppinger.D.2014-05-23"
+      },
+      "to": {
+        "showAs": "Foreign",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Foreign Policy",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/dbsect_68",
+        "debateSectionId": "dbsect_68",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/mul@/dbsect_68.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 39,
+      "showAs": " 39. Deputy Ruth Coppinger asked the Minister for Foreign Affairs and Trade her views that there are infringements on the right to protest in Germany in relation to the right of people to protest in solidarity with the Palestinian people. [69380/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-01/pq_39",
+      "date": "2026-10-01",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-01"
+  },
+  {
+    "question": {
+      "by": {
         "showAs": "Aindrias Moynihan",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Aindrias-Moynihan.D.2016-10-03",
         "memberCode": "Aindrias-Moynihan.D.2016-10-03"
@@ -482,6 +1562,1766 @@
   {
     "question": {
       "by": {
+        "showAs": "Tony McCormack",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tony-McCormack.D.2024-11-29",
+        "memberCode": "Tony-McCormack.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Foreign",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Departmental Policies",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/dbsect_56",
+        "debateSectionId": "dbsect_56",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/mul@/dbsect_56.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 41,
+      "showAs": " 41. Deputy Tony McCormack asked the Minister for Foreign Affairs and Trade to provide an update on the Department’s role in implementing the Government Action Plan on Market Diversification; and the measures being taken through Ireland’s diplomatic network to support Irish SMEs and indigenous businesses seeking to access new export markets. [69278/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-01/pq_41",
+      "date": "2026-10-01",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-01"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Thomas Gould",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Thomas-Gould.D.2020-02-08",
+        "memberCode": "Thomas-Gould.D.2020-02-08"
+      },
+      "to": {
+        "showAs": "Foreign",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Departmental Meetings",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/dbsect_69",
+        "debateSectionId": "dbsect_69",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/mul@/dbsect_69.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 42,
+      "showAs": " 42. Deputy Thomas Gould asked the Minister for Foreign Affairs and Trade the number of times she has met with the Israeli Ambassador to Ireland in the past 12 months. [68493/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-01/pq_42",
+      "date": "2026-10-01",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-01"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Duncan Smith",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Duncan-Smith.D.2020-02-08",
+        "memberCode": "Duncan-Smith.D.2020-02-08"
+      },
+      "to": {
+        "showAs": "Foreign",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "United Nations",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/dbsect_70",
+        "debateSectionId": "dbsect_70",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/mul@/dbsect_70.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 43,
+      "showAs": " 43. Deputy Duncan Smith asked the Minister for Foreign Affairs and Trade to provide a report from the UN General Assembly. [69081/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-01/pq_43",
+      "date": "2026-10-01",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-01"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Brian Brennan",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Brian-Brennan.D.2024-11-29",
+        "memberCode": "Brian-Brennan.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Foreign",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Foreign Conflicts",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/dbsect_46",
+        "debateSectionId": "dbsect_46",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/mul@/dbsect_46.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 44,
+      "showAs": " 44. Deputy Brian Brennan asked the Minister for Foreign Affairs and Trade to provide an update on efforts to increase aid supplies crossing the border into Gaza. [69232/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-01/pq_44",
+      "date": "2026-10-01",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-01"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Peter 'Chap' Cleere",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Peter-'Chap'-Cleere.D.2024-11-29",
+        "memberCode": "Peter-'Chap'-Cleere.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Foreign",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "EU Meetings",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/dbsect_71",
+        "debateSectionId": "dbsect_71",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/mul@/dbsect_71.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 45,
+      "showAs": " 45. Deputy Peter 'Chap' Cleere asked the Minister for Foreign Affairs and Trade when the next meeting of the EU General Affairs Council will take place; and the likely agenda for the meeting. [69059/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-01/pq_45",
+      "date": "2026-10-01",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-01"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Roderic O'Gorman",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Roderic-O'Gorman.D.2020-02-08",
+        "memberCode": "Roderic-O'Gorman.D.2020-02-08"
+      },
+      "to": {
+        "showAs": "Foreign",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Human Rights",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/dbsect_60",
+        "debateSectionId": "dbsect_60",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/mul@/dbsect_60.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 46,
+      "showAs": " 46. Deputy Roderic O'Gorman asked the Minister for Foreign Affairs and Trade the actions she intends to take to raise the recent crackdown on LGBTQ+ activists in the Republic of Türkiye. [69282/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-01/pq_46",
+      "date": "2026-10-01",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-01"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Shay Brennan",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Shay-Brennan.D.2024-11-29",
+        "memberCode": "Shay-Brennan.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Foreign",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Foreign Conflicts",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/dbsect_72",
+        "debateSectionId": "dbsect_72",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/mul@/dbsect_72.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 47,
+      "showAs": " 47. Deputy Shay Brennan asked the Minister for Foreign Affairs and Trade her response to the recent attempted drone attack at Leipzig airport. [69030/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-01/pq_47",
+      "date": "2026-10-01",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-01"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Peter Roche",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Peter-Roche.D.2024-11-29",
+        "memberCode": "Peter-Roche.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Foreign",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Diaspora Issues",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/dbsect_73",
+        "debateSectionId": "dbsect_73",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/mul@/dbsect_73.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 48,
+      "showAs": " 48. Deputy Peter Roche asked the Minister for Foreign Affairs and Trade the measures her Department is taking to strengthen engagement between the Irish diaspora and regional communities such as Galway; and the way in which the Government is supporting regions to use their international and diaspora connections to generate economic, cultural and community opportunities. [67437/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-01/pq_48",
+      "date": "2026-10-01",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-01"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Tony McCormack",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tony-McCormack.D.2024-11-29",
+        "memberCode": "Tony-McCormack.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Foreign",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Departmental Policies",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/dbsect_56",
+        "debateSectionId": "dbsect_56",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/mul@/dbsect_56.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 49,
+      "showAs": " 49. Deputy Tony McCormack asked the Minister for Foreign Affairs and Trade the measures being taken through Ireland’s diplomatic network and international trade engagement to promote and diversify overseas market opportunities for Irish agricultural and agrifood exports. [69280/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-01/pq_49",
+      "date": "2026-10-01",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-01"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Donnchadh Ó Laoghaire",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Donnchadh-Ó-Laoghaire.D.2016-10-03",
+        "memberCode": "Donnchadh-Ó-Laoghaire.D.2016-10-03"
+      },
+      "to": {
+        "showAs": "Foreign",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Foreign Policy",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/dbsect_74",
+        "debateSectionId": "dbsect_74",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/mul@/dbsect_74.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 50,
+      "showAs": " 50. Deputy Donnchadh Ó Laoghaire asked the Minister for Foreign Affairs and Trade her position on the banning of political parties by Israel's central elections committee ahead of elections there next month. [69251/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-01/pq_50",
+      "date": "2026-10-01",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-01"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Sinéad Gibney",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Sinéad-Gibney.D.2024-11-29",
+        "memberCode": "Sinéad-Gibney.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Foreign",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "International Bodies",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/dbsect_67",
+        "debateSectionId": "dbsect_67",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/mul@/dbsect_67.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 51,
+      "showAs": " 51. Deputy Sinéad Gibney asked the Minister for Foreign Affairs and Trade the steps her Department is taking to support the work of the International Criminal Court and to oppose the sanctions currently being imposed on judges and prosecutors in the ICC by the United States. [69074/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-01/pq_51",
+      "date": "2026-10-01",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-01"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Brian Brennan",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Brian-Brennan.D.2024-11-29",
+        "memberCode": "Brian-Brennan.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Foreign",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Budget 2027",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/dbsect_75",
+        "debateSectionId": "dbsect_75",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/mul@/dbsect_75.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 52,
+      "showAs": " 52. Deputy Brian Brennan asked the Minister for Foreign Affairs and Trade if the Government will be maintaining or increasing current levels of foreign aid funding in budget 2027. [69231/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-01/pq_52",
+      "date": "2026-10-01",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-01"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Cathy Bennett",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Cathy-Bennett.D.2024-11-29",
+        "memberCode": "Cathy-Bennett.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Foreign",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Diaspora Issues",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/dbsect_76",
+        "debateSectionId": "dbsect_76",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/mul@/dbsect_76.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 53,
+      "showAs": " 53. Deputy Cathy Bennett asked the Minister for Foreign Affairs and Trade if she will report on her engagements with members and representative groups of the diaspora community; and if she has discussed driver licence exchange in such engagements. [69326/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-01/pq_53",
+      "date": "2026-10-01",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-01"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "John Connolly",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/John-Connolly.D.2024-11-29",
+        "memberCode": "John-Connolly.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Foreign",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "United Nations",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/dbsect_78",
+        "debateSectionId": "dbsect_78",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/mul@/dbsect_78.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 54,
+      "showAs": " 54. Deputy John Connolly asked the Minister for Foreign Affairs and Trade if Ireland is advancing proposals for the reform of United Nations structures. [68948/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-01/pq_54",
+      "date": "2026-10-01",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-01"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Richard Boyd Barrett",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Richard-Boyd-Barrett.D.2011-03-09",
+        "memberCode": "Richard-Boyd-Barrett.D.2011-03-09"
+      },
+      "to": {
+        "showAs": "Foreign",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Foreign Conflicts",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/dbsect_79",
+        "debateSectionId": "dbsect_79",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/mul@/dbsect_79.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 55,
+      "showAs": " 55. Deputy Richard Boyd Barrett asked the Minister for Foreign Affairs and Trade whether she is aware that organisers of the latest Freedom Flotilla to Gaza have been imprisoned in Tunisia (details supplied); and whether she will make representations to the ambassador and government of Tunisia calling for their release. [69350/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-01/pq_55",
+      "date": "2026-10-01",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-01"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Donnchadh Ó Laoghaire",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Donnchadh-Ó-Laoghaire.D.2016-10-03",
+        "memberCode": "Donnchadh-Ó-Laoghaire.D.2016-10-03"
+      },
+      "to": {
+        "showAs": "Foreign",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Foreign Policy",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/dbsect_80",
+        "debateSectionId": "dbsect_80",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/mul@/dbsect_80.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 56,
+      "showAs": " 56. Deputy Donnchadh Ó Laoghaire asked the Minister for Foreign Affairs and Trade her views on the current situation in Cuba and the Government's position regarding same. [69245/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-01/pq_56",
+      "date": "2026-10-01",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-01"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Seán Kyne",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Seán-Kyne.D.2011-03-09",
+        "memberCode": "Seán-Kyne.D.2011-03-09"
+      },
+      "to": {
+        "showAs": "Foreign",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Visa Applications",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/dbsect_81",
+        "debateSectionId": "dbsect_81",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/mul@/dbsect_81.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 57,
+      "showAs": " 57. Deputy Seán Kyne asked the Minister for Foreign Affairs and Trade if she accepts the important role that embassies abroad play for Irish citizens in visa application processes and what measures are being taken by her Department to improve response times and customer service standards across the diplomatic and visa systems. [69103/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-01/pq_57",
+      "date": "2026-10-01",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-01"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Ruth Coppinger",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruth-Coppinger.D.2014-05-23",
+        "memberCode": "Ruth-Coppinger.D.2014-05-23"
+      },
+      "to": {
+        "showAs": "Foreign",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Departmental Communications",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/dbsect_64",
+        "debateSectionId": "dbsect_64",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/mul@/dbsect_64.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 58,
+      "showAs": " 58. Deputy Ruth Coppinger asked the Minister for Foreign Affairs and Trade if she is concerned about practices at the trial of an Irish Citizen in Germany (details supplied). [69379/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-01/pq_58",
+      "date": "2026-10-01",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-01"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Matt Carthy",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Matt-Carthy.D.2020-02-08",
+        "memberCode": "Matt-Carthy.D.2020-02-08"
+      },
+      "to": {
+        "showAs": "Foreign",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Diaspora Issues",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/dbsect_76",
+        "debateSectionId": "dbsect_76",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/mul@/dbsect_76.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 59,
+      "showAs": " 59. Deputy Matt Carthy asked the Minister for Foreign Affairs and Trade if she will report on the support she has provided the Department of Transport regarding the programme for Government commitment to work to facilitate the easier return to Ireland for emigrants including reciprocal driving licence arrangements with the USA, Australia and Canada. [69290/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-01/pq_59",
+      "date": "2026-10-01",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-01"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Conor D. McGuinness",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Conor-D-McGuinness.D.2024-11-29",
+        "memberCode": "Conor-D-McGuinness.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Foreign",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Foreign Policy",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/dbsect_80",
+        "debateSectionId": "dbsect_80",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/mul@/dbsect_80.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 60,
+      "showAs": " 60. Deputy Conor D. McGuinness asked the Minister for Foreign Affairs and Trade for an update on the Government’s position on the United States's embargo against Cuba; the representations made by Ireland through the European Union, the United Nations and in the most recent bilateral engagements with US officials in the past two months. [69237/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-01/pq_60",
+      "date": "2026-10-01",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-01"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "John Connolly",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/John-Connolly.D.2024-11-29",
+        "memberCode": "John-Connolly.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Foreign",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "United Nations",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/dbsect_70",
+        "debateSectionId": "dbsect_70",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/mul@/dbsect_70.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 61,
+      "showAs": " 61. Deputy John Connolly asked the Minister for Foreign Affairs and Trade for a report on her attendance at the United Nations High-Level Week. [68947/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-01/pq_61",
+      "date": "2026-10-01",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-01"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Naoise Ó Cearúil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Naoise-Ó-Cearúil.D.2024-11-29",
+        "memberCode": "Naoise-Ó-Cearúil.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Foreign",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Trade Agreements",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/dbsect_82",
+        "debateSectionId": "dbsect_82",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/mul@/dbsect_82.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 62,
+      "showAs": " 62. Deputy Naoise Ó Cearúil asked the Minister for Foreign Affairs and Trade the key messages she is advancing during her engagements in New York regarding the importance of maintaining stable transatlantic trade relationships and diversifying Ireland's export markets in the context of ongoing uncertainty in the global trading environment. [69101/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-01/pq_62",
+      "date": "2026-10-01",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-01"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Duncan Smith",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Duncan-Smith.D.2020-02-08",
+        "memberCode": "Duncan-Smith.D.2020-02-08"
+      },
+      "to": {
+        "showAs": "Foreign",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "International Sanctions",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/dbsect_83",
+        "debateSectionId": "dbsect_83",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/mul@/dbsect_83.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 63,
+      "showAs": " 63. Deputy Duncan Smith asked the Minister for Foreign Affairs and Trade if she plans to revisit the advice of the Attorney General in regard to the Israeli Settlements in the Occupied Palestinian Territory (Prohibition of Importation of Goods) Bill 2026, following the UK government's decision to sanction both goods and services. [69078/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-01/pq_63",
+      "date": "2026-10-01",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-01"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Ruth Coppinger",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruth-Coppinger.D.2014-05-23",
+        "memberCode": "Ruth-Coppinger.D.2014-05-23"
+      },
+      "to": {
+        "showAs": "Foreign",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Departmental Communications",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/dbsect_64",
+        "debateSectionId": "dbsect_64",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/mul@/dbsect_64.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 64,
+      "showAs": " 64. Deputy Ruth Coppinger asked the Minister for Foreign Affairs and Trade if she will report on the engagement she has had with an Irish citizen on trial in Germany (details supplied) who is part of the \"Ulm 5\". [69377/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-01/pq_64",
+      "date": "2026-10-01",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-01"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Pa Daly",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Pa-Daly.D.2020-02-08",
+        "memberCode": "Pa-Daly.D.2020-02-08"
+      },
+      "to": {
+        "showAs": "Foreign",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Food Security",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/dbsect_84",
+        "debateSectionId": "dbsect_84",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/mul@/dbsect_84.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 65,
+      "showAs": " 65. Deputy Pa Daly asked the Minister for Foreign Affairs and Trade the assessment that has been made of the impact of climate change on global food security; and the role Ireland is playing in international efforts to address this challenge. [69366/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-01/pq_65",
+      "date": "2026-10-01",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-01"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Cormac Devlin",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Cormac-Devlin.D.2020-02-08",
+        "memberCode": "Cormac-Devlin.D.2020-02-08"
+      },
+      "to": {
+        "showAs": "Foreign",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Departmental Reports",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/dbsect_85",
+        "debateSectionId": "dbsect_85",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/mul@/dbsect_85.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 66,
+      "showAs": " 66. Deputy Cormac Devlin asked the Minister for Foreign Affairs and Trade for a report on the Shared Island Civic Society Fund. [68957/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-01/pq_66",
+      "date": "2026-10-01",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-01"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Sean Fleming",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Seán-Fleming.D.1997-06-26",
+        "memberCode": "Seán-Fleming.D.1997-06-26"
+      },
+      "to": {
+        "showAs": "Foreign",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "International Sanctions",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/dbsect_86",
+        "debateSectionId": "dbsect_86",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/mul@/dbsect_86.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 67,
+      "showAs": " 67. Deputy Sean Fleming asked the Minister for Foreign Affairs and Trade her response to the recent removal of EU sanctions from a number of Russian businesspeople. [69020/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-01/pq_67",
+      "date": "2026-10-01",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-01"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Mark Ward",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Mark-Ward.D.2019-11-29",
+        "memberCode": "Mark-Ward.D.2019-11-29"
+      },
+      "to": {
+        "showAs": "Foreign",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "United Nations",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/dbsect_87",
+        "debateSectionId": "dbsect_87",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/mul@/dbsect_87.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 68,
+      "showAs": " 68. Deputy Mark Ward asked the Minister for Foreign Affairs and Trade to comment on the Irish delegations’ participation at the recent UN Assembly meeting; and her response to the Prime Minister of Israel’s speech. [69361/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-01/pq_68",
+      "date": "2026-10-01",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-01"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Donnchadh Ó Laoghaire",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Donnchadh-Ó-Laoghaire.D.2016-10-03",
+        "memberCode": "Donnchadh-Ó-Laoghaire.D.2016-10-03"
+      },
+      "to": {
+        "showAs": "Foreign",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Foreign Conflicts",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/dbsect_88",
+        "debateSectionId": "dbsect_88",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/mul@/dbsect_88.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 69,
+      "showAs": " 69. Deputy Donnchadh Ó Laoghaire asked the Minister for Foreign Affairs and Trade her views on the current situation in Lebanon and the Government's position regarding same. [69244/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-01/pq_69",
+      "date": "2026-10-01",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-01"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Ruairí Ó Murchú",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruairí-Ó-Murchú.D.2020-02-08",
+        "memberCode": "Ruairí-Ó-Murchú.D.2020-02-08"
+      },
+      "to": {
+        "showAs": "Foreign",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "International Agreements",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/dbsect_89",
+        "debateSectionId": "dbsect_89",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/mul@/dbsect_89.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 70,
+      "showAs": " 70. Deputy Ruairí Ó Murchú asked the Minister for Foreign Affairs and Trade to provide an update on her recent engagements regarding the EU-Israel Association Agreement; and the possible sanctions to be taken against Israel on the basis of its actions against the Palestinian people. [68201/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-01/pq_70",
+      "date": "2026-10-01",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-01"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Naoise Ó Muirí",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Naoise-Ó-Muirí.D.2024-11-29",
+        "memberCode": "Naoise-Ó-Muirí.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Foreign",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Trade Agreements",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/dbsect_82",
+        "debateSectionId": "dbsect_82",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/mul@/dbsect_82.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 71,
+      "showAs": " 71. Deputy Naoise Ó Muirí asked the Minister for Foreign Affairs and Trade if she will outline efforts to advance Ireland’s trade priorities during engagements in New York. [68433/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-01/pq_71",
+      "date": "2026-10-01",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-01"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Seán Kyne",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Seán-Kyne.D.2011-03-09",
+        "memberCode": "Seán-Kyne.D.2011-03-09"
+      },
+      "to": {
+        "showAs": "Foreign",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Departmental Offices",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/dbsect_90",
+        "debateSectionId": "dbsect_90",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/mul@/dbsect_90.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 72,
+      "showAs": " 72. Deputy Seán Kyne asked the Minister for Foreign Affairs and Trade if her Department has assessed whether Ireland is out of step with other European Union member states in not maintaining a trade or representative office in Taiwan; and if consideration has been given to reopening an Irish Trade and Cultural Office in Taipei to strengthen economic, trade, cultural and links with Taiwan. [69001/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-01/pq_72",
+      "date": "2026-10-01",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-01"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Seán Ó Fearghaíl",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Seán-Ó-Fearghaíl.S.2000-06-09",
+        "memberCode": "Seán-Ó-Fearghaíl.S.2000-06-09"
+      },
+      "to": {
+        "showAs": "Foreign",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "International Relations",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/dbsect_91",
+        "debateSectionId": "dbsect_91",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/mul@/dbsect_91.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 73,
+      "showAs": " 73. Deputy Seán Ó Fearghaíl asked the Minister for Foreign Affairs and Trade the way in which she is promoting diplomatic and trade relations with Barbados. [68995/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-01/pq_73",
+      "date": "2026-10-01",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-01"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Cormac Devlin",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Cormac-Devlin.D.2020-02-08",
+        "memberCode": "Cormac-Devlin.D.2020-02-08"
+      },
+      "to": {
+        "showAs": "Foreign",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Diaspora Issues",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/dbsect_93",
+        "debateSectionId": "dbsect_93",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/mul@/dbsect_93.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 74,
+      "showAs": " 74. Deputy Cormac Devlin asked the Minister for Foreign Affairs and Trade for an update on the new diaspora strategy.  [68960/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-01/pq_74",
+      "date": "2026-10-01",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-01"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Naoise Ó Muirí",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Naoise-Ó-Muirí.D.2024-11-29",
+        "memberCode": "Naoise-Ó-Muirí.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Foreign",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Human Rights",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/dbsect_60",
+        "debateSectionId": "dbsect_60",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/mul@/dbsect_60.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 75,
+      "showAs": " 75. Deputy Naoise Ó Muirí asked the Minister for Foreign Affairs and Trade if her Department has been in contact with Irish citizens in Turkey, following the recent crackdowns. [68429/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-01/pq_75",
+      "date": "2026-10-01",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-01"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Donnchadh Ó Laoghaire",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Donnchadh-Ó-Laoghaire.D.2016-10-03",
+        "memberCode": "Donnchadh-Ó-Laoghaire.D.2016-10-03"
+      },
+      "to": {
+        "showAs": "Foreign",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Foreign Conflicts",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/dbsect_53",
+        "debateSectionId": "dbsect_53",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/mul@/dbsect_53.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 76,
+      "showAs": " 76. Deputy Donnchadh Ó Laoghaire asked the Minister for Foreign Affairs and Trade the position regarding the war in Iran and the Gulf region. [69248/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-01/pq_76",
+      "date": "2026-10-01",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-01"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Cathy Bennett",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Cathy-Bennett.D.2024-11-29",
+        "memberCode": "Cathy-Bennett.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Foreign",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Passport Services",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/dbsect_94",
+        "debateSectionId": "dbsect_94",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/mul@/dbsect_94.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 77,
+      "showAs": " 77. Deputy Cathy Bennett asked the Minister for Foreign Affairs and Trade if she will consider opening a passport office in the North. [69331/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-01/pq_77",
+      "date": "2026-10-01",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-01"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Darren O'Rourke",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Darren-O'Rourke.D.2020-02-08",
+        "memberCode": "Darren-O'Rourke.D.2020-02-08"
+      },
+      "to": {
+        "showAs": "Foreign",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Northern Ireland",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/dbsect_95",
+        "debateSectionId": "dbsect_95",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/mul@/dbsect_95.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 78,
+      "showAs": " 78. Deputy Darren O'Rourke asked the Minister for Foreign Affairs and Trade the way in which she has raised the issue to advance the case for Irish reunification internationally. [67874/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-01/pq_78",
+      "date": "2026-10-01",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-01"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Shane Moynihan",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Shane-Moynihan.D.2024-11-29",
+        "memberCode": "Shane-Moynihan.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Foreign",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Dublin-Monaghan Bombings",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/dbsect_96",
+        "debateSectionId": "dbsect_96",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/mul@/dbsect_96.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 79,
+      "showAs": " 79. Deputy Shane Moynihan asked the Minister for Foreign Affairs and Trade if she will provide an update on the British Government's response to the State's ongoing request for full disclosure and access to all relevant documents concerning the Dublin and Monaghan bombings of 17 May 1974. [69164/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-01/pq_79",
+      "date": "2026-10-01",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-01"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Duncan Smith",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Duncan-Smith.D.2020-02-08",
+        "memberCode": "Duncan-Smith.D.2020-02-08"
+      },
+      "to": {
+        "showAs": "Foreign",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Budget 2027",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/dbsect_75",
+        "debateSectionId": "dbsect_75",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/mul@/dbsect_75.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 80,
+      "showAs": " 80. Deputy Duncan Smith asked the Minister for Foreign Affairs and Trade if Ireland will increase foreign aid in budget 2027. [69080/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-01/pq_80",
+      "date": "2026-10-01",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-01"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Matt Carthy",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Matt-Carthy.D.2020-02-08",
+        "memberCode": "Matt-Carthy.D.2020-02-08"
+      },
+      "to": {
+        "showAs": "Foreign",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Diaspora Issues",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/dbsect_76",
+        "debateSectionId": "dbsect_76",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/mul@/dbsect_76.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 81,
+      "showAs": " 81. Deputy Matt Carthy asked the Minister for Foreign Affairs and Trade the countries with which the State has reciprocal recognition of drivers licenses for the purposes of exchange, which her Department has provided assistance to the Department of Transport regarding; and the countries for with which they are currently providing assistance with a view to securing same. [69298/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-01/pq_81",
+      "date": "2026-10-01",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-01"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Paul Murphy",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Murphy.D.2014-10-10",
+        "memberCode": "Paul-Murphy.D.2014-10-10"
+      },
+      "to": {
+        "showAs": "Foreign",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Departmental Programmes",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/dbsect_97",
+        "debateSectionId": "dbsect_97",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/mul@/dbsect_97.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 82,
+      "showAs": " 82. Deputy Paul Murphy asked the Minister for Foreign Affairs and Trade to report on her Department's engagements, if any, with the Department of Justice, Home Affairs and Migration in relation to the Ireland-Palestine scholarship programme which the Department of Foreign Affairs and Trade co-administers; if she believes the programme has been undermined by the refusal of visas to Palestinian students offered places under the programme; and if she will make a statement on the matter. [69247/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-01/pq_82",
+      "date": "2026-10-01",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-01"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Peter Roche",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Peter-Roche.D.2024-11-29",
+        "memberCode": "Peter-Roche.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Foreign",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "EU Presidency",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/dbsect_98",
+        "debateSectionId": "dbsect_98",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/mul@/dbsect_98.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 83,
+      "showAs": " 83. Deputy Peter Roche asked the Minister for Foreign Affairs and Trade the way in which Ireland’s Presidency of the Council of the European Union is being used to showcase Galway and other regions outside Dublin; and the opportunities being provided for regional communities to participate in and benefit from Ireland’s Presidency. [67436/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-01/pq_83",
+      "date": "2026-10-01",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-01"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "John Paul O'Shea",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/John-Paul-O'Shea.D.2024-11-29",
+        "memberCode": "John-Paul-O'Shea.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Foreign",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Passport Services",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/dbsect_99",
+        "debateSectionId": "dbsect_99",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/mul@/dbsect_99.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 84,
+      "showAs": " 84. Deputy John Paul O'Shea asked the Minister for Foreign Affairs and Trade the number of passport applications that have been received from County Cork to date in 2026; the number of first-time applications and renewals; and the way in which these figures compare with the same period in 2025. [69309/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-01/pq_84",
+      "date": "2026-10-01",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-01"
+  },
+  {
+    "question": {
+      "by": {
         "showAs": "Barry Ward",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Barry-Ward.S.2020-03-30",
         "memberCode": "Barry-Ward.S.2020-03-30"
@@ -507,6 +3347,286 @@
       "questionNumber": 85,
       "showAs": " 85. Deputy Barry Ward asked the Minister for Foreign Affairs and Trade her plans to support the establishment of embassies in all EU accession countries with a view to increasing diplomatic relations as negotiations on their prospective memberships continue. [68254/26] ",
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-01/pq_85",
+      "date": "2026-10-01",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-01"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Sinéad Gibney",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Sinéad-Gibney.D.2024-11-29",
+        "memberCode": "Sinéad-Gibney.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Foreign",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Overseas Development Aid",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/dbsect_100",
+        "debateSectionId": "dbsect_100",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/mul@/dbsect_100.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 86,
+      "showAs": " 86. Deputy Sinéad Gibney asked the Minister for Foreign Affairs and Trade the steps her Department is taking to reach the 0.7% goal for overseas development aid; and the engagements she has had with other EU member states on increasing their aid budgets. [69073/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-01/pq_86",
+      "date": "2026-10-01",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-01"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Sinéad Gibney",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Sinéad-Gibney.D.2024-11-29",
+        "memberCode": "Sinéad-Gibney.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Foreign",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Climate Change Policy",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/dbsect_101",
+        "debateSectionId": "dbsect_101",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/mul@/dbsect_101.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 87,
+      "showAs": " 87. Deputy Sinéad Gibney asked the Minister for Foreign Affairs and Trade the actions she and her Department have taken diplomatically at EU and UN level to pursue global action on climate commitments and the Paris Agreement following the heatwaves, flooding, and other extreme weather events globally in recent months. [69076/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-01/pq_87",
+      "date": "2026-10-01",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-01"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Brendan Smith",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Brendan-Smith.D.1992-12-14",
+        "memberCode": "Brendan-Smith.D.1992-12-14"
+      },
+      "to": {
+        "showAs": "Foreign",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "British-Irish Co-operation",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/dbsect_102",
+        "debateSectionId": "dbsect_102",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/mul@/dbsect_102.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 88,
+      "showAs": " 88. Deputy Brendan Smith asked the Minister for Foreign Affairs and Trade for a report on her attendance at the recent British-Irish Association annual conference. [69043/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-01/pq_88",
+      "date": "2026-10-01",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-01"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "John Paul O'Shea",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/John-Paul-O'Shea.D.2024-11-29",
+        "memberCode": "John-Paul-O'Shea.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Foreign",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Passport Services",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/dbsect_99",
+        "debateSectionId": "dbsect_99",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/mul@/dbsect_99.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 89,
+      "showAs": " 89. Deputy John Paul O'Shea asked the Minister for Foreign Affairs and Trade to provide an update on the plans for a new passport office in Cork; the anticipated timeline for its opening; the additional capacity and public services that are planned; and whether urgent passport appointments will be available. [69292/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-01/pq_89",
+      "date": "2026-10-01",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-01"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "James O'Connor",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/James-O'Connor.D.2020-02-08",
+        "memberCode": "James-O'Connor.D.2020-02-08"
+      },
+      "to": {
+        "showAs": "Foreign",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Foreign Conflicts",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/dbsect_72",
+        "debateSectionId": "dbsect_72",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/mul@/dbsect_72.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 90,
+      "showAs": " 90. Deputy James O'Connor asked the Minister for Foreign Affairs and Trade her response to recent Russian hybrid attacks against the European Union and its Member States. [69295/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-01/pq_90",
+      "date": "2026-10-01",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-01"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Naoise Ó Cearúil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Naoise-Ó-Cearúil.D.2024-11-29",
+        "memberCode": "Naoise-Ó-Cearúil.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Foreign",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Trade Agreements",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/dbsect_82",
+        "debateSectionId": "dbsect_82",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/mul@/dbsect_82.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 91,
+      "showAs": " 91. Deputy Naoise Ó Cearúil asked the Minister for Foreign Affairs and Trade the trade priorities she will seek to advance during her meetings with international partners in New York and in advance of hosting EU Trade Ministers in Dublin next month. [69102/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-01/pq_91",
+      "date": "2026-10-01",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-01"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Thomas Gould",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Thomas-Gould.D.2020-02-08",
+        "memberCode": "Thomas-Gould.D.2020-02-08"
+      },
+      "to": {
+        "showAs": "Foreign",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Passport Services",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/dbsect_103",
+        "debateSectionId": "dbsect_103",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/mul@/dbsect_103.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 92,
+      "showAs": " 92. Deputy Thomas Gould asked the Minister for Foreign Affairs and Trade the reason rent is already being paid on the new passport office in Cork; and whether the new office will include a passport printer. [68492/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-01/pq_92",
       "date": "2026-10-01",
       "house": {
         "showAs": "34th Dáil",
@@ -1002,6 +4122,806 @@
   {
     "question": {
       "by": {
+        "showAs": "Matt Carthy",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Matt-Carthy.D.2020-02-08",
+        "memberCode": "Matt-Carthy.D.2020-02-08"
+      },
+      "to": {
+        "showAs": "Housing",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Departmental Data",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/dbsect_105",
+        "debateSectionId": "dbsect_105",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/mul@/dbsect_105.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 106,
+      "showAs": " 106. Deputy Matt Carthy asked the Minister for Housing, Local Government and Heritage his targets for the delivery of social and affordable housing in County Monaghan in each of the years 2019 to 2025 and to date in 2026; the outturn; and his targets in each year until 2030. [69300/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-01/pq_106",
+      "date": "2026-10-01",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-01"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Rose Conway-Walsh",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Rose-Conway-Walsh.S.2016-04-25",
+        "memberCode": "Rose-Conway-Walsh.S.2016-04-25"
+      },
+      "to": {
+        "showAs": "Housing",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Housing Provision",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/dbsect_106",
+        "debateSectionId": "dbsect_106",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/mul@/dbsect_106.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 107,
+      "showAs": " 107. Deputy Rose Conway-Walsh asked the Minister for Housing, Local Government and Heritage the additional resources he will make available to assist people with chronic disabilities to find suitable housing. [69353/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-01/pq_107",
+      "date": "2026-10-01",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-01"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Brian Stanley",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Brian-Stanley.D.2011-03-09",
+        "memberCode": "Brian-Stanley.D.2011-03-09"
+      },
+      "to": {
+        "showAs": "Housing",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Local Authorities",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/dbsect_107",
+        "debateSectionId": "dbsect_107",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/mul@/dbsect_107.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 108,
+      "showAs": " 108. Deputy Brian Stanley asked the Minister for Housing, Local Government and Heritage his plans to give additional powers to local councillors in particular to strengthen municipal districts; and the functions he is planning to devolve. [69113/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-01/pq_108",
+      "date": "2026-10-01",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-01"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "James O'Connor",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/James-O'Connor.D.2020-02-08",
+        "memberCode": "James-O'Connor.D.2020-02-08"
+      },
+      "to": {
+        "showAs": "Housing",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Vacant Properties",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/dbsect_108",
+        "debateSectionId": "dbsect_108",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/mul@/dbsect_108.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 109,
+      "showAs": " 109. Deputy James O'Connor asked the Minister for Housing, Local Government and Heritage for an update on the action being taken to tackle vacancy and dereliction. [69285/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-01/pq_109",
+      "date": "2026-10-01",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-01"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Malcolm Byrne",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Malcolm-Byrne.D.2019-11-29",
+        "memberCode": "Malcolm-Byrne.D.2019-11-29"
+      },
+      "to": {
+        "showAs": "Housing",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Weather Events",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/dbsect_109",
+        "debateSectionId": "dbsect_109",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/mul@/dbsect_109.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 110,
+      "showAs": " 110. Deputy Malcolm Byrne asked the Minister for Housing, Local Government and Heritage the role envisioned by his Department for artificial intelligence and quantum computing in predicting and responding to climate and weather events. [65728/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-01/pq_110",
+      "date": "2026-10-01",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-01"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Edward Timmins",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Edward-Timmins.D.2024-11-29",
+        "memberCode": "Edward-Timmins.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Housing",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Local Authorities",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/dbsect_110",
+        "debateSectionId": "dbsect_110",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/mul@/dbsect_110.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 111,
+      "showAs": " 111. Deputy Edward Timmins asked the Minister for Housing, Local Government and Heritage if councils have been given housing targets; and if these targets are being monitored. [69341/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-01/pq_111",
+      "date": "2026-10-01",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-01"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "John Paul O'Shea",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/John-Paul-O'Shea.D.2024-11-29",
+        "memberCode": "John-Paul-O'Shea.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Housing",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Housing Policy",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/dbsect_111",
+        "debateSectionId": "dbsect_111",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/mul@/dbsect_111.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 112,
+      "showAs": " 112. Deputy John Paul O'Shea asked the Minister for Housing, Local Government and Heritage the measures are in place to help older social housing tenants who wish to move from a larger home to a smaller, suitable home in their own community; and whether additional right sizing homes are planned for Cork Northwest. [69268/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-01/pq_112",
+      "date": "2026-10-01",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-01"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Willie O'Dea",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Willie-O'Dea.D.1982-03-09",
+        "memberCode": "Willie-O'Dea.D.1982-03-09"
+      },
+      "to": {
+        "showAs": "Housing",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Housing Policy",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/dbsect_112",
+        "debateSectionId": "dbsect_112",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/mul@/dbsect_112.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 113,
+      "showAs": " 113. Deputy Willie O'Dea asked the Minister for Housing, Local Government and Heritage if he is planning to review the income criteria for cost rental. [69029/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-01/pq_113",
+      "date": "2026-10-01",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-01"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Ken O'Flynn",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ken-O'Flynn.D.2024-11-29",
+        "memberCode": "Ken-O'Flynn.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Housing",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Emergency Accommodation",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/dbsect_113",
+        "debateSectionId": "dbsect_113",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/mul@/dbsect_113.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 114,
+      "showAs": " 114. Deputy Ken O'Flynn asked the Minister for Housing, Local Government and Heritage his views on whether a child spending months or years living in emergency accommodation is not merely a housing issue but a serious children's rights and equality issue; the assessment his Department has made of the impact of prolonged homelessness on children (details supplied); whether he is satisfied that the State is meeting its obligations to children experiencing homelessness; and the specific measures he is taking to ensure that children do not spend their formative years living in emergency accommodation. [65798/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-01/pq_114",
+      "date": "2026-10-01",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-01"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Paula Butterly",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paula-Butterly.D.2024-11-29",
+        "memberCode": "Paula-Butterly.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Housing",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Housing Policy",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/dbsect_114",
+        "debateSectionId": "dbsect_114",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/mul@/dbsect_114.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 115,
+      "showAs": " 115. Deputy Paula Butterly asked the Minister for Housing, Local Government and Heritage if he will consider introducing legislation or regulations to make it mandatory for all new residential developments comprising of more than ten units to include solar energy systems, or alternative renewable energy technologies, together with battery storage facilities; and if he will make a statement on the matter. [69272/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-01/pq_115",
+      "date": "2026-10-01",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-01"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "John Connolly",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/John-Connolly.D.2024-11-29",
+        "memberCode": "John-Connolly.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Housing",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "House Prices",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/dbsect_115",
+        "debateSectionId": "dbsect_115",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/mul@/dbsect_115.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 116,
+      "showAs": " 116. Deputy John Connolly asked the Minister for Housing, Local Government and Heritage his Department's assessment of the purchase prices being sought for homes under affordable housing schemes in Galway County; his Departments views on whether such prices are genuinely affordable for average-income households in the county. [68939/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-01/pq_116",
+      "date": "2026-10-01",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-01"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Noel McCarthy",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Noel-McCarthy.D.2024-11-29",
+        "memberCode": "Noel-McCarthy.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Housing",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Solar Energy Guidelines",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/dbsect_116",
+        "debateSectionId": "dbsect_116",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/mul@/dbsect_116.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 117,
+      "showAs": " 117. Deputy Noel McCarthy asked the Minister for Housing, Local Government and Heritage to provide an update on the proposed establishment of national planning guidelines for solar energy developments. [69123/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-01/pq_117",
+      "date": "2026-10-01",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-01"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Mark Ward",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Mark-Ward.D.2019-11-29",
+        "memberCode": "Mark-Ward.D.2019-11-29"
+      },
+      "to": {
+        "showAs": "Housing",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Parking Provision",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/dbsect_117",
+        "debateSectionId": "dbsect_117",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/mul@/dbsect_117.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 118,
+      "showAs": " 118. Deputy Mark Ward asked the Minister for Housing, Local Government and Heritage to outline the policy for the number of car parking spaces to be delivered in new housing developments; if current public transport connectivity is taken into account or if it based on future routes; to outline the options for people who do not have a car parking space included in their accommodation; and if the current policy is being reviewed. [69354/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-01/pq_118",
+      "date": "2026-10-01",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-01"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Brian Stanley",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Brian-Stanley.D.2011-03-09",
+        "memberCode": "Brian-Stanley.D.2011-03-09"
+      },
+      "to": {
+        "showAs": "Housing",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Planning Issues",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/dbsect_118",
+        "debateSectionId": "dbsect_118",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/mul@/dbsect_118.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 119,
+      "showAs": " 119. Deputy Brian Stanley asked the Minister for Housing, Local Government and Heritage to change the regulations regarding back yard dwellings as the current regulations and guidelines mean that for the vast majority of households, if there is a class three building on the site it is not possible to have a dwelling and a modular unit. [69266/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-01/pq_119",
+      "date": "2026-10-01",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-01"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Shane Moynihan",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Shane-Moynihan.D.2024-11-29",
+        "memberCode": "Shane-Moynihan.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Housing",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Housing Policy",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/dbsect_119",
+        "debateSectionId": "dbsect_119",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/mul@/dbsect_119.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 121,
+      "showAs": " 121. Deputy Shane Moynihan asked the Minister for Housing, Local Government and Heritage for an update on the delivery of cost-rental housing; the measures being taken to support local authorities and approved housing bodies in increasing supply; and his priorities for the further expansion of the cost-rental sector. [69166/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-01/pq_121",
+      "date": "2026-10-01",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-01"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Darren O'Rourke",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Darren-O'Rourke.D.2020-02-08",
+        "memberCode": "Darren-O'Rourke.D.2020-02-08"
+      },
+      "to": {
+        "showAs": "Housing",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Departmental Data",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/dbsect_120",
+        "debateSectionId": "dbsect_120",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/mul@/dbsect_120.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 122,
+      "showAs": " 122. Deputy Darren O'Rourke asked the Minister for Housing, Local Government and Heritage the number of affordable houses that have been delivered in County Meath in 2025 and to date in 2026; and his plans to increase the amount of affordable housing in County Meath. [67875/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-01/pq_122",
+      "date": "2026-10-01",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-01"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "James Geoghegan",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/James-Geoghegan.D.2024-11-29",
+        "memberCode": "James-Geoghegan.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Housing",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Housing Policy",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/dbsect_112",
+        "debateSectionId": "dbsect_112",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/mul@/dbsect_112.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 123,
+      "showAs": " 123. Deputy James Geoghegan asked the Minister for Housing, Local Government and Heritage further to Parliamentary Question No. 990 of 18 March 2026, if progress has been made on the review of the qualifying income thresholds for cost rental housing developments. [67911/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-01/pq_123",
+      "date": "2026-10-01",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-01"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Cathy Bennett",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Cathy-Bennett.D.2024-11-29",
+        "memberCode": "Cathy-Bennett.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Housing",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Housing Policy",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/dbsect_121",
+        "debateSectionId": "dbsect_121",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/mul@/dbsect_121.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 124,
+      "showAs": " 124. Deputy Cathy Bennett asked the Minister for Housing, Local Government and Heritage if he will outline his proposals and associated targets to deliver age friendly housing in counties Cavan and Monaghan. [69323/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-01/pq_124",
+      "date": "2026-10-01",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-01"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Thomas Gould",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Thomas-Gould.D.2020-02-08",
+        "memberCode": "Thomas-Gould.D.2020-02-08"
+      },
+      "to": {
+        "showAs": "Housing",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Derelict Sites",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/dbsect_122",
+        "debateSectionId": "dbsect_122",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/mul@/dbsect_122.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 125,
+      "showAs": " 125. Deputy Thomas Gould asked the Minister for Housing, Local Government and Heritage when he will publish data on the collection of derelict sites levies in 2025. [68565/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-01/pq_125",
+      "date": "2026-10-01",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-01"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Erin McGreehan",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Erin-McGreehan.S.2020-06-29",
+        "memberCode": "Erin-McGreehan.S.2020-06-29"
+      },
+      "to": {
+        "showAs": "Housing",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Housing Provision",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/dbsect_123",
+        "debateSectionId": "dbsect_123",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/mul@/dbsect_123.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 126,
+      "showAs": " 126. Deputy Erin McGreehan asked the Minister for Housing, Local Government and Heritage his priorities with regard to the provision of affordable housing. [69015/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-01/pq_126",
+      "date": "2026-10-01",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-01"
+  },
+  {
+    "question": {
+      "by": {
         "showAs": "Eoin Ó Broin",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Eoin-Ó-Broin.D.2016-10-03",
         "memberCode": "Eoin-Ó-Broin.D.2016-10-03"
@@ -1027,6 +4947,286 @@
       "questionNumber": 128,
       "showAs": " 128. Deputy Eoin Ó Broin asked the Minister for Housing, Local Government and Heritage for an update on the review of the social housing income eligibility thresholds. [69383/26] ",
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-01/pq_128",
+      "date": "2026-10-01",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-01"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Willie O'Dea",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Willie-O'Dea.D.1982-03-09",
+        "memberCode": "Willie-O'Dea.D.1982-03-09"
+      },
+      "to": {
+        "showAs": "Housing",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Housing Policy",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/dbsect_119",
+        "debateSectionId": "dbsect_119",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/mul@/dbsect_119.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 133,
+      "showAs": " 133. Deputy Willie O'Dea asked the Minister for Housing, Local Government and Heritage for an update on commitments to build more cost-rental units through the LDA, local authorities and Cost Rental Equity Loan funding to AHBs and embedding cost rental as a category of tenure on a permanent basis. [69028/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-01/pq_133",
+      "date": "2026-10-01",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-01"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Darren O'Rourke",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Darren-O'Rourke.D.2020-02-08",
+        "memberCode": "Darren-O'Rourke.D.2020-02-08"
+      },
+      "to": {
+        "showAs": "Housing",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Solar Energy Guidelines",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/dbsect_116",
+        "debateSectionId": "dbsect_116",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/mul@/dbsect_116.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 143,
+      "showAs": " 143. Deputy Darren O'Rourke asked the Minister for Housing, Local Government and Heritage when planning guidelines for solar energy, particularly utility scale solar, will be published. [64787/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-01/pq_143",
+      "date": "2026-10-01",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-01"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "James O'Connor",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/James-O'Connor.D.2020-02-08",
+        "memberCode": "James-O'Connor.D.2020-02-08"
+      },
+      "to": {
+        "showAs": "Housing",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Housing Provision",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/dbsect_123",
+        "debateSectionId": "dbsect_123",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/mul@/dbsect_123.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 155,
+      "showAs": " 155. Deputy James O'Connor asked the Minister for Housing, Local Government and Heritage the way he will ramp up the provision of affordable housing. [69287/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-01/pq_155",
+      "date": "2026-10-01",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-01"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Aisling Dempsey",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Aisling-Dempsey.D.2024-11-29",
+        "memberCode": "Aisling-Dempsey.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Housing",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Departmental Data",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/dbsect_120",
+        "debateSectionId": "dbsect_120",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/mul@/dbsect_120.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 156,
+      "showAs": " 156. Deputy Aisling Dempsey asked the Minister for Housing, Local Government and Heritage for an update on the delivery of affordable purchase and cost-rental homes in County Meath; and the opportunities he sees to build on that progress in towns such as Navan and Trim. [69086/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-01/pq_156",
+      "date": "2026-10-01",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-01"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Grace Boland",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Grace-Boland.D.2024-11-29",
+        "memberCode": "Grace-Boland.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Housing",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Housing Policy",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/dbsect_121",
+        "debateSectionId": "dbsect_121",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/mul@/dbsect_121.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 165,
+      "showAs": " 165. Deputy Grace Boland asked the Minister for Housing, Local Government and Heritage the measures being considered to make it easier for older people to adapt existing homes and remain living independently within their communities. [66730/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-01/pq_165",
+      "date": "2026-10-01",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-01"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Louis O'Hara",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Louis-O'Hara.D.2024-11-29",
+        "memberCode": "Louis-O'Hara.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Housing",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Derelict Sites",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/dbsect_122",
+        "debateSectionId": "dbsect_122",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/mul@/dbsect_122.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 196,
+      "showAs": " 196. Deputy Louis O'Hara asked the Minister for Housing, Local Government and Heritage to outline his efforts to tackle dereliction. [68511/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-01/pq_196",
+      "date": "2026-10-01",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-01"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Grace Boland",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Grace-Boland.D.2024-11-29",
+        "memberCode": "Grace-Boland.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Housing",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Housing Policy",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/dbsect_121",
+        "debateSectionId": "dbsect_121",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/mul@/dbsect_121.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 200,
+      "showAs": " 200. Deputy Grace Boland asked the Minister for Housing, Local Government and Heritage the steps being taken to ensure local authorities identify suitable sites for age-friendly housing developments within existing communities. [66729/26] ",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-01/pq_200",
       "date": "2026-10-01",
       "house": {
         "showAs": "34th Dáil",

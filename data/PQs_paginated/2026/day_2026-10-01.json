@@ -573,7 +573,7 @@
         "roleCode": null
       },
       "debateSection": {
-        "showAs": "Foreign Conflicts",
+        "showAs": "Humanitarian Aid",
         "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/dbsect_47",
         "debateSectionId": "dbsect_47",
         "formats": {
@@ -867,6 +867,46 @@
       "questionNumber": 22,
       "showAs": "22. Deputy Edward Timmins asked the Minister for Foreign Affairs and Trade the progress that will be made on implementing the Draghi report during Ireland's Presidency. [69340/26]",
       "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-01/pq_22",
+      "date": "2026-10-01",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-01"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Willie O'Dea",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Willie-O'Dea.D.1982-03-09",
+        "memberCode": "Willie-O'Dea.D.1982-03-09"
+      },
+      "to": {
+        "showAs": "Foreign",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Foreign Policy",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/dbsect_44",
+        "debateSectionId": "dbsect_44",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-01/writtens/mul@/dbsect_44.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 23,
+      "showAs": "23. Deputy Willie O'Dea asked the Minister for Foreign Affairs and Trade the action she is taking alongside EU partners to support the important work of Russian civil society organisations, human rights defenders and independent media. [69027/26]",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-01/pq_23",
       "date": "2026-10-01",
       "house": {
         "showAs": "34th Dáil",

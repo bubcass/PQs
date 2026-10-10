@@ -1,12 +1,8 @@
-🕓 PQ fetch started at Fri Oct  9 08:15:43 UTC 2026
+🕓 PQ fetch started at Sat Oct 10 07:58:06 UTC 2026
 Mode: daily
-End date (UTC): 2026-10-08
+End date (UTC): 2026-10-09
 Rolling window days: 30
-Refreshing range: 2026-09-09 → 2026-10-08
-📅 Fetching: 2026-09-09 (year 2026)
-✅ 2026-09-09 complete — no more results after page 0
-💾 Wrote data/PQs_paginated/2026/day_2026-09-09.json
-🕒 Sleeping 3s...
+Refreshing range: 2026-09-10 → 2026-10-09
 📅 Fetching: 2026-09-10 (year 2026)
 ✅ 2026-09-10 complete — no more results after page 0
 💾 Wrote data/PQs_paginated/2026/day_2026-09-10.json
@@ -110,7 +106,7 @@ Refreshing range: 2026-09-09 → 2026-10-08
 🕒 Sleeping 3s...
 📅 Fetching: 2026-10-01 (year 2026)
 ✅ Page 0 for 2026-10-01 OK — 300 results
-✅ Page 1 for 2026-10-01 OK — 183 results
+✅ Page 1 for 2026-10-01 OK — 184 results
 ✅ 2026-10-01 complete — no more results after page 2
 💾 Wrote data/PQs_paginated/2026/day_2026-10-01.json
 🕒 Sleeping 3s...
@@ -133,19 +129,23 @@ Refreshing range: 2026-09-09 → 2026-10-08
 📅 Fetching: 2026-10-06 (year 2026)
 ✅ Page 0 for 2026-10-06 OK — 300 results
 ✅ Page 1 for 2026-10-06 OK — 300 results
-✅ Page 2 for 2026-10-06 OK — 30 results
+✅ Page 2 for 2026-10-06 OK — 79 results
 ✅ 2026-10-06 complete — no more results after page 3
 💾 Wrote data/PQs_paginated/2026/day_2026-10-06.json
 🕒 Sleeping 3s...
 📅 Fetching: 2026-10-07 (year 2026)
-✅ Page 0 for 2026-10-07 OK — 13 results
+✅ Page 0 for 2026-10-07 OK — 84 results
 ✅ 2026-10-07 complete — no more results after page 1
 💾 Wrote data/PQs_paginated/2026/day_2026-10-07.json
 🕒 Sleeping 3s...
 📅 Fetching: 2026-10-08 (year 2026)
-✅ Page 0 for 2026-10-08 OK — 13 results
+✅ Page 0 for 2026-10-08 OK — 78 results
 ✅ 2026-10-08 complete — no more results after page 1
 💾 Wrote data/PQs_paginated/2026/day_2026-10-08.json
 🕒 Sleeping 3s...
+📅 Fetching: 2026-10-09 (year 2026)
+✅ 2026-10-09 complete — no more results after page 0
+💾 Wrote data/PQs_paginated/2026/day_2026-10-09.json
+🕒 Sleeping 3s...
 🚀 Merging year 2026...
-✅ PQ fetch completed at Fri Oct  9 08:19:41 UTC 2026
+✅ PQ fetch completed at Sat Oct 10 08:02:04 UTC 2026

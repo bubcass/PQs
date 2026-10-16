@@ -1,0 +1,1242 @@
+[
+  {
+    "question": {
+      "by": {
+        "showAs": "Aengus Ó Snodaigh",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Aengus-Ó-Snodaigh.D.2002-06-06",
+        "memberCode": "Aengus-Ó-Snodaigh.D.2002-06-06"
+      },
+      "to": {
+        "showAs": "Rural",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Soláthar Tithíochta",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-15/debate/dbsect_3",
+        "debateSectionId": "dbsect_3",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-15/debate/mul@/dbsect_3.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 1,
+      "showAs": "1. D'fhiafraigh Deputy Aengus Ó Snodaigh den Minister for Rural and Community Development and the Gaeltacht ar phléigh a Roinn an Staidéar Cuimsitheach Teangeolaíoch agus an córas pleanála leis an Roinn Tithíochta agus iad ag ullmhú an Ráiteas Náisiúnta Pleanála do Cheantair Tuaithe agus Gaeltachta, go háirithe an tábhacht a bhaineann le 67% a bheith ag úsáid na Gaeilge, nó an bhfuil siad ar an eolas faoi, nó ar iarr siad ón Roinn Tithíochta aon chomhairle ó theangeolaithe a thug bunús don chéatadán molta sa Ráiteas do LPT go mbeadh coinníollacha tithíochta bunaithe ar líon na gcainteoirí Gaeilge sa daonáireamh móide 10%. [73302/26]",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-15/pq_1",
+      "date": "2026-10-15",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-15"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Conor D. McGuinness",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Conor-D-McGuinness.D.2024-11-29",
+        "memberCode": "Conor-D-McGuinness.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Rural",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Departmental Policies",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-15/debate/dbsect_4",
+        "debateSectionId": "dbsect_4",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-15/debate/mul@/dbsect_4.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 3,
+      "showAs": "3. Deputy Conor D. McGuinness asked the Minister for Rural and Community Development and the Gaeltacht when he expects the next iteration of Our Rural Future to be launched; and the way in which the Government intends to ensure that its rural development commitments are supported by adequate resources, measurable actions and clear delivery timelines. [73148/26]",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-15/pq_3",
+      "date": "2026-10-15",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-15"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Conor D. McGuinness",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Conor-D-McGuinness.D.2024-11-29",
+        "memberCode": "Conor-D-McGuinness.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Rural",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Departmental Funding",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-15/debate/dbsect_5",
+        "debateSectionId": "dbsect_5",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-15/debate/mul@/dbsect_5.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 4,
+      "showAs": "4. Deputy Conor D. McGuinness asked the Minister for Rural and Community Development and the Gaeltacht if social inclusion and community activation programme, SICAP, funding for next year will be increased or decreased; and the way in which he expects to maintain the delivery of services under the programme if extra resources are not allocated while current costs increase. [73143/26]",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-15/pq_4",
+      "date": "2026-10-15",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-15"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Micheál Carrigy",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Micheál-Carrigy.S.2020-03-30",
+        "memberCode": "Micheál-Carrigy.S.2020-03-30"
+      },
+      "to": {
+        "showAs": "Rural",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Regeneration Projects",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-15/debate/dbsect_6",
+        "debateSectionId": "dbsect_6",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-15/debate/mul@/dbsect_6.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 5,
+      "showAs": "5. Deputy Micheál Carrigy asked the Minister for Rural and Community Development and the Gaeltacht for an update on the progress of the rural regeneration and development fund application process; whether a timeline can be provided for the announcement and release of funding under the current round; and whether consideration will be given to projects such as Newtownforbes Community Hub in County Longford, a building of significant historical and community importance, to ensure that vital community services can be delivered and expanded for the benefit of the local population. [73186/26]",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-15/pq_5",
+      "date": "2026-10-15",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-15"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Paul McAuliffe",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-McAuliffe.D.2020-02-08",
+        "memberCode": "Paul-McAuliffe.D.2020-02-08"
+      },
+      "to": {
+        "showAs": "Rural",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Budget 2027",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-15/debate/dbsect_8",
+        "debateSectionId": "dbsect_8",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-15/debate/mul@/dbsect_8.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 6,
+      "showAs": "6. Deputy Paul McAuliffe asked the Minister for Rural and Community Development and the Gaeltacht the way in which budget 2027 will support disadvantaged urban communities. [72673/26]",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-15/pq_6",
+      "date": "2026-10-15",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-15"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Pádraig O'Sullivan",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Pádraig-O'Sullivan.D.2019-11-29",
+        "memberCode": "Pádraig-O'Sullivan.D.2019-11-29"
+      },
+      "to": {
+        "showAs": "Rural",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Men's Sheds",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-15/debate/dbsect_9",
+        "debateSectionId": "dbsect_9",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-15/debate/mul@/dbsect_9.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 8,
+      "showAs": "8. Deputy Pádraig O'Sullivan asked the Minister for Rural and Community Development and the Gaeltacht to clarify recent difficulties surrounding the funding of men's sheds. [67464/26]",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-15/pq_8",
+      "date": "2026-10-15",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-15"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Sorca Clarke",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Sorca-Clarke.D.2020-02-08",
+        "memberCode": "Sorca-Clarke.D.2020-02-08"
+      },
+      "to": {
+        "showAs": "Rural",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Rural Schemes",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-15/debate/dbsect_10",
+        "debateSectionId": "dbsect_10",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-15/debate/mul@/dbsect_10.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 9,
+      "showAs": "9. Deputy Sorca Clarke asked the Minister for Rural and Community Development and the Gaeltacht the assurances he can give rural communities regarding the future of the LEADER programme, including its funding levels, allocation timelines and long-term security. [72921/26]",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-15/pq_9",
+      "date": "2026-10-15",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-15"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Fionntán Ó Súilleabháin",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Fionntán-Ó-Súilleabháin.D.2024-11-29",
+        "memberCode": "Fionntán-Ó-Súilleabháin.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Rural",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Community Development Projects",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-15/debate/dbsect_11",
+        "debateSectionId": "dbsect_11",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-15/debate/mul@/dbsect_11.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 10,
+      "showAs": "10. Deputy Fionntán Ó Súilleabháin asked the Minister for Rural and Community Development and the Gaeltacht the measures his Department is taking to support the thousands of volunteers who deliver community development activities throughout rural Ireland, particularly to administration, governance, insurance and rising operating costs. [72529/26]",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-15/pq_10",
+      "date": "2026-10-15",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-15"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Thomas Gould",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Thomas-Gould.D.2020-02-08",
+        "memberCode": "Thomas-Gould.D.2020-02-08"
+      },
+      "to": {
+        "showAs": "Rural",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Derelict Sites",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-15/debate/dbsect_12",
+        "debateSectionId": "dbsect_12",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-15/debate/mul@/dbsect_12.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 12,
+      "showAs": "12. Deputy Thomas Gould asked the Minister for Rural and Community Development and the Gaeltacht the role his Department has taken in tackling vacancy and dereliction in our towns and villages. [72877/26]",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-15/pq_12",
+      "date": "2026-10-15",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-15"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Paul McAuliffe",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-McAuliffe.D.2020-02-08",
+        "memberCode": "Paul-McAuliffe.D.2020-02-08"
+      },
+      "to": {
+        "showAs": "Rural",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Budget 2027",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-15/debate/dbsect_8",
+        "debateSectionId": "dbsect_8",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-15/debate/mul@/dbsect_8.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 13,
+      "showAs": "13. Deputy Paul McAuliffe asked the Minister for Rural and Community Development and the Gaeltacht his plans for the use of the increased SÍOL funding, as allocated under budget 2027. [72674/26]",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-15/pq_13",
+      "date": "2026-10-15",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-15"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Martin Daly",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Martin-Daly.D.2024-11-29",
+        "memberCode": "Martin-Daly.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Rural",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Community Development Projects",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-15/debate/dbsect_13",
+        "debateSectionId": "dbsect_13",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-15/debate/mul@/dbsect_13.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 15,
+      "showAs": "15. Deputy Martin Daly asked the Minister for Rural and Community Development and the Gaeltacht the way in which the €208 million allocated to rural development under budget 2027 will benefit communities in Roscommon and East Galway, particularly smaller towns and villages seeking investment in regeneration and community infrastructure; and if he will make a statement on the matter. [72834/26]",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-15/pq_15",
+      "date": "2026-10-15",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-15"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Ruairí Ó Murchú",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruairí-Ó-Murchú.D.2020-02-08",
+        "memberCode": "Ruairí-Ó-Murchú.D.2020-02-08"
+      },
+      "to": {
+        "showAs": "Rural",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Rural Schemes",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-15/debate/dbsect_14",
+        "debateSectionId": "dbsect_14",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-15/debate/mul@/dbsect_14.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 16,
+      "showAs": "16. Deputy Ruairí Ó Murchú asked the Minister for Rural and Community Development and the Gaeltacht the funding available to Louth County Council under the 2026 town and village renewal scheme; the criteria used to assess applications; the expected date for announcing successful projects; and whether additional funding will be considered where the value of eligible applications exceeds the funding available. [72813/26]",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-15/pq_16",
+      "date": "2026-10-15",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-15"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Thomas Gould",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Thomas-Gould.D.2020-02-08",
+        "memberCode": "Thomas-Gould.D.2020-02-08"
+      },
+      "to": {
+        "showAs": "Rural",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Community Development Projects",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-15/debate/dbsect_15",
+        "debateSectionId": "dbsect_15",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-15/debate/mul@/dbsect_15.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 17,
+      "showAs": "17. Deputy Thomas Gould asked the Minister for Rural and Community Development and the Gaeltacht when a new funding phase will be announced for community centre building. [72878/26]",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-15/pq_17",
+      "date": "2026-10-15",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-15"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Brian Brennan",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Brian-Brennan.D.2024-11-29",
+        "memberCode": "Brian-Brennan.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Rural",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Community Development Projects",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-15/debate/dbsect_13",
+        "debateSectionId": "dbsect_13",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-15/debate/mul@/dbsect_13.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 22,
+      "showAs": "22. Deputy Brian Brennan asked the Minister for Rural and Community Development and the Gaeltacht the consideration given to ensure that grant funding is directed towards towns, villages and communities that are lacking in social infrastructure such as community centres, performance spaces and town parks. [72490/26]",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-15/pq_22",
+      "date": "2026-10-15",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-15"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "John Paul O'Shea",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/John-Paul-O'Shea.D.2024-11-29",
+        "memberCode": "John-Paul-O'Shea.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Rural",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Derelict Sites",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-15/debate/dbsect_12",
+        "debateSectionId": "dbsect_12",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-15/debate/mul@/dbsect_12.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 50,
+      "showAs": "50. Deputy John Paul O'Shea asked the Minister for Rural and Community Development and the Gaeltacht the specific supports in place in his Department and in co-operation with other Government Departments to address the issue of dereliction in towns, villages and the rural countryside. [71612/26]",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-15/pq_50",
+      "date": "2026-10-15",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-15"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Brian Brennan",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Brian-Brennan.D.2024-11-29",
+        "memberCode": "Brian-Brennan.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Rural",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Community Development Projects",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-15/debate/dbsect_13",
+        "debateSectionId": "dbsect_13",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-15/debate/mul@/dbsect_13.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 57,
+      "showAs": "57. Deputy Brian Brennan asked the Minister for Rural and Community Development and the Gaeltacht the further incentives he is considering to ensure that small towns and villages in rural Ireland grow, develop and thrive and have the facilities and social infrastructure needed to provide a high quality of life for their communities. [72996/26]",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-15/pq_57",
+      "date": "2026-10-15",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-15"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "David Cullinane",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/David-Cullinane.S.2011-05-25",
+        "memberCode": "David-Cullinane.S.2011-05-25"
+      },
+      "to": {
+        "showAs": "Health",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Ambulance Service",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-15/debate/dbsect_17",
+        "debateSectionId": "dbsect_17",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-15/debate/mul@/dbsect_17.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 86,
+      "showAs": "86. Deputy David Cullinane asked the Minister for Health the actions she is taking to address severe cultural issues as well as capacity deficits in the National Ambulance Service; the way in which she will ensure that the independent investigation delivers accountability and protect staff who come forward; the measures she is taking through budget 2027 to address significant workforce shortages, increase ambulance capacity and improve emergency response times; and if she will make a statement on the matter. [72942/26]",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-15/pq_86",
+      "date": "2026-10-15",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-15"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Pádraig Rice",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Pádraig-Rice.D.2024-11-29",
+        "memberCode": "Pádraig-Rice.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Health",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Hospital Services",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-15/debate/dbsect_18",
+        "debateSectionId": "dbsect_18",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-15/debate/mul@/dbsect_18.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 87,
+      "showAs": "87. Deputy Pádraig Rice asked the Minister for Health her views on recent changes to the DOMINO scheme in Cork University Maternity Hospital; if she has engaged with the south-west region and local management regarding the changes to this midwife-led service; and the way in which the decision to materially alter the scheme's model is consistent with the aims of the national maternity strategy. [73318/26]",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-15/pq_87",
+      "date": "2026-10-15",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-15"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "David Cullinane",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/David-Cullinane.S.2011-05-25",
+        "memberCode": "David-Cullinane.S.2011-05-25"
+      },
+      "to": {
+        "showAs": "Health",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Health Strategies",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-15/debate/dbsect_19",
+        "debateSectionId": "dbsect_19",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-15/debate/mul@/dbsect_19.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 88,
+      "showAs": "88. Deputy David Cullinane asked the Minister for Health if she will ensure the urgent development and implementation of a fully funded national endometriosis strategy and comprehensive national service, including regional multidisciplinary centres of excellence, improved access to diagnosis and specialist treatment, and dedicated surgical capacity; the funding allocated for these services in budget 2027; the timeframe for delivery; and if she will make a statement on the matter. [72940/26]",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-15/pq_88",
+      "date": "2026-10-15",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-15"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Marie Sherlock",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Marie-Sherlock.S.2020-03-30",
+        "memberCode": "Marie-Sherlock.S.2020-03-30"
+      },
+      "to": {
+        "showAs": "Health",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Hospital Services",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-15/debate/dbsect_20",
+        "debateSectionId": "dbsect_20",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-15/debate/mul@/dbsect_20.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 89,
+      "showAs": "89. Deputy Marie Sherlock asked the Minister for Health to set out the gap between her Department's forecast demand and actual demand for emergency department attendances, rapid access cancer clinics and endoscopies in each of the tier 3 escalation areas to date in 2026. [73351/26]",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-15/pq_89",
+      "date": "2026-10-15",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-15"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Ruth Coppinger",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruth-Coppinger.D.2014-05-23",
+        "memberCode": "Ruth-Coppinger.D.2014-05-23"
+      },
+      "to": {
+        "showAs": "Health",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Ambulance Service",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-15/debate/dbsect_17",
+        "debateSectionId": "dbsect_17",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-15/debate/mul@/dbsect_17.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 90,
+      "showAs": "90. Deputy Ruth Coppinger asked the Minister for Health the actions she will take to follow up on allegations of sexual harassment, misogyny, bullying, and intimidation in the National Ambulance Service. [72710/26]",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-15/pq_90",
+      "date": "2026-10-15",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-15"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Tom Brabazon",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tom-Brabazon.D.2024-11-29",
+        "memberCode": "Tom-Brabazon.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Health",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Healthcare Infrastructure Provision",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-15/debate/dbsect_22",
+        "debateSectionId": "dbsect_22",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-15/debate/mul@/dbsect_22.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 91,
+      "showAs": "91. Deputy Tom Brabazon asked the Minister for Health for an update on the proposed new emergency department at Beaumont Hospital; the current status of the project; the funding allocated to date; and the anticipated timeline for the commencement and completion of construction. [72629/26]",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-15/pq_91",
+      "date": "2026-10-15",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-15"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Seán Kyne",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Seán-Kyne.D.2011-03-09",
+        "memberCode": "Seán-Kyne.D.2011-03-09"
+      },
+      "to": {
+        "showAs": "Health",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Hospital Staff",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-15/debate/dbsect_23",
+        "debateSectionId": "dbsect_23",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-15/debate/mul@/dbsect_23.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 92,
+      "showAs": "92. Deputy Seán Kyne asked the Minister for Health the basis for the current recruitment restrictions affecting newly qualified midwives who have recently completed their training and are now registered to practice; the number of vacant midwifery posts in University Hospital Galway; and the measures being taken to fill these vacancies to recruit newly qualified midwives into the public health service. [72271/26]",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-15/pq_92",
+      "date": "2026-10-15",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-15"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Sorca Clarke",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Sorca-Clarke.D.2020-02-08",
+        "memberCode": "Sorca-Clarke.D.2020-02-08"
+      },
+      "to": {
+        "showAs": "Health",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Health Services",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-15/debate/dbsect_24",
+        "debateSectionId": "dbsect_24",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-15/debate/mul@/dbsect_24.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 93,
+      "showAs": "93. Deputy Sorca Clarke asked the Minister for Health the steps she is taking to restore the Mullingar diabetic day centre. [72024/26]",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-15/pq_93",
+      "date": "2026-10-15",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-15"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Barry Ward",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Barry-Ward.S.2020-03-30",
+        "memberCode": "Barry-Ward.S.2020-03-30"
+      },
+      "to": {
+        "showAs": "Health",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Hospital Services",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-15/debate/dbsect_25",
+        "debateSectionId": "dbsect_25",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-15/debate/mul@/dbsect_25.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 94,
+      "showAs": "94. Deputy Barry Ward asked the Minister for Health if she has considered the impact that a withdrawal of private maternity care services will have on women's choice in maternity care; and if she can offer reassurances to women that have genuine concerns about this proposal and particularly those that have experienced or are likely to experience difficult or high risk pregnancies. [71452/26]",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-15/pq_94",
+      "date": "2026-10-15",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-15"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Naoise Ó Cearúil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Naoise-Ó-Cearúil.D.2024-11-29",
+        "memberCode": "Naoise-Ó-Cearúil.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Health",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Cancer Services",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-15/debate/dbsect_26",
+        "debateSectionId": "dbsect_26",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-15/debate/mul@/dbsect_26.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 95,
+      "showAs": "95. Deputy Naoise Ó Cearúil asked the Minister for Health the factors contributing to urgent referrals to symptomatic breast disease clinics exceeding the ten working day target set out in the national cancer strategy; and the steps being taken to ensure timely assessment of patients. [72874/26]",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-15/pq_95",
+      "date": "2026-10-15",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-15"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Joe Neville",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Joe-Neville.D.2024-11-29",
+        "memberCode": "Joe-Neville.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Health",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Dental Services",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-15/debate/dbsect_29",
+        "debateSectionId": "dbsect_29",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-15/debate/mul@/dbsect_29.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 96,
+      "showAs": "96. Deputy Joe Neville asked the Minister for Health if she is aware of the major backlog in the school dental screening service in Kildare; and if her Department will consider screening children earlier to ensure children are screened before leaving primary school. [72906/26]",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-15/pq_96",
+      "date": "2026-10-15",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-15"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Thomas Gould",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Thomas-Gould.D.2020-02-08",
+        "memberCode": "Thomas-Gould.D.2020-02-08"
+      },
+      "to": {
+        "showAs": "Health",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Nursing Homes",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-15/debate/dbsect_27",
+        "debateSectionId": "dbsect_27",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-15/debate/mul@/dbsect_27.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 97,
+      "showAs": "97. Deputy Thomas Gould asked the Minister for Health if she is aware that the dementia unit in Sarsfield Court is still proposed for closure given her commitment that no resident would move unless families are satisfied and the number of families who do not want their loved ones to move. [72875/26]",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-15/pq_97",
+      "date": "2026-10-15",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-15"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Thomas Gould",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Thomas-Gould.D.2020-02-08",
+        "memberCode": "Thomas-Gould.D.2020-02-08"
+      },
+      "to": {
+        "showAs": "Health",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Hospital Services",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-15/debate/dbsect_28",
+        "debateSectionId": "dbsect_28",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-15/debate/mul@/dbsect_28.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 98,
+      "showAs": "98. Deputy Thomas Gould asked the Minister for Health if she will report on the potential closure of the DOMINO scheme in CUMH. [72876/26]",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-15/pq_98",
+      "date": "2026-10-15",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-15"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Albert Dolan",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Albert-Dolan.D.2024-11-29",
+        "memberCode": "Albert-Dolan.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Health",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Health Services Staff",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-15/debate/dbsect_30",
+        "debateSectionId": "dbsect_30",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-15/debate/mul@/dbsect_30.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 99,
+      "showAs": "99. Deputy Albert Dolan asked the Minister for Health the action she is taking to ensure that all newly qualified nurses and midwives graduating in 2026 are offered permanent HSE contracts in accordance with existing national policy; the reason contracts are being withheld in some health regions despite significant nursing and midwifery vacancies, including at University Hospital Galway; and if she will make a statement on the matter. [72324/26]",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-15/pq_99",
+      "date": "2026-10-15",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-15"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Malcolm Byrne",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Malcolm-Byrne.D.2019-11-29",
+        "memberCode": "Malcolm-Byrne.D.2019-11-29"
+      },
+      "to": {
+        "showAs": "Health",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Primary Care Centres",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-15/debate/dbsect_31",
+        "debateSectionId": "dbsect_31",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-15/debate/mul@/dbsect_31.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 104,
+      "showAs": "104. Deputy Malcolm Byrne asked the Minister for Health to provide an update on the development of the planned new primary care centre for Gorey, County Wexford. [72409/26]",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-15/pq_104",
+      "date": "2026-10-15",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-15"
+  }
+]

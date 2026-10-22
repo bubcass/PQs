@@ -1798,5 +1798,645 @@
       }
     },
     "contextDate": "2026-10-20"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Aengus Ó Snodaigh",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Aengus-Ó-Snodaigh.D.2002-06-06",
+        "memberCode": "Aengus-Ó-Snodaigh.D.2002-06-06"
+      },
+      "to": {
+        "showAs": "Culture",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Departmental Bodies",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-20/debate/dbsect_24",
+        "debateSectionId": "dbsect_24",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-20/debate/mul@/dbsect_24.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 116,
+      "showAs": "116. Deputy Aengus Ó Snodaigh asked the Minister for Culture, Communications and Sport to list the agencies under his Department’s aegis which have had a real-terms cut in Budget 2027 compared to Budget 2026 when inflation is factored in and where he expects the resulting cuts to be made. [74421/26]",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-20/pq_116",
+      "date": "2026-10-20",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-20"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Sinéad Gibney",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Sinéad-Gibney.D.2024-11-29",
+        "memberCode": "Sinéad-Gibney.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Culture",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Raidió Teilifís Éireann",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-20/debate/dbsect_25",
+        "debateSectionId": "dbsect_25",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-20/debate/mul@/dbsect_25.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 117,
+      "showAs": "117. Deputy Sinéad Gibney asked the Minister for Culture, Communications and Sport for an update on the funding of RTÉ and the reinstatement of the €20 million in promised multiannual funding. [74373/26]",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-20/pq_117",
+      "date": "2026-10-20",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-20"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Joanna Byrne",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Joanna-Byrne.D.2024-11-29",
+        "memberCode": "Joanna-Byrne.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Culture",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Sports Funding",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-20/debate/dbsect_26",
+        "debateSectionId": "dbsect_26",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-20/debate/mul@/dbsect_26.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 118,
+      "showAs": "118. Deputy Joanna Byrne asked the Minister for Culture, Communications and Sport the way in which he plans to clear the backlog in approved applications for the large-scale sport infrastructure fund when the scheme has only been given an allocation of €39 million for 2027. [73886/26]",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-20/pq_118",
+      "date": "2026-10-20",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-20"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Joanna Byrne",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Joanna-Byrne.D.2024-11-29",
+        "memberCode": "Joanna-Byrne.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Culture",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Raidió Teilifís Éireann",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-20/debate/dbsect_25",
+        "debateSectionId": "dbsect_25",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-20/debate/mul@/dbsect_25.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 119,
+      "showAs": "119. Deputy Joanna Byrne asked the Minister for Culture, Communications and Sport to detail the reasons, missed key performance indicators or criteria that led to his decision to cut RTÉ’s previously agreed public funding for 2027 by €20 million. [73874/26]",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-20/pq_119",
+      "date": "2026-10-20",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-20"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Barry Heneghan",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Barry-Heneghan.D.2024-11-29",
+        "memberCode": "Barry-Heneghan.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Culture",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Sports Facilities",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-20/debate/dbsect_28",
+        "debateSectionId": "dbsect_28",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-20/debate/mul@/dbsect_28.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 120,
+      "showAs": "120. Deputy Barry Heneghan asked the Minister for Culture, Communications and Sport the position regarding plans to develop new all-weather pitches across north Dublin, including the locations being considered; the funding allocated and the expected timelines for delivery; and whether additional funding will be made available to meet the growing demand from local sports clubs. [74087/26]",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-20/pq_120",
+      "date": "2026-10-20",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-20"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Grace Boland",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Grace-Boland.D.2024-11-29",
+        "memberCode": "Grace-Boland.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Culture",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Broadband Infrastructure",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-20/debate/dbsect_29",
+        "debateSectionId": "dbsect_29",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-20/debate/mul@/dbsect_29.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 121,
+      "showAs": "121. Deputy Grace Boland asked the Minister for Culture, Communications and Sport the measures being taken to address broadband connectivity issues in towns and villages that fall outside the National Broadband Plan intervention area but where residents and businesses continue to report poor broadband service. [66726/26]",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-20/pq_121",
+      "date": "2026-10-20",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-20"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Naoise Ó Cearúil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Naoise-Ó-Cearúil.D.2024-11-29",
+        "memberCode": "Naoise-Ó-Cearúil.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Culture",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Sports Funding",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-20/debate/dbsect_30",
+        "debateSectionId": "dbsect_30",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-20/debate/mul@/dbsect_30.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 122,
+      "showAs": "122. Deputy Naoise Ó Cearúil asked the Minister for Culture, Communications and Sport the way in which population growth, existing facility provision and projected demand will be considered in the allocation of sports capital funding provided for under budget 2027, particularly in rapidly growing constituencies such as Kildare North. [74017/26]",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-20/pq_122",
+      "date": "2026-10-20",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-20"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Colm Burke",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Colm-Burke.S.2011-05-25",
+        "memberCode": "Colm-Burke.S.2011-05-25"
+      },
+      "to": {
+        "showAs": "Culture",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Sports Funding",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-20/debate/dbsect_31",
+        "debateSectionId": "dbsect_31",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-20/debate/mul@/dbsect_31.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 123,
+      "showAs": "123. Deputy Colm Burke asked the Minister for Culture, Communications and Sport to confirm the details of the community sport facilities fund which is opening to applications in October 2026; the total amount of funding allocated to the fund; and the additional measures available in this round. [73899/26]",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-20/pq_123",
+      "date": "2026-10-20",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-20"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Pádraig O'Sullivan",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Pádraig-O'Sullivan.D.2019-11-29",
+        "memberCode": "Pádraig-O'Sullivan.D.2019-11-29"
+      },
+      "to": {
+        "showAs": "Culture",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Sports Facilities",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-20/debate/dbsect_32",
+        "debateSectionId": "dbsect_32",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-20/debate/mul@/dbsect_32.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 124,
+      "showAs": "124. Deputy Pádraig O'Sullivan asked the Minister for Culture, Communications and Sport further to parliamentary question No. 44338/26 of 11 June 2026, and his statement that “projects that are not moving forward will have to be taken off the books so new ones can be considered”, whether any projects have since been removed from consideration under the large-scale sport infrastructure fund; the amount of funding involved; and whether that funding is to be reallocated. [74009/26]",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-20/pq_124",
+      "date": "2026-10-20",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-20"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Barry Ward",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Barry-Ward.S.2020-03-30",
+        "memberCode": "Barry-Ward.S.2020-03-30"
+      },
+      "to": {
+        "showAs": "Culture",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Social Media",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-20/debate/dbsect_33",
+        "debateSectionId": "dbsect_33",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-20/debate/mul@/dbsect_33.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 125,
+      "showAs": "125. Deputy Barry Ward asked the Minister for Culture, Communications and Sport the position regarding any engagement he has had with his EU counterparts to push for an EU-wide ban on social media use for under-16s. [73604/26]",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-20/pq_125",
+      "date": "2026-10-20",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-20"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Edward Timmins",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Edward-Timmins.D.2024-11-29",
+        "memberCode": "Edward-Timmins.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Culture",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Commemorative Events",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-20/debate/dbsect_34",
+        "debateSectionId": "dbsect_34",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-20/debate/mul@/dbsect_34.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 126,
+      "showAs": "126. Deputy Edward Timmins asked the Minister for Culture, Communications and Sport the position regarding the American Presidents Trail. [74079/26]",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-20/pq_126",
+      "date": "2026-10-20",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-20"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Grace Boland",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Grace-Boland.D.2024-11-29",
+        "memberCode": "Grace-Boland.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Culture",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Broadband Infrastructure",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-20/debate/dbsect_29",
+        "debateSectionId": "dbsect_29",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-20/debate/mul@/dbsect_29.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 128,
+      "showAs": "128. Deputy Grace Boland asked the Minister for Culture, Communications and Sport his views that the current broadband supports available to remote workers and small businesses who remain affected by poor connectivity are sufficient; and whether additional measures are under consideration pending the completion of fibre rollout. [66727/26]",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-20/pq_128",
+      "date": "2026-10-20",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-20"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Louis O'Hara",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Louis-O'Hara.D.2024-11-29",
+        "memberCode": "Louis-O'Hara.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Culture",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Sports Funding",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-20/debate/dbsect_35",
+        "debateSectionId": "dbsect_35",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-20/debate/mul@/dbsect_35.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 129,
+      "showAs": "129. Deputy Louis O'Hara asked the Minister for Culture, Communications and Sport if he plans to introduce a new grant scheme for local authorities to fund the development of swimming pools. [73536/26]",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-20/pq_129",
+      "date": "2026-10-20",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-20"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Aengus Ó Snodaigh",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Aengus-Ó-Snodaigh.D.2002-06-06",
+        "memberCode": "Aengus-Ó-Snodaigh.D.2002-06-06"
+      },
+      "to": {
+        "showAs": "Culture",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Budget 2027",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-20/debate/dbsect_36",
+        "debateSectionId": "dbsect_36",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-20/debate/mul@/dbsect_36.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 130,
+      "showAs": "130. Deputy Aengus Ó Snodaigh asked the Minister for Culture, Communications and Sport the position regarding the culture card which was promised in advance of budget 2027; if he has considered the activity card proposal put forward by Sinn Féin which would apply not only to ticketed events but to active participation of children in sports and cultural activities. [74475/26]",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-20/pq_130",
+      "date": "2026-10-20",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-20"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Aengus Ó Snodaigh",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Aengus-Ó-Snodaigh.D.2002-06-06",
+        "memberCode": "Aengus-Ó-Snodaigh.D.2002-06-06"
+      },
+      "to": {
+        "showAs": "Culture",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Budget 2027",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-20/debate/dbsect_37",
+        "debateSectionId": "dbsect_37",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-20/debate/mul@/dbsect_37.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 132,
+      "showAs": "132. Deputy Aengus Ó Snodaigh asked the Minister for Culture, Communications and Sport the engagement his officials had with the Department of Finance in advance of budget 2027 in relation to tax relief for arts and culture, specifically in relation to developing a regional uplift for section 481 and to extending the tax relief for donations to certain sports bodies to apply also to arts bodies; and the consideration his Department has given to these proposals. [74474/26]",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-20/pq_132",
+      "date": "2026-10-20",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-20"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Colm Burke",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Colm-Burke.S.2011-05-25",
+        "memberCode": "Colm-Burke.S.2011-05-25"
+      },
+      "to": {
+        "showAs": "Culture",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Sport and Recreational Development",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-20/debate/dbsect_38",
+        "debateSectionId": "dbsect_38",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-20/debate/mul@/dbsect_38.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 133,
+      "showAs": "133. Deputy Colm Burke asked the Minister for Culture, Communications and Sport the mechanisms available for a community group and sports clubs to apply for funding for a sports pavilion where the funding level required is greatly in excess of the €250,000 for local groups in the community sport facilities fund. [73901/26]",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-20/pq_133",
+      "date": "2026-10-20",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-20"
   }
 ]

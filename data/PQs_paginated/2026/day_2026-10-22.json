@@ -1,0 +1,1202 @@
+[
+  {
+    "question": {
+      "by": {
+        "showAs": "Mairéad Farrell",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Mairéad-Farrell.D.2020-02-08",
+        "memberCode": "Mairéad-Farrell.D.2020-02-08"
+      },
+      "to": {
+        "showAs": "Public Expenditure",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Semi-State Bodies",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-22/debate/dbsect_3",
+        "debateSectionId": "dbsect_3",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-22/debate/mul@/dbsect_3.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 1,
+      "showAs": "1. Deputy Mairéad Farrell asked the Minister for Public Expenditure, Infrastructure, Public Service Reform and Digitalisation to provide an update on the semi-State companies which have received his ministerial approval to deliver pay increases for their CEOs. [74675/26]",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-22/pq_1",
+      "date": "2026-10-22",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-22"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Ged Nash",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Gerald-Nash.D.2011-03-09",
+        "memberCode": "Gerald-Nash.D.2011-03-09"
+      },
+      "to": {
+        "showAs": "Public Expenditure",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Public Expenditure Policy",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-22/debate/dbsect_4",
+        "debateSectionId": "dbsect_4",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-22/debate/mul@/dbsect_4.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 2,
+      "showAs": "2. Deputy Ged Nash asked the Minister for Public Expenditure, Infrastructure, Public Service Reform and Digitalisation to provide details of his proposed public spending efficiency task force; its terms of reference and membership, and when the task force will commence its work. [75204/26]",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-22/pq_2",
+      "date": "2026-10-22",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-22"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Mairéad Farrell",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Mairéad-Farrell.D.2020-02-08",
+        "memberCode": "Mairéad-Farrell.D.2020-02-08"
+      },
+      "to": {
+        "showAs": "Public Expenditure",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Budget 2027",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-22/debate/dbsect_5",
+        "debateSectionId": "dbsect_5",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-22/debate/mul@/dbsect_5.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 3,
+      "showAs": "3. Deputy Mairéad Farrell asked the Minister for Public Expenditure, Infrastructure, Public Service Reform and Digitalisation to give an update on the way in which public expenditure within budget 2027 will impact on workers and families struggling with the cost-of-living. [74674/26]",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-22/pq_3",
+      "date": "2026-10-22",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-22"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Mairéad Farrell",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Mairéad-Farrell.D.2020-02-08",
+        "memberCode": "Mairéad-Farrell.D.2020-02-08"
+      },
+      "to": {
+        "showAs": "Public Expenditure",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Public Sector Pay",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-22/debate/dbsect_6",
+        "debateSectionId": "dbsect_6",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-22/debate/mul@/dbsect_6.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 4,
+      "showAs": "4. Deputy Mairéad Farrell asked the Minister for Public Expenditure, Infrastructure, Public Service Reform and Digitalisation to give an update on the progress of a new public sector pay agreement. [74673/26]",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-22/pq_4",
+      "date": "2026-10-22",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-22"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Grace Boland",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Grace-Boland.D.2024-11-29",
+        "memberCode": "Grace-Boland.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Public Expenditure",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Civil Service",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-22/debate/dbsect_7",
+        "debateSectionId": "dbsect_7",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-22/debate/mul@/dbsect_7.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 5,
+      "showAs": "5. Deputy Grace Boland asked the Minister for Public Expenditure, Infrastructure, Public Service Reform and Digitalisation if he has assessed the gaps in specialist expertise across the civil service and wider public service, including in policy development and evaluation, economics, engineering, procurement, digital and data, and major project delivery; and the steps he will take to recruit, develop and retain those skills. [75026/26]",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-22/pq_5",
+      "date": "2026-10-22",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-22"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Thomas Gould",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Thomas-Gould.D.2020-02-08",
+        "memberCode": "Thomas-Gould.D.2020-02-08"
+      },
+      "to": {
+        "showAs": "Public Expenditure",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Office of Public Works",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-22/debate/dbsect_9",
+        "debateSectionId": "dbsect_9",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-22/debate/mul@/dbsect_9.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 6,
+      "showAs": "6. Deputy Thomas Gould asked the Minister for Public Expenditure, Infrastructure, Public Service Reform and Digitalisation the number of new sites purchased by the OPW in each of the past five years. [73836/26]",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-22/pq_6",
+      "date": "2026-10-22",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-22"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Louis O'Hara",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Louis-O'Hara.D.2024-11-29",
+        "memberCode": "Louis-O'Hara.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Public Expenditure",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Flood Relief Schemes",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-22/debate/dbsect_10",
+        "debateSectionId": "dbsect_10",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-22/debate/mul@/dbsect_10.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 7,
+      "showAs": "7. Deputy Louis O'Hara asked the Minister for Public Expenditure, Infrastructure, Public Service Reform and Digitalisation to provide an update on the south Galway flood relief scheme. [73544/26]",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-22/pq_7",
+      "date": "2026-10-22",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-22"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Aindrias Moynihan",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Aindrias-Moynihan.D.2016-10-03",
+        "memberCode": "Aindrias-Moynihan.D.2016-10-03"
+      },
+      "to": {
+        "showAs": "Public Expenditure",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Flood Relief Schemes",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-22/debate/dbsect_11",
+        "debateSectionId": "dbsect_11",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-22/debate/mul@/dbsect_11.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 8,
+      "showAs": "8. Deputy Aindrias Moynihan asked the Minister for Public Expenditure, Infrastructure, Public Service Reform and Digitalisation the up-to-date position on tranche 2 flood relief schemes; when these will be released for progression; if the Ballingeary and Inchigeelagh flood relief works have been included under a tranche 2 flood relief scheme; and if he will make a statement on the matter. [74879/26]",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-22/pq_8",
+      "date": "2026-10-22",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-22"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Paul Murphy",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Murphy.D.2014-10-10",
+        "memberCode": "Paul-Murphy.D.2014-10-10"
+      },
+      "to": {
+        "showAs": "Public Expenditure",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Public Sector Pay",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-22/debate/dbsect_12",
+        "debateSectionId": "dbsect_12",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-22/debate/mul@/dbsect_12.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 10,
+      "showAs": "10. Deputy Paul Murphy asked the Minister for Public Expenditure, Infrastructure, Public Service Reform and Digitalisation if he will commit to above inflation pay increases for public servants in any public sector pay deal; and if he will make a statement on the matter. [74553/26]",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-22/pq_10",
+      "date": "2026-10-22",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-22"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Joe Cooney",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Joe-Cooney.D.2024-11-29",
+        "memberCode": "Joe-Cooney.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Public Expenditure",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Flood Relief Schemes",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-22/debate/dbsect_13",
+        "debateSectionId": "dbsect_13",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-22/debate/mul@/dbsect_13.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 11,
+      "showAs": "11. Deputy Joe Cooney asked the Minister for Public Expenditure, Infrastructure, Public Service Reform and Digitalisation if he will provide an update on progress of the Kilkee flood relief scheme; the timeline for construction; and the plans in place to commence the coastal flooding mitigation works. [74652/26]",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-22/pq_11",
+      "date": "2026-10-22",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-22"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Paul Murphy",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Murphy.D.2014-10-10",
+        "memberCode": "Paul-Murphy.D.2014-10-10"
+      },
+      "to": {
+        "showAs": "Public Expenditure",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Public Sector Pay",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-22/debate/dbsect_12",
+        "debateSectionId": "dbsect_12",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-22/debate/mul@/dbsect_12.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 12,
+      "showAs": "12. Deputy Paul Murphy asked the Minister for Public Expenditure, Infrastructure, Public Service Reform and Digitalisation if he will ensure that any public sector pay deal prioritises lower and middle-income public servants; and if he will make a statement on the matter. [74554/26]",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-22/pq_12",
+      "date": "2026-10-22",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-22"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Seán Ó Fearghaíl",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Seán-Ó-Fearghaíl.S.2000-06-09",
+        "memberCode": "Seán-Ó-Fearghaíl.S.2000-06-09"
+      },
+      "to": {
+        "showAs": "Public Expenditure",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Artificial Intelligence",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-22/debate/dbsect_14",
+        "debateSectionId": "dbsect_14",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-22/debate/mul@/dbsect_14.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 14,
+      "showAs": "14. Deputy Seán Ó Fearghaíl asked the Minister for Public Expenditure, Infrastructure, Public Service Reform and Digitalisation if he will report on the implementation of the guidelines for the responsible use of artificial intelligence in the public service. [74401/26]",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-22/pq_14",
+      "date": "2026-10-22",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-22"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Emer Currie",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Emer-Currie.S.2020-06-29",
+        "memberCode": "Emer-Currie.S.2020-06-29"
+      },
+      "to": {
+        "showAs": "Public Expenditure",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "National Parks",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-22/debate/dbsect_15",
+        "debateSectionId": "dbsect_15",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-22/debate/mul@/dbsect_15.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 15,
+      "showAs": "15. Deputy Emer Currie asked the Minister for Public Expenditure, Infrastructure, Public Service Reform and Digitalisation if he will consider the acquisition of lands adjoining the Phoenix Park to facilitate the establishment of a Liffey Valley regional park. [74681/26]",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-22/pq_15",
+      "date": "2026-10-22",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-22"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Brian Stanley",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Brian-Stanley.D.2011-03-09",
+        "memberCode": "Brian-Stanley.D.2011-03-09"
+      },
+      "to": {
+        "showAs": "Public Expenditure",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Public Sector Pay",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-22/debate/dbsect_12",
+        "debateSectionId": "dbsect_12",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-22/debate/mul@/dbsect_12.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 16,
+      "showAs": "16. Deputy Brian Stanley asked the Minister for Public Expenditure, Infrastructure, Public Service Reform and Digitalisation if the €1.2 billion provided in budget 2027 is adequate to meet the pay commitments in the public sector; if this will account for inflationary pressures over the course of 2027; and the steps he is taking to engage fully in resolving issues and ensuring pay is prioritised. [74422/26]",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-22/pq_16",
+      "date": "2026-10-22",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-22"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Ruairí Ó Murchú",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruairí-Ó-Murchú.D.2020-02-08",
+        "memberCode": "Ruairí-Ó-Murchú.D.2020-02-08"
+      },
+      "to": {
+        "showAs": "Public Expenditure",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Public Sector Pay",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-22/debate/dbsect_12",
+        "debateSectionId": "dbsect_12",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-22/debate/mul@/dbsect_12.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 18,
+      "showAs": "18. Deputy Ruairí Ó Murchú asked the Minister for Public Expenditure, Infrastructure, Public Service Reform and Digitalisation to provide an update on the progress being made on a public sector pay deal. [74754/26]",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-22/pq_18",
+      "date": "2026-10-22",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-22"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Emer Currie",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Emer-Currie.S.2020-06-29",
+        "memberCode": "Emer-Currie.S.2020-06-29"
+      },
+      "to": {
+        "showAs": "Public Expenditure",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "National Parks",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-22/debate/dbsect_15",
+        "debateSectionId": "dbsect_15",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-22/debate/mul@/dbsect_15.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 68,
+      "showAs": "68. Deputy Emer Currie asked the Minister for Public Expenditure, Infrastructure, Public Service Reform and Digitalisation for an update on the Liffey Valley Park strategy. [74682/26]",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-22/pq_68",
+      "date": "2026-10-22",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-22"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Darren O'Rourke",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Darren-O'Rourke.D.2020-02-08",
+        "memberCode": "Darren-O'Rourke.D.2020-02-08"
+      },
+      "to": {
+        "showAs": "Education",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Special Educational Needs",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-22/debate/dbsect_17",
+        "debateSectionId": "dbsect_17",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-22/debate/mul@/dbsect_17.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 84,
+      "showAs": "84. Deputy Darren O'Rourke asked the Minister for Education and Youth to provide an update on her plans to remove a diagnosis as an eligibility criteria for a special education placement; the extent of engagement with teachers and their representatives in developing her plans to date; the extent to which the impact such a change would have on demand for resources has been assessed and the approach taken to this assessment; and the practical steps she intends to take to advance and implement her plans. [75294/26]",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-22/pq_84",
+      "date": "2026-10-22",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-22"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Jen Cummins",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Jen-Cummins.D.2024-11-29",
+        "memberCode": "Jen-Cummins.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Education",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Special Educational Needs",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-22/debate/dbsect_18",
+        "debateSectionId": "dbsect_18",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-22/debate/mul@/dbsect_18.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 85,
+      "showAs": "85. Deputy Jen Cummins asked the Minister for Education and Youth her plans for redesignation of mild general learning disability schools. [75316/26]",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-22/pq_85",
+      "date": "2026-10-22",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-22"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Eoghan Kenny",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Eoghan-Kenny.D.2024-11-29",
+        "memberCode": "Eoghan-Kenny.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Education",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Special Educational Needs",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-22/debate/dbsect_19",
+        "debateSectionId": "dbsect_19",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-22/debate/mul@/dbsect_19.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 86,
+      "showAs": "86. Deputy Eoghan Kenny asked the Minister for Education and Youth to provide an update on the number of applications for a special place in County Kildare; the age profile of the applicants; the number that have been successful; and the plans to provide a school place for those that were unsuccessful. [74947/26]",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-22/pq_86",
+      "date": "2026-10-22",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-22"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Joe Cooney",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Joe-Cooney.D.2024-11-29",
+        "memberCode": "Joe-Cooney.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Education",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Special Educational Needs",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-22/debate/dbsect_20",
+        "debateSectionId": "dbsect_20",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-22/debate/mul@/dbsect_20.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 87,
+      "showAs": "87. Deputy Joe Cooney asked the Minister for Education and Youth the number of primary school pupils in County Clare who are currently receiving additional teaching support for literacy difficulties, including dyslexia; the way in which this compares with the previous three school years; and the waiting lists for specialist reading classes for the same years. [74989/26]",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-22/pq_87",
+      "date": "2026-10-22",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-22"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Darren O'Rourke",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Darren-O'Rourke.D.2020-02-08",
+        "memberCode": "Darren-O'Rourke.D.2020-02-08"
+      },
+      "to": {
+        "showAs": "Education",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Education Schemes",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-22/debate/dbsect_22",
+        "debateSectionId": "dbsect_22",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-22/debate/mul@/dbsect_22.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 88,
+      "showAs": "88. Deputy Darren O'Rourke asked the Minister for Education and Youth the amount spent on the scheme for the commissioning of psychological assessments, SCPA, in each of the past five school years, broken down by primary and secondary and year, in tabular form. [74817/26]",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-22/pq_88",
+      "date": "2026-10-22",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-22"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Ryan O'Meara",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ryan-O'Meara.D.2024-11-29",
+        "memberCode": "Ryan-O'Meara.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Education",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Education Policy",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-22/debate/dbsect_23",
+        "debateSectionId": "dbsect_23",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-22/debate/mul@/dbsect_23.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 89,
+      "showAs": "89. Deputy Ryan O'Meara asked the Minister for Education and Youth if she will consider expanding AI literacy in schools, including the teaching of the safe and responsible use of artificial intelligence in primary schools and curriculum-based AI literacy modules for students at junior cycle and senior cycle. [74868/26]",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-22/pq_89",
+      "date": "2026-10-22",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-22"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Darren O'Rourke",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Darren-O'Rourke.D.2020-02-08",
+        "memberCode": "Darren-O'Rourke.D.2020-02-08"
+      },
+      "to": {
+        "showAs": "Education",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "School Attendance",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-22/debate/dbsect_24",
+        "debateSectionId": "dbsect_24",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-22/debate/mul@/dbsect_24.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 90,
+      "showAs": "90. Deputy Darren O'Rourke asked the Minister for Education and Youth the way in which she plans to respond to recent school attendance data; and the supports and training her Department has in place for school leaders, home school community liaisons, HSCLs, teachers and SNAs regarding emotionally based school non-attendance, EBSNA. [74815/26]",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-22/pq_90",
+      "date": "2026-10-22",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-22"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Louise O'Reilly",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Louise-O'Reilly.D.2016-10-03",
+        "memberCode": "Louise-O'Reilly.D.2016-10-03"
+      },
+      "to": {
+        "showAs": "Education",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "School Staff",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-22/debate/dbsect_25",
+        "debateSectionId": "dbsect_25",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-22/debate/mul@/dbsect_25.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 91,
+      "showAs": "91. Deputy Louise O'Reilly asked the Minister for Education and Youth if she is aware that taking a teacher away from a school (details supplied) will result in a 50% increase in class sizes from 22 students to 33 students; if she is aware of concerns of parents about the ensuing detrimental impacts on the education and well-being of their children; if she is aware of the impact this will have on autistic students; if she is aware this goes against Government commitments to reduce class sizes; and if she will address this to ensure all current teaching posts are retained. [69978/26]",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-22/pq_91",
+      "date": "2026-10-22",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-22"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Naoise Ó Cearúil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Naoise-Ó-Cearúil.D.2024-11-29",
+        "memberCode": "Naoise-Ó-Cearúil.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Education",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Special Educational Needs",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-22/debate/dbsect_26",
+        "debateSectionId": "dbsect_26",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-22/debate/mul@/dbsect_26.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 92,
+      "showAs": "92. Deputy Naoise Ó Cearúil asked the Minister for Education and Youth the way in which schools in Kildare North will benefit from the additional investment in special education from budget 2027, particularly in relation to the provision of special classes, special education teachers and SNAs. [74874/26]",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-22/pq_92",
+      "date": "2026-10-22",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-22"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "John Clendennen",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/John-Clendennen.D.2024-11-29",
+        "memberCode": "John-Clendennen.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Education",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Special Educational Needs",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-22/debate/dbsect_27",
+        "debateSectionId": "dbsect_27",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-22/debate/mul@/dbsect_27.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 93,
+      "showAs": "93. Deputy John Clendennen asked the Minister for Education and Youth her views on the impact that changes to special education school transport and escort provision have on children with special educational needs. [74578/26]",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-22/pq_93",
+      "date": "2026-10-22",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-22"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Liam Quaide",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Liam-Quaide.D.2024-11-29",
+        "memberCode": "Liam-Quaide.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Education",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Youth Services",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-22/debate/dbsect_28",
+        "debateSectionId": "dbsect_28",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-22/debate/mul@/dbsect_28.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 94,
+      "showAs": "94. Deputy Liam Quaide asked the Minister for Education and Youth the funding to be provided for youth services in 2027; the number of additional staff to be recruited through this funding, broken down by role, funding scheme and county; the net increase in staffing compared with 2026; and the timetable for recruitment and filling these posts, in tabular form. [74607/26]",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-22/pq_94",
+      "date": "2026-10-22",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-22"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Séamus McGrath",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Séamus-McGrath.D.2024-11-29",
+        "memberCode": "Séamus-McGrath.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Education",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Schools Building Projects",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-22/debate/dbsect_29",
+        "debateSectionId": "dbsect_29",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-22/debate/mul@/dbsect_29.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 95,
+      "showAs": "95. Deputy Séamus McGrath asked the Minister for Education and Youth for a full update on a proposed new school (details supplied). [74704/26]",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-22/pq_95",
+      "date": "2026-10-22",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-22"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Shónagh Ní Raghallaigh",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Shónagh-Ní-Raghallaigh.D.2024-11-29",
+        "memberCode": "Shónagh-Ní-Raghallaigh.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Education",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Special Educational Needs",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-22/debate/dbsect_30",
+        "debateSectionId": "dbsect_30",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-22/debate/mul@/dbsect_30.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 96,
+      "showAs": "96. Deputy Shónagh Ní Raghallaigh asked the Minister for Education and Youth the actions she is taking to ensure safe staffing levels in all special schools and to ensure that all children attending special schools can access a full school timetable. [73911/26]",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-22/pq_96",
+      "date": "2026-10-22",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-22"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Seán Kyne",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Seán-Kyne.D.2011-03-09",
+        "memberCode": "Seán-Kyne.D.2011-03-09"
+      },
+      "to": {
+        "showAs": "Education",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Schools Building Projects",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-22/debate/dbsect_31",
+        "debateSectionId": "dbsect_31",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-10-22/debate/mul@/dbsect_31.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 97,
+      "showAs": "97. Deputy Seán Kyne asked the Minister for Education and Youth for an update on the proposed new school building for a school (details supplied); the current status and timeline for the project; and the extent to which the proposed relocation of the school to Dangan would facilitate the release of the existing Nun’s Island campus for the future expansion of University of Galway. [74719/26]",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-10-22/pq_97",
+      "date": "2026-10-22",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-10-22"
+  }
+]

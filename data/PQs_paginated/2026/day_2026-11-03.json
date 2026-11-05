@@ -1718,5 +1718,685 @@
       }
     },
     "contextDate": "2026-11-03"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Donnchadh Ó Laoghaire",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Donnchadh-Ó-Laoghaire.D.2016-10-03",
+        "memberCode": "Donnchadh-Ó-Laoghaire.D.2016-10-03"
+      },
+      "to": {
+        "showAs": "Defence",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Defence Forces",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-03/debate/dbsect_24",
+        "debateSectionId": "dbsect_24",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-03/debate/mul@/dbsect_24.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 94,
+      "showAs": "94. Deputy Donnchadh Ó Laoghaire asked the Minister for Defence her views on the Government's proposal to end the requirement for a UN mandate for the deployment of Irish personnel as part of an international force. [77955/26]",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-11-03/pq_94",
+      "date": "2026-11-03",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-11-03"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Sinéad Gibney",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Sinéad-Gibney.D.2024-11-29",
+        "memberCode": "Sinéad-Gibney.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Defence",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Legislative Measures",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-03/debate/dbsect_25",
+        "debateSectionId": "dbsect_25",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-03/debate/mul@/dbsect_25.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 95,
+      "showAs": "95. Deputy Sinéad Gibney asked the Minister for Defence to provide an update on her plans to remove the requirement for UN authorisation via the Security Council or the General Assembly in order to deploy Irish troops overseas as part of an international force. [77487/26]",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-11-03/pq_95",
+      "date": "2026-11-03",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-11-03"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Donnchadh Ó Laoghaire",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Donnchadh-Ó-Laoghaire.D.2016-10-03",
+        "memberCode": "Donnchadh-Ó-Laoghaire.D.2016-10-03"
+      },
+      "to": {
+        "showAs": "Defence",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Defence Forces",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-03/debate/dbsect_26",
+        "debateSectionId": "dbsect_26",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-03/debate/mul@/dbsect_26.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 96,
+      "showAs": "96. Deputy Donnchadh Ó Laoghaire asked the Minister for Defence if and when she will provide for permission for NCOs to participate in the First Line Reserve of the Defence Forces, given the benefit they can provide in terms of their skill and expertise. [77957/26]",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-11-03/pq_96",
+      "date": "2026-11-03",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-11-03"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Donnchadh Ó Laoghaire",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Donnchadh-Ó-Laoghaire.D.2016-10-03",
+        "memberCode": "Donnchadh-Ó-Laoghaire.D.2016-10-03"
+      },
+      "to": {
+        "showAs": "Defence",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Defence Forces",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-03/debate/dbsect_27",
+        "debateSectionId": "dbsect_27",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-03/debate/mul@/dbsect_27.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 97,
+      "showAs": "97. Deputy Donnchadh Ó Laoghaire asked the Minister for Defence if she will provide a study of the health outcomes relating to former Air Corps aircraft maintenance personnel. [77958/26]",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-11-03/pq_97",
+      "date": "2026-11-03",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-11-03"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Paul Murphy",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Murphy.D.2014-10-10",
+        "memberCode": "Paul-Murphy.D.2014-10-10"
+      },
+      "to": {
+        "showAs": "Defence",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Defence Forces",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-03/debate/dbsect_29",
+        "debateSectionId": "dbsect_29",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-03/debate/mul@/dbsect_29.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 98,
+      "showAs": "98. Deputy Paul Murphy asked the Minister for Defence to provide a detailed explanation of the similarities and differences between the mandates of UNIFIL and the European Union Support Mission in Lebanon; and if she will make a statement on the matter. [77098/26]",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-11-03/pq_98",
+      "date": "2026-11-03",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-11-03"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Maeve O'Connell",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Maeve-O'Connell.D.2024-11-29",
+        "memberCode": "Maeve-O'Connell.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Defence",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Defence Forces",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-03/debate/dbsect_30",
+        "debateSectionId": "dbsect_30",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-03/debate/mul@/dbsect_30.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 99,
+      "showAs": "99. Deputy Maeve O'Connell asked the Minister for Defence if members of the Reserve Defence Forces have received an allowance for additional duties undertaken during Ireland's term as EU President. [75853/26]",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-11-03/pq_99",
+      "date": "2026-11-03",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-11-03"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Pádraig O'Sullivan",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Pádraig-O'Sullivan.D.2019-11-29",
+        "memberCode": "Pádraig-O'Sullivan.D.2019-11-29"
+      },
+      "to": {
+        "showAs": "Defence",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Legislative Process",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-03/debate/dbsect_31",
+        "debateSectionId": "dbsect_31",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-03/debate/mul@/dbsect_31.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 100,
+      "showAs": "100. Deputy Pádraig O'Sullivan asked the Minister for Defence the timeline for progressing the Defence (Amendment) Bill 2026 through the Dáil and Seanad, given that it was published in late June 2026 and is due to come before the Dáil early in this Oireachtas session; and whether the Bill remains on track for enactment by the end of the year. [69260/26]",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-11-03/pq_100",
+      "date": "2026-11-03",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-11-03"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Seán Kyne",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Seán-Kyne.D.2011-03-09",
+        "memberCode": "Seán-Kyne.D.2011-03-09"
+      },
+      "to": {
+        "showAs": "Defence",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Rights of Way",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-03/debate/dbsect_32",
+        "debateSectionId": "dbsect_32",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-03/debate/mul@/dbsect_32.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 101,
+      "showAs": "101. Deputy Seán Kyne asked the Minister for Defence the measures being considered by her Department, in consultation with Galway City Council, to provide alternative access and connectivity following the closure of the walkway along the railway line at Dún Uí Mhaoilíosa Barracks, Renmore, Galway. [77456/26]",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-11-03/pq_101",
+      "date": "2026-11-03",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-11-03"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Catherine Callaghan",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Catherine-Callaghan.D.2024-11-29",
+        "memberCode": "Catherine-Callaghan.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Defence",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Defence Forces",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-03/debate/dbsect_33",
+        "debateSectionId": "dbsect_33",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-03/debate/mul@/dbsect_33.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 102,
+      "showAs": "102. Deputy Catherine Callaghan asked the Minister for Defence whether peace enforcement missions are a new departure for Ireland or whether members of the Defence Forces have historically participated in UN and UN-authorised operations involving robust mandates and the potential use of force to protect civilians, uphold mission mandates or maintain international peace and security. [77449/26]",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-11-03/pq_102",
+      "date": "2026-11-03",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-11-03"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Sinéad Gibney",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Sinéad-Gibney.D.2024-11-29",
+        "memberCode": "Sinéad-Gibney.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Defence",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "United Nations",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-03/debate/dbsect_34",
+        "debateSectionId": "dbsect_34",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-03/debate/mul@/dbsect_34.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 103,
+      "showAs": "103. Deputy Sinéad Gibney asked the Minister for Defence the engagement her Department has had on joining one of the ten UN peacekeeping missions outside of UNIFIL, or any global non-UN missions which have a UN mandate; and if she will make a statement on the matter. [77437/26]",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-11-03/pq_103",
+      "date": "2026-11-03",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-11-03"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Erin McGreehan",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Erin-McGreehan.S.2020-06-29",
+        "memberCode": "Erin-McGreehan.S.2020-06-29"
+      },
+      "to": {
+        "showAs": "Defence",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Defence Forces",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-03/debate/dbsect_29",
+        "debateSectionId": "dbsect_29",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-03/debate/mul@/dbsect_29.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 105,
+      "showAs": "105. Deputy Erin McGreehan asked the Minister for Defence for an update on the final dispatch of Defence Forces peacekeepers to the UNIFIL mission. [76828/26]",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-11-03/pq_105",
+      "date": "2026-11-03",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-11-03"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "James Geoghegan",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/James-Geoghegan.D.2024-11-29",
+        "memberCode": "James-Geoghegan.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Defence",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Legislative Process",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-03/debate/dbsect_31",
+        "debateSectionId": "dbsect_31",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-03/debate/mul@/dbsect_31.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 111,
+      "showAs": "111. Deputy James Geoghegan asked the Minister for Defence to outline the constitutional protections relating to Ireland's participation in an EU common defence, including those introduced following the Nice treaty referendum in 2002; to clarify whether the proposed reforms to the triple lock have any implications for these protections; and if she will make a statement on the matter. [77518/26]",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-11-03/pq_111",
+      "date": "2026-11-03",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-11-03"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "John Clendennen",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/John-Clendennen.D.2024-11-29",
+        "memberCode": "John-Clendennen.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Defence",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Legislative Process",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-03/debate/dbsect_31",
+        "debateSectionId": "dbsect_31",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-03/debate/mul@/dbsect_31.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 113,
+      "showAs": "113. Deputy John Clendennen asked the Minister for Defence the way in which the Defence (Amendment) Bill 2026 will ensure that Ireland’s long-standing policy of military neutrality is maintained while providing greater autonomy in the deployment of Defence Forces personnel overseas. [77379/26]",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-11-03/pq_113",
+      "date": "2026-11-03",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-11-03"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Willie O'Dea",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Willie-O'Dea.D.1982-03-09",
+        "memberCode": "Willie-O'Dea.D.1982-03-09"
+      },
+      "to": {
+        "showAs": "Defence",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Defence Forces",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-03/debate/dbsect_30",
+        "debateSectionId": "dbsect_30",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-03/debate/mul@/dbsect_30.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 136,
+      "showAs": "136. Deputy Willie O'Dea asked the Minister for Defence for a report on the Reserve Defence Forces regeneration plan. [76430/26]",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-11-03/pq_136",
+      "date": "2026-11-03",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-11-03"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Noel McCarthy",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Noel-McCarthy.D.2024-11-29",
+        "memberCode": "Noel-McCarthy.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Defence",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Defence Forces",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-03/debate/dbsect_30",
+        "debateSectionId": "dbsect_30",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-03/debate/mul@/dbsect_30.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 137,
+      "showAs": "137. Deputy Noel McCarthy asked the Minister for Defence to outline the measures her Department is taking to encourage recruitment to the Reserve Defence Forces. [77381/26]",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-11-03/pq_137",
+      "date": "2026-11-03",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-11-03"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Naoise Ó Muirí",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Naoise-Ó-Muirí.D.2024-11-29",
+        "memberCode": "Naoise-Ó-Muirí.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Defence",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "United Nations",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-03/debate/dbsect_34",
+        "debateSectionId": "dbsect_34",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-03/debate/mul@/dbsect_34.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 148,
+      "showAs": "148. Deputy Naoise Ó Muirí asked the Minister for Defence if she will reaffirm Ireland's commitment to United Nations peacekeeping; to outline the contribution made by Irish Defence Forces personnel to UN missions over recent decades; and to clarify whether the proposed legislation will in any way diminish Ireland's ability to participate in UN-led peacekeeping operations. [77494/26]",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-11-03/pq_148",
+      "date": "2026-11-03",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-11-03"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Emer Currie",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Emer-Currie.S.2020-06-29",
+        "memberCode": "Emer-Currie.S.2020-06-29"
+      },
+      "to": {
+        "showAs": "Defence",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Defence Forces",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-03/debate/dbsect_29",
+        "debateSectionId": "dbsect_29",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-03/debate/mul@/dbsect_29.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 175,
+      "showAs": "175. Deputy Emer Currie asked the Minister for Defence to provide an update on her recent visit to Lebanon, including her engagements with Irish peacekeepers serving with UNIFIL, and her assessment of the situation on the ground; and if she will make a statement on the matter. [77466/26]",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-11-03/pq_175",
+      "date": "2026-11-03",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-11-03"
   }
 ]

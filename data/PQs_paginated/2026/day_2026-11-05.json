@@ -1198,5 +1198,485 @@
       }
     },
     "contextDate": "2026-11-05"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Jen Cummins",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Jen-Cummins.D.2024-11-29",
+        "memberCode": "Jen-Cummins.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Further and Higher Education",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Third Level Education",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/debate/dbsect_43",
+        "debateSectionId": "dbsect_43",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/debate/mul@/dbsect_43.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 159,
+      "showAs": "159. Deputy Jen Cummins asked the Minister for Further and Higher Education, Research, Innovation and Science his plans to ensure claims by institutions that advertise third level courses as Teaching Council-recognised are accurate. [78402/26]",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-11-05/pq_159",
+      "date": "2026-11-05",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-11-05"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Donna McGettigan",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Donna-McGettigan.D.2024-11-29",
+        "memberCode": "Donna-McGettigan.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Further and Higher Education",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Student Accommodation",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/debate/dbsect_44",
+        "debateSectionId": "dbsect_44",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/debate/mul@/dbsect_44.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 160,
+      "showAs": "160. Deputy Donna McGettigan asked the Minister for Further and Higher Education, Research, Innovation and Science to provide details of the student accommodation programme that his Department rolled out in 2024; the progress made; and the beds that have been delivered to date. [72061/26]",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-11-05/pq_160",
+      "date": "2026-11-05",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-11-05"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Eoghan Kenny",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Eoghan-Kenny.D.2024-11-29",
+        "memberCode": "Eoghan-Kenny.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Further and Higher Education",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Technological Universities",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/debate/dbsect_45",
+        "debateSectionId": "dbsect_45",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/debate/mul@/dbsect_45.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 161,
+      "showAs": "161. Deputy Eoghan Kenny asked the Minister for Further and Higher Education, Research, Innovation and Science for a full update on the progress of the Wexford campus of the South East Technological University; the status of the master plan for the campus; if student accommodation will form a part of the proposal; when construction is likely to commence on this campus; and if he will make a statement on the matter. [72191/26]",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-11-05/pq_161",
+      "date": "2026-11-05",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-11-05"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Donna McGettigan",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Donna-McGettigan.D.2024-11-29",
+        "memberCode": "Donna-McGettigan.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Further and Higher Education",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Third Level Fees",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/debate/dbsect_46",
+        "debateSectionId": "dbsect_46",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/debate/mul@/dbsect_46.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 162,
+      "showAs": "162. Deputy Donna McGettigan asked the Minister for Further and Higher Education, Research, Innovation and Science when student fees will be completely abolished (details supplied). [72063/26]",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-11-05/pq_162",
+      "date": "2026-11-05",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-11-05"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "John Connolly",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/John-Connolly.D.2024-11-29",
+        "memberCode": "John-Connolly.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Further and Higher Education",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Student Accommodation",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/debate/dbsect_47",
+        "debateSectionId": "dbsect_47",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/debate/mul@/dbsect_47.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 163,
+      "showAs": "163. Deputy John Connolly asked the Minister for Further and Higher Education, Research, Innovation and Science to provide an update on the expression of interest process for the provision of purpose built student accommodation. [72276/26]",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-11-05/pq_163",
+      "date": "2026-11-05",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-11-05"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "James O'Connor",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/James-O'Connor.D.2020-02-08",
+        "memberCode": "James-O'Connor.D.2020-02-08"
+      },
+      "to": {
+        "showAs": "Further and Higher Education",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Third Level Costs",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/debate/dbsect_50",
+        "debateSectionId": "dbsect_50",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/debate/mul@/dbsect_50.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 164,
+      "showAs": "164. Deputy James O'Connor asked the Minister for Further and Higher Education, Research, Innovation and Science the way in which budget 2027 will support students with the costs of third level education. [72044/26]",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-11-05/pq_164",
+      "date": "2026-11-05",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-11-05"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Erin McGreehan",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Erin-McGreehan.S.2020-06-29",
+        "memberCode": "Erin-McGreehan.S.2020-06-29"
+      },
+      "to": {
+        "showAs": "Further and Higher Education",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Apprenticeship Programmes",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/debate/dbsect_51",
+        "debateSectionId": "dbsect_51",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/debate/mul@/dbsect_51.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 168,
+      "showAs": "168. Deputy Erin McGreehan asked the Minister for Further and Higher Education, Research, Innovation and Science his views on the record attendance at WorldSkills Ireland 2026; what this indicates about growing interest among young people in apprenticeships, further education and skills-based careers; the steps he is taking to convert that interest into additional training opportunities; and if he will make a statement on the matter. [71718/26]",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-11-05/pq_168",
+      "date": "2026-11-05",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-11-05"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Aindrias Moynihan",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Aindrias-Moynihan.D.2016-10-03",
+        "memberCode": "Aindrias-Moynihan.D.2016-10-03"
+      },
+      "to": {
+        "showAs": "Further and Higher Education",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Artificial Intelligence",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/debate/dbsect_52",
+        "debateSectionId": "dbsect_52",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/debate/mul@/dbsect_52.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 169,
+      "showAs": "169. Deputy Aindrias Moynihan asked the Minister for Further and Higher Education, Research, Innovation and Science the steps that are being taken to ensure higher education institutions equip students with the skills required for the increasing adoption of AI and emerging technologies across sectors; and if he will make a statement on the matter. [77686/26]",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-11-05/pq_169",
+      "date": "2026-11-05",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-11-05"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Naoise Ó Cearúil",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Naoise-Ó-Cearúil.D.2024-11-29",
+        "memberCode": "Naoise-Ó-Cearúil.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Further and Higher Education",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Research and Development",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/debate/dbsect_53",
+        "debateSectionId": "dbsect_53",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/debate/mul@/dbsect_53.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 171,
+      "showAs": "171. Deputy Naoise Ó Cearúil asked the Minister for Further and Higher Education, Research, Innovation and Science for an update on the expansion of the Tyndall National Institute and the Government’s investment in semiconductor research, artificial intelligence, high-performance computing and quantum technologies. [71707/26]",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-11-05/pq_171",
+      "date": "2026-11-05",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-11-05"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "John Clendennen",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/John-Clendennen.D.2024-11-29",
+        "memberCode": "John-Clendennen.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Further and Higher Education",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Further and Higher Education",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/debate/dbsect_49",
+        "debateSectionId": "dbsect_49",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/debate/mul@/dbsect_49.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 172,
+      "showAs": "172. Deputy John Clendennen asked the Minister for Further and Higher Education, Research, Innovation and Science the actions he intends to take in conjunction with further and higher education providers to address identified regional shortages in advanced digital skills such as artificial intelligence, cybersecurity, data and cloud technologies. [71794/26]",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-11-05/pq_172",
+      "date": "2026-11-05",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-11-05"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Cathy Bennett",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Cathy-Bennett.D.2024-11-29",
+        "memberCode": "Cathy-Bennett.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Further and Higher Education",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Third Level Fees",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/debate/dbsect_54",
+        "debateSectionId": "dbsect_54",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/debate/mul@/dbsect_54.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 174,
+      "showAs": "174. Deputy Cathy Bennett asked the Minister for Further and Higher Education, Research, Innovation and Science the amount that parents and students were expected to pay in third level fees in each of the years 2024, 2025 and 2026; and the amount they will be expected to pay in 2027. [71950/26]",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-11-05/pq_174",
+      "date": "2026-11-05",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-11-05"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Matt Carthy",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Matt-Carthy.D.2020-02-08",
+        "memberCode": "Matt-Carthy.D.2020-02-08"
+      },
+      "to": {
+        "showAs": "Further and Higher Education",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "International Students",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/debate/dbsect_55",
+        "debateSectionId": "dbsect_55",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/debate/mul@/dbsect_55.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "oral",
+      "questionNumber": 193,
+      "showAs": "193. Deputy Matt Carthy asked the Minister for Further and Higher Education, Research, Innovation and Science if his Department has sought or received reports or analysis regarding the number of international students attending high-demand courses in Irish universities; and the findings of such reports or analysis. [71960/26]",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-11-05/pq_193",
+      "date": "2026-11-05",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-11-05"
   }
 ]

@@ -15402,6 +15402,646 @@
   {
     "question": {
       "by": {
+        "showAs": "Thomas Gould",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Thomas-Gould.D.2020-02-08",
+        "memberCode": "Thomas-Gould.D.2020-02-08"
+      },
+      "to": {
+        "showAs": "Health",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "General Practitioner Services",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/dbsect_383",
+        "debateSectionId": "dbsect_383",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/mul@/dbsect_383.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 445,
+      "showAs": "445. Deputy Thomas Gould asked the Minister for Health the number of patients seen in Southdoc, Kinsale Road with an Eircode address starting in T23 in October 2019, 2024, 2025, and 2026. [78356/26]",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-11-05/pq_445",
+      "date": "2026-11-05",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-11-05"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Thomas Gould",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Thomas-Gould.D.2020-02-08",
+        "memberCode": "Thomas-Gould.D.2020-02-08"
+      },
+      "to": {
+        "showAs": "Health",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "General Practitioner Services",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/dbsect_384",
+        "debateSectionId": "dbsect_384",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/mul@/dbsect_384.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 446,
+      "showAs": "446. Deputy Thomas Gould asked the Minister for Health the number of patients seen in Southdoc Blackpool in October 2019, 2024, 2025 and 2026. [78355/26]",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-11-05/pq_446",
+      "date": "2026-11-05",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-11-05"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Donna McGettigan",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Donna-McGettigan.D.2024-11-29",
+        "memberCode": "Donna-McGettigan.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Health",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Homeless Persons Supports",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/dbsect_385",
+        "debateSectionId": "dbsect_385",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/mul@/dbsect_385.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 448,
+      "showAs": "448. Deputy Donna McGettigan asked the Minister for Health the steps her Department is taking in conjunction with the HSE and Clare County Council to mitigate the risk of delayed hospital discharges at University Hospital Limerick and Ennis Hospital due to the national shortfall of 500 step-down, supported homeless beds; and the current number of individuals facing delayed discharge in the region due to a lack of appropriate medical-social step-down accommodation. [78346/26]",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-11-05/pq_448",
+      "date": "2026-11-05",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-11-05"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Pádraig Rice",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Pádraig-Rice.D.2024-11-29",
+        "memberCode": "Pádraig-Rice.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Health",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Hospital Equipment",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/dbsect_386",
+        "debateSectionId": "dbsect_386",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/mul@/dbsect_386.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 449,
+      "showAs": "449. Deputy Pádraig Rice asked the Minister for Health the number of ICU beds that have been delivered in each of the years 2020 to 2025 and to date in 2026, by site, in tabular form; and the remaining number planned for delivery in the coming years. [78485/26]",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-11-05/pq_449",
+      "date": "2026-11-05",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-11-05"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Pádraig Rice",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Pádraig-Rice.D.2024-11-29",
+        "memberCode": "Pádraig-Rice.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Health",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Hospital Services",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/dbsect_387",
+        "debateSectionId": "dbsect_387",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/mul@/dbsect_387.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 450,
+      "showAs": "450. Deputy Pádraig Rice asked the Minister for Health the status of a proposal to expand the endoscopy unit in Cork University Hospital; the current available provision in the existing unit; the expansion sought under this proposal; and if she will commit to funding the expansion. [78483/26]",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-11-05/pq_450",
+      "date": "2026-11-05",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-11-05"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Pádraig Rice",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Pádraig-Rice.D.2024-11-29",
+        "memberCode": "Pádraig-Rice.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Health",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Health Service Executive",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/dbsect_388",
+        "debateSectionId": "dbsect_388",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/mul@/dbsect_388.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 451,
+      "showAs": "451. Deputy Pádraig Rice asked the Minister for Health the amount spent by the HSE on private hospital bed capacity in each of the years 2020 to 2025 and to date in 2026. [78482/26]",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-11-05/pq_451",
+      "date": "2026-11-05",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-11-05"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Pádraig Rice",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Pádraig-Rice.D.2024-11-29",
+        "memberCode": "Pádraig-Rice.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Health",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Hospital Facilities",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/dbsect_389",
+        "debateSectionId": "dbsect_389",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/mul@/dbsect_389.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 452,
+      "showAs": "452. Deputy Pádraig Rice asked the Minister for Health the estimated daily and annual cost of contracting a private hospital bed to increase capacity. [78481/26]",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-11-05/pq_452",
+      "date": "2026-11-05",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-11-05"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Pádraig Rice",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Pádraig-Rice.D.2024-11-29",
+        "memberCode": "Pádraig-Rice.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Health",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Hospital Services",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/dbsect_390",
+        "debateSectionId": "dbsect_390",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/mul@/dbsect_390.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 453,
+      "showAs": "453. Deputy Pádraig Rice asked the Minister for Health the average daily and annual cost of running an acute inpatient bed, ICU bed, sub-acute bed and community bed, by cost type. [78480/26]",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-11-05/pq_453",
+      "date": "2026-11-05",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-11-05"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Pádraig Rice",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Pádraig-Rice.D.2024-11-29",
+        "memberCode": "Pádraig-Rice.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Health",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Proposed Legislation",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/dbsect_391",
+        "debateSectionId": "dbsect_391",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/mul@/dbsect_391.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 454,
+      "showAs": "454. Deputy Pádraig Rice asked the Minister for Health the status of the Patient Safety (Licensing) Bill; and the timeline for publication. [78479/26]",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-11-05/pq_454",
+      "date": "2026-11-05",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-11-05"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Pádraig Rice",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Pádraig-Rice.D.2024-11-29",
+        "memberCode": "Pádraig-Rice.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Health",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Health Service Executive",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/dbsect_392",
+        "debateSectionId": "dbsect_392",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/mul@/dbsect_392.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 455,
+      "showAs": "455. Deputy Pádraig Rice asked the Minister for Health the number of external home support providers contracted by the HSE; and to provide a list of their names. [78478/26]",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-11-05/pq_455",
+      "date": "2026-11-05",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-11-05"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Pádraig Rice",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Pádraig-Rice.D.2024-11-29",
+        "memberCode": "Pádraig-Rice.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Health",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Health Services Staff",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/dbsect_393",
+        "debateSectionId": "dbsect_393",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/mul@/dbsect_393.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 456,
+      "showAs": "456. Deputy Pádraig Rice asked the Minister for Health if the HSE conducted a comprehensive national audit of sonographer qualifications across contracted providers following a media report (details supplied); if any investigations or corrective actions were taken; and if the HSE will undertake an independent national review and publish its findings, including any identified contractual non-compliance. [78477/26]",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-11-05/pq_456",
+      "date": "2026-11-05",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-11-05"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Pádraig Rice",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Pádraig-Rice.D.2024-11-29",
+        "memberCode": "Pádraig-Rice.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Health",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Health Services Staff",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/dbsect_394",
+        "debateSectionId": "dbsect_394",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/mul@/dbsect_394.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 457,
+      "showAs": "457. Deputy Pádraig Rice asked the Minister for Health if the HSE confirmed that all practitioners conducting publicly funded ultrasound examinations meet the stipulated postgraduate qualification requirements or formally recognised equivalents; and the manner in which such assurances were sought and verified. [78476/26]",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-11-05/pq_457",
+      "date": "2026-11-05",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-11-05"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Jennifer Whitmore",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Jennifer-Whitmore.D.2020-02-08",
+        "memberCode": "Jennifer-Whitmore.D.2020-02-08"
+      },
+      "to": {
+        "showAs": "Health",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Medical Aids and Appliances",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/dbsect_395",
+        "debateSectionId": "dbsect_395",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/mul@/dbsect_395.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 458,
+      "showAs": "458. Deputy Jennifer Whitmore asked the Minister for Health if realistic external nipple areola prostheses can be included under the national post-mastectomy allowance; and if she will make a statement on the matter. [78489/26]",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-11-05/pq_458",
+      "date": "2026-11-05",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-11-05"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Pádraig Rice",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Pádraig-Rice.D.2024-11-29",
+        "memberCode": "Pádraig-Rice.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Health",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Cancer Services",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/dbsect_396",
+        "debateSectionId": "dbsect_396",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/mul@/dbsect_396.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 459,
+      "showAs": "459. Deputy Pádraig Rice asked the Minister for Health further to Parliamentary Question No. 3157 of 14 April 2026, if the HSE mid west's position remains unchanged regarding the outsourcing of radiotherapy to a new private provider in Limerick (details supplied). [78475/26]",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-11-05/pq_459",
+      "date": "2026-11-05",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-11-05"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Pádraig Rice",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Pádraig-Rice.D.2024-11-29",
+        "memberCode": "Pádraig-Rice.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Health",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Healthcare Policy",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/dbsect_397",
+        "debateSectionId": "dbsect_397",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/mul@/dbsect_397.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 460,
+      "showAs": "460. Deputy Pádraig Rice asked the Minister for Health further to Parliamentary Question No. 1228 of 28 April 2026, to provide an update on the review of the national tobacco control policy, Tobacco Free Ireland; and if it is still her intention to publish the revised policy by year end. [78474/26]",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-11-05/pq_460",
+      "date": "2026-11-05",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-11-05"
+  },
+  {
+    "question": {
+      "by": {
+        "showAs": "Pádraig Rice",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Pádraig-Rice.D.2024-11-29",
+        "memberCode": "Pádraig-Rice.D.2024-11-29"
+      },
+      "to": {
+        "showAs": "Health",
+        "uri": null,
+        "roleType": null,
+        "roleCode": null
+      },
+      "debateSection": {
+        "showAs": "Hospital Services",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/dbsect_398",
+        "debateSectionId": "dbsect_398",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/mul@/dbsect_398.xml"
+          },
+          "pdf": null
+        }
+      },
+      "questionType": "written",
+      "questionNumber": 461,
+      "showAs": "461. Deputy Pádraig Rice asked the Minister for Health to outline in detail the reason the south west surgical hub was closed temporarily (details supplied); the length of time it was closed; the manner in which the issues which lead to its closure were identified; the date these issues were identified; and the number of patients seen in the new hub between its opening and temporary closure. [78473/26]",
+      "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2026-11-05/pq_461",
+      "date": "2026-11-05",
+      "house": {
+        "showAs": "34th Dáil",
+        "committeeCode": "",
+        "houseCode": "dail",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+        "chamberType": "house",
+        "houseNo": "34"
+      }
+    },
+    "contextDate": "2026-11-05"
+  },
+  {
+    "question": {
+      "by": {
         "showAs": "Paul Lawless",
         "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Lawless.D.2024-11-29",
         "memberCode": "Paul-Lawless.D.2024-11-29"
@@ -15414,11 +16054,11 @@
       },
       "debateSection": {
         "showAs": "Hospital Services",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/dbsect_383",
-        "debateSectionId": "dbsect_383",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/dbsect_400",
+        "debateSectionId": "dbsect_400",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/mul@/dbsect_383.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/mul@/dbsect_400.xml"
           },
           "pdf": null
         }
@@ -15454,11 +16094,11 @@
       },
       "debateSection": {
         "showAs": "Hospital Services",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/dbsect_384",
-        "debateSectionId": "dbsect_384",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/dbsect_401",
+        "debateSectionId": "dbsect_401",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/mul@/dbsect_384.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/mul@/dbsect_401.xml"
           },
           "pdf": null
         }
@@ -15494,11 +16134,11 @@
       },
       "debateSection": {
         "showAs": "Hospital Services",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/dbsect_385",
-        "debateSectionId": "dbsect_385",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/dbsect_402",
+        "debateSectionId": "dbsect_402",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/mul@/dbsect_385.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/mul@/dbsect_402.xml"
           },
           "pdf": null
         }
@@ -15534,11 +16174,11 @@
       },
       "debateSection": {
         "showAs": "Hospital Services",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/dbsect_385",
-        "debateSectionId": "dbsect_385",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/dbsect_402",
+        "debateSectionId": "dbsect_402",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/mul@/dbsect_385.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/mul@/dbsect_402.xml"
           },
           "pdf": null
         }
@@ -15574,11 +16214,11 @@
       },
       "debateSection": {
         "showAs": "Hospital Services",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/dbsect_385",
-        "debateSectionId": "dbsect_385",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/dbsect_402",
+        "debateSectionId": "dbsect_402",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/mul@/dbsect_385.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/mul@/dbsect_402.xml"
           },
           "pdf": null
         }
@@ -15614,11 +16254,11 @@
       },
       "debateSection": {
         "showAs": "Hospital Investigations",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/dbsect_386",
-        "debateSectionId": "dbsect_386",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/dbsect_403",
+        "debateSectionId": "dbsect_403",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/mul@/dbsect_386.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/mul@/dbsect_403.xml"
           },
           "pdf": null
         }
@@ -15654,11 +16294,11 @@
       },
       "debateSection": {
         "showAs": "Community Care",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/dbsect_387",
-        "debateSectionId": "dbsect_387",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/dbsect_404",
+        "debateSectionId": "dbsect_404",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/mul@/dbsect_387.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/mul@/dbsect_404.xml"
           },
           "pdf": null
         }
@@ -15694,11 +16334,11 @@
       },
       "debateSection": {
         "showAs": "Medicinal Products",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/dbsect_388",
-        "debateSectionId": "dbsect_388",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/dbsect_405",
+        "debateSectionId": "dbsect_405",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/mul@/dbsect_388.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/mul@/dbsect_405.xml"
           },
           "pdf": null
         }
@@ -15734,11 +16374,11 @@
       },
       "debateSection": {
         "showAs": "Health Services",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/dbsect_389",
-        "debateSectionId": "dbsect_389",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/dbsect_406",
+        "debateSectionId": "dbsect_406",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/mul@/dbsect_389.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/mul@/dbsect_406.xml"
           },
           "pdf": null
         }
@@ -15774,11 +16414,11 @@
       },
       "debateSection": {
         "showAs": "Hospital Facilities",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/dbsect_390",
-        "debateSectionId": "dbsect_390",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/dbsect_407",
+        "debateSectionId": "dbsect_407",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/mul@/dbsect_390.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/mul@/dbsect_407.xml"
           },
           "pdf": null
         }
@@ -15814,11 +16454,11 @@
       },
       "debateSection": {
         "showAs": "Health Services",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/dbsect_391",
-        "debateSectionId": "dbsect_391",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/dbsect_408",
+        "debateSectionId": "dbsect_408",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/mul@/dbsect_391.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/mul@/dbsect_408.xml"
           },
           "pdf": null
         }
@@ -15854,11 +16494,11 @@
       },
       "debateSection": {
         "showAs": "Departmental Reviews",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/dbsect_392",
-        "debateSectionId": "dbsect_392",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/dbsect_409",
+        "debateSectionId": "dbsect_409",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/mul@/dbsect_392.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/mul@/dbsect_409.xml"
           },
           "pdf": null
         }
@@ -15894,11 +16534,11 @@
       },
       "debateSection": {
         "showAs": "Departmental Reviews",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/dbsect_393",
-        "debateSectionId": "dbsect_393",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/dbsect_410",
+        "debateSectionId": "dbsect_410",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/mul@/dbsect_393.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/mul@/dbsect_410.xml"
           },
           "pdf": null
         }
@@ -15934,11 +16574,11 @@
       },
       "debateSection": {
         "showAs": "Medicinal Products",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/dbsect_394",
-        "debateSectionId": "dbsect_394",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/dbsect_411",
+        "debateSectionId": "dbsect_411",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/mul@/dbsect_394.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/mul@/dbsect_411.xml"
           },
           "pdf": null
         }
@@ -15974,11 +16614,11 @@
       },
       "debateSection": {
         "showAs": "Medicinal Products",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/dbsect_395",
-        "debateSectionId": "dbsect_395",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/dbsect_412",
+        "debateSectionId": "dbsect_412",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/mul@/dbsect_395.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/mul@/dbsect_412.xml"
           },
           "pdf": null
         }
@@ -16014,11 +16654,11 @@
       },
       "debateSection": {
         "showAs": "Medicinal Products",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/dbsect_394",
-        "debateSectionId": "dbsect_394",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/dbsect_411",
+        "debateSectionId": "dbsect_411",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/mul@/dbsect_394.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/mul@/dbsect_411.xml"
           },
           "pdf": null
         }
@@ -16054,11 +16694,11 @@
       },
       "debateSection": {
         "showAs": "Health Services",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/dbsect_397",
-        "debateSectionId": "dbsect_397",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/dbsect_414",
+        "debateSectionId": "dbsect_414",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/mul@/dbsect_397.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/mul@/dbsect_414.xml"
           },
           "pdf": null
         }
@@ -16094,11 +16734,11 @@
       },
       "debateSection": {
         "showAs": "Health Services Staff",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/dbsect_398",
-        "debateSectionId": "dbsect_398",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/dbsect_415",
+        "debateSectionId": "dbsect_415",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/mul@/dbsect_398.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/mul@/dbsect_415.xml"
           },
           "pdf": null
         }
@@ -16134,11 +16774,11 @@
       },
       "debateSection": {
         "showAs": "Hospital Facilities",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/dbsect_399",
-        "debateSectionId": "dbsect_399",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/dbsect_416",
+        "debateSectionId": "dbsect_416",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/mul@/dbsect_399.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/mul@/dbsect_416.xml"
           },
           "pdf": null
         }
@@ -16174,11 +16814,11 @@
       },
       "debateSection": {
         "showAs": "Food Safety",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/dbsect_400",
-        "debateSectionId": "dbsect_400",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/dbsect_417",
+        "debateSectionId": "dbsect_417",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/mul@/dbsect_400.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/mul@/dbsect_417.xml"
           },
           "pdf": null
         }
@@ -16214,11 +16854,11 @@
       },
       "debateSection": {
         "showAs": "Food Safety",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/dbsect_400",
-        "debateSectionId": "dbsect_400",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/dbsect_417",
+        "debateSectionId": "dbsect_417",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/mul@/dbsect_400.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/mul@/dbsect_417.xml"
           },
           "pdf": null
         }
@@ -16254,11 +16894,11 @@
       },
       "debateSection": {
         "showAs": "Food Safety",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/dbsect_400",
-        "debateSectionId": "dbsect_400",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/dbsect_417",
+        "debateSectionId": "dbsect_417",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/mul@/dbsect_400.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/mul@/dbsect_417.xml"
           },
           "pdf": null
         }
@@ -16294,11 +16934,11 @@
       },
       "debateSection": {
         "showAs": "Nursing Homes",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/dbsect_401",
-        "debateSectionId": "dbsect_401",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/dbsect_418",
+        "debateSectionId": "dbsect_418",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/mul@/dbsect_401.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/mul@/dbsect_418.xml"
           },
           "pdf": null
         }
@@ -16334,11 +16974,11 @@
       },
       "debateSection": {
         "showAs": "Legislative Measures",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/dbsect_402",
-        "debateSectionId": "dbsect_402",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/dbsect_419",
+        "debateSectionId": "dbsect_419",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/mul@/dbsect_402.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/mul@/dbsect_419.xml"
           },
           "pdf": null
         }
@@ -16374,11 +17014,11 @@
       },
       "debateSection": {
         "showAs": "Departmental Reviews",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/dbsect_393",
-        "debateSectionId": "dbsect_393",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/dbsect_410",
+        "debateSectionId": "dbsect_410",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/mul@/dbsect_393.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/mul@/dbsect_410.xml"
           },
           "pdf": null
         }
@@ -16414,11 +17054,11 @@
       },
       "debateSection": {
         "showAs": "Departmental Reviews",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/dbsect_403",
-        "debateSectionId": "dbsect_403",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/dbsect_420",
+        "debateSectionId": "dbsect_420",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/mul@/dbsect_403.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/mul@/dbsect_420.xml"
           },
           "pdf": null
         }
@@ -16454,11 +17094,11 @@
       },
       "debateSection": {
         "showAs": "Nursing Homes",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/dbsect_404",
-        "debateSectionId": "dbsect_404",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/dbsect_421",
+        "debateSectionId": "dbsect_421",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/mul@/dbsect_404.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/mul@/dbsect_421.xml"
           },
           "pdf": null
         }
@@ -16494,11 +17134,11 @@
       },
       "debateSection": {
         "showAs": "Health Services",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/dbsect_405",
-        "debateSectionId": "dbsect_405",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/dbsect_422",
+        "debateSectionId": "dbsect_422",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/mul@/dbsect_405.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/mul@/dbsect_422.xml"
           },
           "pdf": null
         }
@@ -16534,11 +17174,11 @@
       },
       "debateSection": {
         "showAs": "Health Services",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/dbsect_406",
-        "debateSectionId": "dbsect_406",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/dbsect_423",
+        "debateSectionId": "dbsect_423",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/mul@/dbsect_406.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/mul@/dbsect_423.xml"
           },
           "pdf": null
         }
@@ -16574,11 +17214,11 @@
       },
       "debateSection": {
         "showAs": "Further and Higher Education",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/dbsect_407",
-        "debateSectionId": "dbsect_407",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/dbsect_424",
+        "debateSectionId": "dbsect_424",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/mul@/dbsect_407.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/mul@/dbsect_424.xml"
           },
           "pdf": null
         }
@@ -16614,11 +17254,11 @@
       },
       "debateSection": {
         "showAs": "Teaching Council of Ireland",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/dbsect_408",
-        "debateSectionId": "dbsect_408",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/dbsect_425",
+        "debateSectionId": "dbsect_425",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/mul@/dbsect_408.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/mul@/dbsect_425.xml"
           },
           "pdf": null
         }
@@ -16654,11 +17294,11 @@
       },
       "debateSection": {
         "showAs": "Youth Services",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/dbsect_409",
-        "debateSectionId": "dbsect_409",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/dbsect_426",
+        "debateSectionId": "dbsect_426",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/mul@/dbsect_409.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/mul@/dbsect_426.xml"
           },
           "pdf": null
         }
@@ -16694,11 +17334,11 @@
       },
       "debateSection": {
         "showAs": "Youth Services",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/dbsect_409",
-        "debateSectionId": "dbsect_409",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/dbsect_426",
+        "debateSectionId": "dbsect_426",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/mul@/dbsect_409.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/mul@/dbsect_426.xml"
           },
           "pdf": null
         }
@@ -16734,11 +17374,11 @@
       },
       "debateSection": {
         "showAs": "Departmental Schemes",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/dbsect_411",
-        "debateSectionId": "dbsect_411",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/dbsect_428",
+        "debateSectionId": "dbsect_428",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/mul@/dbsect_411.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/mul@/dbsect_428.xml"
           },
           "pdf": null
         }
@@ -16774,11 +17414,11 @@
       },
       "debateSection": {
         "showAs": "Civil Service",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/dbsect_412",
-        "debateSectionId": "dbsect_412",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/dbsect_429",
+        "debateSectionId": "dbsect_429",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/mul@/dbsect_412.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/mul@/dbsect_429.xml"
           },
           "pdf": null
         }
@@ -16814,11 +17454,11 @@
       },
       "debateSection": {
         "showAs": "Departmental Schemes",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/dbsect_413",
-        "debateSectionId": "dbsect_413",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/dbsect_430",
+        "debateSectionId": "dbsect_430",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/mul@/dbsect_413.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/mul@/dbsect_430.xml"
           },
           "pdf": null
         }
@@ -16854,11 +17494,11 @@
       },
       "debateSection": {
         "showAs": "Departmental Schemes",
-        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/dbsect_414",
-        "debateSectionId": "dbsect_414",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/dbsect_431",
+        "debateSectionId": "dbsect_431",
         "formats": {
           "xml": {
-            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/mul@/dbsect_414.xml"
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2026-11-05/writtens/mul@/dbsect_431.xml"
           },
           "pdf": null
         }

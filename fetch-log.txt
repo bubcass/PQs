@@ -1,12 +1,8 @@
-🕓 PQ fetch started at Thu Nov 26 10:17:00 UTC 2026
+🕓 PQ fetch started at Fri Nov 27 10:23:55 UTC 2026
 Mode: daily
-End date (UTC): 2026-11-25
+End date (UTC): 2026-11-26
 Rolling window days: 30
-Refreshing range: 2026-10-27 → 2026-11-25
-📅 Fetching: 2026-10-27 (year 2026)
-✅ 2026-10-27 complete — no more results after page 0
-💾 Wrote data/PQs_paginated/2026/day_2026-10-27.json
-🕒 Sleeping 3s...
+Refreshing range: 2026-10-28 → 2026-11-26
 📅 Fetching: 2026-10-28 (year 2026)
 ✅ 2026-10-28 complete — no more results after page 0
 💾 Wrote data/PQs_paginated/2026/day_2026-10-28.json
@@ -50,7 +46,7 @@ Refreshing range: 2026-10-27 → 2026-11-25
 🕒 Sleeping 3s...
 📅 Fetching: 2026-11-05 (year 2026)
 ✅ Page 0 for 2026-11-05 OK — 300 results
-✅ Page 1 for 2026-11-05 OK — 138 results
+✅ Page 1 for 2026-11-05 OK — 144 results
 ✅ 2026-11-05 complete — no more results after page 2
 💾 Wrote data/PQs_paginated/2026/day_2026-11-05.json
 🕒 Sleeping 3s...
@@ -141,13 +137,20 @@ Refreshing range: 2026-10-27 → 2026-11-25
 💾 Wrote data/PQs_paginated/2026/day_2026-11-23.json
 🕒 Sleeping 3s...
 📅 Fetching: 2026-11-24 (year 2026)
-✅ Page 0 for 2026-11-24 OK — 50 results
-✅ 2026-11-24 complete — no more results after page 1
+✅ Page 0 for 2026-11-24 OK — 300 results
+✅ Page 1 for 2026-11-24 OK — 300 results
+✅ Page 2 for 2026-11-24 OK — 136 results
+✅ 2026-11-24 complete — no more results after page 3
 💾 Wrote data/PQs_paginated/2026/day_2026-11-24.json
 🕒 Sleeping 3s...
 📅 Fetching: 2026-11-25 (year 2026)
 ✅ 2026-11-25 complete — no more results after page 0
 💾 Wrote data/PQs_paginated/2026/day_2026-11-25.json
 🕒 Sleeping 3s...
+📅 Fetching: 2026-11-26 (year 2026)
+✅ Page 0 for 2026-11-26 OK — 26 results
+✅ 2026-11-26 complete — no more results after page 1
+💾 Wrote data/PQs_paginated/2026/day_2026-11-26.json
+🕒 Sleeping 3s...
 🚀 Merging year 2026...
-✅ PQ fetch completed at Thu Nov 26 10:21:23 UTC 2026
+✅ PQ fetch completed at Fri Nov 27 10:28:28 UTC 2026
